@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_003aspace_ref13</field>
+    <field name="ead_ssi">photos_003</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Helena Born Photographs</field>
+    <field name="collection_ssm">Helena Born Photographs</field>
+    <field name="collection_unitid_ssm">PHOTOS.003</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Inventory</field>
+    <field name="unittitle_teim">Inventory</field>
+    <field name="ref_ssi">aspace_ref13</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Helena Born Photographs</field>
+    <field name="collection_unitid_teim">PHOTOS.003</field>
+    <field name="series_si">Inventory</field>
+    <field name="heading_ssm">Inventory</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

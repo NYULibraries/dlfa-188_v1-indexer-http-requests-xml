@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_008aspace_ref15</field>
+    <field name="ead_ssi">photos_008</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Inventory</field>
+    <field name="parent_unittitles_teim">Inventory</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Charles Solomon Photographs</field>
+    <field name="collection_ssm">Charles Solomon Photographs</field>
+    <field name="collection_unitid_ssm">PHOTOS.008/repositories/2/resources/523</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Speaking (7 items)</field>
+    <field name="unittitle_teim">Speaking (7 items)</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/71426</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/71426</field>
+    <field name="unitdate_normal_ssm">1932/1936</field>
+    <field name="unitdate_normal_teim">1932/1936</field>
+    <field name="unitdate_normal_sim">1932/1936</field>
+    <field name="unitdate_inclusive_teim">1932 , 1936</field>
+    <field name="ref_ssi">aspace_ref15</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Charles Solomon Photographs</field>
+    <field name="collection_unitid_teim">PHOTOS.008/repositories/2/resources/523</field>
+    <field name="series_sim">Inventory</field>
+    <field name="series_si">Inventory &gt;&gt; Speaking (7 items)</field>
+    <field name="heading_ssm">Speaking (7 items)</field>
+    <field name="unitdate_start_sim">1932</field>
+    <field name="unitdate_start_ssm">1932</field>
+    <field name="unitdate_start_si">1932</field>
+    <field name="unitdate_end_sim">1936</field>
+    <field name="unitdate_end_ssm">1936</field>
+    <field name="unitdate_end_si">1936</field>
+    <field name="unitdate_ssm">Inclusive, 1932 , 1936</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

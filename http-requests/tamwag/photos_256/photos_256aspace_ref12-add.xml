@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_256aspace_ref12</field>
+    <field name="ead_ssi">photos_256</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Service Employees International Union, Local 32BJ Photographs and Archived Websites</field>
+    <field name="collection_ssm">Service Employees International Union, Local 32BJ Photographs and Archived Websites</field>
+    <field name="collection_unitid_ssm">PHOTOS.256/repositories/2/resources/611</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Archived Websites</field>
+    <field name="unittitle_teim">Archived Websites</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/152477</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/152477</field>
+    <field name="unitdate_normal_ssm">2009-08-08/2009-08-08</field>
+    <field name="unitdate_normal_teim">2009-08-08/2009-08-08</field>
+    <field name="unitdate_normal_sim">2009-08-08/2009-08-08</field>
+    <field name="unitdate_teim">August 2009-ongoing</field>
+    <field name="scopecontent_teim">Service Employees International Union (SEIU), 32BJ is a New York based property service workers union, made up of approximately 120,000 workers (as of this writing in 2013). It was founded in 1921 as the Building Service Employees International Union. In 1968 the union was renamed the Service Employees International Union and in 1977, the Local 32B union had merged with Local 32J. Today, the union's members consists of primarily janitors, property maintenance workers, doormen, security officers, window cleaners, building engineers, and school and food service workers. The website contains a blog, information on the activities of their political action committee, contracts, and campaigns. Also includes the website for the Building Service 32BJ Benefit Funds. The website contains information on health, training, pension, Retirement savings, and legal services benefits for Local 32BJ members. </field>
+    <field name="scopecontent_teim">Protect All Workers is an initiative by the SEIU to demand from major industries and corporations to protect workers during the COVID-19 pandemic. They demand fully-funded, accessible healthcare for every worker, including paid leave and 100%-paid testing and treatment for COVID-19; job, wage, and economic security for every worker; immediate investment in the health and safety of every worker; and working families at the center of every emergency relief package. The website contains videos from their #WalkOutWednesday series, demand letters, a petition, specific industry demands, and press releases. </field>
+    <field name="scopecontent_teim">Protect All Immigrants is an initiative by the SEIU to demand from major industries and corporations to protect immigrant workers during the COVID-19 pandemic. They demand fully-funded, accessible healthcare for every worker, including paid leave and 100%-paid testing and treatment for COVID-19; job, wage, and economic security for every worker including immigrants; immediate investment in the health and safety of every worker; immigrant families at the center of every emergency relief package; access to resource information in immigrants' languages; and a rejection of Anti-Asian attacks. The website contains profiles of immigrant essential workers, resources to help immigrant families navigate through the coronavirus crisis, and news. The website is also in Spanish.</field>
+    <field name="scopecontent_teim">Also includes the Twitter feed for the Service Employees International Union, Local 32BJ. Feed was initially captured to collect bargaining materials during the contract expiration of residential building service workers in New York City in April 2022. An agreement was reached to avert a strike. The feed contains news from the union and images and videos from events and rallies.</field>
+    <field name="scopecontent_teim">Lastly, the YouTube channel for the Service Employees International Union, Local 32BJ was captured. Videos date back to 2009. Video subjects include Justice for Janitors Day, apartment building workers, September 11th commemoration, member interviews, rallies, office cleaners, airport workers, security officers, get out the vote and endorsement campaigns, climate march, High Line workers, fast food workers, hazard pay, and strike and contract negotiations. </field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of seiu32bj.org, protectallworkers.org, protectallimmigrants.org/, 32bjfunds.org, findadoctor.32bjfunds.org, legacy.32bjfunds.org, training.32bjfunds.org, health.32bjfunds.org, pension.32bjfunds.org, legal.32bjfunds.org in order to remain within the collection scope and data constraints. Facebook was blocked.</field>
+    <field name="appraisal_teim">In 2023, YouTube URLs were changed to better capture the videos on the channel.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">Service Employees International Union, Local 32BJ Archived Website: August 2009-ongoing</field>
+    <field name="dao_teim">Service Employees International Union 32BJ Benefit Funds Archived Website: April 2013-November 2019</field>
+    <field name="dao_teim">Protect All Workers Archived Website: April 2020-ongoing</field>
+    <field name="dao_teim">Protect All Immigrants Archived Website: May 2020-ongoing</field>
+    <field name="dao_teim">Service Employees International Union, Local 32BJ YouTube Archived Website: February 2022-August 2023</field>
+    <field name="dao_teim">Service Employees International Union, Local 32BJ Twitter Archived Webiste: February 2016-ongoing</field>
+    <field name="dao_teim">Service Employees International Union, Local 32BJ YouTube Archived Website: September 2023-ongoing</field>
+    <field name="dao_ssm">Service Employees International Union, Local 32BJ Archived Website: August 2009-ongoing</field>
+    <field name="dao_ssm">Service Employees International Union 32BJ Benefit Funds Archived Website: April 2013-November 2019</field>
+    <field name="dao_ssm">Protect All Workers Archived Website: April 2020-ongoing</field>
+    <field name="dao_ssm">Protect All Immigrants Archived Website: May 2020-ongoing</field>
+    <field name="dao_ssm">Service Employees International Union, Local 32BJ YouTube Archived Website: February 2022-August 2023</field>
+    <field name="dao_ssm">Service Employees International Union, Local 32BJ Twitter Archived Webiste: February 2016-ongoing</field>
+    <field name="dao_ssm">Service Employees International Union, Local 32BJ YouTube Archived Website: September 2023-ongoing</field>
+    <field name="ref_ssi">aspace_ref12</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records</field>
+    <field name="location_si">Box: Electronic Records</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Service Employees International Union, Local 32BJ Photographs and Archived Websites</field>
+    <field name="collection_unitid_teim">PHOTOS.256/repositories/2/resources/611</field>
+    <field name="series_si">Archived Websites</field>
+    <field name="heading_ssm">Archived Websites</field>
+    <field name="unitdate_ssm">August 2009-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

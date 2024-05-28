@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_066aspace_ref35</field>
+    <field name="ead_ssi">photos_066</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series I: Photographic Prints, 1902-1991.</field>
+    <field name="parent_unittitles_teim">Series I: Photographic Prints, 1902-1991.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Greenwich House Photographs</field>
+    <field name="collection_ssm">Greenwich House Photographs</field>
+    <field name="collection_unitid_ssm">PHOTOS.066</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Board Members-Unidentified (42 photographs, 3 contact sheets, 4 small contact prints)</field>
+    <field name="unittitle_teim">Board Members-Unidentified (42 photographs, 3 contact sheets, 4 small contact prints)</field>
+    <field name="unitdate_normal_ssm">1920/1969</field>
+    <field name="unitdate_normal_teim">1920/1969</field>
+    <field name="unitdate_normal_sim">1920/1969</field>
+    <field name="unitdate_inclusive_teim">[1920s-1930s, 1950s- 1960s]</field>
+    <field name="ref_ssi">aspace_ref35</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 21</field>
+    <field name="location_ssm">Folder: 21</field>
+    <field name="location_si">Folder: 21</field>
+    <field name="collection_teim">Greenwich House Photographs</field>
+    <field name="collection_unitid_teim">PHOTOS.066</field>
+    <field name="series_sim">Series I: Photographic Prints, 1902-1991.</field>
+    <field name="series_si">Series I: Photographic Prints, 1902-1991. &gt;&gt; Board Members-Unidentified (42 photographs, 3 contact sheets, 4 small contact prints)</field>
+    <field name="heading_ssm">Board Members-Unidentified (42 photographs, 3 contact sheets, 4 small contact prints)</field>
+    <field name="unitdate_start_sim">1920</field>
+    <field name="unitdate_start_ssm">1920</field>
+    <field name="unitdate_start_si">1920</field>
+    <field name="unitdate_end_sim">1969</field>
+    <field name="unitdate_end_ssm">1969</field>
+    <field name="unitdate_end_si">1969</field>
+    <field name="unitdate_ssm">Inclusive, [1920s-1930s, 1950s- 1960s]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">22</field>
+  </doc>
+</add>

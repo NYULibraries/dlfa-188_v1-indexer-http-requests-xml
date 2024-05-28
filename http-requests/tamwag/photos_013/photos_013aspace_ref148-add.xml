@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_013aspace_ref148</field>
+    <field name="ead_ssi">photos_013</field>
+    <field name="parent_ssi">aspace_ref144</field>
+    <field name="parent_ssm">aspace_ref144</field>
+    <field name="parent_unittitles_ssm">Series VI: Miscellaneous Subjects</field>
+    <field name="parent_unittitles_teim">Series VI: Miscellaneous Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Union Label and Service Trades Council of Greater New York and Long Island Photographs</field>
+    <field name="collection_ssm">Union Label and Service Trades Council of Greater New York and Long Island Photographs</field>
+    <field name="collection_unitid_ssm">PHOTOS.013</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Demonstration Against Imports – Alexander's</field>
+    <field name="unittitle_teim">Demonstration Against Imports – Alexander's</field>
+    <field name="unitdate_normal_ssm">1938/1981</field>
+    <field name="unitdate_normal_teim">1938/1981</field>
+    <field name="unitdate_normal_sim">1938/1981</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref148</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Union Label and Service Trades Council of Greater New York and Long Island Photographs</field>
+    <field name="collection_unitid_teim">PHOTOS.013</field>
+    <field name="series_sim">Series VI: Miscellaneous Subjects</field>
+    <field name="series_si">Series VI: Miscellaneous Subjects &gt;&gt; Demonstration Against Imports – Alexander's</field>
+    <field name="heading_ssm">Demonstration Against Imports – Alexander's</field>
+    <field name="unitdate_start_sim">1938</field>
+    <field name="unitdate_start_ssm">1938</field>
+    <field name="unitdate_start_si">1938</field>
+    <field name="unitdate_end_sim">1981</field>
+    <field name="unitdate_end_ssm">1981</field>
+    <field name="unitdate_end_si">1981</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">136</field>
+  </doc>
+</add>

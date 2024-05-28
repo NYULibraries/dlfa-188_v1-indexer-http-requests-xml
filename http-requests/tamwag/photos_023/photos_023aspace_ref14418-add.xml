@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_023aspace_ref14418</field>
+    <field name="ead_ssi">photos_023</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I. Negatives</field>
+    <field name="parent_unittitles_teim">Series I. Negatives</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">United Automobile Workers of America, District 65 Negatives</field>
+    <field name="collection_ssm">United Automobile Workers of America, District 65 Negatives</field>
+    <field name="collection_unitid_ssm">PHOTOS.023</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Meetings and Events</field>
+    <field name="unittitle_teim">Meetings and Events</field>
+    <field name="unitdate_normal_ssm">1939/1962</field>
+    <field name="unitdate_normal_teim">1939/1962</field>
+    <field name="unitdate_normal_sim">1939/1962</field>
+    <field name="unitdate_inclusive_teim">1939-1962</field>
+    <field name="scopecontent_teim">District 65 own events and meetings at all levels are documented here--from meetings of individual small shops and locals (such as the Department Store Locals), to industrial and geographic divisions and sections (Apparel; Cosmetic and Drug; Button; Direct Mail; Dry Good; Food; Footwear; Hardware; Millinery; Metal; Textile; Toy and Gift; Downtown, Uptown, Midtown, and Eastside (Manhattan), and Brooklyn), to public meetings of the entire union and its parent bodies, and committees and subcommittees thereof, including the union's various ethnic group affairs committees (Irish, Italian, Jewish, Negro, and "Spanish"—meaning Hispanic, mainly Puerto Rican), as well as meetings of the union's retired members. Also included are regional and national meetings, conferences, and conventions, and events outside of the union in which District 65 participated or its members attended, such as state and national AFL-CIO conventions, and the Peekskill concert of 1949 and its violent aftermath.</field>
+    <field name="ref_ssi">aspace_ref14418</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">United Automobile Workers of America, District 65 Negatives</field>
+    <field name="collection_unitid_teim">PHOTOS.023</field>
+    <field name="series_sim">Series I. Negatives</field>
+    <field name="series_si">Series I. Negatives &gt;&gt; Meetings and Events</field>
+    <field name="heading_ssm">Meetings and Events</field>
+    <field name="unitdate_start_sim">1939</field>
+    <field name="unitdate_start_ssm">1939</field>
+    <field name="unitdate_start_si">1939</field>
+    <field name="unitdate_end_sim">1962</field>
+    <field name="unitdate_end_ssm">1962</field>
+    <field name="unitdate_end_si">1962</field>
+    <field name="unitdate_ssm">Inclusive, 1939-1962</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">7207</field>
+  </doc>
+</add>

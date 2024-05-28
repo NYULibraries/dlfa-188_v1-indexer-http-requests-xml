@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_017aspace_ref16</field>
+    <field name="ead_ssi">photos_017</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Container list</field>
+    <field name="parent_unittitles_teim">Container list</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">American Federation of State, County, and Municipal Employees (AFSCME), Local 1930 Photographs</field>
+    <field name="collection_ssm">American Federation of State, County, and Municipal Employees (AFSCME), Local 1930 Photographs</field>
+    <field name="collection_unitid_ssm">PHOTOS.017</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Tamiment Conference, DC37</field>
+    <field name="unittitle_teim">Tamiment Conference, DC37</field>
+    <field name="unitdate_teim">Jun 1, 1969</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">American Federation of State, County, and Municipal Employees (AFSCME), Local 1930 Photographs</field>
+    <field name="collection_unitid_teim">PHOTOS.017</field>
+    <field name="series_sim">Container list</field>
+    <field name="series_si">Container list &gt;&gt; Tamiment Conference, DC37</field>
+    <field name="heading_ssm">Tamiment Conference, DC37</field>
+    <field name="unitdate_ssm">Jun 1, 1969</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

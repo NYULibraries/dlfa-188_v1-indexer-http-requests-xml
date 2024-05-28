@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_012aspace_ref21</field>
+    <field name="ead_ssi">photos_012</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series I: Activities
+</field>
+    <field name="parent_unittitles_teim">Series I: Activities
+</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Civil Service Technical Guild Photographs</field>
+    <field name="collection_ssm">Civil Service Technical Guild Photographs</field>
+    <field name="collection_unitid_ssm">PHOTOS.012/repositories/2/resources/527</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Dinners, 1950 - 1959</field>
+    <field name="unittitle_teim">Dinners, 1950 - 1959</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/72061</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/72061</field>
+    <field name="unitdate_normal_ssm">1950/1959</field>
+    <field name="unitdate_normal_teim">1950/1959</field>
+    <field name="unitdate_normal_sim">1950/1959</field>
+    <field name="unitdate_inclusive_teim">1950-1959</field>
+    <field name="ref_ssi">aspace_ref21</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Civil Service Technical Guild Photographs</field>
+    <field name="collection_unitid_teim">PHOTOS.012/repositories/2/resources/527</field>
+    <field name="series_sim">Series I: Activities
+</field>
+    <field name="series_si">Series I: Activities
+ &gt;&gt; Dinners, 1950 - 1959</field>
+    <field name="heading_ssm">Dinners, 1950 - 1959</field>
+    <field name="unitdate_start_sim">1950</field>
+    <field name="unitdate_start_ssm">1950</field>
+    <field name="unitdate_start_si">1950</field>
+    <field name="unitdate_end_sim">1959</field>
+    <field name="unitdate_end_ssm">1959</field>
+    <field name="unitdate_end_si">1959</field>
+    <field name="unitdate_ssm">Inclusive, 1950-1959</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">9</field>
+  </doc>
+</add>

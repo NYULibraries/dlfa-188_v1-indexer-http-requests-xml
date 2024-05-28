@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_023_001aspace_ref501</field>
+    <field name="ead_ssi">photos_023_001</field>
+    <field name="parent_ssi">aspace_ref7</field>
+    <field name="parent_ssm">aspace_ref7</field>
+    <field name="parent_unittitles_ssm">Series I: Distributive Worker</field>
+    <field name="parent_unittitles_teim">Series I: Distributive Worker</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">United Automobile Workers of America, District 65 Photographs</field>
+    <field name="collection_ssm">United Automobile Workers of America, District 65 Photographs</field>
+    <field name="collection_unitid_ssm">PHOTOS.023.001/repositories/2/resources/542</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I:E International Issues</field>
+    <field name="unittitle_teim">Subseries I:E International Issues</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/107458</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/107458</field>
+    <field name="ref_ssi">aspace_ref501</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">United Automobile Workers of America, District 65 Photographs</field>
+    <field name="collection_unitid_teim">PHOTOS.023.001/repositories/2/resources/542</field>
+    <field name="series_sim">Series I: Distributive Worker</field>
+    <field name="series_si">Series I: Distributive Worker &gt;&gt; Subseries I:E International Issues</field>
+    <field name="heading_ssm">Subseries I:E International Issues</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

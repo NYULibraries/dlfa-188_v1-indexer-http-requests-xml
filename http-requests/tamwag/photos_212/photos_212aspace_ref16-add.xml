@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_212aspace_ref16</field>
+    <field name="ead_ssi">photos_212</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I: Black and White Prints</field>
+    <field name="parent_unittitles_teim">Series I: Black and White Prints</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">AFSCME, Local 420, Hospital Workers Photographs</field>
+    <field name="collection_ssm">AFSCME, Local 420, Hospital Workers Photographs</field>
+    <field name="collection_unitid_ssm">PHOTOS.212/repositories/2/resources/598</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: AFSCME</field>
+    <field name="unittitle_teim">Subseries A: AFSCME</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/111381</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/111381</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">AFSCME, Local 420, Hospital Workers Photographs</field>
+    <field name="collection_unitid_teim">PHOTOS.212/repositories/2/resources/598</field>
+    <field name="series_sim">Series I: Black and White Prints</field>
+    <field name="series_si">Series I: Black and White Prints &gt;&gt; Subseries A: AFSCME</field>
+    <field name="heading_ssm">Subseries A: AFSCME</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

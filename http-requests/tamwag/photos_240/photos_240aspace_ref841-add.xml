@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_240aspace_ref841</field>
+    <field name="ead_ssi">photos_240</field>
+    <field name="parent_ssi">aspace_ref313</field>
+    <field name="parent_ssm">aspace_ref829</field>
+    <field name="parent_ssm">aspace_ref313</field>
+    <field name="parent_unittitles_ssm">Series I: Photographs, 1880-2006.</field>
+    <field name="parent_unittitles_ssm">Subseries I-C: Catholic Actors' Guild: George W. Moore Materials, 1942-1975.</field>
+    <field name="parent_unittitles_teim">Series I: Photographs, 1880-2006.</field>
+    <field name="parent_unittitles_teim">Subseries I-C: Catholic Actors' Guild: George W. Moore Materials, 1942-1975.</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Actors' Fund of America Photographs and Audio-Visual Materials</field>
+    <field name="collection_ssm">Actors' Fund of America Photographs and Audio-Visual Materials</field>
+    <field name="collection_unitid_ssm">PHOTOS.240</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Scrapbook: George W. Moore, 20th Anniversary of Ordination (in Series IX: Scrapbooks)</field>
+    <field name="unittitle_teim">Scrapbook: George W. Moore, 20th Anniversary of Ordination (in Series IX: Scrapbooks)</field>
+    <field name="unitdate_normal_ssm">1942/1975</field>
+    <field name="unitdate_normal_teim">1942/1975</field>
+    <field name="unitdate_normal_sim">1942/1975</field>
+    <field name="unitdate_inclusive_teim">1942-1975</field>
+    <field name="ref_ssi">aspace_ref841</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14</field>
+    <field name="location_si">Box: 14</field>
+    <field name="collection_teim">Actors' Fund of America Photographs and Audio-Visual Materials</field>
+    <field name="collection_unitid_teim">PHOTOS.240</field>
+    <field name="series_sim">Series I: Photographs, 1880-2006.</field>
+    <field name="series_sim">Subseries I-C: Catholic Actors' Guild: George W. Moore Materials, 1942-1975.</field>
+    <field name="series_si">Series I: Photographs, 1880-2006. &gt;&gt; Subseries I-C: Catholic Actors' Guild: George W. Moore Materials, 1942-1975. &gt;&gt; Scrapbook: George W. Moore, 20th Anniversary of Ordination (in Series IX: Scrapbooks)</field>
+    <field name="heading_ssm">Scrapbook: George W. Moore, 20th Anniversary of Ordination (in Series IX: Scrapbooks)</field>
+    <field name="unitdate_start_sim">1942</field>
+    <field name="unitdate_start_ssm">1942</field>
+    <field name="unitdate_start_si">1942</field>
+    <field name="unitdate_end_sim">1975</field>
+    <field name="unitdate_end_ssm">1975</field>
+    <field name="unitdate_end_si">1975</field>
+    <field name="unitdate_ssm">Inclusive, 1942-1975</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">545</field>
+  </doc>
+</add>

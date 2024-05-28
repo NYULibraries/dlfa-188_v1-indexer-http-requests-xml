@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photos_014aspace_ref18</field>
+    <field name="ead_ssi">photos_014</field>
+    <field name="parent_ssi">aspace_ref17</field>
+    <field name="parent_ssm">aspace_ref17</field>
+    <field name="parent_unittitles_ssm">Series I: Black and White Photographs, 1952-2002</field>
+    <field name="parent_unittitles_teim">Series I: Black and White Photographs, 1952-2002</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Social Service Employees Union Photographs</field>
+    <field name="collection_ssm">Social Service Employees Union Photographs</field>
+    <field name="collection_unitid_ssm">PHOTOS.014</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-Series A: Personalities</field>
+    <field name="unittitle_teim">Sub-Series A: Personalities</field>
+    <field name="ref_ssi">aspace_ref18</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Social Service Employees Union Photographs</field>
+    <field name="collection_unitid_teim">PHOTOS.014</field>
+    <field name="series_sim">Series I: Black and White Photographs, 1952-2002</field>
+    <field name="series_si">Series I: Black and White Photographs, 1952-2002 &gt;&gt; Sub-Series A: Personalities</field>
+    <field name="heading_ssm">Sub-Series A: Personalities</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>
