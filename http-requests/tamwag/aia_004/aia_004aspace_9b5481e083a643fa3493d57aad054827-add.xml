@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_004aspace_9b5481e083a643fa3493d57aad054827</field>
+    <field name="ead_ssi">aia_004</field>
+    <field name="parent_ssi">aspace_ref195</field>
+    <field name="parent_ssm">aspace_ref195</field>
+    <field name="parent_unittitles_ssm">Series II: Other Periodicals</field>
+    <field name="parent_unittitles_teim">Series II: Other Periodicals</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Archives of Irish America Newspapers and Periodicals Collection</field>
+    <field name="collection_ssm">Archives of Irish America Newspapers and Periodicals Collection</field>
+    <field name="collection_unitid_ssm">AIA.004/repositories/2/resources/5</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Irish Life&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Irish Life
+    </field>
+    <field name="unitid_teim">/repositories/2/archival_objects/934941</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/934941</field>
+    <field name="unitdate_normal_ssm">1989/1989</field>
+    <field name="unitdate_normal_teim">1989/1989</field>
+    <field name="unitdate_normal_sim">1989/1989</field>
+    <field name="unitdate_teim">1989</field>
+    <field name="ref_ssi">aspace_9b5481e083a643fa3493d57aad054827</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 201, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Archives of Irish America Newspapers and Periodicals Collection</field>
+    <field name="collection_unitid_teim">AIA.004/repositories/2/resources/5</field>
+    <field name="series_sim">Series II: Other Periodicals</field>
+    <field name="series_si">Series II: Other Periodicals &gt;&gt; 
+      &lt;em&gt;Irish Life&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Irish Life
+    </field>
+    <field name="unitdate_start_sim">1989</field>
+    <field name="unitdate_start_ssm">1989</field>
+    <field name="unitdate_start_si">1989</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">1989</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">170</field>
+  </doc>
+</add>

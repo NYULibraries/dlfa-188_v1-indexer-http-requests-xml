@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_004aspace_ref383</field>
+    <field name="ead_ssi">aia_004</field>
+    <field name="parent_ssi">aspace_ref194</field>
+    <field name="parent_ssm">aspace_ref194</field>
+    <field name="parent_unittitles_ssm">Series I: Newspapers</field>
+    <field name="parent_unittitles_teim">Series I: Newspapers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Archives of Irish America Newspapers and Periodicals Collection</field>
+    <field name="collection_ssm">Archives of Irish America Newspapers and Periodicals Collection</field>
+    <field name="collection_unitid_ssm">AIA.004/repositories/2/resources/5</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Irish World&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Irish World
+    </field>
+    <field name="unitid_teim">cuid14748</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/921</field>
+    <field name="unitid_ssm">cuid14748</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/921</field>
+    <field name="unitdate_normal_ssm">1981/1984</field>
+    <field name="unitdate_normal_teim">1981/1984</field>
+    <field name="unitdate_normal_sim">1981/1984</field>
+    <field name="unitdate_inclusive_teim">1981-1984</field>
+    <field name="scopecontent_teim">Apr 4, 1981–Dec 26, 1981; Jan 2, 1982–Dec 25, 1982 [Vol. 111, Nos. 5797-5837 (Missing 5801-5803,5814,5823), Vol. 112, Nos. 5838-5889 (Missing 5879)]; Jan 1, 1983–Dec 24, 1983; Jan 7, 1984–Nov 17, 1984 [Vol. 113, Nos. 5890-5941 (Missing 5908,5937), Vol. 114, Nos. 5932-5985 (Missing 5962,5968,5973-5975,5983)]</field>
+    <field name="ref_ssi">aspace_ref383</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 142</field>
+    <field name="location_ssm">Box: 143</field>
+    <field name="location_ssm">Box: 220, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Archives of Irish America Newspapers and Periodicals Collection</field>
+    <field name="collection_unitid_teim">AIA.004/repositories/2/resources/5</field>
+    <field name="series_sim">Series I: Newspapers</field>
+    <field name="series_si">Series I: Newspapers &gt;&gt; 
+      &lt;em&gt;Irish World&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Irish World
+    </field>
+    <field name="unitdate_start_sim">1981</field>
+    <field name="unitdate_start_ssm">1981</field>
+    <field name="unitdate_start_si">1981</field>
+    <field name="unitdate_end_sim">1984</field>
+    <field name="unitdate_end_ssm">1984</field>
+    <field name="unitdate_end_si">1984</field>
+    <field name="unitdate_ssm">Inclusive, 1981-1984</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">93</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_060aspace_ref23</field>
+    <field name="ead_ssi">aia_060</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ernie O'Malley Papers</field>
+    <field name="collection_ssm">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.060/repositories/2/resources/63</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XV. Printed Ephemera</field>
+    <field name="unittitle_teim">Series XV. Printed Ephemera</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/17965</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/17965</field>
+    <field name="unitdate_normal_ssm">1789/1950</field>
+    <field name="unitdate_normal_teim">1789/1950</field>
+    <field name="unitdate_normal_sim">1789/1950</field>
+    <field name="unitdate_inclusive_teim">1789-1950</field>
+    <field name="scopecontent_teim">Items in this series reflect O'Malley's varied interests in Irish history, cartography, art and many other areas and include prints, reprints, maps, photographs, essays, brochures, letters, drawings, reproductions and other ephemeral materials and artifacts collected or inherited by Ernie O'Malley. While most of the graphic items in this series are reprints or reproductions, several original cards, drawings and paintings from notable artists including Roy Boynton, and Jack Hanlon are also included.  Nearly twenty maps and nine letters either written by or addressed to historically significant Irishmen and women including Eva Gore Booth, Standish O' Grady, Sean O'Sullivan and Thomas Grattan complete the series as well as an undated historic account of the Spanish Armada's landing and an indenture for land dated 1857.</field>
+    <field name="ref_ssi">aspace_ref23</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_teim">AIA.060/repositories/2/resources/63</field>
+    <field name="series_si">Series XV. Printed Ephemera</field>
+    <field name="heading_ssm">Series XV. Printed Ephemera</field>
+    <field name="unitdate_start_sim">1789</field>
+    <field name="unitdate_start_ssm">1789</field>
+    <field name="unitdate_start_si">1789</field>
+    <field name="unitdate_end_sim">1950</field>
+    <field name="unitdate_end_ssm">1950</field>
+    <field name="unitdate_end_si">1950</field>
+    <field name="unitdate_ssm">Inclusive, 1789-1950</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1288</field>
+  </doc>
+</add>

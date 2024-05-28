@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_019aspace_ref76</field>
+    <field name="ead_ssi">aia_019</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I. Cultural, Social and Academic Organizations</field>
+    <field name="parent_unittitles_teim">Series I. Cultural, Social and Academic Organizations</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Cormac K. H. O'Malley Papers</field>
+    <field name="collection_ssm">Cormac K. H. O'Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.019</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IE. National University of Ireland Club</field>
+    <field name="unittitle_teim">Subseries IE. National University of Ireland Club</field>
+    <field name="scopecontent_teim">This subseries consists of materials concerning O'Malley's membership in the New York branch of the National University of Ireland Club during the period of 1968-1981.</field>
+    <field name="ref_ssi">aspace_ref76</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Cormac K. H. O'Malley Papers</field>
+    <field name="collection_unitid_teim">AIA.019</field>
+    <field name="series_sim">Series I. Cultural, Social and Academic Organizations</field>
+    <field name="series_si">Series I. Cultural, Social and Academic Organizations &gt;&gt; Subseries IE. National University of Ireland Club</field>
+    <field name="heading_ssm">Subseries IE. National University of Ireland Club</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">65</field>
+  </doc>
+</add>

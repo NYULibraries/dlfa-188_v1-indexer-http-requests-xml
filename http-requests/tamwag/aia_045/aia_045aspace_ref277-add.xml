@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_045aspace_ref277</field>
+    <field name="ead_ssi">aia_045</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series II: Ireland</field>
+    <field name="parent_unittitles_ssm">Subseries II.B: Business</field>
+    <field name="parent_unittitles_teim">Series II: Ireland</field>
+    <field name="parent_unittitles_teim">Subseries II.B: Business</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Irish Echo Photographs</field>
+    <field name="collection_ssm">Irish Echo Photographs</field>
+    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Corrigan, John</field>
+    <field name="unittitle_teim">Corrigan, John</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/14288</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/14288</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref277</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 42</field>
+    <field name="location_ssm">Folder: 42</field>
+    <field name="location_si">Folder: 42</field>
+    <field name="collection_teim">Irish Echo Photographs</field>
+    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="series_sim">Series II: Ireland</field>
+    <field name="series_sim">Subseries II.B: Business</field>
+    <field name="series_si">Series II: Ireland &gt;&gt; Subseries II.B: Business &gt;&gt; Corrigan, John</field>
+    <field name="heading_ssm">Corrigan, John</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">348</field>
+  </doc>
+</add>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ca31cae8aaa5dc7766bba1df9692ecce</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref56</field>
+    <field name="parent_ssm">aspace_ref56</field>
+    <field name="parent_unittitles_ssm">C</field>
+    <field name="parent_unittitles_teim">C</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cullinane, John</field>
+    <field name="unittitle_teim">Cullinane, John</field>
+    <field name="unitid_teim">cuid34774</field>
+    <field name="unitid_ssm">cuid34774</field>
+    <field name="unitdate_normal_ssm">2015/2015</field>
+    <field name="unitdate_normal_teim">2015/2015</field>
+    <field name="unitdate_normal_sim">2015/2015</field>
+    <field name="unitdate_inclusive_teim">2015</field>
+    <field name="scopecontent_teim">This interview was conducted by Íde B. O'Carroll on April 27, 2015 in Dedham, Massachusetts. The interview covers John Cullinane's family history and early career. He recounts his founding of the database management software company Cullinet and its early success in the software industry. He describes orchestrating the merger of the Ireland Fund and the American Ireland Foundation in 1983. Cullinane recounts connecting Irish programmers to American investors by hosting C.E.O. seminars in Boston in 1993. He describes his involvement with Barack Obama's political campaign in 2008 as the head of outreach for Irish Americans.</field>
+    <field name="bioghist_teim">John Cullinane was born in 1934 in Dedham, Massachusetts. He graduated in 1952 from Arlington High School in Arlington and attended Northeastern University in Boston. In 1968 he founded the software company Cullinet.</field>
+    <field name="dao_teim">Cullinane, John: 2015-</field>
+    <field name="dao_ssm">Cullinane, John: 2015-</field>
+    <field name="ref_ssi">aspace_ca31cae8aaa5dc7766bba1df9692ecce</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic records, E-records: TW_AIA_30_ER_56</field>
+    <field name="location_ssm">E-records: TW_AIA_30_ER_56</field>
+    <field name="location_si">E-records: TW_AIA_30_ER_56</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">C</field>
+    <field name="series_si">C &gt;&gt; Cullinane, John</field>
+    <field name="heading_ssm">Cullinane, John</field>
+    <field name="unitdate_start_sim">2015</field>
+    <field name="unitdate_start_ssm">2015</field>
+    <field name="unitdate_start_si">2015</field>
+    <field name="unitdate_end_sim">2015</field>
+    <field name="unitdate_end_ssm">2015</field>
+    <field name="unitdate_end_si">2015</field>
+    <field name="unitdate_ssm">Inclusive, 2015</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">69</field>
+  </doc>
+</add>

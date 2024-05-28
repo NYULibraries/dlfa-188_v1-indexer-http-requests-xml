@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_001aspace_ref324</field>
+    <field name="ead_ssi">aia_001</field>
+    <field name="parent_ssi">aspace_ref176</field>
+    <field name="parent_ssm">aspace_ref152</field>
+    <field name="parent_ssm">aspace_ref176</field>
+    <field name="parent_unittitles_ssm">Series VI. Irish Memories Radio Program Recordings</field>
+    <field name="parent_unittitles_ssm">Cassette Tapes</field>
+    <field name="parent_unittitles_teim">Series VI. Irish Memories Radio Program Recordings</field>
+    <field name="parent_unittitles_teim">Cassette Tapes</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dorothy Hayden Cudahy Papers</field>
+    <field name="collection_ssm">Dorothy Hayden Cudahy Papers</field>
+    <field name="collection_unitid_ssm">AIA.001/repositories/2/resources/2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cassette 221: Pat Finucane</field>
+    <field name="unittitle_teim">Cassette 221: Pat Finucane</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/198</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/198</field>
+    <field name="unitdate_normal_ssm">1984/1984</field>
+    <field name="unitdate_normal_teim">1984/1984</field>
+    <field name="unitdate_normal_sim">1984/1984</field>
+    <field name="unitdate_inclusive_teim">May 1984</field>
+    <field name="ref_ssi">aspace_ref324</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 86, Cassette: 221</field>
+    <field name="location_ssm">Cassette: 221</field>
+    <field name="location_ssm">Box: 43</field>
+    <field name="location_si">Box: 43</field>
+    <field name="collection_teim">Dorothy Hayden Cudahy Papers</field>
+    <field name="collection_unitid_teim">AIA.001/repositories/2/resources/2</field>
+    <field name="series_sim">Series VI. Irish Memories Radio Program Recordings</field>
+    <field name="series_sim">Cassette Tapes</field>
+    <field name="series_si">Series VI. Irish Memories Radio Program Recordings &gt;&gt; Cassette Tapes &gt;&gt; Cassette 221: Pat Finucane</field>
+    <field name="heading_ssm">Cassette 221: Pat Finucane</field>
+    <field name="unitdate_start_sim">1984</field>
+    <field name="unitdate_start_ssm">1984</field>
+    <field name="unitdate_start_si">1984</field>
+    <field name="unitdate_end_sim">1984</field>
+    <field name="unitdate_end_ssm">1984</field>
+    <field name="unitdate_end_si">1984</field>
+    <field name="unitdate_ssm">Inclusive, May 1984</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2850</field>
+  </doc>
+</add>

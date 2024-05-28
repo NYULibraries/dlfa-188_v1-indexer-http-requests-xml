@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref101</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref96</field>
+    <field name="parent_ssm">aspace_ref96</field>
+    <field name="parent_unittitles_ssm">M</field>
+    <field name="parent_unittitles_teim">M</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">McKeown, Susan</field>
+    <field name="unittitle_teim">McKeown, Susan</field>
+    <field name="unitid_teim">cuid34636</field>
+    <field name="unitid_ssm">cuid34636</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_inclusive_teim">Nov 3, 2009</field>
+    <field name="bioghist_teim">Susan McKeown (b. Terenure, Co. Dublin, Ireland 1967), is a folk musician who has recorded over ten albums of traditional Irish, English, Scottish, and Jewish music. She emigrated to New York in 1990 and settled in Manhattan's East Village. She has collaborated on major projects with Johnny Cunningham, Mabou Mines, and The Klezmatics, among others.</field>
+    <field name="ref_ssi">aspace_ref101</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 59</field>
+    <field name="location_ssm">Folder: 59</field>
+    <field name="location_si">Folder: 59</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">M</field>
+    <field name="series_si">M &gt;&gt; McKeown, Susan</field>
+    <field name="heading_ssm">McKeown, Susan</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, Nov 3, 2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">238</field>
+  </doc>
+</add>

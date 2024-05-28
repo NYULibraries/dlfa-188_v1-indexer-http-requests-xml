@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_060aspace_ref20</field>
+    <field name="ead_ssi">aia_060</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ernie O'Malley Papers</field>
+    <field name="collection_ssm">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.060/repositories/2/resources/63</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XII. Arts Material </field>
+    <field name="unittitle_teim">Series XII. Arts Material </field>
+    <field name="unitid_teim">/repositories/2/archival_objects/17610</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/17610</field>
+    <field name="unitdate_normal_ssm">1918/1955</field>
+    <field name="unitdate_normal_teim">1918/1955</field>
+    <field name="unitdate_normal_sim">1918/1955</field>
+    <field name="unitdate_inclusive_teim">1918-1955 </field>
+    <field name="scopecontent_teim">Notebooks, notes, works, lectures, clippings, magazine articles, photographs, postcards, reprints of artwork, brochures, sketches, exhibition catalogues, theatre programs and printed materials reflecting O'Malley's interest in painting, sculpture, architecture, archeology, music and theatre throughout Europe, Mexico and the United States.  Many of the clippings, magazine articles and reprints were collected by O'Malley as research for his articles and essays on painting, sculpture, archeology, architecture and other related topics.  A substantial number of art catalogues and theatre programs were deposited at University College Dublin by O'Malley's son, Cormac O'Malley, in 1974.  Photocopies of the aforementioned items remain in this series, along with nearly 50 original art catalogues and theatre programs.  Also included in this series are more than 200 copies of photographs taken by O'Malley, Helen Hooker O'Malley and others from Mexico and Ireland.  Of special interest are notes taken by O'Malley during a series of interviews he conducted with organizers of the Irish Exhibition of Living Art during the 1940s.  O'Malley's interest in art criticism encouraged him to embark on series of interviews with some of Ireland's most prominent modern artists including, Evie Hone, Jack Hanlon, Louis le Brocquy, Norah McGuinness, Nano Reid and many others.  Works by other authors are filed at the end of this series.</field>
+    <field name="ref_ssi">aspace_ref20</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_teim">AIA.060/repositories/2/resources/63</field>
+    <field name="series_si">Series XII. Arts Material </field>
+    <field name="heading_ssm">Series XII. Arts Material </field>
+    <field name="unitdate_start_sim">1918</field>
+    <field name="unitdate_start_ssm">1918</field>
+    <field name="unitdate_start_si">1918</field>
+    <field name="unitdate_end_sim">1955</field>
+    <field name="unitdate_end_ssm">1955</field>
+    <field name="unitdate_end_si">1955</field>
+    <field name="unitdate_ssm">Inclusive, 1918-1955 </field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">933</field>
+  </doc>
+</add>

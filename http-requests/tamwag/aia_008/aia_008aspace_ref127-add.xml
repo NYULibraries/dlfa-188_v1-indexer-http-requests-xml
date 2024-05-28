@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_008aspace_ref127</field>
+    <field name="ead_ssi">aia_008</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series IV: Legal Cases, 1975-2003</field>
+    <field name="parent_unittitles_teim">Series IV: Legal Cases, 1975-2003</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Frank Durkan Papers</field>
+    <field name="collection_ssm">Frank Durkan Papers</field>
+    <field name="collection_unitid_ssm">AIA.008</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries C. &lt;em&gt;U.S. v. Mackin&lt;/em&gt; (Desmond Mackin)</field>
+    <field name="unittitle_teim">Subseries C. U.S. v. Mackin (Desmond Mackin)</field>
+    <field name="scopecontent_teim">In 1978, Desmond Mackin was charged with the attempted murder of a British Soldier in Ireland.  He fled to the States and was subsequently arrested in 1980 and charged for this crime. In a landmark ruling, the Judge found that Mr. Mackin could not be extradited because his offences were political, i.e., he was a member of an uprising group (the IRA) and his alleged offense was attributed to furthering the aims of this political group and their uprising. After avoiding extradition, the INS initiated deportation proceedings and Mackin elected to be deported to the South of Ireland to avoid risking deportation to British authorities.</field>
+    <field name="ref_ssi">aspace_ref127</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Frank Durkan Papers</field>
+    <field name="collection_unitid_teim">AIA.008</field>
+    <field name="series_sim">Series IV: Legal Cases, 1975-2003</field>
+    <field name="series_si">Series IV: Legal Cases, 1975-2003 &gt;&gt; Subseries C. &lt;em&gt;U.S. v. Mackin&lt;/em&gt; (Desmond Mackin)</field>
+    <field name="heading_ssm">Subseries C. U.S. v. Mackin (Desmond Mackin)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">311</field>
+  </doc>
+</add>

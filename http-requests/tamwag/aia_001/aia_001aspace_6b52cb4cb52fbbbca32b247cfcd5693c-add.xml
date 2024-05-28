@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_001aspace_6b52cb4cb52fbbbca32b247cfcd5693c</field>
+    <field name="ead_ssi">aia_001</field>
+    <field name="parent_ssi">aspace_ref154</field>
+    <field name="parent_ssm">aspace_ref117</field>
+    <field name="parent_ssm">aspace_ref154</field>
+    <field name="parent_unittitles_ssm">Series V. Commercial Recordings</field>
+    <field name="parent_unittitles_ssm">78 rpm Recordings</field>
+    <field name="parent_unittitles_teim">Series V. Commercial Recordings</field>
+    <field name="parent_unittitles_teim">78 rpm Recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dorothy Hayden Cudahy Papers</field>
+    <field name="collection_ssm">Dorothy Hayden Cudahy Papers</field>
+    <field name="collection_unitid_ssm">AIA.001/repositories/2/resources/2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Thompson, Bill: 'Queen of Connemara', 'On the Banks of My Own Lovely Lee'</field>
+    <field name="unittitle_teim">Thompson, Bill: 'Queen of Connemara', 'On the Banks of My Own Lovely Lee'</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/976631</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/976631</field>
+    <field name="unitdate_normal_ssm">1950/1979</field>
+    <field name="unitdate_normal_teim">1950/1979</field>
+    <field name="unitdate_normal_sim">1950/1979</field>
+    <field name="unitdate_inclusive_teim">c. 1950s-1970s</field>
+    <field name="ref_ssi">aspace_6b52cb4cb52fbbbca32b247cfcd5693c</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 31, Sound_Disc--Vinyl: 42</field>
+    <field name="location_ssm">Sound_Disc--Vinyl: 42</field>
+    <field name="location_si">Sound_Disc--Vinyl: 42</field>
+    <field name="collection_teim">Dorothy Hayden Cudahy Papers</field>
+    <field name="collection_unitid_teim">AIA.001/repositories/2/resources/2</field>
+    <field name="series_sim">Series V. Commercial Recordings</field>
+    <field name="series_sim">78 rpm Recordings</field>
+    <field name="series_si">Series V. Commercial Recordings &gt;&gt; 78 rpm Recordings &gt;&gt; Thompson, Bill: 'Queen of Connemara', 'On the Banks of My Own Lovely Lee'</field>
+    <field name="heading_ssm">Thompson, Bill: 'Queen of Connemara', 'On the Banks of My Own Lovely Lee'</field>
+    <field name="unitdate_start_sim">1950</field>
+    <field name="unitdate_start_ssm">1950</field>
+    <field name="unitdate_start_si">1950</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, c. 1950s-1970s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1947</field>
+  </doc>
+</add>

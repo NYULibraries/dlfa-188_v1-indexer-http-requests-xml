@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_031_004aspace_ref1466</field>
+    <field name="ead_ssi">aia_031_004</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+    <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+    <field name="collection_unitid_ssm">AIA.031.004</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Postcards</field>
+    <field name="unittitle_teim">Series V: Postcards</field>
+    <field name="unitdate_normal_ssm">1900/1915</field>
+    <field name="unitdate_normal_teim">1900/1915</field>
+    <field name="unitdate_normal_sim">1900/1915</field>
+    <field name="unitdate_inclusive_teim">1900-1915</field>
+    <field name="scopecontent_teim">Series V: Postcards, 1900-1915 consists of postcards produced for both the St. Patrick's Day market and tourism to Ireland.  Dr. Moloney arranged the cards by theme in eleven categories: St. Patrick's Day, Colleens, Dance, Holiday (Irish, but not March 17th), Humor, Irish-America, Irish Scenes, Irish (general), Music, Pipes, and Miscellaneous.  This is the largest known collection of its kind in the world, and includes examples from German, English, and American manufacturers such as Raphael Tuck and Sons and the International Art Publishing Co., and prominent postcard artists such as Ellen H. Clapsaddle.  Of particular interest are cards that depict dual loyalties to Ireland as well as the United States and those that incorporate specific locations in Ireland such as Blarney Castle or the Lakes of Killarney.</field>
+    <field name="ref_ssi">aspace_ref1466</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+    <field name="collection_unitid_teim">AIA.031.004</field>
+    <field name="series_si">Series V: Postcards</field>
+    <field name="heading_ssm">Series V: Postcards</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">1915</field>
+    <field name="unitdate_end_ssm">1915</field>
+    <field name="unitdate_end_si">1915</field>
+    <field name="unitdate_ssm">Inclusive, 1900-1915</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1746</field>
+  </doc>
+</add>

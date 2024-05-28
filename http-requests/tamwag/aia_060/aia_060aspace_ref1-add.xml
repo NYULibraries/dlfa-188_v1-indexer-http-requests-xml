@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_060aspace_ref1</field>
+    <field name="ead_ssi">aia_060</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ernie O'Malley Papers</field>
+    <field name="collection_ssm">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.060/repositories/2/resources/63</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Works</field>
+    <field name="unittitle_teim">Series I. Works</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/16678</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/16678</field>
+    <field name="unitdate_normal_ssm">1924/1956</field>
+    <field name="unitdate_normal_teim">1924/1956</field>
+    <field name="unitdate_normal_sim">1924/1956</field>
+    <field name="unitdate_inclusive_teim">1924-1956, undated</field>
+    <field name="scopecontent_teim">The series contains two subseries.  Subseries A. Ernie O'Malley comprises literary manuscripts, articles, book reviews, essays, short stories, poetry, notes, drawings and speeches written or created by Ernie O'Malley between the years of 1926 and 1956.  Published and unpublished works, manuscript drafts, reprints and photocopies are represented.  A considerable amount of O'Malley's works were written during his travels throughout the United States and Mexico between 1928 and 1935.  A substantial portion of his literary output centers on his homeland, his military experiences during both the Irish War of Independence and Civil War, early Christian art in Ireland and Irish artists.  Other works reflect his interest in art, poetry and a variety of other topics.  Materials within the Works series are manuscript and/or typescript and are so indicated.  </field>
+    <field name="scopecontent_teim">Works by other authors are found in Subseries B. Other Writers. Throughout his life O'Malley collected ballads and poetry written by others.  While most of these materials were either transcribed by O'Malley himself or typed for his personal reference or use, several of the items are clippings or printed materials sent to him by friends and colleagues.  Poets within this series include both American and European poets such as Lascelles Abercrombie, Hart Crane, Emily Dickinson, Horace Gregory, James Joyce, Stanley Kunitz, Ezra Pound, Seamus O'Sullivan, John Millington Synge and numerous others.  Additional works by others include articles, plays and essays sent to O'Malley for his consideration, review and comment.  </field>
+    <field name="scopecontent_teim">For additional materials relating to the works and literary output of Ernie O'Malley see Series 10: Diaries, Notebooks and Research.</field>
+    <field name="ref_ssi">aspace_ref1</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_teim">AIA.060/repositories/2/resources/63</field>
+    <field name="series_si">Series I. Works</field>
+    <field name="heading_ssm">Series I. Works</field>
+    <field name="unitdate_start_sim">1924</field>
+    <field name="unitdate_start_ssm">1924</field>
+    <field name="unitdate_start_si">1924</field>
+    <field name="unitdate_end_sim">1956</field>
+    <field name="unitdate_end_ssm">1956</field>
+    <field name="unitdate_end_si">1956</field>
+    <field name="unitdate_ssm">Inclusive, 1924-1956, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

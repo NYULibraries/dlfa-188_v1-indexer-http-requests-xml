@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_031_004aspace_ref1318</field>
+    <field name="ead_ssi">aia_031_004</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+    <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+    <field name="collection_unitid_ssm">AIA.031.004</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Songsters and Song Albums</field>
+    <field name="unittitle_teim">Series II: Songsters and Song Albums</field>
+    <field name="unitdate_normal_ssm">1863/1960</field>
+    <field name="unitdate_normal_teim">1863/1960</field>
+    <field name="unitdate_normal_sim">1863/1960</field>
+    <field name="unitdate_inclusive_teim">1863-1960</field>
+    <field name="scopecontent_teim">Series II: Songsters and Song Albums, 1863-1960 consists of songsters (songbooks) and song albums containing both Irish and Irish-American content.  These range in date from 1863's Irish Song Album with Various Artists to Irish Favorites (1960), with the majority published between 1900 and 1940.  There are a number of undated examples, especially among the pocket-sized songsters which most likely were published in the middle of the nineteenth century. 	  Many of the items in this series illustrate stereotyped depictions of the Irish and other ethnic groups in the nineteenth century. Most are in excellent condition and many contain handwritten music, annotations, and signatures.  The songsters in particular lend themselves to a comparison of nineteenth-century stereotypes of the Irish as well as Jewish, German (Gus Williams Sdill I Don't Vas Happy Songster, Box 5, Folder 6), and African-American (Harry Pell's Ebony Songster, Box 5, Folder 4) figures.</field>
+    <field name="ref_ssi">aspace_ref1318</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+    <field name="collection_unitid_teim">AIA.031.004</field>
+    <field name="series_si">Series II: Songsters and Song Albums</field>
+    <field name="heading_ssm">Series II: Songsters and Song Albums</field>
+    <field name="unitdate_start_sim">1863</field>
+    <field name="unitdate_start_ssm">1863</field>
+    <field name="unitdate_start_si">1863</field>
+    <field name="unitdate_end_sim">1960</field>
+    <field name="unitdate_end_ssm">1960</field>
+    <field name="unitdate_end_si">1960</field>
+    <field name="unitdate_ssm">Inclusive, 1863-1960</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1515</field>
+  </doc>
+</add>

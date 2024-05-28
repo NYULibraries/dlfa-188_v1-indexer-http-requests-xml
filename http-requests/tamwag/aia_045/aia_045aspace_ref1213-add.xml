@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_045aspace_ref1213</field>
+    <field name="ead_ssi">aia_045</field>
+    <field name="parent_ssi">aspace_ref1049</field>
+    <field name="parent_ssm">aspace_ref68</field>
+    <field name="parent_ssm">aspace_ref1049</field>
+    <field name="parent_unittitles_ssm">Series VI: Film, Television, and Theatre</field>
+    <field name="parent_unittitles_ssm">Subseries VI.B: Theatre</field>
+    <field name="parent_unittitles_teim">Series VI: Film, Television, and Theatre</field>
+    <field name="parent_unittitles_teim">Subseries VI.B: Theatre</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Irish Echo Photographs</field>
+    <field name="collection_ssm">Irish Echo Photographs</field>
+    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Honesty is the Best Policy&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Honesty is the Best Policy
+    </field>
+    <field name="unitid_teim">/repositories/2/archival_objects/15206</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/15206</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1213</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, Folder: 158</field>
+    <field name="location_ssm">Folder: 158</field>
+    <field name="location_si">Folder: 158</field>
+    <field name="collection_teim">Irish Echo Photographs</field>
+    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="series_sim">Series VI: Film, Television, and Theatre</field>
+    <field name="series_sim">Subseries VI.B: Theatre</field>
+    <field name="series_si">Series VI: Film, Television, and Theatre &gt;&gt; Subseries VI.B: Theatre &gt;&gt; 
+      &lt;em&gt;Honesty is the Best Policy&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Honesty is the Best Policy
+    </field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1383</field>
+  </doc>
+</add>

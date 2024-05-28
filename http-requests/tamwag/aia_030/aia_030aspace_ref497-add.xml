@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref497</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref93</field>
+    <field name="parent_ssm">aspace_ref93</field>
+    <field name="parent_unittitles_ssm">L</field>
+    <field name="parent_unittitles_teim">L</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Lawlor, Tom</field>
+    <field name="unittitle_teim">Lawlor, Tom</field>
+    <field name="unitid_teim">cuid34608</field>
+    <field name="unitid_ssm">cuid34608</field>
+    <field name="unitdate_teim">Jul 30, 2011</field>
+    <field name="bioghist_teim">Tom Lawlor (b. Shanahoe, Co. Laois, Ireland, 1941) was a member of the Co. Laois association of New York. He retired from the New York Police Department and moved to Ireland.</field>
+    <field name="ref_ssi">aspace_ref497</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 54</field>
+    <field name="location_ssm">Folder: 54</field>
+    <field name="location_si">Folder: 54</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">L</field>
+    <field name="series_si">L &gt;&gt; Lawlor, Tom</field>
+    <field name="heading_ssm">Lawlor, Tom</field>
+    <field name="unitdate_ssm">Jul 30, 2011</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">200</field>
+  </doc>
+</add>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_045aspace_ref41</field>
+    <field name="ead_ssi">aia_045</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series I: Irish America</field>
+    <field name="parent_unittitles_teim">Series I: Irish America</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Irish Echo Photographs</field>
+    <field name="collection_ssm">Irish Echo Photographs</field>
+    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.C: Subjects</field>
+    <field name="unittitle_teim">Subseries I.C: Subjects</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/14150</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/14150</field>
+    <field name="unitdate_normal_ssm">1930/2004</field>
+    <field name="unitdate_normal_teim">1930/2004</field>
+    <field name="unitdate_normal_sim">1930/2004</field>
+    <field name="unitdate_inclusive_teim">circa 1930-1936, 1967-2004.</field>
+    <field name="scopecontent_teim">This subseries encompasses a range of topics relevant to the Irish Echo's primary readership base: Irish Americans and Irish in America.  In addition to subjects covered extensively, such as dance, festivals, and St. Patrick's Day Parades, this subseries also includes a significant number of photographs taken in historically Irish American communities throughout New York City and State.  Photographs taken outside of New York are organized by state name followed by additional parenthetical identifiers whenever possible.</field>
+    <field name="ref_ssi">aspace_ref41</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Irish Echo Photographs</field>
+    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="series_sim">Series I: Irish America</field>
+    <field name="series_si">Series I: Irish America &gt;&gt; Subseries I.C: Subjects</field>
+    <field name="heading_ssm">Subseries I.C: Subjects</field>
+    <field name="unitdate_start_sim">1930</field>
+    <field name="unitdate_start_ssm">1930</field>
+    <field name="unitdate_start_si">1930</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, circa 1930-1936, 1967-2004.</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">151</field>
+  </doc>
+</add>

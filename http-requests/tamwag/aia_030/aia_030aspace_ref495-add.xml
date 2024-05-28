@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref495</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref120</field>
+    <field name="parent_ssm">aspace_ref120</field>
+    <field name="parent_unittitles_ssm">Q</field>
+    <field name="parent_unittitles_teim">Q</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Quinn, Marion</field>
+    <field name="unittitle_teim">Quinn, Marion</field>
+    <field name="unitid_teim">cuid34700</field>
+    <field name="unitid_ssm">cuid34700</field>
+    <field name="unitdate_teim">Sep 30, 2011</field>
+    <field name="bioghist_teim">Marion Quinn (b. Chicago, Illinois, 1964) is the youngest child and only daughter in a family of five children. Her parents, Michael and Teresa Quinn met through family connections. Both were born and raised in County Offaly Ireland. They married in 1956. Her parents migrated from Ireland to Canada, then to London, England before settling in Chicago where her father, an English literature professor, taught at Loyola University.</field>
+    <field name="ref_ssi">aspace_ref495</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 78</field>
+    <field name="location_ssm">Folder: 78</field>
+    <field name="location_si">Folder: 78</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">Q</field>
+    <field name="series_si">Q &gt;&gt; Quinn, Marion</field>
+    <field name="heading_ssm">Quinn, Marion</field>
+    <field name="unitdate_ssm">Sep 30, 2011</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">330</field>
+  </doc>
+</add>

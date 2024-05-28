@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_008aspace_ref125</field>
+    <field name="ead_ssi">aia_008</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series IV: Legal Cases, 1975-2003</field>
+    <field name="parent_unittitles_teim">Series IV: Legal Cases, 1975-2003</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Frank Durkan Papers</field>
+    <field name="collection_ssm">Frank Durkan Papers</field>
+    <field name="collection_unitid_ssm">AIA.008</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B. &lt;em&gt;Attorney General of the United States v. Irish People, Incorporated&lt;/em&gt;</field>
+    <field name="unittitle_teim">Subseries B. Attorney General of the United States v. Irish People, Incorporated</field>
+    <field name="unitdate_teim">1980</field>
+    <field name="scopecontent_teim">In the 1970s, the newspaper, The Irish People, was sued by the Attorney General of the United States in an attempt to force the paper to register as a foreign agent.  The U.S. Attorney General argued the paper had received monies and donation of space from the Irish Northern Aid Committee, an organization which was suspected of sending monies to fund the activities of the IRA in Northern Ireland. The paper was considered complicit in this enterprise.</field>
+    <field name="ref_ssi">aspace_ref125</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Frank Durkan Papers</field>
+    <field name="collection_unitid_teim">AIA.008</field>
+    <field name="series_sim">Series IV: Legal Cases, 1975-2003</field>
+    <field name="series_si">Series IV: Legal Cases, 1975-2003 &gt;&gt; Subseries B. &lt;em&gt;Attorney General of the United States v. Irish People, Incorporated&lt;/em&gt;</field>
+    <field name="heading_ssm">Subseries B. Attorney General of the United States v. Irish People, Incorporated</field>
+    <field name="unitdate_ssm">1980</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">290</field>
+  </doc>
+</add>

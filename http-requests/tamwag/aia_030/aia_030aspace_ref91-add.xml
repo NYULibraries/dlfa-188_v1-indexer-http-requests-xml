@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref91</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">K</field>
+    <field name="parent_unittitles_teim">K</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Kelly, Patrick, M.D.</field>
+    <field name="unittitle_teim">Kelly, Patrick, M.D.</field>
+    <field name="unitid_teim">cuid34597</field>
+    <field name="unitid_ssm">cuid34597</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_inclusive_teim">Jan 17, 2009</field>
+    <field name="scopecontent_teim">This oral history was digitally recorded on a Marantz CDR420. The interview took place in New York City on January 17, 2009, and the interviewers Myriam Nyhan and Marion Casey.</field>
+    <field name="bioghist_teim">Patrick J. Kelly (b. 1941), a neurosurgeon and Chairman of the Department of Neurological Surgery at NYU Langone Medical Center. Third generation Irish raised in Lackawanna, New York, he pioneered Computer-Assisted Stereotactic Neurosurgery and founded the New York-based charity the Brain Tumor Foundation.</field>
+    <field name="ref_ssi">aspace_ref91</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 33</field>
+    <field name="location_ssm">Folder: 33</field>
+    <field name="location_si">Folder: 33</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">K</field>
+    <field name="series_si">K &gt;&gt; Kelly, Patrick, M.D.</field>
+    <field name="heading_ssm">Kelly, Patrick, M.D.</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, Jan 17, 2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">186</field>
+  </doc>
+</add>

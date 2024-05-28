@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_031_003aspace_ref429</field>
+    <field name="ead_ssi">aia_031_003</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mick Moloney Irish-American Music and Popular Culture Papers</field>
+    <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Papers</field>
+    <field name="collection_unitid_ssm">AIA.031.003/repositories/2/resources/33</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV: Song and Music Collecting</field>
+    <field name="unittitle_teim">Series IV: Song and Music Collecting</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/11324</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/11324</field>
+    <field name="unitdate_normal_ssm">1867/2000</field>
+    <field name="unitdate_normal_teim">1867/2000</field>
+    <field name="unitdate_normal_sim">1867/2000</field>
+    <field name="unitdate_inclusive_teim">1867-2000</field>
+    <field name="scopecontent_teim">Series IV: Song and Music Collecting, 1867-2000 contains lyrics, tunes, and songs in published and manuscript form collected by Dr. Moloney for research, personal, and performance use.  Of particular note are John Ward's Private Collection of Irish Comic Songs, twenty photocopied songsters, and manuscripts of dance tunes, some of which are Moloney's compositions.</field>
+    <field name="ref_ssi">aspace_ref429</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Papers</field>
+    <field name="collection_unitid_teim">AIA.031.003/repositories/2/resources/33</field>
+    <field name="series_si">Series IV: Song and Music Collecting</field>
+    <field name="heading_ssm">Series IV: Song and Music Collecting</field>
+    <field name="unitdate_start_sim">1867</field>
+    <field name="unitdate_start_ssm">1867</field>
+    <field name="unitdate_start_si">1867</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 1867-2000</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">905</field>
+  </doc>
+</add>

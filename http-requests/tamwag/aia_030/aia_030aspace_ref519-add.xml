@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref519</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref81</field>
+    <field name="parent_ssm">aspace_ref81</field>
+    <field name="parent_unittitles_ssm">H</field>
+    <field name="parent_unittitles_teim">H</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hearn, Anne</field>
+    <field name="unittitle_teim">Hearn, Anne</field>
+    <field name="unitid_teim">cuid34583</field>
+    <field name="unitid_ssm">cuid34583</field>
+    <field name="unitdate_teim">Mar 31, 2012</field>
+    <field name="bioghist_teim">Anne Hearn (b. Co. Longford, Ireland, 1943) emigrated to the United States in 1961 and began working at Verizon Communications until she retired in 1997. She is very involved in both the Longford Association and the United Irish Counties Association of New York.</field>
+    <field name="ref_ssi">aspace_ref519</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 47</field>
+    <field name="location_ssm">Folder: 47</field>
+    <field name="location_si">Folder: 47</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">H</field>
+    <field name="series_si">H &gt;&gt; Hearn, Anne</field>
+    <field name="heading_ssm">Hearn, Anne</field>
+    <field name="unitdate_ssm">Mar 31, 2012</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">165</field>
+  </doc>
+</add>

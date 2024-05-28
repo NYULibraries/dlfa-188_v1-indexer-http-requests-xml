@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_080aspace_0093a16b3c9433b7a9348ac5e0fe3e41</field>
+    <field name="ead_ssi">aia_080</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Irish Repertory Theatre Records</field>
+    <field name="collection_ssm">Irish Repertory Theatre Records</field>
+    <field name="collection_unitid_ssm">AIA.080/repositories/2/resources/2312</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V. Archived Websites</field>
+    <field name="unittitle_teim">Series V. Archived Websites</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/863425</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/863425</field>
+    <field name="unitdate_normal_ssm">2019-09-25/2019-09-25</field>
+    <field name="unitdate_normal_teim">2019-09-25/2019-09-25</field>
+    <field name="unitdate_normal_sim">2019-09-25/2019-09-25</field>
+    <field name="unitdate_teim">September 2019-ongoing</field>
+    <field name="scopecontent_teim">Irishrep.org is the website of the Irish Repertory Theatre. The website contains information on current and past productions, script submission series, and membership programs.</field>
+    <field name="scopecontent_teim">The Irish Repertory Theatre YouTube channel features videos of trailers for upcoming performances at the theater related to Irish and Irish-American works, interviews with actors and directors, gala performances, and their #TheShowMustGoOnline series created during the COVID-19 pandemic.</field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of web.ovationtix.com/trs/cal/32325 and irishrep.org in order to remain within the collection scope and data constraints.</field>
+    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored.</field>
+    <field name="appraisal_teim">In 2023, YouTube URLs were changed to better capture the videos on the channel.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">Irish Repertory Theatre Archived Website: September 2019-ongoing</field>
+    <field name="dao_teim">Irish Repertory Theatre YouTube Channel Archived Website: October 2021-September 2023</field>
+    <field name="dao_teim">Irish Repertory Theatre YouTube Channel Archived Website: September 2023-ongoing</field>
+    <field name="dao_ssm">Irish Repertory Theatre Archived Website: September 2019-ongoing</field>
+    <field name="dao_ssm">Irish Repertory Theatre YouTube Channel Archived Website: October 2021-September 2023</field>
+    <field name="dao_ssm">Irish Repertory Theatre YouTube Channel Archived Website: September 2023-ongoing</field>
+    <field name="ref_ssi">aspace_0093a16b3c9433b7a9348ac5e0fe3e41</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Irish Repertory Theatre Records</field>
+    <field name="collection_unitid_teim">AIA.080/repositories/2/resources/2312</field>
+    <field name="series_si">Series V. Archived Websites</field>
+    <field name="heading_ssm">Series V. Archived Websites</field>
+    <field name="unitdate_ssm">September 2019-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">384</field>
+  </doc>
+</add>

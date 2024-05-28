@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref426</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref96</field>
+    <field name="parent_ssm">aspace_ref96</field>
+    <field name="parent_unittitles_ssm">M</field>
+    <field name="parent_unittitles_teim">M</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Moylan, John</field>
+    <field name="unittitle_teim">Moylan, John</field>
+    <field name="unitid_teim">cuid34656</field>
+    <field name="unitid_ssm">cuid34656</field>
+    <field name="unitdate_normal_ssm">2011/2011</field>
+    <field name="unitdate_normal_teim">2011/2011</field>
+    <field name="unitdate_normal_sim">2011/2011</field>
+    <field name="unitdate_inclusive_teim">Mar 25, 2011</field>
+    <field name="bioghist_teim">John Moylan (b. Manhattan, New York, 1940), the son of immigrants from Co. Cork, spent his career as a doorman at Tavern on the Green, a restaurant located in Central Park. He is also the author of several articles including "Remembering Kelso," "The Boys of Summer's Past" and "The Finest of the Finest."</field>
+    <field name="ref_ssi">aspace_ref426</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">M</field>
+    <field name="series_si">M &gt;&gt; Moylan, John</field>
+    <field name="heading_ssm">Moylan, John</field>
+    <field name="unitdate_start_sim">2011</field>
+    <field name="unitdate_start_ssm">2011</field>
+    <field name="unitdate_start_si">2011</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, Mar 25, 2011</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">265</field>
+  </doc>
+</add>

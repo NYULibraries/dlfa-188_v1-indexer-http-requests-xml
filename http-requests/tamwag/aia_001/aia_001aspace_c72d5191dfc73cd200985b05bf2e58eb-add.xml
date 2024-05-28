@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_001aspace_c72d5191dfc73cd200985b05bf2e58eb</field>
+    <field name="ead_ssi">aia_001</field>
+    <field name="parent_ssi">aspace_ref153</field>
+    <field name="parent_ssm">aspace_ref117</field>
+    <field name="parent_ssm">aspace_ref153</field>
+    <field name="parent_unittitles_ssm">Series V. Commercial Recordings</field>
+    <field name="parent_unittitles_ssm">45 rpm Recordings</field>
+    <field name="parent_unittitles_teim">Series V. Commercial Recordings</field>
+    <field name="parent_unittitles_teim">45 rpm Recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dorothy Hayden Cudahy Papers</field>
+    <field name="collection_ssm">Dorothy Hayden Cudahy Papers</field>
+    <field name="collection_unitid_ssm">AIA.001/repositories/2/resources/2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Side A: Price, David, "The World Lost a Man" Side B: Price, David, "I Need a Friend"</field>
+    <field name="unittitle_teim">Side A: Price, David, "The World Lost a Man" Side B: Price, David, "I Need a Friend"</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/955059</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/955059</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_c72d5191dfc73cd200985b05bf2e58eb</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 79, Sound_Disc--Vinyl: 50</field>
+    <field name="location_ssm">Sound_Disc--Vinyl: 50</field>
+    <field name="location_si">Sound_Disc--Vinyl: 50</field>
+    <field name="collection_teim">Dorothy Hayden Cudahy Papers</field>
+    <field name="collection_unitid_teim">AIA.001/repositories/2/resources/2</field>
+    <field name="series_sim">Series V. Commercial Recordings</field>
+    <field name="series_sim">45 rpm Recordings</field>
+    <field name="series_si">Series V. Commercial Recordings &gt;&gt; 45 rpm Recordings &gt;&gt; Side A: Price, David, "The World Lost a Man" Side B: Price, David, "I Need a Friend"</field>
+    <field name="heading_ssm">Side A: Price, David, "The World Lost a Man" Side B: Price, David, "I Need a Friend"</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2416</field>
+  </doc>
+</add>

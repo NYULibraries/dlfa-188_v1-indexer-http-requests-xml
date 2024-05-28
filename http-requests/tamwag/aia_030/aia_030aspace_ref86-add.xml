@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref86</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref81</field>
+    <field name="parent_ssm">aspace_ref81</field>
+    <field name="parent_unittitles_ssm">H</field>
+    <field name="parent_unittitles_teim">H</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hayes, Thomas</field>
+    <field name="unittitle_teim">Hayes, Thomas</field>
+    <field name="unitid_teim">cuid34582</field>
+    <field name="unitid_ssm">cuid34582</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_inclusive_teim">Jun 2, 2009</field>
+    <field name="scopecontent_teim">This oral history was digitally recorded on a Marantz PMD660. The interview is 1 hour, 22 minutes, and 11 seconds long, on 2 CDs.  The interview took place in San Francisco, on June 2, 2009, and the interviewer was Myriam Nyhan.</field>
+    <field name="bioghist_teim">Thomas F. Hayes (b. Co. Limerick, 1925, d. San Francisco, 2010) emigrated to California in 1949 and in 1958 started his own business there, Tom Hayes Plastering. He was a founding member of the All Ireland Social Club and the United Irish Cultural Club, as well as a longtime member of the San Francisco Gaelic Athletic Association. He was appointed a Director of the Bay Area Rapid Transit by San Francisco Mayor Joseph Alioto in 1974. He is the father of the San Francisco Fire Chief Joanne Hayes- White.</field>
+    <field name="ref_ssi">aspace_ref86</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 23</field>
+    <field name="location_ssm">Folder: 23</field>
+    <field name="location_si">Folder: 23</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">H</field>
+    <field name="series_si">H &gt;&gt; Hayes, Thomas</field>
+    <field name="heading_ssm">Hayes, Thomas</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, Jun 2, 2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">164</field>
+  </doc>
+</add>

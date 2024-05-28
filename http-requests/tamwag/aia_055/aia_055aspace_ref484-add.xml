@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_055aspace_ref484</field>
+    <field name="ead_ssi">aia_055</field>
+    <field name="parent_ssi">aspace_ref377</field>
+    <field name="parent_ssm">aspace_ref377</field>
+    <field name="parent_unittitles_ssm">Series V. Ephemera and NonPrint</field>
+    <field name="parent_unittitles_teim">Series V. Ephemera and NonPrint</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Patrick Daughton Papers</field>
+    <field name="collection_ssm">Patrick Daughton Papers</field>
+    <field name="collection_unitid_ssm">AIA.055</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Flag: "England out of Ireland Now  March 3rd Coalition" from Reagan/Thatcher Demonstration at Golden Gate Park, Mar 3, 1983</field>
+    <field name="unittitle_teim">Flag: "England out of Ireland Now  March 3rd Coalition" from Reagan/Thatcher Demonstration at Golden Gate Park, Mar 3, 1983</field>
+    <field name="unitdate_normal_ssm">1983/1983</field>
+    <field name="unitdate_normal_teim">1983/1983</field>
+    <field name="unitdate_normal_sim">1983/1983</field>
+    <field name="unitdate_inclusive_teim">1983</field>
+    <field name="ref_ssi">aspace_ref484</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15</field>
+    <field name="location_si">Box: 15</field>
+    <field name="collection_teim">Patrick Daughton Papers</field>
+    <field name="collection_unitid_teim">AIA.055</field>
+    <field name="series_sim">Series V. Ephemera and NonPrint</field>
+    <field name="series_si">Series V. Ephemera and NonPrint &gt;&gt; Flag: "England out of Ireland Now  March 3rd Coalition" from Reagan/Thatcher Demonstration at Golden Gate Park, Mar 3, 1983</field>
+    <field name="heading_ssm">Flag: "England out of Ireland Now  March 3rd Coalition" from Reagan/Thatcher Demonstration at Golden Gate Park, Mar 3, 1983</field>
+    <field name="unitdate_start_sim">1983</field>
+    <field name="unitdate_start_ssm">1983</field>
+    <field name="unitdate_start_si">1983</field>
+    <field name="unitdate_end_sim">1983</field>
+    <field name="unitdate_end_ssm">1983</field>
+    <field name="unitdate_end_si">1983</field>
+    <field name="unitdate_ssm">Inclusive, 1983</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">395</field>
+  </doc>
+</add>

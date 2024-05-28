@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_060aspace_ref16</field>
+    <field name="ead_ssi">aia_060</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ernie O'Malley Papers</field>
+    <field name="collection_ssm">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.060/repositories/2/resources/63</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VIII. Nationalistic Material</field>
+    <field name="unittitle_teim">Series VIII. Nationalistic Material</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/17214</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/17214</field>
+    <field name="unitdate_normal_ssm">1643/1966</field>
+    <field name="unitdate_normal_teim">1643/1966</field>
+    <field name="unitdate_normal_sim">1643/1966</field>
+    <field name="unitdate_inclusive_teim">1643-1966, undated</field>
+    <field name="scopecontent_teim">This series contains newspaper clippings, booklets, notes, pamphlets, military training manuals, reports, memorandums, photographs and other printed matter relating to the nationalist movement in Ireland.  Drawn to the nationalist cause in midst of the Easter Rising in 1916, O'Malley later joined the Irish Republican Army and became a key figure in the War of Independence and Irish Civil War.  Items in this series provide details of O'Malley's military career, as well as, insight into the publications and propaganda that powered the nationalist movement throughout Ireland.  Also included in this series are official reports and memoranda issued by Oglaigh na hEireann, otherwise known as the Irish Republican Army. Of special interest in this series are a few items relating to O'Malley's interviews with veterans of the War of Independence and Civil War.  Beginning in the early 1940s, O'Malley embarked on an ambitious effort to document first-hand accounts of both wars and as a result, hand-recorded approximately 450 interviews with his former military comrades.  Most items relating to his military interviews were placed in the archives of University College Dublin in 1974, however, a limited amount of materials pertaining to the interviews remain in this series.</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_teim">AIA.060/repositories/2/resources/63</field>
+    <field name="series_si">Series VIII. Nationalistic Material</field>
+    <field name="heading_ssm">Series VIII. Nationalistic Material</field>
+    <field name="unitdate_start_sim">1643</field>
+    <field name="unitdate_start_ssm">1643</field>
+    <field name="unitdate_start_si">1643</field>
+    <field name="unitdate_end_sim">1966</field>
+    <field name="unitdate_end_ssm">1966</field>
+    <field name="unitdate_end_si">1966</field>
+    <field name="unitdate_ssm">Inclusive, 1643-1966, undated</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">537</field>
+  </doc>
+</add>

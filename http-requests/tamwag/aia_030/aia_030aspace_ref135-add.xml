@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref135</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref133</field>
+    <field name="parent_ssm">aspace_ref133</field>
+    <field name="parent_unittitles_ssm">T</field>
+    <field name="parent_unittitles_teim">T</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Tanner, Peggy</field>
+    <field name="unittitle_teim">Tanner, Peggy</field>
+    <field name="unitid_teim">cuid34735</field>
+    <field name="unitid_ssm">cuid34735</field>
+    <field name="unitdate_normal_ssm">2008/2008</field>
+    <field name="unitdate_normal_teim">2008/2008</field>
+    <field name="unitdate_normal_sim">2008/2008</field>
+    <field name="unitdate_inclusive_teim">Nov 24, 2008</field>
+    <field name="scopecontent_teim">This oral history was digitally recorded on a Marantz PCM660. The interview is approximately 40 minutes long, on 1 CD.  The interview took place in Bayville, New Jersey, on November 24, 2008, and the interviewer was Myriam Nyhan.</field>
+    <field name="bioghist_teim">Peggy Tanner was born in the Bronx in 1929, but moved with her family back to Kilgarvan, Co. Kerry, Ireland, as a young child during the Depression.  Her father, Denis Hegarty, was a commandant in the IRA who fought in the 1916 Easter Rising.  Peggy trained as a nurse in England in 1947 and immigrated to America in 1953, where she continued her work in nursing.  She became involved in local politics in New York and served on the Advisory Committee on Parks and Landscapes.</field>
+    <field name="ref_ssi">aspace_ref135</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">T</field>
+    <field name="series_si">T &gt;&gt; Tanner, Peggy</field>
+    <field name="heading_ssm">Tanner, Peggy</field>
+    <field name="unitdate_start_sim">2008</field>
+    <field name="unitdate_start_ssm">2008</field>
+    <field name="unitdate_start_si">2008</field>
+    <field name="unitdate_end_sim">2008</field>
+    <field name="unitdate_end_ssm">2008</field>
+    <field name="unitdate_end_si">2008</field>
+    <field name="unitdate_ssm">Inclusive, Nov 24, 2008</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">375</field>
+  </doc>
+</add>

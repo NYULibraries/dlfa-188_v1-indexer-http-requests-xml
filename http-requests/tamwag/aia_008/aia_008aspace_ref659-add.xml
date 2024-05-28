@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_008aspace_ref659</field>
+    <field name="ead_ssi">aia_008</field>
+    <field name="parent_ssi">aspace_ref657</field>
+    <field name="parent_ssm">aspace_ref382</field>
+    <field name="parent_ssm">aspace_ref657</field>
+    <field name="parent_unittitles_ssm">Series VII. Audio Visual Materials</field>
+    <field name="parent_unittitles_ssm">Subseries A: Cassettes</field>
+    <field name="parent_unittitles_teim">Series VII. Audio Visual Materials</field>
+    <field name="parent_unittitles_teim">Subseries A: Cassettes</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Frank Durkan Papers</field>
+    <field name="collection_ssm">Frank Durkan Papers</field>
+    <field name="collection_unitid_ssm">AIA.008</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Brady, Sean: Free the Six. Brady Records, London. Side 1: Free the Six, Belfast Town, Grace, Leaving of Liverpool, Tommy Atkins; Side 2: My Green Valleys, Take it Down from the Mast, Tom Williams, Boston I Need You, British Justice</field>
+    <field name="unittitle_teim">Brady, Sean: Free the Six. Brady Records, London. Side 1: Free the Six, Belfast Town, Grace, Leaving of Liverpool, Tommy Atkins; Side 2: My Green Valleys, Take it Down from the Mast, Tom Williams, Boston I Need You, British Justice</field>
+    <field name="unitid_teim">cuid33377</field>
+    <field name="unitid_ssm">cuid33377</field>
+    <field name="unitdate_normal_ssm">1987/1987</field>
+    <field name="unitdate_normal_teim">1987/1987</field>
+    <field name="unitdate_normal_sim">1987/1987</field>
+    <field name="unitdate_inclusive_teim">1987</field>
+    <field name="ref_ssi">aspace_ref659</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 28A, Cassette: 1</field>
+    <field name="location_ssm">Cassette: 1</field>
+    <field name="location_si">Cassette: 1</field>
+    <field name="collection_teim">Frank Durkan Papers</field>
+    <field name="collection_unitid_teim">AIA.008</field>
+    <field name="series_sim">Series VII. Audio Visual Materials</field>
+    <field name="series_sim">Subseries A: Cassettes</field>
+    <field name="series_si">Series VII. Audio Visual Materials &gt;&gt; Subseries A: Cassettes &gt;&gt; Brady, Sean: Free the Six. Brady Records, London. Side 1: Free the Six, Belfast Town, Grace, Leaving of Liverpool, Tommy Atkins; Side 2: My Green Valleys, Take it Down from the Mast, Tom Williams, Boston I Need You, British Justice</field>
+    <field name="heading_ssm">Brady, Sean: Free the Six. Brady Records, London. Side 1: Free the Six, Belfast Town, Grace, Leaving of Liverpool, Tommy Atkins; Side 2: My Green Valleys, Take it Down from the Mast, Tom Williams, Boston I Need You, British Justice</field>
+    <field name="unitdate_start_sim">1987</field>
+    <field name="unitdate_start_ssm">1987</field>
+    <field name="unitdate_start_si">1987</field>
+    <field name="unitdate_end_sim">1987</field>
+    <field name="unitdate_end_ssm">1987</field>
+    <field name="unitdate_end_si">1987</field>
+    <field name="unitdate_ssm">Inclusive, 1987</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">823</field>
+  </doc>
+</add>

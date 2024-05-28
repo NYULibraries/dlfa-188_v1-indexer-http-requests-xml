@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_081aspace_c392bfbf78561c8e163bdf3fc323529f</field>
+    <field name="ead_ssi">aia_081</field>
+    <field name="parent_ssi">aspace_cb30cba7d4902c9dbe7a0218bf5fba6a</field>
+    <field name="parent_ssm">aspace_cb30cba7d4902c9dbe7a0218bf5fba6a</field>
+    <field name="parent_unittitles_ssm">Series II. Irish American Cultural Institute Records</field>
+    <field name="parent_unittitles_teim">Series II. Irish American Cultural Institute Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Eoin McKiernan and Deirdre McKiernan Hetzler Papers</field>
+    <field name="collection_ssm">Eoin McKiernan and Deirdre McKiernan Hetzler Papers</field>
+    <field name="collection_unitid_ssm">AIA.081</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Film of event attended by Princess Grace of Monaco</field>
+    <field name="unittitle_teim">Film of event attended by Princess Grace of Monaco</field>
+    <field name="unitid_teim">cuid197</field>
+    <field name="unitid_ssm">cuid197</field>
+    <field name="unitdate_normal_ssm">1975/1981</field>
+    <field name="unitdate_normal_teim">1975/1981</field>
+    <field name="unitdate_normal_sim">1975/1981</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_c392bfbf78561c8e163bdf3fc323529f</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">reel: 17</field>
+    <field name="location_ssm">reel: 18</field>
+    <field name="location_ssm">Box: Shared Tamiment 127, reel: 16</field>
+    <field name="location_ssm">reel: 16</field>
+    <field name="location_si">reel: 16</field>
+    <field name="collection_teim">Eoin McKiernan and Deirdre McKiernan Hetzler Papers</field>
+    <field name="collection_unitid_teim">AIA.081</field>
+    <field name="series_sim">Series II. Irish American Cultural Institute Records</field>
+    <field name="series_si">Series II. Irish American Cultural Institute Records &gt;&gt; Film of event attended by Princess Grace of Monaco</field>
+    <field name="heading_ssm">Film of event attended by Princess Grace of Monaco</field>
+    <field name="unitdate_start_sim">1975</field>
+    <field name="unitdate_start_ssm">1975</field>
+    <field name="unitdate_start_si">1975</field>
+    <field name="unitdate_end_sim">1981</field>
+    <field name="unitdate_end_ssm">1981</field>
+    <field name="unitdate_end_si">1981</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">69</field>
+  </doc>
+</add>

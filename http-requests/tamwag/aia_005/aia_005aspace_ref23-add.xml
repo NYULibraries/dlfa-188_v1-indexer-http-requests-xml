@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_005aspace_ref23</field>
+    <field name="ead_ssi">aia_005</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series III: Freedom of Information Act (FOIA) Requests and Correspondence</field>
+    <field name="parent_unittitles_teim">Series III: Freedom of Information Act (FOIA) Requests and Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sean Prendiville Papers</field>
+    <field name="collection_ssm">Sean Prendiville Papers</field>
+    <field name="collection_unitid_ssm">AIA.005</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Gralton, James 65-35485-1;65-35485-5</field>
+    <field name="unittitle_teim">Gralton, James 65-35485-1;65-35485-5</field>
+    <field name="unitid_teim">cuid14947</field>
+    <field name="unitid_ssm">cuid14947</field>
+    <field name="unitdate_teim">Jun 1943-Oct 1944</field>
+    <field name="ref_ssi">aspace_ref23</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 13</field>
+    <field name="location_ssm">Folder: 13</field>
+    <field name="location_si">Folder: 13</field>
+    <field name="collection_teim">Sean Prendiville Papers</field>
+    <field name="collection_unitid_teim">AIA.005</field>
+    <field name="series_sim">Series III: Freedom of Information Act (FOIA) Requests and Correspondence</field>
+    <field name="series_si">Series III: Freedom of Information Act (FOIA) Requests and Correspondence &gt;&gt; Gralton, James 65-35485-1;65-35485-5</field>
+    <field name="heading_ssm">Gralton, James 65-35485-1;65-35485-5</field>
+    <field name="unitdate_ssm">Jun 1943-Oct 1944</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

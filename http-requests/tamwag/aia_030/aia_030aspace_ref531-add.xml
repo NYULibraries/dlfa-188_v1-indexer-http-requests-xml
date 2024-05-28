@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref531</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref55</field>
+    <field name="parent_ssm">aspace_ref55</field>
+    <field name="parent_unittitles_ssm">B</field>
+    <field name="parent_unittitles_teim">B</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Branley, Mary</field>
+    <field name="unittitle_teim">Branley, Mary</field>
+    <field name="unitid_teim">cuid34481</field>
+    <field name="unitid_ssm">cuid34481</field>
+    <field name="unitdate_teim">Aug 1, 2013</field>
+    <field name="bioghist_teim">Mary Branley (b. Sligo Town, Co. Sligo, Ireland, 1962) studied Multicultural Education in Boston, taught in an inner city school, then returned to Ireland where she is a teacher and poet.</field>
+    <field name="ref_ssi">aspace_ref531</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 22</field>
+    <field name="location_ssm">Folder: 22</field>
+    <field name="location_si">Folder: 22</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">B</field>
+    <field name="series_si">B &gt;&gt; Branley, Mary</field>
+    <field name="heading_ssm">Branley, Mary</field>
+    <field name="unitdate_ssm">Aug 1, 2013</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">18</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_060aspace_ref17</field>
+    <field name="ead_ssi">aia_060</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ernie O'Malley Papers</field>
+    <field name="collection_ssm">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.060/repositories/2/resources/63</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IX. Jack B. Yeats</field>
+    <field name="unittitle_teim">Series IX. Jack B. Yeats</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/17262</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/17262</field>
+    <field name="unitdate_normal_ssm">1904/1980</field>
+    <field name="unitdate_normal_teim">1904/1980</field>
+    <field name="unitdate_normal_sim">1904/1980</field>
+    <field name="unitdate_inclusive_teim">1904-1980</field>
+    <field name="scopecontent_teim">The series contains correspondence, articles, clippings, invitations, cancelled checks, receipts, notes, exhibition catalogs, stamps and photographs collected by Ernie O'Malley relating to Jack B. Yeats, as well as, items relating to Yeats' father, John B. Yeats, and brother, William Butler Yeats.  Items in this series are of both a personal and professional nature.  O'Malley and Jack B. Yeats met in Ireland during the 1930s and developed a friendship that lasted until their deaths in 1957.  In addition to being a patron of Yeats' artwork, O'Malley served on the Jack B. Yeats National Loan Exhibition Committee and authored the introduction for the exhibition's catalog in 1945.  Throughout the course of their friendship Yeats gifted O'Malley various pencil sketches and writings by John B. Yeats, in addition to several letters written by the elder Yeats to his other son, William Butler Yeats.  Other items include Yeats materials collected by Ernie O'Malley's son, Cormac O'Malley.</field>
+    <field name="ref_ssi">aspace_ref17</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_teim">AIA.060/repositories/2/resources/63</field>
+    <field name="series_si">Series IX. Jack B. Yeats</field>
+    <field name="heading_ssm">Series IX. Jack B. Yeats</field>
+    <field name="unitdate_start_sim">1904</field>
+    <field name="unitdate_start_ssm">1904</field>
+    <field name="unitdate_start_si">1904</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, 1904-1980</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">585</field>
+  </doc>
+</add>

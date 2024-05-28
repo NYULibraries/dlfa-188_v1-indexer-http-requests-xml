@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_080aspace_6f72ce7f6c81337df6a71d5d63145b16</field>
+    <field name="ead_ssi">aia_080</field>
+    <field name="parent_ssi">aspace_6cc7f8168dc410f9ca1d791450f75332</field>
+    <field name="parent_ssm">aspace_6cc7f8168dc410f9ca1d791450f75332</field>
+    <field name="parent_unittitles_ssm">Series III. Administrative Records</field>
+    <field name="parent_unittitles_teim">Series III. Administrative Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Irish Repertory Theatre Records</field>
+    <field name="collection_ssm">Irish Repertory Theatre Records</field>
+    <field name="collection_unitid_ssm">AIA.080/repositories/2/resources/2312</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III. C. General Manager Records</field>
+    <field name="unittitle_teim">Subseries III. C. General Manager Records</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/771452</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/771452</field>
+    <field name="unitdate_normal_ssm">1997/2004</field>
+    <field name="unitdate_normal_teim">1997/2004</field>
+    <field name="unitdate_normal_sim">1997/2004</field>
+    <field name="unitdate_inclusive_teim">1997-2004</field>
+    <field name="scopecontent_teim">This subseries documents the work of two of the General Managers of the IRT, Shelley A. Troupe and Meridith Sommers.  Responsibilities of this role documented in this subseries include managing day-to-day activities of the IRT, organizing the IRT's annual benefit, participating in advertising and development campaigns, managing the box office, and tracking compliance with the Actor's Equity Association (AEA) contracts.  Material in this subseries consists of paper and born-digital material and includes correspondence, budgets, audits, contracts, photographs, box office reports, meeting agenda and minutes, and promotional material.  This subseries includes Board of Directors meeting agenda and minutes and correspondence with the AEA, IRT members and sponsors, vendors, and insurance providers.</field>
+    <field name="ref_ssi">aspace_6f72ce7f6c81337df6a71d5d63145b16</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Irish Repertory Theatre Records</field>
+    <field name="collection_unitid_teim">AIA.080/repositories/2/resources/2312</field>
+    <field name="series_sim">Series III. Administrative Records</field>
+    <field name="series_si">Series III. Administrative Records &gt;&gt; Subseries III. C. General Manager Records</field>
+    <field name="heading_ssm">Subseries III. C. General Manager Records</field>
+    <field name="unitdate_start_sim">1997</field>
+    <field name="unitdate_start_ssm">1997</field>
+    <field name="unitdate_start_si">1997</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, 1997-2004</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">269</field>
+  </doc>
+</add>

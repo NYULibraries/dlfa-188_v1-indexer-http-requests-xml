@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref45</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref56</field>
+    <field name="parent_ssm">aspace_ref56</field>
+    <field name="parent_unittitles_ssm">C</field>
+    <field name="parent_unittitles_teim">C</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Carroll, Patrick</field>
+    <field name="unittitle_teim">Carroll, Patrick</field>
+    <field name="unitid_teim">cuid34496</field>
+    <field name="unitid_ssm">cuid34496</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_inclusive_teim">Apr 7, 2009</field>
+    <field name="scopecontent_teim">This oral history was digitally recorded on a Marantz PMD660. The interview is approximately 2 hours and 45 minutes long, on 3 CDs.  The interview took place on April 7, 2009, and the interviewer was Myriam Nyhan.</field>
+    <field name="bioghist_teim">Patrick Carroll (b. New York, New York, 1965) is 2nd generation Irish through his mother, Martina Carroll, and 3rd generation Irish through his father. He was raised in Manhattan's Stuyvesant Town. He is a Special Agent for the US Department of Justice, Federal Bureau of Investigation.</field>
+    <field name="ref_ssi">aspace_ref45</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 20</field>
+    <field name="location_ssm">Folder: 20</field>
+    <field name="location_si">Folder: 20</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">C</field>
+    <field name="series_si">C &gt;&gt; Carroll, Patrick</field>
+    <field name="heading_ssm">Carroll, Patrick</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, Apr 7, 2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>

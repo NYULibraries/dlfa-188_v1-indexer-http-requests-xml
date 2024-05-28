@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_010aspace_ref130</field>
+    <field name="ead_ssi">aia_010</field>
+    <field name="parent_ssi">aspace_ref126</field>
+    <field name="parent_ssm">aspace_ref126</field>
+    <field name="parent_unittitles_ssm">Series IV. Audio</field>
+    <field name="parent_unittitles_teim">Series IV. Audio</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">James J. Comerford Papers</field>
+    <field name="collection_ssm">James J. Comerford Papers</field>
+    <field name="collection_unitid_ssm">AIA.010</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
+9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
+    <field name="unittitle_teim">Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
+9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
+    <field name="unitdate_normal_ssm">1938/1938</field>
+    <field name="unitdate_normal_teim">1938/1938</field>
+    <field name="unitdate_normal_sim">1938/1938</field>
+    <field name="unitdate_inclusive_teim">Apr 19, 1938</field>
+    <field name="ref_ssi">aspace_ref130</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, Item: 4</field>
+    <field name="location_ssm">Item: 4</field>
+    <field name="location_si">Item: 4</field>
+    <field name="collection_teim">James J. Comerford Papers</field>
+    <field name="collection_unitid_teim">AIA.010</field>
+    <field name="series_sim">Series IV. Audio</field>
+    <field name="series_si">Series IV. Audio &gt;&gt; Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
+9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
+    <field name="heading_ssm">Aluminum Disk: Play with ... [?] ... Thomas Davis Players  Side 1. 7. Mary O'Neill, 8. John Duffy
+9. David Donaghy; Side 2. 9. David Donaghy (continuted), 10. Martin Walsh</field>
+    <field name="unitdate_start_sim">1938</field>
+    <field name="unitdate_start_ssm">1938</field>
+    <field name="unitdate_start_si">1938</field>
+    <field name="unitdate_end_sim">1938</field>
+    <field name="unitdate_end_ssm">1938</field>
+    <field name="unitdate_end_si">1938</field>
+    <field name="unitdate_ssm">Inclusive, Apr 19, 1938</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">112</field>
+  </doc>
+</add>

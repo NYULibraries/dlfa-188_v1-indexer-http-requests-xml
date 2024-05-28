@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_012aspace_ref48</field>
+    <field name="ead_ssi">aia_012</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Paul O'Dwyer (1907-1998)</field>
+    <field name="parent_unittitles_teim">Paul O'Dwyer (1907-1998)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jane Conlon Muller Oral History Collection</field>
+    <field name="collection_ssm">Jane Conlon Muller Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.012</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Paul O'Dwyer - 14 November 1990</field>
+    <field name="unittitle_teim">Paul O'Dwyer - 14 November 1990</field>
+    <field name="unitid_teim">cuid36245</field>
+    <field name="unitid_ssm">cuid36245</field>
+    <field name="unitdate_teim">Nov 14, 1990</field>
+    <field name="scopecontent_teim">[16:29] Where did you have this meeting?</field>
+    <field name="scopecontent_teim">[26:09] Where was Lowenstein originally from?</field>
+    <field name="scopecontent_teim">[31:50] Where did you end up having the meeting?</field>
+    <field name="phystech_teim">Duration: 64 Minutes. Preservation Note: Poor audio quality (Buzzing heard as ambient noise).</field>
+    <field name="dao_teim">Paul O'Dwyer - 14 November 1990</field>
+    <field name="dao_teim">Paul O'Dwyer - 14 November 1990: Nov 14, 1990</field>
+    <field name="dao_ssm">Paul O'Dwyer - 14 November 1990</field>
+    <field name="dao_ssm">Paul O'Dwyer - 14 November 1990: Nov 14, 1990</field>
+    <field name="ref_ssi">aspace_ref48</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Cassette: 7</field>
+    <field name="location_ssm">Cassette: 7</field>
+    <field name="location_ssm">Box: 4, CD: data_value_missing_3f056932e1ca7de4b23c0779febdf77e</field>
+    <field name="location_ssm">CD: data_value_missing_3f056932e1ca7de4b23c0779febdf77e, track: 1</field>
+    <field name="location_ssm">track: 1</field>
+    <field name="location_ssm">Box: 3, CD: 7</field>
+    <field name="location_ssm">CD: 7, track: 1</field>
+    <field name="location_si">track: 1</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Jane Conlon Muller Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.012</field>
+    <field name="series_sim">Paul O'Dwyer (1907-1998)</field>
+    <field name="series_si">Paul O'Dwyer (1907-1998) &gt;&gt; Paul O'Dwyer - 14 November 1990</field>
+    <field name="heading_ssm">Paul O'Dwyer - 14 November 1990</field>
+    <field name="unitdate_ssm">Nov 14, 1990</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">14</field>
+  </doc>
+</add>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_045aspace_ref246</field>
+    <field name="ead_ssi">aia_045</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series II: Ireland</field>
+    <field name="parent_unittitles_ssm">Subseries II.A: Tourism</field>
+    <field name="parent_unittitles_teim">Series II: Ireland</field>
+    <field name="parent_unittitles_teim">Subseries II.A: Tourism</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Irish Echo Photographs</field>
+    <field name="collection_ssm">Irish Echo Photographs</field>
+    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">County Donegal</field>
+    <field name="unittitle_teim">County Donegal</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/14256</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/14256</field>
+    <field name="unitdate_teim">1996</field>
+    <field name="ref_ssi">aspace_ref246</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_ssm">Box: 30, Folder: 30</field>
+    <field name="location_ssm">Folder: 30</field>
+    <field name="location_si">Folder: 30</field>
+    <field name="collection_teim">Irish Echo Photographs</field>
+    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="series_sim">Series II: Ireland</field>
+    <field name="series_sim">Subseries II.A: Tourism</field>
+    <field name="series_si">Series II: Ireland &gt;&gt; Subseries II.A: Tourism &gt;&gt; County Donegal</field>
+    <field name="heading_ssm">County Donegal</field>
+    <field name="unitdate_ssm">1996</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">299</field>
+  </doc>
+</add>

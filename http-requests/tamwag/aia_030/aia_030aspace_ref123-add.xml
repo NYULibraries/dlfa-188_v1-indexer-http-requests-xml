@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref123</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref120</field>
+    <field name="parent_ssm">aspace_ref120</field>
+    <field name="parent_unittitles_ssm">Q</field>
+    <field name="parent_unittitles_teim">Q</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Quinn, Sean</field>
+    <field name="unittitle_teim">Quinn, Sean</field>
+    <field name="unitid_teim">cuid34702</field>
+    <field name="unitid_ssm">cuid34702</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_inclusive_teim">Feb 7, 2009</field>
+    <field name="scopecontent_teim">Some of the key themes discussed in this interview are: JFK's death; the significance of music as a way of uniting people; influences of Riverdance and the Clancys and Tommy Makem; and growing up as the son of a well-known musician.</field>
+    <field name="scopecontent_teim">This oral history was digitally recorded on a Marantz PMD660. The interview is approximately 2 hours long, on 2 CDs.  The interview took place on February 7, 2009, and the interviewer was Myriam Nyhan.</field>
+    <field name="bioghist_teim">Sean Quinn was born in New York in 1947, the son of Irish immigrants from Monaghan and Armagh.  Sean inherited a talent for music from his father, Irish fiddler Louis Quinn, and as a child in the 1950s Sean learned to play with Irish musicians who gathered in his family's home in Queens.  One of seven children, Sean and his siblings formed the musical group the Quinn Family, which recorded and toured Ireland.  He is a musician and music teacher in New York.</field>
+    <field name="ref_ssi">aspace_ref123</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 48</field>
+    <field name="location_ssm">Folder: 48</field>
+    <field name="location_si">Folder: 48</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">Q</field>
+    <field name="series_si">Q &gt;&gt; Quinn, Sean</field>
+    <field name="heading_ssm">Quinn, Sean</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, Feb 7, 2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">332</field>
+  </doc>
+</add>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref51</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref56</field>
+    <field name="parent_ssm">aspace_ref56</field>
+    <field name="parent_unittitles_ssm">C</field>
+    <field name="parent_unittitles_teim">C</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Connolly, Marie</field>
+    <field name="unittitle_teim">Connolly, Marie</field>
+    <field name="unitid_teim">cuid34504</field>
+    <field name="unitid_ssm">cuid34504</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_inclusive_teim">Jun 23, 2009</field>
+    <field name="scopecontent_teim">This oral history was digitally recorded on a Marantz PMD660. The interview is approximately 100 minutes long, on 2 CDs.  The interview took place in Wantagh, NY, on February 26, 2009, and the interviewer was Myriam Nyhan.</field>
+    <field name="bioghist_teim">Marie Connolly (b. New York, 1935), raised in County Longford, Ireland, from the age of two, she returned to Astoria, NY as a teenager in 1949. She later worked in admissions for the Berkeley School and the Wood School in Manhattan before raising three children on Long Island.</field>
+    <field name="ref_ssi">aspace_ref51</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 27</field>
+    <field name="location_ssm">Folder: 27</field>
+    <field name="location_si">Folder: 27</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">C</field>
+    <field name="series_si">C &gt;&gt; Connolly, Marie</field>
+    <field name="heading_ssm">Connolly, Marie</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, Jun 23, 2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">53</field>
+  </doc>
+</add>

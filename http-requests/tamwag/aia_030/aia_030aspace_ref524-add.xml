@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref524</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref96</field>
+    <field name="parent_ssm">aspace_ref96</field>
+    <field name="parent_unittitles_ssm">M</field>
+    <field name="parent_unittitles_teim">M</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">McNamara, Sr. Lillian</field>
+    <field name="unittitle_teim">McNamara, Sr. Lillian</field>
+    <field name="unitid_teim">cuid34642</field>
+    <field name="unitid_ssm">cuid34642</field>
+    <field name="unitdate_teim">Apr 18, 2012</field>
+    <field name="bioghist_teim">Sr. Lillian McNamara (b. New York, New York, 1940) is the daughter of Irish parents from Co. Clare and grew up in Manhattan. She has been working with Encore Community Services since 1976 and is currently the Director of Operations there.</field>
+    <field name="ref_ssi">aspace_ref524</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 67</field>
+    <field name="location_ssm">Folder: 67</field>
+    <field name="location_si">Folder: 67</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">M</field>
+    <field name="series_si">M &gt;&gt; McNamara, Sr. Lillian</field>
+    <field name="heading_ssm">McNamara, Sr. Lillian</field>
+    <field name="unitdate_ssm">Apr 18, 2012</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">245</field>
+  </doc>
+</add>

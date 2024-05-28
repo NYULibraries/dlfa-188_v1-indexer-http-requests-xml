@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_048aspace_ref53</field>
+    <field name="ead_ssi">aia_048</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Inventory
+</field>
+    <field name="parent_unittitles_teim">Inventory
+</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">James P. Sullivan Collection</field>
+    <field name="collection_ssm">James P. Sullivan Collection</field>
+    <field name="collection_unitid_ssm">AIA.048</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Page from &lt;em&gt;The Graphic&lt;/em&gt; "American Triumps at the Olympic Games" p. 2</field>
+    <field name="unittitle_teim">Page from The Graphic "American Triumps at the Olympic Games" p. 2</field>
+    <field name="unitdate_teim">Jul 25, 1909</field>
+    <field name="ref_ssi">aspace_ref53</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Item: aia048_051</field>
+    <field name="location_ssm">Item: aia048_051</field>
+    <field name="location_si">Item: aia048_051</field>
+    <field name="collection_teim">James P. Sullivan Collection</field>
+    <field name="collection_unitid_teim">AIA.048</field>
+    <field name="series_sim">Inventory
+</field>
+    <field name="series_si">Inventory
+ &gt;&gt; Page from &lt;em&gt;The Graphic&lt;/em&gt; "American Triumps at the Olympic Games" p. 2</field>
+    <field name="heading_ssm">Page from The Graphic "American Triumps at the Olympic Games" p. 2</field>
+    <field name="unitdate_ssm">Jul 25, 1909</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">52</field>
+  </doc>
+</add>

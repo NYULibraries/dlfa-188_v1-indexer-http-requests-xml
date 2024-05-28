@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_047aspace_86553b167a93deff400cb51385c2099a</field>
+    <field name="ead_ssi">aia_047</field>
+    <field name="parent_ssi">aspace_ref83</field>
+    <field name="parent_ssm">aspace_ref83</field>
+    <field name="parent_unittitles_ssm">General Collection</field>
+    <field name="parent_unittitles_teim">General Collection</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Archives of Irish America Pamphlet Collection</field>
+    <field name="collection_ssm">Archives of Irish America Pamphlet Collection</field>
+    <field name="collection_unitid_ssm">AIA.047</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;The Foundation of the Republic of Ireland in the Vote of the People"&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      The Foundation of the Republic of Ireland in the Vote of the People"
+    </field>
+    <field name="unitdate_normal_ssm">1919/1919</field>
+    <field name="unitdate_normal_teim">1919/1919</field>
+    <field name="unitdate_normal_sim">1919/1919</field>
+    <field name="unitdate_teim">circa 1919</field>
+    <field name="ref_ssi">aspace_86553b167a93deff400cb51385c2099a</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Archives of Irish America Pamphlet Collection</field>
+    <field name="collection_unitid_teim">AIA.047</field>
+    <field name="series_sim">General Collection</field>
+    <field name="series_si">General Collection &gt;&gt; 
+      &lt;em&gt;The Foundation of the Republic of Ireland in the Vote of the People"&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      The Foundation of the Republic of Ireland in the Vote of the People"
+    </field>
+    <field name="unitdate_start_sim">1919</field>
+    <field name="unitdate_start_ssm">1919</field>
+    <field name="unitdate_start_si">1919</field>
+    <field name="unitdate_end_sim">1919</field>
+    <field name="unitdate_end_ssm">1919</field>
+    <field name="unitdate_end_si">1919</field>
+    <field name="unitdate_ssm">circa 1919</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">56</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_005aspace_ref72</field>
+    <field name="ead_ssi">aia_005</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sean Prendiville Papers</field>
+    <field name="collection_ssm">Sean Prendiville Papers</field>
+    <field name="collection_unitid_ssm">AIA.005</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Correspondence </field>
+    <field name="unittitle_teim">Series I. Correspondence </field>
+    <field name="unitdate_normal_ssm">1902/1997</field>
+    <field name="unitdate_normal_teim">1902/1997</field>
+    <field name="unitdate_normal_sim">1902/1997</field>
+    <field name="unitdate_inclusive_teim">1902-1997</field>
+    <field name="scopecontent_teim">This series consists of personal correspondence between Prendiville and numerous individuals.  Of note are two folders of letters between Prendiville and Gerald O'Reily, a prominent member of the New York City Transit Workers Union (TWU) and a contemporary of TWU President Mike Quill.  Materials in the correspondence concern Irish Republicans Frank Ryan and Father Michael O' Flanagan.</field>
+    <field name="ref_ssi">aspace_ref72</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sean Prendiville Papers</field>
+    <field name="collection_unitid_teim">AIA.005</field>
+    <field name="series_si">Series I. Correspondence </field>
+    <field name="heading_ssm">Series I. Correspondence </field>
+    <field name="unitdate_start_sim">1902</field>
+    <field name="unitdate_start_ssm">1902</field>
+    <field name="unitdate_start_si">1902</field>
+    <field name="unitdate_end_sim">1997</field>
+    <field name="unitdate_end_ssm">1997</field>
+    <field name="unitdate_end_si">1997</field>
+    <field name="unitdate_ssm">Inclusive, 1902-1997</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref564</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref128</field>
+    <field name="parent_ssm">aspace_ref128</field>
+    <field name="parent_unittitles_ssm">S</field>
+    <field name="parent_unittitles_teim">S</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Smyth, Mary</field>
+    <field name="unittitle_teim">Smyth, Mary</field>
+    <field name="unitid_teim">cuid34726</field>
+    <field name="unitid_ssm">cuid34726</field>
+    <field name="unitdate_teim">Jul 30, 2013</field>
+    <field name="bioghist_teim">Mary Smyth (b. Doonfeeny, Co. Mayo, Ireland, 1932) grew up on a farm in Co. Mayo and emigrated to New York City in 1953 where she worked in a series of domestic jobs and raised a family.</field>
+    <field name="ref_ssi">aspace_ref564</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 83</field>
+    <field name="location_ssm">Folder: 83</field>
+    <field name="location_si">Folder: 83</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">S</field>
+    <field name="series_si">S &gt;&gt; Smyth, Mary</field>
+    <field name="heading_ssm">Smyth, Mary</field>
+    <field name="unitdate_ssm">Jul 30, 2013</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">364</field>
+  </doc>
+</add>

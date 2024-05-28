@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_086aspace_ca2cb09606f90bd1bc96e88f197ab39d</field>
+    <field name="ead_ssi">aia_086</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Daniel Lane Collection</field>
+    <field name="collection_ssm">Daniel Lane Collection</field>
+    <field name="collection_unitid_ssm">AIA.086</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Joe Doherty Buttons</field>
+    <field name="unittitle_teim">Joe Doherty Buttons</field>
+    <field name="unitid_teim">cuid18914</field>
+    <field name="unitid_ssm">cuid18914</field>
+    <field name="unitdate_normal_ssm">1983/1992</field>
+    <field name="unitdate_normal_teim">1983/1992</field>
+    <field name="unitdate_normal_sim">1983/1992</field>
+    <field name="unitdate_inclusive_teim">circa 1983-1992</field>
+    <field name="ref_ssi">aspace_ca2cb09606f90bd1bc96e88f197ab39d</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Daniel Lane Collection</field>
+    <field name="collection_unitid_teim">AIA.086</field>
+    <field name="series_si">Joe Doherty Buttons</field>
+    <field name="heading_ssm">Joe Doherty Buttons</field>
+    <field name="unitdate_start_sim">1983</field>
+    <field name="unitdate_start_ssm">1983</field>
+    <field name="unitdate_start_si">1983</field>
+    <field name="unitdate_end_sim">1992</field>
+    <field name="unitdate_end_ssm">1992</field>
+    <field name="unitdate_end_si">1992</field>
+    <field name="unitdate_ssm">Inclusive, circa 1983-1992</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

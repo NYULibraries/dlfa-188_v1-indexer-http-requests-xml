@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_045aspace_ref1049</field>
+    <field name="ead_ssi">aia_045</field>
+    <field name="parent_ssi">aspace_ref68</field>
+    <field name="parent_ssm">aspace_ref68</field>
+    <field name="parent_unittitles_ssm">Series VI: Film, Television, and Theatre</field>
+    <field name="parent_unittitles_teim">Series VI: Film, Television, and Theatre</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Irish Echo Photographs</field>
+    <field name="collection_ssm">Irish Echo Photographs</field>
+    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VI.B: Theatre</field>
+    <field name="unittitle_teim">Subseries VI.B: Theatre</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/15153</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/15153</field>
+    <field name="unitdate_normal_ssm">1970/2004</field>
+    <field name="unitdate_normal_teim">1970/2004</field>
+    <field name="unitdate_normal_sim">1970/2004</field>
+    <field name="unitdate_inclusive_teim">1970-2004</field>
+    <field name="scopecontent_teim">This subseries consists of photographic prints of popular Irish and Irish American theatre productions staged in Ireland, primarily Dublin, and in the United States, primarily New York.  Featured in this subseries are photographs of significant works including Martin McDonagh's The Beauty Queen of Leenane, Samuel Beckett's Waiting for Godot, and Brian Friel's Dancing at Lughnasa.  Photographs of several Shakespearean productions, including Hamlet, King Lear, and A Midsummer's Night Dream, are also included. The majority of photographs featured in this subseries were taken between 1980 and the early 2000s.</field>
+    <field name="ref_ssi">aspace_ref1049</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Irish Echo Photographs</field>
+    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="series_sim">Series VI: Film, Television, and Theatre</field>
+    <field name="series_si">Series VI: Film, Television, and Theatre &gt;&gt; Subseries VI.B: Theatre</field>
+    <field name="heading_ssm">Subseries VI.B: Theatre</field>
+    <field name="unitdate_start_sim">1970</field>
+    <field name="unitdate_start_ssm">1970</field>
+    <field name="unitdate_start_si">1970</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, 1970-2004</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1326</field>
+  </doc>
+</add>

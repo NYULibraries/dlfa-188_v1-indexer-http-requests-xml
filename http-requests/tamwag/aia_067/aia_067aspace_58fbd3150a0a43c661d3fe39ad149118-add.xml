@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_067aspace_58fbd3150a0a43c661d3fe39ad149118</field>
+    <field name="ead_ssi">aia_067</field>
+    <field name="parent_ssi">aspace_ea0ec9646760a2b633e77d75b68d7223</field>
+    <field name="parent_ssm">aspace_ea0ec9646760a2b633e77d75b68d7223</field>
+    <field name="parent_unittitles_ssm">Series I: The Troubles in Northern Ireland</field>
+    <field name="parent_unittitles_teim">Series I: The Troubles in Northern Ireland</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jack O'Brien Papers</field>
+    <field name="collection_ssm">Jack O'Brien Papers</field>
+    <field name="collection_unitid_ssm">AIA.067/repositories/2/resources/70</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series I.A: 1981 Hunger Strike</field>
+    <field name="unittitle_teim">Sub-series I.A: 1981 Hunger Strike</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/930003</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/930003</field>
+    <field name="unitdate_normal_ssm">1980/2020</field>
+    <field name="unitdate_normal_teim">1980/2020</field>
+    <field name="unitdate_normal_sim">1980/2020</field>
+    <field name="unitdate_inclusive_teim">1980-2020</field>
+    <field name="scopecontent_teim">This series focuses upon the 1981 Hunger Strike, specifically the public outcry against the actions of the British government and public support for the striking prisoners. Some of the material in this series focuses on Bobby Sands' election to Parliament while imprisoned at HMS Maze Prison (also known as Long Kesh Prison) and his death. There are also commemorative materials remembering the legacy of the 1981 Hunger Strike.</field>
+    <field name="scopecontent_teim">This series contains newspaper clippings, political newsletters, correspondence, posters, book excerpts, information brochures, flyers, press releases, commemoration materials, and documents from Irish American organizations like the Irish Northern Aid Committee and the Irish National Caucus.</field>
+    <field name="ref_ssi">aspace_58fbd3150a0a43c661d3fe39ad149118</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jack O'Brien Papers</field>
+    <field name="collection_unitid_teim">AIA.067/repositories/2/resources/70</field>
+    <field name="series_sim">Series I: The Troubles in Northern Ireland</field>
+    <field name="series_si">Series I: The Troubles in Northern Ireland &gt;&gt; Sub-series I.A: 1981 Hunger Strike</field>
+    <field name="heading_ssm">Sub-series I.A: 1981 Hunger Strike</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">2020</field>
+    <field name="unitdate_end_ssm">2020</field>
+    <field name="unitdate_end_si">2020</field>
+    <field name="unitdate_ssm">Inclusive, 1980-2020</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">155</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref360</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref56</field>
+    <field name="parent_ssm">aspace_ref56</field>
+    <field name="parent_unittitles_ssm">C</field>
+    <field name="parent_unittitles_teim">C</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cronacher, Lola Lee</field>
+    <field name="unittitle_teim">Cronacher, Lola Lee</field>
+    <field name="unitid_teim">cuid34510</field>
+    <field name="unitid_ssm">cuid34510</field>
+    <field name="unitdate_normal_ssm">2011/2011</field>
+    <field name="unitdate_normal_teim">2011/2011</field>
+    <field name="unitdate_normal_sim">2011/2011</field>
+    <field name="unitdate_inclusive_teim">Feb 15, 2011</field>
+    <field name="bioghist_teim">Lola Lee Cronacher (b. Floral Park, New York, 1934) is a retired school teacher. Raised in Hollis, Queens, her mother was from Tralee, Co. Kerry and her father was an Irish American from Brooklyn.</field>
+    <field name="ref_ssi">aspace_ref360</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 31</field>
+    <field name="location_ssm">Folder: 31</field>
+    <field name="location_si">Folder: 31</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">C</field>
+    <field name="series_si">C &gt;&gt; Cronacher, Lola Lee</field>
+    <field name="heading_ssm">Cronacher, Lola Lee</field>
+    <field name="unitdate_start_sim">2011</field>
+    <field name="unitdate_start_ssm">2011</field>
+    <field name="unitdate_start_si">2011</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, Feb 15, 2011</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">61</field>
+  </doc>
+</add>

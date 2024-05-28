@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_031_001aspace_ref14</field>
+    <field name="ead_ssi">aia_031_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+    <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+    <field name="collection_unitid_ssm">AIA.031.001</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: 78 RPM Records</field>
+    <field name="unittitle_teim">Series I: 78 RPM Records</field>
+    <field name="unitdate_normal_ssm">1903/1959</field>
+    <field name="unitdate_normal_teim">1903/1959</field>
+    <field name="unitdate_normal_sim">1903/1959</field>
+    <field name="unitdate_inclusive_teim">circa 1903-1959</field>
+    <field name="scopecontent_teim">This series contains discs representing over fifty years of recorded Irish music from the early years of the format to its obsolescence in the 1950s. Series I is also rich in examples of the Irish art song tradition featuring a wealth of recordings by Irish tenors such as Charles Harrison and John McCormack, as well as their British counterparts Father Sydney MacEwan and Michael Duffy. A broad sampling of Irish traditional instrumental music is also a feature of Series I.</field>
+    <field name="scopecontent_teim">While major labels, Columbia, Victor and Decca dominate the series, Bluebird, Brunswick, Okeh and Vocalion releases are also numerous, as are discs from smaller independent labels, particularly the small ethnic labels, Copley and Celtic. Foreign labels include Glenside, Irish, and Tara from Ireland and His Master's Voice, London, Regal Zonophone and Rex from England, while Scotland is represented by a host of releases on the Beltona and Parlophone labels. </field>
+    <field name="scopecontent_teim">This series contains 15 broken phonodiscs that have been stabilized by New York University's Barbara Goldsmith Preservation and Conservation Department, as well as 19 empty LP sleeves. </field>
+    <field name="ref_ssi">aspace_ref14</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Commercial Recordings Collection</field>
+    <field name="collection_unitid_teim">AIA.031.001</field>
+    <field name="series_si">Series I: 78 RPM Records</field>
+    <field name="heading_ssm">Series I: 78 RPM Records</field>
+    <field name="unitdate_start_sim">1903</field>
+    <field name="unitdate_start_ssm">1903</field>
+    <field name="unitdate_start_si">1903</field>
+    <field name="unitdate_end_sim">1959</field>
+    <field name="unitdate_end_ssm">1959</field>
+    <field name="unitdate_end_si">1959</field>
+    <field name="unitdate_ssm">Inclusive, circa 1903-1959</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

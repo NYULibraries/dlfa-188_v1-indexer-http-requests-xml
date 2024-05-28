@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_008aspace_ref128</field>
+    <field name="ead_ssi">aia_008</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series IV: Legal Cases, 1975-2003</field>
+    <field name="parent_unittitles_teim">Series IV: Legal Cases, 1975-2003</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Frank Durkan Papers</field>
+    <field name="collection_ssm">Frank Durkan Papers</field>
+    <field name="collection_unitid_ssm">AIA.008</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries D. &lt;em&gt;U.S. v. Harrison et al&lt;/em&gt; (George Harrison)</field>
+    <field name="unittitle_teim">Subseries D. U.S. v. Harrison et al (George Harrison)</field>
+    <field name="scopecontent_teim">George Harrison, along with Tom Falvey, Michael Flannery, Patrick Mullin and Danny Gormley, was arrested and tried for illegal shipment of arms to Northern Ireland.  The case hinged on the fact that Harrison and his co-conspirators believed that their contact, George DeMeo, was himself an agent of the CIA and therefore the United States government was cognizant of their arms dealing and complicit in allowing this activity to continue.  </field>
+    <field name="scopecontent_teim">The files contain the trail transcripts along with many legal documents and newspaper clippings.  Of note is the Jury Verdict slip, showing all defendents not guilty on all counts (Box 15, Folder 21).</field>
+    <field name="ref_ssi">aspace_ref128</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Frank Durkan Papers</field>
+    <field name="collection_unitid_teim">AIA.008</field>
+    <field name="series_sim">Series IV: Legal Cases, 1975-2003</field>
+    <field name="series_si">Series IV: Legal Cases, 1975-2003 &gt;&gt; Subseries D. &lt;em&gt;U.S. v. Harrison et al&lt;/em&gt; (George Harrison)</field>
+    <field name="heading_ssm">Subseries D. U.S. v. Harrison et al (George Harrison)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">389</field>
+  </doc>
+</add>

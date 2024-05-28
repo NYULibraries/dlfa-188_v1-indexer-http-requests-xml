@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref87</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref81</field>
+    <field name="parent_ssm">aspace_ref81</field>
+    <field name="parent_unittitles_ssm">H</field>
+    <field name="parent_unittitles_teim">H</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hurley, Patrick</field>
+    <field name="unittitle_teim">Hurley, Patrick</field>
+    <field name="unitid_teim">cuid34587</field>
+    <field name="unitid_ssm">cuid34587</field>
+    <field name="unitdate_normal_ssm">2007/2007</field>
+    <field name="unitdate_normal_teim">2007/2007</field>
+    <field name="unitdate_normal_sim">2007/2007</field>
+    <field name="unitdate_inclusive_teim">Oct 31, 2007</field>
+    <field name="bioghist_teim">Patrick Hurley (b. Wellington, New Zeland, 1962), raised in County Cork, was a member of the New Irish generation who found himself in New York City in the 1980s as an "illegal" alien with few options to succeed in America without proper documentation. Along with a core group of partners, he helped to found the Irish Immigration Reform Movement in 1987 and lobbied successfully to change immigration law in the US with the passage of the Immigration Act of 1990 HR-4300 which granted thousands of non-preference visas to immigrants considered unfairly disadvantaged by previous legislation, many of whom were Irish.</field>
+    <field name="ref_ssi">aspace_ref87</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 26</field>
+    <field name="location_ssm">Folder: 26</field>
+    <field name="location_ssm">Box: 5, Cassette: 030_0009 - 030_0010</field>
+    <field name="location_ssm">Cassette: 030_0009 - 030_0010</field>
+    <field name="location_si">Cassette: 030_0009 - 030_0010</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">H</field>
+    <field name="series_si">H &gt;&gt; Hurley, Patrick</field>
+    <field name="heading_ssm">Hurley, Patrick</field>
+    <field name="unitdate_start_sim">2007</field>
+    <field name="unitdate_start_ssm">2007</field>
+    <field name="unitdate_start_si">2007</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, Oct 31, 2007</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">169</field>
+  </doc>
+</add>

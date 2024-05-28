@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref510</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref62</field>
+    <field name="parent_ssm">aspace_ref62</field>
+    <field name="parent_unittitles_ssm">D</field>
+    <field name="parent_unittitles_teim">D</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Drew, Fr. James</field>
+    <field name="unittitle_teim">Drew, Fr. James</field>
+    <field name="unitid_teim">cuid34531</field>
+    <field name="unitid_ssm">cuid34531</field>
+    <field name="unitdate_teim">Feb 24, 2012</field>
+    <field name="bioghist_teim">Fr. James Drew (b. Croagh Hill, Co. Cork, Ireland, 1948) came to the United States in 1971. He was ordained in the Diocese of Honolulu in 1974 and serves as the administrator for Our Lady of the Snow parish in Blue Point, New York.</field>
+    <field name="ref_ssi">aspace_ref510</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 32</field>
+    <field name="location_ssm">Folder: 32</field>
+    <field name="location_si">Folder: 32</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">D</field>
+    <field name="series_si">D &gt;&gt; Drew, Fr. James</field>
+    <field name="heading_ssm">Drew, Fr. James</field>
+    <field name="unitdate_ssm">Feb 24, 2012</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">96</field>
+  </doc>
+</add>

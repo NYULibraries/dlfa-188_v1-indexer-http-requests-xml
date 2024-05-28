@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_019aspace_1682671bf59e0fe06635c13972beab4b</field>
+    <field name="ead_ssi">aia_019</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I. Cultural, Social and Academic Organizations</field>
+    <field name="parent_unittitles_teim">Series I. Cultural, Social and Academic Organizations</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Cormac K. H. O'Malley Papers</field>
+    <field name="collection_ssm">Cormac K. H. O'Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.019</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II: O'Malley Clan Association Records</field>
+    <field name="unittitle_teim">Subseries II: O'Malley Clan Association Records</field>
+    <field name="unitdate_normal_ssm">1959/2011</field>
+    <field name="unitdate_normal_teim">1959/2011</field>
+    <field name="unitdate_normal_sim">1959/2011</field>
+    <field name="unitdate_inclusive_teim">1959-2011</field>
+    <field name="scopecontent_teim">This series documents O'Malley's participation in the O'Malley Clan Association between 1959 and 2011, including his tenure as Tanaiste of the Clan in 1993 and as Chieftain in 1994.  The records include correspondence, research files, ephemera, and financial documents.  The bulk of the records document the planning of the annual O'Malley Clan Rallies in County Mayo, Ireland.  Other records include family trees and newspaper clippings on members of the Association in the research files and correspondence with other members of the Association regarding clan history, Rallies, and membership issues.</field>
+    <field name="bioghist_teim">The Granuaile Trust was established in Ireland in 1986 to create scholarships, research, and grants for members of the O'Malley Clan and others.  The Trust closed in 2000.</field>
+    <field name="ref_ssi">aspace_1682671bf59e0fe06635c13972beab4b</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Cormac K. H. O'Malley Papers</field>
+    <field name="collection_unitid_teim">AIA.019</field>
+    <field name="series_sim">Series I. Cultural, Social and Academic Organizations</field>
+    <field name="series_si">Series I. Cultural, Social and Academic Organizations &gt;&gt; Subseries II: O'Malley Clan Association Records</field>
+    <field name="heading_ssm">Subseries II: O'Malley Clan Association Records</field>
+    <field name="unitdate_start_sim">1959</field>
+    <field name="unitdate_start_ssm">1959</field>
+    <field name="unitdate_start_si">1959</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, 1959-2011</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">75</field>
+  </doc>
+</add>

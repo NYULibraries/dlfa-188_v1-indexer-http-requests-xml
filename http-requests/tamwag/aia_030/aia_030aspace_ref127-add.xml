@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref127</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref124</field>
+    <field name="parent_ssm">aspace_ref124</field>
+    <field name="parent_unittitles_ssm">R</field>
+    <field name="parent_unittitles_teim">R</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Rygor, Stanley and Kathleen</field>
+    <field name="unittitle_teim">Rygor, Stanley and Kathleen</field>
+    <field name="unitid_teim">cuid34713</field>
+    <field name="unitid_ssm">cuid34713</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_inclusive_teim">May 14, 2009</field>
+    <field name="scopecontent_teim">This oral history was digitally recorded on a Marantz PMD660. The interview is approximately 100 minutes long, on 2 CDs.  The interview took place in Astoria, Queens, New York, on May 14, 2009, and the interviewer was Myriam Nyhan.</field>
+    <field name="bioghist_teim">Stanley Rygor was born in New York in 1926, and wife Kathleen Rygor was born in Birr, Co. Offaly, Ireland, in 1929.  Kathleen immigrated to New York in 1950 and met Stanley at an Irish dance the following year.   Stanley and Kathleen's late son Robert, an AIDS activist and leader of the Irish Lesbian and Gay Organization (ILGO) in New York, died of AIDS in 1994.  The Rygors became involved in the ILGO through Robert and are active in the annual St. Pat's For All parade and in the organization Parents and Friends of Lesbians &amp; Gays.</field>
+    <field name="ref_ssi">aspace_ref127</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 58</field>
+    <field name="location_ssm">Folder: 58</field>
+    <field name="location_si">Folder: 58</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">R</field>
+    <field name="series_si">R &gt;&gt; Rygor, Stanley and Kathleen</field>
+    <field name="heading_ssm">Rygor, Stanley and Kathleen</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, May 14, 2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">350</field>
+  </doc>
+</add>

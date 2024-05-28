@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref386</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref74</field>
+    <field name="parent_ssm">aspace_ref74</field>
+    <field name="parent_unittitles_ssm">G</field>
+    <field name="parent_unittitles_teim">G</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Gray, Rita</field>
+    <field name="unittitle_teim">Gray, Rita</field>
+    <field name="unitid_teim">cuid34572</field>
+    <field name="unitid_ssm">cuid34572</field>
+    <field name="unitdate_normal_ssm">2011/2011</field>
+    <field name="unitdate_normal_teim">2011/2011</field>
+    <field name="unitdate_normal_sim">2011/2011</field>
+    <field name="unitdate_inclusive_teim">Mar 26, 2011</field>
+    <field name="bioghist_teim">Rita Fahy Gray (b. Ballydavok, Co. Mayo, d. Astoria, Queens, 2012), one of nine children, emigrated to the US in 1938 at the age of 19, after spending a year and a half in Manchester, England. She met her Irish-American husband through her first job as a domestic in Manhattan and they raised three children in Queens.</field>
+    <field name="ref_ssi">aspace_ref386</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 14</field>
+    <field name="location_ssm">Folder: 14</field>
+    <field name="location_si">Folder: 14</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">G</field>
+    <field name="series_si">G &gt;&gt; Gray, Rita</field>
+    <field name="heading_ssm">Gray, Rita</field>
+    <field name="unitdate_start_sim">2011</field>
+    <field name="unitdate_start_ssm">2011</field>
+    <field name="unitdate_start_si">2011</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, Mar 26, 2011</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">152</field>
+  </doc>
+</add>

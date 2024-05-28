@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref365</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref62</field>
+    <field name="parent_ssm">aspace_ref62</field>
+    <field name="parent_unittitles_ssm">D</field>
+    <field name="parent_unittitles_teim">D</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Delaney, Agnes</field>
+    <field name="unittitle_teim">Delaney, Agnes</field>
+    <field name="unitid_teim">cuid34523</field>
+    <field name="unitid_ssm">cuid34523</field>
+    <field name="unitdate_normal_ssm">2011/2011</field>
+    <field name="unitdate_normal_teim">2011/2011</field>
+    <field name="unitdate_normal_sim">2011/2011</field>
+    <field name="unitdate_inclusive_teim">Jul 12, 2011</field>
+    <field name="bioghist_teim">Agnes Delaney (b. Ardnagall, Co. Galway, 1943) emigrated to the United States in 1964. After completing a Masters degree in Social Work and Health Care Administration at Columbia University, she worked for more than two decades in the field of healthcare in the New York area. Since 2005, she has been Chairperson of the Board of Directors, Aisling Irish Community Center in Yonkers.</field>
+    <field name="ref_ssi">aspace_ref365</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 41</field>
+    <field name="location_ssm">Folder: 41</field>
+    <field name="location_si">Folder: 41</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">D</field>
+    <field name="series_si">D &gt;&gt; Delaney, Agnes</field>
+    <field name="heading_ssm">Delaney, Agnes</field>
+    <field name="unitdate_start_sim">2011</field>
+    <field name="unitdate_start_ssm">2011</field>
+    <field name="unitdate_start_si">2011</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, Jul 12, 2011</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">81</field>
+  </doc>
+</add>

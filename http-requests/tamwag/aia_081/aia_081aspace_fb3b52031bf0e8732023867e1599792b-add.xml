@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_081aspace_fb3b52031bf0e8732023867e1599792b</field>
+    <field name="ead_ssi">aia_081</field>
+    <field name="parent_ssi">aspace_cb30cba7d4902c9dbe7a0218bf5fba6a</field>
+    <field name="parent_ssm">aspace_cb30cba7d4902c9dbe7a0218bf5fba6a</field>
+    <field name="parent_unittitles_ssm">Series II. Irish American Cultural Institute Records</field>
+    <field name="parent_unittitles_teim">Series II. Irish American Cultural Institute Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Eoin McKiernan and Deirdre McKiernan Hetzler Papers</field>
+    <field name="collection_ssm">Eoin McKiernan and Deirdre McKiernan Hetzler Papers</field>
+    <field name="collection_unitid_ssm">AIA.081</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Princess Grace of Monaco</field>
+    <field name="unittitle_teim">Princess Grace of Monaco</field>
+    <field name="unitdate_normal_ssm">1973/1985</field>
+    <field name="unitdate_normal_teim">1973/1985</field>
+    <field name="unitdate_normal_sim">1973/1985</field>
+    <field name="unitdate_inclusive_teim">1973-1985</field>
+    <field name="ref_ssi">aspace_fb3b52031bf0e8732023867e1599792b</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12, Folder: 12-16</field>
+    <field name="location_ssm">Folder: 12-16</field>
+    <field name="location_ssm">Box: 13, Folder: 1-6</field>
+    <field name="location_ssm">Folder: 1-6</field>
+    <field name="location_si">Folder: 1-6</field>
+    <field name="collection_teim">Eoin McKiernan and Deirdre McKiernan Hetzler Papers</field>
+    <field name="collection_unitid_teim">AIA.081</field>
+    <field name="series_sim">Series II. Irish American Cultural Institute Records</field>
+    <field name="series_si">Series II. Irish American Cultural Institute Records &gt;&gt; Princess Grace of Monaco</field>
+    <field name="heading_ssm">Princess Grace of Monaco</field>
+    <field name="unitdate_start_sim">1973</field>
+    <field name="unitdate_start_ssm">1973</field>
+    <field name="unitdate_start_si">1973</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_si">1985</field>
+    <field name="unitdate_ssm">Inclusive, 1973-1985</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">92</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref355</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref56</field>
+    <field name="parent_ssm">aspace_ref56</field>
+    <field name="parent_unittitles_ssm">C</field>
+    <field name="parent_unittitles_teim">C</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Callaghan, Margaret</field>
+    <field name="unittitle_teim">Callaghan, Margaret</field>
+    <field name="unitid_teim">cuid34490</field>
+    <field name="unitid_ssm">cuid34490</field>
+    <field name="unitdate_normal_ssm">2011/2011</field>
+    <field name="unitdate_normal_teim">2011/2011</field>
+    <field name="unitdate_normal_sim">2011/2011</field>
+    <field name="unitdate_inclusive_teim">Aug 2, 2011</field>
+    <field name="bioghist_teim">Margaret Callaghan (b. New York, New York, 1934, d. Queens, New York, 2012), the daughter of immigrants from County Armagh, was raised in Manhattan and later resided in Queens, New York. She worked as a dental assistant and was a longtime member and leader in the Armagh Association of New York.</field>
+    <field name="ref_ssi">aspace_ref355</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 14</field>
+    <field name="location_ssm">Folder: 14</field>
+    <field name="location_si">Folder: 14</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">C</field>
+    <field name="series_si">C &gt;&gt; Callaghan, Margaret</field>
+    <field name="heading_ssm">Callaghan, Margaret</field>
+    <field name="unitdate_start_sim">2011</field>
+    <field name="unitdate_start_ssm">2011</field>
+    <field name="unitdate_start_si">2011</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, Aug 2, 2011</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">33</field>
+  </doc>
+</add>

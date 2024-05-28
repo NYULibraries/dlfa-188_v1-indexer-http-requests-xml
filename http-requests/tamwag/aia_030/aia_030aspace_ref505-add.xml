@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref505</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref133</field>
+    <field name="parent_ssm">aspace_ref133</field>
+    <field name="parent_unittitles_ssm">T</field>
+    <field name="parent_unittitles_teim">T</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Tahaney, Sr. Anne and Sr. Margaret</field>
+    <field name="unittitle_teim">Tahaney, Sr. Anne and Sr. Margaret</field>
+    <field name="unitid_teim">cuid34733</field>
+    <field name="unitid_ssm">cuid34733</field>
+    <field name="unitdate_teim">Jan 23, 2013, Feb 7, 2012</field>
+    <field name="bioghist_teim">Sr. Anne Tahaney and Sr. Margaret Tahaney (b. Long Island City, New York, 1931; b. New York, New York, 1929) of the Dominican Order are both children of Irish immigrants. They traveled to Pakistan in 1957 and taught at a Dominican school there while also living and working in the local community.</field>
+    <field name="ref_ssi">aspace_ref505</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 87</field>
+    <field name="location_ssm">Folder: 87</field>
+    <field name="location_si">Folder: 87</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">T</field>
+    <field name="series_si">T &gt;&gt; Tahaney, Sr. Anne and Sr. Margaret</field>
+    <field name="heading_ssm">Tahaney, Sr. Anne and Sr. Margaret</field>
+    <field name="unitdate_ssm">Jan 23, 2013, Feb 7, 2012</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">373</field>
+  </doc>
+</add>

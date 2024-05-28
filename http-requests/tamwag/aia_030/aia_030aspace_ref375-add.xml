@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref375</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref67</field>
+    <field name="parent_ssm">aspace_ref67</field>
+    <field name="parent_unittitles_ssm">F</field>
+    <field name="parent_unittitles_teim">F</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Farragher, Michael and Eileen</field>
+    <field name="unittitle_teim">Farragher, Michael and Eileen</field>
+    <field name="unitid_teim">cuid34546</field>
+    <field name="unitid_ssm">cuid34546</field>
+    <field name="unitdate_normal_ssm">2011/2011</field>
+    <field name="unitdate_normal_teim">2011/2011</field>
+    <field name="unitdate_normal_sim">2011/2011</field>
+    <field name="unitdate_inclusive_teim">Jun 20, 2011</field>
+    <field name="bioghist_teim">Michael and Eileen Farragher (b. Co. Galway, 1935) (b. Co. Limerick, 1941) met after emigrating from Ireland, married in 1965 and raised two sons in New Jersey. Michael, a US Army veteran, worked for the New Jersey Turnpike for 35 years. Their son is the writer Mike Farragher.</field>
+    <field name="ref_ssi">aspace_ref375</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 56</field>
+    <field name="location_ssm">Folder: 56</field>
+    <field name="location_si">Folder: 56</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">F</field>
+    <field name="series_si">F &gt;&gt; Farragher, Michael and Eileen</field>
+    <field name="heading_ssm">Farragher, Michael and Eileen</field>
+    <field name="unitdate_start_sim">2011</field>
+    <field name="unitdate_start_ssm">2011</field>
+    <field name="unitdate_start_si">2011</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, Jun 20, 2011</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">116</field>
+  </doc>
+</add>

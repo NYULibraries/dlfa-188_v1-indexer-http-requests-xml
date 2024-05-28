@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_064aspace_ref2</field>
+    <field name="ead_ssi">aia_064</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Kathleen Hill Family Collection</field>
+    <field name="collection_ssm">Kathleen Hill Family Collection</field>
+    <field name="collection_unitid_ssm">AIA.064</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Carmody, Kathleen: Photograph Album</field>
+    <field name="unittitle_teim">Carmody, Kathleen: Photograph Album</field>
+    <field name="unitdate_normal_ssm">1903/1903</field>
+    <field name="unitdate_normal_teim">1903/1903</field>
+    <field name="unitdate_normal_sim">1903/1903</field>
+    <field name="unitdate_teim">1903</field>
+    <field name="ref_ssi">aspace_ref2</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Kathleen Hill Family Collection</field>
+    <field name="collection_unitid_teim">AIA.064</field>
+    <field name="series_si">Carmody, Kathleen: Photograph Album</field>
+    <field name="heading_ssm">Carmody, Kathleen: Photograph Album</field>
+    <field name="unitdate_start_sim">1903</field>
+    <field name="unitdate_start_ssm">1903</field>
+    <field name="unitdate_start_si">1903</field>
+    <field name="unitdate_end_sim">1903</field>
+    <field name="unitdate_end_ssm">1903</field>
+    <field name="unitdate_end_si">1903</field>
+    <field name="unitdate_ssm">1903</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

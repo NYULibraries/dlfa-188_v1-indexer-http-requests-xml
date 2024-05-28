@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_060aspace_ref1444</field>
+    <field name="ead_ssi">aia_060</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series V. Personal</field>
+    <field name="parent_unittitles_teim">Series V. Personal</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ernie O'Malley Papers</field>
+    <field name="collection_ssm">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.060/repositories/2/resources/63</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Notes: French literature bibliography on index cards</field>
+    <field name="unittitle_teim">Notes: French literature bibliography on index cards</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/17163</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/17163</field>
+    <field name="unitdate_teim">circa 1950</field>
+    <field name="ref_ssi">aspace_ref1444</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 11A</field>
+    <field name="location_ssm">Folder: 11A</field>
+    <field name="location_si">Folder: 11A</field>
+    <field name="collection_teim">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_teim">AIA.060/repositories/2/resources/63</field>
+    <field name="series_sim">Series V. Personal</field>
+    <field name="series_si">Series V. Personal &gt;&gt; Notes: French literature bibliography on index cards</field>
+    <field name="heading_ssm">Notes: French literature bibliography on index cards</field>
+    <field name="unitdate_ssm">circa 1950</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">486</field>
+  </doc>
+</add>

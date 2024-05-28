@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_089aspace_f70e36e2f60dc12fa224d2d614826588</field>
+    <field name="ead_ssi">aia_089</field>
+    <field name="parent_ssi">aspace_c30033ef479db97f1a7dcfa7b0b8e8f9</field>
+    <field name="parent_ssm">aspace_c30033ef479db97f1a7dcfa7b0b8e8f9</field>
+    <field name="parent_unittitles_ssm">Additional Tapes</field>
+    <field name="parent_unittitles_teim">Additional Tapes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Adrian Flannelly Show Audio Recordings</field>
+    <field name="collection_ssm">The Adrian Flannelly Show Audio Recordings</field>
+    <field name="collection_unitid_ssm">AIA.089</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Aircheck</field>
+    <field name="unittitle_teim">Aircheck</field>
+    <field name="unitdate_normal_ssm">1986-03-09/1986-03-09</field>
+    <field name="unitdate_normal_teim">1986-03-09/1986-03-09</field>
+    <field name="unitdate_normal_sim">1986-03-09/1986-03-09</field>
+    <field name="unitdate_teim">March 9, 1986 </field>
+    <field name="ref_ssi">aspace_f70e36e2f60dc12fa224d2d614826588</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, audiocassette: 089.0272</field>
+    <field name="location_ssm">audiocassette: 089.0272</field>
+    <field name="location_si">audiocassette: 089.0272</field>
+    <field name="collection_teim">The Adrian Flannelly Show Audio Recordings</field>
+    <field name="collection_unitid_teim">AIA.089</field>
+    <field name="series_sim">Additional Tapes</field>
+    <field name="series_si">Additional Tapes &gt;&gt; Aircheck</field>
+    <field name="heading_ssm">Aircheck</field>
+    <field name="unitdate_ssm">March 9, 1986 </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">275</field>
+  </doc>
+</add>

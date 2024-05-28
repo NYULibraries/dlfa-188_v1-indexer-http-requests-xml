@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_060aspace_ref271</field>
+    <field name="ead_ssi">aia_060</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Series II. Correspondence: Incoming</field>
+    <field name="parent_unittitles_teim">Series II. Correspondence: Incoming</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ernie O'Malley Papers</field>
+    <field name="collection_ssm">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_ssm">AIA.060/repositories/2/resources/63</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">O'Faolain, Sean (author)</field>
+    <field name="unittitle_teim">O'Faolain, Sean (author)</field>
+    <field name="unitid_teim">cuid36650</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/16990</field>
+    <field name="unitid_ssm">cuid36650</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/16990</field>
+    <field name="unitdate_normal_ssm">1939/1947</field>
+    <field name="unitdate_normal_teim">1939/1947</field>
+    <field name="unitdate_normal_sim">1939/1947</field>
+    <field name="unitdate_inclusive_teim">1939-1947</field>
+    <field name="scopecontent_teim">This correspondence consists of 3 pages.</field>
+    <field name="dao_teim">O'Faolain, Sean (author): 1939-1947</field>
+    <field name="dao_ssm">O'Faolain, Sean (author): 1939-1947</field>
+    <field name="ref_ssi">aspace_ref271</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 57</field>
+    <field name="location_ssm">Folder: 57</field>
+    <field name="location_si">Folder: 57</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Ernie O'Malley Papers</field>
+    <field name="collection_unitid_teim">AIA.060/repositories/2/resources/63</field>
+    <field name="series_sim">Series II. Correspondence: Incoming</field>
+    <field name="series_si">Series II. Correspondence: Incoming &gt;&gt; O'Faolain, Sean (author)</field>
+    <field name="heading_ssm">O'Faolain, Sean (author)</field>
+    <field name="unitdate_start_sim">1939</field>
+    <field name="unitdate_start_ssm">1939</field>
+    <field name="unitdate_start_si">1939</field>
+    <field name="unitdate_end_sim">1947</field>
+    <field name="unitdate_end_ssm">1947</field>
+    <field name="unitdate_end_si">1947</field>
+    <field name="unitdate_ssm">Inclusive, 1939-1947</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">313</field>
+  </doc>
+</add>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref104</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref96</field>
+    <field name="parent_ssm">aspace_ref96</field>
+    <field name="parent_unittitles_ssm">M</field>
+    <field name="parent_unittitles_teim">M</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Miskell, Frank</field>
+    <field name="unittitle_teim">Miskell, Frank</field>
+    <field name="unitid_teim">cuid34649</field>
+    <field name="unitid_ssm">cuid34649</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_inclusive_teim">Mar 21, 2009</field>
+    <field name="scopecontent_teim">Some of the key themes discussed include: Irish working-class Catholic longshoremen and West Side identity;  labour dynamics on the docks; violence on the West Side; his father, a reformer on the docks; and a discussion of On the Waterfront.</field>
+    <field name="scopecontent_teim">This oral history was digitally recorded on a Marantz PMD660. The interview is approximately 120 minutes long, on 2 CDs.  The interview took place in New York City on March 21, 2009, and the interviewer was Myriam Nyhan.</field>
+    <field name="bioghist_teim">Frank Miskell (b. 1954), is a longshoreman in Port Elizabeth, New Jersey. The descendant of Famine immigrants, his family has worked the port of New York for generations.</field>
+    <field name="ref_ssi">aspace_ref104</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">M</field>
+    <field name="series_si">M &gt;&gt; Miskell, Frank</field>
+    <field name="heading_ssm">Miskell, Frank</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, Mar 21, 2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">255</field>
+  </doc>
+</add>

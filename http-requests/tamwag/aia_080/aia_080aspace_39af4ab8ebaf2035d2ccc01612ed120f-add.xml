@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_080aspace_39af4ab8ebaf2035d2ccc01612ed120f</field>
+    <field name="ead_ssi">aia_080</field>
+    <field name="parent_ssi">aspace_6cc7f8168dc410f9ca1d791450f75332</field>
+    <field name="parent_ssm">aspace_6cc7f8168dc410f9ca1d791450f75332</field>
+    <field name="parent_unittitles_ssm">Series III. Administrative Records</field>
+    <field name="parent_unittitles_teim">Series III. Administrative Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Irish Repertory Theatre Records</field>
+    <field name="collection_ssm">Irish Repertory Theatre Records</field>
+    <field name="collection_unitid_ssm">AIA.080/repositories/2/resources/2312</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III.E. Marketing Department Records</field>
+    <field name="unittitle_teim">Subseries III.E. Marketing Department Records</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/771453</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/771453</field>
+    <field name="unitdate_normal_ssm">1988/2016</field>
+    <field name="unitdate_normal_teim">1988/2016</field>
+    <field name="unitdate_normal_sim">1988/2016</field>
+    <field name="unitdate_inclusive_teim">1988-2016</field>
+    <field name="scopecontent_teim">This subseries documents the work of the Marketing Department, including branding, promotion of the IRT and its productions, development of the capital campaign to renovate the theatre from 2014 to 2016, and the creation of a new website in 2012.  The material in this subseries consists of paper and born-digital material and includes correspondence, promotional material, spreadsheets, photographs, blueprints, floor plans, and artwork.  This subseries contains the Marketing Department's archive of promotional material for individual productions for seasons 2003-2004 to 2016-2017, material detailing the creation of the IRT's new website in 2012, guidelines for IRT branding standards, and artwork used in the creation of promotional material.  Material detailing the development of the capital campaign includes a brochure and statement regarding the campaign, photographs and videos used to promote the campaign, and photographs of the theatre before, during, and after the renovation.</field>
+    <field name="ref_ssi">aspace_39af4ab8ebaf2035d2ccc01612ed120f</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Irish Repertory Theatre Records</field>
+    <field name="collection_unitid_teim">AIA.080/repositories/2/resources/2312</field>
+    <field name="series_sim">Series III. Administrative Records</field>
+    <field name="series_si">Series III. Administrative Records &gt;&gt; Subseries III.E. Marketing Department Records</field>
+    <field name="heading_ssm">Subseries III.E. Marketing Department Records</field>
+    <field name="unitdate_start_sim">1988</field>
+    <field name="unitdate_start_ssm">1988</field>
+    <field name="unitdate_start_si">1988</field>
+    <field name="unitdate_end_sim">2016</field>
+    <field name="unitdate_end_ssm">2016</field>
+    <field name="unitdate_end_si">2016</field>
+    <field name="unitdate_ssm">Inclusive, 1988-2016</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">325</field>
+  </doc>
+</add>

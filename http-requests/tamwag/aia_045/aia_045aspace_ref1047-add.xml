@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_045aspace_ref1047</field>
+    <field name="ead_ssi">aia_045</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Irish Echo Photographs</field>
+    <field name="collection_ssm">Irish Echo Photographs</field>
+    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII. Individuals</field>
+    <field name="unittitle_teim">Series VII. Individuals</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/15255</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/15255</field>
+    <field name="unitdate_normal_ssm">1960/2004</field>
+    <field name="unitdate_normal_teim">1960/2004</field>
+    <field name="unitdate_normal_sim">1960/2004</field>
+    <field name="unitdate_inclusive_teim">circa 1960-2004</field>
+    <field name="scopecontent_teim">This series consists of photographic prints of various Irish, American, and Irish American individuals.  Included in this series is extensive photographic documentation of Roman Catholic clergy from all levels of rank.  Additionally, this series features individuals who resist strictly defined categorization (either by qualifying for multiple categories or for none at all) and who can be regarded more generally as public figures of varying degrees of importance. One example is the late Connie Doolan, a celebrated Irish immigration activist; former New York imports representative for Guinness; and a highly successful businessman.  Rather than constrain him to a single identifying characteristic, as is the structure for Series I-VI, Doolan is featured in Series VII.  Another example is that of Veronica Guerin, who was both a journalist and an activist, and thus is also featured in Series VII.</field>
+    <field name="ref_ssi">aspace_ref1047</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Irish Echo Photographs</field>
+    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="series_si">Series VII. Individuals</field>
+    <field name="heading_ssm">Series VII. Individuals</field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, circa 1960-2004</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1436</field>
+  </doc>
+</add>

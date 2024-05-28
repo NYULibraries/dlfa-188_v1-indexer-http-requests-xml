@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_cce70e2c6afa76caf6a81085f02f6a70</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref96</field>
+    <field name="parent_ssm">aspace_ref96</field>
+    <field name="parent_unittitles_ssm">M</field>
+    <field name="parent_unittitles_teim">M</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Mooney, David</field>
+    <field name="unittitle_teim">Mooney, David</field>
+    <field name="unitid_teim">cuid34819</field>
+    <field name="unitid_ssm">cuid34819</field>
+    <field name="unitdate_normal_ssm">2015/2015</field>
+    <field name="unitdate_normal_teim">2015/2015</field>
+    <field name="unitdate_normal_sim">2015/2015</field>
+    <field name="unitdate_inclusive_teim">2015</field>
+    <field name="scopecontent_teim">This interview was conducted at Íde B. O'Carroll in Cambridge, Massachusetts on March 11, 2015.  The interview covers David Mooney's early life in Ireland and his working life in the United States (US).  Mooney describes his family and his childhood in Dublin. He recounts his decision to immigrate to the US in 1986 and describes jobs he held in California and Louisiana before settling permanently in Boston in 1988.  He describes his introduction to the Irish International Immigration Center (IIIC) in Boston, his job as an outreach coordinator at the IIIC, and programs he managed particularly for recipients of Morrison visas. He also discusses meeting his wife and his frequent visits to Ireland.</field>
+    <field name="bioghist_teim">David Mooney was born in 1959 in Dublin, Ireland.  He immigrated to the United States in 1986.</field>
+    <field name="dao_teim">Mooney, David: 2015-</field>
+    <field name="dao_ssm">Mooney, David: 2015-</field>
+    <field name="ref_ssi">aspace_cce70e2c6afa76caf6a81085f02f6a70</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic records, E-records: TW_AIA_30_ER_39</field>
+    <field name="location_ssm">E-records: TW_AIA_30_ER_39</field>
+    <field name="location_si">E-records: TW_AIA_30_ER_39</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">M</field>
+    <field name="series_si">M &gt;&gt; Mooney, David</field>
+    <field name="heading_ssm">Mooney, David</field>
+    <field name="unitdate_start_sim">2015</field>
+    <field name="unitdate_start_ssm">2015</field>
+    <field name="unitdate_start_si">2015</field>
+    <field name="unitdate_end_sim">2015</field>
+    <field name="unitdate_end_ssm">2015</field>
+    <field name="unitdate_end_si">2015</field>
+    <field name="unitdate_ssm">Inclusive, 2015</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">260</field>
+  </doc>
+</add>

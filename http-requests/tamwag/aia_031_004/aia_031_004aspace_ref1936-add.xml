@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_031_004aspace_ref1936</field>
+    <field name="ead_ssi">aia_031_004</field>
+    <field name="parent_ssi">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_unittitles_ssm">Series I: Sheet Music (Irish)</field>
+    <field name="parent_unittitles_teim">Series I: Sheet Music (Irish)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+    <field name="collection_ssm">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+    <field name="collection_unitid_ssm">AIA.031.004</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">C</field>
+    <field name="unittitle_teim">C</field>
+    <field name="ref_ssi">aspace_ref1936</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mick Moloney Irish-American Music and Popular Culture Irish Americana Collection</field>
+    <field name="collection_unitid_teim">AIA.031.004</field>
+    <field name="series_sim">Series I: Sheet Music (Irish)</field>
+    <field name="series_si">Series I: Sheet Music (Irish) &gt;&gt; C</field>
+    <field name="heading_ssm">C</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">143</field>
+  </doc>
+</add>

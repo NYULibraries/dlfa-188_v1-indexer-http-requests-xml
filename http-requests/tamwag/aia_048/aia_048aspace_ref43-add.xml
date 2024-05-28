@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_048aspace_ref43</field>
+    <field name="ead_ssi">aia_048</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Inventory
+</field>
+    <field name="parent_unittitles_teim">Inventory
+</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">James P. Sullivan Collection</field>
+    <field name="collection_ssm">James P. Sullivan Collection</field>
+    <field name="collection_unitid_ssm">AIA.048</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Correspondence: Paul Thompason, Manager, &lt;em&gt;The Article Synidcate&lt;/em&gt; to J.P. Sullivan, Esq. Irish-Americna Athletic Club requesting photograph of Sullivan </field>
+    <field name="unittitle_teim">Correspondence: Paul Thompason, Manager, The Article Synidcate to J.P. Sullivan, Esq. Irish-Americna Athletic Club requesting photograph of Sullivan </field>
+    <field name="unitdate_teim">Jun 9, 1908</field>
+    <field name="ref_ssi">aspace_ref43</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Item: aia048_041</field>
+    <field name="location_ssm">Item: aia048_041</field>
+    <field name="location_si">Item: aia048_041</field>
+    <field name="collection_teim">James P. Sullivan Collection</field>
+    <field name="collection_unitid_teim">AIA.048</field>
+    <field name="series_sim">Inventory
+</field>
+    <field name="series_si">Inventory
+ &gt;&gt; Correspondence: Paul Thompason, Manager, &lt;em&gt;The Article Synidcate&lt;/em&gt; to J.P. Sullivan, Esq. Irish-Americna Athletic Club requesting photograph of Sullivan </field>
+    <field name="heading_ssm">Correspondence: Paul Thompason, Manager, The Article Synidcate to J.P. Sullivan, Esq. Irish-Americna Athletic Club requesting photograph of Sullivan </field>
+    <field name="unitdate_ssm">Jun 9, 1908</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">42</field>
+  </doc>
+</add>

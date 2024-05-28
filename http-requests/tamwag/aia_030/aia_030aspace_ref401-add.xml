@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref401</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref93</field>
+    <field name="parent_ssm">aspace_ref93</field>
+    <field name="parent_unittitles_ssm">L</field>
+    <field name="parent_unittitles_teim">L</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Landigan, Rosemary</field>
+    <field name="unittitle_teim">Landigan, Rosemary</field>
+    <field name="unitid_teim">cuid34603</field>
+    <field name="unitid_ssm">cuid34603</field>
+    <field name="unitdate_normal_ssm">2011/2011</field>
+    <field name="unitdate_normal_teim">2011/2011</field>
+    <field name="unitdate_normal_sim">2011/2011</field>
+    <field name="unitdate_inclusive_teim">Jan 22, 2011</field>
+    <field name="bioghist_teim">Rosemary Landigan (b. New York, New York, 1935), the daughter of immigrants from County Armagh who met in New York at the Armagh Ball, was born and raised in the Bronx, New York. Her father was a publican and one of the founders of the County Armagh Pipe and Drum Band. She made her first trip to Ireland in 1936 and her second trip in 1950.</field>
+    <field name="ref_ssi">aspace_ref401</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 38</field>
+    <field name="location_ssm">Folder: 38</field>
+    <field name="location_si">Folder: 38</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">L</field>
+    <field name="series_si">L &gt;&gt; Landigan, Rosemary</field>
+    <field name="heading_ssm">Landigan, Rosemary</field>
+    <field name="unitdate_start_sim">2011</field>
+    <field name="unitdate_start_ssm">2011</field>
+    <field name="unitdate_start_si">2011</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, Jan 22, 2011</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">193</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref4</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref56</field>
+    <field name="parent_ssm">aspace_ref56</field>
+    <field name="parent_unittitles_ssm">C</field>
+    <field name="parent_unittitles_teim">C</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cagney, Bridget</field>
+    <field name="unittitle_teim">Cagney, Bridget</field>
+    <field name="unitid_teim">cuid34488</field>
+    <field name="unitid_ssm">cuid34488</field>
+    <field name="unitdate_normal_ssm">2006/2006</field>
+    <field name="unitdate_normal_teim">2006/2006</field>
+    <field name="unitdate_normal_sim">2006/2006</field>
+    <field name="unitdate_inclusive_teim">Nov 8, 2006</field>
+    <field name="bioghist_teim">Bridget Cagney (b. Cork, Co. Cork, 1937), is a retired program analyst for the Institute of International Education and member of "Point Thank You," a post-9/11 support group in New York City.</field>
+    <field name="ref_ssi">aspace_ref4</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 13</field>
+    <field name="location_ssm">Folder: 13</field>
+    <field name="location_si">Folder: 13</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">C</field>
+    <field name="series_si">C &gt;&gt; Cagney, Bridget</field>
+    <field name="heading_ssm">Cagney, Bridget</field>
+    <field name="unitdate_start_sim">2006</field>
+    <field name="unitdate_start_ssm">2006</field>
+    <field name="unitdate_start_si">2006</field>
+    <field name="unitdate_end_sim">2006</field>
+    <field name="unitdate_end_ssm">2006</field>
+    <field name="unitdate_end_si">2006</field>
+    <field name="unitdate_ssm">Inclusive, Nov 8, 2006</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

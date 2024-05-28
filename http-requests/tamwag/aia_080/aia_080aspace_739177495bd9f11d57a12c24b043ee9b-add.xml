@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_080aspace_739177495bd9f11d57a12c24b043ee9b</field>
+    <field name="ead_ssi">aia_080</field>
+    <field name="parent_ssi">aspace_352e13be13afa894ba1f692830c77c04</field>
+    <field name="parent_ssm">aspace_352e13be13afa894ba1f692830c77c04</field>
+    <field name="parent_unittitles_ssm">Series IV. Financial and Legal Records</field>
+    <field name="parent_unittitles_teim">Series IV. Financial and Legal Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Irish Repertory Theatre Records</field>
+    <field name="collection_ssm">Irish Repertory Theatre Records</field>
+    <field name="collection_unitid_ssm">AIA.080/repositories/2/resources/2312</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Grant application</field>
+    <field name="unittitle_teim">Grant application</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/771457</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/771457</field>
+    <field name="unitdate_normal_ssm">2010/2010</field>
+    <field name="unitdate_normal_teim">2010/2010</field>
+    <field name="unitdate_normal_sim">2010/2010</field>
+    <field name="unitdate_teim">2010</field>
+    <field name="ref_ssi">aspace_739177495bd9f11d57a12c24b043ee9b</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 28, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Irish Repertory Theatre Records</field>
+    <field name="collection_unitid_teim">AIA.080/repositories/2/resources/2312</field>
+    <field name="series_sim">Series IV. Financial and Legal Records</field>
+    <field name="series_si">Series IV. Financial and Legal Records &gt;&gt; Grant application</field>
+    <field name="heading_ssm">Grant application</field>
+    <field name="unitdate_start_sim">2010</field>
+    <field name="unitdate_start_ssm">2010</field>
+    <field name="unitdate_start_si">2010</field>
+    <field name="unitdate_end_sim">2010</field>
+    <field name="unitdate_end_ssm">2010</field>
+    <field name="unitdate_end_si">2010</field>
+    <field name="unitdate_ssm">2010</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">377</field>
+  </doc>
+</add>

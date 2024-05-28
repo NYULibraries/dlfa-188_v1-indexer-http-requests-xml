@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_068aspace_ref109</field>
+    <field name="ead_ssi">aia_068</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John T. Ridge Collection</field>
+    <field name="collection_ssm">John T. Ridge Collection</field>
+    <field name="collection_unitid_ssm">AIA.068/repositories/2/resources/71</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Social Organizations and Early Irish America</field>
+    <field name="unittitle_teim">Series I: Social Organizations and Early Irish America</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/18851</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/18851</field>
+    <field name="unitdate_normal_ssm">1735/2002</field>
+    <field name="unitdate_normal_ssm">1860/1964</field>
+    <field name="unitdate_normal_teim">1735/2002</field>
+    <field name="unitdate_normal_teim">1860/1964</field>
+    <field name="unitdate_normal_sim">1735/2002</field>
+    <field name="unitdate_normal_sim">1860/1964</field>
+    <field name="unitdate_bulk_teim">1860-1964</field>
+    <field name="unitdate_inclusive_teim">1735-2002</field>
+    <field name="scopecontent_teim">This series contains materials documenting participation in Irish American organizations, cultural expressions of Irish nationalism and republicanism, and other material collected by John T. Ridge.  Materials in this series date from the mid-18th century to 2000, with the bulk of the materials dating from the late 19th century to the 1970s.  The bulk of this series documents activities of the Ancient Order of Hibernians (AOH) divisions located in the greater New York City area as well as the national organization.  AOH materials include photographs, convention proceedings, ledger books, and Hibernian Monthly Magazine. Other organizations represented include the County Cavan Society, County Tyrone Society, Friends of Irish Freedom, Irish Northern Aid, and the Loyal National Repeal Association.  Other materials include day books of fire departments in New York City, biographies and histories relating to Irish history, Irish language grammar books, John Mitchel's radical Irish nationalist newspaper, The Citizen, sheet music, ephemera, correspondence, event programs, and newspaper and magazine clippings.</field>
+    <field name="ref_ssi">aspace_ref109</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John T. Ridge Collection</field>
+    <field name="collection_unitid_teim">AIA.068/repositories/2/resources/71</field>
+    <field name="series_si">Series I: Social Organizations and Early Irish America</field>
+    <field name="heading_ssm">Series I: Social Organizations and Early Irish America</field>
+    <field name="unitdate_start_sim">1735</field>
+    <field name="unitdate_start_sim">1860</field>
+    <field name="unitdate_start_ssm">1735</field>
+    <field name="unitdate_start_ssm">1860</field>
+    <field name="unitdate_start_si">1860</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_sim">1964</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_ssm">1964</field>
+    <field name="unitdate_end_si">1964</field>
+    <field name="unitdate_ssm">Inclusive, 1735-2002 ; 1860-1964</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

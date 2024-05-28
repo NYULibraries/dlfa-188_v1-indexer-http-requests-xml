@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">aia_030aspace_ref378</field>
+    <field name="ead_ssi">aia_030</field>
+    <field name="parent_ssi">aspace_ref67</field>
+    <field name="parent_ssm">aspace_ref67</field>
+    <field name="parent_unittitles_ssm">F</field>
+    <field name="parent_unittitles_teim">F</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ireland House Oral History Collection</field>
+    <field name="collection_ssm">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_ssm">AIA.030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Flanagan, Fionnula</field>
+    <field name="unittitle_teim">Flanagan, Fionnula</field>
+    <field name="unitid_teim">cuid34553</field>
+    <field name="unitid_ssm">cuid34553</field>
+    <field name="unitdate_normal_ssm">2011/2011</field>
+    <field name="unitdate_normal_teim">2011/2011</field>
+    <field name="unitdate_normal_sim">2011/2011</field>
+    <field name="unitdate_inclusive_teim">Apr 15, 2011</field>
+    <field name="bioghist_teim">Fionnula Flanagan (b. Dublin, Ireland, 1941), a stage, television and film actress, has lived in Los Angeles since 1968. A fluent Irish speaker and a committed Irish nationalist, she is the wife of Dr. Garrett O'Connor.</field>
+    <field name="ref_ssi">aspace_ref378</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 60</field>
+    <field name="location_ssm">Folder: 60</field>
+    <field name="location_si">Folder: 60</field>
+    <field name="collection_teim">Ireland House Oral History Collection</field>
+    <field name="collection_unitid_teim">AIA.030</field>
+    <field name="series_sim">F</field>
+    <field name="series_si">F &gt;&gt; Flanagan, Fionnula</field>
+    <field name="heading_ssm">Flanagan, Fionnula</field>
+    <field name="unitdate_start_sim">2011</field>
+    <field name="unitdate_start_ssm">2011</field>
+    <field name="unitdate_start_si">2011</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, Apr 15, 2011</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">128</field>
+  </doc>
+</add>
