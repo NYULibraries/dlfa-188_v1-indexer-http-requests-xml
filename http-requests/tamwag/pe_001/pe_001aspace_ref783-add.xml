@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pe_001aspace_ref783</field>
+    <field name="ead_ssi">pe_001</field>
+    <field name="parent_ssi">aspace_ref480</field>
+    <field name="parent_ssm">aspace_ref480</field>
+    <field name="parent_unittitles_ssm">I</field>
+    <field name="parent_unittitles_teim">I</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Trade Unions</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Trade Unions</field>
+    <field name="collection_unitid_ssm">PE.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">International Longshoremen's and Warehousemen's Union: Agreements and Contracts</field>
+    <field name="unittitle_teim">International Longshoremen's and Warehousemen's Union: Agreements and Contracts</field>
+    <field name="unitdate_normal_ssm">1944/1960</field>
+    <field name="unitdate_normal_teim">1944/1960</field>
+    <field name="unitdate_normal_sim">1944/1960</field>
+    <field name="unitdate_inclusive_teim">1944-1948, 1960</field>
+    <field name="ref_ssi">aspace_ref783</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 21</field>
+    <field name="location_si">Box: 21</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Trade Unions</field>
+    <field name="collection_unitid_teim">PE.001</field>
+    <field name="series_sim">I</field>
+    <field name="series_si">I &gt;&gt; International Longshoremen's and Warehousemen's Union: Agreements and Contracts</field>
+    <field name="heading_ssm">International Longshoremen's and Warehousemen's Union: Agreements and Contracts</field>
+    <field name="unitdate_start_sim">1944</field>
+    <field name="unitdate_start_ssm">1944</field>
+    <field name="unitdate_start_si">1944</field>
+    <field name="unitdate_end_sim">1960</field>
+    <field name="unitdate_end_ssm">1960</field>
+    <field name="unitdate_end_si">1960</field>
+    <field name="unitdate_ssm">Inclusive, 1944-1948, 1960</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">830</field>
+  </doc>
+</add>

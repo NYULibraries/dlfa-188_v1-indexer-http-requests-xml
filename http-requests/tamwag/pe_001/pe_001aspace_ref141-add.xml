@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pe_001aspace_ref141</field>
+    <field name="ead_ssi">pe_001</field>
+    <field name="parent_ssi">aspace_ref33</field>
+    <field name="parent_ssm">aspace_ref33</field>
+    <field name="parent_unittitles_ssm">A</field>
+    <field name="parent_unittitles_teim">A</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Trade Unions</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Trade Unions</field>
+    <field name="collection_unitid_ssm">PE.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">American Federation of Musicians: Local 802 (New York, NY)</field>
+    <field name="unittitle_teim">American Federation of Musicians: Local 802 (New York, NY)</field>
+    <field name="unitdate_normal_ssm">1936/1967</field>
+    <field name="unitdate_normal_teim">1936/1967</field>
+    <field name="unitdate_normal_sim">1936/1967</field>
+    <field name="unitdate_inclusive_teim">1936-1967, undated</field>
+    <field name="ref_ssi">aspace_ref141</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4</field>
+    <field name="location_si">Box: 4</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Trade Unions</field>
+    <field name="collection_unitid_teim">PE.001</field>
+    <field name="series_sim">A</field>
+    <field name="series_si">A &gt;&gt; American Federation of Musicians: Local 802 (New York, NY)</field>
+    <field name="heading_ssm">American Federation of Musicians: Local 802 (New York, NY)</field>
+    <field name="unitdate_start_sim">1936</field>
+    <field name="unitdate_start_ssm">1936</field>
+    <field name="unitdate_start_si">1936</field>
+    <field name="unitdate_end_sim">1967</field>
+    <field name="unitdate_end_ssm">1967</field>
+    <field name="unitdate_end_si">1967</field>
+    <field name="unitdate_ssm">Inclusive, 1936-1967, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">151</field>
+  </doc>
+</add>

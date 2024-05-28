@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pe_036aspace_ref14</field>
+    <field name="ead_ssi">pe_036</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">A</field>
+    <field name="parent_unittitles_teim">A</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Organizations</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Organizations</field>
+    <field name="collection_unitid_ssm">PE.036</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ad Hoc Committee of Lawyers for Justice</field>
+    <field name="unittitle_teim">Ad Hoc Committee of Lawyers for Justice</field>
+    <field name="unitdate_teim">1969</field>
+    <field name="ref_ssi">aspace_ref14</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on Organizations</field>
+    <field name="collection_unitid_teim">PE.036</field>
+    <field name="series_sim">A</field>
+    <field name="series_si">A &gt;&gt; Ad Hoc Committee of Lawyers for Justice</field>
+    <field name="heading_ssm">Ad Hoc Committee of Lawyers for Justice</field>
+    <field name="unitdate_ssm">1969</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">42</field>
+  </doc>
+</add>
