@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_323aspace_ref1198</field>
+    <field name="ead_ssi">mss_323</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series VII: Video</field>
+    <field name="parent_unittitles_teim">Series VII: Video</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Noël Riley Fitch Julia Child Papers</field>
+    <field name="collection_ssm">Noël Riley Fitch Julia Child Papers</field>
+    <field name="collection_unitid_ssm">MSS.323</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"A Taste of Norway with Julia Child - Morash Productions"</field>
+    <field name="unittitle_teim">"A Taste of Norway with Julia Child - Morash Productions"</field>
+    <field name="unitid_teim">ID: 323.0079</field>
+    <field name="unitid_ssm">ID: 323.0079</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1198</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 21, Media: ID: 323.0079</field>
+    <field name="location_ssm">Media: ID: 323.0079</field>
+    <field name="location_si">Media: ID: 323.0079</field>
+    <field name="collection_teim">Noël Riley Fitch Julia Child Papers</field>
+    <field name="collection_unitid_teim">MSS.323</field>
+    <field name="series_sim">Series VII: Video</field>
+    <field name="series_si">Series VII: Video &gt;&gt; "A Taste of Norway with Julia Child - Morash Productions"</field>
+    <field name="heading_ssm">"A Taste of Norway with Julia Child - Morash Productions"</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1039</field>
+  </doc>
+</add>

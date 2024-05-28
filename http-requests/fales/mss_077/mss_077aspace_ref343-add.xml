@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_077aspace_ref343</field>
+    <field name="ead_ssi">mss_077</field>
+    <field name="parent_ssi">aspace_ref152</field>
+    <field name="parent_ssm">aspace_ref152</field>
+    <field name="parent_unittitles_ssm">Series V: Photographs</field>
+    <field name="parent_unittitles_teim">Series V: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Margaret Strickland Papers</field>
+    <field name="collection_ssm">Margaret Strickland Papers</field>
+    <field name="collection_unitid_ssm">MSS.077</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Disbound photographic album</field>
+    <field name="unittitle_teim">Disbound photographic album</field>
+    <field name="unitdate_normal_ssm">1890/1930</field>
+    <field name="unitdate_normal_teim">1890/1930</field>
+    <field name="unitdate_normal_sim">1890/1930</field>
+    <field name="unitdate_inclusive_teim">ca. early 20th century</field>
+    <field name="scopecontent_teim">Group photographs, sporting photographs, tourist alpine photographs, etc.</field>
+    <field name="ref_ssi">aspace_ref343</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11</field>
+    <field name="location_si">Box: 11</field>
+    <field name="collection_teim">Margaret Strickland Papers</field>
+    <field name="collection_unitid_teim">MSS.077</field>
+    <field name="series_sim">Series V: Photographs</field>
+    <field name="series_si">Series V: Photographs &gt;&gt; Disbound photographic album</field>
+    <field name="heading_ssm">Disbound photographic album</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1930</field>
+    <field name="unitdate_end_ssm">1930</field>
+    <field name="unitdate_end_si">1930</field>
+    <field name="unitdate_ssm">Inclusive, ca. early 20th century</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">145</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_093aspace_ref242</field>
+    <field name="ead_ssi">mss_093</field>
+    <field name="parent_ssi">aspace_ref224</field>
+    <field name="parent_ssm">aspace_ref224</field>
+    <field name="parent_unittitles_ssm">Series III: Manuscripts and writings</field>
+    <field name="parent_unittitles_teim">Series III: Manuscripts and writings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Watts Papers</field>
+    <field name="collection_ssm">John Watts Papers</field>
+    <field name="collection_unitid_ssm">MSS.093</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Unknown (Watts?) play - Magnum Opus Nugae</field>
+    <field name="unittitle_teim">Unknown (Watts?) play - Magnum Opus Nugae</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref242</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15, Folder: 18</field>
+    <field name="location_ssm">Folder: 18</field>
+    <field name="location_si">Folder: 18</field>
+    <field name="collection_teim">John Watts Papers</field>
+    <field name="collection_unitid_teim">MSS.093</field>
+    <field name="series_sim">Series III: Manuscripts and writings</field>
+    <field name="series_si">Series III: Manuscripts and writings &gt;&gt; Unknown (Watts?) play - Magnum Opus Nugae</field>
+    <field name="heading_ssm">Unknown (Watts?) play - Magnum Opus Nugae</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">224</field>
+  </doc>
+</add>

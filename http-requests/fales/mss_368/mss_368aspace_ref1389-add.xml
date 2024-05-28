@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_368aspace_ref1389</field>
+    <field name="ead_ssi">mss_368</field>
+    <field name="parent_ssi">aspace_ref1115</field>
+    <field name="parent_ssm">aspace_ref1114</field>
+    <field name="parent_ssm">aspace_ref1115</field>
+    <field name="parent_unittitles_ssm">Oversize Series V: Printed Ephemera</field>
+    <field name="parent_unittitles_ssm">Subseries B: Print Ephemera</field>
+    <field name="parent_unittitles_teim">Oversize Series V: Printed Ephemera</field>
+    <field name="parent_unittitles_teim">Subseries B: Print Ephemera</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_ssm">MSS.368/repositories/3/resources/1861</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Alice in Wonderland Prints</field>
+    <field name="unittitle_teim">Alice in Wonderland Prints</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/578470</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/578470</field>
+    <field name="unitdate_teim">[Undated]</field>
+    <field name="scopecontent_teim">Title: Alice in Wonderland Prints</field>
+    <field name="scopecontent_teim">Description: 1. Sepia print of Charles Lewis Dodgson.  2. How Doth the Little Crocodile, by Sarah Chamberlain. Calligraphic reproduction with white ink on black background of Alice's recitation in the pool of tears. 3. Psychedelic Caterpillar smoking his hookah, by Jonathan. 4. Alice au Pays des Merveilles, Disney Studios, RKO Films. 4-color poster advertising the exhibition of the Disney film in France.</field>
+    <field name="scopecontent_teim">
+Dimensions: 1. 11"x15".  2. 15"x16" 3. 18"x20"  4. 13"x17"</field>
+    <field name="ref_ssi">aspace_ref1389</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 53, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_teim">MSS.368/repositories/3/resources/1861</field>
+    <field name="series_sim">Oversize Series V: Printed Ephemera</field>
+    <field name="series_sim">Subseries B: Print Ephemera</field>
+    <field name="series_si">Oversize Series V: Printed Ephemera &gt;&gt; Subseries B: Print Ephemera &gt;&gt; Alice in Wonderland Prints</field>
+    <field name="heading_ssm">Alice in Wonderland Prints</field>
+    <field name="unitdate_ssm">[Undated]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">929</field>
+  </doc>
+</add>

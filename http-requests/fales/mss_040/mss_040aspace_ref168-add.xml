@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_040aspace_ref168</field>
+    <field name="ead_ssi">mss_040</field>
+    <field name="parent_ssi">aspace_ref76</field>
+    <field name="parent_ssm">aspace_ref19</field>
+    <field name="parent_ssm">aspace_ref76</field>
+    <field name="parent_unittitles_ssm">Series I:Documentary Material</field>
+    <field name="parent_unittitles_ssm">Subseries B: People</field>
+    <field name="parent_unittitles_teim">Series I:Documentary Material</field>
+    <field name="parent_unittitles_teim">Subseries B: People</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Canemaker Animation Collection</field>
+    <field name="collection_ssm">John Canemaker Animation Collection</field>
+    <field name="collection_unitid_ssm">MSS.040/repositories/3/resources/1625</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Disney,Walt: General</field>
+    <field name="unittitle_teim">Disney,Walt: General</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/397734</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/397734</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref168</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 66-67</field>
+    <field name="location_ssm">Folder: 66-67</field>
+    <field name="location_si">Folder: 66-67</field>
+    <field name="collection_teim">John Canemaker Animation Collection</field>
+    <field name="collection_unitid_teim">MSS.040/repositories/3/resources/1625</field>
+    <field name="series_sim">Series I:Documentary Material</field>
+    <field name="series_sim">Subseries B: People</field>
+    <field name="series_si">Series I:Documentary Material &gt;&gt; Subseries B: People &gt;&gt; Disney,Walt: General</field>
+    <field name="heading_ssm">Disney,Walt: General</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">150</field>
+  </doc>
+</add>

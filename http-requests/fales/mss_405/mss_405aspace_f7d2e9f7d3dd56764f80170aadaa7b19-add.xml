@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_405aspace_f7d2e9f7d3dd56764f80170aadaa7b19</field>
+    <field name="ead_ssi">mss_405</field>
+    <field name="parent_ssi">aspace_b484090e22937d39e2b24e55fbe5605c</field>
+    <field name="parent_ssm">aspace_b484090e22937d39e2b24e55fbe5605c</field>
+    <field name="parent_unittitles_ssm">Series VI. Personal</field>
+    <field name="parent_unittitles_teim">Series VI. Personal</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Larry Polansky Papers</field>
+    <field name="collection_ssm">Larry Polansky Papers</field>
+    <field name="collection_unitid_ssm">MSS.405/repositories/3/resources/2342</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Zipf's Law Stuff -- Richard Zvonar</field>
+    <field name="unittitle_teim">Zipf's Law Stuff -- Richard Zvonar</field>
+    <field name="unitid_teim">cuid25853</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/814858</field>
+    <field name="unitid_ssm">cuid25853</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/814858</field>
+    <field name="unitdate_normal_ssm">1975/2013</field>
+    <field name="unitdate_normal_teim">1975/2013</field>
+    <field name="unitdate_normal_sim">1975/2013</field>
+    <field name="unitdate_inclusive_teim">1975-2005, undated</field>
+    <field name="ref_ssi">aspace_f7d2e9f7d3dd56764f80170aadaa7b19</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 57, Folder: 6-8</field>
+    <field name="location_ssm">Folder: 6-8</field>
+    <field name="location_si">Folder: 6-8</field>
+    <field name="collection_teim">Larry Polansky Papers</field>
+    <field name="collection_unitid_teim">MSS.405/repositories/3/resources/2342</field>
+    <field name="series_sim">Series VI. Personal</field>
+    <field name="series_si">Series VI. Personal &gt;&gt; Zipf's Law Stuff -- Richard Zvonar</field>
+    <field name="heading_ssm">Zipf's Law Stuff -- Richard Zvonar</field>
+    <field name="unitdate_start_sim">1975</field>
+    <field name="unitdate_start_ssm">1975</field>
+    <field name="unitdate_start_si">1975</field>
+    <field name="unitdate_end_sim">2013</field>
+    <field name="unitdate_end_ssm">2013</field>
+    <field name="unitdate_end_si">2013</field>
+    <field name="unitdate_ssm">Inclusive, 1975-2005, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">662</field>
+  </doc>
+</add>

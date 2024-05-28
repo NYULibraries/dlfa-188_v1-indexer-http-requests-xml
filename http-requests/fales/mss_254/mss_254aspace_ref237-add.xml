@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_254aspace_ref237</field>
+    <field name="ead_ssi">mss_254</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Librettos and Playbills</field>
+    <field name="parent_unittitles_teim">Series I: Librettos and Playbills</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Donald Oliver/Chelsea Music Archive</field>
+    <field name="collection_ssm">Donald Oliver/Chelsea Music Archive</field>
+    <field name="collection_unitid_ssm">MSS.254</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Seven Brides for Seven Brothers</field>
+    <field name="unittitle_teim">Seven Brides for Seven Brothers</field>
+    <field name="unitdate_teim">1978</field>
+    <field name="scopecontent_teim">Book by Larry Kasha and David Landay
+Music by Gene de Paul
+Lyrics by Johnny Mercer</field>
+    <field name="scopecontent_teim">contains marginalia</field>
+    <field name="ref_ssi">aspace_ref237</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 16, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Donald Oliver/Chelsea Music Archive</field>
+    <field name="collection_unitid_teim">MSS.254</field>
+    <field name="series_sim">Series I: Librettos and Playbills</field>
+    <field name="series_si">Series I: Librettos and Playbills &gt;&gt; Seven Brides for Seven Brothers</field>
+    <field name="heading_ssm">Seven Brides for Seven Brothers</field>
+    <field name="unitdate_ssm">1978</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">445</field>
+  </doc>
+</add>

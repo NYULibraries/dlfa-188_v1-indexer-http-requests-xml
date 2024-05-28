@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_481aspace_15689dfc20a157e72afbbe4448ef3efe</field>
+    <field name="ead_ssi">mss_481</field>
+    <field name="parent_ssi">aspace_5f1c5a0f91dbf323d32fa1596ab793ba</field>
+    <field name="parent_ssm">aspace_5f1c5a0f91dbf323d32fa1596ab793ba</field>
+    <field name="parent_unittitles_ssm">Series II. Bennington College</field>
+    <field name="parent_unittitles_teim">Series II. Bennington College</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Bill Dixon Papers</field>
+    <field name="collection_ssm">Bill Dixon Papers</field>
+    <field name="collection_unitid_ssm">MSS.481/repositories/3/resources/2376</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.B: Performance and Event Recordings</field>
+    <field name="unittitle_teim">Subseries II.B: Performance and Event Recordings</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/954193</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/954193</field>
+    <field name="unitdate_normal_ssm">1964/1994</field>
+    <field name="unitdate_normal_teim">1964/1994</field>
+    <field name="unitdate_normal_sim">1964/1994</field>
+    <field name="unitdate_inclusive_teim">1964-1994</field>
+    <field name="scopecontent_teim">This subseries includes recordings of concerts and events put on by the Black Music Division at Bennington College, including student performances, senior concerts, faculty concerts, music festivals, and music talks. There are several recordings of performances at "3 Days in October," a 1994 event commemorating the October Revolution in Jazz.</field>
+    <field name="scopecontent_teim">Some recordings of student performances may also be present in Subseries I.B due to limited information; any recordings where student involvement is explicitly noted are located in Series II.B.</field>
+    <field name="ref_ssi">aspace_15689dfc20a157e72afbbe4448ef3efe</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bill Dixon Papers</field>
+    <field name="collection_unitid_teim">MSS.481/repositories/3/resources/2376</field>
+    <field name="series_sim">Series II. Bennington College</field>
+    <field name="series_si">Series II. Bennington College &gt;&gt; Subseries II.B: Performance and Event Recordings</field>
+    <field name="heading_ssm">Subseries II.B: Performance and Event Recordings</field>
+    <field name="unitdate_start_sim">1964</field>
+    <field name="unitdate_start_ssm">1964</field>
+    <field name="unitdate_start_si">1964</field>
+    <field name="unitdate_end_sim">1994</field>
+    <field name="unitdate_end_ssm">1994</field>
+    <field name="unitdate_end_si">1994</field>
+    <field name="unitdate_ssm">Inclusive, 1964-1994</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2462</field>
+  </doc>
+</add>

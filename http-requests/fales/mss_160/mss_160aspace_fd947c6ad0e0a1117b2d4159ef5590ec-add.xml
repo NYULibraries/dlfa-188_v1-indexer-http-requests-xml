@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_160aspace_fd947c6ad0e0a1117b2d4159ef5590ec</field>
+    <field name="ead_ssi">mss_160</field>
+    <field name="parent_ssi">aspace_bec26b77be653eac18ed386ddafc6990</field>
+    <field name="parent_ssm">aspace_bec26b77be653eac18ed386ddafc6990</field>
+    <field name="parent_unittitles_ssm">Series II: Writings, Interviews, Lectures, Classes</field>
+    <field name="parent_unittitles_teim">Series II: Writings, Interviews, Lectures, Classes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Betty Fussell Papers</field>
+    <field name="collection_ssm">Betty Fussell Papers</field>
+    <field name="collection_unitid_ssm">MSS.160</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Betty Fussell Books and Related Materials</field>
+    <field name="unittitle_teim">Betty Fussell Books and Related Materials</field>
+    <field name="ref_ssi">aspace_fd947c6ad0e0a1117b2d4159ef5590ec</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Betty Fussell Papers</field>
+    <field name="collection_unitid_teim">MSS.160</field>
+    <field name="series_sim">Series II: Writings, Interviews, Lectures, Classes</field>
+    <field name="series_si">Series II: Writings, Interviews, Lectures, Classes &gt;&gt; Betty Fussell Books and Related Materials</field>
+    <field name="heading_ssm">Betty Fussell Books and Related Materials</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

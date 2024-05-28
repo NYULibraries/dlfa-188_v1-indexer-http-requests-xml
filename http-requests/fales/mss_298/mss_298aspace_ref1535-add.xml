@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_298aspace_ref1535</field>
+    <field name="ead_ssi">mss_298</field>
+    <field name="parent_ssi">aspace_ref1534</field>
+    <field name="parent_ssm">aspace_ref1534</field>
+    <field name="parent_unittitles_ssm">Accretion 2011 - Series VI: Other Administrative Files</field>
+    <field name="parent_unittitles_teim">Accretion 2011 - Series VI: Other Administrative Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Annina Nosei Gallery Archive</field>
+    <field name="collection_ssm">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_ssm">MSS.298/repositories/3/resources/1812</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Accretion 2011 - Subseries B: Memos</field>
+    <field name="unittitle_teim">Accretion 2011 - Subseries B: Memos</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/553778</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/553778</field>
+    <field name="ref_ssi">aspace_ref1535</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_teim">MSS.298/repositories/3/resources/1812</field>
+    <field name="series_sim">Accretion 2011 - Series VI: Other Administrative Files</field>
+    <field name="series_si">Accretion 2011 - Series VI: Other Administrative Files &gt;&gt; Accretion 2011 - Subseries B: Memos</field>
+    <field name="heading_ssm">Accretion 2011 - Subseries B: Memos</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1855</field>
+  </doc>
+</add>

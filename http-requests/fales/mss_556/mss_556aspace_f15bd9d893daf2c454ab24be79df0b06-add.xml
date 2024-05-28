@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_556aspace_f15bd9d893daf2c454ab24be79df0b06</field>
+    <field name="ead_ssi">mss_556</field>
+    <field name="parent_ssi">aspace_1d9a91da61ce2d2d8167d100d417721f</field>
+    <field name="parent_ssm">aspace_1d9a91da61ce2d2d8167d100d417721f</field>
+    <field name="parent_unittitles_ssm">Series I: Naomi Rosenblum's Research Materials, Correspondence, Subject Files, and Lectures</field>
+    <field name="parent_unittitles_teim">Series I: Naomi Rosenblum's Research Materials, Correspondence, Subject Files, and Lectures</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Walter and Naomi Rosenblum Collection of Photography and Photographic History</field>
+    <field name="collection_ssm">Walter and Naomi Rosenblum Collection of Photography and Photographic History</field>
+    <field name="collection_unitid_ssm">MSS.556/repositories/3/resources/2780</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Strand/Stieglitz Corr/Copies</field>
+    <field name="unittitle_teim">Strand/Stieglitz Corr/Copies</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/946705</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/946705</field>
+    <field name="unitdate_normal_ssm">1926/1933</field>
+    <field name="unitdate_normal_teim">1926/1933</field>
+    <field name="unitdate_normal_sim">1926/1933</field>
+    <field name="unitdate_inclusive_teim">1926-1933</field>
+    <field name="ref_ssi">aspace_f15bd9d893daf2c454ab24be79df0b06</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Walter and Naomi Rosenblum Collection of Photography and Photographic History</field>
+    <field name="collection_unitid_teim">MSS.556/repositories/3/resources/2780</field>
+    <field name="series_sim">Series I: Naomi Rosenblum's Research Materials, Correspondence, Subject Files, and Lectures</field>
+    <field name="series_si">Series I: Naomi Rosenblum's Research Materials, Correspondence, Subject Files, and Lectures &gt;&gt; Strand/Stieglitz Corr/Copies</field>
+    <field name="heading_ssm">Strand/Stieglitz Corr/Copies</field>
+    <field name="unitdate_start_sim">1926</field>
+    <field name="unitdate_start_ssm">1926</field>
+    <field name="unitdate_start_si">1926</field>
+    <field name="unitdate_end_sim">1933</field>
+    <field name="unitdate_end_ssm">1933</field>
+    <field name="unitdate_end_si">1933</field>
+    <field name="unitdate_ssm">Inclusive, 1926-1933</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">205</field>
+  </doc>
+</add>

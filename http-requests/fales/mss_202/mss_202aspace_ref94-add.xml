@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_202aspace_ref94</field>
+    <field name="ead_ssi">mss_202</field>
+    <field name="parent_ssi">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_unittitles_ssm">Series I: Prints by project</field>
+    <field name="parent_unittitles_teim">Series I: Prints by project</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jimmy De Sana Papers</field>
+    <field name="collection_ssm">Jimmy De Sana Papers</field>
+    <field name="collection_unitid_ssm">MSS.202</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries D: $bfat</field>
+    <field name="unittitle_teim">Subseries D: $bfat</field>
+    <field name="scopecontent_teim">Box 2 is an oversized flat box. Prints are 8x10 or 16x20.</field>
+    <field name="ref_ssi">aspace_ref94</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jimmy De Sana Papers</field>
+    <field name="collection_unitid_teim">MSS.202</field>
+    <field name="series_sim">Series I: Prints by project</field>
+    <field name="series_si">Series I: Prints by project &gt;&gt; Subseries D: $bfat</field>
+    <field name="heading_ssm">Subseries D: $bfat</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">44</field>
+  </doc>
+</add>

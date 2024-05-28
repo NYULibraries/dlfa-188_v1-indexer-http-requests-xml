@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_112aspace_ref1</field>
+    <field name="ead_ssi">mss_112</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Marcelo DeMoura Papers</field>
+    <field name="collection_ssm">Marcelo DeMoura Papers</field>
+    <field name="collection_unitid_ssm">MSS.112</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Original Works (Oversize)</field>
+    <field name="unittitle_teim">Series I: Original Works (Oversize)</field>
+    <field name="scopecontent_teim">Materials are divided by format into two Subseries (Drawings and Animation cels), and arranged alphabetically by title within each subseries.</field>
+    <field name="scopecontent_teim">This series contains all of the original artworks in the archive. Subseries A features a particularly strong collection of drawings from The Secret of Nimh (1982). Strengths of Subseries B include animation cels from Thumbelina (1994). Some of the animation cels are signed by Don Bluth (see notes below item descriptions).</field>
+    <field name="ref_ssi">aspace_ref1</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Marcelo DeMoura Papers</field>
+    <field name="collection_unitid_teim">MSS.112</field>
+    <field name="series_si">Series I: Original Works (Oversize)</field>
+    <field name="heading_ssm">Series I: Original Works (Oversize)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

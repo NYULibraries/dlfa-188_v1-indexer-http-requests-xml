@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_067aspace_5fe7deb55f4211cada8626a496c20e16</field>
+    <field name="ead_ssi">mss_067</field>
+    <field name="parent_ssi">aspace_ref276</field>
+    <field name="parent_ssm">aspace_ref276</field>
+    <field name="parent_unittitles_ssm">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+    <field name="parent_unittitles_teim">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Elmer Holmes Bobst Collection</field>
+    <field name="collection_ssm">Elmer Holmes Bobst Collection</field>
+    <field name="collection_unitid_ssm">MSS.067/repositories/3/resources/2701</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">State Dept., O.I.C., Mr. Elmer H. Bobst "Cancer Control in America"</field>
+    <field name="unittitle_teim">State Dept., O.I.C., Mr. Elmer H. Bobst "Cancer Control in America"</field>
+    <field name="unitid_teim">cuid28914</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/923381</field>
+    <field name="unitid_ssm">cuid28914</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/923381</field>
+    <field name="unitdate_normal_ssm">1945/1965</field>
+    <field name="unitdate_normal_teim">1945/1965</field>
+    <field name="unitdate_normal_sim">1945/1965</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="phystech_teim">Duration: 11 minutes; Preservation note: Surface noise</field>
+    <field name="dao_teim">State Dept., O.I.C., Mr. Elmer H. Bobst "Cancer Control in America"</field>
+    <field name="dao_ssm">State Dept., O.I.C., Mr. Elmer H. Bobst "Cancer Control in America"</field>
+    <field name="ref_ssi">aspace_5fe7deb55f4211cada8626a496c20e16</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 57</field>
+    <field name="location_si">Box: 57</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Elmer Holmes Bobst Collection</field>
+    <field name="collection_unitid_teim">MSS.067/repositories/3/resources/2701</field>
+    <field name="series_sim">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+    <field name="series_si">Series V: Film, Audio and Video Tape, Slides and Recordings. &gt;&gt; State Dept., O.I.C., Mr. Elmer H. Bobst "Cancer Control in America"</field>
+    <field name="heading_ssm">State Dept., O.I.C., Mr. Elmer H. Bobst "Cancer Control in America"</field>
+    <field name="unitdate_start_sim">1945</field>
+    <field name="unitdate_start_ssm">1945</field>
+    <field name="unitdate_start_si">1945</field>
+    <field name="unitdate_end_sim">1965</field>
+    <field name="unitdate_end_ssm">1965</field>
+    <field name="unitdate_end_si">1965</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">338</field>
+  </doc>
+</add>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_332aspace_b5ce22d5c804647cde60570290e907aa</field>
+    <field name="ead_ssi">mss_332</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jim Neu Papers</field>
+    <field name="collection_ssm">Jim Neu Papers</field>
+    <field name="collection_unitid_ssm">MSS.332/repositories/3/resources/2601</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Live Witness&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Live Witness
+    </field>
+    <field name="unitid_teim">cuid39264</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/975930</field>
+    <field name="unitid_ssm">cuid39264</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/975930</field>
+    <field name="unitdate_normal_ssm">1992/1994</field>
+    <field name="unitdate_normal_teim">1992/1994</field>
+    <field name="unitdate_normal_sim">1992/1994</field>
+    <field name="unitdate_inclusive_teim">1992-1994</field>
+    <field name="dao_teim">Live Witness: 1992-</field>
+    <field name="dao_ssm">Live Witness: 1992-</field>
+    <field name="ref_ssi">aspace_b5ce22d5c804647cde60570290e907aa</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_ssm">Box: 26, audiocassette: 332.0023</field>
+    <field name="location_ssm">audiocassette: 332.0023</field>
+    <field name="location_ssm">Box: 27, audiocassette: 332.0078, 332.0105, 332.0145</field>
+    <field name="location_ssm">audiocassette: 332.0078, 332.0105, 332.0145</field>
+    <field name="location_ssm">Box: 33, VHS: 332.0276</field>
+    <field name="location_ssm">VHS: 332.0276</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_332_ER_21</field>
+    <field name="location_ssm">E-records: FA_MSS_332_ER_21</field>
+    <field name="location_si">E-records: FA_MSS_332_ER_21</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Jim Neu Papers</field>
+    <field name="collection_unitid_teim">MSS.332/repositories/3/resources/2601</field>
+    <field name="series_si">
+      &lt;em&gt;Live Witness&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Live Witness
+    </field>
+    <field name="unitdate_start_sim">1992</field>
+    <field name="unitdate_start_ssm">1992</field>
+    <field name="unitdate_start_si">1992</field>
+    <field name="unitdate_end_sim">1994</field>
+    <field name="unitdate_end_ssm">1994</field>
+    <field name="unitdate_end_si">1994</field>
+    <field name="unitdate_ssm">Inclusive, 1992-1994</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">110</field>
+  </doc>
+</add>

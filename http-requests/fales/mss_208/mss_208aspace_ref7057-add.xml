@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref7057</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref4134</field>
+    <field name="parent_ssm">aspace_ref4134</field>
+    <field name="parent_unittitles_ssm">Record Group V: Fiske Family</field>
+    <field name="parent_unittitles_teim">Record Group V: Fiske Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Fiske: Oversize</field>
+    <field name="unittitle_teim">Fiske: Oversize</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/512677</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/512677</field>
+    <field name="scopecontent_teim">These materials are arranged in a loose chronological order. In the case that a record includes more than one date expression, the listing will begin with its earliest. If a record is physically undated, approximate ranges are provided. These records are noted "undated" and followed by a "circa" estimate determined by the range represented in the same series.</field>
+    <field name="ref_ssi">aspace_ref7057</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group V: Fiske Family</field>
+    <field name="series_si">Record Group V: Fiske Family &gt;&gt; Fiske: Oversize</field>
+    <field name="heading_ssm">Fiske: Oversize</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5446</field>
+  </doc>
+</add>

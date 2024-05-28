@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_143aspace_ref5203</field>
+    <field name="ead_ssi">mss_143</field>
+    <field name="parent_ssi">aspace_ref5028</field>
+    <field name="parent_ssm">aspace_ref4776</field>
+    <field name="parent_ssm">aspace_ref5028</field>
+    <field name="parent_unittitles_ssm">SERIES XIX: Miscellaneous</field>
+    <field name="parent_unittitles_ssm">Subseries L: Media - Video and Audio</field>
+    <field name="parent_unittitles_teim">SERIES XIX: Miscellaneous</field>
+    <field name="parent_unittitles_teim">Subseries L: Media - Video and Audio</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Mix Collection</field>
+    <field name="collection_ssm">The Mix Collection</field>
+    <field name="collection_unitid_ssm">MSS.143/repositories/3/resources/1706</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;strong&gt; Title: &lt;/strong&gt; La Fruta</field>
+    <field name="unittitle_teim"> Title:  La Fruta</field>
+    <field name="unitid_teim">143.1591</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/470275</field>
+    <field name="unitid_ssm">143.1591</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/470275</field>
+    <field name="unitdate_normal_ssm">2018/2018</field>
+    <field name="unitdate_normal_teim">2018/2018</field>
+    <field name="unitdate_normal_sim">2018/2018</field>
+    <field name="unitdate_teim">Screened: [1991]</field>
+    <field name="unitdate_teim"> </field>
+    <field name="phystech_teim"> Old number:  MT 02 </field>
+    <field name="phystech_teim"> Director:  Barrero, Roly Chang </field>
+    <field name="phystech_teim"> Distributor:  </field>
+    <field name="phystech_teim"> Format:  VHS </field>
+    <field name="phystech_teim"> Duration:  3 minutes </field>
+    <field name="ref_ssi">aspace_ref5203</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 80, Cassette: 143.1591</field>
+    <field name="location_ssm">Cassette: 143.1591</field>
+    <field name="location_ssm">E-records: fales_mss143, E-records: 143.1591</field>
+    <field name="location_ssm">E-records: 143.1591</field>
+    <field name="location_si">E-records: 143.1591</field>
+    <field name="collection_teim">The Mix Collection</field>
+    <field name="collection_unitid_teim">MSS.143/repositories/3/resources/1706</field>
+    <field name="series_sim">SERIES XIX: Miscellaneous</field>
+    <field name="series_sim">Subseries L: Media - Video and Audio</field>
+    <field name="series_si">SERIES XIX: Miscellaneous &gt;&gt; Subseries L: Media - Video and Audio &gt;&gt; &lt;strong&gt; Title: &lt;/strong&gt; La Fruta</field>
+    <field name="heading_ssm"> Title:  La Fruta</field>
+    <field name="unitdate_start_sim">2018</field>
+    <field name="unitdate_start_ssm">2018</field>
+    <field name="unitdate_start_si">2018</field>
+    <field name="unitdate_end_sim">2018</field>
+    <field name="unitdate_end_ssm">2018</field>
+    <field name="unitdate_end_si">2018</field>
+    <field name="unitdate_ssm">Screened: [1991]  </field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">3454</field>
+  </doc>
+</add>

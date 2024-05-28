@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref5206</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref4130</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref4130</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_ssm">Series I: Assorted Horsford Materials</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Series I: Assorted Horsford Materials</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 1: Correspondence</field>
+    <field name="unittitle_teim">Subseries 1: Correspondence</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/512123</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/512123</field>
+    <field name="scopecontent_teim">Record Group IV, Series I, Subseries 1 is arranged alphabetically by the company name or surname of the individual in contact. </field>
+    <field name="scopecontent_teim">Record titles reflect this arrangement by taking the form: 
+[Surname, First Name]: [Location]. </field>
+    <field name="scopecontent_teim">In the case that a set of correspondence includes multiple authors or the surname of the individual are unidentified, record titles reflect administrative categories, first names, initials, or nicknames, with possible surnames and locations provided in brackets. In the case that a record includes more than one date expression, the listing will begin with its earliest. If a record is physically undated, approximate ranges are provided. These records are noted "undated" and followed by a "circa" estimate determined by the range represented in the same subseries.</field>
+    <field name="ref_ssi">aspace_ref5206</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_sim">Series I: Assorted Horsford Materials</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series I: Assorted Horsford Materials &gt;&gt; Subseries 1: Correspondence</field>
+    <field name="heading_ssm">Subseries 1: Correspondence</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4891</field>
+  </doc>
+</add>

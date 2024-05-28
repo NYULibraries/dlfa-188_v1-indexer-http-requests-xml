@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_179aspace_db19440c2b8ad45b44e8453ec3837482</field>
+    <field name="ead_ssi">mss_179</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series I: Exhibitions and Projects</field>
+    <field name="parent_unittitles_teim">Series I: Exhibitions and Projects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Creative Time Records</field>
+    <field name="collection_ssm">Creative Time Records</field>
+    <field name="collection_unitid_ssm">MSS.179/repositories/3/resources/1736</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Art on the Plaza 3: Peace&lt;/em&gt; by Zhang Huang</field>
+    <field name="unittitle_teim">Art on the Plaza 3: Peace by Zhang Huang</field>
+    <field name="unitid_teim">cuid40870</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/979964</field>
+    <field name="unitid_ssm">cuid40870</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/979964</field>
+    <field name="unitdate_normal_ssm">2003/2004</field>
+    <field name="unitdate_normal_teim">2003/2004</field>
+    <field name="unitdate_normal_sim">2003/2004</field>
+    <field name="unitdate_inclusive_teim">September 2003-April 2004</field>
+    <field name="dao_teim">Art on the Plaza 3: Peace by Zhang Huang</field>
+    <field name="dao_ssm">Art on the Plaza 3: Peace by Zhang Huang</field>
+    <field name="ref_ssi">aspace_db19440c2b8ad45b44e8453ec3837482</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 68, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_ssm">Box: 69, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_ssm">Box: 19, Folder: 283</field>
+    <field name="location_ssm">Folder: 283</field>
+    <field name="location_ssm">case: 179.0128</field>
+    <field name="location_ssm">Box: 26, MiniDV: 179.0127</field>
+    <field name="location_ssm">MiniDV: 179.0127</field>
+    <field name="location_si">MiniDV: 179.0127</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Creative Time Records</field>
+    <field name="collection_unitid_teim">MSS.179/repositories/3/resources/1736</field>
+    <field name="series_sim">Series I: Exhibitions and Projects</field>
+    <field name="series_si">Series I: Exhibitions and Projects &gt;&gt; &lt;em&gt;Art on the Plaza 3: Peace&lt;/em&gt; by Zhang Huang</field>
+    <field name="heading_ssm">Art on the Plaza 3: Peace by Zhang Huang</field>
+    <field name="unitdate_start_sim">2003</field>
+    <field name="unitdate_start_ssm">2003</field>
+    <field name="unitdate_start_si">2003</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, September 2003-April 2004</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">275</field>
+  </doc>
+</add>

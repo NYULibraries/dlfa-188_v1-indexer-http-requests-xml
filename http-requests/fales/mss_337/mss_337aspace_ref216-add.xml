@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_337aspace_ref216</field>
+    <field name="ead_ssi">mss_337</field>
+    <field name="parent_ssi">aspace_ref7</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref7</field>
+    <field name="parent_unittitles_ssm">Series I: Comic Books and Periodicals </field>
+    <field name="parent_unittitles_ssm">Subseries C: Various</field>
+    <field name="parent_unittitles_teim">Series I: Comic Books and Periodicals </field>
+    <field name="parent_unittitles_teim">Subseries C: Various</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Larry Hama Comic Book Collection</field>
+    <field name="collection_ssm">Larry Hama Comic Book Collection</field>
+    <field name="collection_unitid_ssm">MSS.337</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Bizarre Adventures (28,32,34)</field>
+    <field name="unittitle_teim">Bizarre Adventures (28,32,34)</field>
+    <field name="unitdate_teim">October 1981- February 1983</field>
+    <field name="ref_ssi">aspace_ref216</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Larry Hama Comic Book Collection</field>
+    <field name="collection_unitid_teim">MSS.337</field>
+    <field name="series_sim">Series I: Comic Books and Periodicals </field>
+    <field name="series_sim">Subseries C: Various</field>
+    <field name="series_si">Series I: Comic Books and Periodicals  &gt;&gt; Subseries C: Various &gt;&gt; Bizarre Adventures (28,32,34)</field>
+    <field name="heading_ssm">Bizarre Adventures (28,32,34)</field>
+    <field name="unitdate_ssm">October 1981- February 1983</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">195</field>
+  </doc>
+</add>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_143aspace_ref442</field>
+    <field name="ead_ssi">mss_143</field>
+    <field name="parent_ssi">aspace_ref420</field>
+    <field name="parent_ssm">aspace_ref419</field>
+    <field name="parent_ssm">aspace_ref420</field>
+    <field name="parent_unittitles_ssm">SERIES VII: 1993</field>
+    <field name="parent_unittitles_ssm">Subseries A: Administrative Files</field>
+    <field name="parent_unittitles_teim">SERIES VII: 1993</field>
+    <field name="parent_unittitles_teim">Subseries A: Administrative Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Mix Collection</field>
+    <field name="collection_ssm">The Mix Collection</field>
+    <field name="collection_unitid_ssm">MSS.143/repositories/3/resources/1706</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Legal - Exhibition contracts - The Kitchen</field>
+    <field name="unittitle_teim">Legal - Exhibition contracts - The Kitchen</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/467243</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/467243</field>
+    <field name="unitdate_teim">1993</field>
+    <field name="ref_ssi">aspace_ref442</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 405</field>
+    <field name="location_ssm">Folder: 405</field>
+    <field name="location_si">Folder: 405</field>
+    <field name="collection_teim">The Mix Collection</field>
+    <field name="collection_unitid_teim">MSS.143/repositories/3/resources/1706</field>
+    <field name="series_sim">SERIES VII: 1993</field>
+    <field name="series_sim">Subseries A: Administrative Files</field>
+    <field name="series_si">SERIES VII: 1993 &gt;&gt; Subseries A: Administrative Files &gt;&gt; Legal - Exhibition contracts - The Kitchen</field>
+    <field name="heading_ssm">Legal - Exhibition contracts - The Kitchen</field>
+    <field name="unitdate_ssm">1993</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">422</field>
+  </doc>
+</add>

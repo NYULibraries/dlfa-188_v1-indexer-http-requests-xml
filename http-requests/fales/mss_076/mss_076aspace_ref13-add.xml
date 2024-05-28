@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_076aspace_ref13</field>
+    <field name="ead_ssi">mss_076</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series A: French Film Scripts</field>
+    <field name="parent_unittitles_teim">Series A: French Film Scripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Hammond Film Script Collection</field>
+    <field name="collection_ssm">Hammond Film Script Collection</field>
+    <field name="collection_unitid_ssm">MSS.076</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 1: Jean Cocteau</field>
+    <field name="unittitle_teim">Subseries 1: Jean Cocteau</field>
+    <field name="scopecontent_teim">Film scripts directed by Jean Cocteau</field>
+    <field name="ref_ssi">aspace_ref13</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Hammond Film Script Collection</field>
+    <field name="collection_unitid_teim">MSS.076</field>
+    <field name="series_sim">Series A: French Film Scripts</field>
+    <field name="series_si">Series A: French Film Scripts &gt;&gt; Subseries 1: Jean Cocteau</field>
+    <field name="heading_ssm">Subseries 1: Jean Cocteau</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

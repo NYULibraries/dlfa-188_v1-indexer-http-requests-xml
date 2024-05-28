@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_067aspace_e831cdc0df25573ddd1c187b3dd9f525</field>
+    <field name="ead_ssi">mss_067</field>
+    <field name="parent_ssi">aspace_ref276</field>
+    <field name="parent_ssm">aspace_ref276</field>
+    <field name="parent_unittitles_ssm">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+    <field name="parent_unittitles_teim">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Elmer Holmes Bobst Collection</field>
+    <field name="collection_ssm">Elmer Holmes Bobst Collection</field>
+    <field name="collection_unitid_ssm">MSS.067/repositories/3/resources/2701</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Christmas Greetings Governor Driscoll</field>
+    <field name="unittitle_teim">Christmas Greetings Governor Driscoll</field>
+    <field name="unitid_teim">cuid28908</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/923375</field>
+    <field name="unitid_ssm">cuid28908</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/923375</field>
+    <field name="unitdate_normal_ssm">1947/1954</field>
+    <field name="unitdate_normal_teim">1947/1954</field>
+    <field name="unitdate_normal_sim">1947/1954</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="phystech_teim">Duration: 3 minutes</field>
+    <field name="dao_teim">Christmas Greetings Governor Driscoll</field>
+    <field name="dao_ssm">Christmas Greetings Governor Driscoll</field>
+    <field name="ref_ssi">aspace_e831cdc0df25573ddd1c187b3dd9f525</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 57</field>
+    <field name="location_si">Box: 57</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Elmer Holmes Bobst Collection</field>
+    <field name="collection_unitid_teim">MSS.067/repositories/3/resources/2701</field>
+    <field name="series_sim">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+    <field name="series_si">Series V: Film, Audio and Video Tape, Slides and Recordings. &gt;&gt; Christmas Greetings Governor Driscoll</field>
+    <field name="heading_ssm">Christmas Greetings Governor Driscoll</field>
+    <field name="unitdate_start_sim">1947</field>
+    <field name="unitdate_start_ssm">1947</field>
+    <field name="unitdate_start_si">1947</field>
+    <field name="unitdate_end_sim">1954</field>
+    <field name="unitdate_end_ssm">1954</field>
+    <field name="unitdate_end_si">1954</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">332</field>
+  </doc>
+</add>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_5d509f0839b48d6aca3c847c9e880f48</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_ssm">Sabbateni 1 (formerly A.1)</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Sabbateni 1 (formerly A.1)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Sextus</field>
+    <field name="unittitle_teim">Sextus</field>
+    <field name="unitid_teim">cuid39000</field>
+    <field name="unitid_ssm">cuid39000</field>
+    <field name="dao_teim">Sextus</field>
+    <field name="dao_ssm">Sextus</field>
+    <field name="ref_ssi">aspace_5d509f0839b48d6aca3c847c9e880f48</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4</field>
+    <field name="location_si">Box: 4</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_sim">Sabbateni 1 (formerly A.1)</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 1 (formerly A.1) &gt;&gt; Sextus</field>
+    <field name="heading_ssm">Sextus</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_013aspace_c923895ee3423cefc338269e3c80e91c</field>
+    <field name="ead_ssi">mss_013</field>
+    <field name="parent_ssi">aspace_4f5a9a9a92563cfd518516573e39a966</field>
+    <field name="parent_ssm">aspace_4f5a9a9a92563cfd518516573e39a966</field>
+    <field name="parent_unittitles_ssm">Series II: Audio</field>
+    <field name="parent_unittitles_teim">Series II: Audio</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fugs Archive</field>
+    <field name="collection_ssm">Fugs Archive</field>
+    <field name="collection_unitid_ssm">MSS.013</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ken Weaver, Taken from Notebooks [Reel 1] </field>
+    <field name="unittitle_teim">Ken Weaver, Taken from Notebooks [Reel 1] </field>
+    <field name="unitid_teim">cuid6289</field>
+    <field name="unitid_ssm">cuid6289</field>
+    <field name="unitdate_normal_ssm">1969-02-06/1969-02-06</field>
+    <field name="unitdate_normal_ssm">2018-02/2018-02</field>
+    <field name="unitdate_normal_teim">1969-02-06/1969-02-06</field>
+    <field name="unitdate_normal_teim">2018-02/2018-02</field>
+    <field name="unitdate_normal_sim">1969-02-06/1969-02-06</field>
+    <field name="unitdate_normal_sim">2018-02/2018-02</field>
+    <field name="unitdate_teim">1969-02-06</field>
+    <field name="unitdate_teim">2018-02</field>
+    <field name="scopecontent_teim">An audio recording of Fugs member, Ken Weaver, titled "Taken from notebooks," on February 6th, 1969, recorded in New York City from 6pm-6:30pm.</field>
+    <field name="phystech_teim">Original format: 1/4" Open Reel Audio, Duration: 49 min.</field>
+    <field name="ref_ssi">aspace_c923895ee3423cefc338269e3c80e91c</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, reel: cuid6289</field>
+    <field name="location_ssm">reel: cuid6289</field>
+    <field name="location_ssm">E-records: fales_MSS013, E-records: fales_MSS013_cuid6289</field>
+    <field name="location_ssm">E-records: fales_MSS013_cuid6289</field>
+    <field name="location_si">E-records: fales_MSS013_cuid6289</field>
+    <field name="collection_teim">Fugs Archive</field>
+    <field name="collection_unitid_teim">MSS.013</field>
+    <field name="series_sim">Series II: Audio</field>
+    <field name="series_si">Series II: Audio &gt;&gt; Ken Weaver, Taken from Notebooks [Reel 1] </field>
+    <field name="heading_ssm">Ken Weaver, Taken from Notebooks [Reel 1] </field>
+    <field name="unitdate_ssm">1969-02-06 2018-02</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">26</field>
+  </doc>
+</add>

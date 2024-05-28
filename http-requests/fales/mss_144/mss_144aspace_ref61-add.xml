@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_144aspace_ref61</field>
+    <field name="ead_ssi">mss_144</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Series IV: Media</field>
+    <field name="parent_unittitles_teim">Series IV: Media</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Yun Gee Papers</field>
+    <field name="collection_ssm">Yun Gee Papers</field>
+    <field name="collection_unitid_ssm">MSS.144</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">[Film of Yun Gee]</field>
+    <field name="unittitle_teim">[Film of Yun Gee]</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="phystech_teim">Original format: 16 mm black and white film reel</field>
+    <field name="ref_ssi">aspace_ref61</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Item: ID: 144.0002</field>
+    <field name="location_ssm">Item: ID: 144.0002</field>
+    <field name="location_si">Item: ID: 144.0002</field>
+    <field name="collection_teim">Yun Gee Papers</field>
+    <field name="collection_unitid_teim">MSS.144</field>
+    <field name="series_sim">Series IV: Media</field>
+    <field name="series_si">Series IV: Media &gt;&gt; [Film of Yun Gee]</field>
+    <field name="heading_ssm">[Film of Yun Gee]</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">34</field>
+  </doc>
+</add>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_333aspace_ref70</field>
+    <field name="ead_ssi">mss_333</field>
+    <field name="parent_ssi">aspace_ref233</field>
+    <field name="parent_ssm">aspace_ref233</field>
+    <field name="parent_unittitles_ssm">Series III: Administrative</field>
+    <field name="parent_unittitles_teim">Series III: Administrative</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Parasite Archive</field>
+    <field name="collection_ssm">Parasite Archive</field>
+    <field name="collection_unitid_ssm">MSS.333/repositories/3/resources/1836</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B: Ben Kinmont Files</field>
+    <field name="unittitle_teim">Subseries B: Ben Kinmont Files</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/560914</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/560914</field>
+    <field name="ref_ssi">aspace_ref70</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Parasite Archive</field>
+    <field name="collection_unitid_teim">MSS.333/repositories/3/resources/1836</field>
+    <field name="series_sim">Series III: Administrative</field>
+    <field name="series_si">Series III: Administrative &gt;&gt; Subseries B: Ben Kinmont Files</field>
+    <field name="heading_ssm">Subseries B: Ben Kinmont Files</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">163</field>
+  </doc>
+</add>

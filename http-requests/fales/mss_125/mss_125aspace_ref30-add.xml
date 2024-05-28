@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_125aspace_ref30</field>
+    <field name="ead_ssi">mss_125</field>
+    <field name="parent_ssi">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_unittitles_ssm">Series I: Scores</field>
+    <field name="parent_unittitles_teim">Series I: Scores</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Music Department Collection</field>
+    <field name="collection_ssm">New York University Music Department Collection</field>
+    <field name="collection_unitid_ssm">MSS.125</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;The International Library of Music - For Violinists&lt;/em&gt;, (Vol.1-4, 1928); &lt;em&gt;The Golden Treasury of Piano-Music&lt;/em&gt;, (Vol. 5 Daquin to Paradisi, 1909)</field>
+    <field name="unittitle_teim">The International Library of Music - For Violinists, (Vol.1-4, 1928); The Golden Treasury of Piano-Music, (Vol. 5 Daquin to Paradisi, 1909)</field>
+    <field name="unitdate_teim">1909, 1928</field>
+    <field name="ref_ssi">aspace_ref30</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 27</field>
+    <field name="location_si">Box: 27</field>
+    <field name="collection_teim">New York University Music Department Collection</field>
+    <field name="collection_unitid_teim">MSS.125</field>
+    <field name="series_sim">Series I: Scores</field>
+    <field name="series_si">Series I: Scores &gt;&gt; &lt;em&gt;The International Library of Music - For Violinists&lt;/em&gt;, (Vol.1-4, 1928); &lt;em&gt;The Golden Treasury of Piano-Music&lt;/em&gt;, (Vol. 5 Daquin to Paradisi, 1909)</field>
+    <field name="heading_ssm">The International Library of Music - For Violinists, (Vol.1-4, 1928); The Golden Treasury of Piano-Music, (Vol. 5 Daquin to Paradisi, 1909)</field>
+    <field name="unitdate_ssm">1909, 1928</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

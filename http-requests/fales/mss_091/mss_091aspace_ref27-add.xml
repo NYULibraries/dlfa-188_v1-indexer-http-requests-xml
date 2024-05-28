@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_091aspace_ref27</field>
+    <field name="ead_ssi">mss_091</field>
+    <field name="parent_ssi">aspace_ref21</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref21</field>
+    <field name="parent_unittitles_ssm">Series I: Fashion Moda Overview</field>
+    <field name="parent_unittitles_ssm">Subseries B: Chronological</field>
+    <field name="parent_unittitles_teim">Series I: Fashion Moda Overview</field>
+    <field name="parent_unittitles_teim">Subseries B: Chronological</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fashion Moda Archive</field>
+    <field name="collection_ssm">Fashion Moda Archive</field>
+    <field name="collection_unitid_ssm">MSS.091/repositories/3/resources/1661</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">South Bronx Show, May 15 - June, 1980.</field>
+    <field name="unittitle_teim">South Bronx Show, May 15 - June, 1980.</field>
+    <field name="unitid_teim">cuid8765</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/423203</field>
+    <field name="unitid_ssm">cuid8765</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/423203</field>
+    <field name="unitdate_teim">1980</field>
+    <field name="ref_ssi">aspace_ref27</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Fashion Moda Archive</field>
+    <field name="collection_unitid_teim">MSS.091/repositories/3/resources/1661</field>
+    <field name="series_sim">Series I: Fashion Moda Overview</field>
+    <field name="series_sim">Subseries B: Chronological</field>
+    <field name="series_si">Series I: Fashion Moda Overview &gt;&gt; Subseries B: Chronological &gt;&gt; South Bronx Show, May 15 - June, 1980.</field>
+    <field name="heading_ssm">South Bronx Show, May 15 - June, 1980.</field>
+    <field name="unitdate_ssm">1980</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">17</field>
+  </doc>
+</add>

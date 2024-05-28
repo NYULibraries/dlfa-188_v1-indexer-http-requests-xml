@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_153aspace_ref56</field>
+    <field name="ead_ssi">mss_153</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series I: Video</field>
+    <field name="parent_unittitles_ssm">Subseries A: Originals</field>
+    <field name="parent_unittitles_teim">Series I: Video</field>
+    <field name="parent_unittitles_teim">Subseries A: Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lenora Champagne Papers</field>
+    <field name="collection_ssm">Lenora Champagne Papers</field>
+    <field name="collection_unitid_ssm">MSS.153</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Master: Excerpts from Works by Lenora Champagne, [1] - As Ready, Apart from Herself [2] - Home [3] - Eye of the Gardent [4] - Fractured Juliet [5] - From the Red Light District [6] - Manna [7] - Getting Over Tom [8] - Fractured Juliet</field>
+    <field name="unittitle_teim">Master: Excerpts from Works by Lenora Champagne, [1] - As Ready, Apart from Herself [2] - Home [3] - Eye of the Gardent [4] - Fractured Juliet [5] - From the Red Light District [6] - Manna [7] - Getting Over Tom [8] - Fractured Juliet</field>
+    <field name="unitid_teim">ID: 153.0003</field>
+    <field name="unitid_ssm">ID: 153.0003</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="phystech_teim">Format: 3/4" U-Matic</field>
+    <field name="phystech_teim">Duration: [00:24:00]</field>
+    <field name="ref_ssi">aspace_ref56</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Media: ID: 153.0003</field>
+    <field name="location_ssm">Media: ID: 153.0003</field>
+    <field name="location_si">Media: ID: 153.0003</field>
+    <field name="collection_teim">Lenora Champagne Papers</field>
+    <field name="collection_unitid_teim">MSS.153</field>
+    <field name="series_sim">Series I: Video</field>
+    <field name="series_sim">Subseries A: Originals</field>
+    <field name="series_si">Series I: Video &gt;&gt; Subseries A: Originals &gt;&gt; Master: Excerpts from Works by Lenora Champagne, [1] - As Ready, Apart from Herself [2] - Home [3] - Eye of the Gardent [4] - Fractured Juliet [5] - From the Red Light District [6] - Manna [7] - Getting Over Tom [8] - Fractured Juliet</field>
+    <field name="heading_ssm">Master: Excerpts from Works by Lenora Champagne, [1] - As Ready, Apart from Herself [2] - Home [3] - Eye of the Gardent [4] - Fractured Juliet [5] - From the Red Light District [6] - Manna [7] - Getting Over Tom [8] - Fractured Juliet</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">22</field>
+  </doc>
+</add>

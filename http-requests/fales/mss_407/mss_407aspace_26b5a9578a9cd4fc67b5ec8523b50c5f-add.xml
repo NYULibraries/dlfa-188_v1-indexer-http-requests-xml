@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_407aspace_26b5a9578a9cd4fc67b5ec8523b50c5f</field>
+    <field name="ead_ssi">mss_407</field>
+    <field name="parent_ssi">aspace_dc9ee44918bb33840b51249f8de42b3d</field>
+    <field name="parent_ssm">aspace_dc9ee44918bb33840b51249f8de42b3d</field>
+    <field name="parent_unittitles_ssm">Series III. Administrative Files</field>
+    <field name="parent_unittitles_teim">Series III. Administrative Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alva Rogers Papers</field>
+    <field name="collection_ssm">Alva Rogers Papers</field>
+    <field name="collection_unitid_ssm">MSS.407</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Demo Tapes</field>
+    <field name="unittitle_teim">Demo Tapes</field>
+    <field name="unitid_teim">cuid29404</field>
+    <field name="unitid_ssm">cuid29404</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">407.0046 Duration: 25 Minutes
+407.0079 Duration: 26 Minutes</field>
+    <field name="dao_teim">Demo Tapes</field>
+    <field name="dao_teim">Demo Tapes</field>
+    <field name="dao_ssm">Demo Tapes</field>
+    <field name="dao_ssm">Demo Tapes</field>
+    <field name="ref_ssi">aspace_26b5a9578a9cd4fc67b5ec8523b50c5f</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15, audiocassette: 407.0046</field>
+    <field name="location_ssm">audiocassette: 407.0046</field>
+    <field name="location_ssm">Box: 15, audiocassette: 407.0079</field>
+    <field name="location_ssm">audiocassette: 407.0079</field>
+    <field name="location_si">audiocassette: 407.0079</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Alva Rogers Papers</field>
+    <field name="collection_unitid_teim">MSS.407</field>
+    <field name="series_sim">Series III. Administrative Files</field>
+    <field name="series_si">Series III. Administrative Files &gt;&gt; Demo Tapes</field>
+    <field name="heading_ssm">Demo Tapes</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">115</field>
+  </doc>
+</add>

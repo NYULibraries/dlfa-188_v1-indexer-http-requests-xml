@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_221aspace_4f8dfd57a2fb5aec35c062682c691fb8</field>
+    <field name="ead_ssi">mss_221</field>
+    <field name="parent_ssi">aspace_ref7</field>
+    <field name="parent_ssm">aspace_ref6</field>
+    <field name="parent_ssm">aspace_ref7</field>
+    <field name="parent_unittitles_ssm">Series XI: Audio</field>
+    <field name="parent_unittitles_ssm">Subseries A: Access Copies - Audio</field>
+    <field name="parent_unittitles_teim">Series XI: Audio</field>
+    <field name="parent_unittitles_teim">Subseries A: Access Copies - Audio</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvère Lotringer Papers and Semiotext(e) Archive</field>
+    <field name="collection_ssm">Sylvère Lotringer Papers and Semiotext(e) Archive</field>
+    <field name="collection_unitid_ssm">MSS.221/repositories/3/resources/1762</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Kathy Acker (3)</field>
+    <field name="unittitle_teim">Kathy Acker (3)</field>
+    <field name="unitid_teim">cuid7165</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/801538</field>
+    <field name="unitid_ssm">cuid7165</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/801538</field>
+    <field name="unitdate_normal_ssm">1990-04-24/1990-04-24</field>
+    <field name="unitdate_normal_teim">1990-04-24/1990-04-24</field>
+    <field name="unitdate_normal_sim">1990-04-24/1990-04-24</field>
+    <field name="unitdate_teim">1990-04-24</field>
+    <field name="phystech_teim">Format: Broadcast WAV</field>
+    <field name="phystech_teim">TRT: 00:18:00</field>
+    <field name="phystech_teim">Original Format: Audiocassette</field>
+    <field name="ref_ssi">aspace_4f8dfd57a2fb5aec35c062682c691fb8</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Digitized Access Files, E-records: cuid7165</field>
+    <field name="location_ssm">E-records: cuid7165</field>
+    <field name="location_si">E-records: cuid7165</field>
+    <field name="collection_teim">Sylvère Lotringer Papers and Semiotext(e) Archive</field>
+    <field name="collection_unitid_teim">MSS.221/repositories/3/resources/1762</field>
+    <field name="series_sim">Series XI: Audio</field>
+    <field name="series_sim">Subseries A: Access Copies - Audio</field>
+    <field name="series_si">Series XI: Audio &gt;&gt; Subseries A: Access Copies - Audio &gt;&gt; Kathy Acker (3)</field>
+    <field name="heading_ssm">Kathy Acker (3)</field>
+    <field name="unitdate_ssm">1990-04-24</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4016</field>
+  </doc>
+</add>

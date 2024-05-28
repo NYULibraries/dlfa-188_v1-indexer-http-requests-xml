@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_267aspace_117bc7e300c25f0c3203de7a69883461</field>
+    <field name="ead_ssi">mss_267</field>
+    <field name="parent_ssi">aspace_db2c21bc35e4fcf2ba55ab8a56d61550</field>
+    <field name="parent_ssm">aspace_db2c21bc35e4fcf2ba55ab8a56d61550</field>
+    <field name="parent_unittitles_ssm">Series IV. Film and Video Recordings</field>
+    <field name="parent_unittitles_teim">Series IV. Film and Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alan Sondheim Papers</field>
+    <field name="collection_ssm">Alan Sondheim Papers</field>
+    <field name="collection_unitid_ssm">MSS.267/repositories/3/resources/2604</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Compilation Film</field>
+    <field name="unittitle_teim">Compilation Film</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/930735</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/930735</field>
+    <field name="unitdate_normal_ssm">1971/1981</field>
+    <field name="unitdate_normal_teim">1971/1981</field>
+    <field name="unitdate_normal_sim">1971/1981</field>
+    <field name="unitdate_inclusive_teim">circa 1973-1981</field>
+    <field name="scopecontent_teim">Original film can label says "1973 Compilation Film; Before Tasmania 1981; Hartford Footage / Laura"</field>
+    <field name="dao_teim">Compilation Film</field>
+    <field name="dao_ssm">Compilation Film</field>
+    <field name="ref_ssi">aspace_117bc7e300c25f0c3203de7a69883461</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 80, 16mm_film_reels: 267_007</field>
+    <field name="location_ssm">16mm_film_reels: 267_007</field>
+    <field name="location_si">16mm_film_reels: 267_007</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Alan Sondheim Papers</field>
+    <field name="collection_unitid_teim">MSS.267/repositories/3/resources/2604</field>
+    <field name="series_sim">Series IV. Film and Video Recordings</field>
+    <field name="series_si">Series IV. Film and Video Recordings &gt;&gt; Compilation Film</field>
+    <field name="heading_ssm">Compilation Film</field>
+    <field name="unitdate_start_sim">1971</field>
+    <field name="unitdate_start_ssm">1971</field>
+    <field name="unitdate_start_si">1971</field>
+    <field name="unitdate_end_sim">1981</field>
+    <field name="unitdate_end_ssm">1981</field>
+    <field name="unitdate_end_si">1981</field>
+    <field name="unitdate_ssm">Inclusive, circa 1973-1981</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1626</field>
+  </doc>
+</add>

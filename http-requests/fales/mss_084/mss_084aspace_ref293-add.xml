@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_084aspace_ref293</field>
+    <field name="ead_ssi">mss_084</field>
+    <field name="parent_ssi">aspace_ref278</field>
+    <field name="parent_ssm">aspace_ref278</field>
+    <field name="parent_unittitles_ssm">Series VI: Printed Material</field>
+    <field name="parent_unittitles_teim">Series VI: Printed Material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Between C &amp; D Archive</field>
+    <field name="collection_ssm">Between C &amp; D Archive</field>
+    <field name="collection_unitid_ssm">MSS.084</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">25 Mensuel</field>
+    <field name="unittitle_teim">25 Mensuel</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref293</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">Between C &amp; D Archive</field>
+    <field name="collection_unitid_teim">MSS.084</field>
+    <field name="series_sim">Series VI: Printed Material</field>
+    <field name="series_si">Series VI: Printed Material &gt;&gt; 25 Mensuel</field>
+    <field name="heading_ssm">25 Mensuel</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">323</field>
+  </doc>
+</add>

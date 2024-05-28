@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_507aspace_509023c14debc1f276e1fe2d6ace304c</field>
+    <field name="ead_ssi">mss_507</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Transfer Company Records</field>
+    <field name="collection_ssm">New York Transfer Company Records</field>
+    <field name="collection_unitid_ssm">MSS.507</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Minutes ledger</field>
+    <field name="unittitle_teim">Minutes ledger</field>
+    <field name="unitdate_normal_ssm">1871/1874</field>
+    <field name="unitdate_normal_teim">1871/1874</field>
+    <field name="unitdate_normal_sim">1871/1874</field>
+    <field name="unitdate_inclusive_teim">1871-1874</field>
+    <field name="ref_ssi">aspace_509023c14debc1f276e1fe2d6ace304c</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">New York Transfer Company Records</field>
+    <field name="collection_unitid_teim">MSS.507</field>
+    <field name="series_si">Minutes ledger</field>
+    <field name="heading_ssm">Minutes ledger</field>
+    <field name="unitdate_start_sim">1871</field>
+    <field name="unitdate_start_ssm">1871</field>
+    <field name="unitdate_start_si">1871</field>
+    <field name="unitdate_end_sim">1874</field>
+    <field name="unitdate_end_ssm">1874</field>
+    <field name="unitdate_end_si">1874</field>
+    <field name="unitdate_ssm">Inclusive, 1871-1874</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

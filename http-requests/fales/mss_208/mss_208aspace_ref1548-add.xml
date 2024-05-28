@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref1548</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref121</field>
+    <field name="parent_ssm">aspace_ref121</field>
+    <field name="parent_unittitles_ssm">Record Group II: L'Hommedieu Family</field>
+    <field name="parent_unittitles_teim">Record Group II: L'Hommedieu Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Series C: Mary Catherine Havens L'Hommedieu</field>
+    <field name="unittitle_teim">Series C: Mary Catherine Havens L'Hommedieu</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/508758</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/508758</field>
+    <field name="scopecontent_teim">Record Group II, Series C includes personal correspondence primarily among relatives and close family friends of Mary Catherine Havens L'Hommedieu. In addition, Series C includes Ezra L'Hommedieu estate management records, legal documents, and financial papers.</field>
+    <field name="bioghist_teim">Mary Catherine Havens L'Hommedieu was born to Nicoll Havens and Sarah Fosdick of Shelter Island, NY on September 25, 1765. Mary Catherine wed Ezra L'Hommedieu of Southold, Long Island, NY on June 15, 1803. This was Ezra L'Hommedieu's second marriage and they produced one daughter, Mary Catherine L'Hommedieu, born in 1806. Mary Catherine Havens L'Hommedieu's sister Esther Sarah married Sylvester Dering, the son of Thomas Dering, also of Shelter Island. Ezra L'Hommedieu left his estate, which included Sylvester Manor, to Mary Catherine Havens when he passed away on September 27, 1811, and it was later inherited by their daughter Mary Catherine L'Hommedieu Gardiner and her husband Samuel Smith Gardiner. Mary Catherine Havens L'Hommedieu passed away in 1843.</field>
+    <field name="ref_ssi">aspace_ref1548</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group II: L'Hommedieu Family</field>
+    <field name="series_si">Record Group II: L'Hommedieu Family &gt;&gt; Series C: Mary Catherine Havens L'Hommedieu</field>
+    <field name="heading_ssm">Series C: Mary Catherine Havens L'Hommedieu</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1523</field>
+  </doc>
+</add>

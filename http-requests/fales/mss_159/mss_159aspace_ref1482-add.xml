@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_159aspace_ref1482</field>
+    <field name="ead_ssi">mss_159</field>
+    <field name="parent_ssi">aspace_ref1027</field>
+    <field name="parent_ssm">aspace_ref1027</field>
+    <field name="parent_unittitles_ssm">Series XII: Data Storage</field>
+    <field name="parent_unittitles_teim">Series XII: Data Storage</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Marion Nestle Papers</field>
+    <field name="collection_ssm">Marion Nestle Papers</field>
+    <field name="collection_unitid_ssm">MSS.159/repositories/3/resources/1719</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Nestle Index</field>
+    <field name="unittitle_teim">Nestle Index</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/483332</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/483332</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Original format: floppy disk.</field>
+    <field name="ref_ssi">aspace_ref1482</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 108, disk: ID: 159.3.0008</field>
+    <field name="location_ssm">disk: ID: 159.3.0008</field>
+    <field name="location_si">disk: ID: 159.3.0008</field>
+    <field name="collection_teim">Marion Nestle Papers</field>
+    <field name="collection_unitid_teim">MSS.159/repositories/3/resources/1719</field>
+    <field name="series_sim">Series XII: Data Storage</field>
+    <field name="series_si">Series XII: Data Storage &gt;&gt; Nestle Index</field>
+    <field name="heading_ssm">Nestle Index</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1113</field>
+  </doc>
+</add>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_156aspace_ref977</field>
+    <field name="ead_ssi">mss_156</field>
+    <field name="parent_ssi">aspace_ref910</field>
+    <field name="parent_ssm">aspace_ref905</field>
+    <field name="parent_ssm">aspace_ref910</field>
+    <field name="parent_unittitles_ssm">Series IX: Video recordings</field>
+    <field name="parent_unittitles_ssm">Subseries D: Video recordings </field>
+    <field name="parent_unittitles_teim">Series IX: Video recordings</field>
+    <field name="parent_unittitles_teim">Subseries D: Video recordings </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Andrea Callard Papers</field>
+    <field name="collection_ssm">Andrea Callard Papers</field>
+    <field name="collection_unitid_ssm">MSS.156/repositories/3/resources/1716</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Title: Lenora Helm's Workshops</field>
+    <field name="unittitle_teim">Title: Lenora Helm's Workshops</field>
+    <field name="unitid_teim">cuid22948</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/480298</field>
+    <field name="unitid_ssm">cuid22948</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/480298</field>
+    <field name="phystech_teim">Credit info:</field>
+    <field name="phystech_teim">Format: VHS</field>
+    <field name="phystech_teim">Capacity: 120 minutes</field>
+    <field name="phystech_teim">Annotations: Lenora Helm's Workshops</field>
+    <field name="ref_ssi">aspace_ref977</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 20, Folder: ID: 156.0023</field>
+    <field name="location_ssm">Folder: ID: 156.0023</field>
+    <field name="location_si">Folder: ID: 156.0023</field>
+    <field name="collection_teim">Andrea Callard Papers</field>
+    <field name="collection_unitid_teim">MSS.156/repositories/3/resources/1716</field>
+    <field name="series_sim">Series IX: Video recordings</field>
+    <field name="series_sim">Subseries D: Video recordings </field>
+    <field name="series_si">Series IX: Video recordings &gt;&gt; Subseries D: Video recordings  &gt;&gt; Title: Lenora Helm's Workshops</field>
+    <field name="heading_ssm">Title: Lenora Helm's Workshops</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">923</field>
+  </doc>
+</add>

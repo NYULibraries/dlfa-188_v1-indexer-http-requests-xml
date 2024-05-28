@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_214aspace_ref5261</field>
+    <field name="ead_ssi">mss_214</field>
+    <field name="parent_ssi">aspace_ref5090</field>
+    <field name="parent_ssm">aspace_ref5090</field>
+    <field name="parent_unittitles_ssm">Series IV: Miscellaneous</field>
+    <field name="parent_unittitles_teim">Series IV: Miscellaneous</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">James Beard Foundation Archive</field>
+    <field name="collection_ssm">James Beard Foundation Archive</field>
+    <field name="collection_unitid_ssm">MSS.214</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Salt</field>
+    <field name="unittitle_teim">Salt</field>
+    <field name="unitdate_normal_ssm">1996/1996</field>
+    <field name="unitdate_normal_teim">1996/1996</field>
+    <field name="unitdate_normal_sim">1996/1996</field>
+    <field name="unitdate_inclusive_teim">September 19, 1996</field>
+    <field name="ref_ssi">aspace_ref5261</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 60, Folder: 26a</field>
+    <field name="location_ssm">Folder: 26a, Box: data_value_missing_711ec3ff240c87c5dab0f52cde4538a2</field>
+    <field name="location_ssm">Box: data_value_missing_711ec3ff240c87c5dab0f52cde4538a2</field>
+    <field name="location_si">Box: data_value_missing_711ec3ff240c87c5dab0f52cde4538a2</field>
+    <field name="collection_teim">James Beard Foundation Archive</field>
+    <field name="collection_unitid_teim">MSS.214</field>
+    <field name="series_sim">Series IV: Miscellaneous</field>
+    <field name="series_si">Series IV: Miscellaneous &gt;&gt; Salt</field>
+    <field name="heading_ssm">Salt</field>
+    <field name="unitdate_start_sim">1996</field>
+    <field name="unitdate_start_ssm">1996</field>
+    <field name="unitdate_start_si">1996</field>
+    <field name="unitdate_end_sim">1996</field>
+    <field name="unitdate_end_ssm">1996</field>
+    <field name="unitdate_end_si">1996</field>
+    <field name="unitdate_ssm">Inclusive, September 19, 1996</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5084</field>
+  </doc>
+</add>

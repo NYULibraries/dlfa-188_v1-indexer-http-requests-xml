@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_360aspace_ref2</field>
+    <field name="ead_ssi">mss_360</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ladyfest 2000 Collection</field>
+    <field name="collection_ssm">Ladyfest 2000 Collection</field>
+    <field name="collection_unitid_ssm">MSS.360</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Photographic Material</field>
+    <field name="unittitle_teim">Series I: Photographic Material</field>
+    <field name="scopecontent_teim">This series is made up of photographs sent to Ladyfest organizer Tina Heschelman from organizers and participants in the event, after it was over. The materials include photographs, negatives, contact sheets, slides and the accompanying envelopes and correspondence found with the photographic material.</field>
+    <field name="ref_ssi">aspace_ref2</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ladyfest 2000 Collection</field>
+    <field name="collection_unitid_teim">MSS.360</field>
+    <field name="series_si">Series I: Photographic Material</field>
+    <field name="heading_ssm">Series I: Photographic Material</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

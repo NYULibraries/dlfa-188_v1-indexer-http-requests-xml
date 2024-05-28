@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref1736</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1728</field>
+    <field name="parent_ssm">aspace_ref121</field>
+    <field name="parent_ssm">aspace_ref1689</field>
+    <field name="parent_ssm">aspace_ref1728</field>
+    <field name="parent_unittitles_ssm">Record Group II: L'Hommedieu Family</field>
+    <field name="parent_unittitles_ssm">L'Hommedieu: Oversize </field>
+    <field name="parent_unittitles_ssm">Oversize Series B, Subseries 3: Ezra L'Hommedieu Legal Documents and Papers</field>
+    <field name="parent_unittitles_teim">Record Group II: L'Hommedieu Family</field>
+    <field name="parent_unittitles_teim">L'Hommedieu: Oversize </field>
+    <field name="parent_unittitles_teim">Oversize Series B, Subseries 3: Ezra L'Hommedieu Legal Documents and Papers</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Deed - Francis Nicoll, Ezra L'Hommedieu, Menantick, Shelter Island</field>
+    <field name="unittitle_teim">Deed - Francis Nicoll, Ezra L'Hommedieu, Menantick, Shelter Island</field>
+    <field name="unitid_teim">cuid1015</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/508939</field>
+    <field name="unitid_ssm">cuid1015</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/508939</field>
+    <field name="unitdate_normal_ssm">1793/1793</field>
+    <field name="unitdate_normal_teim">1793/1793</field>
+    <field name="unitdate_normal_sim">1793/1793</field>
+    <field name="unitdate_inclusive_teim">1793</field>
+    <field name="dao_teim">Deed - Francis Nicoll, Ezra L'Hommedieu, Menantick, Shelter Island: 1793</field>
+    <field name="dao_ssm">Deed - Francis Nicoll, Ezra L'Hommedieu, Menantick, Shelter Island: 1793</field>
+    <field name="ref_ssi">aspace_ref1736</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 148, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group II: L'Hommedieu Family</field>
+    <field name="series_sim">L'Hommedieu: Oversize </field>
+    <field name="series_sim">Oversize Series B, Subseries 3: Ezra L'Hommedieu Legal Documents and Papers</field>
+    <field name="series_si">Record Group II: L'Hommedieu Family &gt;&gt; L'Hommedieu: Oversize  &gt;&gt; Oversize Series B, Subseries 3: Ezra L'Hommedieu Legal Documents and Papers &gt;&gt; Deed - Francis Nicoll, Ezra L'Hommedieu, Menantick, Shelter Island</field>
+    <field name="heading_ssm">Deed - Francis Nicoll, Ezra L'Hommedieu, Menantick, Shelter Island</field>
+    <field name="unitdate_start_sim">1793</field>
+    <field name="unitdate_start_ssm">1793</field>
+    <field name="unitdate_start_si">1793</field>
+    <field name="unitdate_end_sim">1793</field>
+    <field name="unitdate_end_ssm">1793</field>
+    <field name="unitdate_end_si">1793</field>
+    <field name="unitdate_ssm">Inclusive, 1793</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="sort_ii">1704</field>
+  </doc>
+</add>

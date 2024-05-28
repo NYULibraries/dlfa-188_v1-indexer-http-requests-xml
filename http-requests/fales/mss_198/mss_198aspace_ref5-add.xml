@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_198aspace_ref5</field>
+    <field name="ead_ssi">mss_198</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">A Gathering of the Tribes Records</field>
+    <field name="collection_ssm">A Gathering of the Tribes Records</field>
+    <field name="collection_unitid_ssm">MSS.198/repositories/3/resources/1746</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V. Financial Records</field>
+    <field name="unittitle_teim">Series V. Financial Records</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/503874</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/503874</field>
+    <field name="unitdate_normal_ssm">1998/2005</field>
+    <field name="unitdate_normal_teim">1998/2005</field>
+    <field name="unitdate_normal_sim">1998/2005</field>
+    <field name="unitdate_inclusive_teim">1998-2005</field>
+    <field name="scopecontent_teim">This series contains financial files which include bills, tax returns, budgets, account statements, ledgers, and cancelled checks for A Gathering of the Tribes.</field>
+    <field name="ref_ssi">aspace_ref5</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">A Gathering of the Tribes Records</field>
+    <field name="collection_unitid_teim">MSS.198/repositories/3/resources/1746</field>
+    <field name="series_si">Series V. Financial Records</field>
+    <field name="heading_ssm">Series V. Financial Records</field>
+    <field name="unitdate_start_sim">1998</field>
+    <field name="unitdate_start_ssm">1998</field>
+    <field name="unitdate_start_si">1998</field>
+    <field name="unitdate_end_sim">2005</field>
+    <field name="unitdate_end_ssm">2005</field>
+    <field name="unitdate_end_si">2005</field>
+    <field name="unitdate_ssm">Inclusive, 1998-2005</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">651</field>
+  </doc>
+</add>

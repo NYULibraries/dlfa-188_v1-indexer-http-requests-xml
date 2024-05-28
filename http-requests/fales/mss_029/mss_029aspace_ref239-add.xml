@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_029aspace_ref239</field>
+    <field name="ead_ssi">mss_029</field>
+    <field name="parent_ssi">aspace_ref195</field>
+    <field name="parent_ssm">aspace_ref195</field>
+    <field name="parent_unittitles_ssm">Series II: DeCoursey Fales</field>
+    <field name="parent_unittitles_teim">Series II: DeCoursey Fales</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Fales Family Papers</field>
+    <field name="collection_ssm">Fales Family Papers</field>
+    <field name="collection_unitid_ssm">MSS.029</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.C: &lt;em&gt;The Fales Family of Bristol, Rhode Island&lt;/em&gt; Book Material</field>
+    <field name="unittitle_teim">Subseries II.C: The Fales Family of Bristol, Rhode Island Book Material</field>
+    <field name="scopecontent_teim">Contains half a box of items relating to the book The Fales Family of Bristol Rhode Island, including correspondence, engravings, and the Dedham Fales family ancestry of Haliburton Fales 2nd.</field>
+    <field name="ref_ssi">aspace_ref239</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Fales Family Papers</field>
+    <field name="collection_unitid_teim">MSS.029</field>
+    <field name="series_sim">Series II: DeCoursey Fales</field>
+    <field name="series_si">Series II: DeCoursey Fales &gt;&gt; Subseries II.C: &lt;em&gt;The Fales Family of Bristol, Rhode Island&lt;/em&gt; Book Material</field>
+    <field name="heading_ssm">Subseries II.C: The Fales Family of Bristol, Rhode Island Book Material</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">224</field>
+  </doc>
+</add>

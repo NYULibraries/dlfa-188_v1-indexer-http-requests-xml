@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_153aspace_02d9182d22709f1aac1a8db8e19479eb</field>
+    <field name="ead_ssi">mss_153</field>
+    <field name="parent_ssi">aspace_290ed2662f0a47279e7e791a499f6573</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_290ed2662f0a47279e7e791a499f6573</field>
+    <field name="parent_unittitles_ssm">Series I: Video</field>
+    <field name="parent_unittitles_ssm">Subseries D: Preservation Masters - CLOSED</field>
+    <field name="parent_unittitles_teim">Series I: Video</field>
+    <field name="parent_unittitles_teim">Subseries D: Preservation Masters - CLOSED</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lenora Champagne Papers</field>
+    <field name="collection_ssm">Lenora Champagne Papers</field>
+    <field name="collection_unitid_ssm">MSS.153</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">ID: 153.0025 - 153.0031</field>
+    <field name="unittitle_teim">ID: 153.0025 - 153.0031</field>
+    <field name="ref_ssi">aspace_02d9182d22709f1aac1a8db8e19479eb</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Fales PM 40</field>
+    <field name="location_si">Box: Shared Fales PM 40</field>
+    <field name="collection_teim">Lenora Champagne Papers</field>
+    <field name="collection_unitid_teim">MSS.153</field>
+    <field name="series_sim">Series I: Video</field>
+    <field name="series_sim">Subseries D: Preservation Masters - CLOSED</field>
+    <field name="series_si">Series I: Video &gt;&gt; Subseries D: Preservation Masters - CLOSED &gt;&gt; ID: 153.0025 - 153.0031</field>
+    <field name="heading_ssm">ID: 153.0025 - 153.0031</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">53</field>
+  </doc>
+</add>

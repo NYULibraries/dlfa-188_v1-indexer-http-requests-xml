@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_133aspace_ref1956</field>
+    <field name="ead_ssi">mss_133</field>
+    <field name="parent_ssi">aspace_ref1744</field>
+    <field name="parent_ssm">aspace_ref1744</field>
+    <field name="parent_unittitles_ssm">Series X: Press</field>
+    <field name="parent_unittitles_teim">Series X: Press</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mabou Mines Archive</field>
+    <field name="collection_ssm">Mabou Mines Archive</field>
+    <field name="collection_unitid_ssm">MSS.133/repositories/3/resources/1696</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries C: Productions</field>
+    <field name="unittitle_teim">Subseries C: Productions</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/458993</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/458993</field>
+    <field name="scopecontent_teim">Articles and clippings about Mabou Mines productions are listed first, arranged alphabetically by title, then chronologically. Articles and other material about Mabou Mines-related productions are listed next. The designation "Beckett Plays" refers to any combination of Come and Go, The Lost Ones, and Play, which were often performed together in the company's early days. The company used this designation for the numerous published items that mention one or all of these plays, and it was retained for this series. Please note, however, that in other series each production is referred to by its individual title.</field>
+    <field name="ref_ssi">aspace_ref1956</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mabou Mines Archive</field>
+    <field name="collection_unitid_teim">MSS.133/repositories/3/resources/1696</field>
+    <field name="series_sim">Series X: Press</field>
+    <field name="series_si">Series X: Press &gt;&gt; Subseries C: Productions</field>
+    <field name="heading_ssm">Subseries C: Productions</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2471</field>
+  </doc>
+</add>

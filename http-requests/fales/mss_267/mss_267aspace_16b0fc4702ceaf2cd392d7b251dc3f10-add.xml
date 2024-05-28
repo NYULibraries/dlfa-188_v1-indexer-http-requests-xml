@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_267aspace_16b0fc4702ceaf2cd392d7b251dc3f10</field>
+    <field name="ead_ssi">mss_267</field>
+    <field name="parent_ssi">aspace_186b7be4fd21896b4df0f9d7d4651a30</field>
+    <field name="parent_ssm">aspace_186b7be4fd21896b4df0f9d7d4651a30</field>
+    <field name="parent_unittitles_ssm">Series III. Musical Recordings</field>
+    <field name="parent_unittitles_teim">Series III. Musical Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alan Sondheim Papers</field>
+    <field name="collection_ssm">Alan Sondheim Papers</field>
+    <field name="collection_unitid_ssm">MSS.267/repositories/3/resources/2604</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Electric Organ Digital Audio Series</field>
+    <field name="unittitle_teim">Electric Organ Digital Audio Series</field>
+    <field name="unitid_teim">cuid39755</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/947910</field>
+    <field name="unitid_ssm">cuid39755</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/947910</field>
+    <field name="unitdate_normal_ssm">2003/2006</field>
+    <field name="unitdate_normal_teim">2003/2006</field>
+    <field name="unitdate_normal_sim">2003/2006</field>
+    <field name="unitdate_inclusive_teim">2003-2006</field>
+    <field name="dao_teim">Electric Organ Digital Audio Series, 2003 - 2006</field>
+    <field name="dao_ssm">Electric Organ Digital Audio Series, 2003 - 2006</field>
+    <field name="ref_ssi">aspace_16b0fc4702ceaf2cd392d7b251dc3f10</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_267_ER_123</field>
+    <field name="location_ssm">E-records: FA_MSS_267_ER_123</field>
+    <field name="location_si">E-records: FA_MSS_267_ER_123</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Alan Sondheim Papers</field>
+    <field name="collection_unitid_teim">MSS.267/repositories/3/resources/2604</field>
+    <field name="series_sim">Series III. Musical Recordings</field>
+    <field name="series_si">Series III. Musical Recordings &gt;&gt; Electric Organ Digital Audio Series</field>
+    <field name="heading_ssm">Electric Organ Digital Audio Series</field>
+    <field name="unitdate_start_sim">2003</field>
+    <field name="unitdate_start_ssm">2003</field>
+    <field name="unitdate_start_si">2003</field>
+    <field name="unitdate_end_sim">2006</field>
+    <field name="unitdate_end_ssm">2006</field>
+    <field name="unitdate_end_si">2006</field>
+    <field name="unitdate_ssm">Inclusive, 2003-2006</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1314</field>
+  </doc>
+</add>

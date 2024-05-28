@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref50</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_ssm">Series A: Sylvester Family </field>
+    <field name="parent_unittitles_teim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_teim">Series A: Sylvester Family </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Financial Record with Notation</field>
+    <field name="unittitle_teim">Financial Record with Notation</field>
+    <field name="unitid_teim">cuid4784</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/507271</field>
+    <field name="unitid_ssm">cuid4784</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/507271</field>
+    <field name="unitdate_normal_ssm">1727/1729</field>
+    <field name="unitdate_normal_teim">1727/1729</field>
+    <field name="unitdate_normal_sim">1727/1729</field>
+    <field name="unitdate_inclusive_teim">1727-8 February 14, 1729</field>
+    <field name="scopecontent_teim">1 Receipt for Seized Tobacco Charges</field>
+    <field name="scopecontent_teim">Collector: Governor William Burnett of East Long Island, NY</field>
+    <field name="scopecontent_teim">Perpetrator: Brinley Sylvester
+ 
+In Reference To: Business / Crime / Legal / Professional</field>
+    <field name="scopecontent_teim">2 Pages, Unbound</field>
+    <field name="scopecontent_teim">Handwritten in Ink</field>
+    <field name="scopecontent_teim">Measurements: 6" x 7.5"</field>
+    <field name="dao_teim">Financial Record with Notation: 1727-8 February 14, 1729</field>
+    <field name="dao_ssm">Financial Record with Notation: 1727-8 February 14, 1729</field>
+    <field name="ref_ssi">aspace_ref50</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 147, Folder: 47</field>
+    <field name="location_ssm">Folder: 47</field>
+    <field name="location_si">Folder: 47</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="series_sim">Series A: Sylvester Family </field>
+    <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series A: Sylvester Family  &gt;&gt; Financial Record with Notation</field>
+    <field name="heading_ssm">Financial Record with Notation</field>
+    <field name="unitdate_start_sim">1727</field>
+    <field name="unitdate_start_ssm">1727</field>
+    <field name="unitdate_start_si">1727</field>
+    <field name="unitdate_end_sim">1729</field>
+    <field name="unitdate_end_ssm">1729</field>
+    <field name="unitdate_end_si">1729</field>
+    <field name="unitdate_ssm">Inclusive, 1727-8 February 14, 1729</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="sort_ii">37</field>
+  </doc>
+</add>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_114aspace_ref686</field>
+    <field name="ead_ssi">mss_114</field>
+    <field name="parent_ssi">aspace_ref710</field>
+    <field name="parent_ssm">aspace_ref706</field>
+    <field name="parent_ssm">aspace_ref710</field>
+    <field name="parent_unittitles_ssm">Series V:Film</field>
+    <field name="parent_unittitles_ssm">Subseries B: Originals</field>
+    <field name="parent_unittitles_teim">Series V:Film</field>
+    <field name="parent_unittitles_teim">Subseries B: Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Alexander Papers</field>
+    <field name="collection_ssm">Robert Alexander Papers</field>
+    <field name="collection_unitid_ssm">MSS.114</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Carter F(rank) Dancing</field>
+    <field name="unittitle_teim">Carter F(rank) Dancing</field>
+    <field name="unitid_teim">ID: 114.0029</field>
+    <field name="unitid_ssm">ID: 114.0029</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Original format: Super 8 film </field>
+    <field name="phystech_teim">Length: 1, 50-ft. roll, original</field>
+    <field name="phystech_teim">Brand: Ektachrome</field>
+    <field name="ref_ssi">aspace_ref686</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">case: 114.0029</field>
+    <field name="location_si">case: 114.0029</field>
+    <field name="collection_teim">Robert Alexander Papers</field>
+    <field name="collection_unitid_teim">MSS.114</field>
+    <field name="series_sim">Series V:Film</field>
+    <field name="series_sim">Subseries B: Originals</field>
+    <field name="series_si">Series V:Film &gt;&gt; Subseries B: Originals &gt;&gt; Carter F(rank) Dancing</field>
+    <field name="heading_ssm">Carter F(rank) Dancing</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">673</field>
+  </doc>
+</add>

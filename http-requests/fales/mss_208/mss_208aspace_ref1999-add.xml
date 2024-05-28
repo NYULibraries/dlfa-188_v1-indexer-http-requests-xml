@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref1999</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1803</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref1801</field>
+    <field name="parent_ssm">aspace_ref1802</field>
+    <field name="parent_ssm">aspace_ref1803</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family
+</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family
+</field>
+    <field name="component_level_isim">5</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Christern, FW: New York, NY</field>
+    <field name="unittitle_teim">Christern, FW: New York, NY</field>
+    <field name="unitid_teim">cuid1831</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/509785</field>
+    <field name="unitid_ssm">cuid1831</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/509785</field>
+    <field name="unitdate_normal_ssm">1886/1890</field>
+    <field name="unitdate_normal_teim">1886/1890</field>
+    <field name="unitdate_normal_sim">1886/1890</field>
+    <field name="unitdate_inclusive_teim">1886 December 22 &amp; 27; 1887 January 4 - 1888 January 6; 1889 June 6 - 1890 February 21</field>
+    <field name="scopecontent_teim">19 Letters with Ephemera &amp; Indentation, 5 United States Postal Cards with Postage</field>
+    <field name="scopecontent_teim">Addressed To: "Professor E.N. [Eben Norton] Horsford, Cambridge, MA," "Shelter Island, NY"</field>
+    <field name="scopecontent_teim">Sent From: "F.W. Christern, Foreign Bookseller &amp; Importer, 39 West 23rd Street, between 5th &amp; 6th Avenue / 254 5th Avenue, New York," [NY]</field>
+    <field name="scopecontent_teim">In Reference To: Academic / Business / Education / Professional; G.G. Shea's, 53 Park Place / Elizabeth Street; Harvard University; "There are many questions connected with the life of Columbus" Newsprint Clipping; Wellesley College</field>
+    <field name="scopecontent_teim">39 Pages, Bound &amp; Unbound</field>
+    <field name="scopecontent_teim">Printed &amp; Handwritten in Ink &amp; Pencil</field>
+    <field name="scopecontent_teim">Measurements: 5.25" x 3" - 5" x 7.75"</field>
+    <field name="dao_teim">Christern, FW: New York, NY: 1886 December 22 &amp; 27; 1887 January 4 - 1888 January 6; 1889 June 6 - 1890 February 21</field>
+    <field name="dao_ssm">Christern, FW: New York, NY: 1886 December 22 &amp; 27; 1887 January 4 - 1888 January 6; 1889 June 6 - 1890 February 21</field>
+    <field name="ref_ssi">aspace_ref1999</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 58, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_sim">Series A: Eben Norton Horsford</field>
+    <field name="series_sim">Subseries 1: Correspondence</field>
+    <field name="series_sim">Subsubseries a: Academic and Family
+</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Christern, FW: New York, NY</field>
+    <field name="heading_ssm">Christern, FW: New York, NY</field>
+    <field name="unitdate_start_sim">1886</field>
+    <field name="unitdate_start_ssm">1886</field>
+    <field name="unitdate_start_si">1886</field>
+    <field name="unitdate_end_sim">1890</field>
+    <field name="unitdate_end_ssm">1890</field>
+    <field name="unitdate_end_si">1890</field>
+    <field name="unitdate_ssm">Inclusive, 1886 December 22 &amp; 27; 1887 January 4 - 1888 January 6; 1889 June 6 - 1890 February 21</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2552</field>
+  </doc>
+</add>

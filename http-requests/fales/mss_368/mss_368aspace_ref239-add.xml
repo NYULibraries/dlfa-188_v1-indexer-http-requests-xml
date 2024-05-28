@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_368aspace_ref239</field>
+    <field name="ead_ssi">mss_368</field>
+    <field name="parent_ssi">aspace_ref47</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref47</field>
+    <field name="parent_unittitles_ssm">Series I: Auction and Exhibit Materials</field>
+    <field name="parent_unittitles_ssm">Subseries C: Sotheby Catalogs
+</field>
+    <field name="parent_unittitles_teim">Series I: Auction and Exhibit Materials</field>
+    <field name="parent_unittitles_teim">Subseries C: Sotheby Catalogs
+</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_ssm">MSS.368/repositories/3/resources/1861</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Sotheby and Co.</field>
+    <field name="unittitle_teim">Sotheby and Co.</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/577740</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/577740</field>
+    <field name="unitdate_normal_ssm">1926/1926</field>
+    <field name="unitdate_normal_teim">1926/1926</field>
+    <field name="unitdate_normal_sim">1926/1926</field>
+    <field name="unitdate_inclusive_teim">November 15, 16, 17, 18, 1926</field>
+    <field name="ref_ssi">aspace_ref239</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_teim">MSS.368/repositories/3/resources/1861</field>
+    <field name="series_sim">Series I: Auction and Exhibit Materials</field>
+    <field name="series_sim">Subseries C: Sotheby Catalogs
+</field>
+    <field name="series_si">Series I: Auction and Exhibit Materials &gt;&gt; Subseries C: Sotheby Catalogs
+ &gt;&gt; Sotheby and Co.</field>
+    <field name="heading_ssm">Sotheby and Co.</field>
+    <field name="unitdate_start_sim">1926</field>
+    <field name="unitdate_start_ssm">1926</field>
+    <field name="unitdate_start_si">1926</field>
+    <field name="unitdate_end_sim">1926</field>
+    <field name="unitdate_end_ssm">1926</field>
+    <field name="unitdate_end_si">1926</field>
+    <field name="unitdate_ssm">Inclusive, November 15, 16, 17, 18, 1926</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">189</field>
+  </doc>
+</add>

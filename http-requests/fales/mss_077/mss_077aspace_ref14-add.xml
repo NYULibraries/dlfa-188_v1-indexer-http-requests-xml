@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_077aspace_ref14</field>
+    <field name="ead_ssi">mss_077</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Margaret Strickland Papers</field>
+    <field name="collection_ssm">Margaret Strickland Papers</field>
+    <field name="collection_unitid_ssm">MSS.077</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Louis": Kent &amp;amp; London, England; Wiesbaden, Germany</field>
+    <field name="unittitle_teim">"Louis": Kent &amp; London, England; Wiesbaden, Germany</field>
+    <field name="unitdate_normal_ssm">1901/1901</field>
+    <field name="unitdate_normal_teim">1901/1901</field>
+    <field name="unitdate_normal_sim">1901/1901</field>
+    <field name="unitdate_inclusive_teim">[no year] May 20; undated, circa 1901</field>
+    <field name="scopecontent_teim">38 Letters</field>
+    <field name="scopecontent_teim">Addressed To: [Miss Margaret Strickland, Holmdale, Tweedy Road, Bromley, Kent, England]</field>
+    <field name="scopecontent_teim">Sent From: "Louis, Huonville, Shortlands Road, Shortlands, Kent, [England], Telephone 146 Bromley," "Timperley, Northdown Avenue, Margate, [Kent, England]," "Villa Beatrice, Gartenstrabe 12, Wiesbaden, Germany"</field>
+    <field name="scopecontent_teim">In Reference To: Friendship / Personal; "Hugo Gorlitz, Musical &amp; Dramatic Agency, 119 New Bond Street, London West [England]" ; "Keogh-Wright Private Hospital, 166 West 2nd North Street, Salt Lake City, UT, Telephone 409" ; Poetry</field>
+    <field name="scopecontent_teim">Approximately 200 Pages, Unbound</field>
+    <field name="scopecontent_teim">Typed, Printed &amp; Handwritten in Ink &amp; Pencil</field>
+    <field name="scopecontent_teim">Measurements: 4" x 6" - 8" x 10.5"</field>
+    <field name="ref_ssi">aspace_ref14</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Margaret Strickland Papers</field>
+    <field name="collection_unitid_teim">MSS.077</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; "Louis": Kent &amp;amp; London, England; Wiesbaden, Germany</field>
+    <field name="heading_ssm">"Louis": Kent &amp; London, England; Wiesbaden, Germany</field>
+    <field name="unitdate_start_sim">1901</field>
+    <field name="unitdate_start_ssm">1901</field>
+    <field name="unitdate_start_si">1901</field>
+    <field name="unitdate_end_sim">1901</field>
+    <field name="unitdate_end_ssm">1901</field>
+    <field name="unitdate_end_si">1901</field>
+    <field name="unitdate_ssm">Inclusive, [no year] May 20; undated, circa 1901</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

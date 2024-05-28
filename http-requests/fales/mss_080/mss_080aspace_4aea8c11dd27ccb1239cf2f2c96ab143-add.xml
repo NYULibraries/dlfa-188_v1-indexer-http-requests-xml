@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_080aspace_4aea8c11dd27ccb1239cf2f2c96ab143</field>
+    <field name="ead_ssi">mss_080</field>
+    <field name="parent_ssi">aspace_8f79d443b48bc13281f8de697bdabee7</field>
+    <field name="parent_ssm">aspace_8f79d443b48bc13281f8de697bdabee7</field>
+    <field name="parent_unittitles_ssm">Series IV: 1997 Accretion</field>
+    <field name="parent_unittitles_teim">Series IV: 1997 Accretion</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bob Witz Papers</field>
+    <field name="collection_ssm">Bob Witz Papers</field>
+    <field name="collection_unitid_ssm">MSS.080</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Stencil Novel 5-15, Correspondence, Ephemera, and Sketches</field>
+    <field name="unittitle_teim">Stencil Novel 5-15, Correspondence, Ephemera, and Sketches</field>
+    <field name="unitdate_normal_ssm">1979/1989</field>
+    <field name="unitdate_normal_teim">1979/1989</field>
+    <field name="unitdate_normal_sim">1979/1989</field>
+    <field name="unitdate_inclusive_teim">1979-1989</field>
+    <field name="ref_ssi">aspace_4aea8c11dd27ccb1239cf2f2c96ab143</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6</field>
+    <field name="location_si">Box: 6</field>
+    <field name="collection_teim">Bob Witz Papers</field>
+    <field name="collection_unitid_teim">MSS.080</field>
+    <field name="series_sim">Series IV: 1997 Accretion</field>
+    <field name="series_si">Series IV: 1997 Accretion &gt;&gt; Stencil Novel 5-15, Correspondence, Ephemera, and Sketches</field>
+    <field name="heading_ssm">Stencil Novel 5-15, Correspondence, Ephemera, and Sketches</field>
+    <field name="unitdate_start_sim">1979</field>
+    <field name="unitdate_start_ssm">1979</field>
+    <field name="unitdate_start_si">1979</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, 1979-1989</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">67</field>
+  </doc>
+</add>

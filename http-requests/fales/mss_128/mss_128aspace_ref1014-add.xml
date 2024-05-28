@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_128aspace_ref1014</field>
+    <field name="ead_ssi">mss_128</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series V: Grassroots Poetry Videos</field>
+    <field name="parent_unittitles_teim">Series V: Grassroots Poetry Videos</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_ssm">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_unitid_ssm">MSS.128</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"Big": Tribe Magazine</field>
+    <field name="unittitle_teim">"Big": Tribe Magazine</field>
+    <field name="unitid_teim">ID: 128.0481</field>
+    <field name="unitid_ssm">ID: 128.0481</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="phystech_teim">Format: VHS, Duration: 2 min.</field>
+    <field name="ref_ssi">aspace_ref1014</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 23, Media: ID: 128.0481</field>
+    <field name="location_ssm">Media: ID: 128.0481</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: mss128_0481</field>
+    <field name="location_ssm">file: mss128_0481</field>
+    <field name="location_si">file: mss128_0481</field>
+    <field name="collection_teim">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_unitid_teim">MSS.128</field>
+    <field name="series_sim">Series V: Grassroots Poetry Videos</field>
+    <field name="series_si">Series V: Grassroots Poetry Videos &gt;&gt; "Big": Tribe Magazine</field>
+    <field name="heading_ssm">"Big": Tribe Magazine</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">553</field>
+  </doc>
+</add>

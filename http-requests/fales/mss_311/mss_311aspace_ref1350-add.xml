@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_311aspace_ref1350</field>
+    <field name="ead_ssi">mss_311</field>
+    <field name="parent_ssi">aspace_ref612</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref612</field>
+    <field name="parent_unittitles_ssm">Series VIII: Film</field>
+    <field name="parent_unittitles_ssm">Subseries B: Original Containers</field>
+    <field name="parent_unittitles_teim">Series VIII: Film</field>
+    <field name="parent_unittitles_teim">Subseries B: Original Containers</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Nick Zedd Papers</field>
+    <field name="collection_ssm">Nick Zedd Papers</field>
+    <field name="collection_unitid_ssm">MSS.311/repositories/3/resources/1822</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"War is Menstrual Envy" [Du Art Film Box]</field>
+    <field name="unittitle_teim">"War is Menstrual Envy" [Du Art Film Box]</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/555467</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/555467</field>
+    <field name="unitdate_teim">1993</field>
+    <field name="ref_ssi">aspace_ref1350</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 19C</field>
+    <field name="location_si">Box: 19C</field>
+    <field name="collection_teim">Nick Zedd Papers</field>
+    <field name="collection_unitid_teim">MSS.311/repositories/3/resources/1822</field>
+    <field name="series_sim">Series VIII: Film</field>
+    <field name="series_sim">Subseries B: Original Containers</field>
+    <field name="series_si">Series VIII: Film &gt;&gt; Subseries B: Original Containers &gt;&gt; "War is Menstrual Envy" [Du Art Film Box]</field>
+    <field name="heading_ssm">"War is Menstrual Envy" [Du Art Film Box]</field>
+    <field name="unitdate_ssm">1993</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">694</field>
+  </doc>
+</add>

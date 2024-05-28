@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_269aspace_ref186</field>
+    <field name="ead_ssi">mss_269</field>
+    <field name="parent_ssi">aspace_ref111</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref111</field>
+    <field name="parent_unittitles_ssm">Series III: Video recordings</field>
+    <field name="parent_unittitles_ssm">Subseries A: Video recordings</field>
+    <field name="parent_unittitles_teim">Series III: Video recordings</field>
+    <field name="parent_unittitles_teim">Subseries A: Video recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Daniel Goode Papers</field>
+    <field name="collection_ssm">Daniel Goode Papers</field>
+    <field name="collection_unitid_ssm">MSS.269/repositories/3/resources/1795</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Dan at Dartmouth</field>
+    <field name="unittitle_teim">Dan at Dartmouth</field>
+    <field name="unitid_teim">ID: 269.0057</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/535175</field>
+    <field name="unitid_ssm">ID: 269.0057</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/535175</field>
+    <field name="unitdate_teim">November 20, 2002</field>
+    <field name="phystech_teim">Original format: VHS</field>
+    <field name="phystech_teim">Duration: 56 minutes. </field>
+    <field name="ref_ssi">aspace_ref186</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Media: ID: 269.0057</field>
+    <field name="location_ssm">Media: ID: 269.0057</field>
+    <field name="location_ssm">case: 269.0057</field>
+    <field name="location_si">case: 269.0057</field>
+    <field name="collection_teim">Daniel Goode Papers</field>
+    <field name="collection_unitid_teim">MSS.269/repositories/3/resources/1795</field>
+    <field name="series_sim">Series III: Video recordings</field>
+    <field name="series_sim">Subseries A: Video recordings</field>
+    <field name="series_si">Series III: Video recordings &gt;&gt; Subseries A: Video recordings &gt;&gt; Dan at Dartmouth</field>
+    <field name="heading_ssm">Dan at Dartmouth</field>
+    <field name="unitdate_ssm">November 20, 2002</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">129</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref122</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref121</field>
+    <field name="parent_ssm">aspace_ref121</field>
+    <field name="parent_unittitles_ssm">Record Group II: L'Hommedieu Family</field>
+    <field name="parent_unittitles_teim">Record Group II: L'Hommedieu Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series A: Benjamin L'Hommedieu II</field>
+    <field name="unittitle_teim">Series A: Benjamin L'Hommedieu II</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/507335</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/507335</field>
+    <field name="scopecontent_teim">Record Group II, Series A pertains to the professional life of Benjamin L'Hommedieu in that it includes financial and legal records in the form of bills, bonds, indentures, receipts, professional correspondence, and statements of account.</field>
+    <field name="bioghist_teim">Benjamin L'Hommedieu II (1694-1755) was the eldest son of Benjamin L'Hommedieu and Patience Sylvester and a grandson of Nathaniel and Grissell Sylvester. Benjamin L'Hommedieu II was a merchant residing in Southold, Long Island. His wed his first wife Mary Conklin in 1713, who later died in 1730. He then married a second time to Martha Bourn (also spelled Bourne in some records) from Sandwich, Massachusetts in 1731.</field>
+    <field name="ref_ssi">aspace_ref122</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group II: L'Hommedieu Family</field>
+    <field name="series_si">Record Group II: L'Hommedieu Family &gt;&gt; Series A: Benjamin L'Hommedieu II</field>
+    <field name="heading_ssm">Series A: Benjamin L'Hommedieu II</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">101</field>
+  </doc>
+</add>

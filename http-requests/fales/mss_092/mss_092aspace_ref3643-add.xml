@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref3643</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref3092</field>
+    <field name="parent_ssm">aspace_ref3091</field>
+    <field name="parent_ssm">aspace_ref3092</field>
+    <field name="parent_unittitles_ssm">Series XIII: Objects and Artifacts</field>
+    <field name="parent_unittitles_ssm">Subseries A: General Objects and Artifacts</field>
+    <field name="parent_unittitles_teim">Series XIII: Objects and Artifacts</field>
+    <field name="parent_unittitles_teim">Subseries A: General Objects and Artifacts</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Jar</field>
+    <field name="unittitle_teim">Jar</field>
+    <field name="unitid_teim">092.2.0393</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/426785</field>
+    <field name="unitid_ssm">092.2.0393</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/426785</field>
+    <field name="unitdate_normal_ssm">1980/1992</field>
+    <field name="unitdate_normal_teim">1980/1992</field>
+    <field name="unitdate_normal_sim">1980/1992</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="phystech_teim">Description: ceramic jar with cork stopper filled with potpourri</field>
+    <field name="phystech_teim">Maker: Bottom signed by artist (luigi?)</field>
+    <field name="phystech_teim">Where Made: n.p.</field>
+    <field name="phystech_teim">Materials: ceramic, cork, dried flowers</field>
+    <field name="phystech_teim">Dimensions: 2.5 x 2.75 inches</field>
+    <field name="genreform_teim">ceramic ware (visual works)</field>
+    <field name="genreform_ssm">ceramic ware (visual works)</field>
+    <field name="ref_ssi">aspace_ref3643</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 140, object: 092.2.0393</field>
+    <field name="location_ssm">object: 092.2.0393</field>
+    <field name="location_si">object: 092.2.0393</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Series XIII: Objects and Artifacts</field>
+    <field name="series_sim">Subseries A: General Objects and Artifacts</field>
+    <field name="series_si">Series XIII: Objects and Artifacts &gt;&gt; Subseries A: General Objects and Artifacts &gt;&gt; Jar</field>
+    <field name="material_type_sim">ceramic ware (visual works)</field>
+    <field name="material_type_ssm">ceramic ware (visual works)</field>
+    <field name="heading_ssm">Jar</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1992</field>
+    <field name="unitdate_end_ssm">1992</field>
+    <field name="unitdate_end_si">1992</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2718</field>
+  </doc>
+</add>

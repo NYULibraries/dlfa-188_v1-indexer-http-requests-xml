@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_008aspace_ref9</field>
+    <field name="ead_ssi">mss_008</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">C: A Journal of Poetry Archive</field>
+    <field name="collection_ssm">C: A Journal of Poetry Archive</field>
+    <field name="collection_unitid_ssm">MSS.008</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Correspondence, Manuscripts, Covers, and Publications</field>
+    <field name="unittitle_teim">Series I: Correspondence, Manuscripts, Covers, and Publications</field>
+    <field name="scopecontent_teim">The C: A Journal of PoetryArchive is a collection of correspondence and manuscripts submitted to the editor, Ted Berrigan. Collection highlights include letters and manuscripts written by John Ashbery, Marianne Moore, James Schuyler and William Saroyan.</field>
+    <field name="title_teim">C: A Journal of Poetry</field>
+    <field name="title_ssm">C: A Journal of Poetry</field>
+    <field name="ref_ssi">aspace_ref9</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">C: A Journal of Poetry Archive</field>
+    <field name="collection_unitid_teim">MSS.008</field>
+    <field name="series_si">Series I: Correspondence, Manuscripts, Covers, and Publications</field>
+    <field name="heading_ssm">Series I: Correspondence, Manuscripts, Covers, and Publications</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_001aspace_ref4788</field>
+    <field name="ead_ssi">mss_001</field>
+    <field name="parent_ssi">aspace_ref4424</field>
+    <field name="parent_ssm">aspace_ref4424</field>
+    <field name="parent_unittitles_ssm">Legal size boxes</field>
+    <field name="parent_unittitles_teim">Legal size boxes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fales Manuscript Collection</field>
+    <field name="collection_ssm">Fales Manuscript Collection</field>
+    <field name="collection_unitid_ssm">MSS.001/repositories/3/resources/1586</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Solomon, Alan -- Letter to Solomon written on back of ca. 15th century English manuscript</field>
+    <field name="unittitle_teim">Solomon, Alan -- Letter to Solomon written on back of ca. 15th century English manuscript</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/382531</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/382531</field>
+    <field name="unitdate_teim">ca. 1500; 1962</field>
+    <field name="ref_ssi">aspace_ref4788</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Fales Manuscript Collection</field>
+    <field name="collection_unitid_teim">MSS.001/repositories/3/resources/1586</field>
+    <field name="series_sim">Legal size boxes</field>
+    <field name="series_si">Legal size boxes &gt;&gt; Solomon, Alan -- Letter to Solomon written on back of ca. 15th century English manuscript</field>
+    <field name="heading_ssm">Solomon, Alan -- Letter to Solomon written on back of ca. 15th century English manuscript</field>
+    <field name="unitdate_ssm">ca. 1500; 1962</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">253</field>
+  </doc>
+</add>

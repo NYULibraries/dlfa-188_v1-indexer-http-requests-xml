@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref4179</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref4292</field>
+    <field name="parent_ssm">aspace_ref1792</field>
+    <field name="parent_ssm">aspace_ref1793</field>
+    <field name="parent_ssm">aspace_ref4292</field>
+    <field name="parent_unittitles_ssm">Record Group III: Gardiner Family</field>
+    <field name="parent_unittitles_ssm">Series A: Samuel Smith Gardiner</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_teim">Record Group III: Gardiner Family</field>
+    <field name="parent_unittitles_teim">Series A: Samuel Smith Gardiner</field>
+    <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Dickinson, DT: [W.S. Hatie] Saratoga Springs, NY
+
+</field>
+    <field name="unittitle_teim">Dickinson, DT: [W.S. Hatie] Saratoga Springs, NY
+
+</field>
+    <field name="unitid_teim">cuid1093</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/509029</field>
+    <field name="unitid_ssm">cuid1093</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/509029</field>
+    <field name="unitdate_normal_ssm">1840/1840</field>
+    <field name="unitdate_normal_teim">1840/1840</field>
+    <field name="unitdate_normal_sim">1840/1840</field>
+    <field name="unitdate_inclusive_teim">1840 September 4</field>
+    <field name="scopecontent_teim">1 Letter with Notation</field>
+    <field name="scopecontent_teim">Addressed To: "W.L.F. Warren, Esq., Saratoga Springs, NY"</field>
+    <field name="scopecontent_teim">Sent From: "D.T. Dickinson"</field>
+    <field name="scopecontent_teim">In Reference To: Business / Professional; "Nomination of the Syracuse Com., Ontario County"</field>
+    <field name="scopecontent_teim">2 Pages, Unbound</field>
+    <field name="scopecontent_teim">Handwritten in Ink</field>
+    <field name="scopecontent_teim">Measurements: 8" x 10" </field>
+    <field name="dao_teim">Dickinson, DT: [W.S. Hatie] Saratoga Springs, NY</field>
+    <field name="dao_teim">: 1840 September 4</field>
+    <field name="dao_ssm">Dickinson, DT: [W.S. Hatie] Saratoga Springs, NY</field>
+    <field name="dao_ssm">: 1840 September 4</field>
+    <field name="ref_ssi">aspace_ref4179</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 33, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group III: Gardiner Family</field>
+    <field name="series_sim">Series A: Samuel Smith Gardiner</field>
+    <field name="series_sim">Subseries 1: Correspondence</field>
+    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series A: Samuel Smith Gardiner &gt;&gt; Subseries 1: Correspondence &gt;&gt; Dickinson, DT: [W.S. Hatie] Saratoga Springs, NY
+
+</field>
+    <field name="heading_ssm">Dickinson, DT: [W.S. Hatie] Saratoga Springs, NY
+
+</field>
+    <field name="unitdate_start_sim">1840</field>
+    <field name="unitdate_start_ssm">1840</field>
+    <field name="unitdate_start_si">1840</field>
+    <field name="unitdate_end_sim">1840</field>
+    <field name="unitdate_end_ssm">1840</field>
+    <field name="unitdate_end_si">1840</field>
+    <field name="unitdate_ssm">Inclusive, 1840 September 4</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1795</field>
+  </doc>
+</add>

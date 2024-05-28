@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_134aspace_ref1560</field>
+    <field name="ead_ssi">mss_134</field>
+    <field name="parent_ssi">aspace_ref947</field>
+    <field name="parent_ssm">aspace_ref947</field>
+    <field name="parent_unittitles_ssm">Series III: Personal Files</field>
+    <field name="parent_unittitles_teim">Series III: Personal Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Cecily Brownstone Papers</field>
+    <field name="collection_ssm">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_ssm">MSS.134</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Book Proposal Materials for Webster's Dictionary Cookbook</field>
+    <field name="unittitle_teim">Subseries A: Book Proposal Materials for Webster's Dictionary Cookbook</field>
+    <field name="scopecontent_teim">Series III.A contains notes and correspondence on the subject of Webster's Dictionary Cookbook, a project on which Cecile Brownstone worked with her nephew, Jonathan Ned Katz. The material spans the period of 1985-1989, and its arrangment reflects Cecile's original categorization.</field>
+    <field name="ref_ssi">aspace_ref1560</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_teim">MSS.134</field>
+    <field name="series_sim">Series III: Personal Files</field>
+    <field name="series_si">Series III: Personal Files &gt;&gt; Subseries A: Book Proposal Materials for Webster's Dictionary Cookbook</field>
+    <field name="heading_ssm">Subseries A: Book Proposal Materials for Webster's Dictionary Cookbook</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">951</field>
+  </doc>
+</add>

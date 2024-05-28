@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref3545</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref3092</field>
+    <field name="parent_ssm">aspace_ref3091</field>
+    <field name="parent_ssm">aspace_ref3092</field>
+    <field name="parent_unittitles_ssm">Series XIII: Objects and Artifacts</field>
+    <field name="parent_unittitles_ssm">Subseries A: General Objects and Artifacts</field>
+    <field name="parent_unittitles_teim">Series XIII: Objects and Artifacts</field>
+    <field name="parent_unittitles_teim">Subseries A: General Objects and Artifacts</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Toy Gun</field>
+    <field name="unittitle_teim">Toy Gun</field>
+    <field name="unitid_teim">cuid28055</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/426736</field>
+    <field name="unitid_ssm">cuid28055</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/426736</field>
+    <field name="unitdate_teim">undated possibly 1914</field>
+    <field name="phystech_teim">Description: Old-fashioned style revolver toy gun, back below barrel stamped "Invincible"</field>
+    <field name="phystech_teim">Maker: Front-side, under chamber stamped "Kilgore, Patd Dec 14" and near trigger stamped with symbol K</field>
+    <field name="phystech_teim">Where Made: Front-side, under chamber, stamped "Made in USA"</field>
+    <field name="phystech_teim">Materials: Metal</field>
+    <field name="phystech_teim">Dimensions: 3.75 x 5.5 x 0.75 inches</field>
+    <field name="ref_ssi">aspace_ref3545</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 133, object: 092.2.0345</field>
+    <field name="location_ssm">object: 092.2.0345</field>
+    <field name="location_si">object: 092.2.0345</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Series XIII: Objects and Artifacts</field>
+    <field name="series_sim">Subseries A: General Objects and Artifacts</field>
+    <field name="series_si">Series XIII: Objects and Artifacts &gt;&gt; Subseries A: General Objects and Artifacts &gt;&gt; Toy Gun</field>
+    <field name="heading_ssm">Toy Gun</field>
+    <field name="unitdate_ssm">undated possibly 1914</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2669</field>
+  </doc>
+</add>

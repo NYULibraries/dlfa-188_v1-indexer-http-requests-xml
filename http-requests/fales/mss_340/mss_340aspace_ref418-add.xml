@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_340aspace_ref418</field>
+    <field name="ead_ssi">mss_340</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Audio Recordings</field>
+    <field name="parent_unittitles_ssm">Subseries B: Darinka Music </field>
+    <field name="parent_unittitles_teim">Series III: Audio Recordings</field>
+    <field name="parent_unittitles_teim">Subseries B: Darinka Music </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Darinka Archive</field>
+    <field name="collection_ssm">Darinka Archive</field>
+    <field name="collection_unitid_ssm">MSS.340/repositories/3/resources/1841</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">U.N.C.L.E. - Soundtrack</field>
+    <field name="unittitle_teim">U.N.C.L.E. - Soundtrack</field>
+    <field name="unitid_teim">ID: 340.0159</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/562151</field>
+    <field name="unitid_ssm">ID: 340.0159</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/562151</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Original format: audiocassette</field>
+    <field name="ref_ssi">aspace_ref418</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Media: ID: 340.0159</field>
+    <field name="location_ssm">Media: ID: 340.0159</field>
+    <field name="location_si">Media: ID: 340.0159</field>
+    <field name="collection_teim">Darinka Archive</field>
+    <field name="collection_unitid_teim">MSS.340/repositories/3/resources/1841</field>
+    <field name="series_sim">Series III: Audio Recordings</field>
+    <field name="series_sim">Subseries B: Darinka Music </field>
+    <field name="series_si">Series III: Audio Recordings &gt;&gt; Subseries B: Darinka Music  &gt;&gt; U.N.C.L.E. - Soundtrack</field>
+    <field name="heading_ssm">U.N.C.L.E. - Soundtrack</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">222</field>
+  </doc>
+</add>

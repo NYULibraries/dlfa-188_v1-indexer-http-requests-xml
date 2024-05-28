@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_160aspace_20e53498a128ff33cf333aecb656bbf1</field>
+    <field name="ead_ssi">mss_160</field>
+    <field name="parent_ssi">aspace_aabfcb8fedf20618cb09300bf4a24706</field>
+    <field name="parent_ssm">aspace_aabfcb8fedf20618cb09300bf4a24706</field>
+    <field name="parent_unittitles_ssm">Series I: Research and Subject Files</field>
+    <field name="parent_unittitles_teim">Series I: Research and Subject Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Betty Fussell Papers</field>
+    <field name="collection_ssm">Betty Fussell Papers</field>
+    <field name="collection_unitid_ssm">MSS.160</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Foods</field>
+    <field name="unittitle_teim">Foods</field>
+    <field name="ref_ssi">aspace_20e53498a128ff33cf333aecb656bbf1</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Betty Fussell Papers</field>
+    <field name="collection_unitid_teim">MSS.160</field>
+    <field name="series_sim">Series I: Research and Subject Files</field>
+    <field name="series_si">Series I: Research and Subject Files &gt;&gt; Foods</field>
+    <field name="heading_ssm">Foods</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">9</field>
+  </doc>
+</add>

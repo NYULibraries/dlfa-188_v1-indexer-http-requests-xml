@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_122aspace_ref878</field>
+    <field name="ead_ssi">mss_122</field>
+    <field name="parent_ssi">aspace_ref36</field>
+    <field name="parent_ssm">aspace_ref35</field>
+    <field name="parent_ssm">aspace_ref36</field>
+    <field name="parent_unittitles_ssm">Series VI: Video recordings</field>
+    <field name="parent_unittitles_ssm">Subseries A: Original tapes</field>
+    <field name="parent_unittitles_teim">Series VI: Video recordings</field>
+    <field name="parent_unittitles_teim">Subseries A: Original tapes</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Laura Foreman Papers</field>
+    <field name="collection_ssm">Laura Foreman Papers</field>
+    <field name="collection_unitid_ssm">MSS.122/repositories/3/resources/1687</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">1. #221 Dub Part I 2. #222 Dub</field>
+    <field name="unittitle_teim">1. #221 Dub Part I 2. #222 Dub</field>
+    <field name="unitid_teim">ID: 122.0417</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/449069</field>
+    <field name="unitid_ssm">ID: 122.0417</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/449069</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref878</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 148, Media: ID: 122.0417</field>
+    <field name="location_ssm">Media: ID: 122.0417</field>
+    <field name="location_si">Media: ID: 122.0417</field>
+    <field name="collection_teim">Laura Foreman Papers</field>
+    <field name="collection_unitid_teim">MSS.122/repositories/3/resources/1687</field>
+    <field name="series_sim">Series VI: Video recordings</field>
+    <field name="series_sim">Subseries A: Original tapes</field>
+    <field name="series_si">Series VI: Video recordings &gt;&gt; Subseries A: Original tapes &gt;&gt; 1. #221 Dub Part I 2. #222 Dub</field>
+    <field name="heading_ssm">1. #221 Dub Part I 2. #222 Dub</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">577</field>
+  </doc>
+</add>

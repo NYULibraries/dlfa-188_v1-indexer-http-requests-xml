@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref4608</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1793</field>
+    <field name="parent_ssm">aspace_ref1792</field>
+    <field name="parent_ssm">aspace_ref1793</field>
+    <field name="parent_unittitles_ssm">Record Group III: Gardiner Family</field>
+    <field name="parent_unittitles_ssm">Series A: Samuel Smith Gardiner</field>
+    <field name="parent_unittitles_teim">Record Group III: Gardiner Family</field>
+    <field name="parent_unittitles_teim">Series A: Samuel Smith Gardiner</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 6: Printed Materials</field>
+    <field name="unittitle_teim">Subseries 6: Printed Materials</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/509440</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/509440</field>
+    <field name="ref_ssi">aspace_ref4608</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group III: Gardiner Family</field>
+    <field name="series_sim">Series A: Samuel Smith Gardiner</field>
+    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series A: Samuel Smith Gardiner &gt;&gt; Subseries 6: Printed Materials</field>
+    <field name="heading_ssm">Subseries 6: Printed Materials</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2207</field>
+  </doc>
+</add>

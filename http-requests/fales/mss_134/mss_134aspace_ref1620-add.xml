@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_134aspace_ref1620</field>
+    <field name="ead_ssi">mss_134</field>
+    <field name="parent_ssi">aspace_ref1560</field>
+    <field name="parent_ssm">aspace_ref947</field>
+    <field name="parent_ssm">aspace_ref1560</field>
+    <field name="parent_unittitles_ssm">Series III: Personal Files</field>
+    <field name="parent_unittitles_ssm">Subseries A: Book Proposal Materials for Webster's Dictionary Cookbook</field>
+    <field name="parent_unittitles_teim">Series III: Personal Files</field>
+    <field name="parent_unittitles_teim">Subseries A: Book Proposal Materials for Webster's Dictionary Cookbook</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Cecily Brownstone Papers</field>
+    <field name="collection_ssm">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_ssm">MSS.134</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Sesame Noodles</field>
+    <field name="unittitle_teim">Sesame Noodles</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1620</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 37, Folder: 60</field>
+    <field name="location_ssm">Folder: 60</field>
+    <field name="location_si">Folder: 60</field>
+    <field name="collection_teim">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_teim">MSS.134</field>
+    <field name="series_sim">Series III: Personal Files</field>
+    <field name="series_sim">Subseries A: Book Proposal Materials for Webster's Dictionary Cookbook</field>
+    <field name="series_si">Series III: Personal Files &gt;&gt; Subseries A: Book Proposal Materials for Webster's Dictionary Cookbook &gt;&gt; Sesame Noodles</field>
+    <field name="heading_ssm">Sesame Noodles</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1011</field>
+  </doc>
+</add>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_292aspace_ref476</field>
+    <field name="ead_ssi">mss_292</field>
+    <field name="parent_ssi">aspace_ref16</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref16</field>
+    <field name="parent_unittitles_ssm">Series III: Curricular Studies</field>
+    <field name="parent_unittitles_ssm">Subseries A: Asian American Studies</field>
+    <field name="parent_unittitles_teim">Series III: Curricular Studies</field>
+    <field name="parent_unittitles_teim">Subseries A: Asian American Studies</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_ssm">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_unitid_ssm">MSS.292/repositories/3/resources/1809</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The Bobbs-Merrill Reprint series in the social sciences</field>
+    <field name="unittitle_teim">The Bobbs-Merrill Reprint series in the social sciences</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/544945</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/544945</field>
+    <field name="unitdate_teim">1928, 1945, 1949, 1956, 1964, 1965</field>
+    <field name="ref_ssi">aspace_ref476</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10, Folder: 20</field>
+    <field name="location_ssm">Folder: 20</field>
+    <field name="location_si">Folder: 20</field>
+    <field name="collection_teim">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_unitid_teim">MSS.292/repositories/3/resources/1809</field>
+    <field name="series_sim">Series III: Curricular Studies</field>
+    <field name="series_sim">Subseries A: Asian American Studies</field>
+    <field name="series_si">Series III: Curricular Studies &gt;&gt; Subseries A: Asian American Studies &gt;&gt; The Bobbs-Merrill Reprint series in the social sciences</field>
+    <field name="heading_ssm">The Bobbs-Merrill Reprint series in the social sciences</field>
+    <field name="unitdate_ssm">1928, 1945, 1949, 1956, 1964, 1965</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">446</field>
+  </doc>
+</add>

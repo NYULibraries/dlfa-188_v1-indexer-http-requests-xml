@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_040aspace_ref1806</field>
+    <field name="ead_ssi">mss_040</field>
+    <field name="parent_ssi">aspace_ref1746</field>
+    <field name="parent_ssm">aspace_ref1746</field>
+    <field name="parent_unittitles_ssm">Accretions 2012 - Series V: Audio &amp;amp; Video Tape Collection</field>
+    <field name="parent_unittitles_teim">Accretions 2012 - Series V: Audio &amp;amp; Video Tape Collection</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Canemaker Animation Collection</field>
+    <field name="collection_ssm">John Canemaker Animation Collection</field>
+    <field name="collection_unitid_ssm">MSS.040/repositories/3/resources/1625</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Carol Grubb, LA, part III</field>
+    <field name="unittitle_teim">Carol Grubb, LA, part III</field>
+    <field name="unitid_teim">ID: 040.0270</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/398941</field>
+    <field name="unitid_ssm">ID: 040.0270</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/398941</field>
+    <field name="unitdate_normal_ssm">2007/2007</field>
+    <field name="unitdate_normal_teim">2007/2007</field>
+    <field name="unitdate_normal_sim">2007/2007</field>
+    <field name="unitdate_inclusive_teim">July 23, 2007</field>
+    <field name="phystech_teim">Original Format: 1/4" audiocassette, Memorex DBS 90</field>
+    <field name="phystech_teim">Duration: 54 minutes</field>
+    <field name="ref_ssi">aspace_ref1806</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2012.V.5, Media: ID: 040.0270</field>
+    <field name="location_ssm">Media: ID: 040.0270</field>
+    <field name="location_ssm">case: 040.0270</field>
+    <field name="location_si">case: 040.0270</field>
+    <field name="collection_teim">John Canemaker Animation Collection</field>
+    <field name="collection_unitid_teim">MSS.040/repositories/3/resources/1625</field>
+    <field name="series_sim">Accretions 2012 - Series V: Audio &amp;amp; Video Tape Collection</field>
+    <field name="series_si">Accretions 2012 - Series V: Audio &amp;amp; Video Tape Collection &gt;&gt; Carol Grubb, LA, part III</field>
+    <field name="heading_ssm">Carol Grubb, LA, part III</field>
+    <field name="unitdate_start_sim">2007</field>
+    <field name="unitdate_start_ssm">2007</field>
+    <field name="unitdate_start_si">2007</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, July 23, 2007</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1403</field>
+  </doc>
+</add>

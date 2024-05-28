@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_407aspace_1109de2395a9e54a9948f07510cd70dd</field>
+    <field name="ead_ssi">mss_407</field>
+    <field name="parent_ssi">aspace_8bdb2369d3aaee066bb0ad31a90bee0e</field>
+    <field name="parent_ssm">aspace_8bdb2369d3aaee066bb0ad31a90bee0e</field>
+    <field name="parent_unittitles_ssm">Series I. Artistic Works</field>
+    <field name="parent_unittitles_teim">Series I. Artistic Works</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alva Rogers Papers</field>
+    <field name="collection_ssm">Alva Rogers Papers</field>
+    <field name="collection_unitid_ssm">MSS.407</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Negro Doll Factory Music</field>
+    <field name="unittitle_teim">Negro Doll Factory Music</field>
+    <field name="unitid_teim">cuid29407</field>
+    <field name="unitid_ssm">cuid29407</field>
+    <field name="unitdate_normal_ssm">1989/1990</field>
+    <field name="unitdate_normal_teim">1989/1990</field>
+    <field name="unitdate_normal_sim">1989/1990</field>
+    <field name="unitdate_inclusive_teim">1989-1990</field>
+    <field name="phystech_teim">407.0065 - Duration: 56 Minutes
+407.0071 - Duration: 88 Minutes
+407.0072 - Duration: 26 Minutes
+407.0080 - Duration: 26 Mintues</field>
+    <field name="dao_teim">Negro Doll Factory Music</field>
+    <field name="dao_teim">Negro Doll Factory Music</field>
+    <field name="dao_teim">Negro Doll Factory Music</field>
+    <field name="dao_teim">Negro Doll Factory Music</field>
+    <field name="dao_ssm">Negro Doll Factory Music</field>
+    <field name="dao_ssm">Negro Doll Factory Music</field>
+    <field name="dao_ssm">Negro Doll Factory Music</field>
+    <field name="dao_ssm">Negro Doll Factory Music</field>
+    <field name="ref_ssi">aspace_1109de2395a9e54a9948f07510cd70dd</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15, audiocassette: 407.0065</field>
+    <field name="location_ssm">audiocassette: 407.0065</field>
+    <field name="location_ssm">Box: Shared Fales 045, audiocassette: 407.0071, 407.0072, 407.0080</field>
+    <field name="location_ssm">audiocassette: 407.0071, 407.0072, 407.0080</field>
+    <field name="location_si">audiocassette: 407.0071, 407.0072, 407.0080</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Alva Rogers Papers</field>
+    <field name="collection_unitid_teim">MSS.407</field>
+    <field name="series_sim">Series I. Artistic Works</field>
+    <field name="series_si">Series I. Artistic Works &gt;&gt; Negro Doll Factory Music</field>
+    <field name="heading_ssm">Negro Doll Factory Music</field>
+    <field name="unitdate_start_sim">1989</field>
+    <field name="unitdate_start_ssm">1989</field>
+    <field name="unitdate_start_si">1989</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, 1989-1990</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">44</field>
+  </doc>
+</add>

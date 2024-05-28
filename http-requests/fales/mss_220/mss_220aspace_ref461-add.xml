@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_220aspace_ref461</field>
+    <field name="ead_ssi">mss_220</field>
+    <field name="parent_ssi">aspace_ref440</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref440</field>
+    <field name="parent_unittitles_ssm">Series I: Art Production</field>
+    <field name="parent_unittitles_ssm">Subseries D: Publicity, Notes, etc.</field>
+    <field name="parent_unittitles_teim">Series I: Art Production</field>
+    <field name="parent_unittitles_teim">Subseries D: Publicity, Notes, etc.</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Blanchon Papers and Collection</field>
+    <field name="collection_ssm">Robert Blanchon Papers and Collection</field>
+    <field name="collection_unitid_ssm">MSS.220/repositories/3/resources/1761</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Whitewalls Number 35</field>
+    <field name="unittitle_teim">Whitewalls Number 35</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/521268</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/521268</field>
+    <field name="unitdate_teim">1994</field>
+    <field name="ref_ssi">aspace_ref461</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 25</field>
+    <field name="location_ssm">Folder: 25</field>
+    <field name="location_si">Folder: 25</field>
+    <field name="collection_teim">Robert Blanchon Papers and Collection</field>
+    <field name="collection_unitid_teim">MSS.220/repositories/3/resources/1761</field>
+    <field name="series_sim">Series I: Art Production</field>
+    <field name="series_sim">Subseries D: Publicity, Notes, etc.</field>
+    <field name="series_si">Series I: Art Production &gt;&gt; Subseries D: Publicity, Notes, etc. &gt;&gt; Whitewalls Number 35</field>
+    <field name="heading_ssm">Whitewalls Number 35</field>
+    <field name="unitdate_ssm">1994</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">93</field>
+  </doc>
+</add>

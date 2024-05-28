@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref5691</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref4138</field>
+    <field name="parent_ssm">aspace_ref4136</field>
+    <field name="parent_ssm">aspace_ref4138</field>
+    <field name="parent_unittitles_ssm">Record Group VI: Photographic Material</field>
+    <field name="parent_unittitles_ssm">Series B: Sylvester Manor, 27 Craigie Street</field>
+    <field name="parent_unittitles_teim">Record Group VI: Photographic Material</field>
+    <field name="parent_unittitles_teim">Series B: Sylvester Manor, 27 Craigie Street</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photographs: Sylvester Manor Gardens</field>
+    <field name="unittitle_teim">Photographs: Sylvester Manor Gardens</field>
+    <field name="unitid_teim">cuid5511</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/512799</field>
+    <field name="unitid_ssm">cuid5511</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/512799</field>
+    <field name="unitdate_normal_ssm">1900/1929</field>
+    <field name="unitdate_normal_teim">1900/1929</field>
+    <field name="unitdate_normal_sim">1900/1929</field>
+    <field name="unitdate_inclusive_teim">undated, circa 1900 - 1920s</field>
+    <field name="dao_teim">Photos of Sylvester Manor gardens and lawns: undated</field>
+    <field name="dao_ssm">Photos of Sylvester Manor gardens and lawns: undated</field>
+    <field name="ref_ssi">aspace_ref5691</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 121, Folder: 39</field>
+    <field name="location_ssm">Folder: 39</field>
+    <field name="location_si">Folder: 39</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group VI: Photographic Material</field>
+    <field name="series_sim">Series B: Sylvester Manor, 27 Craigie Street</field>
+    <field name="series_si">Record Group VI: Photographic Material &gt;&gt; Series B: Sylvester Manor, 27 Craigie Street &gt;&gt; Photographs: Sylvester Manor Gardens</field>
+    <field name="heading_ssm">Photographs: Sylvester Manor Gardens</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">1929</field>
+    <field name="unitdate_end_ssm">1929</field>
+    <field name="unitdate_end_si">1929</field>
+    <field name="unitdate_ssm">Inclusive, undated, circa 1900 - 1920s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5568</field>
+  </doc>
+</add>

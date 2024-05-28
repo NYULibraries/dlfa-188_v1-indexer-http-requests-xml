@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_244aspace_ref666</field>
+    <field name="ead_ssi">mss_244</field>
+    <field name="parent_ssi">aspace_ref406</field>
+    <field name="parent_ssm">aspace_ref406</field>
+    <field name="parent_unittitles_ssm">Series VII: Various Comics</field>
+    <field name="parent_unittitles_teim">Series VII: Various Comics</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">William F. Wu Comics Collection</field>
+    <field name="collection_ssm">William F. Wu Comics Collection</field>
+    <field name="collection_unitid_ssm">MSS.244</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries D: Gold Key Comics</field>
+    <field name="unittitle_teim">Subseries D: Gold Key Comics</field>
+    <field name="ref_ssi">aspace_ref666</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">William F. Wu Comics Collection</field>
+    <field name="collection_unitid_teim">MSS.244</field>
+    <field name="series_sim">Series VII: Various Comics</field>
+    <field name="series_si">Series VII: Various Comics &gt;&gt; Subseries D: Gold Key Comics</field>
+    <field name="heading_ssm">Subseries D: Gold Key Comics</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">303</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_178aspace_ref174</field>
+    <field name="ead_ssi">mss_178</field>
+    <field name="parent_ssi">aspace_ref134</field>
+    <field name="parent_ssm">aspace_ref134</field>
+    <field name="parent_unittitles_ssm">Series IV: Printed Material</field>
+    <field name="parent_unittitles_teim">Series IV: Printed Material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Elinor S. Miller Papers</field>
+    <field name="collection_ssm">Elinor S. Miller Papers</field>
+    <field name="collection_unitid_ssm">MSS.178</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B: Catalogs</field>
+    <field name="unittitle_teim">Subseries B: Catalogs</field>
+    <field name="ref_ssi">aspace_ref174</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Elinor S. Miller Papers</field>
+    <field name="collection_unitid_teim">MSS.178</field>
+    <field name="series_sim">Series IV: Printed Material</field>
+    <field name="series_si">Series IV: Printed Material &gt;&gt; Subseries B: Catalogs</field>
+    <field name="heading_ssm">Subseries B: Catalogs</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">161</field>
+  </doc>
+</add>

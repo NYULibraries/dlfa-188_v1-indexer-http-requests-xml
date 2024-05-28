@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_028aspace_ref2887</field>
+    <field name="ead_ssi">mss_028</field>
+    <field name="parent_ssi">aspace_ref2668</field>
+    <field name="parent_ssm">aspace_ref2668</field>
+    <field name="parent_unittitles_ssm">Series V: Misc. Addenda</field>
+    <field name="parent_unittitles_teim">Series V: Misc. Addenda</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Levy Dime Novel Collection</field>
+    <field name="collection_ssm">Levy Dime Novel Collection</field>
+    <field name="collection_unitid_ssm">MSS.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: The Leisure Hour Library&lt;strong&gt;Series Number&lt;/strong&gt;: 35, 41, 45, 90, 111, 288&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: F. M. Lupton&lt;strong&gt;Date&lt;/strong&gt;: 1896-1897, 1900</field>
+    <field name="unittitle_teim">Series Title: The Leisure Hour LibrarySeries Number: 35, 41, 45, 90, 111, 288City: New YorkPublisher: F. M. LuptonDate: 1896-1897, 1900</field>
+    <field name="unitdate_teim">1896-1897, 1900</field>
+    <field name="ref_ssi">aspace_ref2887</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 132, Folder: 2538</field>
+    <field name="location_ssm">Folder: 2538</field>
+    <field name="location_si">Folder: 2538</field>
+    <field name="collection_teim">Levy Dime Novel Collection</field>
+    <field name="collection_unitid_teim">MSS.028</field>
+    <field name="series_sim">Series V: Misc. Addenda</field>
+    <field name="series_si">Series V: Misc. Addenda &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: The Leisure Hour Library&lt;strong&gt;Series Number&lt;/strong&gt;: 35, 41, 45, 90, 111, 288&lt;strong&gt;City&lt;/strong&gt;: New York&lt;strong&gt;Publisher&lt;/strong&gt;: F. M. Lupton&lt;strong&gt;Date&lt;/strong&gt;: 1896-1897, 1900</field>
+    <field name="heading_ssm">Series Title: The Leisure Hour LibrarySeries Number: 35, 41, 45, 90, 111, 288City: New YorkPublisher: F. M. LuptonDate: 1896-1897, 1900</field>
+    <field name="unitdate_ssm">1896-1897, 1900</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3183</field>
+  </doc>
+</add>

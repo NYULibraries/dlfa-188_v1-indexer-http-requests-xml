@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_414aspace_ref129</field>
+    <field name="ead_ssi">mss_414</field>
+    <field name="parent_ssi">aspace_ref5</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref5</field>
+    <field name="parent_unittitles_ssm">Series II: Performance</field>
+    <field name="parent_unittitles_ssm">Subseries A: Performances with Christopher Knowles</field>
+    <field name="parent_unittitles_teim">Series II: Performance</field>
+    <field name="parent_unittitles_teim">Subseries A: Performances with Christopher Knowles</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Christopher Knowles Papers</field>
+    <field name="collection_ssm">Christopher Knowles Papers</field>
+    <field name="collection_unitid_ssm">MSS.414/repositories/3/resources/1884</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Workshop Transcripts</field>
+    <field name="unittitle_teim">Workshop Transcripts</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/582650</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/582650</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref129</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 35</field>
+    <field name="location_ssm">Folder: 35</field>
+    <field name="location_si">Folder: 35</field>
+    <field name="collection_teim">Christopher Knowles Papers</field>
+    <field name="collection_unitid_teim">MSS.414/repositories/3/resources/1884</field>
+    <field name="series_sim">Series II: Performance</field>
+    <field name="series_sim">Subseries A: Performances with Christopher Knowles</field>
+    <field name="series_si">Series II: Performance &gt;&gt; Subseries A: Performances with Christopher Knowles &gt;&gt; Workshop Transcripts</field>
+    <field name="heading_ssm">Workshop Transcripts</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">94</field>
+  </doc>
+</add>

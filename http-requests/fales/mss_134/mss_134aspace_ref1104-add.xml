@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_134aspace_ref1104</field>
+    <field name="ead_ssi">mss_134</field>
+    <field name="parent_ssi">aspace_ref1090</field>
+    <field name="parent_ssm">aspace_ref1090</field>
+    <field name="parent_unittitles_ssm">Series XI: Video recordings</field>
+    <field name="parent_unittitles_teim">Series XI: Video recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Cecily Brownstone Papers</field>
+    <field name="collection_ssm">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_ssm">MSS.134</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Mooney, Marjolein. &lt;em&gt;Cuisine&lt;/em&gt;&lt;em&gt;Cooking Club Buffet&lt;/em&gt;</field>
+    <field name="unittitle_teim">Mooney, Marjolein. CuisineCooking Club Buffet</field>
+    <field name="unitdate_normal_ssm">1987/1987</field>
+    <field name="unitdate_normal_teim">1987/1987</field>
+    <field name="unitdate_normal_sim">1987/1987</field>
+    <field name="unitdate_inclusive_teim">1987</field>
+    <field name="title_teim">Cuisine</field>
+    <field name="title_teim">Cooking Club Buffet</field>
+    <field name="title_ssm">Cuisine</field>
+    <field name="title_ssm">Cooking Club Buffet</field>
+    <field name="ref_ssi">aspace_ref1104</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13, Folder: 14</field>
+    <field name="location_ssm">Folder: 14</field>
+    <field name="location_si">Folder: 14</field>
+    <field name="collection_teim">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_teim">MSS.134</field>
+    <field name="series_sim">Series XI: Video recordings</field>
+    <field name="series_si">Series XI: Video recordings &gt;&gt; Mooney, Marjolein. &lt;em&gt;Cuisine&lt;/em&gt;&lt;em&gt;Cooking Club Buffet&lt;/em&gt;</field>
+    <field name="heading_ssm">Mooney, Marjolein. CuisineCooking Club Buffet</field>
+    <field name="unitdate_start_sim">1987</field>
+    <field name="unitdate_start_ssm">1987</field>
+    <field name="unitdate_start_si">1987</field>
+    <field name="unitdate_end_sim">1987</field>
+    <field name="unitdate_end_ssm">1987</field>
+    <field name="unitdate_end_si">1987</field>
+    <field name="unitdate_ssm">Inclusive, 1987</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1160</field>
+  </doc>
+</add>

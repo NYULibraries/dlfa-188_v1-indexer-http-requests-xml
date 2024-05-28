@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_140aspace_ref2456</field>
+    <field name="ead_ssi">mss_140</field>
+    <field name="parent_ssi">aspace_ref2455</field>
+    <field name="parent_ssm">aspace_ref2455</field>
+    <field name="parent_unittitles_ssm">Oversize - Series I: Manuscripts</field>
+    <field name="parent_unittitles_teim">Oversize - Series I: Manuscripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Richard Hell Papers</field>
+    <field name="collection_ssm">Richard Hell Papers</field>
+    <field name="collection_unitid_ssm">MSS.140/repositories/3/resources/1703</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries D: Prose</field>
+    <field name="unittitle_teim">Subseries D: Prose</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/466371</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/466371</field>
+    <field name="scopecontent_teim">Richard Hell's prose manuscripts.</field>
+    <field name="ref_ssi">aspace_ref2456</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Richard Hell Papers</field>
+    <field name="collection_unitid_teim">MSS.140/repositories/3/resources/1703</field>
+    <field name="series_sim">Oversize - Series I: Manuscripts</field>
+    <field name="series_si">Oversize - Series I: Manuscripts &gt;&gt; Subseries D: Prose</field>
+    <field name="heading_ssm">Subseries D: Prose</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">2287</field>
+  </doc>
+</add>

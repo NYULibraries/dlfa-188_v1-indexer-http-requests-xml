@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref4127</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Series H: Cornelia Conway Felton Horsford (Nellie)</field>
+    <field name="unittitle_teim">Series H: Cornelia Conway Felton Horsford (Nellie)</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/511831</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/511831</field>
+    <field name="scopecontent_teim">Record Group IV, Series H pertains to Nellie's personal and professional life in which it includes correspondence, clippings and ephemera, genealogical and local history research, financial and legal records, notebooks, photographs, printed works, original and collected artwork and poetry, and Sylvester Manor blueprints and inventories for the 1908 renovation.</field>
+    <field name="scopecontent_teim">
+      Selected printed materials have been removed to Fales Special collections and cataloged. Please search Bobcat to locate these items.
+    </field>
+    <field name="bioghist_teim">"Nellie" (Cornelia Conway Felton Horsford, September 25, 1861 - 1944) was the only daughter of Phoebe Dayton Gardiner Horsford and Eben Norton Horsford. Cornelia was an amateur watercolor painter, a poet, and travelled extensively; family trips around the North American west and Europe influenced her interest in archaeology, gardening, and history. While continuing Eben Norton Horsford's Northmen and Norumbega work, Cornelia sponsored an expedition to Iceland to compare structures built by Viking settlers to those in Massachusetts. Cornelia also conducted Sylvester family genealogical and Shelter Island local history research. After Phoebe Dayton Gardiner Horsford passed away in 1900, Cornelia managed Sylvester Manor and oversaw a substantial renovation in 1908.</field>
+    <field name="ref_ssi">aspace_ref4127</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series H: Cornelia Conway Felton Horsford (Nellie)</field>
+    <field name="heading_ssm">Series H: Cornelia Conway Felton Horsford (Nellie)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4599</field>
+  </doc>
+</add>

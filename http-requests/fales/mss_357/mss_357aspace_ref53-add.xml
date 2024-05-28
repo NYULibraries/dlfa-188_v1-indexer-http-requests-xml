@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_357aspace_ref53</field>
+    <field name="ead_ssi">mss_357</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Video recordings</field>
+    <field name="parent_unittitles_teim">Series I: Video recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Nelson Sullivan Video Collection</field>
+    <field name="collection_ssm">Nelson Sullivan Video Collection</field>
+    <field name="collection_unitid_ssm">MSS.357</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Chelsea Hotel (tape #1)</field>
+    <field name="unittitle_teim">Chelsea Hotel (tape #1)</field>
+    <field name="unitid_teim">ID: 357.0012</field>
+    <field name="unitid_ssm">ID: 357.0012</field>
+    <field name="unitdate_normal_ssm">1983/1983</field>
+    <field name="unitdate_normal_teim">1983/1983</field>
+    <field name="unitdate_normal_sim">1983/1983</field>
+    <field name="unitdate_inclusive_teim">November 20, 1983</field>
+    <field name="scopecontent_teim">Original Tape 1 (of 2)</field>
+    <field name="scopecontent_teim">The first disc of this video starts with footage from the morning of November 20, 1983, when the Chelsea Hotel lobby is being prepared for a party. Nelson goes to room 604 to spend time with friends, including Sandy Dancer, Michael Musto, and Deloris French. Sandy Dancer prepares for her performance later in the day. When a news camera crew interviews Sandy, she says that the party is a birthday celebration for the Chelsea.</field>
+    <field name="scopecontent_teim">The second disc begins with people flowing in and out of room 604 while Sandy Dancer finishes preparing for her performance. There is a dance performance in the stairwell before the main party in the lobby, where, among others, Sandy Dancer and Michael Musto perform. Ed Koch appears after a couple songs in order to honor the Chelsea Hotel on its 100th anniversary and declare November 20, 1983 Chelsea Hotel Day. Koch also presents playwright Arthur Miller with a plaque honoring his time living at the Chelsea. Miller gives brief remarks before the unveiling of his plaque. Ulick O'Connor speaks on behalf of the history of the Chelsea, and there are a couple more performances.</field>
+    <field name="phystech_teim">Original format: VHS</field>
+    <field name="ref_ssi">aspace_ref53</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Media: ID: 357.0012</field>
+    <field name="location_ssm">Media: ID: 357.0012</field>
+    <field name="location_ssm">case: 357.0012_pt.1</field>
+    <field name="location_ssm">case: 357.0012_pt.2</field>
+    <field name="location_si">case: 357.0012_pt.2</field>
+    <field name="collection_teim">Nelson Sullivan Video Collection</field>
+    <field name="collection_unitid_teim">MSS.357</field>
+    <field name="series_sim">Series I: Video recordings</field>
+    <field name="series_si">Series I: Video recordings &gt;&gt; Chelsea Hotel (tape #1)</field>
+    <field name="heading_ssm">Chelsea Hotel (tape #1)</field>
+    <field name="unitdate_start_sim">1983</field>
+    <field name="unitdate_start_ssm">1983</field>
+    <field name="unitdate_start_si">1983</field>
+    <field name="unitdate_end_sim">1983</field>
+    <field name="unitdate_end_ssm">1983</field>
+    <field name="unitdate_end_si">1983</field>
+    <field name="unitdate_ssm">Inclusive, November 20, 1983</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

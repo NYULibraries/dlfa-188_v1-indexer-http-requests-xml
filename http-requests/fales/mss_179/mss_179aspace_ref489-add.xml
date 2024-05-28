@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_179aspace_ref489</field>
+    <field name="ead_ssi">mss_179</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series I: Exhibitions and Projects</field>
+    <field name="parent_unittitles_teim">Series I: Exhibitions and Projects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Creative Time Records</field>
+    <field name="collection_ssm">Creative Time Records</field>
+    <field name="collection_unitid_ssm">MSS.179/repositories/3/resources/1736</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Masstransiscope&lt;/em&gt; by Bill Brand -- Myrtle Street Subway Station</field>
+    <field name="unittitle_teim">Masstransiscope by Bill Brand -- Myrtle Street Subway Station</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/494369</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/494369</field>
+    <field name="unitdate_normal_ssm">1980/1983</field>
+    <field name="unitdate_normal_teim">1980/1983</field>
+    <field name="unitdate_normal_sim">1980/1983</field>
+    <field name="unitdate_inclusive_teim">September 1980-1983</field>
+    <field name="ref_ssi">aspace_ref489</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 26</field>
+    <field name="location_ssm">Folder: 26</field>
+    <field name="location_ssm">Box: 14, Folder: 31-33</field>
+    <field name="location_ssm">Folder: 31-33</field>
+    <field name="location_ssm">Box: 34, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_ssm">Box: 99, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_ssm">Box: 111, Folder: Sleeves 1-2</field>
+    <field name="location_ssm">Folder: Sleeves 1-2</field>
+    <field name="location_ssm">case: 179.0776</field>
+    <field name="location_si">case: 179.0776</field>
+    <field name="collection_teim">Creative Time Records</field>
+    <field name="collection_unitid_teim">MSS.179/repositories/3/resources/1736</field>
+    <field name="series_sim">Series I: Exhibitions and Projects</field>
+    <field name="series_si">Series I: Exhibitions and Projects &gt;&gt; &lt;em&gt;Masstransiscope&lt;/em&gt; by Bill Brand -- Myrtle Street Subway Station</field>
+    <field name="heading_ssm">Masstransiscope by Bill Brand -- Myrtle Street Subway Station</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1983</field>
+    <field name="unitdate_end_ssm">1983</field>
+    <field name="unitdate_end_si">1983</field>
+    <field name="unitdate_ssm">Inclusive, September 1980-1983</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

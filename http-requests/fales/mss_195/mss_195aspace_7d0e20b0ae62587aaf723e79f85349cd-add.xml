@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_195aspace_7d0e20b0ae62587aaf723e79f85349cd</field>
+    <field name="ead_ssi">mss_195</field>
+    <field name="parent_ssi">aspace_6b0963cec4daabf593d767cac132ca77</field>
+    <field name="parent_ssm">aspace_ref137</field>
+    <field name="parent_ssm">aspace_6b0963cec4daabf593d767cac132ca77</field>
+    <field name="parent_unittitles_ssm">Oversize</field>
+    <field name="parent_unittitles_ssm">Series II Subseries B Oversize</field>
+    <field name="parent_unittitles_teim">Oversize</field>
+    <field name="parent_unittitles_teim">Series II Subseries B Oversize</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Eye and Ear Theater Archive</field>
+    <field name="collection_ssm">Eye and Ear Theater Archive</field>
+    <field name="collection_unitid_ssm">MSS.195/repositories/3/resources/1744</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Poster - City Junket</field>
+    <field name="unittitle_teim">Poster - City Junket</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/755934</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/755934</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_7d0e20b0ae62587aaf723e79f85349cd</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Flat-File-Folder: 17</field>
+    <field name="location_si">Flat-File-Folder: 17</field>
+    <field name="collection_teim">Eye and Ear Theater Archive</field>
+    <field name="collection_unitid_teim">MSS.195/repositories/3/resources/1744</field>
+    <field name="series_sim">Oversize</field>
+    <field name="series_sim">Series II Subseries B Oversize</field>
+    <field name="series_si">Oversize &gt;&gt; Series II Subseries B Oversize &gt;&gt; Poster - City Junket</field>
+    <field name="heading_ssm">Poster - City Junket</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">119</field>
+  </doc>
+</add>

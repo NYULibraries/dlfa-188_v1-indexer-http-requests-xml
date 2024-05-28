@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_374aspace_ref12</field>
+    <field name="ead_ssi">mss_374</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Series I: Zines by NYU Students</field>
+    <field name="parent_unittitles_ssm">Subseries A: Zines by Jonathan Berger's Students</field>
+    <field name="parent_unittitles_teim">Series I: Zines by NYU Students</field>
+    <field name="parent_unittitles_teim">Subseries A: Zines by Jonathan Berger's Students</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fales Zine Collection</field>
+    <field name="collection_ssm">Fales Zine Collection</field>
+    <field name="collection_unitid_ssm">MSS.374</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Jonathan Berger's Class</field>
+    <field name="unittitle_teim">Jonathan Berger's Class</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref12</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Fales Zine Collection</field>
+    <field name="collection_unitid_teim">MSS.374</field>
+    <field name="series_sim">Series I: Zines by NYU Students</field>
+    <field name="series_sim">Subseries A: Zines by Jonathan Berger's Students</field>
+    <field name="series_si">Series I: Zines by NYU Students &gt;&gt; Subseries A: Zines by Jonathan Berger's Students &gt;&gt; Jonathan Berger's Class</field>
+    <field name="heading_ssm">Jonathan Berger's Class</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

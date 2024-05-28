@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_292aspace_ref1870</field>
+    <field name="ead_ssi">mss_292</field>
+    <field name="parent_ssi">aspace_ref29</field>
+    <field name="parent_ssm">aspace_ref24</field>
+    <field name="parent_ssm">aspace_ref29</field>
+    <field name="parent_unittitles_ssm">Series VI: Yoshio Kishi's Files</field>
+    <field name="parent_unittitles_ssm">Subseries F: Subject Files</field>
+    <field name="parent_unittitles_teim">Series VI: Yoshio Kishi's Files</field>
+    <field name="parent_unittitles_teim">Subseries F: Subject Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_ssm">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_unitid_ssm">MSS.292/repositories/3/resources/1809</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Walcott, Derek</field>
+    <field name="unittitle_teim">Walcott, Derek</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/546394</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/546394</field>
+    <field name="unitdate_normal_ssm">1991/1994</field>
+    <field name="unitdate_normal_teim">1991/1994</field>
+    <field name="unitdate_normal_sim">1991/1994</field>
+    <field name="unitdate_inclusive_teim">1991-1994</field>
+    <field name="ref_ssi">aspace_ref1870</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 39, Folder: 60</field>
+    <field name="location_ssm">Folder: 60</field>
+    <field name="location_ssm">Flat-File-Folder: 1</field>
+    <field name="location_si">Flat-File-Folder: 1</field>
+    <field name="collection_teim">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_unitid_teim">MSS.292/repositories/3/resources/1809</field>
+    <field name="series_sim">Series VI: Yoshio Kishi's Files</field>
+    <field name="series_sim">Subseries F: Subject Files</field>
+    <field name="series_si">Series VI: Yoshio Kishi's Files &gt;&gt; Subseries F: Subject Files &gt;&gt; Walcott, Derek</field>
+    <field name="heading_ssm">Walcott, Derek</field>
+    <field name="unitdate_start_sim">1991</field>
+    <field name="unitdate_start_ssm">1991</field>
+    <field name="unitdate_start_si">1991</field>
+    <field name="unitdate_end_sim">1994</field>
+    <field name="unitdate_end_ssm">1994</field>
+    <field name="unitdate_end_si">1994</field>
+    <field name="unitdate_ssm">Inclusive, 1991-1994</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1894</field>
+  </doc>
+</add>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_426aspace_ref370</field>
+    <field name="ead_ssi">mss_426</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Video recordings</field>
+    <field name="parent_unittitles_teim">Series I: Video recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Gay USA Collection</field>
+    <field name="collection_ssm">Gay USA Collection</field>
+    <field name="collection_unitid_ssm">MSS.426</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Gay USA 12/30/2004 - G. Steinem</field>
+    <field name="unittitle_teim">Gay USA 12/30/2004 - G. Steinem</field>
+    <field name="unitid_teim">ID: 426.0121</field>
+    <field name="unitid_ssm">ID: 426.0121</field>
+    <field name="unitdate_normal_ssm">2004/2004</field>
+    <field name="unitdate_normal_teim">2004/2004</field>
+    <field name="unitdate_normal_sim">2004/2004</field>
+    <field name="unitdate_inclusive_teim">December 30, 2004</field>
+    <field name="phystech_teim">Color, sound</field>
+    <field name="phystech_teim">Duration: 60 minutes</field>
+    <field name="phystech_teim">Original format: VHS</field>
+    <field name="ref_ssi">aspace_ref370</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Media: ID: 426.0121</field>
+    <field name="location_ssm">Media: ID: 426.0121</field>
+    <field name="location_si">Media: ID: 426.0121</field>
+    <field name="collection_teim">Gay USA Collection</field>
+    <field name="collection_unitid_teim">MSS.426</field>
+    <field name="series_sim">Series I: Video recordings</field>
+    <field name="series_si">Series I: Video recordings &gt;&gt; Gay USA 12/30/2004 - G. Steinem</field>
+    <field name="heading_ssm">Gay USA 12/30/2004 - G. Steinem</field>
+    <field name="unitdate_start_sim">2004</field>
+    <field name="unitdate_start_ssm">2004</field>
+    <field name="unitdate_start_si">2004</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, December 30, 2004</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">159</field>
+  </doc>
+</add>

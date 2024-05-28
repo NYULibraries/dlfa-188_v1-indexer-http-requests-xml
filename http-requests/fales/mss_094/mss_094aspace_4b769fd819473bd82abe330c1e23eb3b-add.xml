@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_094aspace_4b769fd819473bd82abe330c1e23eb3b</field>
+    <field name="ead_ssi">mss_094</field>
+    <field name="parent_ssi">aspace_ref1001</field>
+    <field name="parent_ssm">aspace_ref1000</field>
+    <field name="parent_ssm">aspace_ref1001</field>
+    <field name="parent_unittitles_ssm">OVERSIZE Series B: Building</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Judson Memorial Church Building</field>
+    <field name="parent_unittitles_teim">OVERSIZE Series B: Building</field>
+    <field name="parent_unittitles_teim">Subseries 1: Judson Memorial Church Building</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Judson Memorial Church Archive</field>
+    <field name="collection_ssm">Judson Memorial Church Archive</field>
+    <field name="collection_unitid_ssm">MSS.094/repositories/3/resources/1664</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Architectural plans</field>
+    <field name="unittitle_teim">Architectural plans</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/756119</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/756119</field>
+    <field name="ref_ssi">aspace_4b769fd819473bd82abe330c1e23eb3b</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Judson Memorial Church Archive</field>
+    <field name="collection_unitid_teim">MSS.094/repositories/3/resources/1664</field>
+    <field name="series_sim">OVERSIZE Series B: Building</field>
+    <field name="series_sim">Subseries 1: Judson Memorial Church Building</field>
+    <field name="series_si">OVERSIZE Series B: Building &gt;&gt; Subseries 1: Judson Memorial Church Building &gt;&gt; Architectural plans</field>
+    <field name="heading_ssm">Architectural plans</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5998</field>
+  </doc>
+</add>

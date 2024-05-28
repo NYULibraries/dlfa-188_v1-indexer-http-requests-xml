@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_031aspace_ref152</field>
+    <field name="ead_ssi">mss_031</field>
+    <field name="parent_ssi">aspace_ref111</field>
+    <field name="parent_ssm">aspace_ref110</field>
+    <field name="parent_ssm">aspace_ref111</field>
+    <field name="parent_unittitles_ssm">Series II: Works by William Zinsser</field>
+    <field name="parent_unittitles_ssm">Subseries A, Manuscripts</field>
+    <field name="parent_unittitles_teim">Series II: Works by William Zinsser</field>
+    <field name="parent_unittitles_teim">Subseries A, Manuscripts</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">William Zinsser Papers</field>
+    <field name="collection_ssm">William Zinsser Papers</field>
+    <field name="collection_unitid_ssm">MSS.031</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">&lt;em&gt;Willie &amp;amp; Dwike&lt;/em&gt;, corrected manuscript, Chps. 6-7</field>
+    <field name="unittitle_teim">Willie &amp; Dwike, corrected manuscript, Chps. 6-7</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="title_teim">Willie &amp; Dwike</field>
+    <field name="title_ssm">Willie &amp; Dwike</field>
+    <field name="ref_ssi">aspace_ref152</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 36</field>
+    <field name="location_ssm">Folder: 36</field>
+    <field name="location_si">Folder: 36</field>
+    <field name="collection_teim">William Zinsser Papers</field>
+    <field name="collection_unitid_teim">MSS.031</field>
+    <field name="series_sim">Series II: Works by William Zinsser</field>
+    <field name="series_sim">Subseries A, Manuscripts</field>
+    <field name="series_si">Series II: Works by William Zinsser &gt;&gt; Subseries A, Manuscripts &gt;&gt; &lt;em&gt;Willie &amp;amp; Dwike&lt;/em&gt;, corrected manuscript, Chps. 6-7</field>
+    <field name="heading_ssm">Willie &amp; Dwike, corrected manuscript, Chps. 6-7</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">151</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_071aspace_ref18</field>
+    <field name="ead_ssi">mss_071</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Press Releases, Press Advisories, Press Office List of Files</field>
+    <field name="parent_unittitles_teim">Series I: Press Releases, Press Advisories, Press Office List of Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Carol Bellamy Papers</field>
+    <field name="collection_ssm">Carol Bellamy Papers</field>
+    <field name="collection_unitid_ssm">MSS.071</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Press Releases</field>
+    <field name="unittitle_teim">Press Releases</field>
+    <field name="unitid_teim">31142040611728</field>
+    <field name="unitid_ssm">31142040611728</field>
+    <field name="unitdate_teim">Jan 1983-June 1984</field>
+    <field name="ref_ssi">aspace_ref18</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: I.04</field>
+    <field name="location_si">Box: I.04</field>
+    <field name="collection_teim">Carol Bellamy Papers</field>
+    <field name="collection_unitid_teim">MSS.071</field>
+    <field name="series_sim">Series I: Press Releases, Press Advisories, Press Office List of Files</field>
+    <field name="series_si">Series I: Press Releases, Press Advisories, Press Office List of Files &gt;&gt; Press Releases</field>
+    <field name="heading_ssm">Press Releases</field>
+    <field name="unitdate_ssm">Jan 1983-June 1984</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

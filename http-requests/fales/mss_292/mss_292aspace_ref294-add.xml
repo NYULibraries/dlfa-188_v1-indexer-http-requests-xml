@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_292aspace_ref294</field>
+    <field name="ead_ssi">mss_292</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref5</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series II: History and Politics</field>
+    <field name="parent_unittitles_ssm">Subseries C: Chinese Americans</field>
+    <field name="parent_unittitles_teim">Series II: History and Politics</field>
+    <field name="parent_unittitles_teim">Subseries C: Chinese Americans</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_ssm">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_unitid_ssm">MSS.292/repositories/3/resources/1809</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Chinese classics in miniature - partial set of pamphlets published by Quon-Quon company]</field>
+    <field name="unittitle_teim">[Chinese classics in miniature - partial set of pamphlets published by Quon-Quon company]</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/544754</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/544754</field>
+    <field name="unitdate_normal_ssm">1944/1945</field>
+    <field name="unitdate_normal_teim">1944/1945</field>
+    <field name="unitdate_normal_sim">1944/1945</field>
+    <field name="unitdate_inclusive_teim">1944-1945</field>
+    <field name="ref_ssi">aspace_ref294</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_unitid_teim">MSS.292/repositories/3/resources/1809</field>
+    <field name="series_sim">Series II: History and Politics</field>
+    <field name="series_sim">Subseries C: Chinese Americans</field>
+    <field name="series_si">Series II: History and Politics &gt;&gt; Subseries C: Chinese Americans &gt;&gt; [Chinese classics in miniature - partial set of pamphlets published by Quon-Quon company]</field>
+    <field name="heading_ssm">[Chinese classics in miniature - partial set of pamphlets published by Quon-Quon company]</field>
+    <field name="unitdate_start_sim">1944</field>
+    <field name="unitdate_start_ssm">1944</field>
+    <field name="unitdate_start_si">1944</field>
+    <field name="unitdate_end_sim">1945</field>
+    <field name="unitdate_end_ssm">1945</field>
+    <field name="unitdate_end_si">1945</field>
+    <field name="unitdate_ssm">Inclusive, 1944-1945</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">256</field>
+  </doc>
+</add>

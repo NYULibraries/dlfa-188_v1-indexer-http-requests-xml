@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_100aspace_ref73</field>
+    <field name="ead_ssi">mss_100</field>
+    <field name="parent_ssi">aspace_ref42</field>
+    <field name="parent_ssm">aspace_ref42</field>
+    <field name="parent_unittitles_ssm">Series II: Mendez Garden and other Lower East Side garden controversies</field>
+    <field name="parent_unittitles_teim">Series II: Mendez Garden and other Lower East Side garden controversies</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mendez Mural Community Garden Archive</field>
+    <field name="collection_ssm">Mendez Mural Community Garden Archive</field>
+    <field name="collection_unitid_ssm">MSS.100</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Newspapers re: N.Y.C.</field>
+    <field name="unittitle_teim">Newspapers re: N.Y.C.</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref73</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Mendez Mural Community Garden Archive</field>
+    <field name="collection_unitid_teim">MSS.100</field>
+    <field name="series_sim">Series II: Mendez Garden and other Lower East Side garden controversies</field>
+    <field name="series_si">Series II: Mendez Garden and other Lower East Side garden controversies &gt;&gt; Newspapers re: N.Y.C.</field>
+    <field name="heading_ssm">Newspapers re: N.Y.C.</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">33</field>
+  </doc>
+</add>

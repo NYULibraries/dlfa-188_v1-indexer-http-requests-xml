@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_255aspace_ref84</field>
+    <field name="ead_ssi">mss_255</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series II: Ephemera</field>
+    <field name="parent_unittitles_teim">Series II: Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Abraham Singer Papers</field>
+    <field name="collection_ssm">Abraham Singer Papers</field>
+    <field name="collection_unitid_ssm">MSS.255</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">A freilicher yid 2p metro</field>
+    <field name="unittitle_teim">A freilicher yid 2p metro</field>
+    <field name="unitdate_teim">1930</field>
+    <field name="ref_ssi">aspace_ref84</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Abraham Singer Papers</field>
+    <field name="collection_unitid_teim">MSS.255</field>
+    <field name="series_sim">Series II: Ephemera</field>
+    <field name="series_si">Series II: Ephemera &gt;&gt; A freilicher yid 2p metro</field>
+    <field name="heading_ssm">A freilicher yid 2p metro</field>
+    <field name="unitdate_ssm">1930</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">78</field>
+  </doc>
+</add>

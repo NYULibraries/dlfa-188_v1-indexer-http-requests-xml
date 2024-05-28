@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_093aspace_ref323</field>
+    <field name="ead_ssi">mss_093</field>
+    <field name="parent_ssi">aspace_ref303</field>
+    <field name="parent_ssm">aspace_ref302</field>
+    <field name="parent_ssm">aspace_ref303</field>
+    <field name="parent_unittitles_ssm">Series V: Business</field>
+    <field name="parent_unittitles_ssm">Subseries A. General</field>
+    <field name="parent_unittitles_teim">Series V: Business</field>
+    <field name="parent_unittitles_teim">Subseries A. General</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Watts Papers</field>
+    <field name="collection_ssm">John Watts Papers</field>
+    <field name="collection_unitid_ssm">MSS.093</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Fellowship in Prayer (Editorial business)</field>
+    <field name="unittitle_teim">Fellowship in Prayer (Editorial business)</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref323</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18, Folder: 20</field>
+    <field name="location_ssm">Folder: 20</field>
+    <field name="location_si">Folder: 20</field>
+    <field name="collection_teim">John Watts Papers</field>
+    <field name="collection_unitid_teim">MSS.093</field>
+    <field name="series_sim">Series V: Business</field>
+    <field name="series_sim">Subseries A. General</field>
+    <field name="series_si">Series V: Business &gt;&gt; Subseries A. General &gt;&gt; Fellowship in Prayer (Editorial business)</field>
+    <field name="heading_ssm">Fellowship in Prayer (Editorial business)</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">305</field>
+  </doc>
+</add>

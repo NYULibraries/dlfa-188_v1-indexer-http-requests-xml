@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_130aspace_ref300</field>
+    <field name="ead_ssi">mss_130</field>
+    <field name="parent_ssi">aspace_ref289</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref289</field>
+    <field name="parent_unittitles_ssm">Series I: Music</field>
+    <field name="parent_unittitles_ssm">Subseries D: Music - Choral Collections</field>
+    <field name="parent_unittitles_teim">Series I: Music</field>
+    <field name="parent_unittitles_teim">Subseries D: Music - Choral Collections</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Liederkranz Collection</field>
+    <field name="collection_ssm">Liederkranz Collection</field>
+    <field name="collection_unitid_ssm">MSS.130/repositories/3/resources/1693</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Liederbuch des Deutschen Sängerbundes," part books for Bass I (vol. 1- 3) and Bass II (vol. 1-3).</field>
+    <field name="unittitle_teim">"Liederbuch des Deutschen Sängerbundes," part books for Bass I (vol. 1- 3) and Bass II (vol. 1-3).</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/896574</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/896574</field>
+    <field name="unitdate_normal_ssm">1911/1911</field>
+    <field name="unitdate_normal_teim">1911/1911</field>
+    <field name="unitdate_normal_sim">1911/1911</field>
+    <field name="unitdate_inclusive_teim">1911</field>
+    <field name="ref_ssi">aspace_ref300</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: I.D.17, Folder: 137</field>
+    <field name="location_ssm">Folder: 137</field>
+    <field name="location_si">Folder: 137</field>
+    <field name="collection_teim">Liederkranz Collection</field>
+    <field name="collection_unitid_teim">MSS.130/repositories/3/resources/1693</field>
+    <field name="series_sim">Series I: Music</field>
+    <field name="series_sim">Subseries D: Music - Choral Collections</field>
+    <field name="series_si">Series I: Music &gt;&gt; Subseries D: Music - Choral Collections &gt;&gt; "Liederbuch des Deutschen Sängerbundes," part books for Bass I (vol. 1- 3) and Bass II (vol. 1-3).</field>
+    <field name="heading_ssm">"Liederbuch des Deutschen Sängerbundes," part books for Bass I (vol. 1- 3) and Bass II (vol. 1-3).</field>
+    <field name="unitdate_start_sim">1911</field>
+    <field name="unitdate_start_ssm">1911</field>
+    <field name="unitdate_start_si">1911</field>
+    <field name="unitdate_end_sim">1911</field>
+    <field name="unitdate_end_ssm">1911</field>
+    <field name="unitdate_end_si">1911</field>
+    <field name="unitdate_ssm">Inclusive, 1911</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">150</field>
+  </doc>
+</add>

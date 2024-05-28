@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_214aspace_ref5201</field>
+    <field name="ead_ssi">mss_214</field>
+    <field name="parent_ssi">aspace_ref5128</field>
+    <field name="parent_ssm">aspace_ref5128</field>
+    <field name="parent_unittitles_ssm">Series IV: Miscellaneous (flat box)</field>
+    <field name="parent_unittitles_teim">Series IV: Miscellaneous (flat box)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">James Beard Foundation Archive</field>
+    <field name="collection_ssm">James Beard Foundation Archive</field>
+    <field name="collection_unitid_ssm">MSS.214</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Quebec</field>
+    <field name="unittitle_teim">Quebec</field>
+    <field name="unitdate_teim">[undated]</field>
+    <field name="ref_ssi">aspace_ref5201</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 58, Folder: 44</field>
+    <field name="location_ssm">Folder: 44, Box: data_value_missing_9f3a1d59f3995ccbc839e75348323fe5</field>
+    <field name="location_ssm">Box: data_value_missing_9f3a1d59f3995ccbc839e75348323fe5</field>
+    <field name="location_si">Box: data_value_missing_9f3a1d59f3995ccbc839e75348323fe5</field>
+    <field name="collection_teim">James Beard Foundation Archive</field>
+    <field name="collection_unitid_teim">MSS.214</field>
+    <field name="series_sim">Series IV: Miscellaneous (flat box)</field>
+    <field name="series_si">Series IV: Miscellaneous (flat box) &gt;&gt; Quebec</field>
+    <field name="heading_ssm">Quebec</field>
+    <field name="unitdate_ssm">[undated]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5098</field>
+  </doc>
+</add>

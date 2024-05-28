@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_355aspace_ref164</field>
+    <field name="ead_ssi">mss_355</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Performance Overview Subject Files A-Z</field>
+    <field name="parent_unittitles_teim">Series I: Performance Overview Subject Files A-Z</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Stefan Brecht Papers</field>
+    <field name="collection_ssm">Stefan Brecht Papers</field>
+    <field name="collection_unitid_ssm">MSS.355/repositories/3/resources/1851</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Katz, Leandro- "Mirror on the Moon"</field>
+    <field name="unittitle_teim">Katz, Leandro- "Mirror on the Moon"</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/575506</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/575506</field>
+    <field name="unitdate_normal_ssm">1983/1985</field>
+    <field name="unitdate_normal_teim">1983/1985</field>
+    <field name="unitdate_normal_sim">1983/1985</field>
+    <field name="unitdate_inclusive_teim">[1983-1985]</field>
+    <field name="ref_ssi">aspace_ref164</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 16</field>
+    <field name="location_ssm">Folder: 16</field>
+    <field name="location_si">Folder: 16</field>
+    <field name="collection_teim">Stefan Brecht Papers</field>
+    <field name="collection_unitid_teim">MSS.355/repositories/3/resources/1851</field>
+    <field name="series_sim">Series I: Performance Overview Subject Files A-Z</field>
+    <field name="series_si">Series I: Performance Overview Subject Files A-Z &gt;&gt; Katz, Leandro- "Mirror on the Moon"</field>
+    <field name="heading_ssm">Katz, Leandro- "Mirror on the Moon"</field>
+    <field name="unitdate_start_sim">1983</field>
+    <field name="unitdate_start_ssm">1983</field>
+    <field name="unitdate_start_si">1983</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_si">1985</field>
+    <field name="unitdate_ssm">Inclusive, [1983-1985]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">130</field>
+  </doc>
+</add>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref373</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref363</field>
+    <field name="parent_ssm">aspace_ref92</field>
+    <field name="parent_ssm">aspace_ref363</field>
+    <field name="parent_unittitles_ssm">Series III: Manuscripts</field>
+    <field name="parent_unittitles_ssm">Subseries F: Scripts/Plays</field>
+    <field name="parent_unittitles_teim">Series III: Manuscripts</field>
+    <field name="parent_unittitles_teim">Subseries F: Scripts/Plays</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Untitled script</field>
+    <field name="unittitle_teim">Untitled script</field>
+    <field name="unitid_teim">cuid26426</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/424384</field>
+    <field name="unitid_ssm">cuid26426</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/424384</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref373</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 269</field>
+    <field name="location_ssm">Folder: 269</field>
+    <field name="location_si">Folder: 269</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Series III: Manuscripts</field>
+    <field name="series_sim">Subseries F: Scripts/Plays</field>
+    <field name="series_si">Series III: Manuscripts &gt;&gt; Subseries F: Scripts/Plays &gt;&gt; Untitled script</field>
+    <field name="heading_ssm">Untitled script</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">359</field>
+  </doc>
+</add>

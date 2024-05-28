@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_512aspace_80336ac3549fb7daca52e2991d012481</field>
+    <field name="ead_ssi">mss_512</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Pollack Collection of Cereal Boxes</field>
+    <field name="collection_ssm">David Pollack Collection of Cereal Boxes</field>
+    <field name="collection_unitid_ssm">MSS.512</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cereal Boxes, 1970s</field>
+    <field name="unittitle_teim">Cereal Boxes, 1970s</field>
+    <field name="unitdate_normal_ssm">1970/1979</field>
+    <field name="unitdate_normal_teim">1970/1979</field>
+    <field name="unitdate_normal_sim">1970/1979</field>
+    <field name="unitdate_inclusive_teim">1970s</field>
+    <field name="ref_ssi">aspace_80336ac3549fb7daca52e2991d012481</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_ssm">Box: 4</field>
+    <field name="location_ssm">Box: 9</field>
+    <field name="location_ssm">Box: 14</field>
+    <field name="location_si">Box: 14</field>
+    <field name="collection_teim">David Pollack Collection of Cereal Boxes</field>
+    <field name="collection_unitid_teim">MSS.512</field>
+    <field name="series_si">Cereal Boxes, 1970s</field>
+    <field name="heading_ssm">Cereal Boxes, 1970s</field>
+    <field name="unitdate_start_sim">1970</field>
+    <field name="unitdate_start_ssm">1970</field>
+    <field name="unitdate_start_si">1970</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, 1970s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

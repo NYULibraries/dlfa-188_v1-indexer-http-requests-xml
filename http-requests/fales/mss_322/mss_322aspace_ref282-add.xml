@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_322aspace_ref282</field>
+    <field name="ead_ssi">mss_322</field>
+    <field name="parent_ssi">aspace_ref259</field>
+    <field name="parent_ssm">aspace_ref259</field>
+    <field name="parent_unittitles_ssm">Series III: Photographs</field>
+    <field name="parent_unittitles_teim">Series III: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Pam Butler Good Girl Archive</field>
+    <field name="collection_ssm">Pam Butler Good Girl Archive</field>
+    <field name="collection_unitid_ssm">MSS.322</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photographs, slides and negatives</field>
+    <field name="unittitle_teim">Photographs, slides and negatives</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref282</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">binder: E</field>
+    <field name="location_si">binder: E</field>
+    <field name="collection_teim">Pam Butler Good Girl Archive</field>
+    <field name="collection_unitid_teim">MSS.322</field>
+    <field name="series_sim">Series III: Photographs</field>
+    <field name="series_si">Series III: Photographs &gt;&gt; Photographs, slides and negatives</field>
+    <field name="heading_ssm">Photographs, slides and negatives</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">64</field>
+  </doc>
+</add>

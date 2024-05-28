@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_133aspace_ref968</field>
+    <field name="ead_ssi">mss_133</field>
+    <field name="parent_ssi">aspace_ref967</field>
+    <field name="parent_ssm">aspace_ref967</field>
+    <field name="parent_unittitles_ssm">Series IV: Photographs</field>
+    <field name="parent_unittitles_teim">Series IV: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mabou Mines Archive</field>
+    <field name="collection_ssm">Mabou Mines Archive</field>
+    <field name="collection_unitid_ssm">MSS.133/repositories/3/resources/1696</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Production photographs</field>
+    <field name="unittitle_teim">Subseries A: Production photographs</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/457684</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/457684</field>
+    <field name="scopecontent_teim">Documentary photographs of many Mabou Mines productions. Series is arranged alphabetically by production. Within each production the original order established by Mabou Mines was retained. Generally, this means the work of individual photographers is grouped, and prints usually appear before negatives or contact sheets. There is a semblance of chronology, though many photographs are undated.</field>
+    <field name="ref_ssi">aspace_ref968</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mabou Mines Archive</field>
+    <field name="collection_unitid_teim">MSS.133/repositories/3/resources/1696</field>
+    <field name="series_sim">Series IV: Photographs</field>
+    <field name="series_si">Series IV: Photographs &gt;&gt; Subseries A: Production photographs</field>
+    <field name="heading_ssm">Subseries A: Production photographs</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1208</field>
+  </doc>
+</add>

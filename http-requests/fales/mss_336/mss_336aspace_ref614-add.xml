@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_336aspace_ref614</field>
+    <field name="ead_ssi">mss_336</field>
+    <field name="parent_ssi">aspace_ref455</field>
+    <field name="parent_ssm">aspace_ref453</field>
+    <field name="parent_ssm">aspace_ref455</field>
+    <field name="parent_unittitles_ssm">Series II: Media</field>
+    <field name="parent_unittitles_ssm">Subseries A: Media</field>
+    <field name="parent_unittitles_teim">Series II: Media</field>
+    <field name="parent_unittitles_teim">Subseries A: Media</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Greenwall Foundation Archive</field>
+    <field name="collection_ssm">Greenwall Foundation Archive</field>
+    <field name="collection_unitid_ssm">MSS.336</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Darkling: a music-theatre piece</field>
+    <field name="unittitle_teim">Darkling: a music-theatre piece</field>
+    <field name="unitid_teim">ID: 336.0057</field>
+    <field name="unitid_ssm">ID: 336.0057</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Original format: CD</field>
+    <field name="phystech_teim">Duration: Unknown</field>
+    <field name="ref_ssi">aspace_ref614</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Fales 063, Media: ID: 336.0057</field>
+    <field name="location_ssm">Media: ID: 336.0057</field>
+    <field name="location_si">Media: ID: 336.0057</field>
+    <field name="collection_teim">Greenwall Foundation Archive</field>
+    <field name="collection_unitid_teim">MSS.336</field>
+    <field name="series_sim">Series II: Media</field>
+    <field name="series_sim">Subseries A: Media</field>
+    <field name="series_si">Series II: Media &gt;&gt; Subseries A: Media &gt;&gt; Darkling: a music-theatre piece</field>
+    <field name="heading_ssm">Darkling: a music-theatre piece</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">465</field>
+  </doc>
+</add>

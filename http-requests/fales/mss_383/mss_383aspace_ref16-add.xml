@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_383aspace_ref16</field>
+    <field name="ead_ssi">mss_383</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Alfano</field>
+    <field name="parent_unittitles_teim">Series I: Alfano</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_ssm">MSS.383</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Il Principe Zilah</field>
+    <field name="unittitle_teim">Il Principe Zilah</field>
+    <field name="unitdate_normal_ssm">1908/1908</field>
+    <field name="unitdate_normal_teim">1908/1908</field>
+    <field name="unitdate_normal_sim">1908/1908</field>
+    <field name="unitdate_inclusive_teim">1908</field>
+    <field name="scopecontent_teim">Librettist: Illica, Luigi</field>
+    <field name="scopecontent_teim">Publication City and Publisher: Milan: Ricordi</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_teim">MSS.383</field>
+    <field name="series_sim">Series I: Alfano</field>
+    <field name="series_si">Series I: Alfano &gt;&gt; Il Principe Zilah</field>
+    <field name="heading_ssm">Il Principe Zilah</field>
+    <field name="unitdate_start_sim">1908</field>
+    <field name="unitdate_start_ssm">1908</field>
+    <field name="unitdate_start_si">1908</field>
+    <field name="unitdate_end_sim">1908</field>
+    <field name="unitdate_end_ssm">1908</field>
+    <field name="unitdate_end_si">1908</field>
+    <field name="unitdate_ssm">Inclusive, 1908</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

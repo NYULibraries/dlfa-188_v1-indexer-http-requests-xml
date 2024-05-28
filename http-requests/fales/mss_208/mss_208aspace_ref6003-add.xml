@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref6003</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref5998</field>
+    <field name="parent_ssm">aspace_ref1792</field>
+    <field name="parent_ssm">aspace_ref5984</field>
+    <field name="parent_ssm">aspace_ref5998</field>
+    <field name="parent_unittitles_ssm">Record Group III: Gardiner Family</field>
+    <field name="parent_unittitles_ssm">Gardiner: Oversize </field>
+    <field name="parent_unittitles_ssm">Oversize Series A, Subseries 4: Legal Papers</field>
+    <field name="parent_unittitles_teim">Record Group III: Gardiner Family</field>
+    <field name="parent_unittitles_teim">Gardiner: Oversize </field>
+    <field name="parent_unittitles_teim">Oversize Series A, Subseries 4: Legal Papers</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Will &amp;amp; Codicil - Mary McCrea [Copy]</field>
+    <field name="unittitle_teim">Will &amp; Codicil - Mary McCrea [Copy]</field>
+    <field name="unitid_teim">cuid1613</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/509560</field>
+    <field name="unitid_ssm">cuid1613</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/509560</field>
+    <field name="unitdate_normal_ssm">1818/1818</field>
+    <field name="unitdate_normal_teim">1818/1818</field>
+    <field name="unitdate_normal_sim">1818/1818</field>
+    <field name="unitdate_inclusive_teim">1818</field>
+    <field name="dao_teim">Will &amp; Codicil - Mary McCrea [Copy]: 1818</field>
+    <field name="dao_ssm">Will &amp; Codicil - Mary McCrea [Copy]: 1818</field>
+    <field name="ref_ssi">aspace_ref6003</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 144, Folder: 14</field>
+    <field name="location_ssm">Folder: 14</field>
+    <field name="location_si">Folder: 14</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group III: Gardiner Family</field>
+    <field name="series_sim">Gardiner: Oversize </field>
+    <field name="series_sim">Oversize Series A, Subseries 4: Legal Papers</field>
+    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Gardiner: Oversize  &gt;&gt; Oversize Series A, Subseries 4: Legal Papers &gt;&gt; Will &amp;amp; Codicil - Mary McCrea [Copy]</field>
+    <field name="heading_ssm">Will &amp; Codicil - Mary McCrea [Copy]</field>
+    <field name="unitdate_start_sim">1818</field>
+    <field name="unitdate_start_ssm">1818</field>
+    <field name="unitdate_start_si">1818</field>
+    <field name="unitdate_end_sim">1818</field>
+    <field name="unitdate_end_ssm">1818</field>
+    <field name="unitdate_end_si">1818</field>
+    <field name="unitdate_ssm">Inclusive, 1818</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2327</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_030aspace_ref29</field>
+    <field name="ead_ssi">mss_030</field>
+    <field name="parent_ssi">aspace_ref27</field>
+    <field name="parent_ssm">aspace_ref16</field>
+    <field name="parent_ssm">aspace_ref27</field>
+    <field name="parent_unittitles_ssm">Series One: Correspondence</field>
+    <field name="parent_unittitles_ssm">Subseries C. General Correspondence, by correspondent</field>
+    <field name="parent_unittitles_teim">Series One: Correspondence</field>
+    <field name="parent_unittitles_teim">Subseries C. General Correspondence, by correspondent</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jill "Billy" Rainsford Papers</field>
+    <field name="collection_ssm">Jill "Billy" Rainsford Papers</field>
+    <field name="collection_unitid_ssm">MSS.030</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">R.W. Chambers to Billy, 1927</field>
+    <field name="unittitle_teim">R.W. Chambers to Billy, 1927</field>
+    <field name="unitdate_teim">1927</field>
+    <field name="ref_ssi">aspace_ref29</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">Jill "Billy" Rainsford Papers</field>
+    <field name="collection_unitid_teim">MSS.030</field>
+    <field name="series_sim">Series One: Correspondence</field>
+    <field name="series_sim">Subseries C. General Correspondence, by correspondent</field>
+    <field name="series_si">Series One: Correspondence &gt;&gt; Subseries C. General Correspondence, by correspondent &gt;&gt; R.W. Chambers to Billy, 1927</field>
+    <field name="heading_ssm">R.W. Chambers to Billy, 1927</field>
+    <field name="unitdate_ssm">1927</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">14</field>
+  </doc>
+</add>

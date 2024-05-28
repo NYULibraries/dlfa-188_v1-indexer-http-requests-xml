@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_280aspace_ref12</field>
+    <field name="ead_ssi">mss_280</field>
+    <field name="parent_ssi">aspace_ref78</field>
+    <field name="parent_ssm">aspace_ref78</field>
+    <field name="parent_unittitles_ssm">Series I: Zines and Related Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Zines and Related Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Milly Itzhak Riot Grrrl Collection</field>
+    <field name="collection_ssm">Milly Itzhak Riot Grrrl Collection</field>
+    <field name="collection_unitid_ssm">MSS.280</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Carrot #2</field>
+    <field name="unittitle_teim">Carrot #2</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref12</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Milly Itzhak Riot Grrrl Collection</field>
+    <field name="collection_unitid_teim">MSS.280</field>
+    <field name="series_sim">Series I: Zines and Related Correspondence</field>
+    <field name="series_si">Series I: Zines and Related Correspondence &gt;&gt; Carrot #2</field>
+    <field name="heading_ssm">Carrot #2</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

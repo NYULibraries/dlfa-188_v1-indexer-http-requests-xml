@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_202aspace_ref17</field>
+    <field name="ead_ssi">mss_202</field>
+    <field name="parent_ssi">aspace_ref16</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref16</field>
+    <field name="parent_unittitles_ssm">Series I: Prints by project</field>
+    <field name="parent_unittitles_ssm">Subseries B: Submission</field>
+    <field name="parent_unittitles_teim">Series I: Prints by project</field>
+    <field name="parent_unittitles_teim">Subseries B: Submission</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jimmy De Sana Papers</field>
+    <field name="collection_ssm">Jimmy De Sana Papers</field>
+    <field name="collection_unitid_ssm">MSS.202</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt; Title: Dog &lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+       Title: Dog 
+    </field>
+    <field name="unitdate_teim">1978-1979</field>
+    <field name="phystech_teim">
+       Description:
+    </field>
+    <field name="phystech_teim"> Process: Silver Gelatin </field>
+    <field name="phystech_teim"> Number of Items:  1 </field>
+    <field name="ref_ssi">aspace_ref17</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 				</field>
+    <field name="location_ssm">Folder: 				</field>
+    <field name="location_si">Folder: 				</field>
+    <field name="collection_teim">Jimmy De Sana Papers</field>
+    <field name="collection_unitid_teim">MSS.202</field>
+    <field name="series_sim">Series I: Prints by project</field>
+    <field name="series_sim">Subseries B: Submission</field>
+    <field name="series_si">Series I: Prints by project &gt;&gt; Subseries B: Submission &gt;&gt; 
+      &lt;strong&gt; Title: Dog &lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+       Title: Dog 
+    </field>
+    <field name="unitdate_ssm">1978-1979</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

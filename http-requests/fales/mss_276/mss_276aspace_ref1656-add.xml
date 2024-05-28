@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_276aspace_ref1656</field>
+    <field name="ead_ssi">mss_276</field>
+    <field name="parent_ssi">aspace_ref1655</field>
+    <field name="parent_ssm">aspace_ref1655</field>
+    <field name="parent_unittitles_ssm">Series VII: Video recordings</field>
+    <field name="parent_unittitles_teim">Series VII: Video recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Paper Tiger Television Archive</field>
+    <field name="collection_ssm">The Paper Tiger Television Archive</field>
+    <field name="collection_unitid_ssm">MSS.276/repositories/3/resources/1800</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: PTTV - Broadcast Videotapes</field>
+    <field name="unittitle_teim">Subseries A: PTTV - Broadcast Videotapes</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/540136</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/540136</field>
+    <field name="scopecontent_teim">Subseries A: Broadcast Videotapes contains programs created by Paper Tiger Television and aired on public access television.</field>
+    <field name="ref_ssi">aspace_ref1656</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Paper Tiger Television Archive</field>
+    <field name="collection_unitid_teim">MSS.276/repositories/3/resources/1800</field>
+    <field name="series_sim">Series VII: Video recordings</field>
+    <field name="series_si">Series VII: Video recordings &gt;&gt; Subseries A: PTTV - Broadcast Videotapes</field>
+    <field name="heading_ssm">Subseries A: PTTV - Broadcast Videotapes</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1600</field>
+  </doc>
+</add>

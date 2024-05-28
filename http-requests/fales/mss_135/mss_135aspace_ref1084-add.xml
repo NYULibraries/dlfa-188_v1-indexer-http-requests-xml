@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_135aspace_ref1084</field>
+    <field name="ead_ssi">mss_135</field>
+    <field name="parent_ssi">aspace_ref1071</field>
+    <field name="parent_ssm">aspace_ref1070</field>
+    <field name="parent_ssm">aspace_ref1071</field>
+    <field name="parent_unittitles_ssm">Series III: Correspondence and Manuscripts</field>
+    <field name="parent_unittitles_ssm">Subseries A: Last Name</field>
+    <field name="parent_unittitles_teim">Series III: Correspondence and Manuscripts</field>
+    <field name="parent_unittitles_teim">Subseries A: Last Name</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Frank Moore Papers</field>
+    <field name="collection_ssm">Frank Moore Papers</field>
+    <field name="collection_unitid_ssm">MSS.135/repositories/3/resources/1698</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Bibo, James Stuart</field>
+    <field name="unittitle_teim">Bibo, James Stuart</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/461715</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/461715</field>
+    <field name="unitdate_teim">1998</field>
+    <field name="ref_ssi">aspace_ref1084</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, Folder: 585</field>
+    <field name="location_ssm">Folder: 585</field>
+    <field name="location_si">Folder: 585</field>
+    <field name="collection_teim">Frank Moore Papers</field>
+    <field name="collection_unitid_teim">MSS.135/repositories/3/resources/1698</field>
+    <field name="series_sim">Series III: Correspondence and Manuscripts</field>
+    <field name="series_sim">Subseries A: Last Name</field>
+    <field name="series_si">Series III: Correspondence and Manuscripts &gt;&gt; Subseries A: Last Name &gt;&gt; Bibo, James Stuart</field>
+    <field name="heading_ssm">Bibo, James Stuart</field>
+    <field name="unitdate_ssm">1998</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">592</field>
+  </doc>
+</add>

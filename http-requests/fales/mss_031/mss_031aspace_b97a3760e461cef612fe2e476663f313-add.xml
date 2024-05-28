@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_031aspace_b97a3760e461cef612fe2e476663f313</field>
+    <field name="ead_ssi">mss_031</field>
+    <field name="parent_ssi">aspace_ref111</field>
+    <field name="parent_ssm">aspace_ref110</field>
+    <field name="parent_ssm">aspace_ref111</field>
+    <field name="parent_unittitles_ssm">Series II: Works by William Zinsser</field>
+    <field name="parent_unittitles_ssm">Subseries A, Manuscripts</field>
+    <field name="parent_unittitles_teim">Series II: Works by William Zinsser</field>
+    <field name="parent_unittitles_teim">Subseries A, Manuscripts</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">William Zinsser Papers</field>
+    <field name="collection_ssm">William Zinsser Papers</field>
+    <field name="collection_unitid_ssm">MSS.031</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Writing Places, 4 CD set</field>
+    <field name="unittitle_teim">Writing Places, 4 CD set</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_teim">2009</field>
+    <field name="ref_ssi">aspace_b97a3760e461cef612fe2e476663f313</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13</field>
+    <field name="location_si">Box: 13</field>
+    <field name="collection_teim">William Zinsser Papers</field>
+    <field name="collection_unitid_teim">MSS.031</field>
+    <field name="series_sim">Series II: Works by William Zinsser</field>
+    <field name="series_sim">Subseries A, Manuscripts</field>
+    <field name="series_si">Series II: Works by William Zinsser &gt;&gt; Subseries A, Manuscripts &gt;&gt; Writing Places, 4 CD set</field>
+    <field name="heading_ssm">Writing Places, 4 CD set</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">156</field>
+  </doc>
+</add>

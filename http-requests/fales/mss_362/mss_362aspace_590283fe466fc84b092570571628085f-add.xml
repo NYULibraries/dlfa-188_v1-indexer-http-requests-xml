@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_362aspace_590283fe466fc84b092570571628085f</field>
+    <field name="ead_ssi">mss_362</field>
+    <field name="parent_ssi">aspace_ref58</field>
+    <field name="parent_ssm">aspace_ref7</field>
+    <field name="parent_ssm">aspace_ref58</field>
+    <field name="parent_unittitles_ssm">Series VII: Media </field>
+    <field name="parent_unittitles_ssm">Subseries A: Video- Originals </field>
+    <field name="parent_unittitles_teim">Series VII: Media </field>
+    <field name="parent_unittitles_teim">Subseries A: Video- Originals </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mr. Lady Archive</field>
+    <field name="collection_ssm">Mr. Lady Archive</field>
+    <field name="collection_unitid_ssm">MSS.362</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Kore</field>
+    <field name="unittitle_teim">Kore</field>
+    <field name="unitid_teim">362.7010</field>
+    <field name="unitid_ssm">362.7010</field>
+    <field name="unitdate_teim">1994</field>
+    <field name="phystech_teim">VHS, 20 min.</field>
+    <field name="ref_ssi">aspace_590283fe466fc84b092570571628085f</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Cassette: 362.7010</field>
+    <field name="location_ssm">Cassette: 362.7010</field>
+    <field name="location_si">Cassette: 362.7010</field>
+    <field name="collection_teim">Mr. Lady Archive</field>
+    <field name="collection_unitid_teim">MSS.362</field>
+    <field name="series_sim">Series VII: Media </field>
+    <field name="series_sim">Subseries A: Video- Originals </field>
+    <field name="series_si">Series VII: Media  &gt;&gt; Subseries A: Video- Originals  &gt;&gt; Kore</field>
+    <field name="heading_ssm">Kore</field>
+    <field name="unitdate_ssm">1994</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">92</field>
+  </doc>
+</add>

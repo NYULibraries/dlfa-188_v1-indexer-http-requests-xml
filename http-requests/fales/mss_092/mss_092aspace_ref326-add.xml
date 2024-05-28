@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref326</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref321</field>
+    <field name="parent_ssm">aspace_ref92</field>
+    <field name="parent_ssm">aspace_ref321</field>
+    <field name="parent_unittitles_ssm">Series III: Manuscripts</field>
+    <field name="parent_unittitles_ssm">Subseries D: Monologues</field>
+    <field name="parent_unittitles_teim">Series III: Manuscripts</field>
+    <field name="parent_unittitles_teim">Subseries D: Monologues</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">"Guy on Second Ave."-with corrections</field>
+    <field name="unittitle_teim">"Guy on Second Ave."-with corrections</field>
+    <field name="unitid_teim">cuid26381</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/424337</field>
+    <field name="unitid_ssm">cuid26381</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/424337</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref326</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 224</field>
+    <field name="location_ssm">Folder: 224</field>
+    <field name="location_si">Folder: 224</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Series III: Manuscripts</field>
+    <field name="series_sim">Subseries D: Monologues</field>
+    <field name="series_si">Series III: Manuscripts &gt;&gt; Subseries D: Monologues &gt;&gt; "Guy on Second Ave."-with corrections</field>
+    <field name="heading_ssm">"Guy on Second Ave."-with corrections</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">312</field>
+  </doc>
+</add>

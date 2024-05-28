@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_343aspace_ref679</field>
+    <field name="ead_ssi">mss_343</field>
+    <field name="parent_ssi">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_unittitles_ssm">Series I: Exhibition Files</field>
+    <field name="parent_unittitles_teim">Series I: Exhibition Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Exit Art Archive</field>
+    <field name="collection_ssm">Exit Art Archive</field>
+    <field name="collection_unitid_ssm">MSS.343/repositories/3/resources/1844</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Anton van Dalen: The Memory Cabinet [1988.08]: Exhibition Travel - Cleveland State University</field>
+    <field name="unittitle_teim">Anton van Dalen: The Memory Cabinet [1988.08]: Exhibition Travel - Cleveland State University</field>
+    <field name="unitid_teim">cuid10151</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/563563</field>
+    <field name="unitid_ssm">cuid10151</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/563563</field>
+    <field name="unitdate_teim">February 10 - March 17, 1989</field>
+    <field name="ref_ssi">aspace_ref679</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18, Folder: 13</field>
+    <field name="location_ssm">Folder: 13</field>
+    <field name="location_si">Folder: 13</field>
+    <field name="collection_teim">Exit Art Archive</field>
+    <field name="collection_unitid_teim">MSS.343/repositories/3/resources/1844</field>
+    <field name="series_sim">Series I: Exhibition Files</field>
+    <field name="series_si">Series I: Exhibition Files &gt;&gt; Anton van Dalen: The Memory Cabinet [1988.08]: Exhibition Travel - Cleveland State University</field>
+    <field name="heading_ssm">Anton van Dalen: The Memory Cabinet [1988.08]: Exhibition Travel - Cleveland State University</field>
+    <field name="unitdate_ssm">February 10 - March 17, 1989</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">616</field>
+  </doc>
+</add>

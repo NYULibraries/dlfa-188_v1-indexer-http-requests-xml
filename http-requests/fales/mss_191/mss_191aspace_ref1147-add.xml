@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_191aspace_ref1147</field>
+    <field name="ead_ssi">mss_191</field>
+    <field name="parent_ssi">aspace_ref442</field>
+    <field name="parent_ssm">aspace_ref238</field>
+    <field name="parent_ssm">aspace_ref442</field>
+    <field name="parent_unittitles_ssm">Series XVIII: Red Hot + Riot</field>
+    <field name="parent_unittitles_ssm">Subseries A: Production Files</field>
+    <field name="parent_unittitles_teim">Series XVIII: Red Hot + Riot</field>
+    <field name="parent_unittitles_teim">Subseries A: Production Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Red Hot Organization Archive</field>
+    <field name="collection_ssm">Red Hot Organization Archive</field>
+    <field name="collection_unitid_ssm">MSS.191/repositories/3/resources/1741</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Me'Shell NdegéOcello session</field>
+    <field name="unittitle_teim">Me'Shell NdegéOcello session</field>
+    <field name="unitid_teim">cuid8072</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/502036</field>
+    <field name="unitid_ssm">cuid8072</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/502036</field>
+    <field name="unitdate_normal_ssm">2001/2002</field>
+    <field name="unitdate_normal_teim">2001/2002</field>
+    <field name="unitdate_normal_sim">2001/2002</field>
+    <field name="unitdate_inclusive_teim">2001-2002</field>
+    <field name="ref_ssi">aspace_ref1147</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 17, Folder: 49</field>
+    <field name="location_ssm">Folder: 49</field>
+    <field name="location_si">Folder: 49</field>
+    <field name="collection_teim">Red Hot Organization Archive</field>
+    <field name="collection_unitid_teim">MSS.191/repositories/3/resources/1741</field>
+    <field name="series_sim">Series XVIII: Red Hot + Riot</field>
+    <field name="series_sim">Subseries A: Production Files</field>
+    <field name="series_si">Series XVIII: Red Hot + Riot &gt;&gt; Subseries A: Production Files &gt;&gt; Me'Shell NdegéOcello session</field>
+    <field name="heading_ssm">Me'Shell NdegéOcello session</field>
+    <field name="unitdate_start_sim">2001</field>
+    <field name="unitdate_start_ssm">2001</field>
+    <field name="unitdate_start_si">2001</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 2001-2002</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">988</field>
+  </doc>
+</add>

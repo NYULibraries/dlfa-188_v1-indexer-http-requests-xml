@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_306aspace_ref238</field>
+    <field name="ead_ssi">mss_306</field>
+    <field name="parent_ssi">aspace_ref25</field>
+    <field name="parent_ssm">aspace_ref25</field>
+    <field name="parent_unittitles_ssm">Series II: Video</field>
+    <field name="parent_unittitles_teim">Series II: Video</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fales Library and Special Collections Audio/Video Collection</field>
+    <field name="collection_ssm">Fales Library and Special Collections Audio/Video Collection</field>
+    <field name="collection_unitid_ssm">MSS.306</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Portrait of Dale Goodson, A: NOT Performance Art, part 3</field>
+    <field name="unittitle_teim">Portrait of Dale Goodson, A: NOT Performance Art, part 3</field>
+    <field name="unitid_teim">cuid21574</field>
+    <field name="unitid_ssm">cuid21574</field>
+    <field name="unitdate_teim">1997</field>
+    <field name="phystech_teim">Format: VHS
+Duration: 00:45:00</field>
+    <field name="ref_ssi">aspace_ref238</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4</field>
+    <field name="location_si">Box: 4</field>
+    <field name="collection_teim">Fales Library and Special Collections Audio/Video Collection</field>
+    <field name="collection_unitid_teim">MSS.306</field>
+    <field name="series_sim">Series II: Video</field>
+    <field name="series_si">Series II: Video &gt;&gt; Portrait of Dale Goodson, A: NOT Performance Art, part 3</field>
+    <field name="heading_ssm">Portrait of Dale Goodson, A: NOT Performance Art, part 3</field>
+    <field name="unitdate_ssm">1997</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">90</field>
+  </doc>
+</add>

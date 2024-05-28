@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_156aspace_ref1257</field>
+    <field name="ead_ssi">mss_156</field>
+    <field name="parent_ssi">aspace_ref1253</field>
+    <field name="parent_ssm">aspace_ref1250</field>
+    <field name="parent_ssm">aspace_ref1253</field>
+    <field name="parent_unittitles_ssm">Series XI: Film</field>
+    <field name="parent_unittitles_ssm">Subseries B: Originals</field>
+    <field name="parent_unittitles_teim">Series XI: Film</field>
+    <field name="parent_unittitles_teim">Subseries B: Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Andrea Callard Papers</field>
+    <field name="collection_ssm">Andrea Callard Papers</field>
+    <field name="collection_unitid_ssm">MSS.156/repositories/3/resources/1716</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Untitled</field>
+    <field name="unittitle_teim">Untitled</field>
+    <field name="unitid_teim">cuid23038</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/480397</field>
+    <field name="unitid_ssm">cuid23038</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/480397</field>
+    <field name="unitdate_teim">(date of film)</field>
+    <field name="phystech_teim">Credit info:</field>
+    <field name="phystech_teim">Gauge: Super8mm</field>
+    <field name="phystech_teim">Footage count: [400 ft.]</field>
+    <field name="phystech_teim">Extent: 1/1</field>
+    <field name="phystech_teim">Annotations: No annotations</field>
+    <field name="ref_ssi">aspace_ref1257</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 24, Folder: ID: 156.0109</field>
+    <field name="location_ssm">Folder: ID: 156.0109</field>
+    <field name="location_si">Folder: ID: 156.0109</field>
+    <field name="collection_teim">Andrea Callard Papers</field>
+    <field name="collection_unitid_teim">MSS.156/repositories/3/resources/1716</field>
+    <field name="series_sim">Series XI: Film</field>
+    <field name="series_sim">Subseries B: Originals</field>
+    <field name="series_si">Series XI: Film &gt;&gt; Subseries B: Originals &gt;&gt; Untitled</field>
+    <field name="heading_ssm">Untitled</field>
+    <field name="unitdate_ssm">(date of film)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1032</field>
+  </doc>
+</add>

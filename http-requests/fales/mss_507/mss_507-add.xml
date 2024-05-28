@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Jasmine Larkin, 2017.</field>
+    <field name="author_ssm">Jasmine Larkin, 2017.</field>
+    <field name="unittitle_teim">New York Transfer Company Records</field>
+    <field name="unittitle_ssm">New York Transfer Company Records</field>
+    <field name="unitid_teim">MSS.507</field>
+    <field name="unitid_ssm">MSS.507</field>
+    <field name="abstract_teim">The New York Transfer Company provided services for the transfer and transportation of baggage within New York. This collection contains company minutes ledgers, financial ledgers, and one stock ledger. The ledgers document company meeting minutes, reports, customer and vendor accounts, financial information, and stock information. The ledgers date from 1853 to 1931.</field>
+    <field name="abstract_ssm">The New York Transfer Company provided services for the transfer and transportation of baggage within New York. This collection contains company minutes ledgers, financial ledgers, and one stock ledger. The ledgers document company meeting minutes, reports, customer and vendor accounts, financial information, and stock information. The ledgers date from 1853 to 1931.</field>
+    <field name="unitdate_normal_ssm">1853/1931</field>
+    <field name="unitdate_normal_teim">1853/1931</field>
+    <field name="unitdate_normal_sim">1853/1931</field>
+    <field name="unitdate_inclusive_teim">1853-1931</field>
+    <field name="scopecontent_teim">This collection contains ledgers created by the New York Transfer Company. Minutes ledgers contain board of managers meeting minutes, earnings and expenses statements, committee reports and appointments, and annual reports of the president, treasurer, and auditor. Financial ledgers contain account information for customers and vendors. The stock ledger records the purchase and sale of shares by shareholders. The ledgers date from 1853 to 1931.</field>
+    <field name="bioghist_teim">The New York Transfer Company was based in New York City and provided services for the transfer and transportation of baggage within New York. Services included pickup and delivery of customers' baggage to and from hotels, train stations, and ports.</field>
+    <field name="acqinfo_teim">Materials found in collection; provenance is unknown.</field>
+    <field name="corpname_teim">Fales Library and Special Collections</field>
+    <field name="corpname_teim">New York Transfer Company</field>
+    <field name="corpname_ssm">Fales Library and Special Collections</field>
+    <field name="corpname_ssm">New York Transfer Company</field>
+    <field name="subject_teim">Carriers -- United States.</field>
+    <field name="subject_teim">Luggage.</field>
+    <field name="subject_teim">Carriers -- United States.</field>
+    <field name="subject_teim">Luggage.</field>
+    <field name="subject_ssm">Carriers -- United States.</field>
+    <field name="subject_ssm">Luggage.</field>
+    <field name="collection_sim">New York Transfer Company Records</field>
+    <field name="collection_ssm">New York Transfer Company Records</field>
+    <field name="collection_teim">New York Transfer Company Records</field>
+    <field name="id">mss_507</field>
+    <field name="ead_ssi">mss_507</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">New York Transfer Company</field>
+    <field name="name_teim">New York Transfer Company</field>
+    <field name="subject_sim">Carriers -- United States.</field>
+    <field name="subject_sim">Luggage.</field>
+    <field name="heading_ssm">New York Transfer Company Records</field>
+    <field name="unitdate_start_sim">1853</field>
+    <field name="unitdate_start_ssm">1853</field>
+    <field name="unitdate_start_si">1853</field>
+    <field name="unitdate_end_sim">1931</field>
+    <field name="unitdate_end_ssm">1931</field>
+    <field name="unitdate_end_si">1931</field>
+    <field name="unitdate_ssm">Inclusive, 1853-1931</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+  </doc>
+</add>

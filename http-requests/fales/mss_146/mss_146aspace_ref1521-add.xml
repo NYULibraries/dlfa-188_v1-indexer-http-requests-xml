@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_146aspace_ref1521</field>
+    <field name="ead_ssi">mss_146</field>
+    <field name="parent_ssi">aspace_ref1465</field>
+    <field name="parent_ssm">aspace_ref1465</field>
+    <field name="parent_unittitles_ssm">Oversize</field>
+    <field name="parent_unittitles_teim">Oversize</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jack Gelber Papers</field>
+    <field name="collection_ssm">Jack Gelber Papers</field>
+    <field name="collection_unitid_ssm">MSS.146/repositories/3/resources/1709</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Oversize Series II, Subseries L </field>
+    <field name="unittitle_teim">Oversize Series II, Subseries L </field>
+    <field name="unitid_teim">/repositories/3/archival_objects/472327</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/472327</field>
+    <field name="ref_ssi">aspace_ref1521</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jack Gelber Papers</field>
+    <field name="collection_unitid_teim">MSS.146/repositories/3/resources/1709</field>
+    <field name="series_sim">Oversize</field>
+    <field name="series_si">Oversize &gt;&gt; Oversize Series II, Subseries L </field>
+    <field name="heading_ssm">Oversize Series II, Subseries L </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1260</field>
+  </doc>
+</add>

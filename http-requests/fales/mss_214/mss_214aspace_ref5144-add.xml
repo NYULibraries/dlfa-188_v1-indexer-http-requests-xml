@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_214aspace_ref5144</field>
+    <field name="ead_ssi">mss_214</field>
+    <field name="parent_ssi">aspace_ref5121</field>
+    <field name="parent_ssm">aspace_ref5121</field>
+    <field name="parent_unittitles_ssm">Series I: Chefs (flat box)</field>
+    <field name="parent_unittitles_teim">Series I: Chefs (flat box)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">James Beard Foundation Archive</field>
+    <field name="collection_ssm">James Beard Foundation Archive</field>
+    <field name="collection_unitid_ssm">MSS.214</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Webber, William</field>
+    <field name="unittitle_teim">Webber, William</field>
+    <field name="unitdate_normal_ssm">2001/2001</field>
+    <field name="unitdate_normal_teim">2001/2001</field>
+    <field name="unitdate_normal_sim">2001/2001</field>
+    <field name="unitdate_inclusive_teim">November 11, 2001</field>
+    <field name="ref_ssi">aspace_ref5144</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 57, Folder: 16</field>
+    <field name="location_ssm">Folder: 16, Box: data_value_missing_edddac3e9d5fc9e47240081088cea214</field>
+    <field name="location_ssm">Box: data_value_missing_edddac3e9d5fc9e47240081088cea214</field>
+    <field name="location_si">Box: data_value_missing_edddac3e9d5fc9e47240081088cea214</field>
+    <field name="collection_teim">James Beard Foundation Archive</field>
+    <field name="collection_unitid_teim">MSS.214</field>
+    <field name="series_sim">Series I: Chefs (flat box)</field>
+    <field name="series_si">Series I: Chefs (flat box) &gt;&gt; Webber, William</field>
+    <field name="heading_ssm">Webber, William</field>
+    <field name="unitdate_start_sim">2001</field>
+    <field name="unitdate_start_ssm">2001</field>
+    <field name="unitdate_start_si">2001</field>
+    <field name="unitdate_end_sim">2001</field>
+    <field name="unitdate_end_ssm">2001</field>
+    <field name="unitdate_end_si">2001</field>
+    <field name="unitdate_ssm">Inclusive, November 11, 2001</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">4095</field>
+  </doc>
+</add>

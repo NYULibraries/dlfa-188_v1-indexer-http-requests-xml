@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_213aspace_ref404</field>
+    <field name="ead_ssi">mss_213</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1668</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Sound recordings</field>
+    <field name="parent_unittitles_ssm">Subseries A: Audio Works</field>
+    <field name="parent_unittitles_teim">Series I: Sound recordings</field>
+    <field name="parent_unittitles_teim">Subseries A: Audio Works</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Peter Dougherty Collection</field>
+    <field name="collection_ssm">Peter Dougherty Collection</field>
+    <field name="collection_unitid_ssm">MSS.213/repositories/3/resources/1756</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Talking Heads/ Blondie/ Ramones LIVE at CBGB July 18th 1975</field>
+    <field name="unittitle_teim">Talking Heads/ Blondie/ Ramones LIVE at CBGB July 18th 1975</field>
+    <field name="unitid_teim">cuid41070</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/513561</field>
+    <field name="unitid_ssm">cuid41070</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/513561</field>
+    <field name="unitdate_normal_ssm">1975/1975</field>
+    <field name="unitdate_normal_teim">1975/1975</field>
+    <field name="unitdate_normal_sim">1975/1975</field>
+    <field name="unitdate_inclusive_teim">1975</field>
+    <field name="scopecontent_teim">Content: </field>
+    <field name="scopecontent_teim">Side A: Building on Fire, Artist's Only, Warning Sign, No Compassion. BLONDIE: In the Flesh, Moonlight Drive, Charlotte the Harlot, Platinum Blonde, Man Over Board. </field>
+    <field name="scopecontent_teim">Side 2: RAMONES I Don't Wanna Go Down in the Basement, Beat on the Brats, Let's Dance, 53rd and 3rd, Havana Affair, Calif Sun, Judy is a Punk. [TALKING HEADS] I Don't Wanna, Girls Wanna Be with the Girls with Our Love, Psycho Killer, I'm Not in Llove. [RAMONES] I Don't Wanna Walk away with You, Nazi Baby, Today Ya Love. </field>
+    <field name="scopecontent_teim">Container Annotation: David Byrne- guitar, vocals, Tina Wamouth- bass, Chris Frantz- drums</field>
+    <field name="ref_ssi">aspace_ref404</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, audiocassette: ID: 213.0189</field>
+    <field name="location_ssm">audiocassette: ID: 213.0189</field>
+    <field name="location_ssm">case: 213.0189_pt.1</field>
+    <field name="location_ssm">case: 213.0189_pt.2</field>
+    <field name="location_si">case: 213.0189_pt.2</field>
+    <field name="collection_teim">Peter Dougherty Collection</field>
+    <field name="collection_unitid_teim">MSS.213/repositories/3/resources/1756</field>
+    <field name="series_sim">Series I: Sound recordings</field>
+    <field name="series_sim">Subseries A: Audio Works</field>
+    <field name="series_si">Series I: Sound recordings &gt;&gt; Subseries A: Audio Works &gt;&gt; Talking Heads/ Blondie/ Ramones LIVE at CBGB July 18th 1975</field>
+    <field name="heading_ssm">Talking Heads/ Blondie/ Ramones LIVE at CBGB July 18th 1975</field>
+    <field name="unitdate_start_sim">1975</field>
+    <field name="unitdate_start_ssm">1975</field>
+    <field name="unitdate_start_si">1975</field>
+    <field name="unitdate_end_sim">1975</field>
+    <field name="unitdate_end_ssm">1975</field>
+    <field name="unitdate_end_si">1975</field>
+    <field name="unitdate_ssm">Inclusive, 1975</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">191</field>
+  </doc>
+</add>

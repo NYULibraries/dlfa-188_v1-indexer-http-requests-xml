@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref66</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref63</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref63</field>
+    <field name="parent_unittitles_ssm">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_ssm">Series B: Brinley Family </field>
+    <field name="parent_unittitles_teim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_teim">Series B: Brinley Family </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Legal Record with Notation</field>
+    <field name="unittitle_teim">Legal Record with Notation</field>
+    <field name="unitid_teim">cuid4796</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/507284</field>
+    <field name="unitid_ssm">cuid4796</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/507284</field>
+    <field name="unitdate_normal_ssm">1689/1689</field>
+    <field name="unitdate_normal_teim">1689/1689</field>
+    <field name="unitdate_normal_sim">1689/1689</field>
+    <field name="unitdate_inclusive_teim">1689 June 8</field>
+    <field name="scopecontent_teim">1 Deed </field>
+    <field name="scopecontent_teim">Acquisition: Thomas Brinley I Estate Property</field>
+    <field name="scopecontent_teim">Grantee[s]: Thomas Brinley II, Rhode Island Merchant [Son of Francis Brinley] &amp; his wife Katherin[e] Brinley</field>
+    <field name="scopecontent_teim">Grantor: Francis Brinley of Rhode Island, New England [Son of Thomas Brinley I]</field>
+    <field name="scopecontent_teim">In Reference To: Business / Family / Financial / Professional; [Francis Brinley executes orders from his father Thomas Brinley's last will &amp; testament who died on September 13, 1661 in Datchet, Buckinghamshire County, England; Francis also references legal work done in 1676]; Lands in Loston &amp; Stanwell, Middlesex &amp; Buckinghamshire Counties, England; "Signed, Sealed &amp; Delivered in the presence of Robert Charlotte, John Scott" ; Lands of Thomas Brambleton, James Haine, James Hill, [Henry Bill Schroeder the Elder, Esq.], John Slocomb, Walter Hempersby &amp; the Widow Sharpe</field>
+    <field name="scopecontent_teim">2 Parchment Pages, Mounted on Tissue</field>
+    <field name="scopecontent_teim">Handwritten in Ink &amp; Pencil </field>
+    <field name="scopecontent_teim">Measurements: 22.5" x 12" </field>
+    <field name="dao_teim">Legal Record with Notation: 1689 June 8</field>
+    <field name="dao_ssm">Legal Record with Notation: 1689 June 8</field>
+    <field name="ref_ssi">aspace_ref66</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 154, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="series_sim">Series B: Brinley Family </field>
+    <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series B: Brinley Family  &gt;&gt; Legal Record with Notation</field>
+    <field name="heading_ssm">Legal Record with Notation</field>
+    <field name="unitdate_start_sim">1689</field>
+    <field name="unitdate_start_ssm">1689</field>
+    <field name="unitdate_start_si">1689</field>
+    <field name="unitdate_end_sim">1689</field>
+    <field name="unitdate_end_ssm">1689</field>
+    <field name="unitdate_end_si">1689</field>
+    <field name="unitdate_ssm">Inclusive, 1689 June 8</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="sort_ii">50</field>
+  </doc>
+</add>

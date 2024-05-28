@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_102aspace_ref713</field>
+    <field name="ead_ssi">mss_102</field>
+    <field name="parent_ssi">aspace_ref83</field>
+    <field name="parent_ssm">aspace_ref82</field>
+    <field name="parent_ssm">aspace_ref83</field>
+    <field name="parent_unittitles_ssm">Series II: Artwork</field>
+    <field name="parent_unittitles_ssm">Subseries II.A: Art by Wong</field>
+    <field name="parent_unittitles_teim">Series II: Artwork</field>
+    <field name="parent_unittitles_teim">Subseries II.A: Art by Wong</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Martin Wong Papers</field>
+    <field name="collection_ssm">Martin Wong Papers</field>
+    <field name="collection_unitid_ssm">MSS.102/repositories/3/resources/1672</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Poem in Sign Language</field>
+    <field name="unittitle_teim">Poem in Sign Language</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/435982</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/435982</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="scopecontent_teim">This item is a scroll that contains a poem written by Wong and represented with drawings of American Sign Language signs for letters instead of with the Latin alphabet. </field>
+    <field name="scopecontent_teim">The poem reads:</field>
+    <field name="scopecontent_teim">Nutzboy claimed he never washed 
+cause soap makes you soft 
+even poured salt down 
+my back once to prove it 
+his body had the strong odor 
+of cypress and axle grease 
+and whenever he'd ripened 
+I'd get drunk off the smell 
+One look at his eyes and you just</field>
+    <field name="ref_ssi">aspace_ref713</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15</field>
+    <field name="location_si">Box: 15</field>
+    <field name="collection_teim">Martin Wong Papers</field>
+    <field name="collection_unitid_teim">MSS.102/repositories/3/resources/1672</field>
+    <field name="series_sim">Series II: Artwork</field>
+    <field name="series_sim">Subseries II.A: Art by Wong</field>
+    <field name="series_si">Series II: Artwork &gt;&gt; Subseries II.A: Art by Wong &gt;&gt; Poem in Sign Language</field>
+    <field name="heading_ssm">Poem in Sign Language</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">194</field>
+  </doc>
+</add>

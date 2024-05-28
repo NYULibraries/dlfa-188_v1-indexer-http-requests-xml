@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_168aspace_ref350</field>
+    <field name="ead_ssi">mss_168</field>
+    <field name="parent_ssi">aspace_ref343</field>
+    <field name="parent_ssm">aspace_ref343</field>
+    <field name="parent_unittitles_ssm">Oversize Items</field>
+    <field name="parent_unittitles_teim">Oversize Items</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Gary Indiana Papers</field>
+    <field name="collection_ssm">Gary Indiana Papers</field>
+    <field name="collection_unitid_ssm">MSS.168/repositories/3/resources/1726</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Palmer Museum lecture poster</field>
+    <field name="unittitle_teim">Palmer Museum lecture poster</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/485946</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/485946</field>
+    <field name="unitdate_teim">2004</field>
+    <field name="ref_ssi">aspace_ref350</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 27, Folder: 236</field>
+    <field name="location_ssm">Folder: 236</field>
+    <field name="location_si">Folder: 236</field>
+    <field name="collection_teim">Gary Indiana Papers</field>
+    <field name="collection_unitid_teim">MSS.168/repositories/3/resources/1726</field>
+    <field name="series_sim">Oversize Items</field>
+    <field name="series_si">Oversize Items &gt;&gt; Palmer Museum lecture poster</field>
+    <field name="heading_ssm">Palmer Museum lecture poster</field>
+    <field name="unitdate_ssm">2004</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">318</field>
+  </doc>
+</add>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_342aspace_ref482</field>
+    <field name="ead_ssi">mss_342</field>
+    <field name="parent_ssi">aspace_ref366</field>
+    <field name="parent_ssm">aspace_ref366</field>
+    <field name="parent_unittitles_ssm">Series IV: Media</field>
+    <field name="parent_unittitles_teim">Series IV: Media</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Patty Mucha Papers</field>
+    <field name="collection_ssm">Patty Mucha Papers</field>
+    <field name="collection_unitid_ssm">MSS.342/repositories/3/resources/1843</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">VT. Patty</field>
+    <field name="unittitle_teim">VT. Patty</field>
+    <field name="unitid_teim">ID: 342.0054</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/562749</field>
+    <field name="unitid_ssm">ID: 342.0054</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/562749</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">This film is silent.</field>
+    <field name="dao_teim">VT. Patty</field>
+    <field name="dao_ssm">VT. Patty</field>
+    <field name="ref_ssi">aspace_ref482</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10, Super_8mm_Film_Reel: ID: 342.0054</field>
+    <field name="location_ssm">Super_8mm_Film_Reel: ID: 342.0054</field>
+    <field name="location_si">Super_8mm_Film_Reel: ID: 342.0054</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Patty Mucha Papers</field>
+    <field name="collection_unitid_teim">MSS.342/repositories/3/resources/1843</field>
+    <field name="series_sim">Series IV: Media</field>
+    <field name="series_si">Series IV: Media &gt;&gt; VT. Patty</field>
+    <field name="heading_ssm">VT. Patty</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">364</field>
+  </doc>
+</add>

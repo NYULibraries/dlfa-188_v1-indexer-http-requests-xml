@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_336aspace_ref590</field>
+    <field name="ead_ssi">mss_336</field>
+    <field name="parent_ssi">aspace_ref456</field>
+    <field name="parent_ssm">aspace_ref456</field>
+    <field name="parent_unittitles_ssm">Series III: Objects</field>
+    <field name="parent_unittitles_teim">Series III: Objects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Greenwall Foundation Archive</field>
+    <field name="collection_ssm">Greenwall Foundation Archive</field>
+    <field name="collection_unitid_ssm">MSS.336</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Ballet de Monterrey - Calendario (in a CD case)</field>
+    <field name="unittitle_teim">Ballet de Monterrey - Calendario (in a CD case)</field>
+    <field name="unitdate_teim">2009</field>
+    <field name="ref_ssi">aspace_ref590</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 38</field>
+    <field name="location_si">Box: 38</field>
+    <field name="collection_teim">Greenwall Foundation Archive</field>
+    <field name="collection_unitid_teim">MSS.336</field>
+    <field name="series_sim">Series III: Objects</field>
+    <field name="series_si">Series III: Objects &gt;&gt; Ballet de Monterrey - Calendario (in a CD case)</field>
+    <field name="heading_ssm">Ballet de Monterrey - Calendario (in a CD case)</field>
+    <field name="unitdate_ssm">2009</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">592</field>
+  </doc>
+</add>

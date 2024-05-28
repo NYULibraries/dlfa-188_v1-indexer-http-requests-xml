@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_515aspace_9156c43a524eaf760975cffa4845f103</field>
+    <field name="ead_ssi">mss_515</field>
+    <field name="parent_ssi">aspace_85b053dabbb0acee97c3c228e8697808</field>
+    <field name="parent_ssm">aspace_85b053dabbb0acee97c3c228e8697808</field>
+    <field name="parent_unittitles_ssm">Series II. Board</field>
+    <field name="parent_unittitles_teim">Series II. Board</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New York Foundation For the Arts (NYFA) Records</field>
+    <field name="collection_ssm">New York Foundation For the Arts (NYFA) Records</field>
+    <field name="collection_unitid_ssm">MSS.515</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Subseries A. General Files</field>
+    <field name="unittitle_teim">Subseries A. General Files</field>
+    <field name="unitdate_normal_ssm">1980/2007</field>
+    <field name="unitdate_normal_teim">1980/2007</field>
+    <field name="unitdate_normal_sim">1980/2007</field>
+    <field name="unitdate_inclusive_teim">1980-2007</field>
+    <field name="scopecontent_teim">This subseries contains materials created by NYFA's Board of Directors, including by-laws, memorandum, and correspondence. Development materials showcasing the creation of NYFA programs, such as Artists-in-Residence, exist in the form of Board committee reports. The Board committees include Finance, Planning, Nominating, Executive, and Development. Nominating committees search materials illustrate the Board's appeal to artists, such as Chuck Close, and fellow arts advocates in New York City to become members of the Board, thus furthering NYFA's mission in reaching out to artists and organizations.</field>
+    <field name="ref_ssi">aspace_9156c43a524eaf760975cffa4845f103</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New York Foundation For the Arts (NYFA) Records</field>
+    <field name="collection_unitid_teim">MSS.515</field>
+    <field name="series_sim">Series II. Board</field>
+    <field name="series_si">Series II. Board &gt;&gt; Subseries A. General Files</field>
+    <field name="heading_ssm">Subseries A. General Files</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, 1980-2007</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">59</field>
+  </doc>
+</add>

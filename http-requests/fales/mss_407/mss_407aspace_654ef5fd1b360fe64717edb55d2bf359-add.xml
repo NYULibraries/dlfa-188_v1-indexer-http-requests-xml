@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_407aspace_654ef5fd1b360fe64717edb55d2bf359</field>
+    <field name="ead_ssi">mss_407</field>
+    <field name="parent_ssi">aspace_8bdb2369d3aaee066bb0ad31a90bee0e</field>
+    <field name="parent_ssm">aspace_8bdb2369d3aaee066bb0ad31a90bee0e</field>
+    <field name="parent_unittitles_ssm">Series I. Artistic Works</field>
+    <field name="parent_unittitles_teim">Series I. Artistic Works</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alva Rogers Papers</field>
+    <field name="collection_ssm">Alva Rogers Papers</field>
+    <field name="collection_unitid_ssm">MSS.407</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">&lt;em&gt; Mommy Says &lt;/em&gt; / &lt;em&gt;  Alice in the City &lt;/em&gt;</field>
+    <field name="unittitle_teim"> Mommy Says  /   Alice in the City </field>
+    <field name="unitid_teim">cuid29412</field>
+    <field name="unitid_ssm">cuid29412</field>
+    <field name="unitdate_normal_ssm">1980/2015</field>
+    <field name="unitdate_normal_teim">1980/2015</field>
+    <field name="unitdate_normal_sim">1980/2015</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="phystech_teim">Duration: 12 Minutes</field>
+    <field name="dao_teim"> Mommy Says  /   Alice in the City </field>
+    <field name="dao_ssm"> Mommy Says  /   Alice in the City </field>
+    <field name="ref_ssi">aspace_654ef5fd1b360fe64717edb55d2bf359</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15, audiocassette: 407.0076</field>
+    <field name="location_ssm">audiocassette: 407.0076</field>
+    <field name="location_si">audiocassette: 407.0076</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Alva Rogers Papers</field>
+    <field name="collection_unitid_teim">MSS.407</field>
+    <field name="series_sim">Series I. Artistic Works</field>
+    <field name="series_si">Series I. Artistic Works &gt;&gt; &lt;em&gt; Mommy Says &lt;/em&gt; / &lt;em&gt;  Alice in the City &lt;/em&gt;</field>
+    <field name="heading_ssm"> Mommy Says  /   Alice in the City </field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">2015</field>
+    <field name="unitdate_end_ssm">2015</field>
+    <field name="unitdate_end_si">2015</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">40</field>
+  </doc>
+</add>

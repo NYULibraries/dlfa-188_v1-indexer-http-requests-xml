@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_295aspace_ref80</field>
+    <field name="ead_ssi">mss_295</field>
+    <field name="parent_ssi">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_unittitles_ssm">Cookery Ephemera</field>
+    <field name="parent_unittitles_teim">Cookery Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Andrew F. Smith Collection of Cookery Ephemera</field>
+    <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+    <field name="collection_unitid_ssm">MSS.295/repositories/3/resources/2284</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The Borden Company--Eagle Brand; Comstock Foods</field>
+    <field name="unittitle_teim">The Borden Company--Eagle Brand; Comstock Foods</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/729333</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/729333</field>
+    <field name="unitdate_normal_ssm">1942/1969</field>
+    <field name="unitdate_normal_teim">1942/1969</field>
+    <field name="unitdate_normal_sim">1942/1969</field>
+    <field name="unitdate_inclusive_teim">1942-1969</field>
+    <field name="scopecontent_teim">Borden. This is My Book of Magic Recipes. Made with Borden's Eagle Brand Sweetened Condensed Milk. New York, NY: The Borden Company, 1942.</field>
+    <field name="scopecontent_teim"> Borden. 50 New Food Ideas that Start with Borden's Wej-cut Cream Cheese. New York, NY: Borden Co., undated.</field>
+    <field name="scopecontent_teim"> Borden. 21 "None Such" Mince Meat Recipes. New York, NY: Borden Co., 1952.</field>
+    <field name="scopecontent_teim"> Borden. Elsie's Hostess Recipe Book using Borden. New York, NY: Borden Co., undated.</field>
+    <field name="scopecontent_teim"> Borden. The Dessert Lovers' Handbook; Eagle Brand Sweetened Condensed Milk. New York, NY: Borden Co., 1973.</field>
+    <field name="scopecontent_teim"> Borden, Comstock Foods. Homemade Desserts Quick n' Easy Comstock Fillings. Newark, NY [sic]: Comstock Foods, Division of the Borden Company, undated.</field>
+    <field name="ref_ssi">aspace_ref80</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
+    <field name="collection_unitid_teim">MSS.295/repositories/3/resources/2284</field>
+    <field name="series_sim">Cookery Ephemera</field>
+    <field name="series_si">Cookery Ephemera &gt;&gt; The Borden Company--Eagle Brand; Comstock Foods</field>
+    <field name="heading_ssm">The Borden Company--Eagle Brand; Comstock Foods</field>
+    <field name="unitdate_start_sim">1942</field>
+    <field name="unitdate_start_ssm">1942</field>
+    <field name="unitdate_start_si">1942</field>
+    <field name="unitdate_end_sim">1969</field>
+    <field name="unitdate_end_ssm">1969</field>
+    <field name="unitdate_end_si">1969</field>
+    <field name="unitdate_ssm">Inclusive, 1942-1969</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">72</field>
+  </doc>
+</add>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_481aspace_deafc5e0bc637cd8646a9c1f39e42b44</field>
+    <field name="ead_ssi">mss_481</field>
+    <field name="parent_ssi">aspace_decd3f1ac3178a4505a81e7acb2134be</field>
+    <field name="parent_ssm">aspace_d43279df990eb45493626b280c8d2145</field>
+    <field name="parent_ssm">aspace_decd3f1ac3178a4505a81e7acb2134be</field>
+    <field name="parent_unittitles_ssm">Series V. Personal Files</field>
+    <field name="parent_unittitles_ssm">Correspondence -- Andrew Lindstrom</field>
+    <field name="parent_unittitles_teim">Series V. Personal Files</field>
+    <field name="parent_unittitles_teim">Correspondence -- Andrew Lindstrom</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bill Dixon Papers</field>
+    <field name="collection_ssm">Bill Dixon Papers</field>
+    <field name="collection_unitid_ssm">MSS.481/repositories/3/resources/2376</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Electronic Records</field>
+    <field name="unittitle_teim">Electronic Records</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/981134</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/981134</field>
+    <field name="dao_teim">Correspondence -- Andrew Lindstrom: 2000-2006</field>
+    <field name="dao_ssm">Correspondence -- Andrew Lindstrom: 2000-2006</field>
+    <field name="ref_ssi">aspace_deafc5e0bc637cd8646a9c1f39e42b44</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_481_ER_415</field>
+    <field name="location_ssm">E-records: FA_MSS_481_ER_415</field>
+    <field name="location_si">E-records: FA_MSS_481_ER_415</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Bill Dixon Papers</field>
+    <field name="collection_unitid_teim">MSS.481/repositories/3/resources/2376</field>
+    <field name="series_sim">Series V. Personal Files</field>
+    <field name="series_sim">Correspondence -- Andrew Lindstrom</field>
+    <field name="series_si">Series V. Personal Files &gt;&gt; Correspondence -- Andrew Lindstrom &gt;&gt; Electronic Records</field>
+    <field name="heading_ssm">Electronic Records</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2926</field>
+  </doc>
+</add>

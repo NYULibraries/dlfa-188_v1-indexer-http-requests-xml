@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_172aspace_ref193</field>
+    <field name="ead_ssi">mss_172</field>
+    <field name="parent_ssi">aspace_ref144</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref144</field>
+    <field name="parent_unittitles_ssm">Series I: Production Materials </field>
+    <field name="parent_unittitles_ssm">Subseries D: Media</field>
+    <field name="parent_unittitles_teim">Series I: Production Materials </field>
+    <field name="parent_unittitles_teim">Subseries D: Media</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dickason Papers</field>
+    <field name="collection_ssm">Dickason Papers</field>
+    <field name="collection_unitid_ssm">MSS.172</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Untitled</field>
+    <field name="unittitle_teim">Untitled</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref193</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5A, disk: ID: 172.3.0015</field>
+    <field name="location_ssm">disk: ID: 172.3.0015</field>
+    <field name="location_si">disk: ID: 172.3.0015</field>
+    <field name="collection_teim">Dickason Papers</field>
+    <field name="collection_unitid_teim">MSS.172</field>
+    <field name="series_sim">Series I: Production Materials </field>
+    <field name="series_sim">Subseries D: Media</field>
+    <field name="series_si">Series I: Production Materials  &gt;&gt; Subseries D: Media &gt;&gt; Untitled</field>
+    <field name="heading_ssm">Untitled</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">90</field>
+  </doc>
+</add>

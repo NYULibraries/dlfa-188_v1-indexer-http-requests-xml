@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_ref47</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sabbateni 13 (formerly B.9)</field>
+    <field name="unittitle_teim">Sabbateni 13 (formerly B.9)</field>
+    <field name="scopecontent_teim">Nine editions, bound together 
+(1): Neander, A.: I Sacrarum cantionum à4-8,10,12 (Frankfurt: Stein, 1605) RISM N308 
+(2): Neander, A.: II Sacrarum cantionum à4-8,10,12,14,24 (Frankfurt: Stein, 1605) RISM N309 
+(3): Neander, A.: III Sacrarum cantionum à4-8,10,12,14,24 (Frankfurt: Stein, 1606) RISM N310 
+(4): Bonhomme: Melodiae sacrae à5,6,8,9  (Frankfurt: Stein, 1605) RISM B3469 
+(5): Reiner, J.: Gloriosissimae Virginis ... Mariae canticum à8 (Frankfurt: Stein, 1604) RISM R1091 
+(6): Regnart: I Sacrarum cantionum à4-8,10,12 (Frankfurt: Stein, 1604) RISM R737 
+(7): Schramm: Cantiones selectae à5,6,8 (Frankfurt: Stein, 1606) RISM S2109 
+(8): Bendinello: I Sacrarum cantionum à4-5 (Frankfurt: Stein, 1604) RISM B1911 
+(9): Bendinello: II Sacrarum cantionum à5 (Frankfurt: Stein, 1604) RISM B1912=16044 
+One part-book, the Cantus, from a set of twelve</field>
+    <field name="ref_ssi">aspace_ref47</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 13 (formerly B.9)</field>
+    <field name="heading_ssm">Sabbateni 13 (formerly B.9)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">44</field>
+  </doc>
+</add>

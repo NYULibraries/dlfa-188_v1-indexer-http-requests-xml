@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_029aspace_ref381</field>
+    <field name="ead_ssi">mss_029</field>
+    <field name="parent_ssi">aspace_ref353</field>
+    <field name="parent_ssm">aspace_ref353</field>
+    <field name="parent_unittitles_ssm">Series IV: DeCoursey Fales Auction Catalogs</field>
+    <field name="parent_unittitles_teim">Series IV: DeCoursey Fales Auction Catalogs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fales Family Papers</field>
+    <field name="collection_ssm">Fales Family Papers</field>
+    <field name="collection_unitid_ssm">MSS.029</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Parke-Bernet Galleries April 27, 1955-Jan. 15, 1964</field>
+    <field name="unittitle_teim">Parke-Bernet Galleries April 27, 1955-Jan. 15, 1964</field>
+    <field name="unitdate_inclusive_teim">1955-1964</field>
+    <field name="ref_ssi">aspace_ref381</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 25, Folder: data_value_missing_beedd0ec3a10e0f644aa91e0309ee2cc</field>
+    <field name="location_ssm">Folder: data_value_missing_beedd0ec3a10e0f644aa91e0309ee2cc</field>
+    <field name="location_si">Folder: data_value_missing_beedd0ec3a10e0f644aa91e0309ee2cc</field>
+    <field name="collection_teim">Fales Family Papers</field>
+    <field name="collection_unitid_teim">MSS.029</field>
+    <field name="series_sim">Series IV: DeCoursey Fales Auction Catalogs</field>
+    <field name="series_si">Series IV: DeCoursey Fales Auction Catalogs &gt;&gt; Parke-Bernet Galleries April 27, 1955-Jan. 15, 1964</field>
+    <field name="heading_ssm">Parke-Bernet Galleries April 27, 1955-Jan. 15, 1964</field>
+    <field name="unitdate_ssm">Inclusive, 1955-1964</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">363</field>
+  </doc>
+</add>

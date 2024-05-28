@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_114aspace_ref16</field>
+    <field name="ead_ssi">mss_114</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series I: Prints</field>
+    <field name="parent_unittitles_ssm">Subseries A: Dance prints</field>
+    <field name="parent_unittitles_teim">Series I: Prints</field>
+    <field name="parent_unittitles_teim">Subseries A: Dance prints</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Alexander Papers</field>
+    <field name="collection_ssm">Robert Alexander Papers</field>
+    <field name="collection_unitid_ssm">MSS.114</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Douglas Dunn: &lt;em&gt;101&lt;/em&gt;, performance exhibition, 1974 (4 prints) &lt;em&gt;Lazy Madge&lt;/em&gt;, performance, 1976 (4 prints) &lt;em&gt;Coquina&lt;/em&gt;, performance, 1979 (2 prints)</field>
+    <field name="unittitle_teim">Douglas Dunn: 101, performance exhibition, 1974 (4 prints) Lazy Madge, performance, 1976 (4 prints) Coquina, performance, 1979 (2 prints)</field>
+    <field name="unitdate_teim">1974-1979</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Robert Alexander Papers</field>
+    <field name="collection_unitid_teim">MSS.114</field>
+    <field name="series_sim">Series I: Prints</field>
+    <field name="series_sim">Subseries A: Dance prints</field>
+    <field name="series_si">Series I: Prints &gt;&gt; Subseries A: Dance prints &gt;&gt; Douglas Dunn: &lt;em&gt;101&lt;/em&gt;, performance exhibition, 1974 (4 prints) &lt;em&gt;Lazy Madge&lt;/em&gt;, performance, 1976 (4 prints) &lt;em&gt;Coquina&lt;/em&gt;, performance, 1979 (2 prints)</field>
+    <field name="heading_ssm">Douglas Dunn: 101, performance exhibition, 1974 (4 prints) Lazy Madge, performance, 1976 (4 prints) Coquina, performance, 1979 (2 prints)</field>
+    <field name="unitdate_ssm">1974-1979</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

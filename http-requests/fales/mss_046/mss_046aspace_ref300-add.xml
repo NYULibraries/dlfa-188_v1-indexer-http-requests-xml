@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_046aspace_ref300</field>
+    <field name="ead_ssi">mss_046</field>
+    <field name="parent_ssi">aspace_ref293</field>
+    <field name="parent_ssm">aspace_ref251</field>
+    <field name="parent_ssm">aspace_ref293</field>
+    <field name="parent_unittitles_ssm">Series II: Carol Moore</field>
+    <field name="parent_unittitles_ssm">Subseries B: Musical scores from Carol Moore's personal library</field>
+    <field name="parent_unittitles_teim">Series II: Carol Moore</field>
+    <field name="parent_unittitles_teim">Subseries B: Musical scores from Carol Moore's personal library</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brody/Klooster Performance Practice Collection</field>
+    <field name="collection_ssm">Brody/Klooster Performance Practice Collection</field>
+    <field name="collection_unitid_ssm">MSS.046</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Beethoven, L. Van, &lt;em&gt;"Sonatas for Piano v.2."&lt;/em&gt;</field>
+    <field name="unittitle_teim">Beethoven, L. Van, "Sonatas for Piano v.2."</field>
+    <field name="unitid_teim">31142040611967</field>
+    <field name="unitid_ssm">31142040611967</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref300</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 137</field>
+    <field name="location_ssm">Folder: 137</field>
+    <field name="location_si">Folder: 137</field>
+    <field name="collection_teim">Brody/Klooster Performance Practice Collection</field>
+    <field name="collection_unitid_teim">MSS.046</field>
+    <field name="series_sim">Series II: Carol Moore</field>
+    <field name="series_sim">Subseries B: Musical scores from Carol Moore's personal library</field>
+    <field name="series_si">Series II: Carol Moore &gt;&gt; Subseries B: Musical scores from Carol Moore's personal library &gt;&gt; Beethoven, L. Van, &lt;em&gt;"Sonatas for Piano v.2."&lt;/em&gt;</field>
+    <field name="heading_ssm">Beethoven, L. Van, "Sonatas for Piano v.2."</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">149</field>
+  </doc>
+</add>

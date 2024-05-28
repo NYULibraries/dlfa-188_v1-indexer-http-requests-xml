@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_ref1</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Bound Volumes</field>
+    <field name="unittitle_teim">Bound Volumes</field>
+    <field name="ref_ssi">aspace_ref1</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_si">Bound Volumes</field>
+    <field name="heading_ssm">Bound Volumes</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

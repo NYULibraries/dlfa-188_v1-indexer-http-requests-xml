@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_385aspace_bfa1d725f2e3de91c83f3b688bbfe4fe</field>
+    <field name="ead_ssi">mss_385</field>
+    <field name="parent_ssi">aspace_453526e86a42ad68adc55723ebc03e6b</field>
+    <field name="parent_ssm">aspace_453526e86a42ad68adc55723ebc03e6b</field>
+    <field name="parent_unittitles_ssm">Series I. Writings</field>
+    <field name="parent_unittitles_teim">Series I. Writings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tuli Kupferberg and Sylvia Topp Papers</field>
+    <field name="collection_ssm">Tuli Kupferberg and Sylvia Topp Papers</field>
+    <field name="collection_unitid_ssm">MSS.385/repositories/3/resources/2406</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Poems "I - J"</field>
+    <field name="unittitle_teim">Poems "I - J"</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/764074</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/764074</field>
+    <field name="unitdate_normal_ssm">1952/2010</field>
+    <field name="unitdate_normal_teim">1952/2010</field>
+    <field name="unitdate_normal_sim">1952/2010</field>
+    <field name="unitdate_inclusive_teim">1952-2010</field>
+    <field name="ref_ssi">aspace_bfa1d725f2e3de91c83f3b688bbfe4fe</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 16, Folder: 34</field>
+    <field name="location_ssm">Folder: 34</field>
+    <field name="location_si">Folder: 34</field>
+    <field name="collection_teim">Tuli Kupferberg and Sylvia Topp Papers</field>
+    <field name="collection_unitid_teim">MSS.385/repositories/3/resources/2406</field>
+    <field name="series_sim">Series I. Writings</field>
+    <field name="series_si">Series I. Writings &gt;&gt; Poems "I - J"</field>
+    <field name="heading_ssm">Poems "I - J"</field>
+    <field name="unitdate_start_sim">1952</field>
+    <field name="unitdate_start_ssm">1952</field>
+    <field name="unitdate_start_si">1952</field>
+    <field name="unitdate_end_sim">2010</field>
+    <field name="unitdate_end_ssm">2010</field>
+    <field name="unitdate_end_si">2010</field>
+    <field name="unitdate_ssm">Inclusive, 1952-2010</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">247</field>
+  </doc>
+</add>

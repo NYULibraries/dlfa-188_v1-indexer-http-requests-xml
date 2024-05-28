@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Nicholas Martin</field>
+    <field name="author_ssm">Nicholas Martin</field>
+    <field name="unittitle_teim">Jonathan Alexander Collection of Medieval Manuscripts</field>
+    <field name="unittitle_ssm">Jonathan Alexander Collection of Medieval Manuscripts</field>
+    <field name="unitid_teim">MSS.356</field>
+    <field name="unitid_ssm">MSS.356</field>
+    <field name="abstract_teim">Jonathan Alexander was a Professor of Fine Arts at New York University from 1988 until his retirement in 2011. This collection consists of medieval manuscript leaves collected by Jonathan Alexander, and date from the 15th to 16th centuries. The majority of these manuscripts are in Latin and are Biblical in nature. Additionally, there is a leaf from Titus Livius's history of Rome and a charter from Edward IV.</field>
+    <field name="abstract_ssm">Jonathan Alexander was a Professor of Fine Arts at New York University from 1988 until his retirement in 2011. This collection consists of medieval manuscript leaves collected by Jonathan Alexander, and date from the 15th to 16th centuries. The majority of these manuscripts are in Latin and are Biblical in nature. Additionally, there is a leaf from Titus Livius's history of Rome and a charter from Edward IV.</field>
+    <field name="unitdate_normal_ssm">1436/1600</field>
+    <field name="unitdate_normal_teim">1436/1600</field>
+    <field name="unitdate_normal_sim">1436/1600</field>
+    <field name="unitdate_inclusive_teim">1436-1600</field>
+    <field name="scopecontent_teim">This collection consists of medieval manuscript leaves collected by Jonathan Alexander, and date from the 15th to 16th centuries. The majority of these manuscripts are in Latin and are Biblical in nature. Additionally, there is a leaf from Titus Livius's history of Rome and a charter from Edward IV.</field>
+    <field name="bioghist_teim">Jonathan Alexander was a Professor of Fine Arts at New York University from 1988 until his retirement in 2011.</field>
+    <field name="acqinfo_teim">The Jonathan Alexander Collection of Medieval Manuscripts was acquired by NYU's Fales Library and Special Collections by donation from Jonathan Alexander, 2012. The accession number associated with this gift is 2012.356.</field>
+    <field name="corpname_teim">Fales Library and Special Collections</field>
+    <field name="corpname_ssm">Fales Library and Special Collections</field>
+    <field name="genreform_teim">Manuscripts (documents)</field>
+    <field name="genreform_ssm">Manuscripts (documents)</field>
+    <field name="persname_teim">Alexander, J. J. G. (Jonathan James Graham)</field>
+    <field name="persname_ssm">Alexander, J. J. G. (Jonathan James Graham)</field>
+    <field name="subject_teim">Manuscripts, Medieval</field>
+    <field name="subject_teim">Manuscripts, Medieval</field>
+    <field name="subject_ssm">Manuscripts, Medieval</field>
+    <field name="collection_sim">Jonathan Alexander Collection of Medieval Manuscripts</field>
+    <field name="collection_ssm">Jonathan Alexander Collection of Medieval Manuscripts</field>
+    <field name="collection_teim">Jonathan Alexander Collection of Medieval Manuscripts</field>
+    <field name="id">mss_356</field>
+    <field name="ead_ssi">mss_356</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Alexander, J. J. G. (Jonathan James Graham)</field>
+    <field name="name_teim">Alexander, J. J. G. (Jonathan James Graham)</field>
+    <field name="subject_sim">Manuscripts, Medieval</field>
+    <field name="material_type_sim">Manuscripts (documents)</field>
+    <field name="material_type_ssm">Manuscripts (documents)</field>
+    <field name="heading_ssm">Jonathan Alexander Collection of Medieval Manuscripts</field>
+    <field name="unitdate_start_sim">1436</field>
+    <field name="unitdate_start_ssm">1436</field>
+    <field name="unitdate_start_si">1436</field>
+    <field name="unitdate_end_sim">1600</field>
+    <field name="unitdate_end_ssm">1600</field>
+    <field name="unitdate_end_si">1600</field>
+    <field name="unitdate_ssm">Inclusive, 1436-1600</field>
+    <field name="date_range_sim">1401-1500</field>
+    <field name="date_range_sim">1501-1600</field>
+  </doc>
+</add>

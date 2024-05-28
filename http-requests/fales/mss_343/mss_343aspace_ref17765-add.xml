@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_343aspace_ref17765</field>
+    <field name="ead_ssi">mss_343</field>
+    <field name="parent_ssi">aspace_ref17764</field>
+    <field name="parent_ssm">aspace_ref17764</field>
+    <field name="parent_unittitles_ssm">OVERSIZE Series XV: Exit Art Artist Print Editions</field>
+    <field name="parent_unittitles_teim">OVERSIZE Series XV: Exit Art Artist Print Editions</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Exit Art Archive</field>
+    <field name="collection_ssm">Exit Art Archive</field>
+    <field name="collection_unitid_ssm">MSS.343/repositories/3/resources/1844</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Exit 99</field>
+    <field name="unittitle_teim">Exit 99</field>
+    <field name="unitid_teim">cuid20225</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/573708</field>
+    <field name="unitid_ssm">cuid20225</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/573708</field>
+    <field name="unitdate_normal_ssm">1999/1999</field>
+    <field name="unitdate_normal_teim">1999/1999</field>
+    <field name="unitdate_normal_sim">1999/1999</field>
+    <field name="unitdate_inclusive_teim">1999</field>
+    <field name="scopecontent_teim">Bound in bright blue buckram. Artists included: Papo Colo,
+David Byrne,
+Inka Essenhigh,
+Leon Golub,
+Tony Oursler,
+Bruce Pearson,
+Richard Tuttle,
+Nari Ward,
+Lisa Yuskavage.</field>
+    <field name="ref_ssi">aspace_ref17765</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 465</field>
+    <field name="location_si">Box: 465</field>
+    <field name="collection_teim">Exit Art Archive</field>
+    <field name="collection_unitid_teim">MSS.343/repositories/3/resources/1844</field>
+    <field name="series_sim">OVERSIZE Series XV: Exit Art Artist Print Editions</field>
+    <field name="series_si">OVERSIZE Series XV: Exit Art Artist Print Editions &gt;&gt; Exit 99</field>
+    <field name="heading_ssm">Exit 99</field>
+    <field name="unitdate_start_sim">1999</field>
+    <field name="unitdate_start_ssm">1999</field>
+    <field name="unitdate_start_si">1999</field>
+    <field name="unitdate_end_sim">1999</field>
+    <field name="unitdate_end_ssm">1999</field>
+    <field name="unitdate_end_si">1999</field>
+    <field name="unitdate_ssm">Inclusive, 1999</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">10341</field>
+  </doc>
+</add>

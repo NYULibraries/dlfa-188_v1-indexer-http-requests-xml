@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_386aspace_ref847</field>
+    <field name="ead_ssi">mss_386</field>
+    <field name="parent_ssi">aspace_ref20</field>
+    <field name="parent_ssm">aspace_ref20</field>
+    <field name="parent_unittitles_ssm">Series III: Correspondence</field>
+    <field name="parent_unittitles_teim">Series III: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Linda Mary Montano Papers</field>
+    <field name="collection_ssm">Linda Mary Montano Papers</field>
+    <field name="collection_unitid_ssm">MSS.386/repositories/3/resources/1872</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Fan Correspondence: B</field>
+    <field name="unittitle_teim">Fan Correspondence: B</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/580150</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/580150</field>
+    <field name="unitdate_normal_ssm">1995/1998</field>
+    <field name="unitdate_normal_teim">1995/1998</field>
+    <field name="unitdate_normal_sim">1995/1998</field>
+    <field name="unitdate_inclusive_teim">1995-1998, undated</field>
+    <field name="ref_ssi">aspace_ref847</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 44, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Linda Mary Montano Papers</field>
+    <field name="collection_unitid_teim">MSS.386/repositories/3/resources/1872</field>
+    <field name="series_sim">Series III: Correspondence</field>
+    <field name="series_si">Series III: Correspondence &gt;&gt; Fan Correspondence: B</field>
+    <field name="heading_ssm">Fan Correspondence: B</field>
+    <field name="unitdate_start_sim">1995</field>
+    <field name="unitdate_start_ssm">1995</field>
+    <field name="unitdate_start_si">1995</field>
+    <field name="unitdate_end_sim">1998</field>
+    <field name="unitdate_end_ssm">1998</field>
+    <field name="unitdate_end_si">1998</field>
+    <field name="unitdate_ssm">Inclusive, 1995-1998, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">673</field>
+  </doc>
+</add>

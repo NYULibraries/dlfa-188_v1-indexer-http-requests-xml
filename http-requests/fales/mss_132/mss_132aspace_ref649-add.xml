@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_132aspace_ref649</field>
+    <field name="ead_ssi">mss_132</field>
+    <field name="parent_ssi">aspace_ref643</field>
+    <field name="parent_ssm">aspace_ref622</field>
+    <field name="parent_ssm">aspace_ref643</field>
+    <field name="parent_unittitles_ssm">Series XIV: Media</field>
+    <field name="parent_unittitles_ssm">Subseries B: Other media</field>
+    <field name="parent_unittitles_teim">Series XIV: Media</field>
+    <field name="parent_unittitles_teim">Subseries B: Other media</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Heather Lewis Papers</field>
+    <field name="collection_ssm">Heather Lewis Papers</field>
+    <field name="collection_unitid_ssm">MSS.132/repositories/3/resources/1695</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"HR-P2 and 3 (FE)" 5.25 inch Bonus personal computer disk</field>
+    <field name="unittitle_teim">"HR-P2 and 3 (FE)" 5.25 inch Bonus personal computer disk</field>
+    <field name="unitid_teim">ID: 132.0025</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/456453</field>
+    <field name="unitid_ssm">ID: 132.0025</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/456453</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref649</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13, Media: ID: 132.0025</field>
+    <field name="location_ssm">Media: ID: 132.0025</field>
+    <field name="location_si">Media: ID: 132.0025</field>
+    <field name="collection_teim">Heather Lewis Papers</field>
+    <field name="collection_unitid_teim">MSS.132/repositories/3/resources/1695</field>
+    <field name="series_sim">Series XIV: Media</field>
+    <field name="series_sim">Subseries B: Other media</field>
+    <field name="series_si">Series XIV: Media &gt;&gt; Subseries B: Other media &gt;&gt; "HR-P2 and 3 (FE)" 5.25 inch Bonus personal computer disk</field>
+    <field name="heading_ssm">"HR-P2 and 3 (FE)" 5.25 inch Bonus personal computer disk</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">626</field>
+  </doc>
+</add>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref4074</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref4058</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref3867</field>
+    <field name="parent_ssm">aspace_ref4058</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_ssm">Series C: Phoebe Dayton Gardiner Horsford</field>
+    <field name="parent_unittitles_ssm">Subseries 3: Notebooks and Printed Materials</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Series C: Phoebe Dayton Gardiner Horsford</field>
+    <field name="parent_unittitles_teim">Subseries 3: Notebooks and Printed Materials</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Pamphlets &amp;amp; Clippings: "Albany Female Academy Alumni Annual Report," "Christmas out of Nothing" by Alice Eddy Curtiss</field>
+    <field name="unittitle_teim">Pamphlets &amp; Clippings: "Albany Female Academy Alumni Annual Report," "Christmas out of Nothing" by Alice Eddy Curtiss</field>
+    <field name="unitid_teim">cuid3693</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/511667</field>
+    <field name="unitid_ssm">cuid3693</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/511667</field>
+    <field name="unitdate_normal_ssm">1890/1899</field>
+    <field name="unitdate_normal_teim">1890/1899</field>
+    <field name="unitdate_normal_sim">1890/1899</field>
+    <field name="unitdate_inclusive_teim">1899; undated, circa 1890s</field>
+    <field name="dao_teim">Pamphlets &amp; Clippings: "Albany Female Academy Alumni Annual Report," "Christmas out of Nothing" by Alice Eddy Curtiss: 1899; undated, circa 1890s</field>
+    <field name="dao_ssm">Pamphlets &amp; Clippings: "Albany Female Academy Alumni Annual Report," "Christmas out of Nothing" by Alice Eddy Curtiss: 1899; undated, circa 1890s</field>
+    <field name="ref_ssi">aspace_ref4074</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 96, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_sim">Series C: Phoebe Dayton Gardiner Horsford</field>
+    <field name="series_sim">Subseries 3: Notebooks and Printed Materials</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series C: Phoebe Dayton Gardiner Horsford &gt;&gt; Subseries 3: Notebooks and Printed Materials &gt;&gt; Pamphlets &amp;amp; Clippings: "Albany Female Academy Alumni Annual Report," "Christmas out of Nothing" by Alice Eddy Curtiss</field>
+    <field name="heading_ssm">Pamphlets &amp; Clippings: "Albany Female Academy Alumni Annual Report," "Christmas out of Nothing" by Alice Eddy Curtiss</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1899</field>
+    <field name="unitdate_end_ssm">1899</field>
+    <field name="unitdate_end_si">1899</field>
+    <field name="unitdate_ssm">Inclusive, 1899; undated, circa 1890s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">4435</field>
+  </doc>
+</add>

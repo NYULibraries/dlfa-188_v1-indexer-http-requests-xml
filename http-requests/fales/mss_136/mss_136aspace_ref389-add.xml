@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_136aspace_ref389</field>
+    <field name="ead_ssi">mss_136</field>
+    <field name="parent_ssi">aspace_ref331</field>
+    <field name="parent_ssm">aspace_ref326</field>
+    <field name="parent_ssm">aspace_ref331</field>
+    <field name="parent_unittitles_ssm">Series III: It's Not Over 'Til It's Over</field>
+    <field name="parent_unittitles_ssm">Subseries C: Media</field>
+    <field name="parent_unittitles_teim">Series III: It's Not Over 'Til It's Over</field>
+    <field name="parent_unittitles_teim">Subseries C: Media</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Al Silverman Papers</field>
+    <field name="collection_ssm">Al Silverman Papers</field>
+    <field name="collection_unitid_ssm">MSS.136</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">42 Seconds</field>
+    <field name="unittitle_teim">42 Seconds</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref389</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 22, Cassette: ID: 136.0108</field>
+    <field name="location_ssm">Cassette: ID: 136.0108</field>
+    <field name="location_si">Cassette: ID: 136.0108</field>
+    <field name="collection_teim">Al Silverman Papers</field>
+    <field name="collection_unitid_teim">MSS.136</field>
+    <field name="series_sim">Series III: It's Not Over 'Til It's Over</field>
+    <field name="series_sim">Subseries C: Media</field>
+    <field name="series_si">Series III: It's Not Over 'Til It's Over &gt;&gt; Subseries C: Media &gt;&gt; 42 Seconds</field>
+    <field name="heading_ssm">42 Seconds</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">386</field>
+  </doc>
+</add>

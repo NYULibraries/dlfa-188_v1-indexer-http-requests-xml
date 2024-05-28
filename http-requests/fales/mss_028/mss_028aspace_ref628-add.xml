@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_028aspace_ref628</field>
+    <field name="ead_ssi">mss_028</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series I: Novels (Box 1-83)</field>
+    <field name="parent_unittitles_teim">Series I: Novels (Box 1-83)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Levy Dime Novel Collection</field>
+    <field name="collection_ssm">Levy Dime Novel Collection</field>
+    <field name="collection_unitid_ssm">MSS.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Dumas, Alexandre&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Olympia of Celves; or, the loves of a king&lt;/em&gt;&lt;strong&gt;Date&lt;/strong&gt;: [1882]</field>
+    <field name="unittitle_teim">Author: Dumas, AlexandreTitle: Olympia of Celves; or, the loves of a kingDate: [1882]</field>
+    <field name="unitdate_teim">[1882]</field>
+    <field name="title_teim">Olympia of Celves; or, the loves of a king</field>
+    <field name="title_ssm">Olympia of Celves; or, the loves of a king</field>
+    <field name="ref_ssi">aspace_ref628</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 27, Folder: 538</field>
+    <field name="location_ssm">Folder: 538</field>
+    <field name="location_si">Folder: 538</field>
+    <field name="collection_teim">Levy Dime Novel Collection</field>
+    <field name="collection_unitid_teim">MSS.028</field>
+    <field name="series_sim">Series I: Novels (Box 1-83)</field>
+    <field name="series_si">Series I: Novels (Box 1-83) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Dumas, Alexandre&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Olympia of Celves; or, the loves of a king&lt;/em&gt;&lt;strong&gt;Date&lt;/strong&gt;: [1882]</field>
+    <field name="heading_ssm">Author: Dumas, AlexandreTitle: Olympia of Celves; or, the loves of a kingDate: [1882]</field>
+    <field name="unitdate_ssm">[1882]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">617</field>
+  </doc>
+</add>

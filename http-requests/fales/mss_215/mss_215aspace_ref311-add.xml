@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_215aspace_ref311</field>
+    <field name="ead_ssi">mss_215</field>
+    <field name="parent_ssi">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_unittitles_ssm">Series VI: Photographic Material</field>
+    <field name="parent_unittitles_teim">Series VI: Photographic Material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Group Material Archive</field>
+    <field name="collection_ssm">Group Material Archive</field>
+    <field name="collection_unitid_ssm">MSS.215/repositories/3/resources/1758</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">From Binder 4 (1 of 2) - Original slides 1st year-1980 Through 1985 ("Americana")</field>
+    <field name="unittitle_teim">From Binder 4 (1 of 2) - Original slides 1st year-1980 Through 1985 ("Americana")</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/519526</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/519526</field>
+    <field name="unitdate_normal_ssm">1980/1989</field>
+    <field name="unitdate_normal_teim">1980/1989</field>
+    <field name="unitdate_normal_sim">1980/1989</field>
+    <field name="unitdate_inclusive_teim">1980 - 1989</field>
+    <field name="ref_ssi">aspace_ref311</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 17</field>
+    <field name="location_si">Box: 17</field>
+    <field name="collection_teim">Group Material Archive</field>
+    <field name="collection_unitid_teim">MSS.215/repositories/3/resources/1758</field>
+    <field name="series_sim">Series VI: Photographic Material</field>
+    <field name="series_si">Series VI: Photographic Material &gt;&gt; From Binder 4 (1 of 2) - Original slides 1st year-1980 Through 1985 ("Americana")</field>
+    <field name="heading_ssm">From Binder 4 (1 of 2) - Original slides 1st year-1980 Through 1985 ("Americana")</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, 1980 - 1989</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">374</field>
+  </doc>
+</add>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_095aspace_234288f973b1b659fcb4f872474034e4</field>
+    <field name="ead_ssi">mss_095</field>
+    <field name="parent_ssi">aspace_42dc7152255ba0bfb4ffaa0c334af612</field>
+    <field name="parent_ssm">aspace_42dc7152255ba0bfb4ffaa0c334af612</field>
+    <field name="parent_unittitles_ssm">Series 9B: Material collected by Remarque (Full Copies)</field>
+    <field name="parent_unittitles_teim">Series 9B: Material collected by Remarque (Full Copies)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erich Maria Remarque Papers</field>
+    <field name="collection_ssm">Erich Maria Remarque Papers</field>
+    <field name="collection_unitid_ssm">MSS.095/repositories/3/resources/1665</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Hannoversche Presse&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Hannoversche Presse
+    </field>
+    <field name="unitid_teim">/repositories/3/archival_objects/986578</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/986578</field>
+    <field name="unitdate_normal_ssm">1968/1968</field>
+    <field name="unitdate_normal_teim">1968/1968</field>
+    <field name="unitdate_normal_sim">1968/1968</field>
+    <field name="unitdate_inclusive_teim">1968</field>
+    <field name="ref_ssi">aspace_234288f973b1b659fcb4f872474034e4</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 116, Folder: 10</field>
+    <field name="location_ssm">Folder: 10, Item: 1</field>
+    <field name="location_ssm">Item: 1</field>
+    <field name="location_si">Item: 1</field>
+    <field name="collection_teim">Erich Maria Remarque Papers</field>
+    <field name="collection_unitid_teim">MSS.095/repositories/3/resources/1665</field>
+    <field name="series_sim">Series 9B: Material collected by Remarque (Full Copies)</field>
+    <field name="series_si">Series 9B: Material collected by Remarque (Full Copies) &gt;&gt; 
+      &lt;em&gt;Hannoversche Presse&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Hannoversche Presse
+    </field>
+    <field name="unitdate_start_sim">1968</field>
+    <field name="unitdate_start_ssm">1968</field>
+    <field name="unitdate_start_si">1968</field>
+    <field name="unitdate_end_sim">1968</field>
+    <field name="unitdate_end_ssm">1968</field>
+    <field name="unitdate_end_si">1968</field>
+    <field name="unitdate_ssm">Inclusive, 1968</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3292</field>
+  </doc>
+</add>

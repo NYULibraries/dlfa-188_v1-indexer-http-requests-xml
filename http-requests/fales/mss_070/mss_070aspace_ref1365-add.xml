@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_070aspace_ref1365</field>
+    <field name="ead_ssi">mss_070</field>
+    <field name="parent_ssi">aspace_ref86</field>
+    <field name="parent_ssm">aspace_ref86</field>
+    <field name="parent_unittitles_ssm">Series II: New American Library, Editorial/Author Files</field>
+    <field name="parent_unittitles_teim">Series II: New American Library, Editorial/Author Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New American Library Archive</field>
+    <field name="collection_ssm">New American Library Archive</field>
+    <field name="collection_unitid_ssm">MSS.070</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Mentor religious series</field>
+    <field name="unittitle_teim">Mentor religious series</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1365</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 57, Folder: 1251</field>
+    <field name="location_ssm">Folder: 1251</field>
+    <field name="location_si">Folder: 1251</field>
+    <field name="collection_teim">New American Library Archive</field>
+    <field name="collection_unitid_teim">MSS.070</field>
+    <field name="series_sim">Series II: New American Library, Editorial/Author Files</field>
+    <field name="series_si">Series II: New American Library, Editorial/Author Files &gt;&gt; Mentor religious series</field>
+    <field name="heading_ssm">Mentor religious series</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1354</field>
+  </doc>
+</add>

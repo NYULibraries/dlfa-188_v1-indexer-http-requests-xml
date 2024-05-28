@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_251aspace_ref46</field>
+    <field name="ead_ssi">mss_251</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Scripts and Notes</field>
+    <field name="parent_unittitles_teim">Series I: Scripts and Notes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Split Britches Archive</field>
+    <field name="collection_ssm">Split Britches Archive</field>
+    <field name="collection_unitid_ssm">MSS.251/repositories/3/resources/1782</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Misc Script and Notes</field>
+    <field name="unittitle_teim">Misc Script and Notes</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/531648</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/531648</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref46</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3</field>
+    <field name="location_si">Box: 3</field>
+    <field name="collection_teim">Split Britches Archive</field>
+    <field name="collection_unitid_teim">MSS.251/repositories/3/resources/1782</field>
+    <field name="series_sim">Series I: Scripts and Notes</field>
+    <field name="series_si">Series I: Scripts and Notes &gt;&gt; Misc Script and Notes</field>
+    <field name="heading_ssm">Misc Script and Notes</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">32</field>
+  </doc>
+</add>

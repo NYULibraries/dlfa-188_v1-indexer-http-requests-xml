@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_121aspace_ref2894</field>
+    <field name="ead_ssi">mss_121</field>
+    <field name="parent_ssi">aspace_ref2844</field>
+    <field name="parent_ssm">aspace_ref2841</field>
+    <field name="parent_ssm">aspace_ref2844</field>
+    <field name="parent_unittitles_ssm">Series VI: Audio</field>
+    <field name="parent_unittitles_ssm">Subseries B: Audio Recordings - Originals</field>
+    <field name="parent_unittitles_teim">Series VI: Audio</field>
+    <field name="parent_unittitles_teim">Subseries B: Audio Recordings - Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
+    <field name="collection_ssm">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
+    <field name="collection_unitid_ssm">MSS.121/repositories/3/resources/1686</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Moscow Children's Theatre - sound recording audiocassettes (2), TDK D-C90</field>
+    <field name="unittitle_teim">Moscow Children's Theatre - sound recording audiocassettes (2), TDK D-C90</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/448117</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/448117</field>
+    <field name="unitdate_normal_ssm">1946/2001</field>
+    <field name="unitdate_normal_teim">1946/2001</field>
+    <field name="unitdate_normal_sim">1946/2001</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref2894</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 72, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
+    <field name="collection_unitid_teim">MSS.121/repositories/3/resources/1686</field>
+    <field name="series_sim">Series VI: Audio</field>
+    <field name="series_sim">Subseries B: Audio Recordings - Originals</field>
+    <field name="series_si">Series VI: Audio &gt;&gt; Subseries B: Audio Recordings - Originals &gt;&gt; Moscow Children's Theatre - sound recording audiocassettes (2), TDK D-C90</field>
+    <field name="heading_ssm">Moscow Children's Theatre - sound recording audiocassettes (2), TDK D-C90</field>
+    <field name="unitdate_start_sim">1946</field>
+    <field name="unitdate_start_ssm">1946</field>
+    <field name="unitdate_start_si">1946</field>
+    <field name="unitdate_end_sim">2001</field>
+    <field name="unitdate_end_ssm">2001</field>
+    <field name="unitdate_end_si">2001</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">2857</field>
+  </doc>
+</add>

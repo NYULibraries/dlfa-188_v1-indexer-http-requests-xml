@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_380aspace_ref114</field>
+    <field name="ead_ssi">mss_380</field>
+    <field name="parent_ssi">aspace_ref111</field>
+    <field name="parent_ssm">aspace_ref110</field>
+    <field name="parent_ssm">aspace_ref111</field>
+    <field name="parent_unittitles_ssm">Oversize Materials</field>
+    <field name="parent_unittitles_ssm">Oversize Series I: Jack Smith Research</field>
+    <field name="parent_unittitles_teim">Oversize Materials</field>
+    <field name="parent_unittitles_teim">Oversize Series I: Jack Smith Research</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ed Leffingwell Jack Smith Curatorial Files</field>
+    <field name="collection_ssm">Ed Leffingwell Jack Smith Curatorial Files</field>
+    <field name="collection_unitid_ssm">MSS.380</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Roy Cohn/Jack Smith" Program &amp;amp; "The Theatre of Jack Smith" (from Box 1 Folder 34, Ron Vawter)</field>
+    <field name="unittitle_teim">"Roy Cohn/Jack Smith" Program &amp; "The Theatre of Jack Smith" (from Box 1 Folder 34, Ron Vawter)</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref114</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Fales 081, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">Ed Leffingwell Jack Smith Curatorial Files</field>
+    <field name="collection_unitid_teim">MSS.380</field>
+    <field name="series_sim">Oversize Materials</field>
+    <field name="series_sim">Oversize Series I: Jack Smith Research</field>
+    <field name="series_si">Oversize Materials &gt;&gt; Oversize Series I: Jack Smith Research &gt;&gt; "Roy Cohn/Jack Smith" Program &amp;amp; "The Theatre of Jack Smith" (from Box 1 Folder 34, Ron Vawter)</field>
+    <field name="heading_ssm">"Roy Cohn/Jack Smith" Program &amp; "The Theatre of Jack Smith" (from Box 1 Folder 34, Ron Vawter)</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">109</field>
+  </doc>
+</add>

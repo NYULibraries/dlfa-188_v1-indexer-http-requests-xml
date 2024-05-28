@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref5673</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref4137</field>
+    <field name="parent_ssm">aspace_ref4136</field>
+    <field name="parent_ssm">aspace_ref4137</field>
+    <field name="parent_unittitles_ssm">Record Group VI: Photographic Material</field>
+    <field name="parent_unittitles_ssm">Series A: People and Portraits</field>
+    <field name="parent_unittitles_teim">Record Group VI: Photographic Material</field>
+    <field name="parent_unittitles_teim">Series A: People and Portraits</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Tintype with Enclosure: Portrait of Mary Katherine Horsford (Kate)</field>
+    <field name="unittitle_teim">Tintype with Enclosure: Portrait of Mary Katherine Horsford (Kate)</field>
+    <field name="unitid_teim">cuid5493</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/512780</field>
+    <field name="unitid_ssm">cuid5493</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/512780</field>
+    <field name="unitdate_normal_ssm">1860/1879</field>
+    <field name="unitdate_normal_teim">1860/1879</field>
+    <field name="unitdate_normal_sim">1860/1879</field>
+    <field name="unitdate_inclusive_teim">undated, circa 1860 - 1870s</field>
+    <field name="dao_teim">Tintype with Enclosure: Portrait of Mary Katherine Horsford (Kate): undated, circa 1860 - 1870s</field>
+    <field name="dao_ssm">Tintype with Enclosure: Portrait of Mary Katherine Horsford (Kate): undated, circa 1860 - 1870s</field>
+    <field name="ref_ssi">aspace_ref5673</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 163, Folder: 23</field>
+    <field name="location_ssm">Folder: 23</field>
+    <field name="location_si">Folder: 23</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group VI: Photographic Material</field>
+    <field name="series_sim">Series A: People and Portraits</field>
+    <field name="series_si">Record Group VI: Photographic Material &gt;&gt; Series A: People and Portraits &gt;&gt; Tintype with Enclosure: Portrait of Mary Katherine Horsford (Kate)</field>
+    <field name="heading_ssm">Tintype with Enclosure: Portrait of Mary Katherine Horsford (Kate)</field>
+    <field name="unitdate_start_sim">1860</field>
+    <field name="unitdate_start_ssm">1860</field>
+    <field name="unitdate_start_si">1860</field>
+    <field name="unitdate_end_sim">1879</field>
+    <field name="unitdate_end_ssm">1879</field>
+    <field name="unitdate_end_si">1879</field>
+    <field name="unitdate_ssm">Inclusive, undated, circa 1860 - 1870s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">5549</field>
+  </doc>
+</add>

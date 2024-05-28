@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_298aspace_ref3</field>
+    <field name="ead_ssi">mss_298</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Transaction Records</field>
+    <field name="parent_unittitles_teim">Series I: Transaction Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Annina Nosei Gallery Archive</field>
+    <field name="collection_ssm">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_ssm">MSS.298/repositories/3/resources/1812</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B: Inventory Cards: Works Sold</field>
+    <field name="unittitle_teim">Subseries B: Inventory Cards: Works Sold</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/551947</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/551947</field>
+    <field name="scopecontent_teim">Subseries comprises index cards created for each artwork sold by the gallery. Each card displays that artwork's inventory number and invoice number, which can also be found on corresponding records in this series. The cards are color coordinated.Pink card: The work was given to Annina Nosei, that is, she did not buy it. There was no money involved. On many of these cards you will find written the word "gift."Blue card: The work was bought by the Gallery. Most cards denote the amount paid.White card: The work was consigned to the gallery either by the artist, another dealer, another gallery, or a collector.</field>
+    <field name="scopecontent_teim">Subseries is arranged in its original order. The index cards were originally contained in file drawers labeled "Works Sold" followed by an alphabetical range. This naming convention has been replicated here (e.g., the cards under the heading "Works Sold A-F" were originally held together in one file drawer labeled "Works Sold A-F"). The ranges of artists contained in each box has been provided by the archivist in the space below the box number.</field>
+    <field name="ref_ssi">aspace_ref3</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_teim">MSS.298/repositories/3/resources/1812</field>
+    <field name="series_sim">Series I: Transaction Records</field>
+    <field name="series_si">Series I: Transaction Records &gt;&gt; Subseries B: Inventory Cards: Works Sold</field>
+    <field name="heading_ssm">Subseries B: Inventory Cards: Works Sold</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

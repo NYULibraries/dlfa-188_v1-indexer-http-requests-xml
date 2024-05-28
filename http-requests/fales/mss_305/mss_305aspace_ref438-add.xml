@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_305aspace_ref438</field>
+    <field name="ead_ssi">mss_305</field>
+    <field name="parent_ssi">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_unittitles_ssm">Series V: Video Lounge</field>
+    <field name="parent_unittitles_teim">Series V: Video Lounge</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">NIGHTCLUBBING Archive by Pat Ivers and Emily Armstrong</field>
+    <field name="collection_ssm">NIGHTCLUBBING Archive by Pat Ivers and Emily Armstrong</field>
+    <field name="collection_unitid_ssm">MSS.305</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;Home Entertainment #4&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      Home Entertainment #4
+    </field>
+    <field name="unitid_teim">ID: 305.0235</field>
+    <field name="unitid_ssm">ID: 305.0235</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Color / Black &amp; White, Sound</field>
+    <field name="phystech_teim">Duration: 1 hour 2 minutes</field>
+    <field name="phystech_teim">Original format: 3/4" Umatic</field>
+    <field name="ref_ssi">aspace_ref438</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13, Media: ID: 305.0235</field>
+    <field name="location_ssm">Media: ID: 305.0235</field>
+    <field name="location_ssm">case: 305.0235_a</field>
+    <field name="location_si">case: 305.0235_a</field>
+    <field name="collection_teim">NIGHTCLUBBING Archive by Pat Ivers and Emily Armstrong</field>
+    <field name="collection_unitid_teim">MSS.305</field>
+    <field name="series_sim">Series V: Video Lounge</field>
+    <field name="series_si">Series V: Video Lounge &gt;&gt; 
+      &lt;strong&gt;Home Entertainment #4&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      Home Entertainment #4
+    </field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">224</field>
+  </doc>
+</add>

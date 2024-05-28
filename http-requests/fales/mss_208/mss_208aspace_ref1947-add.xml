@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref1947</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1803</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref1801</field>
+    <field name="parent_ssm">aspace_ref1802</field>
+    <field name="parent_ssm">aspace_ref1803</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family
+</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family
+</field>
+    <field name="component_level_isim">5</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Burns, Patrick: Shelter Island, NY</field>
+    <field name="unittitle_teim">Burns, Patrick: Shelter Island, NY</field>
+    <field name="unitid_teim">cuid1785</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/509739</field>
+    <field name="unitid_ssm">cuid1785</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/509739</field>
+    <field name="unitdate_normal_ssm">1856/1869</field>
+    <field name="unitdate_normal_teim">1856/1869</field>
+    <field name="unitdate_normal_sim">1856/1869</field>
+    <field name="unitdate_inclusive_teim">1856 March 28; 1861 July 10 - 1865 October 16; undated, circa 1860s</field>
+    <field name="scopecontent_teim">13 Letters with Indentation &amp; Notation, 1 Envelope with Postage, 1 Inventory List, 2 Property Drawings, 1 Property Lease Agreement [Copy], 2 Receipts, 2 Statements of Account</field>
+    <field name="scopecontent_teim">Addressed To: "C.M. Lane, Esq." ; [Eben Norton Horsford]; "James Burns" ;  "Mr. Brown" ; "Patrick Burns"</field>
+    <field name="scopecontent_teim">Sent From: "[A. Cottel / Cottrel] &amp; Company, Greenport, Long Island, NY" ; "[Eben Norton Horsford], East Providence, RI" ; "James Burns" ; "Patrick Burns" ; "Miller Tuthill, Riverhead, NY" ; "William Wickham, Cutchogue, [Suffolk County, Long Island], NY"</field>
+    <field name="scopecontent_teim">In Reference To: Business / Financial / Food / Legal / Professional / Real Estate; J.B. Gardiner's Account - Julia Havens, Joseph Sherman, Peter Burns; Julia Johnson's House Account; "Lawrence Cooke Bridgehampton" Property Sketch; Mr. Sam; Patrick Burns' Property Agreement, Witness Daniel M. Lord; Property Drawing by Mr. Brook; Purchase of Fish; Shelter Island Estate Management; Square Paine</field>
+    <field name="scopecontent_teim">37 Pages, Bound &amp; Unbound</field>
+    <field name="scopecontent_teim">Handwritten in Ink &amp; Pencil </field>
+    <field name="scopecontent_teim">Measurements: 6" x 3.25" - 12.25" x 9.5"</field>
+    <field name="dao_teim">Burns, Patrick: Shelter Island, NY: 1856 March 28; 1861 July 10 - 1865 October 16; undated, circa 1860s</field>
+    <field name="dao_ssm">Burns, Patrick: Shelter Island, NY: 1856 March 28; 1861 July 10 - 1865 October 16; undated, circa 1860s</field>
+    <field name="ref_ssi">aspace_ref1947</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 57, Folder: 14</field>
+    <field name="location_ssm">Folder: 14</field>
+    <field name="location_si">Folder: 14</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_sim">Series A: Eben Norton Horsford</field>
+    <field name="series_sim">Subseries 1: Correspondence</field>
+    <field name="series_sim">Subsubseries a: Academic and Family
+</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Burns, Patrick: Shelter Island, NY</field>
+    <field name="heading_ssm">Burns, Patrick: Shelter Island, NY</field>
+    <field name="unitdate_start_sim">1856</field>
+    <field name="unitdate_start_ssm">1856</field>
+    <field name="unitdate_start_si">1856</field>
+    <field name="unitdate_end_sim">1869</field>
+    <field name="unitdate_end_ssm">1869</field>
+    <field name="unitdate_end_si">1869</field>
+    <field name="unitdate_ssm">Inclusive, 1856 March 28; 1861 July 10 - 1865 October 16; undated, circa 1860s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2506</field>
+  </doc>
+</add>

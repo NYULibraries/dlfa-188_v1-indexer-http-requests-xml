@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_481aspace_fe4a4e0e38fb71a5d88e2ad3d4f571ed</field>
+    <field name="ead_ssi">mss_481</field>
+    <field name="parent_ssi">aspace_78abfdd5e2cc77179d42dc29730bbf25</field>
+    <field name="parent_ssm">aspace_a93f6f2ae13871699a9da26fb0224c45</field>
+    <field name="parent_ssm">aspace_78abfdd5e2cc77179d42dc29730bbf25</field>
+    <field name="parent_unittitles_ssm">Series I. Music</field>
+    <field name="parent_unittitles_ssm">Subseries I.A: Commercial and Studio Recordings</field>
+    <field name="parent_unittitles_teim">Series I. Music</field>
+    <field name="parent_unittitles_teim">Subseries I.A: Commercial and Studio Recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bill Dixon Papers</field>
+    <field name="collection_ssm">Bill Dixon Papers</field>
+    <field name="collection_unitid_ssm">MSS.481/repositories/3/resources/2376</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;In the Sign of the Labyrinth&lt;/em&gt;: "Trident," "Triumvirate," "Trilogy," "Trident II," "Trident III," "Letters to Myself"</field>
+    <field name="unittitle_teim">In the Sign of the Labyrinth: "Trident," "Triumvirate," "Trilogy," "Trident II," "Trident III," "Letters to Myself"</field>
+    <field name="unitid_teim">cuid36515</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/956259</field>
+    <field name="unitid_ssm">cuid36515</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/956259</field>
+    <field name="unitdate_normal_ssm">1972/1974</field>
+    <field name="unitdate_normal_teim">1972/1974</field>
+    <field name="unitdate_normal_sim">1972/1974</field>
+    <field name="unitdate_inclusive_teim">1972-1974</field>
+    <field name="scopecontent_teim">Published by FORE</field>
+    <field name="ref_ssi">aspace_fe4a4e0e38fb71a5d88e2ad3d4f571ed</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18, Sound_Disc--Vinyl: 481_1507</field>
+    <field name="location_ssm">Sound_Disc--Vinyl: 481_1507</field>
+    <field name="location_si">Sound_Disc--Vinyl: 481_1507</field>
+    <field name="collection_teim">Bill Dixon Papers</field>
+    <field name="collection_unitid_teim">MSS.481/repositories/3/resources/2376</field>
+    <field name="series_sim">Series I. Music</field>
+    <field name="series_sim">Subseries I.A: Commercial and Studio Recordings</field>
+    <field name="series_si">Series I. Music &gt;&gt; Subseries I.A: Commercial and Studio Recordings &gt;&gt; &lt;em&gt;In the Sign of the Labyrinth&lt;/em&gt;: "Trident," "Triumvirate," "Trilogy," "Trident II," "Trident III," "Letters to Myself"</field>
+    <field name="heading_ssm">In the Sign of the Labyrinth: "Trident," "Triumvirate," "Trilogy," "Trident II," "Trident III," "Letters to Myself"</field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_si">1972</field>
+    <field name="unitdate_end_sim">1974</field>
+    <field name="unitdate_end_ssm">1974</field>
+    <field name="unitdate_end_si">1974</field>
+    <field name="unitdate_ssm">Inclusive, 1972-1974</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">58</field>
+  </doc>
+</add>

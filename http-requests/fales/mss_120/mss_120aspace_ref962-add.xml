@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_120aspace_ref962</field>
+    <field name="ead_ssi">mss_120</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: French Manuscripts</field>
+    <field name="parent_unittitles_teim">Series I: French Manuscripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ubu Repertory Theater Script Collection</field>
+    <field name="collection_ssm">Ubu Repertory Theater Script Collection</field>
+    <field name="collection_unitid_ssm">MSS.120</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Keineg, Paol. 'La reine de la nuit'</field>
+    <field name="unittitle_teim">Keineg, Paol. 'La reine de la nuit'</field>
+    <field name="unitid_teim">31142040610316</field>
+    <field name="unitid_ssm">31142040610316</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref962</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: I.12, Folder: 477</field>
+    <field name="location_ssm">Folder: 477</field>
+    <field name="location_si">Folder: 477</field>
+    <field name="collection_teim">Ubu Repertory Theater Script Collection</field>
+    <field name="collection_unitid_teim">MSS.120</field>
+    <field name="series_sim">Series I: French Manuscripts</field>
+    <field name="series_si">Series I: French Manuscripts &gt;&gt; Keineg, Paol. 'La reine de la nuit'</field>
+    <field name="heading_ssm">Keineg, Paol. 'La reine de la nuit'</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">477</field>
+  </doc>
+</add>

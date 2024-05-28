@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_481aspace_c9e33a85112a8873bc98b9dcf31d676e</field>
+    <field name="ead_ssi">mss_481</field>
+    <field name="parent_ssi">aspace_15689dfc20a157e72afbbe4448ef3efe</field>
+    <field name="parent_ssm">aspace_5f1c5a0f91dbf323d32fa1596ab793ba</field>
+    <field name="parent_ssm">aspace_15689dfc20a157e72afbbe4448ef3efe</field>
+    <field name="parent_unittitles_ssm">Series II. Bennington College</field>
+    <field name="parent_unittitles_ssm">Subseries II.B: Performance and Event Recordings</field>
+    <field name="parent_unittitles_teim">Series II. Bennington College</field>
+    <field name="parent_unittitles_teim">Subseries II.B: Performance and Event Recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bill Dixon Papers</field>
+    <field name="collection_ssm">Bill Dixon Papers</field>
+    <field name="collection_unitid_ssm">MSS.481/repositories/3/resources/2376</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bill Dixon Orchestra Performs "For Franz," Bennington College</field>
+    <field name="unittitle_teim">Bill Dixon Orchestra Performs "For Franz," Bennington College</field>
+    <field name="unitid_teim">cuid38697</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/958448</field>
+    <field name="unitid_ssm">cuid38697</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/958448</field>
+    <field name="unitdate_normal_ssm">1979-05-26/1979-05-26</field>
+    <field name="unitdate_normal_teim">1979-05-26/1979-05-26</field>
+    <field name="unitdate_normal_sim">1979-05-26/1979-05-26</field>
+    <field name="unitdate_teim">May 26, 1979</field>
+    <field name="dao_teim">Bill Dixon Orchestra Performs "For Franz," Bennington College, May 26, 1979</field>
+    <field name="dao_ssm">Bill Dixon Orchestra Performs "For Franz," Bennington College, May 26, 1979</field>
+    <field name="ref_ssi">aspace_c9e33a85112a8873bc98b9dcf31d676e</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_481_ER_362</field>
+    <field name="location_ssm">E-records: FA_MSS_481_ER_362</field>
+    <field name="location_si">E-records: FA_MSS_481_ER_362</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Bill Dixon Papers</field>
+    <field name="collection_unitid_teim">MSS.481/repositories/3/resources/2376</field>
+    <field name="series_sim">Series II. Bennington College</field>
+    <field name="series_sim">Subseries II.B: Performance and Event Recordings</field>
+    <field name="series_si">Series II. Bennington College &gt;&gt; Subseries II.B: Performance and Event Recordings &gt;&gt; Bill Dixon Orchestra Performs "For Franz," Bennington College</field>
+    <field name="heading_ssm">Bill Dixon Orchestra Performs "For Franz," Bennington College</field>
+    <field name="unitdate_ssm">May 26, 1979</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2541</field>
+  </doc>
+</add>

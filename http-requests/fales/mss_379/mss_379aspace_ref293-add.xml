@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_379aspace_ref293</field>
+    <field name="ead_ssi">mss_379</field>
+    <field name="parent_ssi">aspace_ref5</field>
+    <field name="parent_ssm">aspace_ref5</field>
+    <field name="parent_unittitles_ssm">Series V: Media</field>
+    <field name="parent_unittitles_teim">Series V: Media</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Blackout Arts Collective Archive</field>
+    <field name="collection_ssm">Blackout Arts Collective Archive</field>
+    <field name="collection_unitid_ssm">MSS.379/repositories/3/resources/1867</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">What It Iz</field>
+    <field name="unittitle_teim">What It Iz</field>
+    <field name="unitid_teim">ID: 379.0012</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/578972</field>
+    <field name="unitid_ssm">ID: 379.0012</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/578972</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Original format: CD-R</field>
+    <field name="ref_ssi">aspace_ref293</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15, Media: ID: 379.0012</field>
+    <field name="location_ssm">Media: ID: 379.0012</field>
+    <field name="location_si">Media: ID: 379.0012</field>
+    <field name="collection_teim">Blackout Arts Collective Archive</field>
+    <field name="collection_unitid_teim">MSS.379/repositories/3/resources/1867</field>
+    <field name="series_sim">Series V: Media</field>
+    <field name="series_si">Series V: Media &gt;&gt; What It Iz</field>
+    <field name="heading_ssm">What It Iz</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">206</field>
+  </doc>
+</add>

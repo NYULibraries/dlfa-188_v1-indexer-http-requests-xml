@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_361aspace_a229ab58209fa903aa216285931cfbd9</field>
+    <field name="ead_ssi">mss_361</field>
+    <field name="parent_ssi">aspace_59b5b7344154d2fb98e6e198766855d5</field>
+    <field name="parent_ssm">aspace_02c3419a8f225b967c83949dd84f39e1</field>
+    <field name="parent_ssm">aspace_59b5b7344154d2fb98e6e198766855d5</field>
+    <field name="parent_unittitles_ssm">Series I. Writings, Publishing, and Related Projects</field>
+    <field name="parent_unittitles_ssm">Subseries I.D. Literary Correspondence</field>
+    <field name="parent_unittitles_teim">Series I. Writings, Publishing, and Related Projects</field>
+    <field name="parent_unittitles_teim">Subseries I.D. Literary Correspondence</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Michael Lally Papers</field>
+    <field name="collection_ssm">Michael Lally Papers</field>
+    <field name="collection_unitid_ssm">MSS.361/repositories/3/resources/2610</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hamilton, Steve</field>
+    <field name="unittitle_teim">Hamilton, Steve</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/848949</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/848949</field>
+    <field name="unitdate_normal_ssm">1976/1978</field>
+    <field name="unitdate_normal_teim">1976/1978</field>
+    <field name="unitdate_normal_sim">1976/1978</field>
+    <field name="unitdate_inclusive_teim">1976, 1978</field>
+    <field name="ref_ssi">aspace_a229ab58209fa903aa216285931cfbd9</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 25, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Michael Lally Papers</field>
+    <field name="collection_unitid_teim">MSS.361/repositories/3/resources/2610</field>
+    <field name="series_sim">Series I. Writings, Publishing, and Related Projects</field>
+    <field name="series_sim">Subseries I.D. Literary Correspondence</field>
+    <field name="series_si">Series I. Writings, Publishing, and Related Projects &gt;&gt; Subseries I.D. Literary Correspondence &gt;&gt; Hamilton, Steve</field>
+    <field name="heading_ssm">Hamilton, Steve</field>
+    <field name="unitdate_start_sim">1976</field>
+    <field name="unitdate_start_ssm">1976</field>
+    <field name="unitdate_start_si">1976</field>
+    <field name="unitdate_end_sim">1978</field>
+    <field name="unitdate_end_ssm">1978</field>
+    <field name="unitdate_end_si">1978</field>
+    <field name="unitdate_ssm">Inclusive, 1976, 1978</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">222</field>
+  </doc>
+</add>

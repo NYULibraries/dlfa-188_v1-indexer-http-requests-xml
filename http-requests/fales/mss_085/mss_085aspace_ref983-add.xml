@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_085aspace_ref983</field>
+    <field name="ead_ssi">mss_085</field>
+    <field name="parent_ssi">aspace_ref966</field>
+    <field name="parent_ssm">aspace_ref963</field>
+    <field name="parent_ssm">aspace_ref966</field>
+    <field name="parent_unittitles_ssm">Series VII: Media</field>
+    <field name="parent_unittitles_ssm">Subseries A: Video recordings</field>
+    <field name="parent_unittitles_teim">Series VII: Media</field>
+    <field name="parent_unittitles_teim">Subseries A: Video recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dennis Cooper Papers</field>
+    <field name="collection_ssm">Dennis Cooper Papers</field>
+    <field name="collection_unitid_ssm">MSS.085/repositories/3/resources/1655</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Excerpts from "The Undead".</field>
+    <field name="unittitle_teim">Excerpts from "The Undead".</field>
+    <field name="unitid_teim">ID: 085.0009</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/420426</field>
+    <field name="unitid_ssm">ID: 085.0009</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/420426</field>
+    <field name="unitdate_normal_ssm">1990/1990</field>
+    <field name="unitdate_normal_teim">1990/1990</field>
+    <field name="unitdate_normal_sim">1990/1990</field>
+    <field name="unitdate_inclusive_teim">September 12, 1990</field>
+    <field name="phystech_teim">Original format: VHS</field>
+    <field name="phystech_teim">Duration: 20 minutes</field>
+    <field name="ref_ssi">aspace_ref983</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13, Media: ID: 085.0009</field>
+    <field name="location_ssm">Media: ID: 085.0009</field>
+    <field name="location_si">Media: ID: 085.0009</field>
+    <field name="collection_teim">Dennis Cooper Papers</field>
+    <field name="collection_unitid_teim">MSS.085/repositories/3/resources/1655</field>
+    <field name="series_sim">Series VII: Media</field>
+    <field name="series_sim">Subseries A: Video recordings</field>
+    <field name="series_si">Series VII: Media &gt;&gt; Subseries A: Video recordings &gt;&gt; Excerpts from "The Undead".</field>
+    <field name="heading_ssm">Excerpts from "The Undead".</field>
+    <field name="unitdate_start_sim">1990</field>
+    <field name="unitdate_start_ssm">1990</field>
+    <field name="unitdate_start_si">1990</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, September 12, 1990</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1020</field>
+  </doc>
+</add>

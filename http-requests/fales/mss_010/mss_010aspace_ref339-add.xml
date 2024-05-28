@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_010aspace_ref339</field>
+    <field name="ead_ssi">mss_010</field>
+    <field name="parent_ssi">aspace_ref338</field>
+    <field name="parent_ssm">aspace_ref338</field>
+    <field name="parent_unittitles_ssm">Series IV: Caterpillar Galleys</field>
+    <field name="parent_unittitles_teim">Series IV: Caterpillar Galleys</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Caterpillar Archive</field>
+    <field name="collection_ssm">Caterpillar Archive</field>
+    <field name="collection_unitid_ssm">MSS.010</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Issue No.1: tape 1-7, sheets 1-29.</field>
+    <field name="unittitle_teim">Issue No.1: tape 1-7, sheets 1-29.</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref339</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 23, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Caterpillar Archive</field>
+    <field name="collection_unitid_teim">MSS.010</field>
+    <field name="series_sim">Series IV: Caterpillar Galleys</field>
+    <field name="series_si">Series IV: Caterpillar Galleys &gt;&gt; Issue No.1: tape 1-7, sheets 1-29.</field>
+    <field name="heading_ssm">Issue No.1: tape 1-7, sheets 1-29.</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">327</field>
+  </doc>
+</add>

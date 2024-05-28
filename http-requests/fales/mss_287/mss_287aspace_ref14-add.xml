@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_287aspace_ref14</field>
+    <field name="ead_ssi">mss_287</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Audiovisual Material</field>
+    <field name="parent_unittitles_ssm">Subseries B: Originals</field>
+    <field name="parent_unittitles_teim">Series I: Audiovisual Material</field>
+    <field name="parent_unittitles_teim">Subseries B: Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lucy Thane Riot Grrrl Collection</field>
+    <field name="collection_ssm">Lucy Thane Riot Grrrl Collection</field>
+    <field name="collection_unitid_ssm">MSS.287</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Bikini Kill, Liz Naylor interview</field>
+    <field name="unittitle_teim">Bikini Kill, Liz Naylor interview</field>
+    <field name="unitdate_teim">1/4/93</field>
+    <field name="phystech_teim">Format: Video 8</field>
+    <field name="phystech_teim">Standard: PAL</field>
+    <field name="ref_ssi">aspace_ref14</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Media: ID: 287.0005</field>
+    <field name="location_ssm">Media: ID: 287.0005</field>
+    <field name="location_si">Media: ID: 287.0005</field>
+    <field name="collection_teim">Lucy Thane Riot Grrrl Collection</field>
+    <field name="collection_unitid_teim">MSS.287</field>
+    <field name="series_sim">Series I: Audiovisual Material</field>
+    <field name="series_sim">Subseries B: Originals</field>
+    <field name="series_si">Series I: Audiovisual Material &gt;&gt; Subseries B: Originals &gt;&gt; Bikini Kill, Liz Naylor interview</field>
+    <field name="heading_ssm">Bikini Kill, Liz Naylor interview</field>
+    <field name="unitdate_ssm">1/4/93</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

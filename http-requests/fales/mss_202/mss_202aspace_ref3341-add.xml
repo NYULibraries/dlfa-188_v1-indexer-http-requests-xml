@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_202aspace_ref3341</field>
+    <field name="ead_ssi">mss_202</field>
+    <field name="parent_ssi">aspace_ref3338</field>
+    <field name="parent_ssm">aspace_ref3338</field>
+    <field name="parent_unittitles_ssm">Series XIV: Objects</field>
+    <field name="parent_unittitles_teim">Series XIV: Objects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jimmy De Sana Papers</field>
+    <field name="collection_ssm">Jimmy De Sana Papers</field>
+    <field name="collection_unitid_ssm">MSS.202</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Film loaders; agitator</field>
+    <field name="unittitle_teim">Film loaders; agitator</field>
+    <field name="phystech_teim"> Description: Photographic equipment</field>
+    <field name="ref_ssi">aspace_ref3341</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 75</field>
+    <field name="location_si">Box: 75</field>
+    <field name="collection_teim">Jimmy De Sana Papers</field>
+    <field name="collection_unitid_teim">MSS.202</field>
+    <field name="series_sim">Series XIV: Objects</field>
+    <field name="series_si">Series XIV: Objects &gt;&gt; Film loaders; agitator</field>
+    <field name="heading_ssm">Film loaders; agitator</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">639</field>
+  </doc>
+</add>

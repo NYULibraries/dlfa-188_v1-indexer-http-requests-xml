@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_045aspace_ref1347</field>
+    <field name="ead_ssi">mss_045</field>
+    <field name="parent_ssi">aspace_ref1328</field>
+    <field name="parent_ssm">aspace_ref1328</field>
+    <field name="parent_unittitles_ssm">Series VI: Biographical material</field>
+    <field name="parent_unittitles_teim">Series VI: Biographical material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">M. L. Rosenthal Papers</field>
+    <field name="collection_ssm">M. L. Rosenthal Papers</field>
+    <field name="collection_unitid_ssm">MSS.045</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Juvenilia</field>
+    <field name="unittitle_teim">Juvenilia</field>
+    <field name="unitid_teim">31142040612221</field>
+    <field name="unitid_ssm">31142040612221</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1347</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: VI.A.1, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">M. L. Rosenthal Papers</field>
+    <field name="collection_unitid_teim">MSS.045</field>
+    <field name="series_sim">Series VI: Biographical material</field>
+    <field name="series_si">Series VI: Biographical material &gt;&gt; Juvenilia</field>
+    <field name="heading_ssm">Juvenilia</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">675</field>
+  </doc>
+</add>

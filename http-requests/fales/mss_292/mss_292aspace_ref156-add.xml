@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_292aspace_ref156</field>
+    <field name="ead_ssi">mss_292</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Series I: Asian Americans</field>
+    <field name="parent_unittitles_ssm">Subseries B: Serials</field>
+    <field name="parent_unittitles_teim">Series I: Asian Americans</field>
+    <field name="parent_unittitles_teim">Subseries B: Serials</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_ssm">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_unitid_ssm">MSS.292/repositories/3/resources/1809</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Time Out New York</field>
+    <field name="unittitle_teim">Time Out New York</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/544602</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/544602</field>
+    <field name="unitdate_teim">2001</field>
+    <field name="ref_ssi">aspace_ref156</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 16</field>
+    <field name="location_ssm">Folder: 16</field>
+    <field name="location_si">Folder: 16</field>
+    <field name="collection_teim">Yoshio Kishi and Irene Yah-Ling Sun Collection</field>
+    <field name="collection_unitid_teim">MSS.292/repositories/3/resources/1809</field>
+    <field name="series_sim">Series I: Asian Americans</field>
+    <field name="series_sim">Subseries B: Serials</field>
+    <field name="series_si">Series I: Asian Americans &gt;&gt; Subseries B: Serials &gt;&gt; Time Out New York</field>
+    <field name="heading_ssm">Time Out New York</field>
+    <field name="unitdate_ssm">2001</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">104</field>
+  </doc>
+</add>

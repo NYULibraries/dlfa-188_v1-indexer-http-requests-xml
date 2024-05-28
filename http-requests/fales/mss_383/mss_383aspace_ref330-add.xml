@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_383aspace_ref330</field>
+    <field name="ead_ssi">mss_383</field>
+    <field name="parent_ssi">aspace_ref310</field>
+    <field name="parent_ssm">aspace_ref310</field>
+    <field name="parent_unittitles_ssm">Series XXXVIII: Mercadante</field>
+    <field name="parent_unittitles_teim">Series XXXVIII: Mercadante</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_ssm">MSS.383</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Gabriella di Vergy</field>
+    <field name="unittitle_teim">Gabriella di Vergy</field>
+    <field name="unitdate_teim">1837</field>
+    <field name="scopecontent_teim">Librettist: Baldassare, Cavallotti; Domenico, Menozzi</field>
+    <field name="scopecontent_teim">Performance City and Venue: I.R. Teatro alla Canobbiana</field>
+    <field name="scopecontent_teim">Performance Season/Date: Primavera 1837</field>
+    <field name="scopecontent_teim">Publication City and Publisher: Milan: Luigi di Giacomo Pirola</field>
+    <field name="ref_ssi">aspace_ref330</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_teim">MSS.383</field>
+    <field name="series_sim">Series XXXVIII: Mercadante</field>
+    <field name="series_si">Series XXXVIII: Mercadante &gt;&gt; Gabriella di Vergy</field>
+    <field name="heading_ssm">Gabriella di Vergy</field>
+    <field name="unitdate_ssm">1837</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">195</field>
+  </doc>
+</add>

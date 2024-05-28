@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref61</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref51</field>
+    <field name="parent_ssm">aspace_ref51</field>
+    <field name="parent_unittitles_ssm">Series II: Correspondence</field>
+    <field name="parent_unittitles_teim">Series II: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">1985</field>
+    <field name="unittitle_teim">1985</field>
+    <field name="unitid_teim">cuid26124</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/424075</field>
+    <field name="unitid_ssm">cuid26124</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/424075</field>
+    <field name="unitdate_teim">1985</field>
+    <field name="ref_ssi">aspace_ref61</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Series II: Correspondence</field>
+    <field name="series_si">Series II: Correspondence &gt;&gt; 1985</field>
+    <field name="heading_ssm">1985</field>
+    <field name="unitdate_ssm">1985</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">50</field>
+  </doc>
+</add>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_102aspace_ref252</field>
+    <field name="ead_ssi">mss_102</field>
+    <field name="parent_ssi">aspace_ref214</field>
+    <field name="parent_ssm">aspace_3fb38ed8a12fb310d6f4fa1be3e5a422</field>
+    <field name="parent_ssm">aspace_ref214</field>
+    <field name="parent_unittitles_ssm">Series III: Source Material</field>
+    <field name="parent_unittitles_ssm">Subseries III.A: Catalogs, Graffiti, Invites, Posters, Source Material, etc.</field>
+    <field name="parent_unittitles_teim">Series III: Source Material</field>
+    <field name="parent_unittitles_teim">Subseries III.A: Catalogs, Graffiti, Invites, Posters, Source Material, etc.</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Martin Wong Papers</field>
+    <field name="collection_ssm">Martin Wong Papers</field>
+    <field name="collection_unitid_ssm">MSS.102/repositories/3/resources/1672</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Graffiti: Gremlin Sketchbook</field>
+    <field name="unittitle_teim">Graffiti: Gremlin Sketchbook</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/436034</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/436034</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref252</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 38, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Martin Wong Papers</field>
+    <field name="collection_unitid_teim">MSS.102/repositories/3/resources/1672</field>
+    <field name="series_sim">Series III: Source Material</field>
+    <field name="series_sim">Subseries III.A: Catalogs, Graffiti, Invites, Posters, Source Material, etc.</field>
+    <field name="series_si">Series III: Source Material &gt;&gt; Subseries III.A: Catalogs, Graffiti, Invites, Posters, Source Material, etc. &gt;&gt; Graffiti: Gremlin Sketchbook</field>
+    <field name="heading_ssm">Graffiti: Gremlin Sketchbook</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">262</field>
+  </doc>
+</add>

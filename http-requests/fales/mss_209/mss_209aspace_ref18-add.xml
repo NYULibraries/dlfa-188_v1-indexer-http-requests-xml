@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_209aspace_ref18</field>
+    <field name="ead_ssi">mss_209</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Marita Sturken Papers</field>
+    <field name="collection_ssm">Marita Sturken Papers</field>
+    <field name="collection_unitid_ssm">MSS.209</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Research Materials</field>
+    <field name="unittitle_teim">Series I: Research Materials</field>
+    <field name="unitdate_normal_ssm">1958/1987</field>
+    <field name="unitdate_normal_teim">1958/1987</field>
+    <field name="unitdate_normal_sim">1958/1987</field>
+    <field name="unitdate_inclusive_teim">1958-1987</field>
+    <field name="scopecontent_teim">Series I: Research Materials consists of the research generated for the three articles Sturken wrote for Afterimage magazine. The articles are "An Interview with George Stoney" (January 1984), "TV as a Creative Medium: Howard Wise and Video Art" (June 1984), and "Howard Klein and the Rockefeller Foundation's Funding of the Media Arts" (January 1987).</field>
+    <field name="scopecontent_teim">The materials include correspondence, handwritten research notes, typed transcripts of interviews, original gallery catalogs, and Xerox copies of exhibition catalogs, gallery announcements, newspaper articles, and magazine articles. Materials date from 1958 to 1987.</field>
+    <field name="ref_ssi">aspace_ref18</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Marita Sturken Papers</field>
+    <field name="collection_unitid_teim">MSS.209</field>
+    <field name="series_si">Series I: Research Materials</field>
+    <field name="heading_ssm">Series I: Research Materials</field>
+    <field name="unitdate_start_sim">1958</field>
+    <field name="unitdate_start_ssm">1958</field>
+    <field name="unitdate_start_si">1958</field>
+    <field name="unitdate_end_sim">1987</field>
+    <field name="unitdate_end_ssm">1987</field>
+    <field name="unitdate_end_si">1987</field>
+    <field name="unitdate_ssm">Inclusive, 1958-1987</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

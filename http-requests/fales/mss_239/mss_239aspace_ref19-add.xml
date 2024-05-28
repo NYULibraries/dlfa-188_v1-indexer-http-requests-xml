@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_ref19</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sabbateni 9 (formerly B.5)</field>
+    <field name="unittitle_teim">Sabbateni 9 (formerly B.5)</field>
+    <field name="unitdate_teim">circa 1600</field>
+    <field name="scopecontent_teim">One edition and one manuscript, bound together 
+(1): Lassus: Fasciculi ALiquot Sacrarum Cantionum à4-6,8 (Nürnberg: Gerlach: 1589) RISM L991 
+(2): manuscript , with 11 works. 
+Two part-books, Altus and Bassus, from a set probably of eight</field>
+    <field name="subject_teim">Music -- 17th century.</field>
+    <field name="subject_teim">Music -- Manuscripts.</field>
+    <field name="subject_teim">Music -- 17th century.</field>
+    <field name="subject_teim">Music -- Manuscripts.</field>
+    <field name="subject_ssm">Music -- 17th century.</field>
+    <field name="subject_ssm">Music -- Manuscripts.</field>
+    <field name="ref_ssi">aspace_ref19</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="subject_sim">Music -- 17th century.</field>
+    <field name="subject_sim">Music -- Manuscripts.</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 9 (formerly B.5)</field>
+    <field name="heading_ssm">Sabbateni 9 (formerly B.5)</field>
+    <field name="unitdate_ssm">circa 1600</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">32</field>
+  </doc>
+</add>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_175aspace_ref163</field>
+    <field name="ead_ssi">mss_175</field>
+    <field name="parent_ssi">aspace_ref63</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref63</field>
+    <field name="parent_unittitles_ssm">Series I: Journals</field>
+    <field name="parent_unittitles_ssm">Subseries A: Journals
+</field>
+    <field name="parent_unittitles_teim">Series I: Journals</field>
+    <field name="parent_unittitles_teim">Subseries A: Journals
+</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Martha Wilson Papers</field>
+    <field name="collection_ssm">Martha Wilson Papers</field>
+    <field name="collection_unitid_ssm">MSS.175/repositories/3/resources/1733</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Loose journal entries August 14, 1979 to August 18, 1979</field>
+    <field name="unittitle_teim">Loose journal entries August 14, 1979 to August 18, 1979</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/490223</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/490223</field>
+    <field name="unitdate_normal_ssm">1979/1979</field>
+    <field name="unitdate_normal_teim">1979/1979</field>
+    <field name="unitdate_normal_sim">1979/1979</field>
+    <field name="unitdate_inclusive_teim">1979</field>
+    <field name="ref_ssi">aspace_ref163</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 16</field>
+    <field name="location_ssm">Folder: 16</field>
+    <field name="location_si">Folder: 16</field>
+    <field name="collection_teim">Martha Wilson Papers</field>
+    <field name="collection_unitid_teim">MSS.175/repositories/3/resources/1733</field>
+    <field name="series_sim">Series I: Journals</field>
+    <field name="series_sim">Subseries A: Journals
+</field>
+    <field name="series_si">Series I: Journals &gt;&gt; Subseries A: Journals
+ &gt;&gt; Loose journal entries August 14, 1979 to August 18, 1979</field>
+    <field name="heading_ssm">Loose journal entries August 14, 1979 to August 18, 1979</field>
+    <field name="unitdate_start_sim">1979</field>
+    <field name="unitdate_start_ssm">1979</field>
+    <field name="unitdate_start_si">1979</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, 1979</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">18</field>
+  </doc>
+</add>

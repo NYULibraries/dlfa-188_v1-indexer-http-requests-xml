@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_155aspace_ref657</field>
+    <field name="ead_ssi">mss_155</field>
+    <field name="parent_ssi">aspace_ref654</field>
+    <field name="parent_ssm">aspace_ref654</field>
+    <field name="parent_unittitles_ssm">Series IV: Video recordings</field>
+    <field name="parent_unittitles_teim">Series IV: Video recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jaime Davidovich Collection</field>
+    <field name="collection_ssm">Jaime Davidovich Collection</field>
+    <field name="collection_unitid_ssm">MSS.155/repositories/3/resources/1715</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">&lt;strong&gt;Title: &lt;/strong&gt;Surveillance</field>
+    <field name="unittitle_teim">Title: Surveillance</field>
+    <field name="unitid_teim">ID: 155.0150</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/478998</field>
+    <field name="unitid_ssm">ID: 155.0150</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/478998</field>
+    <field name="unitdate_normal_ssm">1970/1979</field>
+    <field name="unitdate_normal_teim">1970/1979</field>
+    <field name="unitdate_normal_sim">1970/1979</field>
+    <field name="unitdate_inclusive_teim">1970's</field>
+    <field name="phystech_teim">Videodisc DVD, 4 3/4 in.; Silent, color,</field>
+    <field name="phystech_teim">Duration:33 minutes</field>
+    <field name="phystech_teim">Original format:1/2" Open Reel</field>
+    <field name="ref_ssi">aspace_ref657</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">case: 155.0150</field>
+    <field name="location_si">case: 155.0150</field>
+    <field name="collection_teim">Jaime Davidovich Collection</field>
+    <field name="collection_unitid_teim">MSS.155/repositories/3/resources/1715</field>
+    <field name="series_sim">Series IV: Video recordings</field>
+    <field name="series_si">Series IV: Video recordings &gt;&gt; &lt;strong&gt;Title: &lt;/strong&gt;Surveillance</field>
+    <field name="heading_ssm">Title: Surveillance</field>
+    <field name="unitdate_start_sim">1970</field>
+    <field name="unitdate_start_ssm">1970</field>
+    <field name="unitdate_start_si">1970</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, 1970's</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">644</field>
+  </doc>
+</add>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_180aspace_ref1975</field>
+    <field name="ead_ssi">mss_180</field>
+    <field name="parent_ssi">aspace_ref1954</field>
+    <field name="parent_ssm">aspace_ref1847</field>
+    <field name="parent_ssm">aspace_ref1954</field>
+    <field name="parent_unittitles_ssm">Series III: Administrative Materials</field>
+    <field name="parent_unittitles_ssm">Series III, Subseries C: General Administration</field>
+    <field name="parent_unittitles_teim">Series III: Administrative Materials</field>
+    <field name="parent_unittitles_teim">Series III, Subseries C: General Administration</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lynne Tillman Papers</field>
+    <field name="collection_ssm">Lynne Tillman Papers</field>
+    <field name="collection_unitid_ssm">MSS.180/repositories/3/resources/1737</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Notebook</field>
+    <field name="unittitle_teim">Notebook</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/497568</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/497568</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref1975</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14, Folder: 61</field>
+    <field name="location_ssm">Folder: 61</field>
+    <field name="location_si">Folder: 61</field>
+    <field name="collection_teim">Lynne Tillman Papers</field>
+    <field name="collection_unitid_teim">MSS.180/repositories/3/resources/1737</field>
+    <field name="series_sim">Series III: Administrative Materials</field>
+    <field name="series_sim">Series III, Subseries C: General Administration</field>
+    <field name="series_si">Series III: Administrative Materials &gt;&gt; Series III, Subseries C: General Administration &gt;&gt; Notebook</field>
+    <field name="heading_ssm">Notebook</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1941</field>
+  </doc>
+</add>

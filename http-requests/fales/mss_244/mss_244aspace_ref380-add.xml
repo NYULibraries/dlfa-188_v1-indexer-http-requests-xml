@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_244aspace_ref380</field>
+    <field name="ead_ssi">mss_244</field>
+    <field name="parent_ssi">aspace_ref375</field>
+    <field name="parent_ssm">aspace_ref375</field>
+    <field name="parent_unittitles_ssm">Series II: Marvel Asian (By Comic)</field>
+    <field name="parent_unittitles_teim">Series II: Marvel Asian (By Comic)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">William F. Wu Comics Collection</field>
+    <field name="collection_ssm">William F. Wu Comics Collection</field>
+    <field name="collection_unitid_ssm">MSS.244</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries F: Shogun Warriors</field>
+    <field name="unittitle_teim">Subseries F: Shogun Warriors</field>
+    <field name="ref_ssi">aspace_ref380</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">William F. Wu Comics Collection</field>
+    <field name="collection_unitid_teim">MSS.244</field>
+    <field name="series_sim">Series II: Marvel Asian (By Comic)</field>
+    <field name="series_si">Series II: Marvel Asian (By Comic) &gt;&gt; Subseries F: Shogun Warriors</field>
+    <field name="heading_ssm">Subseries F: Shogun Warriors</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">99</field>
+  </doc>
+</add>

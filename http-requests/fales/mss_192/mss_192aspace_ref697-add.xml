@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_192aspace_ref697</field>
+    <field name="ead_ssi">mss_192</field>
+    <field name="parent_ssi">aspace_ref694</field>
+    <field name="parent_ssm">aspace_ref692</field>
+    <field name="parent_ssm">aspace_ref694</field>
+    <field name="parent_unittitles_ssm">Series X: Film</field>
+    <field name="parent_unittitles_ssm">Subseries B: Film - Originals</field>
+    <field name="parent_unittitles_teim">Series X: Film</field>
+    <field name="parent_unittitles_teim">Subseries B: Film - Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Stuart Sherman Papers</field>
+    <field name="collection_ssm">Stuart Sherman Papers</field>
+    <field name="collection_unitid_ssm">MSS.192</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Stuart Sherman as Robert Beck</field>
+    <field name="unittitle_teim">Stuart Sherman as Robert Beck</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref697</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 20, Folder: ID: 192.0196</field>
+    <field name="location_ssm">Folder: ID: 192.0196</field>
+    <field name="location_si">Folder: ID: 192.0196</field>
+    <field name="collection_teim">Stuart Sherman Papers</field>
+    <field name="collection_unitid_teim">MSS.192</field>
+    <field name="series_sim">Series X: Film</field>
+    <field name="series_sim">Subseries B: Film - Originals</field>
+    <field name="series_si">Series X: Film &gt;&gt; Subseries B: Film - Originals &gt;&gt; Stuart Sherman as Robert Beck</field>
+    <field name="heading_ssm">Stuart Sherman as Robert Beck</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">422</field>
+  </doc>
+</add>

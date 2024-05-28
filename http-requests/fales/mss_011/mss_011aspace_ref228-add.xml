@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_011aspace_ref228</field>
+    <field name="ead_ssi">mss_011</field>
+    <field name="parent_ssi">aspace_ref225</field>
+    <field name="parent_ssm">aspace_ref224</field>
+    <field name="parent_ssm">aspace_ref225</field>
+    <field name="parent_unittitles_ssm">Series C: Printed Materials</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Annotated Typescripts</field>
+    <field name="parent_unittitles_teim">Series C: Printed Materials</field>
+    <field name="parent_unittitles_teim">Subseries 1: Annotated Typescripts</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">El Corno Emplumado Archive</field>
+    <field name="collection_ssm">El Corno Emplumado Archive</field>
+    <field name="collection_unitid_ssm">MSS.011</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Issue 31, May/June 1969</field>
+    <field name="unittitle_teim">Issue 31, May/June 1969</field>
+    <field name="unitdate_teim">1969</field>
+    <field name="ref_ssi">aspace_ref228</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">El Corno Emplumado Archive</field>
+    <field name="collection_unitid_teim">MSS.011</field>
+    <field name="series_sim">Series C: Printed Materials</field>
+    <field name="series_sim">Subseries 1: Annotated Typescripts</field>
+    <field name="series_si">Series C: Printed Materials &gt;&gt; Subseries 1: Annotated Typescripts &gt;&gt; Issue 31, May/June 1969</field>
+    <field name="heading_ssm">Issue 31, May/June 1969</field>
+    <field name="unitdate_ssm">1969</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">215</field>
+  </doc>
+</add>

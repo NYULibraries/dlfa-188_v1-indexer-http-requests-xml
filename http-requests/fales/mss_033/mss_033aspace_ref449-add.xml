@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_033aspace_ref449</field>
+    <field name="ead_ssi">mss_033</field>
+    <field name="parent_ssi">aspace_ref399</field>
+    <field name="parent_ssm">aspace_ref399</field>
+    <field name="parent_unittitles_ssm">Series VII: Photograph File</field>
+    <field name="parent_unittitles_teim">Series VII: Photograph File</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Henry Barnard Papers</field>
+    <field name="collection_ssm">Henry Barnard Papers</field>
+    <field name="collection_unitid_ssm">MSS.033</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photocopies A-B</field>
+    <field name="unittitle_teim">Photocopies A-B</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref449</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12, Folder: 49</field>
+    <field name="location_ssm">Folder: 49</field>
+    <field name="location_si">Folder: 49</field>
+    <field name="collection_teim">Henry Barnard Papers</field>
+    <field name="collection_unitid_teim">MSS.033</field>
+    <field name="series_sim">Series VII: Photograph File</field>
+    <field name="series_si">Series VII: Photograph File &gt;&gt; Photocopies A-B</field>
+    <field name="heading_ssm">Photocopies A-B</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">387</field>
+  </doc>
+</add>

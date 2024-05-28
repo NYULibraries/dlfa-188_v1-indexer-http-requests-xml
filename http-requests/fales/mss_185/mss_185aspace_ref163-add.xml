@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_185aspace_ref163</field>
+    <field name="ead_ssi">mss_185</field>
+    <field name="parent_ssi">aspace_ref156</field>
+    <field name="parent_ssm">aspace_ref156</field>
+    <field name="parent_unittitles_ssm">Oversize Series III: Correspondence</field>
+    <field name="parent_unittitles_teim">Oversize Series III: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Peter Straub Papers</field>
+    <field name="collection_ssm">Peter Straub Papers</field>
+    <field name="collection_unitid_ssm">MSS.185/repositories/3/resources/1739</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence</field>
+    <field name="unittitle_teim">Correspondence</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/500797</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/500797</field>
+    <field name="unitdate_normal_ssm">1998/2004</field>
+    <field name="unitdate_normal_teim">1998/2004</field>
+    <field name="unitdate_normal_sim">1998/2004</field>
+    <field name="unitdate_inclusive_teim">04/1998; 11/1998; 04/2000; 10/2001; 10/2004</field>
+    <field name="ref_ssi">aspace_ref163</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 65</field>
+    <field name="location_si">Box: 65</field>
+    <field name="collection_teim">Peter Straub Papers</field>
+    <field name="collection_unitid_teim">MSS.185/repositories/3/resources/1739</field>
+    <field name="series_sim">Oversize Series III: Correspondence</field>
+    <field name="series_si">Oversize Series III: Correspondence &gt;&gt; Correspondence</field>
+    <field name="heading_ssm">Correspondence</field>
+    <field name="unitdate_start_sim">1998</field>
+    <field name="unitdate_start_ssm">1998</field>
+    <field name="unitdate_start_si">1998</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, 04/1998; 11/1998; 04/2000; 10/2001; 10/2004</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">177</field>
+  </doc>
+</add>

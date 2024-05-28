@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_093aspace_ref1167</field>
+    <field name="ead_ssi">mss_093</field>
+    <field name="parent_ssi">aspace_ref1165</field>
+    <field name="parent_ssm">aspace_ref604</field>
+    <field name="parent_ssm">aspace_ref1165</field>
+    <field name="parent_unittitles_ssm">Series IX: Audio Recordings</field>
+    <field name="parent_unittitles_ssm">Subseries G: Vinyl Records</field>
+    <field name="parent_unittitles_teim">Series IX: Audio Recordings</field>
+    <field name="parent_unittitles_teim">Subseries G: Vinyl Records</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Watts Papers</field>
+    <field name="collection_ssm">John Watts Papers</field>
+    <field name="collection_unitid_ssm">MSS.093</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Trilogy Records&lt;em&gt;Note&lt;/em&gt;: Test Pressings; &lt;em&gt;Format&lt;/em&gt;: 33 1/3 and 78 rpm</field>
+    <field name="unittitle_teim">Trilogy RecordsNote: Test Pressings; Format: 33 1/3 and 78 rpm</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="title_teim">Note</field>
+    <field name="title_teim">Format</field>
+    <field name="title_ssm">Note</field>
+    <field name="title_ssm">Format</field>
+    <field name="ref_ssi">aspace_ref1167</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 67, Folder: data_value_missing_9f37bf54da196843511f32286a9e1966</field>
+    <field name="location_ssm">Folder: data_value_missing_9f37bf54da196843511f32286a9e1966</field>
+    <field name="location_si">Folder: data_value_missing_9f37bf54da196843511f32286a9e1966</field>
+    <field name="collection_teim">John Watts Papers</field>
+    <field name="collection_unitid_teim">MSS.093</field>
+    <field name="series_sim">Series IX: Audio Recordings</field>
+    <field name="series_sim">Subseries G: Vinyl Records</field>
+    <field name="series_si">Series IX: Audio Recordings &gt;&gt; Subseries G: Vinyl Records &gt;&gt; Trilogy Records&lt;em&gt;Note&lt;/em&gt;: Test Pressings; &lt;em&gt;Format&lt;/em&gt;: 33 1/3 and 78 rpm</field>
+    <field name="heading_ssm">Trilogy RecordsNote: Test Pressings; Format: 33 1/3 and 78 rpm</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1146</field>
+  </doc>
+</add>

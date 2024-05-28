@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref5511</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref4134</field>
+    <field name="parent_ssm">aspace_ref4134</field>
+    <field name="parent_unittitles_ssm">Record Group V: Fiske Family</field>
+    <field name="parent_unittitles_teim">Record Group V: Fiske Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Legal Record</field>
+    <field name="unittitle_teim">Legal Record</field>
+    <field name="unitid_teim">cuid4584</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/512605</field>
+    <field name="unitid_ssm">cuid4584</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/512605</field>
+    <field name="unitdate_normal_ssm">1945/1945</field>
+    <field name="unitdate_normal_teim">1945/1945</field>
+    <field name="unitdate_normal_sim">1945/1945</field>
+    <field name="unitdate_inclusive_teim">1945 May 29</field>
+    <field name="scopecontent_teim">1 Notarized Appraisal Booklet with Notation</field>
+    <field name="scopecontent_teim">"Appraisal: Personal Property, Estate of Cornelia [Conway Felton] Horsford at Sylvester Manor, Shelter Island, NY, Made by Pierce S. Harley, 53 State Street, Boston, MA"</field>
+    <field name="scopecontent_teim">43 Pages, Unbound with Blue Cover</field>
+    <field name="scopecontent_teim">Typed, Printed &amp; Handwritten in Ink &amp; Pencil</field>
+    <field name="scopecontent_teim">Measurements: 9" x 13"</field>
+    <field name="dao_teim">Legal Record: 1945 May 29</field>
+    <field name="dao_ssm">Legal Record: 1945 May 29</field>
+    <field name="ref_ssi">aspace_ref5511</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 117, Folder: 45</field>
+    <field name="location_ssm">Folder: 45</field>
+    <field name="location_si">Folder: 45</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group V: Fiske Family</field>
+    <field name="series_si">Record Group V: Fiske Family &gt;&gt; Legal Record</field>
+    <field name="heading_ssm">Legal Record</field>
+    <field name="unitdate_start_sim">1945</field>
+    <field name="unitdate_start_ssm">1945</field>
+    <field name="unitdate_start_si">1945</field>
+    <field name="unitdate_end_sim">1945</field>
+    <field name="unitdate_end_ssm">1945</field>
+    <field name="unitdate_end_si">1945</field>
+    <field name="unitdate_ssm">Inclusive, 1945 May 29</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5374</field>
+  </doc>
+</add>

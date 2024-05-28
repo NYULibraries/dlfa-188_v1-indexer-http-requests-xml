@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref2230</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref2228</field>
+    <field name="parent_ssm">aspace_ref2167</field>
+    <field name="parent_ssm">aspace_ref2228</field>
+    <field name="parent_unittitles_ssm">Oversize - Series XI: Art Works</field>
+    <field name="parent_unittitles_ssm">Subseries G: Other People's Art</field>
+    <field name="parent_unittitles_teim">Oversize - Series XI: Art Works</field>
+    <field name="parent_unittitles_teim">Subseries G: Other People's Art</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Barbara Kruger, "Aqui!" Issue 1, Set 1, 1984</field>
+    <field name="unittitle_teim">Barbara Kruger, "Aqui!" Issue 1, Set 1, 1984</field>
+    <field name="unitid_teim">cuid28428</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/427216</field>
+    <field name="unitid_ssm">cuid28428</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/427216</field>
+    <field name="unitdate_normal_ssm">1984/1984</field>
+    <field name="unitdate_normal_teim">1984/1984</field>
+    <field name="unitdate_normal_sim">1984/1984</field>
+    <field name="unitdate_teim">1984</field>
+    <field name="ref_ssi">aspace_ref2230</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: XI.24, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Oversize - Series XI: Art Works</field>
+    <field name="series_sim">Subseries G: Other People's Art</field>
+    <field name="series_si">Oversize - Series XI: Art Works &gt;&gt; Subseries G: Other People's Art &gt;&gt; Barbara Kruger, "Aqui!" Issue 1, Set 1, 1984</field>
+    <field name="heading_ssm">Barbara Kruger, "Aqui!" Issue 1, Set 1, 1984</field>
+    <field name="unitdate_start_sim">1984</field>
+    <field name="unitdate_start_ssm">1984</field>
+    <field name="unitdate_start_si">1984</field>
+    <field name="unitdate_end_sim">1984</field>
+    <field name="unitdate_end_ssm">1984</field>
+    <field name="unitdate_end_si">1984</field>
+    <field name="unitdate_ssm">1984</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3184</field>
+  </doc>
+</add>

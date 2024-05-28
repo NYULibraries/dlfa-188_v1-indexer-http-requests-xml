@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_191aspace_ref1490</field>
+    <field name="ead_ssi">mss_191</field>
+    <field name="parent_ssi">aspace_ref1622</field>
+    <field name="parent_ssm">aspace_ref126</field>
+    <field name="parent_ssm">aspace_ref1622</field>
+    <field name="parent_unittitles_ssm">Oversize Series V: Red Hot + Country</field>
+    <field name="parent_unittitles_ssm">Subseries D: Merchandise</field>
+    <field name="parent_unittitles_teim">Oversize Series V: Red Hot + Country</field>
+    <field name="parent_unittitles_teim">Subseries D: Merchandise</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Red Hot Organization Archive</field>
+    <field name="collection_ssm">Red Hot Organization Archive</field>
+    <field name="collection_unitid_ssm">MSS.191/repositories/3/resources/1741</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">T-shirts - Red Hot + Country</field>
+    <field name="unittitle_teim">T-shirts - Red Hot + Country</field>
+    <field name="unitid_teim">cuid8372</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/502371</field>
+    <field name="unitid_ssm">cuid8372</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/502371</field>
+    <field name="unitdate_teim">[n.d.]</field>
+    <field name="ref_ssi">aspace_ref1490</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 32, object: ID: 191.2.0005</field>
+    <field name="location_ssm">object: ID: 191.2.0005</field>
+    <field name="location_si">object: ID: 191.2.0005</field>
+    <field name="collection_teim">Red Hot Organization Archive</field>
+    <field name="collection_unitid_teim">MSS.191/repositories/3/resources/1741</field>
+    <field name="series_sim">Oversize Series V: Red Hot + Country</field>
+    <field name="series_sim">Subseries D: Merchandise</field>
+    <field name="series_si">Oversize Series V: Red Hot + Country &gt;&gt; Subseries D: Merchandise &gt;&gt; T-shirts - Red Hot + Country</field>
+    <field name="heading_ssm">T-shirts - Red Hot + Country</field>
+    <field name="unitdate_ssm">[n.d.]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1319</field>
+  </doc>
+</add>

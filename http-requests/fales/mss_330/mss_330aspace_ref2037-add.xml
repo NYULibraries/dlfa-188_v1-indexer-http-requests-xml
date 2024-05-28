@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_330aspace_ref2037</field>
+    <field name="ead_ssi">mss_330</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series VI: Original Media</field>
+    <field name="parent_unittitles_ssm">Subseries A: Media</field>
+    <field name="parent_unittitles_teim">Series VI: Original Media</field>
+    <field name="parent_unittitles_teim">Subseries A: Media</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">JDub Records Archive</field>
+    <field name="collection_ssm">JDub Records Archive</field>
+    <field name="collection_unitid_ssm">MSS.330/repositories/3/resources/1835</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Yad - "Compilation"</field>
+    <field name="unittitle_teim">Yad - "Compilation"</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/560416</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/560416</field>
+    <field name="unitdate_teim">2003</field>
+    <field name="ref_ssi">aspace_ref2037</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 32, disk: ID: 330.0374</field>
+    <field name="location_ssm">disk: ID: 330.0374</field>
+    <field name="location_si">disk: ID: 330.0374</field>
+    <field name="collection_teim">JDub Records Archive</field>
+    <field name="collection_unitid_teim">MSS.330/repositories/3/resources/1835</field>
+    <field name="series_sim">Series VI: Original Media</field>
+    <field name="series_sim">Subseries A: Media</field>
+    <field name="series_si">Series VI: Original Media &gt;&gt; Subseries A: Media &gt;&gt; Yad - "Compilation"</field>
+    <field name="heading_ssm">Yad - "Compilation"</field>
+    <field name="unitdate_ssm">2003</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1128</field>
+  </doc>
+</add>

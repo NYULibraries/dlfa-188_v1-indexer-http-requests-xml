@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_281aspace_ref16</field>
+    <field name="ead_ssi">mss_281</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series IV: Magazines</field>
+    <field name="parent_unittitles_teim">Series IV: Magazines</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sheila Lukins Papers</field>
+    <field name="collection_ssm">Sheila Lukins Papers</field>
+    <field name="collection_unitid_ssm">MSS.281/repositories/3/resources/1804</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: &lt;em&gt;Parade&lt;/em&gt;</field>
+    <field name="unittitle_teim">Subseries A: Parade</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/541528</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/541528</field>
+    <field name="scopecontent_teim">Subseries comprises issues of Parade magazine that include Lukins's contributions.</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 10</field>
+    <field name="location_si">Box: 10</field>
+    <field name="collection_teim">Sheila Lukins Papers</field>
+    <field name="collection_unitid_teim">MSS.281/repositories/3/resources/1804</field>
+    <field name="series_sim">Series IV: Magazines</field>
+    <field name="series_si">Series IV: Magazines &gt;&gt; Subseries A: &lt;em&gt;Parade&lt;/em&gt;</field>
+    <field name="heading_ssm">Subseries A: Parade</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">299</field>
+  </doc>
+</add>

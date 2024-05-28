@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_221aspace_ref5021</field>
+    <field name="ead_ssi">mss_221</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Series X: Video</field>
+    <field name="parent_unittitles_ssm">Subseries A: Access Copies - Video</field>
+    <field name="parent_unittitles_teim">Series X: Video</field>
+    <field name="parent_unittitles_teim">Subseries A: Access Copies - Video</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvère Lotringer Papers and Semiotext(e) Archive</field>
+    <field name="collection_ssm">Sylvère Lotringer Papers and Semiotext(e) Archive</field>
+    <field name="collection_unitid_ssm">MSS.221/repositories/3/resources/1762</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Los Pintos (Raymonde Carasco)</field>
+    <field name="unittitle_teim">Los Pintos (Raymonde Carasco)</field>
+    <field name="unitid_teim">ID: 221.0562</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/525244</field>
+    <field name="unitid_ssm">ID: 221.0562</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/525244</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Format: DVD</field>
+    <field name="phystech_teim">TRT: 00:58:30</field>
+    <field name="phystech_teim">Original Format: VHS</field>
+    <field name="ref_ssi">aspace_ref5021</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">case: 221.0562</field>
+    <field name="location_si">case: 221.0562</field>
+    <field name="collection_teim">Sylvère Lotringer Papers and Semiotext(e) Archive</field>
+    <field name="collection_unitid_teim">MSS.221/repositories/3/resources/1762</field>
+    <field name="series_sim">Series X: Video</field>
+    <field name="series_sim">Subseries A: Access Copies - Video</field>
+    <field name="series_si">Series X: Video &gt;&gt; Subseries A: Access Copies - Video &gt;&gt; Los Pintos (Raymonde Carasco)</field>
+    <field name="heading_ssm">Los Pintos (Raymonde Carasco)</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3745</field>
+  </doc>
+</add>

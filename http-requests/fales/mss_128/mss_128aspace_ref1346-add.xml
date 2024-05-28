@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_128aspace_ref1346</field>
+    <field name="ead_ssi">mss_128</field>
+    <field name="parent_ssi">aspace_ref22</field>
+    <field name="parent_ssm">aspace_ref20</field>
+    <field name="parent_ssm">aspace_ref22</field>
+    <field name="parent_unittitles_ssm">Series VII: Spoken Word Video Filmed by Bob Holman</field>
+    <field name="parent_unittitles_ssm">Subseries B: Originals  (Video)</field>
+    <field name="parent_unittitles_teim">Series VII: Spoken Word Video Filmed by Bob Holman</field>
+    <field name="parent_unittitles_teim">Subseries B: Originals  (Video)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_ssm">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_unitid_ssm">MSS.128</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Alive II</field>
+    <field name="unittitle_teim">Alive II</field>
+    <field name="unitid_teim">ID: 128.0647</field>
+    <field name="unitid_ssm">ID: 128.0647</field>
+    <field name="unitdate_teim">[Early 1990s]</field>
+    <field name="phystech_teim">Format: Video 8 mm, Duration: 24 min.</field>
+    <field name="ref_ssi">aspace_ref1346</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 28, Media: ID: 128.0647</field>
+    <field name="location_ssm">Media: ID: 128.0647</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: mss128_0647</field>
+    <field name="location_ssm">file: mss128_0647</field>
+    <field name="location_si">file: mss128_0647</field>
+    <field name="collection_teim">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_unitid_teim">MSS.128</field>
+    <field name="series_sim">Series VII: Spoken Word Video Filmed by Bob Holman</field>
+    <field name="series_sim">Subseries B: Originals  (Video)</field>
+    <field name="series_si">Series VII: Spoken Word Video Filmed by Bob Holman &gt;&gt; Subseries B: Originals  (Video) &gt;&gt; Alive II</field>
+    <field name="heading_ssm">Alive II</field>
+    <field name="unitdate_ssm">[Early 1990s]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">728</field>
+  </doc>
+</add>

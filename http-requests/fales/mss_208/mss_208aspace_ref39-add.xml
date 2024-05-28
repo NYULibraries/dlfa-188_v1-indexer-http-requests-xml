@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref39</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_ssm">Series A: Sylvester Family </field>
+    <field name="parent_unittitles_teim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_teim">Series A: Sylvester Family </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Research Writing with Notation
+</field>
+    <field name="unittitle_teim">Research Writing with Notation
+</field>
+    <field name="unitid_teim">cuid4774</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/507261</field>
+    <field name="unitid_ssm">cuid4774</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/507261</field>
+    <field name="unitdate_normal_ssm">1689/1746</field>
+    <field name="unitdate_normal_teim">1689/1746</field>
+    <field name="unitdate_normal_sim">1689/1746</field>
+    <field name="unitdate_inclusive_teim">1689 April 22; undated, circa 18th century</field>
+    <field name="scopecontent_teim">1 Transcription </field>
+    <field name="scopecontent_teim">Title: [Public History, Author Unidentified]</field>
+    <field name="scopecontent_teim">In Reference To: Social / Political; "Particulars of some public transactions at the time of the seizure of imprisonment of Governor [Edmund] Andros, in which John Nelson was a conspicuous actor" ; Events dated April 22, 1869 but origin of document circa post 1746</field>
+    <field name="scopecontent_teim">6 Pages, Bound by String</field>
+    <field name="scopecontent_teim">Handwritten in Blue Ink</field>
+    <field name="scopecontent_teim">Measurements: 8" x 10"</field>
+    <field name="dao_teim">Research Writing with Notation
+: 1689 April 22; undated, circa 18th century</field>
+    <field name="dao_ssm">Research Writing with Notation
+: 1689 April 22; undated, circa 18th century</field>
+    <field name="ref_ssi">aspace_ref39</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 147, Folder: 55</field>
+    <field name="location_ssm">Folder: 55</field>
+    <field name="location_si">Folder: 55</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="series_sim">Series A: Sylvester Family </field>
+    <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series A: Sylvester Family  &gt;&gt; Research Writing with Notation
+</field>
+    <field name="heading_ssm">Research Writing with Notation
+</field>
+    <field name="unitdate_start_sim">1689</field>
+    <field name="unitdate_start_ssm">1689</field>
+    <field name="unitdate_start_si">1689</field>
+    <field name="unitdate_end_sim">1746</field>
+    <field name="unitdate_end_ssm">1746</field>
+    <field name="unitdate_end_si">1746</field>
+    <field name="unitdate_ssm">Inclusive, 1689 April 22; undated, circa 18th century</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="sort_ii">27</field>
+  </doc>
+</add>

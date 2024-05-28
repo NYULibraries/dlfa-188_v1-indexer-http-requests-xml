@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_ref7</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sabbateni 3 (formerly A.3)</field>
+    <field name="unittitle_teim">Sabbateni 3 (formerly A.3)</field>
+    <field name="unitdate_teim">circa 1600</field>
+    <field name="scopecontent_teim">Two manuscripts, bound together with a total of 109 works 
+Two part-books, Discantus and Bassus, from a set of at least six</field>
+    <field name="ref_ssi">aspace_ref7</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 3 (formerly A.3)</field>
+    <field name="heading_ssm">Sabbateni 3 (formerly A.3)</field>
+    <field name="unitdate_ssm">circa 1600</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

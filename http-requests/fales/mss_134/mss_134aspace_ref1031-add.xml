@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_134aspace_ref1031</field>
+    <field name="ead_ssi">mss_134</field>
+    <field name="parent_ssi">aspace_ref1028</field>
+    <field name="parent_ssm">aspace_ref1028</field>
+    <field name="parent_unittitles_ssm">Series VII: Bibliographical Inventories</field>
+    <field name="parent_unittitles_teim">Series VII: Bibliographical Inventories</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Cecily Brownstone Papers</field>
+    <field name="collection_ssm">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_ssm">MSS.134</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ellwanger, George. &lt;em&gt;The Pleasures&lt;/em&gt;&lt;em&gt;of the Table&lt;/em&gt; (photocopied bibliography)</field>
+    <field name="unittitle_teim">Ellwanger, George. The Pleasuresof the Table (photocopied bibliography)</field>
+    <field name="unitdate_teim">[1890]</field>
+    <field name="title_teim">The Pleasures</field>
+    <field name="title_teim">of the Table</field>
+    <field name="title_ssm">The Pleasures</field>
+    <field name="title_ssm">of the Table</field>
+    <field name="ref_ssi">aspace_ref1031</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_teim">MSS.134</field>
+    <field name="series_sim">Series VII: Bibliographical Inventories</field>
+    <field name="series_si">Series VII: Bibliographical Inventories &gt;&gt; Ellwanger, George. &lt;em&gt;The Pleasures&lt;/em&gt;&lt;em&gt;of the Table&lt;/em&gt; (photocopied bibliography)</field>
+    <field name="heading_ssm">Ellwanger, George. The Pleasuresof the Table (photocopied bibliography)</field>
+    <field name="unitdate_ssm">[1890]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1090</field>
+  </doc>
+</add>

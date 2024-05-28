@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_050aspace_ref795</field>
+    <field name="ead_ssi">mss_050</field>
+    <field name="parent_ssi">aspace_ref770</field>
+    <field name="parent_ssm">aspace_ref770</field>
+    <field name="parent_unittitles_ssm">Series 11: Books</field>
+    <field name="parent_unittitles_teim">Series 11: Books</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Geoffrey T. Hellman Papers</field>
+    <field name="collection_ssm">Geoffrey T. Hellman Papers</field>
+    <field name="collection_unitid_ssm">MSS.050/repositories/3/resources/1633</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Hellman, Geoffrey. Clip File Vol. 1 1930-1941</field>
+    <field name="unittitle_teim">Hellman, Geoffrey. Clip File Vol. 1 1930-1941</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/402803</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/402803</field>
+    <field name="unitdate_teim">1930-1941</field>
+    <field name="ref_ssi">aspace_ref795</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">album: 56</field>
+    <field name="location_si">album: 56</field>
+    <field name="collection_teim">Geoffrey T. Hellman Papers</field>
+    <field name="collection_unitid_teim">MSS.050/repositories/3/resources/1633</field>
+    <field name="series_sim">Series 11: Books</field>
+    <field name="series_si">Series 11: Books &gt;&gt; Hellman, Geoffrey. Clip File Vol. 1 1930-1941</field>
+    <field name="heading_ssm">Hellman, Geoffrey. Clip File Vol. 1 1930-1941</field>
+    <field name="unitdate_ssm">1930-1941</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">407</field>
+  </doc>
+</add>

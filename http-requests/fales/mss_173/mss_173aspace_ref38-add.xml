@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_173aspace_ref38</field>
+    <field name="ead_ssi">mss_173</field>
+    <field name="parent_ssi">aspace_ref30</field>
+    <field name="parent_ssm">aspace_ref30</field>
+    <field name="parent_unittitles_ssm">Series IV: Sound recordings - Radio Works/Spoken Word/Sound</field>
+    <field name="parent_unittitles_teim">Series IV: Sound recordings - Radio Works/Spoken Word/Sound</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jacki Apple Papers</field>
+    <field name="collection_ssm">Jacki Apple Papers</field>
+    <field name="collection_unitid_ssm">MSS.173/repositories/3/resources/1731</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Mix Parade #2 - Tom Skelly/Frank Ridenour </field>
+    <field name="unittitle_teim">Mix Parade #2 - Tom Skelly/Frank Ridenour </field>
+    <field name="unitid_teim">ID: 173.0003</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/490099</field>
+    <field name="unitid_ssm">ID: 173.0003</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/490099</field>
+    <field name="unitdate_normal_ssm">1987/1988</field>
+    <field name="unitdate_normal_teim">1987/1988</field>
+    <field name="unitdate_normal_sim">1987/1988</field>
+    <field name="unitdate_inclusive_teim">1987-1988</field>
+    <field name="phystech_teim">Duration: 16 minutes</field>
+    <field name="dao_teim">Mix Parade #2 - Tom Skelly/Frank Ridenour</field>
+    <field name="dao_ssm">Mix Parade #2 - Tom Skelly/Frank Ridenour</field>
+    <field name="ref_ssi">aspace_ref38</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, audiocassette: ID: 173.0003</field>
+    <field name="location_ssm">audiocassette: ID: 173.0003</field>
+    <field name="location_si">audiocassette: ID: 173.0003</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Jacki Apple Papers</field>
+    <field name="collection_unitid_teim">MSS.173/repositories/3/resources/1731</field>
+    <field name="series_sim">Series IV: Sound recordings - Radio Works/Spoken Word/Sound</field>
+    <field name="series_si">Series IV: Sound recordings - Radio Works/Spoken Word/Sound &gt;&gt; Mix Parade #2 - Tom Skelly/Frank Ridenour </field>
+    <field name="heading_ssm">Mix Parade #2 - Tom Skelly/Frank Ridenour </field>
+    <field name="unitdate_start_sim">1987</field>
+    <field name="unitdate_start_ssm">1987</field>
+    <field name="unitdate_start_si">1987</field>
+    <field name="unitdate_end_sim">1988</field>
+    <field name="unitdate_end_ssm">1988</field>
+    <field name="unitdate_end_si">1988</field>
+    <field name="unitdate_ssm">Inclusive, 1987-1988</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

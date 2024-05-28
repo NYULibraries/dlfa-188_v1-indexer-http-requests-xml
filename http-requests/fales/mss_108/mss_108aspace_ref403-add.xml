@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_108aspace_ref403</field>
+    <field name="ead_ssi">mss_108</field>
+    <field name="parent_ssi">aspace_ref372</field>
+    <field name="parent_ssm">aspace_ref372</field>
+    <field name="parent_unittitles_ssm">Series II: New Yorker Assignments</field>
+    <field name="parent_unittitles_teim">Series II: New Yorker Assignments</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Michele Zackheim Papers</field>
+    <field name="collection_ssm">Michele Zackheim Papers</field>
+    <field name="collection_unitid_ssm">MSS.108</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries C: Correspondence</field>
+    <field name="unittitle_teim">Subseries C: Correspondence</field>
+    <field name="scopecontent_teim">Correspondence with Zackheim's agent, staff and editors of the New Yorker. For the bulk of Zackheim's correspondence related to Einstein see series III subseries D.</field>
+    <field name="ref_ssi">aspace_ref403</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Michele Zackheim Papers</field>
+    <field name="collection_unitid_teim">MSS.108</field>
+    <field name="series_sim">Series II: New Yorker Assignments</field>
+    <field name="series_si">Series II: New Yorker Assignments &gt;&gt; Subseries C: Correspondence</field>
+    <field name="heading_ssm">Subseries C: Correspondence</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">203</field>
+  </doc>
+</add>

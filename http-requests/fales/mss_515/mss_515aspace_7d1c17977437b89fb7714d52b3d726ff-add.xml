@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_515aspace_7d1c17977437b89fb7714d52b3d726ff</field>
+    <field name="ead_ssi">mss_515</field>
+    <field name="parent_ssi">aspace_ae7751e412130d69c4f8ad62d90e0a16</field>
+    <field name="parent_ssm">aspace_b286ad2deb3c3d285005d1b748b1527b</field>
+    <field name="parent_ssm">aspace_ae7751e412130d69c4f8ad62d90e0a16</field>
+    <field name="parent_unittitles_ssm">Series VIII. Other NYFA Programs</field>
+    <field name="parent_unittitles_ssm">Subseries J. Arts and Technology</field>
+    <field name="parent_unittitles_teim">Series VIII. Other NYFA Programs</field>
+    <field name="parent_unittitles_teim">Subseries J. Arts and Technology</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Foundation For the Arts (NYFA) Records</field>
+    <field name="collection_ssm">New York Foundation For the Arts (NYFA) Records</field>
+    <field name="collection_unitid_ssm">MSS.515</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Das Puppenspiel Puppet Theater, Inc.</field>
+    <field name="unittitle_teim">Das Puppenspiel Puppet Theater, Inc.</field>
+    <field name="unitdate_normal_ssm">1998/1999</field>
+    <field name="unitdate_normal_teim">1998/1999</field>
+    <field name="unitdate_normal_sim">1998/1999</field>
+    <field name="unitdate_inclusive_teim">1998-1999</field>
+    <field name="ref_ssi">aspace_7d1c17977437b89fb7714d52b3d726ff</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 39, Folder: 86</field>
+    <field name="location_ssm">Folder: 86</field>
+    <field name="location_si">Folder: 86</field>
+    <field name="collection_teim">New York Foundation For the Arts (NYFA) Records</field>
+    <field name="collection_unitid_teim">MSS.515</field>
+    <field name="series_sim">Series VIII. Other NYFA Programs</field>
+    <field name="series_sim">Subseries J. Arts and Technology</field>
+    <field name="series_si">Series VIII. Other NYFA Programs &gt;&gt; Subseries J. Arts and Technology &gt;&gt; Das Puppenspiel Puppet Theater, Inc.</field>
+    <field name="heading_ssm">Das Puppenspiel Puppet Theater, Inc.</field>
+    <field name="unitdate_start_sim">1998</field>
+    <field name="unitdate_start_ssm">1998</field>
+    <field name="unitdate_start_si">1998</field>
+    <field name="unitdate_end_sim">1999</field>
+    <field name="unitdate_end_ssm">1999</field>
+    <field name="unitdate_end_si">1999</field>
+    <field name="unitdate_ssm">Inclusive, 1998-1999</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">11065</field>
+  </doc>
+</add>

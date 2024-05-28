@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_326aspace_ref213</field>
+    <field name="ead_ssi">mss_326</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series I: Flaherty Film Seminars</field>
+    <field name="parent_unittitles_ssm">Subseries A: Audio Recordings</field>
+    <field name="parent_unittitles_teim">Series I: Flaherty Film Seminars</field>
+    <field name="parent_unittitles_teim">Subseries A: Audio Recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Flaherty Film Seminar Archive</field>
+    <field name="collection_ssm">Robert Flaherty Film Seminar Archive</field>
+    <field name="collection_unitid_ssm">MSS.326/repositories/3/resources/1832</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">11th Annual Flaherty Seminar - Tape 9</field>
+    <field name="unittitle_teim">11th Annual Flaherty Seminar - Tape 9</field>
+    <field name="unitid_teim">ID: 326.0053</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/558067</field>
+    <field name="unitid_ssm">ID: 326.0053</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/558067</field>
+    <field name="unitdate_teim">1965</field>
+    <field name="scopecontent_teim">George Stoney (continued), 
+Introduction to "A Valparaiso" by Ivens, 
+Talk on "Americans from Jungaria", 
+Intro to "Antonio Gaudi" and "Time Is", 
+"The Winner".</field>
+    <field name="phystech_teim">Duration: 50 minutes</field>
+    <field name="phystech_teim">Original Format: 1/4" audio reel </field>
+    <field name="phystech_teim">Original Number: 1965-09</field>
+    <field name="dao_teim">11th Annual Flaherty Seminar - Tape 9: 1965</field>
+    <field name="dao_ssm">11th Annual Flaherty Seminar - Tape 9: 1965</field>
+    <field name="ref_ssi">aspace_ref213</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Media: ID: 326.0053</field>
+    <field name="location_ssm">Media: ID: 326.0053</field>
+    <field name="location_ssm">case: 326.0053</field>
+    <field name="location_si">case: 326.0053</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Robert Flaherty Film Seminar Archive</field>
+    <field name="collection_unitid_teim">MSS.326/repositories/3/resources/1832</field>
+    <field name="series_sim">Series I: Flaherty Film Seminars</field>
+    <field name="series_sim">Subseries A: Audio Recordings</field>
+    <field name="series_si">Series I: Flaherty Film Seminars &gt;&gt; Subseries A: Audio Recordings &gt;&gt; 11th Annual Flaherty Seminar - Tape 9</field>
+    <field name="heading_ssm">11th Annual Flaherty Seminar - Tape 9</field>
+    <field name="unitdate_ssm">1965</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">53</field>
+  </doc>
+</add>

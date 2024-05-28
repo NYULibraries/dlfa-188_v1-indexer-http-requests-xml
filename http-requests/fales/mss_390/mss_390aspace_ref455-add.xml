@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_390aspace_ref455</field>
+    <field name="ead_ssi">mss_390</field>
+    <field name="parent_ssi">aspace_ref112</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref112</field>
+    <field name="parent_unittitles_ssm">Series III: Audio</field>
+    <field name="parent_unittitles_ssm">Subseries A: Audio Elements</field>
+    <field name="parent_unittitles_teim">Series III: Audio</field>
+    <field name="parent_unittitles_teim">Subseries A: Audio Elements</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Washington Square Contemporary Music Society Archive</field>
+    <field name="collection_ssm">The Washington Square Contemporary Music Society Archive</field>
+    <field name="collection_unitid_ssm">MSS.390</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Washington Square Ensemble, 35th Season, Concert 1</field>
+    <field name="unittitle_teim">Washington Square Ensemble, 35th Season, Concert 1</field>
+    <field name="unitid_teim">ID: 390.0168</field>
+    <field name="unitid_ssm">ID: 390.0168</field>
+    <field name="unitdate_teim">December 16, 2011</field>
+    <field name="phystech_teim">Format: CD</field>
+    <field name="ref_ssi">aspace_ref455</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Media: ID: 390.0168</field>
+    <field name="location_ssm">Media: ID: 390.0168</field>
+    <field name="location_si">Media: ID: 390.0168</field>
+    <field name="collection_teim">The Washington Square Contemporary Music Society Archive</field>
+    <field name="collection_unitid_teim">MSS.390</field>
+    <field name="series_sim">Series III: Audio</field>
+    <field name="series_sim">Subseries A: Audio Elements</field>
+    <field name="series_si">Series III: Audio &gt;&gt; Subseries A: Audio Elements &gt;&gt; Washington Square Ensemble, 35th Season, Concert 1</field>
+    <field name="heading_ssm">Washington Square Ensemble, 35th Season, Concert 1</field>
+    <field name="unitdate_ssm">December 16, 2011</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">279</field>
+  </doc>
+</add>

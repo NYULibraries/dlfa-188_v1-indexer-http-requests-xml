@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_51b085a860945039e464e3be3cd7a01c</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref19</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref19</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_ssm">Sabbateni 9 (formerly B.5)</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Sabbateni 9 (formerly B.5)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Bassus</field>
+    <field name="unittitle_teim">Bassus</field>
+    <field name="unitid_teim">cuid39020</field>
+    <field name="unitid_ssm">cuid39020</field>
+    <field name="ref_ssi">aspace_51b085a860945039e464e3be3cd7a01c</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 24</field>
+    <field name="location_si">Box: 24</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_sim">Sabbateni 9 (formerly B.5)</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 9 (formerly B.5) &gt;&gt; Bassus</field>
+    <field name="heading_ssm">Bassus</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">34</field>
+  </doc>
+</add>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_046aspace_ref224</field>
+    <field name="ead_ssi">mss_046</field>
+    <field name="parent_ssi">aspace_ref17</field>
+    <field name="parent_ssm">aspace_ref16</field>
+    <field name="parent_ssm">aspace_ref17</field>
+    <field name="parent_unittitles_ssm">Series I: Alexander Lipsky</field>
+    <field name="parent_unittitles_ssm">Subseries A: Alexander Lipsky's annotated musical scores</field>
+    <field name="parent_unittitles_teim">Series I: Alexander Lipsky</field>
+    <field name="parent_unittitles_teim">Subseries A: Alexander Lipsky's annotated musical scores</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brody/Klooster Performance Practice Collection</field>
+    <field name="collection_ssm">Brody/Klooster Performance Practice Collection</field>
+    <field name="collection_unitid_ssm">MSS.046</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Telemann, Georg Phillip, clavier fantasies.</field>
+    <field name="unittitle_teim">Telemann, Georg Phillip, clavier fantasies.</field>
+    <field name="unitid_teim">31142040611959</field>
+    <field name="unitid_ssm">31142040611959</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref224</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 98</field>
+    <field name="location_ssm">Folder: 98</field>
+    <field name="location_si">Folder: 98</field>
+    <field name="collection_teim">Brody/Klooster Performance Practice Collection</field>
+    <field name="collection_unitid_teim">MSS.046</field>
+    <field name="series_sim">Series I: Alexander Lipsky</field>
+    <field name="series_sim">Subseries A: Alexander Lipsky's annotated musical scores</field>
+    <field name="series_si">Series I: Alexander Lipsky &gt;&gt; Subseries A: Alexander Lipsky's annotated musical scores &gt;&gt; Telemann, Georg Phillip, clavier fantasies.</field>
+    <field name="heading_ssm">Telemann, Georg Phillip, clavier fantasies.</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">106</field>
+  </doc>
+</add>

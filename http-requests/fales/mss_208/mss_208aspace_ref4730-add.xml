@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref4730</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1803</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref1801</field>
+    <field name="parent_ssm">aspace_ref1802</field>
+    <field name="parent_ssm">aspace_ref1803</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family
+</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family
+</field>
+    <field name="component_level_isim">5</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Fiske, Gertrude Hubbard Horsford: Massachusetts; New York; Vermont
+
+</field>
+    <field name="unittitle_teim">Fiske, Gertrude Hubbard Horsford: Massachusetts; New York; Vermont
+
+</field>
+    <field name="unitid_teim">cuid1949</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/509903</field>
+    <field name="unitid_ssm">cuid1949</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/509903</field>
+    <field name="unitdate_normal_ssm">1870/1893</field>
+    <field name="unitdate_normal_teim">1870/1893</field>
+    <field name="unitdate_normal_sim">1870/1893</field>
+    <field name="unitdate_inclusive_teim">1872 July 31 - 1891 July 27; undated, circa 1870 - 1893</field>
+    <field name="scopecontent_teim">33 Letters with Indentation &amp; Notation, 1 Envelope with Postage, 1 Western Union Telegraph Form</field>
+    <field name="scopecontent_teim">Addressed To: "Mama / My precious Papa," "Professor E.N. [Eben Norton] Horsford, Sylvester Manor, Shelter Island, NY"</field>
+    <field name="scopecontent_teim">Sent From: "Gertrude [Hubbard Horsford Fiske], 216 Commonwealth Avenue," [Boston, MA], "℅ Paul Smith, Adirondack Mountains, Franklin County," [Keene, NY], "New York, NY," "Samoset House, Plymouth, MA," "Shelter Island," [NY], "Van Ness &amp; American Hotels, Burlington, VT," "Weston," [MA], [Daughter of Eben Norton Horsford]</field>
+    <field name="scopecontent_teim">In Reference To: Family / Financial / Friendship / Personal / Social / Travel </field>
+    <field name="scopecontent_teim">136 Pages, Bound &amp; Unbound</field>
+    <field name="scopecontent_teim">Printed &amp; Handwritten in Ink &amp; Pencil </field>
+    <field name="scopecontent_teim">Measurements: 4.5" x 3.5" - 5.75" x 9.75"</field>
+    <field name="dao_teim">Fiske, Gertrude Hubbard Horsford: Massachusetts; New York; Vermont</field>
+    <field name="dao_teim">: 1872 July 31 - 1891 July 27; undated, circa 1870 - 1893</field>
+    <field name="dao_ssm">Fiske, Gertrude Hubbard Horsford: Massachusetts; New York; Vermont</field>
+    <field name="dao_ssm">: 1872 July 31 - 1891 July 27; undated, circa 1870 - 1893</field>
+    <field name="ref_ssi">aspace_ref4730</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 59, Folder: 44</field>
+    <field name="location_ssm">Folder: 44</field>
+    <field name="location_si">Folder: 44</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_sim">Series A: Eben Norton Horsford</field>
+    <field name="series_sim">Subseries 1: Correspondence</field>
+    <field name="series_sim">Subsubseries a: Academic and Family
+</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Fiske, Gertrude Hubbard Horsford: Massachusetts; New York; Vermont
+
+</field>
+    <field name="heading_ssm">Fiske, Gertrude Hubbard Horsford: Massachusetts; New York; Vermont
+
+</field>
+    <field name="unitdate_start_sim">1870</field>
+    <field name="unitdate_start_ssm">1870</field>
+    <field name="unitdate_start_si">1870</field>
+    <field name="unitdate_end_sim">1893</field>
+    <field name="unitdate_end_ssm">1893</field>
+    <field name="unitdate_end_si">1893</field>
+    <field name="unitdate_ssm">Inclusive, 1872 July 31 - 1891 July 27; undated, circa 1870 - 1893</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2670</field>
+  </doc>
+</add>

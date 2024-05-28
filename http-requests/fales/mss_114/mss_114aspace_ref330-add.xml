@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_114aspace_ref330</field>
+    <field name="ead_ssi">mss_114</field>
+    <field name="parent_ssi">aspace_ref311</field>
+    <field name="parent_ssm">aspace_ref310</field>
+    <field name="parent_ssm">aspace_ref311</field>
+    <field name="parent_unittitles_ssm">Series II: Slides</field>
+    <field name="parent_unittitles_ssm">Subseries A: Dance and performance</field>
+    <field name="parent_unittitles_teim">Series II: Slides</field>
+    <field name="parent_unittitles_teim">Subseries A: Dance and performance</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Alexander Papers</field>
+    <field name="collection_ssm">Robert Alexander Papers</field>
+    <field name="collection_unitid_ssm">MSS.114</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Bill T. Jones and Kenneth King</field>
+    <field name="unittitle_teim">Bill T. Jones and Kenneth King</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref330</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Robert Alexander Papers</field>
+    <field name="collection_unitid_teim">MSS.114</field>
+    <field name="series_sim">Series II: Slides</field>
+    <field name="series_sim">Subseries A: Dance and performance</field>
+    <field name="series_si">Series II: Slides &gt;&gt; Subseries A: Dance and performance &gt;&gt; Bill T. Jones and Kenneth King</field>
+    <field name="heading_ssm">Bill T. Jones and Kenneth King</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">316</field>
+  </doc>
+</add>

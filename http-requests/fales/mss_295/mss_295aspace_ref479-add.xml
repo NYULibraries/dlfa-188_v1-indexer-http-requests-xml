@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_295aspace_ref479</field>
+    <field name="ead_ssi">mss_295</field>
+    <field name="parent_ssi">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_unittitles_ssm">Cookery Ephemera</field>
+    <field name="parent_unittitles_teim">Cookery Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Andrew F. Smith Collection of Cookery Ephemera</field>
+    <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+    <field name="collection_unitid_ssm">MSS.295/repositories/3/resources/2284</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Monterey Packing Company; Modern Magazines</field>
+    <field name="unittitle_teim">Monterey Packing Company; Modern Magazines</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/729729</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/729729</field>
+    <field name="unitdate_normal_ssm">1900/1939</field>
+    <field name="unitdate_normal_teim">1900/1939</field>
+    <field name="unitdate_normal_sim">1900/1939</field>
+    <field name="unitdate_inclusive_teim">circa 1900-1930s</field>
+    <field name="scopecontent_teim">Modern Magazines. The Modern Hostess Recipe Book; 72 Favorite Dishes of Hollywood. New York, NY: Modern Magazines, undated.</field>
+    <field name="scopecontent_teim"> Monterey Packing Co. Booth's Sardines Crescent Brand. Monterey, CA: Monterey Packing Co., circa 1900.</field>
+    <field name="ref_ssi">aspace_ref479</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 25, Folder: 22</field>
+    <field name="location_ssm">Folder: 22</field>
+    <field name="location_si">Folder: 22</field>
+    <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
+    <field name="collection_unitid_teim">MSS.295/repositories/3/resources/2284</field>
+    <field name="series_sim">Cookery Ephemera</field>
+    <field name="series_si">Cookery Ephemera &gt;&gt; Monterey Packing Company; Modern Magazines</field>
+    <field name="heading_ssm">Monterey Packing Company; Modern Magazines</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">1939</field>
+    <field name="unitdate_end_ssm">1939</field>
+    <field name="unitdate_end_si">1939</field>
+    <field name="unitdate_ssm">Inclusive, circa 1900-1930s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">474</field>
+  </doc>
+</add>

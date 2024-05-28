@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref4121</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Series F: Gertrude Hubbard Horsford Fiske</field>
+    <field name="unittitle_teim">Series F: Gertrude Hubbard Horsford Fiske</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/511819</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/511819</field>
+    <field name="scopecontent_teim">Record Group IV, Series F pertains to Gertrude Hubbard Horsford Fiske's personal life in the form of letters from her friends and sisters. </field>
+    <field name="scopecontent_teim">These materials are arranged alphabetically by the company name or surname of the individual in contact. </field>
+    <field name="scopecontent_teim">Record titles reflect this arrangement by taking the form: 
+[Surname, First Name]: [Location]. </field>
+    <field name="scopecontent_teim">In the case that a set of correspondence includes multiple authors or the surname of the individual are unidentified, record titles reflect administrative categories, first names, initials, or nicknames, with possible surnames and locations provided in brackets. In the case that a record includes more than one date expression, the listing will begin with its earliest. If a record is physically undated, approximate ranges are provided. These records are noted "undated" and followed by a "circa" estimate determined by the range represented in the same subseries.</field>
+    <field name="bioghist_teim">Gertrude Hubbard Horsford Fiske (1852 - 1920) was born to Eben Norton Horsford and Mary L'Hommedieu Gardiner Horsford in Cambridge, MA. Gertrude married Boston attorney Andrew Fiske (1854 - 1897) in 1878, and they produced five children: Impressionist figure and landscape painter Gertrude Horsford Fiske (1879 - 1961), Dr. Augustus Henry Fiske (born 1880), Eben Norton Fiske (born 1883), Gardiner Horsford Fiske (born 1892), and Cornelia Horsford Fiske (Mrs. Harold Willis) (born 1895).</field>
+    <field name="ref_ssi">aspace_ref4121</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series F: Gertrude Hubbard Horsford Fiske</field>
+    <field name="heading_ssm">Series F: Gertrude Hubbard Horsford Fiske</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4587</field>
+  </doc>
+</add>

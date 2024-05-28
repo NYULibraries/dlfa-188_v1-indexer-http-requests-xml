@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_054aspace_ref514</field>
+    <field name="ead_ssi">mss_054</field>
+    <field name="parent_ssi">aspace_ref415</field>
+    <field name="parent_ssm">aspace_ref415</field>
+    <field name="parent_unittitles_ssm">Series VII. Art Songs</field>
+    <field name="parent_unittitles_teim">Series VII. Art Songs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sholom Secunda Papers</field>
+    <field name="collection_ssm">Sholom Secunda Papers</field>
+    <field name="collection_unitid_ssm">MSS.054</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Mames Brokhe</field>
+    <field name="unittitle_teim">Mames Brokhe</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref514</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 53</field>
+    <field name="location_si">Box: 53</field>
+    <field name="collection_teim">Sholom Secunda Papers</field>
+    <field name="collection_unitid_teim">MSS.054</field>
+    <field name="series_sim">Series VII. Art Songs</field>
+    <field name="series_si">Series VII. Art Songs &gt;&gt; Mames Brokhe</field>
+    <field name="heading_ssm">Mames Brokhe</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">255</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_024aspace_ref31</field>
+    <field name="ead_ssi">mss_024</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Correspondence</field>
+    <field name="parent_unittitles_teim">Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Signal Archive</field>
+    <field name="collection_ssm">Signal Archive</field>
+    <field name="collection_unitid_ssm">MSS.024</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Manuscript: Rumaker, Michael.
+</field>
+    <field name="unittitle_teim">Manuscript: Rumaker, Michael.
+</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref31</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 25</field>
+    <field name="location_ssm">Folder: 25</field>
+    <field name="location_si">Folder: 25</field>
+    <field name="collection_teim">Signal Archive</field>
+    <field name="collection_unitid_teim">MSS.024</field>
+    <field name="series_sim">Correspondence</field>
+    <field name="series_si">Correspondence &gt;&gt; Manuscript: Rumaker, Michael.
+</field>
+    <field name="heading_ssm">Manuscript: Rumaker, Michael.
+</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">26</field>
+  </doc>
+</add>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_086aspace_ref2431</field>
+    <field name="ead_ssi">mss_086</field>
+    <field name="parent_ssi">aspace_ref2427</field>
+    <field name="parent_ssm">aspace_ref2421</field>
+    <field name="parent_ssm">aspace_ref2427</field>
+    <field name="parent_unittitles_ssm">Series VI: Miscellaneous</field>
+    <field name="parent_unittitles_ssm">Subseries B: Printed material</field>
+    <field name="parent_unittitles_teim">Series VI: Miscellaneous</field>
+    <field name="parent_unittitles_teim">Subseries B: Printed material</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Serpent's Tail/High Risk Archive</field>
+    <field name="collection_ssm">Serpent's Tail/High Risk Archive</field>
+    <field name="collection_unitid_ssm">MSS.086/repositories/3/resources/1656</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Redstone calendar</field>
+    <field name="unittitle_teim">Redstone calendar</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/421956</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/421956</field>
+    <field name="unitdate_teim">1995</field>
+    <field name="ref_ssi">aspace_ref2431</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: VI.1, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Serpent's Tail/High Risk Archive</field>
+    <field name="collection_unitid_teim">MSS.086/repositories/3/resources/1656</field>
+    <field name="series_sim">Series VI: Miscellaneous</field>
+    <field name="series_sim">Subseries B: Printed material</field>
+    <field name="series_si">Series VI: Miscellaneous &gt;&gt; Subseries B: Printed material &gt;&gt; Redstone calendar</field>
+    <field name="heading_ssm">Redstone calendar</field>
+    <field name="unitdate_ssm">1995</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1221</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_343aspace_ref10501</field>
+    <field name="ead_ssi">mss_343</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Exit Art Archive</field>
+    <field name="collection_ssm">Exit Art Archive</field>
+    <field name="collection_unitid_ssm">MSS.343/repositories/3/resources/1844</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII: The Apartment Store</field>
+    <field name="unittitle_teim">Series VII: The Apartment Store</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/569778</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/569778</field>
+    <field name="unitdate_normal_ssm">1990/1997</field>
+    <field name="unitdate_normal_teim">1990/1997</field>
+    <field name="unitdate_normal_sim">1990/1997</field>
+    <field name="unitdate_inclusive_teim">1990-1997</field>
+    <field name="scopecontent_teim">Series VII: The Apartment Store preserves records of the shop Exit Art opened to sell artist-made objects. This series includes administrative documents, correspondence, photographic materials, research files, arranged alphabetically by record type.</field>
+    <field name="ref_ssi">aspace_ref10501</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Exit Art Archive</field>
+    <field name="collection_unitid_teim">MSS.343/repositories/3/resources/1844</field>
+    <field name="series_si">Series VII: The Apartment Store</field>
+    <field name="heading_ssm">Series VII: The Apartment Store</field>
+    <field name="unitdate_start_sim">1990</field>
+    <field name="unitdate_start_ssm">1990</field>
+    <field name="unitdate_start_si">1990</field>
+    <field name="unitdate_end_sim">1997</field>
+    <field name="unitdate_end_ssm">1997</field>
+    <field name="unitdate_end_si">1997</field>
+    <field name="unitdate_ssm">Inclusive, 1990-1997</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">6831</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_253aspace_ref1296</field>
+    <field name="ead_ssi">mss_253</field>
+    <field name="parent_ssi">aspace_ref1290</field>
+    <field name="parent_ssm">aspace_ref1290</field>
+    <field name="parent_unittitles_ssm">Series X: Objects</field>
+    <field name="parent_unittitles_teim">Series X: Objects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Paul Langland Papers</field>
+    <field name="collection_ssm">Paul Langland Papers</field>
+    <field name="collection_unitid_ssm">MSS.253/repositories/3/resources/1783</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Costume - Shirt</field>
+    <field name="unittitle_teim">Costume - Shirt</field>
+    <field name="unitid_teim">cuid29278</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/532333</field>
+    <field name="unitid_ssm">cuid29278</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/532333</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1296</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 30</field>
+    <field name="location_si">Box: 30</field>
+    <field name="collection_teim">Paul Langland Papers</field>
+    <field name="collection_unitid_teim">MSS.253/repositories/3/resources/1783</field>
+    <field name="series_sim">Series X: Objects</field>
+    <field name="series_si">Series X: Objects &gt;&gt; Costume - Shirt</field>
+    <field name="heading_ssm">Costume - Shirt</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">596</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_150aspace_ref364</field>
+    <field name="ead_ssi">mss_150</field>
+    <field name="parent_ssi">aspace_ref354</field>
+    <field name="parent_ssm">aspace_ref354</field>
+    <field name="parent_unittitles_ssm">Series XI: Objects/ Artifacts and Media</field>
+    <field name="parent_unittitles_teim">Series XI: Objects/ Artifacts and Media</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Les Dames d'Escoffier New York Archive</field>
+    <field name="collection_ssm">Les Dames d'Escoffier New York Archive</field>
+    <field name="collection_unitid_ssm">MSS.150</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Brut champagne bottle (empty), black with splotches of paint. Label: Brut 1990/ Aurora Millenium 2000</field>
+    <field name="unittitle_teim">Brut champagne bottle (empty), black with splotches of paint. Label: Brut 1990/ Aurora Millenium 2000</field>
+    <field name="unitdate_teim">1990/2000</field>
+    <field name="phystech_teim">champagne bottle, glass</field>
+    <field name="ref_ssi">aspace_ref364</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 24, Folder: 150.0006</field>
+    <field name="location_ssm">Folder: 150.0006</field>
+    <field name="location_si">Folder: 150.0006</field>
+    <field name="collection_teim">Les Dames d'Escoffier New York Archive</field>
+    <field name="collection_unitid_teim">MSS.150</field>
+    <field name="series_sim">Series XI: Objects/ Artifacts and Media</field>
+    <field name="series_si">Series XI: Objects/ Artifacts and Media &gt;&gt; Brut champagne bottle (empty), black with splotches of paint. Label: Brut 1990/ Aurora Millenium 2000</field>
+    <field name="heading_ssm">Brut champagne bottle (empty), black with splotches of paint. Label: Brut 1990/ Aurora Millenium 2000</field>
+    <field name="unitdate_ssm">1990/2000</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">339</field>
+  </doc>
+</add>

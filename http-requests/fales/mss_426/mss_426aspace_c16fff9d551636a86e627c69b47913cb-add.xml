@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_426aspace_c16fff9d551636a86e627c69b47913cb</field>
+    <field name="ead_ssi">mss_426</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Video recordings</field>
+    <field name="parent_unittitles_teim">Series I: Video recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Gay USA Collection</field>
+    <field name="collection_ssm">Gay USA Collection</field>
+    <field name="collection_unitid_ssm">MSS.426</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Gay USA 07/22/2000 Gay Les Awards</field>
+    <field name="unittitle_teim">Gay USA 07/22/2000 Gay Les Awards</field>
+    <field name="unitid_teim">426.5987</field>
+    <field name="unitid_ssm">426.5987</field>
+    <field name="unitdate_normal_ssm">2000-06-22/2000-06-22</field>
+    <field name="unitdate_normal_teim">2000-06-22/2000-06-22</field>
+    <field name="unitdate_normal_sim">2000-06-22/2000-06-22</field>
+    <field name="unitdate_inclusive_teim">2000-06-22</field>
+    <field name="phystech_teim">Color, Sound	</field>
+    <field name="phystech_teim">Duration: 60 minutes</field>
+    <field name="phystech_teim">Original format: MiniDV</field>
+    <field name="dao_teim">Gay USA 07/22/2000 Gay Les Awards: 2000-06-22</field>
+    <field name="dao_ssm">Gay USA 07/22/2000 Gay Les Awards: 2000-06-22</field>
+    <field name="ref_ssi">aspace_c16fff9d551636a86e627c69b47913cb</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10, Media: ID: 426.5987</field>
+    <field name="location_ssm">Media: ID: 426.5987</field>
+    <field name="location_si">Media: ID: 426.5987</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Gay USA Collection</field>
+    <field name="collection_unitid_teim">MSS.426</field>
+    <field name="series_sim">Series I: Video recordings</field>
+    <field name="series_si">Series I: Video recordings &gt;&gt; Gay USA 07/22/2000 Gay Les Awards</field>
+    <field name="heading_ssm">Gay USA 07/22/2000 Gay Les Awards</field>
+    <field name="unitdate_ssm">Inclusive, 2000-06-22</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

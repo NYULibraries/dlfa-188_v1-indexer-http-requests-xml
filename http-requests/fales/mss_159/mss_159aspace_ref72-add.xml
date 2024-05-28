@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_159aspace_ref72</field>
+    <field name="ead_ssi">mss_159</field>
+    <field name="parent_ssi">aspace_ref44</field>
+    <field name="parent_ssm">aspace_ref44</field>
+    <field name="parent_unittitles_ssm">Series X: Printed Material</field>
+    <field name="parent_unittitles_teim">Series X: Printed Material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Marion Nestle Papers</field>
+    <field name="collection_ssm">Marion Nestle Papers</field>
+    <field name="collection_unitid_ssm">MSS.159/repositories/3/resources/1719</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: USDA Publications</field>
+    <field name="unittitle_teim">Subseries A: USDA Publications</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/483051</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/483051</field>
+    <field name="scopecontent_teim">Subseries A: USDA Publications contains a complete edition of the United States Department of Agriculture's Composition of Foods. A few other smaller USDA Publications are also included.</field>
+    <field name="ref_ssi">aspace_ref72</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Marion Nestle Papers</field>
+    <field name="collection_unitid_teim">MSS.159/repositories/3/resources/1719</field>
+    <field name="series_sim">Series X: Printed Material</field>
+    <field name="series_si">Series X: Printed Material &gt;&gt; Subseries A: USDA Publications</field>
+    <field name="heading_ssm">Subseries A: USDA Publications</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">831</field>
+  </doc>
+</add>

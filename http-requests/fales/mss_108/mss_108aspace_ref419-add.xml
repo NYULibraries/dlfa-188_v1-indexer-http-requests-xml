@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_108aspace_ref419</field>
+    <field name="ead_ssi">mss_108</field>
+    <field name="parent_ssi">aspace_ref418</field>
+    <field name="parent_ssm">aspace_ref418</field>
+    <field name="parent_unittitles_ssm">Series III: Einstein</field>
+    <field name="parent_unittitles_teim">Series III: Einstein</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Michele Zackheim Papers</field>
+    <field name="collection_ssm">Michele Zackheim Papers</field>
+    <field name="collection_unitid_ssm">MSS.108</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Research</field>
+    <field name="unittitle_teim">Subseries A: Research</field>
+    <field name="scopecontent_teim">Contains Michele Zackheim's research files that include notes, correspondence, books such as biographies and tourist guides, and photographs for Einstein's Daughter. The subseries is arranged alphabetically by author when relevant and subject with the exception of Michele Zackheim's note card file and research binders, which can be found at the end of the subseries. Research Binder # 4 consisting of negatives, contact sheets, and photographs was removed and transferred to subseries G, box 11.</field>
+    <field name="ref_ssi">aspace_ref419</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Michele Zackheim Papers</field>
+    <field name="collection_unitid_teim">MSS.108</field>
+    <field name="series_sim">Series III: Einstein</field>
+    <field name="series_si">Series III: Einstein &gt;&gt; Subseries A: Research</field>
+    <field name="heading_ssm">Subseries A: Research</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">211</field>
+  </doc>
+</add>

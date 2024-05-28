@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_153aspace_ref26</field>
+    <field name="ead_ssi">mss_153</field>
+    <field name="parent_ssi">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_unittitles_ssm">Series I: Video</field>
+    <field name="parent_unittitles_ssm">Subseries B: Access Copies</field>
+    <field name="parent_unittitles_teim">Series I: Video</field>
+    <field name="parent_unittitles_teim">Subseries B: Access Copies</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lenora Champagne Papers</field>
+    <field name="collection_ssm">Lenora Champagne Papers</field>
+    <field name="collection_unitid_ssm">MSS.153</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">As Ready, Apart From Herself, Written &amp;amp; Directed by Lenora Champagne, Recorded 16 May 1986</field>
+    <field name="unittitle_teim">As Ready, Apart From Herself, Written &amp; Directed by Lenora Champagne, Recorded 16 May 1986</field>
+    <field name="unitid_teim">ID: 153.0060</field>
+    <field name="unitid_ssm">ID: 153.0060</field>
+    <field name="unitdate_teim">1986</field>
+    <field name="phystech_teim">Format: DVD</field>
+    <field name="phystech_teim">Duration: [00:34:00]</field>
+    <field name="phystech_teim">Original Format: 3/4" U-Matic</field>
+    <field name="ref_ssi">aspace_ref26</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">case: 153.0060</field>
+    <field name="location_si">case: 153.0060</field>
+    <field name="collection_teim">Lenora Champagne Papers</field>
+    <field name="collection_unitid_teim">MSS.153</field>
+    <field name="series_sim">Series I: Video</field>
+    <field name="series_sim">Subseries B: Access Copies</field>
+    <field name="series_si">Series I: Video &gt;&gt; Subseries B: Access Copies &gt;&gt; As Ready, Apart From Herself, Written &amp;amp; Directed by Lenora Champagne, Recorded 16 May 1986</field>
+    <field name="heading_ssm">As Ready, Apart From Herself, Written &amp; Directed by Lenora Champagne, Recorded 16 May 1986</field>
+    <field name="unitdate_ssm">1986</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

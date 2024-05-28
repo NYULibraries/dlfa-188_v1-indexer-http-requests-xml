@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_134aspace_ref1057</field>
+    <field name="ead_ssi">mss_134</field>
+    <field name="parent_ssi">aspace_ref1053</field>
+    <field name="parent_ssm">aspace_ref1028</field>
+    <field name="parent_ssm">aspace_ref1053</field>
+    <field name="parent_unittitles_ssm">Series VII: Bibliographical Inventories</field>
+    <field name="parent_unittitles_ssm">Subseries A: Index card file</field>
+    <field name="parent_unittitles_teim">Series VII: Bibliographical Inventories</field>
+    <field name="parent_unittitles_teim">Subseries A: Index card file</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Cecily Brownstone Papers</field>
+    <field name="collection_ssm">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_ssm">MSS.134</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bibliographical index cards- Foods the Indians - Hess</field>
+    <field name="unittitle_teim">Bibliographical index cards- Foods the Indians - Hess</field>
+    <field name="unitdate_normal_ssm">1940/2002</field>
+    <field name="unitdate_normal_teim">1940/2002</field>
+    <field name="unitdate_normal_sim">1940/2002</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1057</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: D</field>
+    <field name="location_ssm">Folder: D</field>
+    <field name="location_si">Folder: D</field>
+    <field name="collection_teim">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_teim">MSS.134</field>
+    <field name="series_sim">Series VII: Bibliographical Inventories</field>
+    <field name="series_sim">Subseries A: Index card file</field>
+    <field name="series_si">Series VII: Bibliographical Inventories &gt;&gt; Subseries A: Index card file &gt;&gt; Bibliographical index cards- Foods the Indians - Hess</field>
+    <field name="heading_ssm">Bibliographical index cards- Foods the Indians - Hess</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1116</field>
+  </doc>
+</add>

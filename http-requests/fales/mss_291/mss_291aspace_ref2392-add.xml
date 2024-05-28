@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_291aspace_ref2392</field>
+    <field name="ead_ssi">mss_291</field>
+    <field name="parent_ssi">aspace_ref2352</field>
+    <field name="parent_ssm">aspace_ref2348</field>
+    <field name="parent_ssm">aspace_ref2352</field>
+    <field name="parent_unittitles_ssm">Series VIII: Media</field>
+    <field name="parent_unittitles_ssm">Subseries B: Data Storage</field>
+    <field name="parent_unittitles_teim">Series VIII: Media</field>
+    <field name="parent_unittitles_teim">Subseries B: Data Storage</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Artists Space Archive</field>
+    <field name="collection_ssm">Artists Space Archive</field>
+    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Mosten N. Halversen, "Prince (Windsor)"</field>
+    <field name="unittitle_teim">Mosten N. Halversen, "Prince (Windsor)"</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/544187</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/544187</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Original Format: DVD-R</field>
+    <field name="ref_ssi">aspace_ref2392</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 244, disk: ID: 291.3.0255</field>
+    <field name="location_ssm">disk: ID: 291.3.0255</field>
+    <field name="location_si">disk: ID: 291.3.0255</field>
+    <field name="collection_teim">Artists Space Archive</field>
+    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="series_sim">Series VIII: Media</field>
+    <field name="series_sim">Subseries B: Data Storage</field>
+    <field name="series_si">Series VIII: Media &gt;&gt; Subseries B: Data Storage &gt;&gt; Mosten N. Halversen, "Prince (Windsor)"</field>
+    <field name="heading_ssm">Mosten N. Halversen, "Prince (Windsor)"</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2336</field>
+  </doc>
+</add>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_323aspace_ref2</field>
+    <field name="ead_ssi">mss_323</field>
+    <field name="parent_ssi">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_unittitles_ssm">Series I: Appetite for Life: The Biography of Julia Child</field>
+    <field name="parent_unittitles_teim">Series I: Appetite for Life: The Biography of Julia Child</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Noël Riley Fitch Julia Child Papers</field>
+    <field name="collection_ssm">Noël Riley Fitch Julia Child Papers</field>
+    <field name="collection_unitid_ssm">MSS.323</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B: Research Correspondence</field>
+    <field name="unittitle_teim">Subseries B: Research Correspondence</field>
+    <field name="scopecontent_teim">Subseries B: Research Correspondence consists of correspondence between Noël Riley Fitch and Julia Child's family, friends, colleagues, acquaintances, as well as Child herself and those influenced by her. It is arranged alphabetically according to the name of the correspondent or institution, except for correspondence between Julia Child and Noël Riley Fitch which has been retained together at the end of the subseries.</field>
+    <field name="ref_ssi">aspace_ref2</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Noël Riley Fitch Julia Child Papers</field>
+    <field name="collection_unitid_teim">MSS.323</field>
+    <field name="series_sim">Series I: Appetite for Life: The Biography of Julia Child</field>
+    <field name="series_si">Series I: Appetite for Life: The Biography of Julia Child &gt;&gt; Subseries B: Research Correspondence</field>
+    <field name="heading_ssm">Subseries B: Research Correspondence</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">283</field>
+  </doc>
+</add>

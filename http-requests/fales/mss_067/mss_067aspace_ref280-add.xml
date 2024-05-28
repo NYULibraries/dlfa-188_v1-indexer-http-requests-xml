@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_067aspace_ref280</field>
+    <field name="ead_ssi">mss_067</field>
+    <field name="parent_ssi">aspace_ref276</field>
+    <field name="parent_ssm">aspace_ref276</field>
+    <field name="parent_unittitles_ssm">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+    <field name="parent_unittitles_teim">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Elmer Holmes Bobst Collection</field>
+    <field name="collection_ssm">Elmer Holmes Bobst Collection</field>
+    <field name="collection_unitid_ssm">MSS.067/repositories/3/resources/2701</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Film, 16mm. Fit and Fair #35, sponsored by Richard Hudnut</field>
+    <field name="unittitle_teim">Film, 16mm. Fit and Fair #35, sponsored by Richard Hudnut</field>
+    <field name="unitid_teim">cuid21395</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/792241</field>
+    <field name="unitid_ssm">cuid21395</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/792241</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="scopecontent_teim">Housing annotation: "Films for Industry, 18:00 rt"</field>
+    <field name="phystech_teim">Format: 16mm film, Runtime: 18 minutes</field>
+    <field name="dao_teim">Film, 16mm. Fit and Fair #35, sponsored by Richard Hudnut</field>
+    <field name="dao_ssm">Film, 16mm. Fit and Fair #35, sponsored by Richard Hudnut</field>
+    <field name="ref_ssi">aspace_ref280</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Fales 088, 16mm_film_reels: MSS_067_cuid21395</field>
+    <field name="location_ssm">16mm_film_reels: MSS_067_cuid21395</field>
+    <field name="location_si">16mm_film_reels: MSS_067_cuid21395</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Elmer Holmes Bobst Collection</field>
+    <field name="collection_unitid_teim">MSS.067/repositories/3/resources/2701</field>
+    <field name="series_sim">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
+    <field name="series_si">Series V: Film, Audio and Video Tape, Slides and Recordings. &gt;&gt; Film, 16mm. Fit and Fair #35, sponsored by Richard Hudnut</field>
+    <field name="heading_ssm">Film, 16mm. Fit and Fair #35, sponsored by Richard Hudnut</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">305</field>
+  </doc>
+</add>

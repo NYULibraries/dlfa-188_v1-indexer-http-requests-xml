@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_267aspace_aa5d0960b40edc59686dc74bfa62be92</field>
+    <field name="ead_ssi">mss_267</field>
+    <field name="parent_ssi">aspace_db2c21bc35e4fcf2ba55ab8a56d61550</field>
+    <field name="parent_ssm">aspace_db2c21bc35e4fcf2ba55ab8a56d61550</field>
+    <field name="parent_unittitles_ssm">Series IV. Film and Video Recordings</field>
+    <field name="parent_unittitles_teim">Series IV. Film and Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alan Sondheim Papers</field>
+    <field name="collection_ssm">Alan Sondheim Papers</field>
+    <field name="collection_unitid_ssm">MSS.267/repositories/3/resources/2604</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Evidence&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Evidence
+    </field>
+    <field name="unitid_teim">/repositories/3/archival_objects/931535</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/931535</field>
+    <field name="unitdate_normal_ssm">1975-09-20/1975-09-20</field>
+    <field name="unitdate_normal_teim">1975-09-20/1975-09-20</field>
+    <field name="unitdate_normal_sim">1975-09-20/1975-09-20</field>
+    <field name="unitdate_teim">September 20, 1975</field>
+    <field name="scopecontent_teim">267_505's label says, "Black and White with Sound, 55 min, Dub - Art Metropole"; 267_537's label says, "62 min, Black and White, 12:45-7:30am, w/seward, Ryan assisting at Deulin Studio NYC"</field>
+    <field name="ref_ssi">aspace_aa5d0960b40edc59686dc74bfa62be92</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 20, Half_Inch_Video_Reel: 267_505</field>
+    <field name="location_ssm">Half_Inch_Video_Reel: 267_505</field>
+    <field name="location_ssm">Box: 18, Half_Inch_Video_Reel: 267_537</field>
+    <field name="location_ssm">Half_Inch_Video_Reel: 267_537</field>
+    <field name="location_si">Half_Inch_Video_Reel: 267_537</field>
+    <field name="collection_teim">Alan Sondheim Papers</field>
+    <field name="collection_unitid_teim">MSS.267/repositories/3/resources/2604</field>
+    <field name="series_sim">Series IV. Film and Video Recordings</field>
+    <field name="series_si">Series IV. Film and Video Recordings &gt;&gt; 
+      &lt;em&gt;Evidence&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Evidence
+    </field>
+    <field name="unitdate_ssm">September 20, 1975</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1691</field>
+  </doc>
+</add>

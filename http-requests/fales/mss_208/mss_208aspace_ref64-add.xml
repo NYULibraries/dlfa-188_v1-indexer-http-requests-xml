@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref64</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref63</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref63</field>
+    <field name="parent_unittitles_ssm">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_ssm">Series B: Brinley Family </field>
+    <field name="parent_unittitles_teim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_teim">Series B: Brinley Family </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Legal Record with Notation</field>
+    <field name="unittitle_teim">Legal Record with Notation</field>
+    <field name="unitid_teim">cuid4794</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/507282</field>
+    <field name="unitid_ssm">cuid4794</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/507282</field>
+    <field name="unitdate_normal_ssm">1672/1672</field>
+    <field name="unitdate_normal_teim">1672/1672</field>
+    <field name="unitdate_normal_sim">1672/1672</field>
+    <field name="unitdate_inclusive_teim">1672 April 12</field>
+    <field name="scopecontent_teim">1 Last Will &amp; Testament </field>
+    <field name="scopecontent_teim">Estate: Thomas Brinley </field>
+    <field name="scopecontent_teim">In Reference To: Business / Family / Financial / Professional; [Lymon Draxon of London, England]; Two brothers Francis Brinley, William Brinley; [Signature of] James [Fletergood] Provost</field>
+    <field name="scopecontent_teim">3 Parchment Pages, Mounted on Tissue</field>
+    <field name="scopecontent_teim">Handwritten in Ink</field>
+    <field name="scopecontent_teim">Measurements: 12" x 4" - 12" x 8"</field>
+    <field name="dao_teim">Legal Record with Notation: 1672 April 12</field>
+    <field name="dao_ssm">Legal Record with Notation: 1672 April 12</field>
+    <field name="ref_ssi">aspace_ref64</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 154, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="series_sim">Series B: Brinley Family </field>
+    <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series B: Brinley Family  &gt;&gt; Legal Record with Notation</field>
+    <field name="heading_ssm">Legal Record with Notation</field>
+    <field name="unitdate_start_sim">1672</field>
+    <field name="unitdate_start_ssm">1672</field>
+    <field name="unitdate_start_si">1672</field>
+    <field name="unitdate_end_sim">1672</field>
+    <field name="unitdate_end_ssm">1672</field>
+    <field name="unitdate_end_si">1672</field>
+    <field name="unitdate_ssm">Inclusive, 1672 April 12</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="sort_ii">48</field>
+  </doc>
+</add>

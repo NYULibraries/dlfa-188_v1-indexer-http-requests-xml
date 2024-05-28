@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_264aspace_ref150</field>
+    <field name="ead_ssi">mss_264</field>
+    <field name="parent_ssi">aspace_ref109</field>
+    <field name="parent_ssm">aspace_ref103</field>
+    <field name="parent_ssm">aspace_ref109</field>
+    <field name="parent_unittitles_ssm">Series IV: Media</field>
+    <field name="parent_unittitles_ssm">Subseries F: Film - Originals</field>
+    <field name="parent_unittitles_teim">Series IV: Media</field>
+    <field name="parent_unittitles_teim">Subseries F: Film - Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Christopher D'Arcangelo Papers</field>
+    <field name="collection_ssm">Christopher D'Arcangelo Papers</field>
+    <field name="collection_unitid_ssm">MSS.264/repositories/3/resources/1792</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">7/8/76 Norton Simon Pasadena</field>
+    <field name="unittitle_teim">7/8/76 Norton Simon Pasadena</field>
+    <field name="unitid_teim">ID: 264.0003</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/534656</field>
+    <field name="unitid_ssm">ID: 264.0003</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/534656</field>
+    <field name="unitdate_teim">1976</field>
+    <field name="ref_ssi">aspace_ref150</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">case: 264.0003</field>
+    <field name="location_si">case: 264.0003</field>
+    <field name="collection_teim">Christopher D'Arcangelo Papers</field>
+    <field name="collection_unitid_teim">MSS.264/repositories/3/resources/1792</field>
+    <field name="series_sim">Series IV: Media</field>
+    <field name="series_sim">Subseries F: Film - Originals</field>
+    <field name="series_si">Series IV: Media &gt;&gt; Subseries F: Film - Originals &gt;&gt; 7/8/76 Norton Simon Pasadena</field>
+    <field name="heading_ssm">7/8/76 Norton Simon Pasadena</field>
+    <field name="unitdate_ssm">1976</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">134</field>
+  </doc>
+</add>

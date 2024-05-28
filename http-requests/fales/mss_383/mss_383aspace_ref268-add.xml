@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_383aspace_ref268</field>
+    <field name="ead_ssi">mss_383</field>
+    <field name="parent_ssi">aspace_ref255</field>
+    <field name="parent_ssm">aspace_ref255</field>
+    <field name="parent_unittitles_ssm">Series XXXI: Halevy</field>
+    <field name="parent_unittitles_teim">Series XXXI: Halevy</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_ssm">MSS.383</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">La Regina di Cipro</field>
+    <field name="unittitle_teim">La Regina di Cipro</field>
+    <field name="unitdate_teim">1883</field>
+    <field name="scopecontent_teim">Librettist: Vernoy de Saint-Georges, Jules Henri</field>
+    <field name="scopecontent_teim">Performance City:  Milano</field>
+    <field name="scopecontent_teim">Date: 1883</field>
+    <field name="scopecontent_teim">Publication City and Publisher: Milano: Stabilimento di Edoardo Sonzogno</field>
+    <field name="ref_ssi">aspace_ref268</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_teim">MSS.383</field>
+    <field name="series_sim">Series XXXI: Halevy</field>
+    <field name="series_si">Series XXXI: Halevy &gt;&gt; La Regina di Cipro</field>
+    <field name="heading_ssm">La Regina di Cipro</field>
+    <field name="unitdate_ssm">1883</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">157</field>
+  </doc>
+</add>

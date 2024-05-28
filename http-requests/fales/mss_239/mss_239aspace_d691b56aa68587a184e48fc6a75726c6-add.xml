@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_d691b56aa68587a184e48fc6a75726c6</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref21</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref21</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_ssm">Sabbateni 10 (formerly B.6)</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Sabbateni 10 (formerly B.6)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Tenor</field>
+    <field name="unittitle_teim">Tenor</field>
+    <field name="unitid_teim">cuid39022</field>
+    <field name="unitid_ssm">cuid39022</field>
+    <field name="ref_ssi">aspace_d691b56aa68587a184e48fc6a75726c6</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 26</field>
+    <field name="location_si">Box: 26</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_sim">Sabbateni 10 (formerly B.6)</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 10 (formerly B.6) &gt;&gt; Tenor</field>
+    <field name="heading_ssm">Tenor</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">37</field>
+  </doc>
+</add>

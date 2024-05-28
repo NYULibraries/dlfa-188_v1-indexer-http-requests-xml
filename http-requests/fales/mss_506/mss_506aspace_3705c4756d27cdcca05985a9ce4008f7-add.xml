@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_506aspace_3705c4756d27cdcca05985a9ce4008f7</field>
+    <field name="ead_ssi">mss_506</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Artists Space Collection of Artist Files</field>
+    <field name="collection_ssm">Artists Space Collection of Artist Files</field>
+    <field name="collection_unitid_ssm">MSS.506</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Christensen, Irene</field>
+    <field name="unittitle_teim">Christensen, Irene</field>
+    <field name="unitdate_normal_ssm">1991/2000</field>
+    <field name="unitdate_normal_teim">1991/2000</field>
+    <field name="unitdate_normal_sim">1991/2000</field>
+    <field name="unitdate_inclusive_teim">1991-2000</field>
+    <field name="ref_ssi">aspace_3705c4756d27cdcca05985a9ce4008f7</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 39</field>
+    <field name="location_ssm">Folder: 39</field>
+    <field name="location_si">Folder: 39</field>
+    <field name="collection_teim">Artists Space Collection of Artist Files</field>
+    <field name="collection_unitid_teim">MSS.506</field>
+    <field name="series_si">Christensen, Irene</field>
+    <field name="heading_ssm">Christensen, Irene</field>
+    <field name="unitdate_start_sim">1991</field>
+    <field name="unitdate_start_ssm">1991</field>
+    <field name="unitdate_start_si">1991</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 1991-2000</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">678</field>
+  </doc>
+</add>

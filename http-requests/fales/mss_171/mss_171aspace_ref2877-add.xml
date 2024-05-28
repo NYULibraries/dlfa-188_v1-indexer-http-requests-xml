@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_171aspace_ref2877</field>
+    <field name="ead_ssi">mss_171</field>
+    <field name="parent_ssi">aspace_ref2862</field>
+    <field name="parent_ssm">aspace_ref2862</field>
+    <field name="parent_unittitles_ssm">Series III: Data Storage</field>
+    <field name="parent_unittitles_teim">Series III: Data Storage</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Harold and Joyce Pomeroy Schwartz Public Art Archive</field>
+    <field name="collection_ssm">Harold and Joyce Pomeroy Schwartz Public Art Archive</field>
+    <field name="collection_unitid_ssm">MSS.171/repositories/3/resources/1729</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bishop Good, Francie</field>
+    <field name="unittitle_teim">Bishop Good, Francie</field>
+    <field name="unitid_teim">ID: 171.3.0006</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/489478</field>
+    <field name="unitid_ssm">ID: 171.3.0006</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/489478</field>
+    <field name="scopecontent_teim">11 Files Fyi from Francie Bishop Good</field>
+    <field name="ref_ssi">aspace_ref2877</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 55, Folder: 3</field>
+    <field name="location_ssm">Folder: 3, Media: ID: 171.3.0006</field>
+    <field name="location_ssm">Media: ID: 171.3.0006</field>
+    <field name="location_si">Media: ID: 171.3.0006</field>
+    <field name="collection_teim">Harold and Joyce Pomeroy Schwartz Public Art Archive</field>
+    <field name="collection_unitid_teim">MSS.171/repositories/3/resources/1729</field>
+    <field name="series_sim">Series III: Data Storage</field>
+    <field name="series_si">Series III: Data Storage &gt;&gt; Bishop Good, Francie</field>
+    <field name="heading_ssm">Bishop Good, Francie</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2725</field>
+  </doc>
+</add>

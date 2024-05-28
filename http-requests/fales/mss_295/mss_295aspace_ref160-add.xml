@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_295aspace_ref160</field>
+    <field name="ead_ssi">mss_295</field>
+    <field name="parent_ssi">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_unittitles_ssm">Cookery Ephemera</field>
+    <field name="parent_unittitles_teim">Cookery Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Andrew F. Smith Collection of Cookery Ephemera</field>
+    <field name="collection_ssm">Andrew F. Smith Collection of Cookery Ephemera</field>
+    <field name="collection_unitid_ssm">MSS.295/repositories/3/resources/2284</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Coral Reed Nurseries Company; The Cotton Oil Product Company</field>
+    <field name="unittitle_teim">Coral Reed Nurseries Company; The Cotton Oil Product Company</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/729416</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/729416</field>
+    <field name="unitdate_normal_ssm">1888/1921</field>
+    <field name="unitdate_normal_teim">1888/1921</field>
+    <field name="unitdate_normal_sim">1888/1921</field>
+    <field name="unitdate_inclusive_teim">circa 1888, 1921</field>
+    <field name="scopecontent_teim">Coral Reef Nurseries Company. Avocados with Ancestors. Bulletin No. 3. Homestead, FL: Coral Reef Nurseries Company, July 1, 1921.</field>
+    <field name="scopecontent_teim"> Cotton Oil Product Co. Some Things about Lard. New York, NY: Cotton Oil Product Co., circa 1888.</field>
+    <field name="ref_ssi">aspace_ref160</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Andrew F. Smith Collection of Cookery Ephemera</field>
+    <field name="collection_unitid_teim">MSS.295/repositories/3/resources/2284</field>
+    <field name="series_sim">Cookery Ephemera</field>
+    <field name="series_si">Cookery Ephemera &gt;&gt; Coral Reed Nurseries Company; The Cotton Oil Product Company</field>
+    <field name="heading_ssm">Coral Reed Nurseries Company; The Cotton Oil Product Company</field>
+    <field name="unitdate_start_sim">1888</field>
+    <field name="unitdate_start_ssm">1888</field>
+    <field name="unitdate_start_si">1888</field>
+    <field name="unitdate_end_sim">1921</field>
+    <field name="unitdate_end_ssm">1921</field>
+    <field name="unitdate_end_si">1921</field>
+    <field name="unitdate_ssm">Inclusive, circa 1888, 1921</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">156</field>
+  </doc>
+</add>

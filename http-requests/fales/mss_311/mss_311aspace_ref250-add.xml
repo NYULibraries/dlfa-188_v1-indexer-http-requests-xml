@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_311aspace_ref250</field>
+    <field name="ead_ssi">mss_311</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series I: Writing</field>
+    <field name="parent_unittitles_ssm">Subseries B: Juvenelia</field>
+    <field name="parent_unittitles_teim">Series I: Writing</field>
+    <field name="parent_unittitles_teim">Subseries B: Juvenelia</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Nick Zedd Papers</field>
+    <field name="collection_ssm">Nick Zedd Papers</field>
+    <field name="collection_unitid_ssm">MSS.311/repositories/3/resources/1822</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Secret Agent Freddy and the Deadly Devices&lt;/em&gt; [Manuscript]</field>
+    <field name="unittitle_teim">Secret Agent Freddy and the Deadly Devices [Manuscript]</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/554965</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/554965</field>
+    <field name="unitdate_teim">1966</field>
+    <field name="ref_ssi">aspace_ref250</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 30</field>
+    <field name="location_ssm">Folder: 30</field>
+    <field name="location_si">Folder: 30</field>
+    <field name="collection_teim">Nick Zedd Papers</field>
+    <field name="collection_unitid_teim">MSS.311/repositories/3/resources/1822</field>
+    <field name="series_sim">Series I: Writing</field>
+    <field name="series_sim">Subseries B: Juvenelia</field>
+    <field name="series_si">Series I: Writing &gt;&gt; Subseries B: Juvenelia &gt;&gt; &lt;em&gt;Secret Agent Freddy and the Deadly Devices&lt;/em&gt; [Manuscript]</field>
+    <field name="heading_ssm">Secret Agent Freddy and the Deadly Devices [Manuscript]</field>
+    <field name="unitdate_ssm">1966</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">192</field>
+  </doc>
+</add>

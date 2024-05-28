@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_093aspace_ref1192</field>
+    <field name="ead_ssi">mss_093</field>
+    <field name="parent_ssi">aspace_ref1187</field>
+    <field name="parent_ssm">aspace_ref1186</field>
+    <field name="parent_ssm">aspace_ref1187</field>
+    <field name="parent_unittitles_ssm">Series X: Video Recordings</field>
+    <field name="parent_unittitles_ssm">Subseries A: Video Recordings - Access Copies</field>
+    <field name="parent_unittitles_teim">Series X: Video Recordings</field>
+    <field name="parent_unittitles_teim">Subseries A: Video Recordings - Access Copies</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Watts Papers</field>
+    <field name="collection_ssm">John Watts Papers</field>
+    <field name="collection_unitid_ssm">MSS.093</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">[1] Glass and Shadows; [2] Glass and Shadows Random Sections</field>
+    <field name="unittitle_teim">[1] Glass and Shadows; [2] Glass and Shadows Random Sections</field>
+    <field name="unitid_teim">ID: 093.0144</field>
+    <field name="unitid_ssm">ID: 093.0144</field>
+    <field name="unitdate_teim">1971</field>
+    <field name="ref_ssi">aspace_ref1192</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">case: 093.0144</field>
+    <field name="location_ssm">Box: Shared Fales PM 13</field>
+    <field name="location_si">Box: Shared Fales PM 13</field>
+    <field name="collection_teim">John Watts Papers</field>
+    <field name="collection_unitid_teim">MSS.093</field>
+    <field name="series_sim">Series X: Video Recordings</field>
+    <field name="series_sim">Subseries A: Video Recordings - Access Copies</field>
+    <field name="series_si">Series X: Video Recordings &gt;&gt; Subseries A: Video Recordings - Access Copies &gt;&gt; [1] Glass and Shadows; [2] Glass and Shadows Random Sections</field>
+    <field name="heading_ssm">[1] Glass and Shadows; [2] Glass and Shadows Random Sections</field>
+    <field name="unitdate_ssm">1971</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1168</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_415aspace_6e20f33da9d58387c90ac23a68a04c80</field>
+    <field name="ead_ssi">mss_415</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fortnight Archive</field>
+    <field name="collection_ssm">Fortnight Archive</field>
+    <field name="collection_unitid_ssm">MSS.415</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Archived Website</field>
+    <field name="unittitle_teim">Archived Website</field>
+    <field name="unitdate_normal_ssm">2015-03/2015-03</field>
+    <field name="unitdate_normal_teim">2015-03/2015-03</field>
+    <field name="unitdate_normal_sim">2015-03/2015-03</field>
+    <field name="unitdate_teim">March 2015</field>
+    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored. Website was rescoped to attempt to capture the Vimeo videos embedded in the website.</field>
+    <field name="appraisal_teim">https://soundcloud.com/fortnightjournal/ and https://vimeo.com/fortnightjournal/ were added to the collection to capture embedded video and audio files. Embedded Soundcloud audio and Youtube and Vimeo video files on the site were captured, but do not render in the archived copy. Future changes to the Wayback Machine may allow the files to be played.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">Fortnight Journal Archived Website: March 2015</field>
+    <field name="dao_ssm">Fortnight Journal Archived Website: March 2015</field>
+    <field name="ref_ssi">aspace_6e20f33da9d58387c90ac23a68a04c80</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records</field>
+    <field name="location_si">Box: Electronic Records</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Fortnight Archive</field>
+    <field name="collection_unitid_teim">MSS.415</field>
+    <field name="series_si">Archived Website</field>
+    <field name="heading_ssm">Archived Website</field>
+    <field name="unitdate_ssm">March 2015</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

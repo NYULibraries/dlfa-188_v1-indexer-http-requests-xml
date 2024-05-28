@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_077aspace_ref16</field>
+    <field name="ead_ssi">mss_077</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Margaret Strickland Papers</field>
+    <field name="collection_ssm">Margaret Strickland Papers</field>
+    <field name="collection_unitid_ssm">MSS.077</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Assorted Professional Correspondence]</field>
+    <field name="unittitle_teim">[Assorted Professional Correspondence]</field>
+    <field name="unitdate_normal_ssm">1910/1924</field>
+    <field name="unitdate_normal_teim">1910/1924</field>
+    <field name="unitdate_normal_sim">1910/1924</field>
+    <field name="unitdate_inclusive_teim">1910 January 14 - 1924 January 25</field>
+    <field name="scopecontent_teim">6 Letters, 1 Envelope with Notation &amp; Postage</field>
+    <field name="scopecontent_teim">Addressed To: "Miss Margaret Strickland, 88 Alderney Street, [Victoria, London, England]"</field>
+    <field name="scopecontent_teim">Sent From: "Bas (Possibly Brother), 22 Market Street, King Lane Tom. CP" ; "Dr. Robert N. Gordon, O Company, No. 1 Convalescent Camp, Boulogne, France" ; "Mrs. E. Peterson, 2 Ladbroke Road, Notting Hill Gate, London W11, [England]" ; "P. Habberton Lutham, The Odd Corner, Hurstpierpoint, Sussex, [England]" ; "P.W. Everett, The Novel Magazine of C. Arthur Pearson Limited, Henrietta Street, London WC [England], Telegrams 'Humoursome, London' &amp; Telephone 7927 &amp; 7928 Gerrard" ; "W.O. Bayer, Film Department of Curtis Brown, Limited, International Publishing Bureau, 6 Henrietta Street, Covent Garden, London, WC2, [England]"</field>
+    <field name="scopecontent_teim">In Reference To: Business / Professional / Writing; Bill Adams, "Elusive Peg," "Flirtations of Phyllis," "The Way of the Serpent" ; "Tales of Temptation," "Tiger's Eyes" "The Sword (Blue Magazine)" ; "The Doom of Fate," "Porch of Wrong" ; United States Serial Rights</field>
+    <field name="scopecontent_teim">12 Pages, Unbound</field>
+    <field name="scopecontent_teim">Typed, Printed &amp; Handwritten in Ink &amp; Pencil</field>
+    <field name="scopecontent_teim">Measurements: 6" x 2.5" - 8" x 10"</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Margaret Strickland Papers</field>
+    <field name="collection_unitid_teim">MSS.077</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; [Assorted Professional Correspondence]</field>
+    <field name="heading_ssm">[Assorted Professional Correspondence]</field>
+    <field name="unitdate_start_sim">1910</field>
+    <field name="unitdate_start_ssm">1910</field>
+    <field name="unitdate_start_si">1910</field>
+    <field name="unitdate_end_sim">1924</field>
+    <field name="unitdate_end_ssm">1924</field>
+    <field name="unitdate_end_si">1924</field>
+    <field name="unitdate_ssm">Inclusive, 1910 January 14 - 1924 January 25</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

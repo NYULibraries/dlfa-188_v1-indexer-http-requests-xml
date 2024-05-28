@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_270aspace_ref2965</field>
+    <field name="ead_ssi">mss_270</field>
+    <field name="parent_ssi">aspace_ref29</field>
+    <field name="parent_ssm">aspace_ref29</field>
+    <field name="parent_unittitles_ssm">Series XIII: Data Storage</field>
+    <field name="parent_unittitles_teim">Series XIII: Data Storage</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Public Art Fund Archive</field>
+    <field name="collection_ssm">Public Art Fund Archive</field>
+    <field name="collection_unitid_ssm">MSS.270/repositories/3/resources/1796</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">WP51/Sarah/Boltanski - Saved 4.17.95</field>
+    <field name="unittitle_teim">WP51/Sarah/Boltanski - Saved 4.17.95</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/537577</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/537577</field>
+    <field name="unitdate_normal_ssm">1995/1995</field>
+    <field name="unitdate_normal_teim">1995/1995</field>
+    <field name="unitdate_normal_sim">1995/1995</field>
+    <field name="unitdate_inclusive_teim">1995</field>
+    <field name="phystech_teim">Format: 3 1/2" Floppy Disk</field>
+    <field name="ref_ssi">aspace_ref2965</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 110, Media: ID: 270.3.0099</field>
+    <field name="location_ssm">Media: ID: 270.3.0099</field>
+    <field name="location_si">Media: ID: 270.3.0099</field>
+    <field name="collection_teim">Public Art Fund Archive</field>
+    <field name="collection_unitid_teim">MSS.270/repositories/3/resources/1796</field>
+    <field name="series_sim">Series XIII: Data Storage</field>
+    <field name="series_si">Series XIII: Data Storage &gt;&gt; WP51/Sarah/Boltanski - Saved 4.17.95</field>
+    <field name="heading_ssm">WP51/Sarah/Boltanski - Saved 4.17.95</field>
+    <field name="unitdate_start_sim">1995</field>
+    <field name="unitdate_start_ssm">1995</field>
+    <field name="unitdate_start_si">1995</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, 1995</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2341</field>
+  </doc>
+</add>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_185aspace_ref274</field>
+    <field name="ead_ssi">mss_185</field>
+    <field name="parent_ssi">aspace_ref273</field>
+    <field name="parent_ssm">aspace_ref151</field>
+    <field name="parent_ssm">aspace_ref273</field>
+    <field name="parent_unittitles_ssm">Series XIII: Data Media</field>
+    <field name="parent_unittitles_ssm">Subseries C: Separated Paper Material</field>
+    <field name="parent_unittitles_teim">Series XIII: Data Media</field>
+    <field name="parent_unittitles_teim">Subseries C: Separated Paper Material</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Peter Straub Papers</field>
+    <field name="collection_ssm">Peter Straub Papers</field>
+    <field name="collection_unitid_ssm">MSS.185/repositories/3/resources/1739</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">185.3.0029 B</field>
+    <field name="unittitle_teim">185.3.0029 B</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/500775</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/500775</field>
+    <field name="unitdate_normal_ssm">2006/2006</field>
+    <field name="unitdate_normal_teim">2006/2006</field>
+    <field name="unitdate_normal_sim">2006/2006</field>
+    <field name="unitdate_inclusive_teim">05/21/2006</field>
+    <field name="ref_ssi">aspace_ref274</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 61</field>
+    <field name="location_si">Box: 61</field>
+    <field name="collection_teim">Peter Straub Papers</field>
+    <field name="collection_unitid_teim">MSS.185/repositories/3/resources/1739</field>
+    <field name="series_sim">Series XIII: Data Media</field>
+    <field name="series_sim">Subseries C: Separated Paper Material</field>
+    <field name="series_si">Series XIII: Data Media &gt;&gt; Subseries C: Separated Paper Material &gt;&gt; 185.3.0029 B</field>
+    <field name="heading_ssm">185.3.0029 B</field>
+    <field name="unitdate_start_sim">2006</field>
+    <field name="unitdate_start_ssm">2006</field>
+    <field name="unitdate_start_si">2006</field>
+    <field name="unitdate_end_sim">2006</field>
+    <field name="unitdate_end_ssm">2006</field>
+    <field name="unitdate_end_si">2006</field>
+    <field name="unitdate_ssm">Inclusive, 05/21/2006</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">137</field>
+  </doc>
+</add>

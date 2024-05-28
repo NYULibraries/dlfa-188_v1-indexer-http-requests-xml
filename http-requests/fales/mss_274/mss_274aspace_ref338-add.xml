@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_274aspace_ref338</field>
+    <field name="ead_ssi">mss_274</field>
+    <field name="parent_ssi">aspace_ref297</field>
+    <field name="parent_ssm">aspace_ref295</field>
+    <field name="parent_ssm">aspace_ref297</field>
+    <field name="parent_unittitles_ssm">Series VII: Media</field>
+    <field name="parent_unittitles_ssm">Subseries A: Originals</field>
+    <field name="parent_unittitles_teim">Series VII: Media</field>
+    <field name="parent_unittitles_teim">Subseries A: Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Guerrilla Girls Archive</field>
+    <field name="collection_ssm">Guerrilla Girls Archive</field>
+    <field name="collection_unitid_ssm">MSS.274/repositories/3/resources/1799</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">John McCain on SNL 11/1/08</field>
+    <field name="unittitle_teim">John McCain on SNL 11/1/08</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/538479</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/538479</field>
+    <field name="unitdate_teim">2008</field>
+    <field name="phystech_teim">4.5" DVD-RW</field>
+    <field name="ref_ssi">aspace_ref338</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Media: ID: 274.0014</field>
+    <field name="location_ssm">Media: ID: 274.0014</field>
+    <field name="location_si">Media: ID: 274.0014</field>
+    <field name="collection_teim">Guerrilla Girls Archive</field>
+    <field name="collection_unitid_teim">MSS.274/repositories/3/resources/1799</field>
+    <field name="series_sim">Series VII: Media</field>
+    <field name="series_sim">Subseries A: Originals</field>
+    <field name="series_si">Series VII: Media &gt;&gt; Subseries A: Originals &gt;&gt; John McCain on SNL 11/1/08</field>
+    <field name="heading_ssm">John McCain on SNL 11/1/08</field>
+    <field name="unitdate_ssm">2008</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">243</field>
+  </doc>
+</add>

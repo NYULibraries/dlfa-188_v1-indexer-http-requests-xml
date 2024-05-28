@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_035aspace_ref16</field>
+    <field name="ead_ssi">mss_035</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Books</field>
+    <field name="parent_unittitles_teim">Series I: Books</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Pleiades Club Collection</field>
+    <field name="collection_ssm">Pleiades Club Collection</field>
+    <field name="collection_unitid_ssm">MSS.035</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Edwards, Harry Stillwell, &lt;em&gt;Just Sweethearts: a Christmas Love Story&lt;/em&gt;, Mason, Georgia: Burke Co., 1919. Inscribed to Howard and Edna Neiman from cousin Sadie.</field>
+    <field name="unittitle_teim">Edwards, Harry Stillwell, Just Sweethearts: a Christmas Love Story, Mason, Georgia: Burke Co., 1919. Inscribed to Howard and Edna Neiman from cousin Sadie.</field>
+    <field name="unitdate_teim">1919</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Pleiades Club Collection</field>
+    <field name="collection_unitid_teim">MSS.035</field>
+    <field name="series_sim">Series I: Books</field>
+    <field name="series_si">Series I: Books &gt;&gt; Edwards, Harry Stillwell, &lt;em&gt;Just Sweethearts: a Christmas Love Story&lt;/em&gt;, Mason, Georgia: Burke Co., 1919. Inscribed to Howard and Edna Neiman from cousin Sadie.</field>
+    <field name="heading_ssm">Edwards, Harry Stillwell, Just Sweethearts: a Christmas Love Story, Mason, Georgia: Burke Co., 1919. Inscribed to Howard and Edna Neiman from cousin Sadie.</field>
+    <field name="unitdate_ssm">1919</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

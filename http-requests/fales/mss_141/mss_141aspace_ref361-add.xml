@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_141aspace_ref361</field>
+    <field name="ead_ssi">mss_141</field>
+    <field name="parent_ssi">aspace_ref360</field>
+    <field name="parent_ssm">aspace_ref360</field>
+    <field name="parent_unittitles_ssm">Series VIII: Oversize Materials</field>
+    <field name="parent_unittitles_teim">Series VIII: Oversize Materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Arthur Kopit Papers</field>
+    <field name="collection_ssm">Arthur Kopit Papers</field>
+    <field name="collection_unitid_ssm">MSS.141</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Box 1 Projects: two sketchbooks from "Animal Hospital"</field>
+    <field name="unittitle_teim">Box 1 Projects: two sketchbooks from "Animal Hospital"</field>
+    <field name="unitid_teim">cuid22052</field>
+    <field name="unitid_ssm">cuid22052</field>
+    <field name="scopecontent_teim">Box 8 Projects: sketch pads and exhibition catalog used for "Deception".</field>
+    <field name="ref_ssi">aspace_ref361</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Flat Box 1</field>
+    <field name="location_si">Box: Flat Box 1</field>
+    <field name="collection_teim">Arthur Kopit Papers</field>
+    <field name="collection_unitid_teim">MSS.141</field>
+    <field name="series_sim">Series VIII: Oversize Materials</field>
+    <field name="series_si">Series VIII: Oversize Materials &gt;&gt; Box 1 Projects: two sketchbooks from "Animal Hospital"</field>
+    <field name="heading_ssm">Box 1 Projects: two sketchbooks from "Animal Hospital"</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">136</field>
+  </doc>
+</add>

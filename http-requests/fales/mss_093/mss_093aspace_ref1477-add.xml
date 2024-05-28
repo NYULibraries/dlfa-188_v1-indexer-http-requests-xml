@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_093aspace_ref1477</field>
+    <field name="ead_ssi">mss_093</field>
+    <field name="parent_ssi">aspace_ref1375</field>
+    <field name="parent_ssm">aspace_ref1186</field>
+    <field name="parent_ssm">aspace_ref1375</field>
+    <field name="parent_unittitles_ssm">Series X: Video Recordings</field>
+    <field name="parent_unittitles_ssm">Subseries B: Video Recordings - Originals</field>
+    <field name="parent_unittitles_teim">Series X: Video Recordings</field>
+    <field name="parent_unittitles_teim">Subseries B: Video Recordings - Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Watts Papers</field>
+    <field name="collection_ssm">John Watts Papers</field>
+    <field name="collection_unitid_ssm">MSS.093</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Laura Foreman - Untitled, Heirlooms ; a duex</field>
+    <field name="unittitle_teim">Laura Foreman - Untitled, Heirlooms ; a duex</field>
+    <field name="unitid_teim">ID: 093.0107</field>
+    <field name="unitid_ssm">ID: 093.0107</field>
+    <field name="unitdate_teim">1977</field>
+    <field name="ref_ssi">aspace_ref1477</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 80B, Media: ID: 093.0107</field>
+    <field name="location_ssm">Media: ID: 093.0107</field>
+    <field name="location_si">Media: ID: 093.0107</field>
+    <field name="collection_teim">John Watts Papers</field>
+    <field name="collection_unitid_teim">MSS.093</field>
+    <field name="series_sim">Series X: Video Recordings</field>
+    <field name="series_sim">Subseries B: Video Recordings - Originals</field>
+    <field name="series_si">Series X: Video Recordings &gt;&gt; Subseries B: Video Recordings - Originals &gt;&gt; Laura Foreman - Untitled, Heirlooms ; a duex</field>
+    <field name="heading_ssm">Laura Foreman - Untitled, Heirlooms ; a duex</field>
+    <field name="unitdate_ssm">1977</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1277</field>
+  </doc>
+</add>

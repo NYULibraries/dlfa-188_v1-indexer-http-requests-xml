@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_276aspace_ref717</field>
+    <field name="ead_ssi">mss_276</field>
+    <field name="parent_ssi">aspace_ref6</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref6</field>
+    <field name="parent_unittitles_ssm">Series II: Activities</field>
+    <field name="parent_unittitles_ssm">Subseries D: Film Festivals and Screenings</field>
+    <field name="parent_unittitles_teim">Series II: Activities</field>
+    <field name="parent_unittitles_teim">Subseries D: Film Festivals and Screenings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Paper Tiger Television Archive</field>
+    <field name="collection_ssm">The Paper Tiger Television Archive</field>
+    <field name="collection_unitid_ssm">MSS.276/repositories/3/resources/1800</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Miscellaneous screenings and film festivals</field>
+    <field name="unittitle_teim">Miscellaneous screenings and film festivals</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/539355</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/539355</field>
+    <field name="unitdate_normal_ssm">1987/1989</field>
+    <field name="unitdate_normal_teim">1987/1989</field>
+    <field name="unitdate_normal_sim">1987/1989</field>
+    <field name="unitdate_inclusive_teim">1987-1989</field>
+    <field name="ref_ssi">aspace_ref717</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14, Folder: 48</field>
+    <field name="location_ssm">Folder: 48</field>
+    <field name="location_si">Folder: 48</field>
+    <field name="collection_teim">The Paper Tiger Television Archive</field>
+    <field name="collection_unitid_teim">MSS.276/repositories/3/resources/1800</field>
+    <field name="series_sim">Series II: Activities</field>
+    <field name="series_sim">Subseries D: Film Festivals and Screenings</field>
+    <field name="series_si">Series II: Activities &gt;&gt; Subseries D: Film Festivals and Screenings &gt;&gt; Miscellaneous screenings and film festivals</field>
+    <field name="heading_ssm">Miscellaneous screenings and film festivals</field>
+    <field name="unitdate_start_sim">1987</field>
+    <field name="unitdate_start_ssm">1987</field>
+    <field name="unitdate_start_si">1987</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, 1987-1989</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">819</field>
+  </doc>
+</add>

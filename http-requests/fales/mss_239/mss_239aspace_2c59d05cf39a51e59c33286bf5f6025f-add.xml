@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_2c59d05cf39a51e59c33286bf5f6025f</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_ssm">Sabbateni 6 (formerly B.2)</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Sabbateni 6 (formerly B.2)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Altus</field>
+    <field name="unittitle_teim">Altus</field>
+    <field name="unitid_teim">cuid39010</field>
+    <field name="unitid_ssm">cuid39010</field>
+    <field name="ref_ssi">aspace_2c59d05cf39a51e59c33286bf5f6025f</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14</field>
+    <field name="location_si">Box: 14</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_sim">Sabbateni 6 (formerly B.2)</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 6 (formerly B.2) &gt;&gt; Altus</field>
+    <field name="heading_ssm">Altus</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">21</field>
+  </doc>
+</add>

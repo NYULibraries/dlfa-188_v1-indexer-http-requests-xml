@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_127aspace_ref715</field>
+    <field name="ead_ssi">mss_127</field>
+    <field name="parent_ssi">aspace_ref714</field>
+    <field name="parent_ssm">aspace_ref714</field>
+    <field name="parent_unittitles_ssm">Series 3: 2000</field>
+    <field name="parent_unittitles_teim">Series 3: 2000</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Institute on the Arts and Civic Dialogue Archive</field>
+    <field name="collection_ssm">Institute on the Arts and Civic Dialogue Archive</field>
+    <field name="collection_unitid_ssm">MSS.127</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 3.1: Administrative Files</field>
+    <field name="unittitle_teim">Subseries 3.1: Administrative Files</field>
+    <field name="scopecontent_teim">This subseries represents the bulk of administrative files for the year 2000. It includes records on the staff, budgets, accommodations, projects, schedules and other details of running the Institute. Within this subseries there is a particular concentration of material on the core audience program. Records concerning participating artists are included here as well unlike the previous series. The subseries is arranged alphabetically by folder title.</field>
+    <field name="ref_ssi">aspace_ref715</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Institute on the Arts and Civic Dialogue Archive</field>
+    <field name="collection_unitid_teim">MSS.127</field>
+    <field name="series_sim">Series 3: 2000</field>
+    <field name="series_si">Series 3: 2000 &gt;&gt; Subseries 3.1: Administrative Files</field>
+    <field name="heading_ssm">Subseries 3.1: Administrative Files</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">682</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_298aspace_ref49</field>
+    <field name="ead_ssi">mss_298</field>
+    <field name="parent_ssi">aspace_ref7</field>
+    <field name="parent_ssm">aspace_ref7</field>
+    <field name="parent_unittitles_ssm">Series III: Artist Files</field>
+    <field name="parent_unittitles_teim">Series III: Artist Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Annina Nosei Gallery Archive</field>
+    <field name="collection_ssm">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_ssm">MSS.298/repositories/3/resources/1812</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries F: Polaroids</field>
+    <field name="unittitle_teim">Subseries F: Polaroids</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/553220</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/553220</field>
+    <field name="scopecontent_teim">Series comprises Polaroid instant photographs from a box labeled "Polaroids."</field>
+    <field name="scopecontent_teim">Polaroid photographs were originally sorted with dividers. The original order has been maintained, including the dividers. The labels of the dividers have been preserved here. Where Polaroids from one artist were found under another artist's label, or when there are no labeled dividers (as in the beginning of Binder BC), the artist's name has been provided in brackets by the archivist to aid the researcher.</field>
+    <field name="ref_ssi">aspace_ref49</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_teim">MSS.298/repositories/3/resources/1812</field>
+    <field name="series_sim">Series III: Artist Files</field>
+    <field name="series_si">Series III: Artist Files &gt;&gt; Subseries F: Polaroids</field>
+    <field name="heading_ssm">Subseries F: Polaroids</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1297</field>
+  </doc>
+</add>

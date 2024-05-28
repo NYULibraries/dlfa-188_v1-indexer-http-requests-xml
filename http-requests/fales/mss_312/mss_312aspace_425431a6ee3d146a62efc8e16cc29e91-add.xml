@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_312aspace_425431a6ee3d146a62efc8e16cc29e91</field>
+    <field name="ead_ssi">mss_312</field>
+    <field name="parent_ssi">aspace_ac12f396e772d2b174378e8c9e9b5bbc</field>
+    <field name="parent_ssm">aspace_ac12f396e772d2b174378e8c9e9b5bbc</field>
+    <field name="parent_unittitles_ssm">Series III. Events</field>
+    <field name="parent_unittitles_teim">Series III. Events</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Deep Dish TV Records</field>
+    <field name="collection_ssm">Deep Dish TV Records</field>
+    <field name="collection_unitid_ssm">MSS.312/repositories/3/resources/1823</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Environmental Justice for All&lt;/em&gt; South Tour -- Berea, Louisville</field>
+    <field name="unittitle_teim">Environmental Justice for All South Tour -- Berea, Louisville</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/975736</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/975736</field>
+    <field name="unitdate_normal_ssm">2006-09/2006-10</field>
+    <field name="unitdate_normal_teim">2006-09/2006-10</field>
+    <field name="unitdate_normal_sim">2006-09/2006-10</field>
+    <field name="unitdate_inclusive_teim">circa September-October, 2006</field>
+    <field name="ref_ssi">aspace_425431a6ee3d146a62efc8e16cc29e91</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 142, MiniDV: 312_1885</field>
+    <field name="location_ssm">MiniDV: 312_1885</field>
+    <field name="location_ssm">Box: 161, MiniDV: 312_1892, 312_1905</field>
+    <field name="location_ssm">MiniDV: 312_1892, 312_1905</field>
+    <field name="location_ssm">Box: 162, MiniDV: 312_1935, 312_1956</field>
+    <field name="location_ssm">MiniDV: 312_1935, 312_1956</field>
+    <field name="location_si">MiniDV: 312_1935, 312_1956</field>
+    <field name="collection_teim">Deep Dish TV Records</field>
+    <field name="collection_unitid_teim">MSS.312/repositories/3/resources/1823</field>
+    <field name="series_sim">Series III. Events</field>
+    <field name="series_si">Series III. Events &gt;&gt; &lt;em&gt;Environmental Justice for All&lt;/em&gt; South Tour -- Berea, Louisville</field>
+    <field name="heading_ssm">Environmental Justice for All South Tour -- Berea, Louisville</field>
+    <field name="unitdate_ssm">Inclusive, circa September-October, 2006</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1707</field>
+  </doc>
+</add>

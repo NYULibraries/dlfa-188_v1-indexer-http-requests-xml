@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_276aspace_ref1861</field>
+    <field name="ead_ssi">mss_276</field>
+    <field name="parent_ssi">aspace_ref1665</field>
+    <field name="parent_ssm">aspace_ref1665</field>
+    <field name="parent_unittitles_ssm">Series X: Data Storage</field>
+    <field name="parent_unittitles_teim">Series X: Data Storage</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Paper Tiger Television Archive</field>
+    <field name="collection_ssm">The Paper Tiger Television Archive</field>
+    <field name="collection_unitid_ssm">MSS.276/repositories/3/resources/1800</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Mogul March tiff Files - Mac format</field>
+    <field name="unittitle_teim">Mogul March tiff Files - Mac format</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/540796</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/540796</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref1861</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 46, disk: ID: 276.3.0013</field>
+    <field name="location_ssm">disk: ID: 276.3.0013</field>
+    <field name="location_si">disk: ID: 276.3.0013</field>
+    <field name="collection_teim">The Paper Tiger Television Archive</field>
+    <field name="collection_unitid_teim">MSS.276/repositories/3/resources/1800</field>
+    <field name="series_sim">Series X: Data Storage</field>
+    <field name="series_si">Series X: Data Storage &gt;&gt; Mogul March tiff Files - Mac format</field>
+    <field name="heading_ssm">Mogul March tiff Files - Mac format</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2260</field>
+  </doc>
+</add>

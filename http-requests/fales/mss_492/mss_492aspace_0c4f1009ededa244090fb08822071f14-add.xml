@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_492aspace_0c4f1009ededa244090fb08822071f14</field>
+    <field name="ead_ssi">mss_492</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Atif Toor Collection on SALGA-NYC</field>
+    <field name="collection_ssm">Atif Toor Collection on SALGA-NYC</field>
+    <field name="collection_unitid_ssm">MSS.492</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Newsletters</field>
+    <field name="unittitle_teim">Newsletters</field>
+    <field name="unitid_teim">cuid8702</field>
+    <field name="unitid_ssm">cuid8702</field>
+    <field name="unitdate_normal_ssm">1994/2001</field>
+    <field name="unitdate_normal_teim">1994/2001</field>
+    <field name="unitdate_normal_sim">1994/2001</field>
+    <field name="unitdate_inclusive_teim">1994-2001</field>
+    <field name="dao_teim">Newsletters: 1994-2001</field>
+    <field name="dao_ssm">Newsletters: 1994-2001</field>
+    <field name="ref_ssi">aspace_0c4f1009ededa244090fb08822071f14</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Atif Toor Collection on SALGA-NYC</field>
+    <field name="collection_unitid_teim">MSS.492</field>
+    <field name="series_si">Newsletters</field>
+    <field name="heading_ssm">Newsletters</field>
+    <field name="unitdate_start_sim">1994</field>
+    <field name="unitdate_start_ssm">1994</field>
+    <field name="unitdate_start_si">1994</field>
+    <field name="unitdate_end_sim">2001</field>
+    <field name="unitdate_end_ssm">2001</field>
+    <field name="unitdate_end_si">2001</field>
+    <field name="unitdate_ssm">Inclusive, 1994-2001</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_383aspace_ref514</field>
+    <field name="ead_ssi">mss_383</field>
+    <field name="parent_ssi">aspace_ref467</field>
+    <field name="parent_ssm">aspace_ref467</field>
+    <field name="parent_unittitles_ssm">Series LV: Rossini</field>
+    <field name="parent_unittitles_teim">Series LV: Rossini</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_ssm">MSS.383</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Zelmira</field>
+    <field name="unittitle_teim">Zelmira</field>
+    <field name="unitdate_normal_ssm">1823/1823</field>
+    <field name="unitdate_normal_teim">1823/1823</field>
+    <field name="unitdate_normal_sim">1823/1823</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">Librettist: Tottola, Andrea Leone</field>
+    <field name="scopecontent_teim">Performance City and Venue: Teatro in via della Pergola</field>
+    <field name="scopecontent_teim">Performance Season/Date: Quadragesima 1823</field>
+    <field name="scopecontent_teim">Publication City and Publisher: Firenze: nella stamperia Fantosini</field>
+    <field name="ref_ssi">aspace_ref514</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_teim">MSS.383</field>
+    <field name="series_sim">Series LV: Rossini</field>
+    <field name="series_si">Series LV: Rossini &gt;&gt; Zelmira</field>
+    <field name="heading_ssm">Zelmira</field>
+    <field name="unitdate_start_sim">1823</field>
+    <field name="unitdate_start_ssm">1823</field>
+    <field name="unitdate_start_si">1823</field>
+    <field name="unitdate_end_sim">1823</field>
+    <field name="unitdate_end_ssm">1823</field>
+    <field name="unitdate_end_si">1823</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">301</field>
+  </doc>
+</add>

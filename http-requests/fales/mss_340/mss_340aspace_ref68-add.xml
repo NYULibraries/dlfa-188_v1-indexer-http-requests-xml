@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_340aspace_ref68</field>
+    <field name="ead_ssi">mss_340</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Oversize Series I: Darinka Files</field>
+    <field name="parent_unittitles_teim">Oversize Series I: Darinka Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Darinka Archive</field>
+    <field name="collection_ssm">Darinka Archive</field>
+    <field name="collection_unitid_ssm">MSS.340/repositories/3/resources/1841</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Observe poster</field>
+    <field name="unittitle_teim">Observe poster</field>
+    <field name="unitid_teim">cuid22038</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/562268</field>
+    <field name="unitid_ssm">cuid22038</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/562268</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref68</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">Darinka Archive</field>
+    <field name="collection_unitid_teim">MSS.340/repositories/3/resources/1841</field>
+    <field name="series_sim">Oversize Series I: Darinka Files</field>
+    <field name="series_si">Oversize Series I: Darinka Files &gt;&gt; Observe poster</field>
+    <field name="heading_ssm">Observe poster</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">339</field>
+  </doc>
+</add>

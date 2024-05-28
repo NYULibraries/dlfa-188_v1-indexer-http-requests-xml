@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_155aspace_ref1095</field>
+    <field name="ead_ssi">mss_155</field>
+    <field name="parent_ssi">aspace_ref1064</field>
+    <field name="parent_ssm">aspace_ref1064</field>
+    <field name="parent_unittitles_ssm">Oversize Materials</field>
+    <field name="parent_unittitles_teim">Oversize Materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jaime Davidovich Collection</field>
+    <field name="collection_ssm">Jaime Davidovich Collection</field>
+    <field name="collection_unitid_ssm">MSS.155/repositories/3/resources/1715</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Series 1J: Press, Interviews, and Essays about Jaime Davidovich; Oversize</field>
+    <field name="unittitle_teim">Series 1J: Press, Interviews, and Essays about Jaime Davidovich; Oversize</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/479358</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/479358</field>
+    <field name="ref_ssi">aspace_ref1095</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jaime Davidovich Collection</field>
+    <field name="collection_unitid_teim">MSS.155/repositories/3/resources/1715</field>
+    <field name="series_sim">Oversize Materials</field>
+    <field name="series_si">Oversize Materials &gt;&gt; Series 1J: Press, Interviews, and Essays about Jaime Davidovich; Oversize</field>
+    <field name="heading_ssm">Series 1J: Press, Interviews, and Essays about Jaime Davidovich; Oversize</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1005</field>
+  </doc>
+</add>

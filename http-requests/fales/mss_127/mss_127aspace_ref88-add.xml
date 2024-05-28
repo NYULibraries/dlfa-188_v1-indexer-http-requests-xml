@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_127aspace_ref88</field>
+    <field name="ead_ssi">mss_127</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series 1: 1997-1998</field>
+    <field name="parent_unittitles_teim">Series 1: 1997-1998</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Institute on the Arts and Civic Dialogue Archive</field>
+    <field name="collection_ssm">Institute on the Arts and Civic Dialogue Archive</field>
+    <field name="collection_unitid_ssm">MSS.127</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 1.2: Artist Overviews</field>
+    <field name="unittitle_teim">Subseries 1.2: Artist Overviews</field>
+    <field name="scopecontent_teim">Artist Overview files contain biographical information on artists, performers and theater groups and information on the works presented. This includes material originating from the artists as well as created by the Institute. The series is arranged more or less alphabetically</field>
+    <field name="ref_ssi">aspace_ref88</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Institute on the Arts and Civic Dialogue Archive</field>
+    <field name="collection_unitid_teim">MSS.127</field>
+    <field name="series_sim">Series 1: 1997-1998</field>
+    <field name="series_si">Series 1: 1997-1998 &gt;&gt; Subseries 1.2: Artist Overviews</field>
+    <field name="heading_ssm">Subseries 1.2: Artist Overviews</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">77</field>
+  </doc>
+</add>

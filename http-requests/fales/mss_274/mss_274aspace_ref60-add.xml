@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_274aspace_ref60</field>
+    <field name="ead_ssi">mss_274</field>
+    <field name="parent_ssi">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_unittitles_ssm">Series I: Administrative Records</field>
+    <field name="parent_unittitles_ssm">Subseries B: Guerrilla Girls Broad Band Notes and Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Administrative Records</field>
+    <field name="parent_unittitles_teim">Subseries B: Guerrilla Girls Broad Band Notes and Correspondence</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Guerrilla Girls Archive</field>
+    <field name="collection_ssm">Guerrilla Girls Archive</field>
+    <field name="collection_unitid_ssm">MSS.274/repositories/3/resources/1799</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">September 2002 Intro to GGBB</field>
+    <field name="unittitle_teim">September 2002 Intro to GGBB</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/538273</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/538273</field>
+    <field name="unitdate_normal_ssm">2002/2002</field>
+    <field name="unitdate_normal_teim">2002/2002</field>
+    <field name="unitdate_normal_sim">2002/2002</field>
+    <field name="unitdate_inclusive_teim">2002</field>
+    <field name="ref_ssi">aspace_ref60</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 34</field>
+    <field name="location_ssm">Folder: 34</field>
+    <field name="location_si">Folder: 34</field>
+    <field name="collection_teim">Guerrilla Girls Archive</field>
+    <field name="collection_unitid_teim">MSS.274/repositories/3/resources/1799</field>
+    <field name="series_sim">Series I: Administrative Records</field>
+    <field name="series_sim">Subseries B: Guerrilla Girls Broad Band Notes and Correspondence</field>
+    <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries B: Guerrilla Girls Broad Band Notes and Correspondence &gt;&gt; September 2002 Intro to GGBB</field>
+    <field name="heading_ssm">September 2002 Intro to GGBB</field>
+    <field name="unitdate_start_sim">2002</field>
+    <field name="unitdate_start_ssm">2002</field>
+    <field name="unitdate_start_si">2002</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 2002</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">37</field>
+  </doc>
+</add>

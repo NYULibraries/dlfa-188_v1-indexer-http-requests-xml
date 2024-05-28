@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_298aspace_ref1285</field>
+    <field name="ead_ssi">mss_298</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Annina Nosei Gallery Archive</field>
+    <field name="collection_ssm">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_ssm">MSS.298/repositories/3/resources/1812</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Exhibition Records</field>
+    <field name="unittitle_teim">Series V: Exhibition Records</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/553337</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/553337</field>
+    <field name="unitdate_normal_ssm">1980/2009</field>
+    <field name="unitdate_normal_teim">1980/2009</field>
+    <field name="unitdate_normal_sim">1980/2009</field>
+    <field name="unitdate_inclusive_teim">1980-2009</field>
+    <field name="scopecontent_teim">Series comprises materials related to each show held at the Annina Nosei Gallery. Materials include installation photographs, price lists, artist bios, exhibition cards, press clippings, catalogs, and guest books.</field>
+    <field name="scopecontent_teim">Exhibition Records: Subseries A-G comprise what the gallery termed "Exhibition Records," a term denoting all materials produced and collected in connection with a specific exhibition. These records were originally sleeved in binders. Material has been removed from binder sleeves and binders and placed in folders and boxes. Titles of binders have been retained in the titles of subseries. 
+
+Materials in these subseries are arranged in the order in which they were filed in their original binders, which is reverse chronological order for each binder. The binders (subseries) themselves have been ordered chronologically by the archivist. 
+
+Each folder represents a specific exhibition (e.g., all of the material relating to the Barbara Kruger March 5-26, 1983 show is put into one folder), regardless of how many binder sleeves the material orignally occupied. Most binders were accompanied by a list of binder contents listing the exhibitions included in the date range for that binder. These lists, where available, were used by the archivist to create folder titles. Where these lists were absent, the archivist has supplied folder titles by referring to the chronological lists found in the yearly catalogs for the gallery.
+
+Some consecutive exhibitions are represented by very little material. In such a case, that material is placed in a single folder, which is labelled with the artists' names and show titles separated by semicolons (e.g., "[Stephen Mueller; Keith Milow; Group Show; Keith Haring]").
+
+Catalogs: Subseries H comprises catalogs created by the gallery to accompany each exhibition.
+
+Guest Books: Subseries I comprises guest books signed by gallery patrons.</field>
+    <field name="ref_ssi">aspace_ref1285</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_teim">MSS.298/repositories/3/resources/1812</field>
+    <field name="series_si">Series V: Exhibition Records</field>
+    <field name="heading_ssm">Series V: Exhibition Records</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, 1980-2009</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1414</field>
+  </doc>
+</add>

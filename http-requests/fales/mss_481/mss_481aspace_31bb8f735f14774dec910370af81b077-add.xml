@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_481aspace_31bb8f735f14774dec910370af81b077</field>
+    <field name="ead_ssi">mss_481</field>
+    <field name="parent_ssi">aspace_87db1bd7ec92de550742ca460d8d81c0</field>
+    <field name="parent_ssm">aspace_5f1c5a0f91dbf323d32fa1596ab793ba</field>
+    <field name="parent_ssm">aspace_87db1bd7ec92de550742ca460d8d81c0</field>
+    <field name="parent_unittitles_ssm">Series II. Bennington College</field>
+    <field name="parent_unittitles_ssm">Subseries II.A: Class and Lecture Recordings</field>
+    <field name="parent_unittitles_teim">Series II. Bennington College</field>
+    <field name="parent_unittitles_teim">Subseries II.A: Class and Lecture Recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bill Dixon Papers</field>
+    <field name="collection_ssm">Bill Dixon Papers</field>
+    <field name="collection_unitid_ssm">MSS.481/repositories/3/resources/2376</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ensemble Class and Bill Dixon Bass Duets</field>
+    <field name="unittitle_teim">Ensemble Class and Bill Dixon Bass Duets</field>
+    <field name="unitid_teim">cuid38596</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/958347</field>
+    <field name="unitid_ssm">cuid38596</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/958347</field>
+    <field name="unitdate_normal_ssm">1965/1995</field>
+    <field name="unitdate_normal_teim">1965/1995</field>
+    <field name="unitdate_normal_sim">1965/1995</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="ref_ssi">aspace_31bb8f735f14774dec910370af81b077</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 29, audiocassette: 481_796</field>
+    <field name="location_ssm">audiocassette: 481_796</field>
+    <field name="location_si">audiocassette: 481_796</field>
+    <field name="collection_teim">Bill Dixon Papers</field>
+    <field name="collection_unitid_teim">MSS.481/repositories/3/resources/2376</field>
+    <field name="series_sim">Series II. Bennington College</field>
+    <field name="series_sim">Subseries II.A: Class and Lecture Recordings</field>
+    <field name="series_si">Series II. Bennington College &gt;&gt; Subseries II.A: Class and Lecture Recordings &gt;&gt; Ensemble Class and Bill Dixon Bass Duets</field>
+    <field name="heading_ssm">Ensemble Class and Bill Dixon Bass Duets</field>
+    <field name="unitdate_start_sim">1965</field>
+    <field name="unitdate_start_ssm">1965</field>
+    <field name="unitdate_start_si">1965</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2403</field>
+  </doc>
+</add>

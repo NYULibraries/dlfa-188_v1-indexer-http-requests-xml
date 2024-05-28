@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_319aspace_ref125</field>
+    <field name="ead_ssi">mss_319</field>
+    <field name="parent_ssi">aspace_ref101</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref101</field>
+    <field name="parent_unittitles_ssm">Series I: Memorial Dress</field>
+    <field name="parent_unittitles_ssm">Subseries C: Memorial Dress Sound and Video Recordings</field>
+    <field name="parent_unittitles_teim">Series I: Memorial Dress</field>
+    <field name="parent_unittitles_teim">Subseries C: Memorial Dress Sound and Video Recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hunter Reynolds Papers and Collection</field>
+    <field name="collection_ssm">Hunter Reynolds Papers and Collection</field>
+    <field name="collection_unitid_ssm">MSS.319</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Reading of NAMES - Getting to Know You</field>
+    <field name="unittitle_teim">Reading of NAMES - Getting to Know You</field>
+    <field name="unitid_teim">ID: 319.0010</field>
+    <field name="unitid_ssm">ID: 319.0010</field>
+    <field name="phystech_teim">Original format: 1/4" audiocassette</field>
+    <field name="ref_ssi">aspace_ref125</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Media: ID: 319.0010</field>
+    <field name="location_ssm">Media: ID: 319.0010</field>
+    <field name="location_si">Media: ID: 319.0010</field>
+    <field name="collection_teim">Hunter Reynolds Papers and Collection</field>
+    <field name="collection_unitid_teim">MSS.319</field>
+    <field name="series_sim">Series I: Memorial Dress</field>
+    <field name="series_sim">Subseries C: Memorial Dress Sound and Video Recordings</field>
+    <field name="series_si">Series I: Memorial Dress &gt;&gt; Subseries C: Memorial Dress Sound and Video Recordings &gt;&gt; Reading of NAMES - Getting to Know You</field>
+    <field name="heading_ssm">Reading of NAMES - Getting to Know You</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">86</field>
+  </doc>
+</add>

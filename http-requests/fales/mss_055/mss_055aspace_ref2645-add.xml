@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_055aspace_ref2645</field>
+    <field name="ead_ssi">mss_055</field>
+    <field name="parent_ssi">aspace_ref2564</field>
+    <field name="parent_ssm">aspace_ref2278</field>
+    <field name="parent_ssm">aspace_ref2564</field>
+    <field name="parent_unittitles_ssm">Series VI: Accretions</field>
+    <field name="parent_unittitles_ssm">Subseries B: Letters by and about Benedict Arnold</field>
+    <field name="parent_unittitles_teim">Series VI: Accretions</field>
+    <field name="parent_unittitles_teim">Subseries B: Letters by and about Benedict Arnold</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_ssm">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_ssm">MSS.055/repositories/3/resources/1638</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Lansing, John&lt;strong&gt;place&lt;/strong&gt;: Poughkeepsie, NY</field>
+    <field name="unittitle_teim">creator: Lansing, Johnplace: Poughkeepsie, NY</field>
+    <field name="unitid_teim">055-006-B-2338</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/404861</field>
+    <field name="unitid_ssm">055-006-B-2338</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/404861</field>
+    <field name="unitdate_teim">Oct 7, 1780</field>
+    <field name="name_teim">Lansing, John</field>
+    <field name="name_teim">Lansing, John</field>
+    <field name="name_ssm">Lansing, John</field>
+    <field name="name_ssm">Lansing, John</field>
+    <field name="dao_teim">creator: Lansing, Johnplace: Poughkeepsie, NY: Oct 7, 1780</field>
+    <field name="dao_ssm">creator: Lansing, Johnplace: Poughkeepsie, NY: Oct 7, 1780</field>
+    <field name="ref_ssi">aspace_ref2645</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 21, Folder: 17</field>
+    <field name="location_ssm">Folder: 17</field>
+    <field name="location_si">Folder: 17</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_teim">MSS.055/repositories/3/resources/1638</field>
+    <field name="series_sim">Series VI: Accretions</field>
+    <field name="series_sim">Subseries B: Letters by and about Benedict Arnold</field>
+    <field name="series_si">Series VI: Accretions &gt;&gt; Subseries B: Letters by and about Benedict Arnold &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Lansing, John&lt;strong&gt;place&lt;/strong&gt;: Poughkeepsie, NY</field>
+    <field name="heading_ssm">creator: Lansing, Johnplace: Poughkeepsie, NY</field>
+    <field name="unitdate_ssm">Oct 7, 1780</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">729</field>
+  </doc>
+</add>

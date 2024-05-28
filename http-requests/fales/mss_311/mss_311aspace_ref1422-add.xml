@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_311aspace_ref1422</field>
+    <field name="ead_ssi">mss_311</field>
+    <field name="parent_ssi">aspace_ref1421</field>
+    <field name="parent_ssm">aspace_ref1421</field>
+    <field name="parent_unittitles_ssm">Series XII. Accretions</field>
+    <field name="parent_unittitles_teim">Series XII. Accretions</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Nick Zedd Papers</field>
+    <field name="collection_ssm">Nick Zedd Papers</field>
+    <field name="collection_unitid_ssm">MSS.311/repositories/3/resources/1822</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">2016 Accretion: &lt;em&gt;AUUUUU&lt;/em&gt; Zine and &lt;em&gt;La Jornada&lt;/em&gt; Newspaper</field>
+    <field name="unittitle_teim">2016 Accretion: AUUUUU Zine and La Jornada Newspaper</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/555700</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/555700</field>
+    <field name="unitdate_normal_ssm">2016/2016</field>
+    <field name="unitdate_normal_teim">2016/2016</field>
+    <field name="unitdate_normal_sim">2016/2016</field>
+    <field name="unitdate_inclusive_teim">2016, undated</field>
+    <field name="title_teim">AUUUUU</field>
+    <field name="title_teim">La Jornada</field>
+    <field name="title_ssm">AUUUUU</field>
+    <field name="title_ssm">La Jornada</field>
+    <field name="ref_ssi">aspace_ref1422</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10, Folder: 18</field>
+    <field name="location_ssm">Folder: 18</field>
+    <field name="location_si">Folder: 18</field>
+    <field name="collection_teim">Nick Zedd Papers</field>
+    <field name="collection_unitid_teim">MSS.311/repositories/3/resources/1822</field>
+    <field name="series_sim">Series XII. Accretions</field>
+    <field name="series_si">Series XII. Accretions &gt;&gt; 2016 Accretion: &lt;em&gt;AUUUUU&lt;/em&gt; Zine and &lt;em&gt;La Jornada&lt;/em&gt; Newspaper</field>
+    <field name="heading_ssm">2016 Accretion: AUUUUU Zine and La Jornada Newspaper</field>
+    <field name="unitdate_start_sim">2016</field>
+    <field name="unitdate_start_ssm">2016</field>
+    <field name="unitdate_start_si">2016</field>
+    <field name="unitdate_end_sim">2016</field>
+    <field name="unitdate_end_ssm">2016</field>
+    <field name="unitdate_end_si">2016</field>
+    <field name="unitdate_ssm">Inclusive, 2016, undated</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">927</field>
+  </doc>
+</add>

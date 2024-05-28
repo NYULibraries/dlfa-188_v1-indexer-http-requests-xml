@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_559aspace_c730b293dc5693939a8fefe8bae69800</field>
+    <field name="ead_ssi">mss_559</field>
+    <field name="parent_ssi">aspace_fabc46fc3406a871b65ec651b90a4406</field>
+    <field name="parent_ssm">aspace_fabc46fc3406a871b65ec651b90a4406</field>
+    <field name="parent_unittitles_ssm">Series I. Papyri Fragments</field>
+    <field name="parent_unittitles_teim">Series I. Papyri Fragments</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Collection of Papyri, Ostraka, and Cuneiform Tablets</field>
+    <field name="collection_ssm">New York University Collection of Papyri, Ostraka, and Cuneiform Tablets</field>
+    <field name="collection_unitid_ssm">MSS.559</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Papyrus Fragment: P.NYU inv 1685</field>
+    <field name="unittitle_teim">Papyrus Fragment: P.NYU inv 1685</field>
+    <field name="unitid_teim">cuid32509</field>
+    <field name="unitid_ssm">cuid32509</field>
+    <field name="dao_teim">Papyrus Fragment: P.NYU inv 1685</field>
+    <field name="dao_ssm">Papyrus Fragment: P.NYU inv 1685</field>
+    <field name="ref_ssi">aspace_c730b293dc5693939a8fefe8bae69800</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 34, Item: P.NYU inv 1685</field>
+    <field name="location_ssm">Item: P.NYU inv 1685</field>
+    <field name="location_si">Item: P.NYU inv 1685</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Collection of Papyri, Ostraka, and Cuneiform Tablets</field>
+    <field name="collection_unitid_teim">MSS.559</field>
+    <field name="series_sim">Series I. Papyri Fragments</field>
+    <field name="series_si">Series I. Papyri Fragments &gt;&gt; Papyrus Fragment: P.NYU inv 1685</field>
+    <field name="heading_ssm">Papyrus Fragment: P.NYU inv 1685</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2165</field>
+  </doc>
+</add>

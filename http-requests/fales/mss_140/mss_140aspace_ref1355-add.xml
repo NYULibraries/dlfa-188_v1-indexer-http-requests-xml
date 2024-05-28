@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_140aspace_ref1355</field>
+    <field name="ead_ssi">mss_140</field>
+    <field name="parent_ssi">aspace_ref1333</field>
+    <field name="parent_ssm">aspace_ref604</field>
+    <field name="parent_ssm">aspace_ref1333</field>
+    <field name="parent_unittitles_ssm">Series III: Projects</field>
+    <field name="parent_unittitles_ssm">Subseries AB: Cuz Editions</field>
+    <field name="parent_unittitles_teim">Series III: Projects</field>
+    <field name="parent_unittitles_teim">Subseries AB: Cuz Editions</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Richard Hell Papers</field>
+    <field name="collection_ssm">Richard Hell Papers</field>
+    <field name="collection_unitid_ssm">MSS.140/repositories/3/resources/1703</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Office Supplies</field>
+    <field name="unittitle_teim">Office Supplies</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/465406</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/465406</field>
+    <field name="unitdate_normal_ssm">1944/2003</field>
+    <field name="unitdate_normal_teim">1944/2003</field>
+    <field name="unitdate_normal_sim">1944/2003</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1355</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 17, Folder: 1258</field>
+    <field name="location_ssm">Folder: 1258</field>
+    <field name="location_si">Folder: 1258</field>
+    <field name="collection_teim">Richard Hell Papers</field>
+    <field name="collection_unitid_teim">MSS.140/repositories/3/resources/1703</field>
+    <field name="series_sim">Series III: Projects</field>
+    <field name="series_sim">Subseries AB: Cuz Editions</field>
+    <field name="series_si">Series III: Projects &gt;&gt; Subseries AB: Cuz Editions &gt;&gt; Office Supplies</field>
+    <field name="heading_ssm">Office Supplies</field>
+    <field name="unitdate_start_sim">1944</field>
+    <field name="unitdate_start_ssm">1944</field>
+    <field name="unitdate_start_si">1944</field>
+    <field name="unitdate_end_sim">2003</field>
+    <field name="unitdate_end_ssm">2003</field>
+    <field name="unitdate_end_si">2003</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1311</field>
+  </doc>
+</add>

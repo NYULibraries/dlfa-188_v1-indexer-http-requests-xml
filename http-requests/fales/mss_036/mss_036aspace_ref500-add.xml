@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_036aspace_ref500</field>
+    <field name="ead_ssi">mss_036</field>
+    <field name="parent_ssi">aspace_ref433</field>
+    <field name="parent_ssm">aspace_ref433</field>
+    <field name="parent_unittitles_ssm">Accretion 2008 - Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Accretion 2008 - Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Coleman Dowell Papers</field>
+    <field name="collection_ssm">Coleman Dowell Papers</field>
+    <field name="collection_unitid_ssm">MSS.036</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Rakoff, Vivian M.</field>
+    <field name="unittitle_teim">Rakoff, Vivian M.</field>
+    <field name="unitdate_normal_ssm">1986/1986</field>
+    <field name="unitdate_normal_teim">1986/1986</field>
+    <field name="unitdate_normal_sim">1986/1986</field>
+    <field name="unitdate_inclusive_teim">1986</field>
+    <field name="ref_ssi">aspace_ref500</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2008.I-IV.1, Folder: 19</field>
+    <field name="location_ssm">Folder: 19</field>
+    <field name="location_si">Folder: 19</field>
+    <field name="collection_teim">Coleman Dowell Papers</field>
+    <field name="collection_unitid_teim">MSS.036</field>
+    <field name="series_sim">Accretion 2008 - Series I: Correspondence</field>
+    <field name="series_si">Accretion 2008 - Series I: Correspondence &gt;&gt; Rakoff, Vivian M.</field>
+    <field name="heading_ssm">Rakoff, Vivian M.</field>
+    <field name="unitdate_start_sim">1986</field>
+    <field name="unitdate_start_ssm">1986</field>
+    <field name="unitdate_start_si">1986</field>
+    <field name="unitdate_end_sim">1986</field>
+    <field name="unitdate_end_ssm">1986</field>
+    <field name="unitdate_end_si">1986</field>
+    <field name="unitdate_ssm">Inclusive, 1986</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">337</field>
+  </doc>
+</add>

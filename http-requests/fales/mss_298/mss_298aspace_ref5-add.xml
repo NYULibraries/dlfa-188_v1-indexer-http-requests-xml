@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_298aspace_ref5</field>
+    <field name="ead_ssi">mss_298</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Transaction Records</field>
+    <field name="parent_unittitles_teim">Series I: Transaction Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Annina Nosei Gallery Archive</field>
+    <field name="collection_ssm">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_ssm">MSS.298/repositories/3/resources/1812</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries D: Inventory Books</field>
+    <field name="unittitle_teim">Subseries D: Inventory Books</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/551960</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/551960</field>
+    <field name="scopecontent_teim">Subseries is arranged in numerical order by inventory number. Folders are labeled with the title on front of the original ledger.</field>
+    <field name="scopecontent_teim">Series comprises ten twelve-column ledgers organized by the inventory number assigned to each artwork. Each entry in each ledger gives the inventory number, the artist's name, the work's title, the date the work was received by the gallery, the year the work was executed, the size of the work, the artist's price, the consignee, the work's medium, the gallery's suggested price, amount owed to the gallery, and the work's current location including to whom it sold or if it was returned to the artist.</field>
+    <field name="ref_ssi">aspace_ref5</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_teim">MSS.298/repositories/3/resources/1812</field>
+    <field name="series_sim">Series I: Transaction Records</field>
+    <field name="series_si">Series I: Transaction Records &gt;&gt; Subseries D: Inventory Books</field>
+    <field name="heading_ssm">Subseries D: Inventory Books</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">37</field>
+  </doc>
+</add>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_496aspace_36b23b28331edb0342df04bbe6b3eb98</field>
+    <field name="ead_ssi">mss_496</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Collection of Contemporary Composers' Websites</field>
+    <field name="collection_ssm">New York University Collection of Contemporary Composers' Websites</field>
+    <field name="collection_unitid_ssm">MSS.496/repositories/3/resources/2414</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Holzborn, Damon</field>
+    <field name="unittitle_teim">Holzborn, Damon</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/763472</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/763472</field>
+    <field name="unitdate_normal_ssm">2014-05/2014-05</field>
+    <field name="unitdate_normal_teim">2014-05/2014-05</field>
+    <field name="unitdate_normal_sim">2014-05/2014-05</field>
+    <field name="unitdate_teim">April 2014-ongoing</field>
+    <field name="scopecontent_teim">The website contains a biography of the artist, a discography of his works, examples of his compositions in the form of embedded audio files, information about his projects in the realm of art, and two pieces of music writing and manipulating code that Holzborn has written. The pieces featured on the site are primarily computer music, featuring electronic instruments and improvisation. Capture of the site began in May 2014. The crawls related to Holzborn also include Rustle Works, a software studio formed as a partnership between musician/developer Holzborn and writer/filmmaker Betsy Nagler. The studio combines technology, music, and storytelling to create tools, games, and art projects. The website contains information and links to their projects. Project include twitter bots and art projects little words, Tap Hear, Disting mk4 Quick Guide, and with w/. With George Lewis, also created Personal Bayou and Personal Shout, two digital art installations. It also includes the Exquisite Coasts, Quaxtrip, and Coast Express, which were projects created by Holzborn for musicians to play together remotely in response to the COVID-19 pandemic. Tentacle, created by Holzborn and Amir Hariri, is an algorithmic drawing project that creates gestural abstractions using contour drawing techniques.</field>
+    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored.
+ 
+Crawl was limited to domains and subdomains of http://damonholzborn.com/ and rustle.works in order to remain within the collection scope and data constraints.</field>
+    <field name="appraisal_teim">Embedded Soundcloud audio files on the site were captured, but do not render in the archived copy. Future changes to the Wayback Machine may allow the files to be played.</field>
+    <field name="dao_teim">Archived website of Damon Holzborn: April 2014-ongoing</field>
+    <field name="dao_teim">Personal Bayou Archived Website: February 2020</field>
+    <field name="dao_teim">Personal Shout Archived Website: January-February 2020</field>
+    <field name="dao_teim">Rustle Works Archived Website: February 2020</field>
+    <field name="dao_teim">Jerry Botheimer Twitter Bot Archived Website: February 2020</field>
+    <field name="dao_teim">Kiddie Rides Bklyn Twitter Bot Archived Website: February 2020</field>
+    <field name="dao_teim">Important Number Twitter Bot Archived Website: February 2020</field>
+    <field name="dao_teim">Clef Twitter Bot Archived Website: February 2020</field>
+    <field name="dao_teim">Tap Hear Archived Website: July 2019-February 2020</field>
+    <field name="dao_teim">Disting mk4 Quick Guide Archived Website: February 2020</field>
+    <field name="dao_teim">with w/ Archived Website: January-February 2020</field>
+    <field name="dao_teim">Exquisite Coasts Archived Website: July 2020-ongoing</field>
+    <field name="dao_teim">Quaxtrip Archived Website: 2021-07-07-</field>
+    <field name="dao_teim">Coast Express Archived Website: July 2021-ongoing</field>
+    <field name="dao_teim">little words Archived Website: July 2023</field>
+    <field name="dao_teim">Tentacle Archived Website: July 2023</field>
+    <field name="dao_ssm">Archived website of Damon Holzborn: April 2014-ongoing</field>
+    <field name="dao_ssm">Personal Bayou Archived Website: February 2020</field>
+    <field name="dao_ssm">Personal Shout Archived Website: January-February 2020</field>
+    <field name="dao_ssm">Rustle Works Archived Website: February 2020</field>
+    <field name="dao_ssm">Jerry Botheimer Twitter Bot Archived Website: February 2020</field>
+    <field name="dao_ssm">Kiddie Rides Bklyn Twitter Bot Archived Website: February 2020</field>
+    <field name="dao_ssm">Important Number Twitter Bot Archived Website: February 2020</field>
+    <field name="dao_ssm">Clef Twitter Bot Archived Website: February 2020</field>
+    <field name="dao_ssm">Tap Hear Archived Website: July 2019-February 2020</field>
+    <field name="dao_ssm">Disting mk4 Quick Guide Archived Website: February 2020</field>
+    <field name="dao_ssm">with w/ Archived Website: January-February 2020</field>
+    <field name="dao_ssm">Exquisite Coasts Archived Website: July 2020-ongoing</field>
+    <field name="dao_ssm">Quaxtrip Archived Website: 2021-07-07-</field>
+    <field name="dao_ssm">Coast Express Archived Website: July 2021-ongoing</field>
+    <field name="dao_ssm">little words Archived Website: July 2023</field>
+    <field name="dao_ssm">Tentacle Archived Website: July 2023</field>
+    <field name="ref_ssi">aspace_36b23b28331edb0342df04bbe6b3eb98</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Collection of Contemporary Composers' Websites</field>
+    <field name="collection_unitid_teim">MSS.496/repositories/3/resources/2414</field>
+    <field name="series_si">Holzborn, Damon</field>
+    <field name="heading_ssm">Holzborn, Damon</field>
+    <field name="unitdate_ssm">April 2014-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">132</field>
+  </doc>
+</add>

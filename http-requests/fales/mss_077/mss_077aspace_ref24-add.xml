@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_077aspace_ref24</field>
+    <field name="ead_ssi">mss_077</field>
+    <field name="parent_ssi">aspace_ref19</field>
+    <field name="parent_ssm">aspace_ref18</field>
+    <field name="parent_ssm">aspace_ref19</field>
+    <field name="parent_unittitles_ssm">Series II: Manuscripts</field>
+    <field name="parent_unittitles_ssm">Subseries A: Biographical </field>
+    <field name="parent_unittitles_teim">Series II: Manuscripts</field>
+    <field name="parent_unittitles_teim">Subseries A: Biographical </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Margaret Strickland Papers</field>
+    <field name="collection_ssm">Margaret Strickland Papers</field>
+    <field name="collection_unitid_ssm">MSS.077</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"History and Genealogical Notes of the Strickland Family"</field>
+    <field name="unittitle_teim">"History and Genealogical Notes of the Strickland Family"</field>
+    <field name="unitdate_normal_ssm">1893/1895</field>
+    <field name="unitdate_normal_teim">1893/1895</field>
+    <field name="unitdate_normal_sim">1893/1895</field>
+    <field name="unitdate_inclusive_teim">1893; 1895 January 28</field>
+    <field name="scopecontent_teim">3 Manuscripts with Notation</field>
+    <field name="scopecontent_teim">"History and Genealogical Notes of the Strickland Family" by Catherine (Catharine) Parr Traill (née Strickland) of Westove, Lakefield, Ontario, Canada [2 Copies; Notation from Samuel C. Strickland of St. Paul, MN]</field>
+    <field name="scopecontent_teim">"Further Notes of Family Interest" by Margaret Worley (née Strickland)</field>
+    <field name="scopecontent_teim">30 Pages, Bound &amp; Unbound</field>
+    <field name="scopecontent_teim">Typed &amp; Handwritten in Ink &amp; Pencil</field>
+    <field name="scopecontent_teim">Measurements: 8"x 12.5"</field>
+    <field name="scopecontent_teim">Catharine Parr Traill  (January 9, 1802 – August 28, 1899) was an English-Canadian author and naturalist who wrote children's and settler literature. Traill was the last surviving member of the Suffolk, England Stricklands. Many of Traill's albums of plant collections are housed in the National Herbarium of Canada at the Canadian Museum of Nature in Ottawa, Ontario.</field>
+    <field name="ref_ssi">aspace_ref24</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">Margaret Strickland Papers</field>
+    <field name="collection_unitid_teim">MSS.077</field>
+    <field name="series_sim">Series II: Manuscripts</field>
+    <field name="series_sim">Subseries A: Biographical </field>
+    <field name="series_si">Series II: Manuscripts &gt;&gt; Subseries A: Biographical  &gt;&gt; "History and Genealogical Notes of the Strickland Family"</field>
+    <field name="heading_ssm">"History and Genealogical Notes of the Strickland Family"</field>
+    <field name="unitdate_start_sim">1893</field>
+    <field name="unitdate_start_ssm">1893</field>
+    <field name="unitdate_start_si">1893</field>
+    <field name="unitdate_end_sim">1895</field>
+    <field name="unitdate_end_ssm">1895</field>
+    <field name="unitdate_end_si">1895</field>
+    <field name="unitdate_ssm">Inclusive, 1893; 1895 January 28</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">13</field>
+  </doc>
+</add>

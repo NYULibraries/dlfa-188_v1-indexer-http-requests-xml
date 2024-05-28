@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_323aspace_ref1</field>
+    <field name="ead_ssi">mss_323</field>
+    <field name="parent_ssi">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_unittitles_ssm">Series I: Appetite for Life: The Biography of Julia Child</field>
+    <field name="parent_unittitles_teim">Series I: Appetite for Life: The Biography of Julia Child</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Noël Riley Fitch Julia Child Papers</field>
+    <field name="collection_ssm">Noël Riley Fitch Julia Child Papers</field>
+    <field name="collection_unitid_ssm">MSS.323</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Research Files</field>
+    <field name="unittitle_teim">Subseries A: Research Files</field>
+    <field name="scopecontent_teim">Subseries A: Research Files is arranged primarily following the structure of Appetite for Life, which loosely corresponds to the chronology of Julia Child's life. Research materials about Julia Child subsequent to the publication of Appetite for Life are arranged chonologically. The subseries consists of magazines and newspaper clippings related to Julia Child's life, work, and influences; photocopies of original diaries and letters of Paul and Julia Child; and notes and segments of transcripts from interviews conducted by Noël Riley Fitch about Julia Child.</field>
+    <field name="ref_ssi">aspace_ref1</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Noël Riley Fitch Julia Child Papers</field>
+    <field name="collection_unitid_teim">MSS.323</field>
+    <field name="series_sim">Series I: Appetite for Life: The Biography of Julia Child</field>
+    <field name="series_si">Series I: Appetite for Life: The Biography of Julia Child &gt;&gt; Subseries A: Research Files</field>
+    <field name="heading_ssm">Subseries A: Research Files</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

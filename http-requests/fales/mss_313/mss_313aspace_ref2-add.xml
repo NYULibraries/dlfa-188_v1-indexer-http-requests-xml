@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_313aspace_ref2</field>
+    <field name="ead_ssi">mss_313</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Bill Bytsura ACT UP Photography Collection</field>
+    <field name="collection_ssm">Bill Bytsura ACT UP Photography Collection</field>
+    <field name="collection_unitid_ssm">MSS.313</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Demonstrations</field>
+    <field name="unittitle_teim">Series II: Demonstrations</field>
+    <field name="scopecontent_teim">Series II: Demonstrations contains photographs, contact sheets, negatives and  slides. The finding aid dates reflect the date of printing, as that was the photographer's method of notation. In some instances, the dates of printing are the same or extremely close to the estimated date of the event the prints describe. In other instances, the dates of printing are separated by a few years from the event. In this case, the date of the event, if known, is included in the title. Negatives that were found loose have been separated by year, and may contain some portraits as well as documentation of demonstrations or events.</field>
+    <field name="ref_ssi">aspace_ref2</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bill Bytsura ACT UP Photography Collection</field>
+    <field name="collection_unitid_teim">MSS.313</field>
+    <field name="series_si">Series II: Demonstrations</field>
+    <field name="heading_ssm">Series II: Demonstrations</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">257</field>
+  </doc>
+</add>

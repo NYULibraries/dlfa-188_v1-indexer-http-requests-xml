@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_253aspace_ref999</field>
+    <field name="ead_ssi">mss_253</field>
+    <field name="parent_ssi">aspace_ref805</field>
+    <field name="parent_ssm">aspace_ref805</field>
+    <field name="parent_unittitles_ssm">Series III: Photographs</field>
+    <field name="parent_unittitles_teim">Series III: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Paul Langland Papers</field>
+    <field name="collection_ssm">Paul Langland Papers</field>
+    <field name="collection_unitid_ssm">MSS.253/repositories/3/resources/1783</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Dance Related Photographs</field>
+    <field name="unittitle_teim">Dance Related Photographs</field>
+    <field name="unitid_teim">cuid29125</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/531926</field>
+    <field name="unitid_ssm">cuid29125</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/531926</field>
+    <field name="unitdate_normal_ssm">1965/2011</field>
+    <field name="unitdate_normal_teim">1965/2011</field>
+    <field name="unitdate_normal_sim">1965/2011</field>
+    <field name="unitdate_inclusive_teim">1965; 1976; 1982-2001; 2009; 2011</field>
+    <field name="ref_ssi">aspace_ref999</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">binder: 7</field>
+    <field name="location_si">binder: 7</field>
+    <field name="collection_teim">Paul Langland Papers</field>
+    <field name="collection_unitid_teim">MSS.253/repositories/3/resources/1783</field>
+    <field name="series_sim">Series III: Photographs</field>
+    <field name="series_si">Series III: Photographs &gt;&gt; Dance Related Photographs</field>
+    <field name="heading_ssm">Dance Related Photographs</field>
+    <field name="unitdate_start_sim">1965</field>
+    <field name="unitdate_start_ssm">1965</field>
+    <field name="unitdate_start_si">1965</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, 1965; 1976; 1982-2001; 2009; 2011</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">189</field>
+  </doc>
+</add>

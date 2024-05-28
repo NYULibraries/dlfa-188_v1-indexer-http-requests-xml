@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_156aspace_ref1493</field>
+    <field name="ead_ssi">mss_156</field>
+    <field name="parent_ssi">aspace_ref1488</field>
+    <field name="parent_ssm">aspace_ref1366</field>
+    <field name="parent_ssm">aspace_ref1488</field>
+    <field name="parent_unittitles_ssm">Oversize</field>
+    <field name="parent_unittitles_ssm">Series IV Subseries C: Other Artist Files, Miscellaneous and Unknown Artists</field>
+    <field name="parent_unittitles_teim">Oversize</field>
+    <field name="parent_unittitles_teim">Series IV Subseries C: Other Artist Files, Miscellaneous and Unknown Artists</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Andrea Callard Papers</field>
+    <field name="collection_ssm">Andrea Callard Papers</field>
+    <field name="collection_unitid_ssm">MSS.156/repositories/3/resources/1716</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Poster, white text on black background, drawing of castle architecture.</field>
+    <field name="unittitle_teim">Poster, white text on black background, drawing of castle architecture.</field>
+    <field name="unitid_teim">cuid23185</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/480560</field>
+    <field name="unitid_ssm">cuid23185</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/480560</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1493</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 17, Folder: 656</field>
+    <field name="location_ssm">Folder: 656</field>
+    <field name="location_si">Folder: 656</field>
+    <field name="collection_teim">Andrea Callard Papers</field>
+    <field name="collection_unitid_teim">MSS.156/repositories/3/resources/1716</field>
+    <field name="series_sim">Oversize</field>
+    <field name="series_sim">Series IV Subseries C: Other Artist Files, Miscellaneous and Unknown Artists</field>
+    <field name="series_si">Oversize &gt;&gt; Series IV Subseries C: Other Artist Files, Miscellaneous and Unknown Artists &gt;&gt; Poster, white text on black background, drawing of castle architecture.</field>
+    <field name="heading_ssm">Poster, white text on black background, drawing of castle architecture.</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1201</field>
+  </doc>
+</add>

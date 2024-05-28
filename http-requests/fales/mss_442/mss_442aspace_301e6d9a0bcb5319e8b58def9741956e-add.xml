@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_442aspace_301e6d9a0bcb5319e8b58def9741956e</field>
+    <field name="ead_ssi">mss_442</field>
+    <field name="parent_ssi">aspace_8ad3f850000110f6a224870d8b267a0b</field>
+    <field name="parent_ssm">aspace_8ad3f850000110f6a224870d8b267a0b</field>
+    <field name="parent_unittitles_ssm">Series IV. Correspondence</field>
+    <field name="parent_unittitles_teim">Series IV. Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Chris Kraus Papers</field>
+    <field name="collection_ssm">Chris Kraus Papers</field>
+    <field name="collection_unitid_ssm">MSS.442/repositories/3/resources/1898</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Email Files</field>
+    <field name="unittitle_teim">Email Files</field>
+    <field name="unitid_teim">cuid39060</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/842109</field>
+    <field name="unitid_ssm">cuid39060</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/842109</field>
+    <field name="unitdate_normal_ssm">2004/2015</field>
+    <field name="unitdate_normal_teim">2004/2015</field>
+    <field name="unitdate_normal_sim">2004/2015</field>
+    <field name="unitdate_inclusive_teim">2004-2015</field>
+    <field name="dao_teim">Email Files: 2004-2015</field>
+    <field name="dao_ssm">Email Files: 2004-2015</field>
+    <field name="ref_ssi">aspace_301e6d9a0bcb5319e8b58def9741956e</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_442_ER_27</field>
+    <field name="location_ssm">E-records: FA_MSS_442_ER_27</field>
+    <field name="location_si">E-records: FA_MSS_442_ER_27</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Chris Kraus Papers</field>
+    <field name="collection_unitid_teim">MSS.442/repositories/3/resources/1898</field>
+    <field name="series_sim">Series IV. Correspondence</field>
+    <field name="series_si">Series IV. Correspondence &gt;&gt; Email Files</field>
+    <field name="heading_ssm">Email Files</field>
+    <field name="unitdate_start_sim">2004</field>
+    <field name="unitdate_start_ssm">2004</field>
+    <field name="unitdate_start_si">2004</field>
+    <field name="unitdate_end_sim">2015</field>
+    <field name="unitdate_end_ssm">2015</field>
+    <field name="unitdate_end_si">2015</field>
+    <field name="unitdate_ssm">Inclusive, 2004-2015</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">100</field>
+  </doc>
+</add>

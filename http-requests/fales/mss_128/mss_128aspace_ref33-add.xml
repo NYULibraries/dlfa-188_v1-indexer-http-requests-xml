@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_128aspace_ref33</field>
+    <field name="ead_ssi">mss_128</field>
+    <field name="parent_ssi">aspace_ref32</field>
+    <field name="parent_ssm">aspace_ref32</field>
+    <field name="parent_unittitles_ssm">Series XI: Miscellaneous Video and Film</field>
+    <field name="parent_unittitles_teim">Series XI: Miscellaneous Video and Film</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_ssm">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_unitid_ssm">MSS.128</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Access Copies  (Video)</field>
+    <field name="unittitle_teim">Subseries A: Access Copies  (Video)</field>
+    <field name="ref_ssi">aspace_ref33</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_unitid_teim">MSS.128</field>
+    <field name="series_sim">Series XI: Miscellaneous Video and Film</field>
+    <field name="series_si">Series XI: Miscellaneous Video and Film &gt;&gt; Subseries A: Access Copies  (Video)</field>
+    <field name="heading_ssm">Subseries A: Access Copies  (Video)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">836</field>
+  </doc>
+</add>

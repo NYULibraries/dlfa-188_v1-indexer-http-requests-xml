@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_220aspace_b35ed164052e284e0051e80437fc063c</field>
+    <field name="ead_ssi">mss_220</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Art Production</field>
+    <field name="parent_unittitles_ssm">Subseries A: Artwork</field>
+    <field name="parent_unittitles_teim">Series I: Art Production</field>
+    <field name="parent_unittitles_teim">Subseries A: Artwork</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Blanchon Papers and Collection</field>
+    <field name="collection_ssm">Robert Blanchon Papers and Collection</field>
+    <field name="collection_unitid_ssm">MSS.220/repositories/3/resources/1761</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Untitled (Mies van der Rohe's Farnsworth House, Plano, Illinois on February 24, 1998, 2:46pm)</field>
+    <field name="unittitle_teim">Untitled (Mies van der Rohe's Farnsworth House, Plano, Illinois on February 24, 1998, 2:46pm)</field>
+    <field name="unitid_teim">cuid6056</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/763665</field>
+    <field name="unitid_ssm">cuid6056</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/763665</field>
+    <field name="unitdate_normal_ssm">1998/1998</field>
+    <field name="unitdate_normal_teim">1998/1998</field>
+    <field name="unitdate_normal_sim">1998/1998</field>
+    <field name="unitdate_teim">1998</field>
+    <field name="genreform_teim">Photographs.</field>
+    <field name="genreform_ssm">Photographs.</field>
+    <field name="ref_ssi">aspace_b35ed164052e284e0051e80437fc063c</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Item: MSS.220.cuid6056</field>
+    <field name="location_si">Item: MSS.220.cuid6056</field>
+    <field name="collection_teim">Robert Blanchon Papers and Collection</field>
+    <field name="collection_unitid_teim">MSS.220/repositories/3/resources/1761</field>
+    <field name="series_sim">Series I: Art Production</field>
+    <field name="series_sim">Subseries A: Artwork</field>
+    <field name="series_si">Series I: Art Production &gt;&gt; Subseries A: Artwork &gt;&gt; Untitled (Mies van der Rohe's Farnsworth House, Plano, Illinois on February 24, 1998, 2:46pm)</field>
+    <field name="material_type_sim">Photographs.</field>
+    <field name="material_type_ssm">Photographs.</field>
+    <field name="heading_ssm">Untitled (Mies van der Rohe's Farnsworth House, Plano, Illinois on February 24, 1998, 2:46pm)</field>
+    <field name="unitdate_start_sim">1998</field>
+    <field name="unitdate_start_ssm">1998</field>
+    <field name="unitdate_start_si">1998</field>
+    <field name="unitdate_end_sim">1998</field>
+    <field name="unitdate_end_ssm">1998</field>
+    <field name="unitdate_end_si">1998</field>
+    <field name="unitdate_ssm">1998</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">46</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_150aspace_ref415</field>
+    <field name="ead_ssi">mss_150</field>
+    <field name="parent_ssi">aspace_ref414</field>
+    <field name="parent_ssm">aspace_ref414</field>
+    <field name="parent_unittitles_ssm">Accretion 2008 - Series VII: Administrative Material</field>
+    <field name="parent_unittitles_teim">Accretion 2008 - Series VII: Administrative Material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Les Dames d'Escoffier New York Archive</field>
+    <field name="collection_ssm">Les Dames d'Escoffier New York Archive</field>
+    <field name="collection_unitid_ssm">MSS.150</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Rules and Regulations</field>
+    <field name="unittitle_teim">Subseries A: Rules and Regulations</field>
+    <field name="ref_ssi">aspace_ref415</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Les Dames d'Escoffier New York Archive</field>
+    <field name="collection_unitid_teim">MSS.150</field>
+    <field name="series_sim">Accretion 2008 - Series VII: Administrative Material</field>
+    <field name="series_si">Accretion 2008 - Series VII: Administrative Material &gt;&gt; Subseries A: Rules and Regulations</field>
+    <field name="heading_ssm">Subseries A: Rules and Regulations</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">384</field>
+  </doc>
+</add>

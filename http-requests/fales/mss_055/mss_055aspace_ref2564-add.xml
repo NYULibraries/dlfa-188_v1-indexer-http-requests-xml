@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_055aspace_ref2564</field>
+    <field name="ead_ssi">mss_055</field>
+    <field name="parent_ssi">aspace_ref2278</field>
+    <field name="parent_ssm">aspace_ref2278</field>
+    <field name="parent_unittitles_ssm">Series VI: Accretions</field>
+    <field name="parent_unittitles_teim">Series VI: Accretions</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_ssm">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_ssm">MSS.055/repositories/3/resources/1638</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B: Letters by and about Benedict Arnold</field>
+    <field name="unittitle_teim">Subseries B: Letters by and about Benedict Arnold</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/404840</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/404840</field>
+    <field name="scopecontent_teim">Subseries B contains letters by and about Benedict Arnold and is especially rich in eyewitness accounts of the events and trials surrounding his failed collaboration with the British in 1781.</field>
+    <field name="ref_ssi">aspace_ref2564</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_teim">MSS.055/repositories/3/resources/1638</field>
+    <field name="series_sim">Series VI: Accretions</field>
+    <field name="series_si">Series VI: Accretions &gt;&gt; Subseries B: Letters by and about Benedict Arnold</field>
+    <field name="heading_ssm">Subseries B: Letters by and about Benedict Arnold</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">708</field>
+  </doc>
+</add>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_055aspace_ref1344</field>
+    <field name="ead_ssi">mss_055</field>
+    <field name="parent_ssi">aspace_ref1343</field>
+    <field name="parent_ssm">aspace_ref346</field>
+    <field name="parent_ssm">aspace_ref1343</field>
+    <field name="parent_unittitles_ssm">Series II: Westchester</field>
+    <field name="parent_unittitles_ssm">Subseries B: Oversize Materials</field>
+    <field name="parent_unittitles_teim">Series II: Westchester</field>
+    <field name="parent_unittitles_teim">Subseries B: Oversize Materials</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_ssm">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_ssm">MSS.055/repositories/3/resources/1638</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Smeeman, Herman&lt;strong&gt;place&lt;/strong&gt;: New York</field>
+    <field name="unittitle_teim">creator: Smeeman, Hermanplace: New York</field>
+    <field name="unitid_teim">055-002-B-1890</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/404473</field>
+    <field name="unitid_ssm">055-002-B-1890</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/404473</field>
+    <field name="unitdate_teim">Oct 22, 1664</field>
+    <field name="name_teim">Smeeman, Herman</field>
+    <field name="name_teim">Smeeman, Herman</field>
+    <field name="name_ssm">Smeeman, Herman</field>
+    <field name="name_ssm">Smeeman, Herman</field>
+    <field name="dao_teim">creator: Smeeman, Hermanplace: New York: Oct 22, 1664</field>
+    <field name="dao_ssm">creator: Smeeman, Hermanplace: New York: Oct 22, 1664</field>
+    <field name="ref_ssi">aspace_ref1344</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_teim">MSS.055/repositories/3/resources/1638</field>
+    <field name="series_sim">Series II: Westchester</field>
+    <field name="series_sim">Subseries B: Oversize Materials</field>
+    <field name="series_si">Series II: Westchester &gt;&gt; Subseries B: Oversize Materials &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Smeeman, Herman&lt;strong&gt;place&lt;/strong&gt;: New York</field>
+    <field name="heading_ssm">creator: Smeeman, Hermanplace: New York</field>
+    <field name="unitdate_ssm">Oct 22, 1664</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">341</field>
+  </doc>
+</add>

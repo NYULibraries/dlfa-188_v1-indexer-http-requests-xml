@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_121aspace_ref1211</field>
+    <field name="ead_ssi">mss_121</field>
+    <field name="parent_ssi">aspace_ref1041</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref1041</field>
+    <field name="parent_unittitles_ssm">Series I: Personal Papers</field>
+    <field name="parent_unittitles_ssm">Subseries H: Personal correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Personal Papers</field>
+    <field name="parent_unittitles_teim">Subseries H: Personal correspondence</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
+    <field name="collection_ssm">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
+    <field name="collection_unitid_ssm">MSS.121/repositories/3/resources/1686</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Jean-Claude van Itallie</field>
+    <field name="unittitle_teim">Jean-Claude van Itallie</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/446460</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/446460</field>
+    <field name="unitdate_normal_ssm">1980/1999</field>
+    <field name="unitdate_normal_teim">1980/1999</field>
+    <field name="unitdate_normal_sim">1980/1999</field>
+    <field name="unitdate_inclusive_teim">1980-1999</field>
+    <field name="ref_ssi">aspace_ref1211</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 25, Folder: 64</field>
+    <field name="location_ssm">Folder: 64</field>
+    <field name="location_si">Folder: 64</field>
+    <field name="collection_teim">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
+    <field name="collection_unitid_teim">MSS.121/repositories/3/resources/1686</field>
+    <field name="series_sim">Series I: Personal Papers</field>
+    <field name="series_sim">Subseries H: Personal correspondence</field>
+    <field name="series_si">Series I: Personal Papers &gt;&gt; Subseries H: Personal correspondence &gt;&gt; Jean-Claude van Itallie</field>
+    <field name="heading_ssm">Jean-Claude van Itallie</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1999</field>
+    <field name="unitdate_end_ssm">1999</field>
+    <field name="unitdate_end_si">1999</field>
+    <field name="unitdate_ssm">Inclusive, 1980-1999</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1200</field>
+  </doc>
+</add>

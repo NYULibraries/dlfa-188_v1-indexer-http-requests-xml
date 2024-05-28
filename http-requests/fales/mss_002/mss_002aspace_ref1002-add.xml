@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_002aspace_ref1002</field>
+    <field name="ead_ssi">mss_002</field>
+    <field name="parent_ssi">aspace_ref1001</field>
+    <field name="parent_ssm">aspace_ref1001</field>
+    <field name="parent_unittitles_ssm">Series VI: Octavia Wilberforce</field>
+    <field name="parent_unittitles_teim">Series VI: Octavia Wilberforce</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Elizabeth Robins Papers</field>
+    <field name="collection_ssm">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_ssm">MSS.002/repositories/3/resources/1587</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Octavia Wilberforce to Elizabeth Robins, 1915-1950</field>
+    <field name="unittitle_teim">Subseries A: Octavia Wilberforce to Elizabeth Robins, 1915-1950</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/387874</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/387874</field>
+    <field name="scopecontent_teim">Subseries A consists Wilberforce's letters to ER.</field>
+    <field name="ref_ssi">aspace_ref1002</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_teim">MSS.002/repositories/3/resources/1587</field>
+    <field name="series_sim">Series VI: Octavia Wilberforce</field>
+    <field name="series_si">Series VI: Octavia Wilberforce &gt;&gt; Subseries A: Octavia Wilberforce to Elizabeth Robins, 1915-1950</field>
+    <field name="heading_ssm">Subseries A: Octavia Wilberforce to Elizabeth Robins, 1915-1950</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">837</field>
+  </doc>
+</add>

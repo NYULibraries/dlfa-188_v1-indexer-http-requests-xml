@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_132aspace_ref107</field>
+    <field name="ead_ssi">mss_132</field>
+    <field name="parent_ssi">aspace_ref101</field>
+    <field name="parent_ssm">aspace_ref92</field>
+    <field name="parent_ssm">aspace_ref101</field>
+    <field name="parent_unittitles_ssm">Series II: Author and Artist Files</field>
+    <field name="parent_unittitles_ssm">Subseries B: Other Authors and Artists</field>
+    <field name="parent_unittitles_teim">Series II: Author and Artist Files</field>
+    <field name="parent_unittitles_teim">Subseries B: Other Authors and Artists</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Heather Lewis Papers</field>
+    <field name="collection_ssm">Heather Lewis Papers</field>
+    <field name="collection_unitid_ssm">MSS.132/repositories/3/resources/1695</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Corrigan, Mike and Margaret Au. "Frank Blunt's Driving Bits"</field>
+    <field name="unittitle_teim">Corrigan, Mike and Margaret Au. "Frank Blunt's Driving Bits"</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/455923</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/455923</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref107</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 92</field>
+    <field name="location_ssm">Folder: 92</field>
+    <field name="location_si">Folder: 92</field>
+    <field name="collection_teim">Heather Lewis Papers</field>
+    <field name="collection_unitid_teim">MSS.132/repositories/3/resources/1695</field>
+    <field name="series_sim">Series II: Author and Artist Files</field>
+    <field name="series_sim">Subseries B: Other Authors and Artists</field>
+    <field name="series_si">Series II: Author and Artist Files &gt;&gt; Subseries B: Other Authors and Artists &gt;&gt; Corrigan, Mike and Margaret Au. "Frank Blunt's Driving Bits"</field>
+    <field name="heading_ssm">Corrigan, Mike and Margaret Au. "Frank Blunt's Driving Bits"</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">96</field>
+  </doc>
+</add>

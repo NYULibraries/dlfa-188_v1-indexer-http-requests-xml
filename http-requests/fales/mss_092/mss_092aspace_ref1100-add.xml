@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref1100</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref1096</field>
+    <field name="parent_ssm">aspace_ref998</field>
+    <field name="parent_ssm">aspace_ref1096</field>
+    <field name="parent_unittitles_ssm">Series IX: Photography</field>
+    <field name="parent_unittitles_ssm">Subseries A[12]: Contact Sheets</field>
+    <field name="parent_unittitles_teim">Series IX: Photography</field>
+    <field name="parent_unittitles_teim">Subseries A[12]: Contact Sheets</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Envelope 17: Michael A</field>
+    <field name="unittitle_teim">Envelope 17: Michael A</field>
+    <field name="unitid_teim">cuid21688</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/425212</field>
+    <field name="unitid_ssm">cuid21688</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/425212</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="dao_teim">Envelope 17: Michael A: undated</field>
+    <field name="dao_ssm">Envelope 17: Michael A: undated</field>
+    <field name="ref_ssi">aspace_ref1100</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 41, Folder: 17</field>
+    <field name="location_ssm">Folder: 17</field>
+    <field name="location_si">Folder: 17</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Series IX: Photography</field>
+    <field name="series_sim">Subseries A[12]: Contact Sheets</field>
+    <field name="series_si">Series IX: Photography &gt;&gt; Subseries A[12]: Contact Sheets &gt;&gt; Envelope 17: Michael A</field>
+    <field name="heading_ssm">Envelope 17: Michael A</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1224</field>
+  </doc>
+</add>

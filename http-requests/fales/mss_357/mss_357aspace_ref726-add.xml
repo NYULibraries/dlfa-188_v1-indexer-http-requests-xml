@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_357aspace_ref726</field>
+    <field name="ead_ssi">mss_357</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Video recordings</field>
+    <field name="parent_unittitles_teim">Series I: Video recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Nelson Sullivan Video Collection</field>
+    <field name="collection_ssm">Nelson Sullivan Video Collection</field>
+    <field name="collection_unitid_ssm">MSS.357</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Miss Margie and Lise</field>
+    <field name="unittitle_teim">Miss Margie and Lise</field>
+    <field name="unitid_teim">ID: 357.0213</field>
+    <field name="unitid_ssm">ID: 357.0213</field>
+    <field name="unitdate_normal_ssm">1985/1985</field>
+    <field name="unitdate_normal_teim">1985/1985</field>
+    <field name="unitdate_normal_sim">1985/1985</field>
+    <field name="unitdate_inclusive_teim">February 24, 1985</field>
+    <field name="phystech_teim">Original format: VHS</field>
+    <field name="ref_ssi">aspace_ref726</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Media: ID: 357.0213</field>
+    <field name="location_ssm">Media: ID: 357.0213</field>
+    <field name="location_ssm">case: 357.0213</field>
+    <field name="location_si">case: 357.0213</field>
+    <field name="collection_teim">Nelson Sullivan Video Collection</field>
+    <field name="collection_unitid_teim">MSS.357</field>
+    <field name="series_sim">Series I: Video recordings</field>
+    <field name="series_si">Series I: Video recordings &gt;&gt; Miss Margie and Lise</field>
+    <field name="heading_ssm">Miss Margie and Lise</field>
+    <field name="unitdate_start_sim">1985</field>
+    <field name="unitdate_start_ssm">1985</field>
+    <field name="unitdate_start_si">1985</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_si">1985</field>
+    <field name="unitdate_ssm">Inclusive, February 24, 1985</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">212</field>
+  </doc>
+</add>

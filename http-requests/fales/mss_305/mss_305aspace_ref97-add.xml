@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_305aspace_ref97</field>
+    <field name="ead_ssi">mss_305</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Performances</field>
+    <field name="parent_unittitles_teim">Series I: Performances</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">NIGHTCLUBBING Archive by Pat Ivers and Emily Armstrong</field>
+    <field name="collection_ssm">NIGHTCLUBBING Archive by Pat Ivers and Emily Armstrong</field>
+    <field name="collection_unitid_ssm">MSS.305</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;Colors at CBGB&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      Colors at CBGB
+    </field>
+    <field name="unitid_teim">ID: 305.0062</field>
+    <field name="unitid_ssm">ID: 305.0062</field>
+    <field name="unitdate_normal_ssm">1980/1980</field>
+    <field name="unitdate_normal_teim">1980/1980</field>
+    <field name="unitdate_normal_sim">1980/1980</field>
+    <field name="unitdate_inclusive_teim">February 1980</field>
+    <field name="phystech_teim">Black &amp; White, Sound</field>
+    <field name="phystech_teim">Duration: 8 minutes</field>
+    <field name="phystech_teim">Original format: 3/4" Umatic</field>
+    <field name="phystech_teim">Alternate title: Colors at CBGB, February 1980 2/2</field>
+    <field name="ref_ssi">aspace_ref97</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Media: ID: 305.0062</field>
+    <field name="location_ssm">Media: ID: 305.0062</field>
+    <field name="location_ssm">case: 305.0062_a</field>
+    <field name="location_si">case: 305.0062_a</field>
+    <field name="collection_teim">NIGHTCLUBBING Archive by Pat Ivers and Emily Armstrong</field>
+    <field name="collection_unitid_teim">MSS.305</field>
+    <field name="series_sim">Series I: Performances</field>
+    <field name="series_si">Series I: Performances &gt;&gt; 
+      &lt;strong&gt;Colors at CBGB&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      Colors at CBGB
+    </field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, February 1980</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">74</field>
+  </doc>
+</add>

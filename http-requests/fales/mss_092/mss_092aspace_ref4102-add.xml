@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref4102</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref3901</field>
+    <field name="parent_ssm">aspace_ref3091</field>
+    <field name="parent_ssm">aspace_ref3901</field>
+    <field name="parent_unittitles_ssm">Series XIII: Objects and Artifacts</field>
+    <field name="parent_unittitles_ssm">Subseries B: The "Magic Box"</field>
+    <field name="parent_unittitles_teim">Series XIII: Objects and Artifacts</field>
+    <field name="parent_unittitles_teim">Subseries B: The "Magic Box"</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Stone</field>
+    <field name="unittitle_teim">Stone</field>
+    <field name="unitid_teim">092.2.0594</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/426965</field>
+    <field name="unitid_ssm">092.2.0594</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/426965</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Description: Volcanic stone, grey and red, sponge-like surface. Labeled by MR: A(18) 4/11/95</field>
+    <field name="phystech_teim">Maker: none</field>
+    <field name="phystech_teim">Where Made: n.p.</field>
+    <field name="phystech_teim">Materials: stone</field>
+    <field name="phystech_teim">Dimensions: 11 x 0.75 inches</field>
+    <field name="ref_ssi">aspace_ref4102</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 113, Item: 092.2.0594</field>
+    <field name="location_ssm">Item: 092.2.0594</field>
+    <field name="location_si">Item: 092.2.0594</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Series XIII: Objects and Artifacts</field>
+    <field name="series_sim">Subseries B: The "Magic Box"</field>
+    <field name="series_si">Series XIII: Objects and Artifacts &gt;&gt; Subseries B: The "Magic Box" &gt;&gt; Stone</field>
+    <field name="heading_ssm">Stone</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2896</field>
+  </doc>
+</add>

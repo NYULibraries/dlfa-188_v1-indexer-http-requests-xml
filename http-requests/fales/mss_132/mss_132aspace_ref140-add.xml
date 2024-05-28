@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_132aspace_ref140</field>
+    <field name="ead_ssi">mss_132</field>
+    <field name="parent_ssi">aspace_ref138</field>
+    <field name="parent_ssm">aspace_ref130</field>
+    <field name="parent_ssm">aspace_ref138</field>
+    <field name="parent_unittitles_ssm">Series III: House Rules</field>
+    <field name="parent_unittitles_ssm">Subseries C: House Rules Manuscripts</field>
+    <field name="parent_unittitles_teim">Series III: House Rules</field>
+    <field name="parent_unittitles_teim">Subseries C: House Rules Manuscripts</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Heather Lewis Papers</field>
+    <field name="collection_ssm">Heather Lewis Papers</field>
+    <field name="collection_unitid_ssm">MSS.132/repositories/3/resources/1695</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">"Allan's Comments"</field>
+    <field name="unittitle_teim">"Allan's Comments"</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/455955</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/455955</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref140</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 120</field>
+    <field name="location_ssm">Folder: 120</field>
+    <field name="location_si">Folder: 120</field>
+    <field name="collection_teim">Heather Lewis Papers</field>
+    <field name="collection_unitid_teim">MSS.132/repositories/3/resources/1695</field>
+    <field name="series_sim">Series III: House Rules</field>
+    <field name="series_sim">Subseries C: House Rules Manuscripts</field>
+    <field name="series_si">Series III: House Rules &gt;&gt; Subseries C: House Rules Manuscripts &gt;&gt; "Allan's Comments"</field>
+    <field name="heading_ssm">"Allan's Comments"</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">128</field>
+  </doc>
+</add>

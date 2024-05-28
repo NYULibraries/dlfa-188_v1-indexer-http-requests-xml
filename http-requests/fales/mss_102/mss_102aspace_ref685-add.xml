@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_102aspace_ref685</field>
+    <field name="ead_ssi">mss_102</field>
+    <field name="parent_ssi">aspace_ref203</field>
+    <field name="parent_ssm">aspace_ref82</field>
+    <field name="parent_ssm">aspace_ref203</field>
+    <field name="parent_unittitles_ssm">Series II: Artwork</field>
+    <field name="parent_unittitles_ssm">Subseries II.B: Art by Others</field>
+    <field name="parent_unittitles_teim">Series II: Artwork</field>
+    <field name="parent_unittitles_teim">Subseries II.B: Art by Others</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Martin Wong Papers</field>
+    <field name="collection_ssm">Martin Wong Papers</field>
+    <field name="collection_unitid_ssm">MSS.102/repositories/3/resources/1672</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Goofy Cartoon by S. Hernandez</field>
+    <field name="unittitle_teim">Goofy Cartoon by S. Hernandez</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/435995</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/435995</field>
+    <field name="unitdate_normal_ssm">1989-08-02/1989-08-02</field>
+    <field name="unitdate_normal_teim">1989-08-02/1989-08-02</field>
+    <field name="unitdate_normal_sim">1989-08-02/1989-08-02</field>
+    <field name="unitdate_teim">1989-08-02</field>
+    <field name="ref_ssi">aspace_ref685</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 29, Folder: 18</field>
+    <field name="location_ssm">Folder: 18</field>
+    <field name="location_si">Folder: 18</field>
+    <field name="collection_teim">Martin Wong Papers</field>
+    <field name="collection_unitid_teim">MSS.102/repositories/3/resources/1672</field>
+    <field name="series_sim">Series II: Artwork</field>
+    <field name="series_sim">Subseries II.B: Art by Others</field>
+    <field name="series_si">Series II: Artwork &gt;&gt; Subseries II.B: Art by Others &gt;&gt; Goofy Cartoon by S. Hernandez</field>
+    <field name="heading_ssm">Goofy Cartoon by S. Hernandez</field>
+    <field name="unitdate_ssm">1989-08-02</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">221</field>
+  </doc>
+</add>

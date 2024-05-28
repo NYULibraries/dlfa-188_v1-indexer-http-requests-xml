@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_131aspace_ref182</field>
+    <field name="ead_ssi">mss_131</field>
+    <field name="parent_ssi">aspace_ref175</field>
+    <field name="parent_ssm">aspace_ref174</field>
+    <field name="parent_ssm">aspace_ref175</field>
+    <field name="parent_unittitles_ssm">Series IV: Published Work</field>
+    <field name="parent_unittitles_ssm">Subseries A: Articles</field>
+    <field name="parent_unittitles_teim">Series IV: Published Work</field>
+    <field name="parent_unittitles_teim">Subseries A: Articles</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Michelangelo Signorile Papers</field>
+    <field name="collection_ssm">Michelangelo Signorile Papers</field>
+    <field name="collection_unitid_ssm">MSS.131</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">&lt;em&gt;Outweek&lt;/em&gt;: New Clone/ Old Clone issue</field>
+    <field name="unittitle_teim">Outweek: New Clone/ Old Clone issue</field>
+    <field name="unitdate_teim">Nov 1990</field>
+    <field name="title_teim">Outweek</field>
+    <field name="title_ssm">Outweek</field>
+    <field name="ref_ssi">aspace_ref182</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Michelangelo Signorile Papers</field>
+    <field name="collection_unitid_teim">MSS.131</field>
+    <field name="series_sim">Series IV: Published Work</field>
+    <field name="series_sim">Subseries A: Articles</field>
+    <field name="series_si">Series IV: Published Work &gt;&gt; Subseries A: Articles &gt;&gt; &lt;em&gt;Outweek&lt;/em&gt;: New Clone/ Old Clone issue</field>
+    <field name="heading_ssm">Outweek: New Clone/ Old Clone issue</field>
+    <field name="unitdate_ssm">Nov 1990</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">165</field>
+  </doc>
+</add>

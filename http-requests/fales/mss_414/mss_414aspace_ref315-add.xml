@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_414aspace_ref315</field>
+    <field name="ead_ssi">mss_414</field>
+    <field name="parent_ssi">aspace_ref23</field>
+    <field name="parent_ssm">aspace_ref23</field>
+    <field name="parent_unittitles_ssm">OVERSIZE: Series III</field>
+    <field name="parent_unittitles_teim">OVERSIZE: Series III</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Christopher Knowles Papers</field>
+    <field name="collection_ssm">Christopher Knowles Papers</field>
+    <field name="collection_unitid_ssm">MSS.414/repositories/3/resources/1884</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">4 Typings Shown at Gladstone Gallery</field>
+    <field name="unittitle_teim">4 Typings Shown at Gladstone Gallery</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/583003</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/583003</field>
+    <field name="unitdate_normal_ssm">2006/2006</field>
+    <field name="unitdate_normal_teim">2006/2006</field>
+    <field name="unitdate_normal_sim">2006/2006</field>
+    <field name="unitdate_inclusive_teim">2006</field>
+    <field name="ref_ssi">aspace_ref315</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Christopher Knowles Papers</field>
+    <field name="collection_unitid_teim">MSS.414/repositories/3/resources/1884</field>
+    <field name="series_sim">OVERSIZE: Series III</field>
+    <field name="series_si">OVERSIZE: Series III &gt;&gt; 4 Typings Shown at Gladstone Gallery</field>
+    <field name="heading_ssm">4 Typings Shown at Gladstone Gallery</field>
+    <field name="unitdate_start_sim">2006</field>
+    <field name="unitdate_start_ssm">2006</field>
+    <field name="unitdate_start_si">2006</field>
+    <field name="unitdate_end_sim">2006</field>
+    <field name="unitdate_end_ssm">2006</field>
+    <field name="unitdate_end_si">2006</field>
+    <field name="unitdate_ssm">Inclusive, 2006</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">472</field>
+  </doc>
+</add>

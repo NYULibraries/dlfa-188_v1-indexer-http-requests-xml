@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_306aspace_2e4608ef583543f855813578575253be</field>
+    <field name="ead_ssi">mss_306</field>
+    <field name="parent_ssi">aspace_ref25</field>
+    <field name="parent_ssm">aspace_ref25</field>
+    <field name="parent_unittitles_ssm">Series II: Video</field>
+    <field name="parent_unittitles_teim">Series II: Video</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fales Library and Special Collections Audio/Video Collection</field>
+    <field name="collection_ssm">Fales Library and Special Collections Audio/Video Collection</field>
+    <field name="collection_unitid_ssm">MSS.306</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"On the Road with Bob Holman": Episodes 1-3.</field>
+    <field name="unittitle_teim">"On the Road with Bob Holman": Episodes 1-3.</field>
+    <field name="unitid_teim">cuid21594</field>
+    <field name="unitid_ssm">cuid21594</field>
+    <field name="unitdate_normal_ssm">2012-02-01/2012-02-15</field>
+    <field name="unitdate_normal_teim">2012-02-01/2012-02-15</field>
+    <field name="unitdate_normal_sim">2012-02-01/2012-02-15</field>
+    <field name="unitdate_inclusive_teim">2012-02-01-2012-02-15</field>
+    <field name="scopecontent_teim">Commercially produced distribution copy of a Rattapallax/Bowery Arts + Science production.</field>
+    <field name="phystech_teim">Format: DVD, Duration: 90 min. (30 min. x 3)</field>
+    <field name="ref_ssi">aspace_2e4608ef583543f855813578575253be</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7</field>
+    <field name="location_si">Box: 7</field>
+    <field name="collection_teim">Fales Library and Special Collections Audio/Video Collection</field>
+    <field name="collection_unitid_teim">MSS.306</field>
+    <field name="series_sim">Series II: Video</field>
+    <field name="series_si">Series II: Video &gt;&gt; "On the Road with Bob Holman": Episodes 1-3.</field>
+    <field name="heading_ssm">"On the Road with Bob Holman": Episodes 1-3.</field>
+    <field name="unitdate_ssm">Inclusive, 2012-02-01-2012-02-15</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">75</field>
+  </doc>
+</add>

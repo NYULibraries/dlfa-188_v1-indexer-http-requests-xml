@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_383aspace_ref432</field>
+    <field name="ead_ssi">mss_383</field>
+    <field name="parent_ssi">aspace_ref424</field>
+    <field name="parent_ssm">aspace_ref424</field>
+    <field name="parent_unittitles_ssm">Series XLVIII: Petrella</field>
+    <field name="parent_unittitles_teim">Series XLVIII: Petrella</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_ssm">MSS.383</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">I Promessi Sposi</field>
+    <field name="unittitle_teim">I Promessi Sposi</field>
+    <field name="unitdate_teim">1869</field>
+    <field name="scopecontent_teim">Librettist: Ghislanzoni, Antonio</field>
+    <field name="scopecontent_teim">Performance City and Venue:  Teatro di Lecco</field>
+    <field name="scopecontent_teim">Performance Season/Date: Autunno 1869</field>
+    <field name="scopecontent_teim">Publication City and Publisher: Milan: Francesco Lucca</field>
+    <field name="ref_ssi">aspace_ref432</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 28</field>
+    <field name="location_ssm">Folder: 28</field>
+    <field name="location_si">Folder: 28</field>
+    <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_teim">MSS.383</field>
+    <field name="series_sim">Series XLVIII: Petrella</field>
+    <field name="series_si">Series XLVIII: Petrella &gt;&gt; I Promessi Sposi</field>
+    <field name="heading_ssm">I Promessi Sposi</field>
+    <field name="unitdate_ssm">1869</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">252</field>
+  </doc>
+</add>

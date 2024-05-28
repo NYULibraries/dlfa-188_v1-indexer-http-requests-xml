@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_114aspace_ref372</field>
+    <field name="ead_ssi">mss_114</field>
+    <field name="parent_ssi">aspace_ref360</field>
+    <field name="parent_ssm">aspace_ref310</field>
+    <field name="parent_ssm">aspace_ref360</field>
+    <field name="parent_unittitles_ssm">Series II: Slides</field>
+    <field name="parent_unittitles_ssm">Subseries C: Portraits</field>
+    <field name="parent_unittitles_teim">Series II: Slides</field>
+    <field name="parent_unittitles_teim">Subseries C: Portraits</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Alexander Papers</field>
+    <field name="collection_ssm">Robert Alexander Papers</field>
+    <field name="collection_unitid_ssm">MSS.114</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Peter Ustinov</field>
+    <field name="unittitle_teim">Peter Ustinov</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref372</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 20, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Robert Alexander Papers</field>
+    <field name="collection_unitid_teim">MSS.114</field>
+    <field name="series_sim">Series II: Slides</field>
+    <field name="series_sim">Subseries C: Portraits</field>
+    <field name="series_si">Series II: Slides &gt;&gt; Subseries C: Portraits &gt;&gt; Peter Ustinov</field>
+    <field name="heading_ssm">Peter Ustinov</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">357</field>
+  </doc>
+</add>

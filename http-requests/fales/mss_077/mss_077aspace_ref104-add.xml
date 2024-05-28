@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_077aspace_ref104</field>
+    <field name="ead_ssi">mss_077</field>
+    <field name="parent_ssi">aspace_ref48</field>
+    <field name="parent_ssm">aspace_ref18</field>
+    <field name="parent_ssm">aspace_ref48</field>
+    <field name="parent_unittitles_ssm">Series II: Manuscripts</field>
+    <field name="parent_unittitles_ssm">Subseries D: Short Fiction &amp;amp; Non-Fiction </field>
+    <field name="parent_unittitles_teim">Series II: Manuscripts</field>
+    <field name="parent_unittitles_teim">Subseries D: Short Fiction &amp;amp; Non-Fiction </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Margaret Strickland Papers</field>
+    <field name="collection_ssm">Margaret Strickland Papers</field>
+    <field name="collection_unitid_ssm">MSS.077</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"A Question of Colour"</field>
+    <field name="unittitle_teim">"A Question of Colour"</field>
+    <field name="unitdate_normal_ssm">1908/1940</field>
+    <field name="unitdate_normal_teim">1908/1940</field>
+    <field name="unitdate_normal_sim">1908/1940</field>
+    <field name="unitdate_inclusive_teim">undated, circa 1908 - 1940</field>
+    <field name="scopecontent_teim">1 Manuscript</field>
+    <field name="scopecontent_teim">[By Margaret Strickland, 88 Alderney Street, Victoria, London, England SW1]</field>
+    <field name="scopecontent_teim">5 Pages, Unbound &amp; Typed</field>
+    <field name="scopecontent_teim">Measurements: 7.75" x 9.75"</field>
+    <field name="ref_ssi">aspace_ref104</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Margaret Strickland Papers</field>
+    <field name="collection_unitid_teim">MSS.077</field>
+    <field name="series_sim">Series II: Manuscripts</field>
+    <field name="series_sim">Subseries D: Short Fiction &amp;amp; Non-Fiction </field>
+    <field name="series_si">Series II: Manuscripts &gt;&gt; Subseries D: Short Fiction &amp;amp; Non-Fiction  &gt;&gt; "A Question of Colour"</field>
+    <field name="heading_ssm">"A Question of Colour"</field>
+    <field name="unitdate_start_sim">1908</field>
+    <field name="unitdate_start_ssm">1908</field>
+    <field name="unitdate_start_si">1908</field>
+    <field name="unitdate_end_sim">1940</field>
+    <field name="unitdate_end_ssm">1940</field>
+    <field name="unitdate_end_si">1940</field>
+    <field name="unitdate_ssm">Inclusive, undated, circa 1908 - 1940</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

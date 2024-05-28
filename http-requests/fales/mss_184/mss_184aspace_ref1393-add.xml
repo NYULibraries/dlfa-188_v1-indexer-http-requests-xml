@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_184aspace_ref1393</field>
+    <field name="ead_ssi">mss_184</field>
+    <field name="parent_ssi">aspace_ref1387</field>
+    <field name="parent_ssm">aspace_ref1387</field>
+    <field name="parent_unittitles_ssm">Series VI: Video recordings</field>
+    <field name="parent_unittitles_teim">Series VI: Video recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">A.I.R. Gallery Archives</field>
+    <field name="collection_ssm">A.I.R. Gallery Archives</field>
+    <field name="collection_unitid_ssm">MSS.184/repositories/3/resources/1738</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Lineage: Carolyn Martin 1995</field>
+    <field name="unittitle_teim">Lineage: Carolyn Martin 1995</field>
+    <field name="unitid_teim">ID: 184.0037</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/500590</field>
+    <field name="unitid_ssm">ID: 184.0037</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/500590</field>
+    <field name="unitdate_normal_ssm">1988/1988</field>
+    <field name="unitdate_normal_teim">1988/1988</field>
+    <field name="unitdate_normal_sim">1988/1988</field>
+    <field name="unitdate_inclusive_teim">1988</field>
+    <field name="phystech_teim">Original format: VHS; T-15</field>
+    <field name="phystech_teim">Removed from Box 8, Folder 284</field>
+    <field name="ref_ssi">aspace_ref1393</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 29, Media: ID: 184.0037</field>
+    <field name="location_ssm">Media: ID: 184.0037</field>
+    <field name="location_si">Media: ID: 184.0037</field>
+    <field name="collection_teim">A.I.R. Gallery Archives</field>
+    <field name="collection_unitid_teim">MSS.184/repositories/3/resources/1738</field>
+    <field name="series_sim">Series VI: Video recordings</field>
+    <field name="series_si">Series VI: Video recordings &gt;&gt; Lineage: Carolyn Martin 1995</field>
+    <field name="heading_ssm">Lineage: Carolyn Martin 1995</field>
+    <field name="unitdate_start_sim">1988</field>
+    <field name="unitdate_start_ssm">1988</field>
+    <field name="unitdate_start_si">1988</field>
+    <field name="unitdate_end_sim">1988</field>
+    <field name="unitdate_end_ssm">1988</field>
+    <field name="unitdate_end_si">1988</field>
+    <field name="unitdate_ssm">Inclusive, 1988</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1056</field>
+  </doc>
+</add>

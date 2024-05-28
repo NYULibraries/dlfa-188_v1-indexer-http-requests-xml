@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_174aspace_ref32</field>
+    <field name="ead_ssi">mss_174</field>
+    <field name="parent_ssi">aspace_ref29</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref29</field>
+    <field name="parent_unittitles_ssm">Series I: Video recordings - The Grand Union, May 1972</field>
+    <field name="parent_unittitles_ssm">Subseries A: Video recordings</field>
+    <field name="parent_unittitles_teim">Series I: Video recordings - The Grand Union, May 1972</field>
+    <field name="parent_unittitles_teim">Subseries A: Video recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Yvonne Rainer Grand Union Performance Videotape Collection</field>
+    <field name="collection_ssm">Yvonne Rainer Grand Union Performance Videotape Collection</field>
+    <field name="collection_unitid_ssm">MSS.174</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">The Grand Union, Tape 3</field>
+    <field name="unittitle_teim">The Grand Union, Tape 3</field>
+    <field name="unitid_teim">ID: 174.0004</field>
+    <field name="unitid_ssm">ID: 174.0004</field>
+    <field name="unitdate_normal_ssm">1972/1972</field>
+    <field name="unitdate_normal_teim">1972/1972</field>
+    <field name="unitdate_normal_sim">1972/1972</field>
+    <field name="unitdate_inclusive_teim">May 1972</field>
+    <field name="scopecontent_teim">Documentation of May 1972 dance performance by the Grand Union.</field>
+    <field name="phystech_teim">Black &amp; White, Sound</field>
+    <field name="phystech_teim">Duration: 1 hour 1 minute </field>
+    <field name="phystech_teim">Original format: 3/4" Umatic</field>
+    <field name="ref_ssi">aspace_ref32</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_ssm">case: 174.0004</field>
+    <field name="location_ssm">case: 174.0023</field>
+    <field name="location_si">case: 174.0023</field>
+    <field name="collection_teim">Yvonne Rainer Grand Union Performance Videotape Collection</field>
+    <field name="collection_unitid_teim">MSS.174</field>
+    <field name="series_sim">Series I: Video recordings - The Grand Union, May 1972</field>
+    <field name="series_sim">Subseries A: Video recordings</field>
+    <field name="series_si">Series I: Video recordings - The Grand Union, May 1972 &gt;&gt; Subseries A: Video recordings &gt;&gt; The Grand Union, Tape 3</field>
+    <field name="heading_ssm">The Grand Union, Tape 3</field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_si">1972</field>
+    <field name="unitdate_end_sim">1972</field>
+    <field name="unitdate_end_ssm">1972</field>
+    <field name="unitdate_end_si">1972</field>
+    <field name="unitdate_ssm">Inclusive, May 1972</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

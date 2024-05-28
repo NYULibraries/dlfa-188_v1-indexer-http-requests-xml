@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref3875</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref3092</field>
+    <field name="parent_ssm">aspace_ref3091</field>
+    <field name="parent_ssm">aspace_ref3092</field>
+    <field name="parent_unittitles_ssm">Series XIII: Objects and Artifacts</field>
+    <field name="parent_unittitles_ssm">Subseries A: General Objects and Artifacts</field>
+    <field name="parent_unittitles_teim">Series XIII: Objects and Artifacts</field>
+    <field name="parent_unittitles_teim">Subseries A: General Objects and Artifacts</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Two and a half horseshoes</field>
+    <field name="unittitle_teim">Two and a half horseshoes</field>
+    <field name="unitid_teim">cuid28205</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/426901</field>
+    <field name="unitid_ssm">cuid28205</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/426901</field>
+    <field name="unitdate_normal_ssm">1960/1990</field>
+    <field name="unitdate_normal_teim">1960/1990</field>
+    <field name="unitdate_normal_sim">1960/1990</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="phystech_teim">Description: 2 full horseshoes and a half a horseshoe</field>
+    <field name="phystech_teim">Maker: ---</field>
+    <field name="phystech_teim">Where Made: ---</field>
+    <field name="phystech_teim">Materials: Iron, horseshoes?</field>
+    <field name="phystech_teim">Dimensions: 4 x 5inches</field>
+    <field name="genreform_teim">Horseshoes (animal equipment)</field>
+    <field name="genreform_ssm">Horseshoes (animal equipment)</field>
+    <field name="ref_ssi">aspace_ref3875</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 128, object: 092.2.0531</field>
+    <field name="location_ssm">object: 092.2.0531</field>
+    <field name="location_si">object: 092.2.0531</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Series XIII: Objects and Artifacts</field>
+    <field name="series_sim">Subseries A: General Objects and Artifacts</field>
+    <field name="series_si">Series XIII: Objects and Artifacts &gt;&gt; Subseries A: General Objects and Artifacts &gt;&gt; Two and a half horseshoes</field>
+    <field name="material_type_sim">Horseshoes (animal equipment)</field>
+    <field name="material_type_ssm">Horseshoes (animal equipment)</field>
+    <field name="heading_ssm">Two and a half horseshoes</field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2834</field>
+  </doc>
+</add>

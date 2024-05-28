@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_368aspace_ref1383</field>
+    <field name="ead_ssi">mss_368</field>
+    <field name="parent_ssi">aspace_ref1187</field>
+    <field name="parent_ssm">aspace_ref1114</field>
+    <field name="parent_ssm">aspace_ref1187</field>
+    <field name="parent_unittitles_ssm">Oversize Series V: Printed Ephemera</field>
+    <field name="parent_unittitles_ssm">Subseries C: Posters</field>
+    <field name="parent_unittitles_teim">Oversize Series V: Printed Ephemera</field>
+    <field name="parent_unittitles_teim">Subseries C: Posters</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_ssm">MSS.368/repositories/3/resources/1861</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Alice in Wonderland Posters</field>
+    <field name="unittitle_teim">Alice in Wonderland Posters</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/578489</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/578489</field>
+    <field name="unitdate_teim">[Undated]</field>
+    <field name="scopecontent_teim">1. Children's Play of the Season, Forest Theatre Presents Alice in Wonderland. 2. The Bay Theater Collective Presents Alice in Wonderland and Through the Looking Glass.</field>
+    <field name="scopecontent_teim">Dimensions: 1. 12.5"x21". 2. 13"x18.5".</field>
+    <field name="ref_ssi">aspace_ref1383</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 53, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_teim">MSS.368/repositories/3/resources/1861</field>
+    <field name="series_sim">Oversize Series V: Printed Ephemera</field>
+    <field name="series_sim">Subseries C: Posters</field>
+    <field name="series_si">Oversize Series V: Printed Ephemera &gt;&gt; Subseries C: Posters &gt;&gt; Alice in Wonderland Posters</field>
+    <field name="heading_ssm">Alice in Wonderland Posters</field>
+    <field name="unitdate_ssm">[Undated]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">945</field>
+  </doc>
+</add>

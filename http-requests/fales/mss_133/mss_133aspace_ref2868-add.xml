@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_133aspace_ref2868</field>
+    <field name="ead_ssi">mss_133</field>
+    <field name="parent_ssi">aspace_bf64be2cd2f891bd7c4b1cce5602997a</field>
+    <field name="parent_ssm">aspace_bf64be2cd2f891bd7c4b1cce5602997a</field>
+    <field name="parent_unittitles_ssm">Series XVII: Film</field>
+    <field name="parent_unittitles_teim">Series XVII: Film</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mabou Mines Archive</field>
+    <field name="collection_ssm">Mabou Mines Archive</field>
+    <field name="collection_unitid_ssm">MSS.133/repositories/3/resources/1696</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Rolling Stones arrested] </field>
+    <field name="unittitle_teim">[Rolling Stones arrested] </field>
+    <field name="unitid_teim">/repositories/3/archival_objects/458808</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/458808</field>
+    <field name="unitdate_normal_ssm">1972/1979</field>
+    <field name="unitdate_normal_teim">1972/1979</field>
+    <field name="unitdate_normal_sim">1972/1979</field>
+    <field name="unitdate_inclusive_teim">Circa 1972</field>
+    <field name="scopecontent_teim">Footage from an unknown source that shows members of The Rolling Stones on an airplane in the early 1970s. The film ends with a man holding up a newspaper that says "Rolling Stones Arrested."</field>
+    <field name="phystech_teim">Format: 16mm, Duration: 90 seconds, Black and White, Silent</field>
+    <field name="ref_ssi">aspace_ref2868</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">reel: 133.0403</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: mss133_0403</field>
+    <field name="location_ssm">file: mss133_0403</field>
+    <field name="location_si">file: mss133_0403</field>
+    <field name="collection_teim">Mabou Mines Archive</field>
+    <field name="collection_unitid_teim">MSS.133/repositories/3/resources/1696</field>
+    <field name="series_sim">Series XVII: Film</field>
+    <field name="series_si">Series XVII: Film &gt;&gt; [Rolling Stones arrested] </field>
+    <field name="heading_ssm">[Rolling Stones arrested] </field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_si">1972</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, Circa 1972</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2852</field>
+  </doc>
+</add>

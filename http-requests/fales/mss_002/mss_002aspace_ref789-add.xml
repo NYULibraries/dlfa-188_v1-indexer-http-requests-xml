@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_002aspace_ref789</field>
+    <field name="ead_ssi">mss_002</field>
+    <field name="parent_ssi">aspace_ref783</field>
+    <field name="parent_ssm">aspace_ref782</field>
+    <field name="parent_ssm">aspace_ref783</field>
+    <field name="parent_unittitles_ssm">Series IV: Raymond Robins and Margaret Dreier Robins</field>
+    <field name="parent_unittitles_ssm">Subseries A: Raymond Robins and Margaret Dreier Robins to Elizabeth Robins</field>
+    <field name="parent_unittitles_teim">Series IV: Raymond Robins and Margaret Dreier Robins</field>
+    <field name="parent_unittitles_teim">Subseries A: Raymond Robins and Margaret Dreier Robins to Elizabeth Robins</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Elizabeth Robins Papers</field>
+    <field name="collection_ssm">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_ssm">MSS.002/repositories/3/resources/1587</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">RR and Margaret Dreier Robins (MDR) to ER 1905</field>
+    <field name="unittitle_teim">RR and Margaret Dreier Robins (MDR) to ER 1905</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/387691</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/387691</field>
+    <field name="unitdate_normal_ssm">1905/1905</field>
+    <field name="unitdate_normal_teim">1905/1905</field>
+    <field name="unitdate_normal_sim">1905/1905</field>
+    <field name="unitdate_inclusive_teim">1905</field>
+    <field name="ref_ssi">aspace_ref789</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 87, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_teim">MSS.002/repositories/3/resources/1587</field>
+    <field name="series_sim">Series IV: Raymond Robins and Margaret Dreier Robins</field>
+    <field name="series_sim">Subseries A: Raymond Robins and Margaret Dreier Robins to Elizabeth Robins</field>
+    <field name="series_si">Series IV: Raymond Robins and Margaret Dreier Robins &gt;&gt; Subseries A: Raymond Robins and Margaret Dreier Robins to Elizabeth Robins &gt;&gt; RR and Margaret Dreier Robins (MDR) to ER 1905</field>
+    <field name="heading_ssm">RR and Margaret Dreier Robins (MDR) to ER 1905</field>
+    <field name="unitdate_start_sim">1905</field>
+    <field name="unitdate_start_ssm">1905</field>
+    <field name="unitdate_start_si">1905</field>
+    <field name="unitdate_end_sim">1905</field>
+    <field name="unitdate_end_ssm">1905</field>
+    <field name="unitdate_end_si">1905</field>
+    <field name="unitdate_ssm">Inclusive, 1905</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">654</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_298aspace_ref48</field>
+    <field name="ead_ssi">mss_298</field>
+    <field name="parent_ssi">aspace_ref7</field>
+    <field name="parent_ssm">aspace_ref7</field>
+    <field name="parent_unittitles_ssm">Series III: Artist Files</field>
+    <field name="parent_unittitles_teim">Series III: Artist Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Annina Nosei Gallery Archive</field>
+    <field name="collection_ssm">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_ssm">MSS.298/repositories/3/resources/1812</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries E: Material Separated from Visuals Binders</field>
+    <field name="unittitle_teim">Subseries E: Material Separated from Visuals Binders</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/553041</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/553041</field>
+    <field name="scopecontent_teim">Subseries comprises material separated from Series III, Subseries C, due to some aspect of the material that made it unsuitable to be placed in a binder.</field>
+    <field name="scopecontent_teim">The order of folders in this subseries follows the order of binders in Series III, Subseries C. Each folder represents one binder sleeve; for example, when all the material has been removed from the ninth sleeve of the "Pizzi Cannella" binder in Subseries C, it is placed in a folder, which is then labeled "Pizzi Cannella [Binder Sleeve 9/12]." When only some of the material is removed from a sleeve, it is noted in the folder title as "[From Binder Sleeve x]" (e.g., Pizzi Cannella [From Binder Sleeve 4/12]").</field>
+    <field name="scopecontent_teim">The folder labeled "[Izumi Chiaraluce Binder]" contains the entirety of the binder since it is mostly paper material.</field>
+    <field name="ref_ssi">aspace_ref48</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Annina Nosei Gallery Archive</field>
+    <field name="collection_unitid_teim">MSS.298/repositories/3/resources/1812</field>
+    <field name="series_sim">Series III: Artist Files</field>
+    <field name="series_si">Series III: Artist Files &gt;&gt; Subseries E: Material Separated from Visuals Binders</field>
+    <field name="heading_ssm">Subseries E: Material Separated from Visuals Binders</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1118</field>
+  </doc>
+</add>

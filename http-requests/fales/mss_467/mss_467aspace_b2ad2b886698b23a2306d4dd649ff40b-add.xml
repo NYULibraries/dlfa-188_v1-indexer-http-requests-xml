@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_467aspace_b2ad2b886698b23a2306d4dd649ff40b</field>
+    <field name="ead_ssi">mss_467</field>
+    <field name="parent_ssi">aspace_923d36a3f92b7d86145dd233e3351a88</field>
+    <field name="parent_ssm">aspace_923d36a3f92b7d86145dd233e3351a88</field>
+    <field name="parent_unittitles_ssm">Series V. Teaching</field>
+    <field name="parent_unittitles_teim">Series V. Teaching</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Kathe Burkhart Papers</field>
+    <field name="collection_ssm">Kathe Burkhart Papers</field>
+    <field name="collection_unitid_ssm">MSS.467/repositories/3/resources/2351</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Images -- Class-related and Student Works</field>
+    <field name="unittitle_teim">Images -- Class-related and Student Works</field>
+    <field name="unitid_teim">cuid36251</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/934631</field>
+    <field name="unitid_ssm">cuid36251</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/934631</field>
+    <field name="unitdate_normal_ssm">2007/2013</field>
+    <field name="unitdate_normal_teim">2007/2013</field>
+    <field name="unitdate_normal_sim">2007/2013</field>
+    <field name="unitdate_inclusive_teim">2007-2013</field>
+    <field name="dao_teim">Images -- Class-related and Student Works: 2007-2013</field>
+    <field name="dao_ssm">Images -- Class-related and Student Works: 2007-2013</field>
+    <field name="ref_ssi">aspace_b2ad2b886698b23a2306d4dd649ff40b</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_467_ER_62</field>
+    <field name="location_ssm">E-records: FA_MSS_467_ER_62</field>
+    <field name="location_si">E-records: FA_MSS_467_ER_62</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Kathe Burkhart Papers</field>
+    <field name="collection_unitid_teim">MSS.467/repositories/3/resources/2351</field>
+    <field name="series_sim">Series V. Teaching</field>
+    <field name="series_si">Series V. Teaching &gt;&gt; Images -- Class-related and Student Works</field>
+    <field name="heading_ssm">Images -- Class-related and Student Works</field>
+    <field name="unitdate_start_sim">2007</field>
+    <field name="unitdate_start_ssm">2007</field>
+    <field name="unitdate_start_si">2007</field>
+    <field name="unitdate_end_sim">2013</field>
+    <field name="unitdate_end_ssm">2013</field>
+    <field name="unitdate_end_si">2013</field>
+    <field name="unitdate_ssm">Inclusive, 2007-2013</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">236</field>
+  </doc>
+</add>

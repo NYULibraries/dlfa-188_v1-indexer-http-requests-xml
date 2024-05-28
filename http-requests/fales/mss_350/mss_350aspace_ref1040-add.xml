@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_350aspace_ref1040</field>
+    <field name="ead_ssi">mss_350</field>
+    <field name="parent_ssi">aspace_ref855</field>
+    <field name="parent_ssm">aspace_ref846</field>
+    <field name="parent_ssm">aspace_ref855</field>
+    <field name="parent_unittitles_ssm">Series V: Commercially Released Media</field>
+    <field name="parent_unittitles_ssm">Subseries C: Vinyl Sound Discs</field>
+    <field name="parent_unittitles_teim">Series V: Commercially Released Media</field>
+    <field name="parent_unittitles_teim">Subseries C: Vinyl Sound Discs</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Malcolm Goldstein Papers</field>
+    <field name="collection_ssm">Malcolm Goldstein Papers</field>
+    <field name="collection_unitid_ssm">MSS.350/repositories/3/resources/1849</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"Organic Oboe" Joseph Celli; Stereo O. O. Records</field>
+    <field name="unittitle_teim">"Organic Oboe" Joseph Celli; Stereo O. O. Records</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/574849</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/574849</field>
+    <field name="unitdate_normal_ssm">1979/1979</field>
+    <field name="unitdate_normal_teim">1979/1979</field>
+    <field name="unitdate_normal_sim">1979/1979</field>
+    <field name="unitdate_inclusive_teim">1979</field>
+    <field name="scopecontent_teim">Contents:  Sky:S for J : for five English horns (without reeds)(1976) / Joseph Celli. -- Spiral : for soloist (1968) / Karlheinz Stockhausen. -- Extended oboe : for oboe &amp; electronic tape (1973-74) / Elliott Schwartz. -- A summoning of focus : for wind instrument (1977) / Malcolm Goldstein.
+Credits:  Joseph Celli (live and taped oboe, English horns, voice, and other sounds and modifiers).</field>
+    <field name="phystech_teim">Original format: (1 sound disc) analog, 33 1/3 rpm, stereo. ; 12 in.</field>
+    <field name="ref_ssi">aspace_ref1040</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 39</field>
+    <field name="location_si">Box: 39</field>
+    <field name="collection_teim">Malcolm Goldstein Papers</field>
+    <field name="collection_unitid_teim">MSS.350/repositories/3/resources/1849</field>
+    <field name="series_sim">Series V: Commercially Released Media</field>
+    <field name="series_sim">Subseries C: Vinyl Sound Discs</field>
+    <field name="series_si">Series V: Commercially Released Media &gt;&gt; Subseries C: Vinyl Sound Discs &gt;&gt; "Organic Oboe" Joseph Celli; Stereo O. O. Records</field>
+    <field name="heading_ssm">"Organic Oboe" Joseph Celli; Stereo O. O. Records</field>
+    <field name="unitdate_start_sim">1979</field>
+    <field name="unitdate_start_ssm">1979</field>
+    <field name="unitdate_start_si">1979</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, 1979</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">919</field>
+  </doc>
+</add>

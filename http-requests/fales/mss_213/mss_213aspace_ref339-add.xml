@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_213aspace_ref339</field>
+    <field name="ead_ssi">mss_213</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1668</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Sound recordings</field>
+    <field name="parent_unittitles_ssm">Subseries A: Audio Works</field>
+    <field name="parent_unittitles_teim">Series I: Sound recordings</field>
+    <field name="parent_unittitles_teim">Subseries A: Audio Works</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Peter Dougherty Collection</field>
+    <field name="collection_ssm">Peter Dougherty Collection</field>
+    <field name="collection_unitid_ssm">MSS.213/repositories/3/resources/1756</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">John Cale- Paris 1919/ Academy in Peril</field>
+    <field name="unittitle_teim">John Cale- Paris 1919/ Academy in Peril</field>
+    <field name="unitid_teim">ID: 213.0157</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/513528</field>
+    <field name="unitid_ssm">ID: 213.0157</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/513528</field>
+    <field name="unitdate_normal_ssm">1919/1919</field>
+    <field name="unitdate_normal_teim">1919/1919</field>
+    <field name="unitdate_normal_sim">1919/1919</field>
+    <field name="unitdate_inclusive_teim">1919</field>
+    <field name="scopecontent_teim">Content: </field>
+    <field name="scopecontent_teim">Side A: PARIS 1919: Child's Christmas in Wales, Hanky Panky, Nohow, The Endless Plain of Fortune, Andalucia, Macbeth, Paris 1919, Graham Greene, Half Past France, Antarctica Starts Here. ACADEMY IN PERIL: The Philosopher, Brahms</field>
+    <field name="scopecontent_teim">Side B: Legs Larry at Television Centre, The Academy in Peril, Intro: Days of Steam, 3 Orchestral Pieces: Faust, The Balance, Capt Morgan's Lament, King Harry, John Milton-- Sylvia Said. </field>
+    <field name="scopecontent_teim">Container Annotation: Richie Hayward- drums, Lowell George- guitar, Ron Wood - Track 2, The Royal Philharmonic Orchestra - 6 &amp; 8</field>
+    <field name="phystech_teim">Format: 1/4 in. Audiocassette</field>
+    <field name="phystech_teim">Tape Length: 90 minutes</field>
+    <field name="ref_ssi">aspace_ref339</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Media: ID: 213.0157</field>
+    <field name="location_ssm">Media: ID: 213.0157</field>
+    <field name="location_ssm">case: 213.0157_pt.1</field>
+    <field name="location_ssm">case: 213.0157_pt.2</field>
+    <field name="location_si">case: 213.0157_pt.2</field>
+    <field name="collection_teim">Peter Dougherty Collection</field>
+    <field name="collection_unitid_teim">MSS.213/repositories/3/resources/1756</field>
+    <field name="series_sim">Series I: Sound recordings</field>
+    <field name="series_sim">Subseries A: Audio Works</field>
+    <field name="series_si">Series I: Sound recordings &gt;&gt; Subseries A: Audio Works &gt;&gt; John Cale- Paris 1919/ Academy in Peril</field>
+    <field name="heading_ssm">John Cale- Paris 1919/ Academy in Peril</field>
+    <field name="unitdate_start_sim">1919</field>
+    <field name="unitdate_start_ssm">1919</field>
+    <field name="unitdate_start_si">1919</field>
+    <field name="unitdate_end_sim">1919</field>
+    <field name="unitdate_end_ssm">1919</field>
+    <field name="unitdate_end_si">1919</field>
+    <field name="unitdate_ssm">Inclusive, 1919</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">158</field>
+  </doc>
+</add>

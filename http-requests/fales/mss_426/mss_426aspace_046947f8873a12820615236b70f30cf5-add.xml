@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_426aspace_046947f8873a12820615236b70f30cf5</field>
+    <field name="ead_ssi">mss_426</field>
+    <field name="parent_ssi">aspace_ref1605</field>
+    <field name="parent_ssm">aspace_ref1605</field>
+    <field name="parent_unittitles_ssm">Series II: Gay USA Collection misc material</field>
+    <field name="parent_unittitles_teim">Series II: Gay USA Collection misc material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Gay USA Collection</field>
+    <field name="collection_ssm">Gay USA Collection</field>
+    <field name="collection_unitid_ssm">MSS.426</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Paper material</field>
+    <field name="unittitle_teim">Paper material</field>
+    <field name="unitid_teim">cuid6013</field>
+    <field name="unitid_ssm">cuid6013</field>
+    <field name="unitdate_normal_ssm">1980/1996</field>
+    <field name="unitdate_normal_teim">1980/1996</field>
+    <field name="unitdate_normal_sim">1980/1996</field>
+    <field name="unitdate_inclusive_teim">1980-1996, undated</field>
+    <field name="scopecontent_teim">The folder contains a GCN business card for Gay USA director Louis Maletta, an article ripped out of HX Magazine about Gay Cable Network (written by David Cohen, August 1996), and a letter from a devout Christian that includes a pamphlet called 'The Sissy.'</field>
+    <field name="ref_ssi">aspace_046947f8873a12820615236b70f30cf5</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Gay USA Collection</field>
+    <field name="collection_unitid_teim">MSS.426</field>
+    <field name="series_sim">Series II: Gay USA Collection misc material</field>
+    <field name="series_si">Series II: Gay USA Collection misc material &gt;&gt; Paper material</field>
+    <field name="heading_ssm">Paper material</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1996</field>
+    <field name="unitdate_end_ssm">1996</field>
+    <field name="unitdate_end_si">1996</field>
+    <field name="unitdate_ssm">Inclusive, 1980-1996, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">574</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_247aspace_d726ea7fe8c03fa51e104f9ce976e3bb</field>
+    <field name="ead_ssi">mss_247</field>
+    <field name="parent_ssi">aspace_7b15b6f6e08da515a1599c75eaefce40</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_ssm">aspace_7b15b6f6e08da515a1599c75eaefce40</field>
+    <field name="parent_unittitles_ssm">Series II: Video recordings</field>
+    <field name="parent_unittitles_ssm">Subseries D: Preservation Masters - CLOSED</field>
+    <field name="parent_unittitles_teim">Series II: Video recordings</field>
+    <field name="parent_unittitles_teim">Subseries D: Preservation Masters - CLOSED</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Scott and Gary Show Archive</field>
+    <field name="collection_ssm">Scott and Gary Show Archive</field>
+    <field name="collection_unitid_ssm">MSS.247</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">ID: 247.0038 - 247.0059, 247.0064, 247.0067</field>
+    <field name="unittitle_teim">ID: 247.0038 - 247.0059, 247.0064, 247.0067</field>
+    <field name="ref_ssi">aspace_d726ea7fe8c03fa51e104f9ce976e3bb</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Fales PM 57</field>
+    <field name="location_si">Box: Shared Fales PM 57</field>
+    <field name="collection_teim">Scott and Gary Show Archive</field>
+    <field name="collection_unitid_teim">MSS.247</field>
+    <field name="series_sim">Series II: Video recordings</field>
+    <field name="series_sim">Subseries D: Preservation Masters - CLOSED</field>
+    <field name="series_si">Series II: Video recordings &gt;&gt; Subseries D: Preservation Masters - CLOSED &gt;&gt; ID: 247.0038 - 247.0059, 247.0064, 247.0067</field>
+    <field name="heading_ssm">ID: 247.0038 - 247.0059, 247.0064, 247.0067</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">60</field>
+  </doc>
+</add>

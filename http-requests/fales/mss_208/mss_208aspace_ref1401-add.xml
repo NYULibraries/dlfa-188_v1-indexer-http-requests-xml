@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref1401</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1371</field>
+    <field name="parent_ssm">aspace_ref121</field>
+    <field name="parent_ssm">aspace_ref221</field>
+    <field name="parent_ssm">aspace_ref1371</field>
+    <field name="parent_unittitles_ssm">Record Group II: L'Hommedieu Family</field>
+    <field name="parent_unittitles_ssm">Series B: Ezra L'Hommedieu</field>
+    <field name="parent_unittitles_ssm">Subseries 7: New York State Government Documents and Reports</field>
+    <field name="parent_unittitles_teim">Record Group II: L'Hommedieu Family</field>
+    <field name="parent_unittitles_teim">Series B: Ezra L'Hommedieu</field>
+    <field name="parent_unittitles_teim">Subseries 7: New York State Government Documents and Reports</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Court for the Trial of Impeachments &amp;amp; the Correction of Errors - Case Summary Pamphlets</field>
+    <field name="unittitle_teim">Court for the Trial of Impeachments &amp; the Correction of Errors - Case Summary Pamphlets</field>
+    <field name="unitid_teim">cuid700</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/508612</field>
+    <field name="unitid_ssm">cuid700</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/508612</field>
+    <field name="unitdate_normal_ssm">1804/1804</field>
+    <field name="unitdate_normal_teim">1804/1804</field>
+    <field name="unitdate_normal_sim">1804/1804</field>
+    <field name="unitdate_inclusive_teim">1804</field>
+    <field name="ref_ssi">aspace_ref1401</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 23, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group II: L'Hommedieu Family</field>
+    <field name="series_sim">Series B: Ezra L'Hommedieu</field>
+    <field name="series_sim">Subseries 7: New York State Government Documents and Reports</field>
+    <field name="series_si">Record Group II: L'Hommedieu Family &gt;&gt; Series B: Ezra L'Hommedieu &gt;&gt; Subseries 7: New York State Government Documents and Reports &gt;&gt; Court for the Trial of Impeachments &amp;amp; the Correction of Errors - Case Summary Pamphlets</field>
+    <field name="heading_ssm">Court for the Trial of Impeachments &amp; the Correction of Errors - Case Summary Pamphlets</field>
+    <field name="unitdate_start_sim">1804</field>
+    <field name="unitdate_start_ssm">1804</field>
+    <field name="unitdate_start_si">1804</field>
+    <field name="unitdate_end_sim">1804</field>
+    <field name="unitdate_end_ssm">1804</field>
+    <field name="unitdate_end_si">1804</field>
+    <field name="unitdate_ssm">Inclusive, 1804</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1376</field>
+  </doc>
+</add>

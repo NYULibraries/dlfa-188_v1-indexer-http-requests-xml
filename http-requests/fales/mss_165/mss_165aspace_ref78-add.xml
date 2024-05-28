@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_165aspace_ref78</field>
+    <field name="ead_ssi">mss_165</field>
+    <field name="parent_ssi">aspace_ref77</field>
+    <field name="parent_ssm">aspace_ref77</field>
+    <field name="parent_unittitles_ssm">Series III: Printed Materials</field>
+    <field name="parent_unittitles_teim">Series III: Printed Materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Café Nicholson Archive</field>
+    <field name="collection_ssm">Café Nicholson Archive</field>
+    <field name="collection_unitid_ssm">MSS.165</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Articles, Reviews, Mentions</field>
+    <field name="unittitle_teim">Subseries A: Articles, Reviews, Mentions</field>
+    <field name="ref_ssi">aspace_ref78</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Café Nicholson Archive</field>
+    <field name="collection_unitid_teim">MSS.165</field>
+    <field name="series_sim">Series III: Printed Materials</field>
+    <field name="series_si">Series III: Printed Materials &gt;&gt; Subseries A: Articles, Reviews, Mentions</field>
+    <field name="heading_ssm">Subseries A: Articles, Reviews, Mentions</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">61</field>
+  </doc>
+</add>

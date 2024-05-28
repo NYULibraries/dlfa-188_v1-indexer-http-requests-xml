@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_350aspace_ref201</field>
+    <field name="ead_ssi">mss_350</field>
+    <field name="parent_ssi">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_unittitles_ssm">Series I: Music Projects</field>
+    <field name="parent_unittitles_ssm">Subseries A: Projects A-Z</field>
+    <field name="parent_unittitles_teim">Series I: Music Projects</field>
+    <field name="parent_unittitles_teim">Subseries A: Projects A-Z</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Malcolm Goldstein Papers</field>
+    <field name="collection_ssm">Malcolm Goldstein Papers</field>
+    <field name="collection_unitid_ssm">MSS.350/repositories/3/resources/1849</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Place: A convergence of distances" sound installation with tape collage- Switzerland</field>
+    <field name="unittitle_teim">"Place: A convergence of distances" sound installation with tape collage- Switzerland</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/574157</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/574157</field>
+    <field name="unitdate_normal_ssm">1994/1994</field>
+    <field name="unitdate_normal_teim">1994/1994</field>
+    <field name="unitdate_normal_sim">1994/1994</field>
+    <field name="unitdate_inclusive_teim">October, 1994</field>
+    <field name="ref_ssi">aspace_ref201</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 16</field>
+    <field name="location_ssm">Folder: 16</field>
+    <field name="location_si">Folder: 16</field>
+    <field name="collection_teim">Malcolm Goldstein Papers</field>
+    <field name="collection_unitid_teim">MSS.350/repositories/3/resources/1849</field>
+    <field name="series_sim">Series I: Music Projects</field>
+    <field name="series_sim">Subseries A: Projects A-Z</field>
+    <field name="series_si">Series I: Music Projects &gt;&gt; Subseries A: Projects A-Z &gt;&gt; "Place: A convergence of distances" sound installation with tape collage- Switzerland</field>
+    <field name="heading_ssm">"Place: A convergence of distances" sound installation with tape collage- Switzerland</field>
+    <field name="unitdate_start_sim">1994</field>
+    <field name="unitdate_start_ssm">1994</field>
+    <field name="unitdate_start_si">1994</field>
+    <field name="unitdate_end_sim">1994</field>
+    <field name="unitdate_end_ssm">1994</field>
+    <field name="unitdate_end_si">1994</field>
+    <field name="unitdate_ssm">Inclusive, October, 1994</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">199</field>
+  </doc>
+</add>

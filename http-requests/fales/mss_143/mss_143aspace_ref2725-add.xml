@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_143aspace_ref2725</field>
+    <field name="ead_ssi">mss_143</field>
+    <field name="parent_ssi">aspace_ref2720</field>
+    <field name="parent_ssm">aspace_ref2600</field>
+    <field name="parent_ssm">aspace_ref2720</field>
+    <field name="parent_unittitles_ssm">SERIES XI: 1997</field>
+    <field name="parent_unittitles_ssm">Subseries G: Media</field>
+    <field name="parent_unittitles_teim">SERIES XI: 1997</field>
+    <field name="parent_unittitles_teim">Subseries G: Media</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Mix Collection</field>
+    <field name="collection_ssm">The Mix Collection</field>
+    <field name="collection_unitid_ssm">MSS.143/repositories/3/resources/1706</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">&lt;strong&gt; Title: &lt;/strong&gt; In Love With Happiness</field>
+    <field name="unittitle_teim"> Title:  In Love With Happiness</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/468733</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/468733</field>
+    <field name="unitdate_teim">Screened: 1997</field>
+    <field name="phystech_teim"> Old number:  97-004 </field>
+    <field name="phystech_teim"> Director:  Best, Patricia </field>
+    <field name="phystech_teim"> Distributor:  </field>
+    <field name="phystech_teim"> Format:  3/4 in. Umatic </field>
+    <field name="phystech_teim"> Duration:  Unknown </field>
+    <field name="ref_ssi">aspace_ref2725</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 130, Folder: ID: 143.0893</field>
+    <field name="location_ssm">Folder: ID: 143.0893</field>
+    <field name="location_si">Folder: ID: 143.0893</field>
+    <field name="collection_teim">The Mix Collection</field>
+    <field name="collection_unitid_teim">MSS.143/repositories/3/resources/1706</field>
+    <field name="series_sim">SERIES XI: 1997</field>
+    <field name="series_sim">Subseries G: Media</field>
+    <field name="series_si">SERIES XI: 1997 &gt;&gt; Subseries G: Media &gt;&gt; &lt;strong&gt; Title: &lt;/strong&gt; In Love With Happiness</field>
+    <field name="heading_ssm"> Title:  In Love With Happiness</field>
+    <field name="unitdate_ssm">Screened: 1997</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1912</field>
+  </doc>
+</add>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_202aspace_ref119</field>
+    <field name="ead_ssi">mss_202</field>
+    <field name="parent_ssi">aspace_ref110</field>
+    <field name="parent_ssm">aspace_ref9</field>
+    <field name="parent_ssm">aspace_ref110</field>
+    <field name="parent_unittitles_ssm">Series I: Prints by project</field>
+    <field name="parent_unittitles_ssm">Subseries E: $dobjects</field>
+    <field name="parent_unittitles_teim">Series I: Prints by project</field>
+    <field name="parent_unittitles_teim">Subseries E: $dobjects</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jimmy De Sana Papers</field>
+    <field name="collection_ssm">Jimmy De Sana Papers</field>
+    <field name="collection_unitid_ssm">MSS.202</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt; Title: Pipe Cleaner &lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+       Title: Pipe Cleaner 
+    </field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim"> Description: Spiral brown drops yellow field </field>
+    <field name="phystech_teim"> Process: 11x14 Cibachrome </field>
+    <field name="phystech_teim"> Number of Items:  1 </field>
+    <field name="ref_ssi">aspace_ref119</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Jimmy De Sana Papers</field>
+    <field name="collection_unitid_teim">MSS.202</field>
+    <field name="series_sim">Series I: Prints by project</field>
+    <field name="series_sim">Subseries E: $dobjects</field>
+    <field name="series_si">Series I: Prints by project &gt;&gt; Subseries E: $dobjects &gt;&gt; 
+      &lt;strong&gt; Title: Pipe Cleaner &lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+       Title: Pipe Cleaner 
+    </field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">57</field>
+  </doc>
+</add>

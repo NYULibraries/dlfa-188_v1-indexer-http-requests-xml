@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_002aspace_ref122</field>
+    <field name="ead_ssi">mss_002</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series I: Diaries</field>
+    <field name="parent_unittitles_teim">Series I: Diaries</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Elizabeth Robins Papers</field>
+    <field name="collection_ssm">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_ssm">MSS.002/repositories/3/resources/1587</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries C: Notebooks</field>
+    <field name="unittitle_teim">Subseries C: Notebooks</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/387118</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/387118</field>
+    <field name="scopecontent_teim">Subseries C contains notebooks dating back to 1873, when Robins was eleven years old. There are composition books from her time at the Putnam Female Seminary in Ohio, as well as records of books she read and a drawing book from 1879-1880. Also in this series are thirty-three volumes of small notebooks ranging in date from 1877-1940.</field>
+    <field name="ref_ssi">aspace_ref122</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_teim">MSS.002/repositories/3/resources/1587</field>
+    <field name="series_sim">Series I: Diaries</field>
+    <field name="series_si">Series I: Diaries &gt;&gt; Subseries C: Notebooks</field>
+    <field name="heading_ssm">Subseries C: Notebooks</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">81</field>
+  </doc>
+</add>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_002aspace_ref977</field>
+    <field name="ead_ssi">mss_002</field>
+    <field name="parent_ssi">aspace_ref883</field>
+    <field name="parent_ssm">aspace_ref883</field>
+    <field name="parent_unittitles_ssm">Series V: Florence Bell</field>
+    <field name="parent_unittitles_teim">Series V: Florence Bell</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Elizabeth Robins Papers</field>
+    <field name="collection_ssm">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_ssm">MSS.002/repositories/3/resources/1587</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries D: Literary Productions</field>
+    <field name="unittitle_teim">Subseries D: Literary Productions</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/387855</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/387855</field>
+    <field name="scopecontent_teim">Subseries D contains some of Bell's works (which run the gamut from children's books to novels), including a complete four-act play and a preliminary sketch for a collaborative dramatization with Robins of Rossetti's ballad, "Sister Helen."</field>
+    <field name="ref_ssi">aspace_ref977</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_teim">MSS.002/repositories/3/resources/1587</field>
+    <field name="series_sim">Series V: Florence Bell</field>
+    <field name="series_si">Series V: Florence Bell &gt;&gt; Subseries D: Literary Productions</field>
+    <field name="heading_ssm">Subseries D: Literary Productions</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">818</field>
+  </doc>
+</add>

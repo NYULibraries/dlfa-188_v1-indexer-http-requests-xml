@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_340aspace_ref601</field>
+    <field name="ead_ssi">mss_340</field>
+    <field name="parent_ssi">aspace_ref574</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref574</field>
+    <field name="parent_unittitles_ssm">Series III: Audio Recordings</field>
+    <field name="parent_unittitles_ssm">Subseries D: Additional Sound Recordings</field>
+    <field name="parent_unittitles_teim">Series III: Audio Recordings</field>
+    <field name="parent_unittitles_teim">Subseries D: Additional Sound Recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Darinka Archive</field>
+    <field name="collection_ssm">Darinka Archive</field>
+    <field name="collection_unitid_ssm">MSS.340/repositories/3/resources/1841</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Workdogs, 1. "Funny $" 2. "Last Friend's Gone"</field>
+    <field name="unittitle_teim">Workdogs, 1. "Funny $" 2. "Last Friend's Gone"</field>
+    <field name="unitid_teim">ID: N/A</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/562204</field>
+    <field name="unitid_ssm">ID: N/A</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/562204</field>
+    <field name="unitdate_normal_ssm">1986/1986</field>
+    <field name="unitdate_normal_teim">1986/1986</field>
+    <field name="unitdate_normal_sim">1986/1986</field>
+    <field name="unitdate_inclusive_teim">1986</field>
+    <field name="phystech_teim">Original format: 7" EP Vinyl Sound Disc; 33 1/3 rpm</field>
+    <field name="ref_ssi">aspace_ref601</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, Media: ID: N/A</field>
+    <field name="location_ssm">Media: ID: N/A</field>
+    <field name="location_si">Media: ID: N/A</field>
+    <field name="collection_teim">Darinka Archive</field>
+    <field name="collection_unitid_teim">MSS.340/repositories/3/resources/1841</field>
+    <field name="series_sim">Series III: Audio Recordings</field>
+    <field name="series_sim">Subseries D: Additional Sound Recordings</field>
+    <field name="series_si">Series III: Audio Recordings &gt;&gt; Subseries D: Additional Sound Recordings &gt;&gt; Workdogs, 1. "Funny $" 2. "Last Friend's Gone"</field>
+    <field name="heading_ssm">Workdogs, 1. "Funny $" 2. "Last Friend's Gone"</field>
+    <field name="unitdate_start_sim">1986</field>
+    <field name="unitdate_start_ssm">1986</field>
+    <field name="unitdate_start_si">1986</field>
+    <field name="unitdate_end_sim">1986</field>
+    <field name="unitdate_end_ssm">1986</field>
+    <field name="unitdate_end_si">1986</field>
+    <field name="unitdate_ssm">Inclusive, 1986</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">275</field>
+  </doc>
+</add>

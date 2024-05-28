@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_341aspace_ref149</field>
+    <field name="ead_ssi">mss_341</field>
+    <field name="parent_ssi">aspace_ref123</field>
+    <field name="parent_ssm">aspace_ref123</field>
+    <field name="parent_unittitles_ssm">Series IV: Film </field>
+    <field name="parent_unittitles_teim">Series IV: Film </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bern Boyle Papers</field>
+    <field name="collection_ssm">Bern Boyle Papers</field>
+    <field name="collection_unitid_ssm">MSS.341/repositories/3/resources/1842</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"Thanks to Iolo etc."</field>
+    <field name="unittitle_teim">"Thanks to Iolo etc."</field>
+    <field name="unitid_teim">ID: 341.0007</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/562377</field>
+    <field name="unitid_ssm">ID: 341.0007</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/562377</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Original format: 8mm, 400 ft</field>
+    <field name="phystech_teim">Original Container Annotation: 
+[1] "Thanks to Iolo etc."
+[2] "[Hare] Krishna"
+[3] "Me by Eddington"</field>
+    <field name="ref_ssi">aspace_ref149</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 42, Media: ID: 341.0007</field>
+    <field name="location_ssm">Media: ID: 341.0007</field>
+    <field name="location_si">Media: ID: 341.0007</field>
+    <field name="collection_teim">Bern Boyle Papers</field>
+    <field name="collection_unitid_teim">MSS.341/repositories/3/resources/1842</field>
+    <field name="series_sim">Series IV: Film </field>
+    <field name="series_si">Series IV: Film  &gt;&gt; "Thanks to Iolo etc."</field>
+    <field name="heading_ssm">"Thanks to Iolo etc."</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">101</field>
+  </doc>
+</add>

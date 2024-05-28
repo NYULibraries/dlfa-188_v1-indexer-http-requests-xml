@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_231aspace_ref9137</field>
+    <field name="ead_ssi">mss_231</field>
+    <field name="parent_ssi">aspace_ref9095</field>
+    <field name="parent_ssm">aspace_ref9093</field>
+    <field name="parent_ssm">aspace_ref9095</field>
+    <field name="parent_unittitles_ssm">Oversize Series XXXII: Lou Maletta and GCN Files</field>
+    <field name="parent_unittitles_ssm">Subseries B: Periodicals</field>
+    <field name="parent_unittitles_teim">Oversize Series XXXII: Lou Maletta and GCN Files</field>
+    <field name="parent_unittitles_teim">Subseries B: Periodicals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Gay Cable Network Archives</field>
+    <field name="collection_ssm">Gay Cable Network Archives</field>
+    <field name="collection_unitid_ssm">MSS.231/repositories/3/resources/1767</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York Blade</field>
+    <field name="unittitle_teim">New York Blade</field>
+    <field name="unitid_teim">cuid6880</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/530350</field>
+    <field name="unitid_ssm">cuid6880</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/530350</field>
+    <field name="unitdate_normal_ssm">2003/2004</field>
+    <field name="unitdate_normal_teim">2003/2004</field>
+    <field name="unitdate_normal_sim">2003/2004</field>
+    <field name="unitdate_inclusive_teim">2003-2004</field>
+    <field name="ref_ssi">aspace_ref9137</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 178, Folder: 13</field>
+    <field name="location_ssm">Folder: 13</field>
+    <field name="location_si">Folder: 13</field>
+    <field name="collection_teim">Gay Cable Network Archives</field>
+    <field name="collection_unitid_teim">MSS.231/repositories/3/resources/1767</field>
+    <field name="series_sim">Oversize Series XXXII: Lou Maletta and GCN Files</field>
+    <field name="series_sim">Subseries B: Periodicals</field>
+    <field name="series_si">Oversize Series XXXII: Lou Maletta and GCN Files &gt;&gt; Subseries B: Periodicals &gt;&gt; New York Blade</field>
+    <field name="heading_ssm">New York Blade</field>
+    <field name="unitdate_start_sim">2003</field>
+    <field name="unitdate_start_ssm">2003</field>
+    <field name="unitdate_start_si">2003</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, 2003-2004</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">3617</field>
+  </doc>
+</add>

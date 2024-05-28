@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_ref13</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sabbateni 6 (formerly B.2)</field>
+    <field name="unittitle_teim">Sabbateni 6 (formerly B.2)</field>
+    <field name="unitdate_teim">circa 1600</field>
+    <field name="scopecontent_teim">Nine editions, bound together 
+(1): Lassus: Cantiones Sacrae à6 (München: Heinrich, 1601) RISM 16013 
+(2): Reiner: LIber Mottetarum à6,8 (München: Heinrich, 1600) RISM R1086 
+(3): Agricola, J.: Motetae novae à4-8 (Nürnberg: Agricola, 1601) RISM A432 
+(4): Demantius: Trias Precum Vesperinarum à4-6 (Nürnberg: Agricola, [1602]) RISM D1533 
+(5): Franck, M.: I Sacrarum Melodiarum à4-8 (Augsburg: Schönigk, 1601) RISM F1641 
+(6): Hassler, J.: Madrigali à6 (Nürnberg: Kaufmann, 1600) RISM H2345 
+(7): Aichinger: Liber Sacrarum Cantionum à5-8 (Nürnberg: Kauffmann, 1597) RISM A519 
+(8): Hausmann: Manipulus Sacrarum Cantionum à5-6 (Nürnberg: Kauffmann, 1602) RISM H2377 
+(9): Aichinger: Odaria Lectissima à3-4 (Augsburg: Willer (Praetorius), 1601) RISM A5244 
+Three part-books, Camtus, Altus and Tenor, from a set of at least six, probably eight</field>
+    <field name="ref_ssi">aspace_ref13</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 6 (formerly B.2)</field>
+    <field name="heading_ssm">Sabbateni 6 (formerly B.2)</field>
+    <field name="unitdate_ssm">circa 1600</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

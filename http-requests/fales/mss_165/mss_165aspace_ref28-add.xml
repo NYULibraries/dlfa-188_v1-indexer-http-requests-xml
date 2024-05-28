@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_165aspace_ref28</field>
+    <field name="ead_ssi">mss_165</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Scrapbooks</field>
+    <field name="parent_unittitles_teim">Series I: Scrapbooks</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Café Nicholson Archive</field>
+    <field name="collection_ssm">Café Nicholson Archive</field>
+    <field name="collection_unitid_ssm">MSS.165</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B:Scrapbook II</field>
+    <field name="unittitle_teim">Subseries B:Scrapbook II</field>
+    <field name="scopecontent_teim">This subseries consists of materials from Scrapbook II, dating from 1952-1954, when Café Nicholson was at 323 East 58th Street and Café New Johnny was at 146 East 57th Street</field>
+    <field name="ref_ssi">aspace_ref28</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Café Nicholson Archive</field>
+    <field name="collection_unitid_teim">MSS.165</field>
+    <field name="series_sim">Series I: Scrapbooks</field>
+    <field name="series_si">Series I: Scrapbooks &gt;&gt; Subseries B:Scrapbook II</field>
+    <field name="heading_ssm">Subseries B:Scrapbook II</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">17</field>
+  </doc>
+</add>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_175aspace_ref161</field>
+    <field name="ead_ssi">mss_175</field>
+    <field name="parent_ssi">aspace_ref5</field>
+    <field name="parent_ssm">aspace_ref5</field>
+    <field name="parent_unittitles_ssm">Series II: Correspondence</field>
+    <field name="parent_unittitles_teim">Series II: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Martha Wilson Papers</field>
+    <field name="collection_ssm">Martha Wilson Papers</field>
+    <field name="collection_unitid_ssm">MSS.175/repositories/3/resources/1733</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B: Comly Correspondence</field>
+    <field name="unittitle_teim">Subseries B: Comly Correspondence</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/492492</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/492492</field>
+    <field name="scopecontent_teim">Subseries B contains correspondence to Wilson's son Comly as a child, dating from 1989 to 2007.</field>
+    <field name="ref_ssi">aspace_ref161</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Martha Wilson Papers</field>
+    <field name="collection_unitid_teim">MSS.175/repositories/3/resources/1733</field>
+    <field name="series_sim">Series II: Correspondence</field>
+    <field name="series_si">Series II: Correspondence &gt;&gt; Subseries B: Comly Correspondence</field>
+    <field name="heading_ssm">Subseries B: Comly Correspondence</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2317</field>
+  </doc>
+</add>

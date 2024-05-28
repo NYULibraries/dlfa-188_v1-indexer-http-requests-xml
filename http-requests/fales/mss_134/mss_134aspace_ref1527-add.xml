@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_134aspace_ref1527</field>
+    <field name="ead_ssi">mss_134</field>
+    <field name="parent_ssi">aspace_ref1128</field>
+    <field name="parent_ssm">aspace_ref1128</field>
+    <field name="parent_unittitles_ssm">Series XIII: Pamphlet Collection</field>
+    <field name="parent_unittitles_teim">Series XIII: Pamphlet Collection</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Cecily Brownstone Papers</field>
+    <field name="collection_ssm">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_ssm">MSS.134</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Olives</field>
+    <field name="unittitle_teim">Olives</field>
+    <field name="unitdate_normal_ssm">1940/2002</field>
+    <field name="unitdate_normal_teim">1940/2002</field>
+    <field name="unitdate_normal_sim">1940/2002</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1527</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 32, Folder: 380</field>
+    <field name="location_ssm">Folder: 380</field>
+    <field name="location_si">Folder: 380</field>
+    <field name="collection_teim">Cecily Brownstone Papers</field>
+    <field name="collection_unitid_teim">MSS.134</field>
+    <field name="series_sim">Series XIII: Pamphlet Collection</field>
+    <field name="series_si">Series XIII: Pamphlet Collection &gt;&gt; Olives</field>
+    <field name="heading_ssm">Olives</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1581</field>
+  </doc>
+</add>

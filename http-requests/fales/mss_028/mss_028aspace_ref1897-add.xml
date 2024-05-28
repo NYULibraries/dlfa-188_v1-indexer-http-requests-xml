@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_028aspace_ref1897</field>
+    <field name="ead_ssi">mss_028</field>
+    <field name="parent_ssi">aspace_ref1804</field>
+    <field name="parent_ssm">aspace_ref1804</field>
+    <field name="parent_unittitles_ssm">Series II: Monographic Series (Box 85-91)</field>
+    <field name="parent_unittitles_teim">Series II: Monographic Series (Box 85-91)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Levy Dime Novel Collection</field>
+    <field name="collection_ssm">Levy Dime Novel Collection</field>
+    <field name="collection_unitid_ssm">MSS.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;strong&gt;Author&lt;/strong&gt;: Phillips, Alfred R.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Held in a vice. A north of England story&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The People's Pocket Story Books&lt;strong&gt;Series Number&lt;/strong&gt;: 250&lt;strong&gt;City&lt;/strong&gt;: London&lt;strong&gt;Publisher&lt;/strong&gt;: James Henderson&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+    <field name="unittitle_teim">Author: Phillips, Alfred R.Title: Held in a vice. A north of England storySeries Title: The People's Pocket Story BooksSeries Number: 250City: LondonPublisher: James HendersonDate: undated</field>
+    <field name="unitdate_normal_ssm">1821/1968</field>
+    <field name="unitdate_normal_teim">1821/1968</field>
+    <field name="unitdate_normal_sim">1821/1968</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="title_teim">Held in a vice. A north of England story</field>
+    <field name="title_ssm">Held in a vice. A north of England story</field>
+    <field name="ref_ssi">aspace_ref1897</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 87, Folder: 1775</field>
+    <field name="location_ssm">Folder: 1775</field>
+    <field name="location_si">Folder: 1775</field>
+    <field name="collection_teim">Levy Dime Novel Collection</field>
+    <field name="collection_unitid_teim">MSS.028</field>
+    <field name="series_sim">Series II: Monographic Series (Box 85-91)</field>
+    <field name="series_si">Series II: Monographic Series (Box 85-91) &gt;&gt; &lt;strong&gt;Author&lt;/strong&gt;: Phillips, Alfred R.&lt;strong&gt;Title&lt;/strong&gt;: &lt;em&gt;Held in a vice. A north of England story&lt;/em&gt;&lt;strong&gt;Series Title&lt;/strong&gt;: The People's Pocket Story Books&lt;strong&gt;Series Number&lt;/strong&gt;: 250&lt;strong&gt;City&lt;/strong&gt;: London&lt;strong&gt;Publisher&lt;/strong&gt;: James Henderson&lt;strong&gt;Date&lt;/strong&gt;: undated</field>
+    <field name="heading_ssm">Author: Phillips, Alfred R.Title: Held in a vice. A north of England storySeries Title: The People's Pocket Story BooksSeries Number: 250City: LondonPublisher: James HendersonDate: undated</field>
+    <field name="unitdate_start_sim">1821</field>
+    <field name="unitdate_start_ssm">1821</field>
+    <field name="unitdate_start_si">1821</field>
+    <field name="unitdate_end_sim">1968</field>
+    <field name="unitdate_end_ssm">1968</field>
+    <field name="unitdate_end_si">1968</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2020</field>
+  </doc>
+</add>

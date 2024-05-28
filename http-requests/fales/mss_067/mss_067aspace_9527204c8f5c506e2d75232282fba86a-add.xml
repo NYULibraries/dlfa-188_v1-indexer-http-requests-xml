@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_067aspace_9527204c8f5c506e2d75232282fba86a</field>
+    <field name="ead_ssi">mss_067</field>
+    <field name="parent_ssi">aspace_442bcb3484943e9a4fb1272d11843a5f</field>
+    <field name="parent_ssm">aspace_ref311</field>
+    <field name="parent_ssm">aspace_442bcb3484943e9a4fb1272d11843a5f</field>
+    <field name="parent_unittitles_ssm">Series VII: Books and Periodicals Belonging to Elmer Holmes Bobst.</field>
+    <field name="parent_unittitles_ssm">Subseries A: Books</field>
+    <field name="parent_unittitles_teim">Series VII: Books and Periodicals Belonging to Elmer Holmes Bobst.</field>
+    <field name="parent_unittitles_teim">Subseries A: Books</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Elmer Holmes Bobst Collection</field>
+    <field name="collection_ssm">Elmer Holmes Bobst Collection</field>
+    <field name="collection_unitid_ssm">MSS.067/repositories/3/resources/2701</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The Key to Heaven. Winterberg, N.Y.</field>
+    <field name="unittitle_teim">The Key to Heaven. Winterberg, N.Y.</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/797029</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/797029</field>
+    <field name="unitdate_normal_ssm">1905/1905</field>
+    <field name="unitdate_normal_teim">1905/1905</field>
+    <field name="unitdate_normal_sim">1905/1905</field>
+    <field name="unitdate_teim">1905</field>
+    <field name="ref_ssi">aspace_9527204c8f5c506e2d75232282fba86a</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Elmer Holmes Bobst Collection</field>
+    <field name="collection_unitid_teim">MSS.067/repositories/3/resources/2701</field>
+    <field name="series_sim">Series VII: Books and Periodicals Belonging to Elmer Holmes Bobst.</field>
+    <field name="series_sim">Subseries A: Books</field>
+    <field name="series_si">Series VII: Books and Periodicals Belonging to Elmer Holmes Bobst. &gt;&gt; Subseries A: Books &gt;&gt; The Key to Heaven. Winterberg, N.Y.</field>
+    <field name="heading_ssm">The Key to Heaven. Winterberg, N.Y.</field>
+    <field name="unitdate_start_sim">1905</field>
+    <field name="unitdate_start_ssm">1905</field>
+    <field name="unitdate_start_si">1905</field>
+    <field name="unitdate_end_sim">1905</field>
+    <field name="unitdate_end_ssm">1905</field>
+    <field name="unitdate_end_si">1905</field>
+    <field name="unitdate_ssm">1905</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">441</field>
+  </doc>
+</add>

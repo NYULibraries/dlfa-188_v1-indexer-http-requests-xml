@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_039aspace_ref329</field>
+    <field name="ead_ssi">mss_039</field>
+    <field name="parent_ssi">aspace_ref319</field>
+    <field name="parent_ssm">aspace_ref318</field>
+    <field name="parent_ssm">aspace_ref319</field>
+    <field name="parent_unittitles_ssm">Series III: Printed Material</field>
+    <field name="parent_unittitles_ssm">Subseries A: Printed Material.</field>
+    <field name="parent_unittitles_teim">Series III: Printed Material</field>
+    <field name="parent_unittitles_teim">Subseries A: Printed Material.</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Edward Streeter Papers</field>
+    <field name="collection_ssm">Edward Streeter Papers</field>
+    <field name="collection_unitid_ssm">MSS.039</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Metropolitan: Fitzgerald, F. Scott. "The Beautiful and the Damned. "</field>
+    <field name="unittitle_teim">Metropolitan: Fitzgerald, F. Scott. "The Beautiful and the Damned. "</field>
+    <field name="unitdate_teim">1921-1922</field>
+    <field name="ref_ssi">aspace_ref329</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 20, Folder: data_value_missing_f8988153452c0de529b7a3f2a9777700</field>
+    <field name="location_ssm">Folder: data_value_missing_f8988153452c0de529b7a3f2a9777700</field>
+    <field name="location_si">Folder: data_value_missing_f8988153452c0de529b7a3f2a9777700</field>
+    <field name="collection_teim">Edward Streeter Papers</field>
+    <field name="collection_unitid_teim">MSS.039</field>
+    <field name="series_sim">Series III: Printed Material</field>
+    <field name="series_sim">Subseries A: Printed Material.</field>
+    <field name="series_si">Series III: Printed Material &gt;&gt; Subseries A: Printed Material. &gt;&gt; Metropolitan: Fitzgerald, F. Scott. "The Beautiful and the Damned. "</field>
+    <field name="heading_ssm">Metropolitan: Fitzgerald, F. Scott. "The Beautiful and the Damned. "</field>
+    <field name="unitdate_ssm">1921-1922</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">318</field>
+  </doc>
+</add>

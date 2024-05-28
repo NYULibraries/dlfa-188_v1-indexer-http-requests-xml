@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_253aspace_ref1251</field>
+    <field name="ead_ssi">mss_253</field>
+    <field name="parent_ssi">aspace_ref1231</field>
+    <field name="parent_ssm">aspace_ref1229</field>
+    <field name="parent_ssm">aspace_ref1231</field>
+    <field name="parent_unittitles_ssm">OVERSIZE Series IV: Posters, Programs and Flyers</field>
+    <field name="parent_unittitles_ssm">Subseries A: Artists</field>
+    <field name="parent_unittitles_teim">OVERSIZE Series IV: Posters, Programs and Flyers</field>
+    <field name="parent_unittitles_teim">Subseries A: Artists</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Paul Langland Papers</field>
+    <field name="collection_ssm">Paul Langland Papers</field>
+    <field name="collection_unitid_ssm">MSS.253/repositories/3/resources/1783</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bread and Puppet Theater </field>
+    <field name="unittitle_teim">Bread and Puppet Theater </field>
+    <field name="unitid_teim">cuid29294</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/532353</field>
+    <field name="unitid_ssm">cuid29294</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/532353</field>
+    <field name="unitdate_normal_ssm">1982/1982</field>
+    <field name="unitdate_normal_teim">1982/1982</field>
+    <field name="unitdate_normal_sim">1982/1982</field>
+    <field name="unitdate_inclusive_teim">1982</field>
+    <field name="ref_ssi">aspace_ref1251</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 26, Folder: 13</field>
+    <field name="location_ssm">Folder: 13</field>
+    <field name="location_si">Folder: 13</field>
+    <field name="collection_teim">Paul Langland Papers</field>
+    <field name="collection_unitid_teim">MSS.253/repositories/3/resources/1783</field>
+    <field name="series_sim">OVERSIZE Series IV: Posters, Programs and Flyers</field>
+    <field name="series_sim">Subseries A: Artists</field>
+    <field name="series_si">OVERSIZE Series IV: Posters, Programs and Flyers &gt;&gt; Subseries A: Artists &gt;&gt; Bread and Puppet Theater </field>
+    <field name="heading_ssm">Bread and Puppet Theater </field>
+    <field name="unitdate_start_sim">1982</field>
+    <field name="unitdate_start_ssm">1982</field>
+    <field name="unitdate_start_si">1982</field>
+    <field name="unitdate_end_sim">1982</field>
+    <field name="unitdate_end_ssm">1982</field>
+    <field name="unitdate_end_si">1982</field>
+    <field name="unitdate_ssm">Inclusive, 1982</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">647</field>
+  </doc>
+</add>

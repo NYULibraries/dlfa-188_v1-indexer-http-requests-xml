@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_439aspace_c12bd0b8625aa85dc49c0491268ec0da</field>
+    <field name="ead_ssi">mss_439</field>
+    <field name="parent_ssi">aspace_c56a3695cb1d7bbf48438281085791e6</field>
+    <field name="parent_ssm">aspace_c56a3695cb1d7bbf48438281085791e6</field>
+    <field name="parent_unittitles_ssm">Series II. Tomie Arai Artwork</field>
+    <field name="parent_unittitles_teim">Series II. Tomie Arai Artwork</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tomie Arai and Legan Wong Papers</field>
+    <field name="collection_ssm">Tomie Arai and Legan Wong Papers</field>
+    <field name="collection_unitid_ssm">MSS.439/repositories/3/resources/2551</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Printshop -- Lower East Side Printshop</field>
+    <field name="unittitle_teim">Printshop -- Lower East Side Printshop</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/924907</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/924907</field>
+    <field name="unitdate_normal_ssm">1986/2005</field>
+    <field name="unitdate_normal_teim">1986/2005</field>
+    <field name="unitdate_normal_sim">1986/2005</field>
+    <field name="unitdate_inclusive_teim">1986-2005</field>
+    <field name="ref_ssi">aspace_c12bd0b8625aa85dc49c0491268ec0da</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 25, Folder: 1-3</field>
+    <field name="location_ssm">Folder: 1-3</field>
+    <field name="location_ssm">Box: 43, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_ssm">Box: 47, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">Tomie Arai and Legan Wong Papers</field>
+    <field name="collection_unitid_teim">MSS.439/repositories/3/resources/2551</field>
+    <field name="series_sim">Series II. Tomie Arai Artwork</field>
+    <field name="series_si">Series II. Tomie Arai Artwork &gt;&gt; Printshop -- Lower East Side Printshop</field>
+    <field name="heading_ssm">Printshop -- Lower East Side Printshop</field>
+    <field name="unitdate_start_sim">1986</field>
+    <field name="unitdate_start_ssm">1986</field>
+    <field name="unitdate_start_si">1986</field>
+    <field name="unitdate_end_sim">2005</field>
+    <field name="unitdate_end_ssm">2005</field>
+    <field name="unitdate_end_si">2005</field>
+    <field name="unitdate_ssm">Inclusive, 1986-2005</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">57</field>
+  </doc>
+</add>

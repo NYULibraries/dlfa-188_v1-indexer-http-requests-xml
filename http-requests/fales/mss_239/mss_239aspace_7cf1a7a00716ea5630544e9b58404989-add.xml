@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_7cf1a7a00716ea5630544e9b58404989</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref23</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref23</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_ssm">Sabbateni 11(formerly B.7)</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Sabbateni 11(formerly B.7)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Septima Vox</field>
+    <field name="unittitle_teim">Septima Vox</field>
+    <field name="unitid_teim">cuid39023</field>
+    <field name="unitid_ssm">cuid39023</field>
+    <field name="ref_ssi">aspace_7cf1a7a00716ea5630544e9b58404989</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 27</field>
+    <field name="location_si">Box: 27</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_sim">Sabbateni 11(formerly B.7)</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 11(formerly B.7) &gt;&gt; Septima Vox</field>
+    <field name="heading_ssm">Septima Vox</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">39</field>
+  </doc>
+</add>

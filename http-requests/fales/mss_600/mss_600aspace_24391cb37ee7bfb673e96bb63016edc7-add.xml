@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_600aspace_24391cb37ee7bfb673e96bb63016edc7</field>
+    <field name="ead_ssi">mss_600</field>
+    <field name="parent_ssi">aspace_33d0449ce179eef0b294efa95e979af5</field>
+    <field name="parent_ssm">aspace_342279dcc14bd4180d4d9dd2fefa42d5</field>
+    <field name="parent_ssm">aspace_33d0449ce179eef0b294efa95e979af5</field>
+    <field name="parent_unittitles_ssm">Series V. Writing</field>
+    <field name="parent_unittitles_ssm">Subseries VA. Published</field>
+    <field name="parent_unittitles_teim">Series V. Writing</field>
+    <field name="parent_unittitles_teim">Subseries VA. Published</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Douglas Crimp Papers</field>
+    <field name="collection_ssm">Douglas Crimp Papers</field>
+    <field name="collection_unitid_ssm">MSS.600</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;On the Museum's Ruins&lt;/em&gt; Photograph Permissions</field>
+    <field name="unittitle_teim">On the Museum's Ruins Photograph Permissions</field>
+    <field name="unitdate_normal_ssm">1986/1993</field>
+    <field name="unitdate_normal_teim">1986/1993</field>
+    <field name="unitdate_normal_sim">1986/1993</field>
+    <field name="unitdate_inclusive_teim">1986-1993</field>
+    <field name="ref_ssi">aspace_24391cb37ee7bfb673e96bb63016edc7</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Douglas Crimp Papers</field>
+    <field name="collection_unitid_teim">MSS.600</field>
+    <field name="series_sim">Series V. Writing</field>
+    <field name="series_sim">Subseries VA. Published</field>
+    <field name="series_si">Series V. Writing &gt;&gt; Subseries VA. Published &gt;&gt; &lt;em&gt;On the Museum's Ruins&lt;/em&gt; Photograph Permissions</field>
+    <field name="heading_ssm">On the Museum's Ruins Photograph Permissions</field>
+    <field name="unitdate_start_sim">1986</field>
+    <field name="unitdate_start_ssm">1986</field>
+    <field name="unitdate_start_si">1986</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, 1986-1993</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">209</field>
+  </doc>
+</add>

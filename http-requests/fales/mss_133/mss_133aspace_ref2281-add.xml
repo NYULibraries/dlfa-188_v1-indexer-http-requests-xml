@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_133aspace_ref2281</field>
+    <field name="ead_ssi">mss_133</field>
+    <field name="parent_ssi">aspace_ref2280</field>
+    <field name="parent_ssm">aspace_ref2280</field>
+    <field name="parent_unittitles_ssm">OVERSIZE Series VIII: Touring Files</field>
+    <field name="parent_unittitles_teim">OVERSIZE Series VIII: Touring Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mabou Mines Archive</field>
+    <field name="collection_ssm">Mabou Mines Archive</field>
+    <field name="collection_unitid_ssm">MSS.133/repositories/3/resources/1696</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Touring Files by Production</field>
+    <field name="unittitle_teim">Subseries A: Touring Files by Production</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/459461</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/459461</field>
+    <field name="scopecontent_teim">Oversize touring files: mostly light plots, maps, and posters.</field>
+    <field name="ref_ssi">aspace_ref2281</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mabou Mines Archive</field>
+    <field name="collection_unitid_teim">MSS.133/repositories/3/resources/1696</field>
+    <field name="series_sim">OVERSIZE Series VIII: Touring Files</field>
+    <field name="series_si">OVERSIZE Series VIII: Touring Files &gt;&gt; Subseries A: Touring Files by Production</field>
+    <field name="heading_ssm">Subseries A: Touring Files by Production</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2956</field>
+  </doc>
+</add>

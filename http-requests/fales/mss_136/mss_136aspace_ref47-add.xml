@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_136aspace_ref47</field>
+    <field name="ead_ssi">mss_136</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series I: Author Files</field>
+    <field name="parent_unittitles_ssm">Subseries A: Paper Files</field>
+    <field name="parent_unittitles_teim">Series I: Author Files</field>
+    <field name="parent_unittitles_teim">Subseries A: Paper Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Al Silverman Papers</field>
+    <field name="collection_ssm">Al Silverman Papers</field>
+    <field name="collection_unitid_ssm">MSS.136</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">&lt;em&gt;My Life is Baseball&lt;/em&gt; (chapters 2 &amp;amp; 3 &lt;em&gt;drafts, clippings)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+    <field name="unittitle_teim">My Life is Baseball (chapters 2 &amp; 3 drafts, clippings)</field>
+    <field name="unitdate_normal_ssm">1968/1968</field>
+    <field name="unitdate_normal_teim">1968/1968</field>
+    <field name="unitdate_normal_sim">1968/1968</field>
+    <field name="unitdate_inclusive_teim">1968</field>
+    <field name="title_teim">My Life is Baseball</field>
+    <field name="title_ssm">My Life is Baseball</field>
+    <field name="ref_ssi">aspace_ref47</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Al Silverman Papers</field>
+    <field name="collection_unitid_teim">MSS.136</field>
+    <field name="series_sim">Series I: Author Files</field>
+    <field name="series_sim">Subseries A: Paper Files</field>
+    <field name="series_si">Series I: Author Files &gt;&gt; Subseries A: Paper Files &gt;&gt; &lt;em&gt;My Life is Baseball&lt;/em&gt; (chapters 2 &amp;amp; 3 &lt;em&gt;drafts, clippings)&amp;lt;/unittitle&amp;gt;&lt;/em&gt;</field>
+    <field name="heading_ssm">My Life is Baseball (chapters 2 &amp; 3 drafts, clippings)</field>
+    <field name="unitdate_start_sim">1968</field>
+    <field name="unitdate_start_ssm">1968</field>
+    <field name="unitdate_start_si">1968</field>
+    <field name="unitdate_end_sim">1968</field>
+    <field name="unitdate_end_ssm">1968</field>
+    <field name="unitdate_end_si">1968</field>
+    <field name="unitdate_ssm">Inclusive, 1968</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">35</field>
+  </doc>
+</add>

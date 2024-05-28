@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_225aspace_ref754</field>
+    <field name="ead_ssi">mss_225</field>
+    <field name="parent_ssi">aspace_ref719</field>
+    <field name="parent_ssm">aspace_ref260</field>
+    <field name="parent_ssm">aspace_ref719</field>
+    <field name="parent_unittitles_ssm">Series VI: Audio</field>
+    <field name="parent_unittitles_ssm">Subseries B: Originals</field>
+    <field name="parent_unittitles_teim">Series VI: Audio</field>
+    <field name="parent_unittitles_teim">Subseries B: Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Collective: Unconscious Archive</field>
+    <field name="collection_ssm">Collective: Unconscious Archive</field>
+    <field name="collection_unitid_ssm">MSS.225/repositories/3/resources/1764</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"Faceboy"</field>
+    <field name="unittitle_teim">"Faceboy"</field>
+    <field name="unitid_teim">ID: 225.0224</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/526406</field>
+    <field name="unitid_ssm">ID: 225.0224</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/526406</field>
+    <field name="unitdate_normal_ssm">2004/2004</field>
+    <field name="unitdate_normal_teim">2004/2004</field>
+    <field name="unitdate_normal_sim">2004/2004</field>
+    <field name="unitdate_inclusive_teim">February 29, 2004</field>
+    <field name="phystech_teim">Original format: audiocassette</field>
+    <field name="ref_ssi">aspace_ref754</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 16, Media: ID: 225.0224</field>
+    <field name="location_ssm">Media: ID: 225.0224</field>
+    <field name="location_si">Media: ID: 225.0224</field>
+    <field name="collection_teim">Collective: Unconscious Archive</field>
+    <field name="collection_unitid_teim">MSS.225/repositories/3/resources/1764</field>
+    <field name="series_sim">Series VI: Audio</field>
+    <field name="series_sim">Subseries B: Originals</field>
+    <field name="series_si">Series VI: Audio &gt;&gt; Subseries B: Originals &gt;&gt; "Faceboy"</field>
+    <field name="heading_ssm">"Faceboy"</field>
+    <field name="unitdate_start_sim">2004</field>
+    <field name="unitdate_start_ssm">2004</field>
+    <field name="unitdate_start_si">2004</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, February 29, 2004</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">517</field>
+  </doc>
+</add>

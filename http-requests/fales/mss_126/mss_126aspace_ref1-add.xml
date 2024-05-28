@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_126aspace_ref1</field>
+    <field name="ead_ssi">mss_126</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">IBM European Business Archive</field>
+    <field name="collection_ssm">IBM European Business Archive</field>
+    <field name="collection_unitid_ssm">MSS.126</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: European Office Records</field>
+    <field name="unittitle_teim">Series I: European Office Records</field>
+    <field name="scopecontent_teim">SERIES I: European Office Records is composed of office records, grouped alphabetically by subject headings.  The bulk of this series is devoted to financial correspondence between the IBM office in New York and IBM subsidiaries in Germany, including Degemag, Dehomag and Optima.</field>
+    <field name="ref_ssi">aspace_ref1</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">IBM European Business Archive</field>
+    <field name="collection_unitid_teim">MSS.126</field>
+    <field name="series_si">Series I: European Office Records</field>
+    <field name="heading_ssm">Series I: European Office Records</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

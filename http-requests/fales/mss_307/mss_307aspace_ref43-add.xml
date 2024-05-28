@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_307aspace_ref43</field>
+    <field name="ead_ssi">mss_307</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Fales Events Videos</field>
+    <field name="parent_unittitles_teim">Series I: Fales Events Videos</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fales Library Events Video Collection</field>
+    <field name="collection_ssm">Fales Library Events Video Collection</field>
+    <field name="collection_unitid_ssm">MSS.307</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">David Wojnarowicz in Fales [Part 2]
+</field>
+    <field name="unittitle_teim">David Wojnarowicz in Fales [Part 2]
+</field>
+    <field name="unitid_teim">ID: FA0021</field>
+    <field name="unitid_ssm">ID: FA0021</field>
+    <field name="unitdate_teim">February 4, 1999</field>
+    <field name="phystech_teim">Format: VHS</field>
+    <field name="ref_ssi">aspace_ref43</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">case: FA0021</field>
+    <field name="location_si">case: FA0021</field>
+    <field name="collection_teim">Fales Library Events Video Collection</field>
+    <field name="collection_unitid_teim">MSS.307</field>
+    <field name="series_sim">Series I: Fales Events Videos</field>
+    <field name="series_si">Series I: Fales Events Videos &gt;&gt; David Wojnarowicz in Fales [Part 2]
+</field>
+    <field name="heading_ssm">David Wojnarowicz in Fales [Part 2]
+</field>
+    <field name="unitdate_ssm">February 4, 1999</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">21</field>
+  </doc>
+</add>

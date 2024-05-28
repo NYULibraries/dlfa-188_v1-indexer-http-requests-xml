@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref2100</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1803</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref1801</field>
+    <field name="parent_ssm">aspace_ref1802</field>
+    <field name="parent_ssm">aspace_ref1803</field>
+    <field name="parent_unittitles_ssm">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_ssm">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_ssm">Subsubseries a: Academic and Family
+</field>
+    <field name="parent_unittitles_teim">Record Group IV: Horsford Family</field>
+    <field name="parent_unittitles_teim">Series A: Eben Norton Horsford</field>
+    <field name="parent_unittitles_teim">Subseries 1: Correspondence</field>
+    <field name="parent_unittitles_teim">Subsubseries a: Academic and Family
+</field>
+    <field name="component_level_isim">5</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ericsson, [Captain John]: New York, NY</field>
+    <field name="unittitle_teim">Ericsson, [Captain John]: New York, NY</field>
+    <field name="unitid_teim">cuid1926</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/509880</field>
+    <field name="unitid_ssm">cuid1926</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/509880</field>
+    <field name="unitdate_normal_ssm">1862/1878</field>
+    <field name="unitdate_normal_teim">1862/1878</field>
+    <field name="unitdate_normal_sim">1862/1878</field>
+    <field name="unitdate_inclusive_teim">1862 June 11 - 1863 January 13; 1866 May 12, 19 &amp; June 4; 1878 June 5; undated, circa 1862</field>
+    <field name="scopecontent_teim">7 Letters, 2 Envelopes, with Ephemera, Indentation, Notation &amp; Postage</field>
+    <field name="scopecontent_teim">Addressed To: [Captain John Ericsson] ; "Professor [Eben Norton] Horsford, Cambridge, MA"</field>
+    <field name="scopecontent_teim">Sent From: "[Captain John] Ericsson"; "Charles Gould, Esq., New York," [NY] ; "John B. Kitching, Esq.," [New York, NY];  "Professor Horsford, Chairman of the Rumford Committee of the American Academy of Arts &amp; Sciences, Cambridge, MA"</field>
+    <field name="scopecontent_teim">In Reference To: Academic / Business / Chemistry / Education / Professional / Science / Technology; "Rumford Premium Prize" Address Clippings with Notation, "Awarded to Captain John Ericsson for his improvements in the Management of Heat [Hot Air Engine], by the American Academy of Arts &amp; Sciences, 1862" </field>
+    <field name="scopecontent_teim">17 Pages, Bound &amp; Unbound</field>
+    <field name="scopecontent_teim">Printed &amp; Handwritten in Ink &amp; Pencil </field>
+    <field name="scopecontent_teim">Measurements: 5.25" x 2.75" - 8" x 9.75"</field>
+    <field name="scopecontent_teim">Captain John Ericsson (July 31, 1803 – March 8, 1889) was a Swedish-American inventor and mechanical engineer. Ericsson was born at Långbanshyttan in Värmland, Sweden, but primarily came to be active in England and the United States. Ericsson is remembered best for designing the steam locomotive Novelty (in partnership with engineer John Braithwaite) and the ironclad ship U.S.S. Monitor. William Conant Church's The Life of John Ericsson is available at New York University Libraries via BobCat. </field>
+    <field name="dao_teim">Ericsson, [Captain John]: New York, NY: 1862 June 11 - 1863 January 13; 1866 May 12, 19 &amp; June 4; 1878 June 5; undated, circa 1862</field>
+    <field name="dao_ssm">Ericsson, [Captain John]: New York, NY: 1862 June 11 - 1863 January 13; 1866 May 12, 19 &amp; June 4; 1878 June 5; undated, circa 1862</field>
+    <field name="ref_ssi">aspace_ref2100</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 59, Folder: 21</field>
+    <field name="location_ssm">Folder: 21</field>
+    <field name="location_si">Folder: 21</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group IV: Horsford Family</field>
+    <field name="series_sim">Series A: Eben Norton Horsford</field>
+    <field name="series_sim">Subseries 1: Correspondence</field>
+    <field name="series_sim">Subsubseries a: Academic and Family
+</field>
+    <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series A: Eben Norton Horsford &gt;&gt; Subseries 1: Correspondence &gt;&gt; Subsubseries a: Academic and Family
+ &gt;&gt; Ericsson, [Captain John]: New York, NY</field>
+    <field name="heading_ssm">Ericsson, [Captain John]: New York, NY</field>
+    <field name="unitdate_start_sim">1862</field>
+    <field name="unitdate_start_ssm">1862</field>
+    <field name="unitdate_start_si">1862</field>
+    <field name="unitdate_end_sim">1878</field>
+    <field name="unitdate_end_ssm">1878</field>
+    <field name="unitdate_end_si">1878</field>
+    <field name="unitdate_ssm">Inclusive, 1862 June 11 - 1863 January 13; 1866 May 12, 19 &amp; June 4; 1878 June 5; undated, circa 1862</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2647</field>
+  </doc>
+</add>

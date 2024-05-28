@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref60</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_ssm">Series A: Sylvester Family </field>
+    <field name="parent_unittitles_teim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_teim">Series A: Sylvester Family </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Research Writing with Notation</field>
+    <field name="unittitle_teim">Research Writing with Notation</field>
+    <field name="unitid_teim">cuid4793</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/507280</field>
+    <field name="unitid_ssm">cuid4793</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/507280</field>
+    <field name="unitdate_teim">undated, circa 1671 - 1749</field>
+    <field name="scopecontent_teim">1 Birthdate List </field>
+    <field name="scopecontent_teim">Title: "The Children of My Brother Nathaniel Sylvester"</field>
+    <field name="scopecontent_teim">In Reference To: Family / Genealogy; In order of oldest to youngest - Grizzell (Grissell) Sylvester, Giles (Gyles) Sylvester, Nathaniel Sylvester (II), Peter Sylvester, Patience Sylvester, Elizabeth Sylvester, Mary Sylvester, Ann Sylvester, Constant Sylvester </field>
+    <field name="scopecontent_teim">3 Pages, Bound by String</field>
+    <field name="scopecontent_teim">Handwritten in Ink</field>
+    <field name="scopecontent_teim">Measurements: 4.25" x 4" </field>
+    <field name="dao_teim">Research Writing with Notation: undated, circa 1671 - 1749</field>
+    <field name="dao_ssm">Research Writing with Notation: undated, circa 1671 - 1749</field>
+    <field name="ref_ssi">aspace_ref60</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 147, Folder: 39</field>
+    <field name="location_ssm">Folder: 39</field>
+    <field name="location_si">Folder: 39</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="series_sim">Series A: Sylvester Family </field>
+    <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series A: Sylvester Family  &gt;&gt; Research Writing with Notation</field>
+    <field name="heading_ssm">Research Writing with Notation</field>
+    <field name="unitdate_ssm">undated, circa 1671 - 1749</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">46</field>
+  </doc>
+</add>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_077aspace_ref156</field>
+    <field name="ead_ssi">mss_077</field>
+    <field name="parent_ssi">aspace_ref152</field>
+    <field name="parent_ssm">aspace_ref152</field>
+    <field name="parent_unittitles_ssm">Series V: Photographs</field>
+    <field name="parent_unittitles_teim">Series V: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Margaret Strickland Papers</field>
+    <field name="collection_ssm">Margaret Strickland Papers</field>
+    <field name="collection_unitid_ssm">MSS.077</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Portraits: Men]</field>
+    <field name="unittitle_teim">[Portraits: Men]</field>
+    <field name="unitdate_normal_ssm">1900/1920</field>
+    <field name="unitdate_normal_teim">1900/1920</field>
+    <field name="unitdate_normal_sim">1900/1920</field>
+    <field name="unitdate_inclusive_teim">undated, circa early 20c</field>
+    <field name="scopecontent_teim">7 Portraits of Men in Formal Wear &amp; Military Uniform</field>
+    <field name="scopecontent_teim">Black &amp; White Prints, Unbound</field>
+    <field name="scopecontent_teim">Mounted on Cardstock by: "Chesney Limited, 50 Strand, London, [England] WC" ;  "Elliot &amp; Fry, 55 Baker Street West, London, [England]" ; "G. West, Godalming &amp; Haslemere" ; 
+"Karl Schenker, 1 Dover Street, London, [England] W1"</field>
+    <field name="scopecontent_teim">Measurements: 6.5" x 7.75" - 7.5" x 10.75"</field>
+    <field name="ref_ssi">aspace_ref156</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Margaret Strickland Papers</field>
+    <field name="collection_unitid_teim">MSS.077</field>
+    <field name="series_sim">Series V: Photographs</field>
+    <field name="series_si">Series V: Photographs &gt;&gt; [Portraits: Men]</field>
+    <field name="heading_ssm">[Portraits: Men]</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">1920</field>
+    <field name="unitdate_end_ssm">1920</field>
+    <field name="unitdate_end_si">1920</field>
+    <field name="unitdate_ssm">Inclusive, undated, circa early 20c</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">141</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_265aspace_10dc3c62474671e9ea6a1b0dd797d10b</field>
+    <field name="ead_ssi">mss_265</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Doris Tobias Papers</field>
+    <field name="collection_ssm">Doris Tobias Papers</field>
+    <field name="collection_unitid_ssm">MSS.265</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Clippings</field>
+    <field name="unittitle_teim">Clippings</field>
+    <field name="unitdate_normal_ssm">1984/1990</field>
+    <field name="unitdate_normal_teim">1984/1990</field>
+    <field name="unitdate_normal_sim">1984/1990</field>
+    <field name="unitdate_inclusive_teim">1984-1990</field>
+    <field name="ref_ssi">aspace_10dc3c62474671e9ea6a1b0dd797d10b</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Doris Tobias Papers</field>
+    <field name="collection_unitid_teim">MSS.265</field>
+    <field name="series_si">Clippings</field>
+    <field name="heading_ssm">Clippings</field>
+    <field name="unitdate_start_sim">1984</field>
+    <field name="unitdate_start_ssm">1984</field>
+    <field name="unitdate_start_si">1984</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, 1984-1990</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_506aspace_2f3a1ea5dcf75c1b0ca47051ea04aceb</field>
+    <field name="ead_ssi">mss_506</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Artists Space Collection of Artist Files</field>
+    <field name="collection_ssm">Artists Space Collection of Artist Files</field>
+    <field name="collection_unitid_ssm">MSS.506</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Olmer, Adeline</field>
+    <field name="unittitle_teim">Olmer, Adeline</field>
+    <field name="unitdate_normal_ssm">1985/1989</field>
+    <field name="unitdate_normal_teim">1985/1989</field>
+    <field name="unitdate_normal_sim">1985/1989</field>
+    <field name="unitdate_inclusive_teim">1985-1989</field>
+    <field name="ref_ssi">aspace_2f3a1ea5dcf75c1b0ca47051ea04aceb</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 62, Folder: 50</field>
+    <field name="location_ssm">Folder: 50</field>
+    <field name="location_si">Folder: 50</field>
+    <field name="collection_teim">Artists Space Collection of Artist Files</field>
+    <field name="collection_unitid_teim">MSS.506</field>
+    <field name="series_si">Olmer, Adeline</field>
+    <field name="heading_ssm">Olmer, Adeline</field>
+    <field name="unitdate_start_sim">1985</field>
+    <field name="unitdate_start_ssm">1985</field>
+    <field name="unitdate_start_si">1985</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, 1985-1989</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3030</field>
+  </doc>
+</add>

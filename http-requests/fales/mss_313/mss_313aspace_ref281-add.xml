@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_313aspace_ref281</field>
+    <field name="ead_ssi">mss_313</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series II: Demonstrations</field>
+    <field name="parent_unittitles_teim">Series II: Demonstrations</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bill Bytsura ACT UP Photography Collection</field>
+    <field name="collection_ssm">Bill Bytsura ACT UP Photography Collection</field>
+    <field name="collection_unitid_ssm">MSS.313</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Exhibition [undated]</field>
+    <field name="unittitle_teim">Exhibition [undated]</field>
+    <field name="unitdate_normal_ssm">1992/1992</field>
+    <field name="unitdate_normal_teim">1992/1992</field>
+    <field name="unitdate_normal_sim">1992/1992</field>
+    <field name="unitdate_inclusive_teim">February 24, 1992</field>
+    <field name="ref_ssi">aspace_ref281</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">Bill Bytsura ACT UP Photography Collection</field>
+    <field name="collection_unitid_teim">MSS.313</field>
+    <field name="series_sim">Series II: Demonstrations</field>
+    <field name="series_si">Series II: Demonstrations &gt;&gt; Exhibition [undated]</field>
+    <field name="heading_ssm">Exhibition [undated]</field>
+    <field name="unitdate_start_sim">1992</field>
+    <field name="unitdate_start_ssm">1992</field>
+    <field name="unitdate_start_si">1992</field>
+    <field name="unitdate_end_sim">1992</field>
+    <field name="unitdate_end_ssm">1992</field>
+    <field name="unitdate_end_si">1992</field>
+    <field name="unitdate_ssm">Inclusive, February 24, 1992</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">272</field>
+  </doc>
+</add>

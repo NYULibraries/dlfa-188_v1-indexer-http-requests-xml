@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_383aspace_ref66</field>
+    <field name="ead_ssi">mss_383</field>
+    <field name="parent_ssi">aspace_ref62</field>
+    <field name="parent_ssm">aspace_ref62</field>
+    <field name="parent_unittitles_ssm">Series XII: Bottesini</field>
+    <field name="parent_unittitles_teim">Series XII: Bottesini</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_ssm">MSS.383</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">La regina del Nepal</field>
+    <field name="unittitle_teim">La regina del Nepal</field>
+    <field name="unitdate_normal_ssm">1880/1880</field>
+    <field name="unitdate_normal_teim">1880/1880</field>
+    <field name="unitdate_normal_sim">1880/1880</field>
+    <field name="unitdate_inclusive_teim">1880</field>
+    <field name="scopecontent_teim">Librettist: Tommasi da Sciacca, B.</field>
+    <field name="scopecontent_teim">Performance City and Venue:  Turin: Teatro Regio</field>
+    <field name="scopecontent_teim">Performance Season/Date: Carnevale-Quaresima 1880-81</field>
+    <field name="scopecontent_teim">Publication City and Publisher: Turin: Tipografia Roux e Favale</field>
+    <field name="ref_ssi">aspace_ref66</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_unitid_teim">MSS.383</field>
+    <field name="series_sim">Series XII: Bottesini</field>
+    <field name="series_si">Series XII: Bottesini &gt;&gt; La regina del Nepal</field>
+    <field name="heading_ssm">La regina del Nepal</field>
+    <field name="unitdate_start_sim">1880</field>
+    <field name="unitdate_start_ssm">1880</field>
+    <field name="unitdate_start_si">1880</field>
+    <field name="unitdate_end_sim">1880</field>
+    <field name="unitdate_end_ssm">1880</field>
+    <field name="unitdate_end_si">1880</field>
+    <field name="unitdate_ssm">Inclusive, 1880</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>

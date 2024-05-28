@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_341aspace_ref110</field>
+    <field name="ead_ssi">mss_341</field>
+    <field name="parent_ssi">aspace_ref239</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref239</field>
+    <field name="parent_unittitles_ssm">Series I: Photographic Materials</field>
+    <field name="parent_unittitles_ssm">Subseries C: Coursework </field>
+    <field name="parent_unittitles_teim">Series I: Photographic Materials</field>
+    <field name="parent_unittitles_teim">Subseries C: Coursework </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bern Boyle Papers</field>
+    <field name="collection_ssm">Bern Boyle Papers</field>
+    <field name="collection_unitid_ssm">MSS.341/repositories/3/resources/1842</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photo-Retouching Lesson Booklets 13-15</field>
+    <field name="unittitle_teim">Photo-Retouching Lesson Booklets 13-15</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/562327</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/562327</field>
+    <field name="unitdate_teim">1983</field>
+    <field name="ref_ssi">aspace_ref110</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 36, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">Bern Boyle Papers</field>
+    <field name="collection_unitid_teim">MSS.341/repositories/3/resources/1842</field>
+    <field name="series_sim">Series I: Photographic Materials</field>
+    <field name="series_sim">Subseries C: Coursework </field>
+    <field name="series_si">Series I: Photographic Materials &gt;&gt; Subseries C: Coursework  &gt;&gt; Photo-Retouching Lesson Booklets 13-15</field>
+    <field name="heading_ssm">Photo-Retouching Lesson Booklets 13-15</field>
+    <field name="unitdate_ssm">1983</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">51</field>
+  </doc>
+</add>

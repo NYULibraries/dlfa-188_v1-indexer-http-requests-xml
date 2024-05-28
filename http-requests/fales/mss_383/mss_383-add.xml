@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+    <field name="author_ssm">Francesco Izzo, Robin Preiss and Tori Peterson</field>
+    <field name="unittitle_teim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="unittitle_ssm">Mazzarella AIVS Collection of Librettos</field>
+    <field name="unitid_teim">MSS.383</field>
+    <field name="unitid_ssm">MSS.383</field>
+    <field name="abstract_teim">The Mazzarella AIVS Collection of Librettos is comprised of John D. Mazzarella's collection of librettos for operas performed throughout Italy, and in London, Paris, Barcelona, and New York City in the 19th and early 20th centuries. The librettos were published between 1815 and 1966.</field>
+    <field name="abstract_ssm">The Mazzarella AIVS Collection of Librettos is comprised of John D. Mazzarella's collection of librettos for operas performed throughout Italy, and in London, Paris, Barcelona, and New York City in the 19th and early 20th centuries. The librettos were published between 1815 and 1966.</field>
+    <field name="unitdate_normal_ssm">1815/1966</field>
+    <field name="unitdate_normal_teim">1815/1966</field>
+    <field name="unitdate_normal_sim">1815/1966</field>
+    <field name="unitdate_inclusive_teim">1815-1966</field>
+    <field name="scopecontent_teim">The Mazzarella AIVS Collection of Librettos is comprised of librettos for operas performed throughout Italy, as well as London, Paris, Barcelona, and New York City, in the 19th and early 20th centuries. The librettos were published between 1815 and 1966.</field>
+    <field name="bioghist_teim">John D. Mazzarella served as Vice President and Eastern Manager of Community Concerts, a division of Columbia Artists Management, Inc. for thirty years. He also taught English at Bangkok Christian College for six years. Passionate about the arts and travel, Mazzarella was a long-time member of the American Institute of Verdi Studies. He died at the age of 71 in 2010.</field>
+    <field name="bioghist_teim">Source:
+John D. Mazzarella Obituary, The New York Times, August 28, 2010.</field>
+    <field name="bioghist_teim">The American Institute for Verdi Studies (AIVS) is one of the world's top research centers for the study of the life and works of Giuseppe Verdi. The idea for the AIVS emerged out of increased interest in Verdi research following the Fourth International Congress of Verdi Studies in 1974. Planning for the Institute began in 1974, with performers, scholars, critics, librarians, and Verdi enthusiasts agreeing to serve as advisors to the new organization. Officially founded on April 1, 1976, the AIVS is open to public membership and is a division of the Music Department at New York University. The AIVS sponsors and promotes conferences, lectures, and performances, and publishes the only English-language journal dedicated to Verdi, the Verdi Forum. </field>
+    <field name="bioghist_teim">The Institute has organized three international conferences on Verdi studies, and in October 2013, the AIVS sponsored Verdi's Third Century: Italian Opera Today, a conference at NYU to celebrate the bicentennial of Verdi's birth and the legacy of his work. The AIVS Archive is located at the Elmer Holmes Bobst Library at NYU.</field>
+    <field name="bioghist_teim">Source: 
+"Our History and Mission." American Institute for Verdi Studies. http://www.nyu.edu/projects/verdi/AIVSbackground.html</field>
+    <field name="custodhist_teim">The collection of librettos is a bequest of John D. Mazzarella, a former member of the American Institute for Verdi Studies.  Mr. Mazzarella bequeathed his materials to the AIVS in 2010.  Mr. Mazzarella had acquired most of the items in his collection over the course of many visits to Italy.  The AIVS transferred the materials to Fales Library in 2012.</field>
+    <field name="corpname_teim">Fales Library and Special Collections</field>
+    <field name="corpname_teim">American Institute of Verdi Studies</field>
+    <field name="corpname_teim">American Institute of Verdi Studies</field>
+    <field name="corpname_ssm">Fales Library and Special Collections</field>
+    <field name="corpname_ssm">American Institute of Verdi Studies</field>
+    <field name="corpname_ssm">American Institute of Verdi Studies</field>
+    <field name="genreform_teim">Librettos (documents for music)</field>
+    <field name="genreform_ssm">Librettos (documents for music)</field>
+    <field name="persname_teim">Mazzarella, John D.</field>
+    <field name="persname_ssm">Mazzarella, John D.</field>
+    <field name="collection_sim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_ssm">Mazzarella AIVS Collection of Librettos</field>
+    <field name="collection_teim">Mazzarella AIVS Collection of Librettos</field>
+    <field name="id">mss_383</field>
+    <field name="ead_ssi">mss_383</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">American Institute of Verdi Studies</field>
+    <field name="name_sim">Mazzarella, John D.</field>
+    <field name="name_teim">American Institute of Verdi Studies</field>
+    <field name="name_teim">Mazzarella, John D.</field>
+    <field name="material_type_sim">Librettos (documents for music)</field>
+    <field name="material_type_ssm">Librettos (documents for music)</field>
+    <field name="heading_ssm">Mazzarella AIVS Collection of Librettos</field>
+    <field name="unitdate_start_sim">1815</field>
+    <field name="unitdate_start_ssm">1815</field>
+    <field name="unitdate_start_si">1815</field>
+    <field name="unitdate_end_sim">1966</field>
+    <field name="unitdate_end_ssm">1966</field>
+    <field name="unitdate_end_si">1966</field>
+    <field name="unitdate_ssm">Inclusive, 1815-1966</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+  </doc>
+</add>

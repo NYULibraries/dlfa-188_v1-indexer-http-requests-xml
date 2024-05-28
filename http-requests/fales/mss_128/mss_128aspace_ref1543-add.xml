@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_128aspace_ref1543</field>
+    <field name="ead_ssi">mss_128</field>
+    <field name="parent_ssi">aspace_ref34</field>
+    <field name="parent_ssm">aspace_ref32</field>
+    <field name="parent_ssm">aspace_ref34</field>
+    <field name="parent_unittitles_ssm">Series XI: Miscellaneous Video and Film</field>
+    <field name="parent_unittitles_ssm">Subseries B: Originals  (Video)</field>
+    <field name="parent_unittitles_teim">Series XI: Miscellaneous Video and Film</field>
+    <field name="parent_unittitles_teim">Subseries B: Originals  (Video)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_ssm">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_unitid_ssm">MSS.128</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Bob Kaufman @ Vesuvio 3/76</field>
+    <field name="unittitle_teim">Bob Kaufman @ Vesuvio 3/76</field>
+    <field name="unitid_teim">ID: 128.0745</field>
+    <field name="unitid_ssm">ID: 128.0745</field>
+    <field name="unitdate_teim">1976 (Taped)</field>
+    <field name="ref_ssi">aspace_ref1543</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 31, Media: ID: 128.0745</field>
+    <field name="location_ssm">Media: ID: 128.0745</field>
+    <field name="location_si">Media: ID: 128.0745</field>
+    <field name="collection_teim">Bob Holman Audio/Video Poetry Collection</field>
+    <field name="collection_unitid_teim">MSS.128</field>
+    <field name="series_sim">Series XI: Miscellaneous Video and Film</field>
+    <field name="series_sim">Subseries B: Originals  (Video)</field>
+    <field name="series_si">Series XI: Miscellaneous Video and Film &gt;&gt; Subseries B: Originals  (Video) &gt;&gt; Bob Kaufman @ Vesuvio 3/76</field>
+    <field name="heading_ssm">Bob Kaufman @ Vesuvio 3/76</field>
+    <field name="unitdate_ssm">1976 (Taped)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">848</field>
+  </doc>
+</add>

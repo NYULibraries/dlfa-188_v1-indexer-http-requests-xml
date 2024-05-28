@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_133aspace_ref3801</field>
+    <field name="ead_ssi">mss_133</field>
+    <field name="parent_ssi">aspace_ref1740</field>
+    <field name="parent_ssm">aspace_ref1632</field>
+    <field name="parent_ssm">aspace_ref1740</field>
+    <field name="parent_unittitles_ssm">Series IX: Video Recordings</field>
+    <field name="parent_unittitles_ssm">Subseries B: Video Recordings - Originals</field>
+    <field name="parent_unittitles_teim">Series IX: Video Recordings</field>
+    <field name="parent_unittitles_teim">Subseries B: Video Recordings - Originals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mabou Mines Archive</field>
+    <field name="collection_ssm">Mabou Mines Archive</field>
+    <field name="collection_unitid_ssm">MSS.133/repositories/3/resources/1696</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Worstward Ho!</field>
+    <field name="unittitle_teim">Worstward Ho!</field>
+    <field name="unitid_teim">ID: 133.0330</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/458775</field>
+    <field name="unitid_ssm">ID: 133.0330</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/458775</field>
+    <field name="unitdate_teim">1995</field>
+    <field name="phystech_teim">Video 8 mm</field>
+    <field name="ref_ssi">aspace_ref3801</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 156, Media: ID: 133.0330</field>
+    <field name="location_ssm">Media: ID: 133.0330</field>
+    <field name="location_si">Media: ID: 133.0330</field>
+    <field name="collection_teim">Mabou Mines Archive</field>
+    <field name="collection_unitid_teim">MSS.133/repositories/3/resources/1696</field>
+    <field name="series_sim">Series IX: Video Recordings</field>
+    <field name="series_sim">Subseries B: Video Recordings - Originals</field>
+    <field name="series_si">Series IX: Video Recordings &gt;&gt; Subseries B: Video Recordings - Originals &gt;&gt; Worstward Ho!</field>
+    <field name="heading_ssm">Worstward Ho!</field>
+    <field name="unitdate_ssm">1995</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2254</field>
+  </doc>
+</add>

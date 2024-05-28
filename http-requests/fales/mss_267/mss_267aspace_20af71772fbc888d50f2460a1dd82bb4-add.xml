@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_267aspace_20af71772fbc888d50f2460a1dd82bb4</field>
+    <field name="ead_ssi">mss_267</field>
+    <field name="parent_ssi">aspace_db2c21bc35e4fcf2ba55ab8a56d61550</field>
+    <field name="parent_ssm">aspace_db2c21bc35e4fcf2ba55ab8a56d61550</field>
+    <field name="parent_unittitles_ssm">Series IV. Film and Video Recordings</field>
+    <field name="parent_unittitles_teim">Series IV. Film and Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alan Sondheim Papers</field>
+    <field name="collection_ssm">Alan Sondheim Papers</field>
+    <field name="collection_unitid_ssm">MSS.267/repositories/3/resources/2604</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Flower&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Flower
+    </field>
+    <field name="unitid_teim">/repositories/3/archival_objects/931659</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/931659</field>
+    <field name="unitdate_normal_ssm">1980/2005</field>
+    <field name="unitdate_normal_teim">1980/2005</field>
+    <field name="unitdate_normal_sim">1980/2005</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="ref_ssi">aspace_20af71772fbc888d50f2460a1dd82bb4</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, VHS: 267_661</field>
+    <field name="location_ssm">VHS: 267_661</field>
+    <field name="location_ssm">Box: 10, Betamax: 267_755</field>
+    <field name="location_ssm">Betamax: 267_755</field>
+    <field name="location_si">Betamax: 267_755</field>
+    <field name="collection_teim">Alan Sondheim Papers</field>
+    <field name="collection_unitid_teim">MSS.267/repositories/3/resources/2604</field>
+    <field name="series_sim">Series IV. Film and Video Recordings</field>
+    <field name="series_si">Series IV. Film and Video Recordings &gt;&gt; 
+      &lt;em&gt;Flower&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Flower
+    </field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">2005</field>
+    <field name="unitdate_end_ssm">2005</field>
+    <field name="unitdate_end_si">2005</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1711</field>
+  </doc>
+</add>

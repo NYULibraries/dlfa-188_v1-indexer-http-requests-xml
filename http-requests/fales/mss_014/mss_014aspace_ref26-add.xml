@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_014aspace_ref26</field>
+    <field name="ead_ssi">mss_014</field>
+    <field name="parent_ssi">aspace_ref18</field>
+    <field name="parent_ssm">aspace_ref18</field>
+    <field name="parent_unittitles_ssm">Series II: Correspondence from others</field>
+    <field name="parent_unittitles_teim">Series II: Correspondence from others</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ghost Dance Archive</field>
+    <field name="collection_ssm">Ghost Dance Archive</field>
+    <field name="collection_unitid_ssm">MSS.014</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">&lt;strong&gt;Correspondence from: &lt;/strong&gt;Bellitt, BenThe Beloit Poetry JournalBeyond Baroque</field>
+    <field name="unittitle_teim">Correspondence from: Bellitt, BenThe Beloit Poetry JournalBeyond Baroque</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref26</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 14</field>
+    <field name="location_ssm">Folder: 14</field>
+    <field name="location_si">Folder: 14</field>
+    <field name="collection_teim">Ghost Dance Archive</field>
+    <field name="collection_unitid_teim">MSS.014</field>
+    <field name="series_sim">Series II: Correspondence from others</field>
+    <field name="series_si">Series II: Correspondence from others &gt;&gt; &lt;strong&gt;Correspondence from: &lt;/strong&gt;Bellitt, BenThe Beloit Poetry JournalBeyond Baroque</field>
+    <field name="heading_ssm">Correspondence from: Bellitt, BenThe Beloit Poetry JournalBeyond Baroque</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">16</field>
+  </doc>
+</add>

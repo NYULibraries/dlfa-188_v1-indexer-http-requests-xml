@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_335aspace_ref65</field>
+    <field name="ead_ssi">mss_335</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Series IV: Data Storage</field>
+    <field name="parent_unittitles_teim">Series IV: Data Storage</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dean Johnson Papers</field>
+    <field name="collection_ssm">Dean Johnson Papers</field>
+    <field name="collection_unitid_ssm">MSS.335</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Photos of Press Material</field>
+    <field name="unittitle_teim">Photos of Press Material</field>
+    <field name="unitid_teim">ID: 335.3.0001</field>
+    <field name="unitid_ssm">ID: 335.3.0001</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Format: CD-R</field>
+    <field name="ref_ssi">aspace_ref65</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Media: ID: 335.3.0001</field>
+    <field name="location_ssm">Media: ID: 335.3.0001</field>
+    <field name="location_si">Media: ID: 335.3.0001</field>
+    <field name="collection_teim">Dean Johnson Papers</field>
+    <field name="collection_unitid_teim">MSS.335</field>
+    <field name="series_sim">Series IV: Data Storage</field>
+    <field name="series_si">Series IV: Data Storage &gt;&gt; Photos of Press Material</field>
+    <field name="heading_ssm">Photos of Press Material</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

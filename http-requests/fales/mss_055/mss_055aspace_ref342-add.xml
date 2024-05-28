@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_055aspace_ref342</field>
+    <field name="ead_ssi">mss_055</field>
+    <field name="parent_ssi">aspace_ref305</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref305</field>
+    <field name="parent_unittitles_ssm">Series I: New York State</field>
+    <field name="parent_unittitles_ssm">Subseries C: Oversize Materials</field>
+    <field name="parent_unittitles_teim">Series I: New York State</field>
+    <field name="parent_unittitles_teim">Subseries C: Oversize Materials</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_ssm">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_ssm">MSS.055/repositories/3/resources/1638</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: De Lancey, James, 1686-1761.&lt;strong&gt;place&lt;/strong&gt;: New York</field>
+    <field name="unittitle_teim">creator: De Lancey, James, 1686-1761.place: New York</field>
+    <field name="unitid_teim">055-001-c-0219</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/404220</field>
+    <field name="unitid_ssm">055-001-c-0219</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/404220</field>
+    <field name="unitdate_teim">Jun 1, 1744</field>
+    <field name="name_teim">De Lancey, James, 1686-1761.</field>
+    <field name="name_teim">De Lancey, James, 1686-1761.</field>
+    <field name="name_ssm">De Lancey, James, 1686-1761.</field>
+    <field name="name_ssm">De Lancey, James, 1686-1761.</field>
+    <field name="dao_teim">creator: De Lancey, James, 1686-1761.place: New York: Jun 1, 1744</field>
+    <field name="dao_ssm">creator: De Lancey, James, 1686-1761.place: New York: Jun 1, 1744</field>
+    <field name="ref_ssi">aspace_ref342</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_teim">MSS.055/repositories/3/resources/1638</field>
+    <field name="series_sim">Series I: New York State</field>
+    <field name="series_sim">Subseries C: Oversize Materials</field>
+    <field name="series_si">Series I: New York State &gt;&gt; Subseries C: Oversize Materials &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: De Lancey, James, 1686-1761.&lt;strong&gt;place&lt;/strong&gt;: New York</field>
+    <field name="heading_ssm">creator: De Lancey, James, 1686-1761.place: New York</field>
+    <field name="unitdate_ssm">Jun 1, 1744</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">88</field>
+  </doc>
+</add>

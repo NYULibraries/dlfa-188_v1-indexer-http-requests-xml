@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref70</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref63</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref63</field>
+    <field name="parent_unittitles_ssm">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_ssm">Series B: Brinley Family </field>
+    <field name="parent_unittitles_teim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="parent_unittitles_teim">Series B: Brinley Family </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Legal Record with Notation</field>
+    <field name="unittitle_teim">Legal Record with Notation</field>
+    <field name="unitid_teim">cuid4800</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/507288</field>
+    <field name="unitid_ssm">cuid4800</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/507288</field>
+    <field name="unitdate_normal_ssm">1702/1702</field>
+    <field name="unitdate_normal_teim">1702/1702</field>
+    <field name="unitdate_normal_sim">1702/1702</field>
+    <field name="unitdate_inclusive_teim">1702 February 17, September 29 &amp; October 4</field>
+    <field name="scopecontent_teim">1 Deed of Sale / Indenture </field>
+    <field name="scopecontent_teim">Acquisition: Property in Newport, RI </field>
+    <field name="scopecontent_teim">Buyer: Francis Brinley</field>
+    <field name="scopecontent_teim">Sales Party: Captain Nathaniel Coddington, Merchant of Newport, RI</field>
+    <field name="scopecontent_teim">In Reference To: Business / Financial / Professional / Real Estate; [Certified by Isaac Martindale]; Houses of Samuel Wightman &amp; William [Mayo]; "Placed to record in the book of land evidences by Nathaniel Coddington, Register" ; "Sealed &amp; Delivered in the presence of William Coddington, Ann Coddington" </field>
+    <field name="scopecontent_teim">2 Parchment Pages, Mounted on Tissue</field>
+    <field name="scopecontent_teim">Handwritten in Ink &amp; Pencil </field>
+    <field name="scopecontent_teim">Measurements: 22" x 13"</field>
+    <field name="dao_teim">Legal Record with Notation: 1702 February 17, September 29 &amp; October 4</field>
+    <field name="dao_ssm">Legal Record with Notation: 1702 February 17, September 29 &amp; October 4</field>
+    <field name="ref_ssi">aspace_ref70</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 155, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
+    <field name="series_sim">Series B: Brinley Family </field>
+    <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series B: Brinley Family  &gt;&gt; Legal Record with Notation</field>
+    <field name="heading_ssm">Legal Record with Notation</field>
+    <field name="unitdate_start_sim">1702</field>
+    <field name="unitdate_start_ssm">1702</field>
+    <field name="unitdate_start_si">1702</field>
+    <field name="unitdate_end_sim">1702</field>
+    <field name="unitdate_end_ssm">1702</field>
+    <field name="unitdate_end_si">1702</field>
+    <field name="unitdate_ssm">Inclusive, 1702 February 17, September 29 &amp; October 4</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="sort_ii">54</field>
+  </doc>
+</add>

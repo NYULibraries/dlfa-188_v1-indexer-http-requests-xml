@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_136aspace_ref230</field>
+    <field name="ead_ssi">mss_136</field>
+    <field name="parent_ssi">aspace_ref229</field>
+    <field name="parent_ssm">aspace_ref229</field>
+    <field name="parent_unittitles_ssm">Series II: Book of the Month Club</field>
+    <field name="parent_unittitles_teim">Series II: Book of the Month Club</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Al Silverman Papers</field>
+    <field name="collection_ssm">Al Silverman Papers</field>
+    <field name="collection_unitid_ssm">MSS.136</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Paper Files</field>
+    <field name="unittitle_teim">Subseries A: Paper Files</field>
+    <field name="scopecontent_teim">This Subseries includes correspondence, annual reports, and memos from Silverman's tenure as CEO and chairman of Book of the Month Club.</field>
+    <field name="ref_ssi">aspace_ref230</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Al Silverman Papers</field>
+    <field name="collection_unitid_teim">MSS.136</field>
+    <field name="series_sim">Series II: Book of the Month Club</field>
+    <field name="series_si">Series II: Book of the Month Club &gt;&gt; Subseries A: Paper Files</field>
+    <field name="heading_ssm">Subseries A: Paper Files</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">225</field>
+  </doc>
+</add>

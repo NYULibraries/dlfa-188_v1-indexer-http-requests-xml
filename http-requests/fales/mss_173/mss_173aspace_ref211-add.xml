@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_173aspace_ref211</field>
+    <field name="ead_ssi">mss_173</field>
+    <field name="parent_ssi">aspace_ref176</field>
+    <field name="parent_ssm">aspace_ref176</field>
+    <field name="parent_unittitles_ssm">Series VII: Audio: Radio Tapes with Jacki Apple/Soundings</field>
+    <field name="parent_unittitles_teim">Series VII: Audio: Radio Tapes with Jacki Apple/Soundings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jacki Apple Papers</field>
+    <field name="collection_ssm">Jacki Apple Papers</field>
+    <field name="collection_unitid_ssm">MSS.173/repositories/3/resources/1731</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">A. Women Vocalists (recorded)</field>
+    <field name="unittitle_teim">A. Women Vocalists (recorded)</field>
+    <field name="unitid_teim">ID: 173.0079</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/490184</field>
+    <field name="unitid_ssm">ID: 173.0079</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/490184</field>
+    <field name="unitdate_normal_ssm">1995/1995</field>
+    <field name="unitdate_normal_teim">1995/1995</field>
+    <field name="unitdate_normal_sim">1995/1995</field>
+    <field name="unitdate_inclusive_teim">May 26, 1995</field>
+    <field name="phystech_teim">Duration: 61 minutes</field>
+    <field name="dao_teim">A. Women Vocalists (recorded)</field>
+    <field name="dao_ssm">A. Women Vocalists (recorded)</field>
+    <field name="ref_ssi">aspace_ref211</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, audiocassette: ID: 173.0079</field>
+    <field name="location_ssm">audiocassette: ID: 173.0079</field>
+    <field name="location_si">audiocassette: ID: 173.0079</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Jacki Apple Papers</field>
+    <field name="collection_unitid_teim">MSS.173/repositories/3/resources/1731</field>
+    <field name="series_sim">Series VII: Audio: Radio Tapes with Jacki Apple/Soundings</field>
+    <field name="series_si">Series VII: Audio: Radio Tapes with Jacki Apple/Soundings &gt;&gt; A. Women Vocalists (recorded)</field>
+    <field name="heading_ssm">A. Women Vocalists (recorded)</field>
+    <field name="unitdate_start_sim">1995</field>
+    <field name="unitdate_start_ssm">1995</field>
+    <field name="unitdate_start_si">1995</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, May 26, 1995</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">111</field>
+  </doc>
+</add>

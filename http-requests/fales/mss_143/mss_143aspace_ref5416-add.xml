@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_143aspace_ref5416</field>
+    <field name="ead_ssi">mss_143</field>
+    <field name="parent_ssi">aspace_ref5355</field>
+    <field name="parent_ssm">aspace_ref5355</field>
+    <field name="parent_unittitles_ssm">Oversize</field>
+    <field name="parent_unittitles_teim">Oversize</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Mix Collection</field>
+    <field name="collection_ssm">The Mix Collection</field>
+    <field name="collection_unitid_ssm">MSS.143/repositories/3/resources/1706</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Oversize Series IX, Subseries F: Special Programs</field>
+    <field name="unittitle_teim">Oversize Series IX, Subseries F: Special Programs</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/470452</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/470452</field>
+    <field name="ref_ssi">aspace_ref5416</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Mix Collection</field>
+    <field name="collection_unitid_teim">MSS.143/repositories/3/resources/1706</field>
+    <field name="series_sim">Oversize</field>
+    <field name="series_si">Oversize &gt;&gt; Oversize Series IX, Subseries F: Special Programs</field>
+    <field name="heading_ssm">Oversize Series IX, Subseries F: Special Programs</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3631</field>
+  </doc>
+</add>

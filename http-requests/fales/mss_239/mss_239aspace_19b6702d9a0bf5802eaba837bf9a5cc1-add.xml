@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_239aspace_19b6702d9a0bf5802eaba837bf9a5cc1</field>
+    <field name="ead_ssi">mss_239</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_ssm">Sabbateni 5 (formerly B.1)</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Sabbateni 5 (formerly B.1)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_ssm">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_ssm">MSS.239</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Tenor</field>
+    <field name="unittitle_teim">Tenor</field>
+    <field name="unitid_teim">cuid39007</field>
+    <field name="unitid_ssm">cuid39007</field>
+    <field name="dao_teim">Tenor</field>
+    <field name="dao_ssm">Tenor</field>
+    <field name="ref_ssi">aspace_19b6702d9a0bf5802eaba837bf9a5cc1</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11</field>
+    <field name="location_si">Box: 11</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">The Sabbateni Collection of Renaissance Music Manuscripts</field>
+    <field name="collection_unitid_teim">MSS.239</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_sim">Sabbateni 5 (formerly B.1)</field>
+    <field name="series_si">Bound Volumes &gt;&gt; Sabbateni 5 (formerly B.1) &gt;&gt; Tenor</field>
+    <field name="heading_ssm">Tenor</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">17</field>
+  </doc>
+</add>

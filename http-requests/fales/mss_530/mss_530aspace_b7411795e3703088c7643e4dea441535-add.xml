@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_530aspace_b7411795e3703088c7643e4dea441535</field>
+    <field name="ead_ssi">mss_530</field>
+    <field name="parent_ssi">aspace_5b153dd27e166af5dc246c82da73feeb</field>
+    <field name="parent_ssm">aspace_5b153dd27e166af5dc246c82da73feeb</field>
+    <field name="parent_unittitles_ssm">Series II. Articles - Reading</field>
+    <field name="parent_unittitles_teim">Series II. Articles - Reading</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Judith Braun Papers</field>
+    <field name="collection_ssm">Judith Braun Papers</field>
+    <field name="collection_unitid_ssm">MSS.530</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Psychology</field>
+    <field name="unittitle_teim">Psychology</field>
+    <field name="unitdate_normal_ssm">1992/1996</field>
+    <field name="unitdate_normal_teim">1992/1996</field>
+    <field name="unitdate_normal_sim">1992/1996</field>
+    <field name="unitdate_inclusive_teim">1992-1996</field>
+    <field name="ref_ssi">aspace_b7411795e3703088c7643e4dea441535</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Judith Braun Papers</field>
+    <field name="collection_unitid_teim">MSS.530</field>
+    <field name="series_sim">Series II. Articles - Reading</field>
+    <field name="series_si">Series II. Articles - Reading &gt;&gt; Psychology</field>
+    <field name="heading_ssm">Psychology</field>
+    <field name="unitdate_start_sim">1992</field>
+    <field name="unitdate_start_ssm">1992</field>
+    <field name="unitdate_start_si">1992</field>
+    <field name="unitdate_end_sim">1996</field>
+    <field name="unitdate_end_ssm">1996</field>
+    <field name="unitdate_end_si">1996</field>
+    <field name="unitdate_ssm">Inclusive, 1992-1996</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">90</field>
+  </doc>
+</add>

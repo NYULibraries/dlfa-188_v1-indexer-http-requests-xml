@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_340aspace_ref551</field>
+    <field name="ead_ssi">mss_340</field>
+    <field name="parent_ssi">aspace_ref98</field>
+    <field name="parent_ssm">aspace_ref98</field>
+    <field name="parent_unittitles_ssm">Series V: Data Storage</field>
+    <field name="parent_unittitles_teim">Series V: Data Storage</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Darinka Archive</field>
+    <field name="collection_ssm">Darinka Archive</field>
+    <field name="collection_unitid_ssm">MSS.340/repositories/3/resources/1841</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Play - early SOS</field>
+    <field name="unittitle_teim">Play - early SOS</field>
+    <field name="unitid_teim">cuid22009</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/562236</field>
+    <field name="unitid_ssm">cuid22009</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/562236</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="phystech_teim">Format: 5 1/4" DSDD Computer Disk</field>
+    <field name="ref_ssi">aspace_ref551</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10, disk: ID: 340.3.0008</field>
+    <field name="location_ssm">disk: ID: 340.3.0008</field>
+    <field name="location_si">disk: ID: 340.3.0008</field>
+    <field name="collection_teim">Darinka Archive</field>
+    <field name="collection_unitid_teim">MSS.340/repositories/3/resources/1841</field>
+    <field name="series_sim">Series V: Data Storage</field>
+    <field name="series_si">Series V: Data Storage &gt;&gt; Play - early SOS</field>
+    <field name="heading_ssm">Play - early SOS</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">307</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_506aspace_e21c07ab354282f1a27c5850c1759641</field>
+    <field name="ead_ssi">mss_506</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Artists Space Collection of Artist Files</field>
+    <field name="collection_ssm">Artists Space Collection of Artist Files</field>
+    <field name="collection_unitid_ssm">MSS.506</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Levine, Erik</field>
+    <field name="unittitle_teim">Levine, Erik</field>
+    <field name="unitdate_normal_ssm">1985/1986</field>
+    <field name="unitdate_normal_teim">1985/1986</field>
+    <field name="unitdate_normal_sim">1985/1986</field>
+    <field name="unitdate_inclusive_teim">1985-1986</field>
+    <field name="ref_ssi">aspace_e21c07ab354282f1a27c5850c1759641</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 61, Folder: 25</field>
+    <field name="location_ssm">Folder: 25</field>
+    <field name="location_si">Folder: 25</field>
+    <field name="collection_teim">Artists Space Collection of Artist Files</field>
+    <field name="collection_unitid_teim">MSS.506</field>
+    <field name="series_si">Levine, Erik</field>
+    <field name="heading_ssm">Levine, Erik</field>
+    <field name="unitdate_start_sim">1985</field>
+    <field name="unitdate_start_ssm">1985</field>
+    <field name="unitdate_start_si">1985</field>
+    <field name="unitdate_end_sim">1986</field>
+    <field name="unitdate_end_ssm">1986</field>
+    <field name="unitdate_end_si">1986</field>
+    <field name="unitdate_ssm">Inclusive, 1985-1986</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2417</field>
+  </doc>
+</add>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_368aspace_ref917</field>
+    <field name="ead_ssi">mss_368</field>
+    <field name="parent_ssi">aspace_ref1085</field>
+    <field name="parent_ssm">aspace_ref381</field>
+    <field name="parent_ssm">aspace_ref1085</field>
+    <field name="parent_unittitles_ssm">Series V: Printed Ephemera</field>
+    <field name="parent_unittitles_ssm">Subseries B: Print Ephemera</field>
+    <field name="parent_unittitles_teim">Series V: Printed Ephemera</field>
+    <field name="parent_unittitles_teim">Subseries B: Print Ephemera</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_ssm">MSS.368/repositories/3/resources/1861</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Alice in Wonderland Notecards</field>
+    <field name="unittitle_teim">Alice in Wonderland Notecards</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/578101</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/578101</field>
+    <field name="unitdate_teim">[Undated]</field>
+    <field name="scopecontent_teim">5 Alice in Wonderland Notecards with Christmas/New Year's greetings.  Titles include: The Arm in the Window, Who Stole the Tarts?, The Dodo Presents Alice with Her Prize, Oh Dear! Oh Dear! I shall be too Late, and The Baby Turns into a Pig.</field>
+    <field name="ref_ssi">aspace_ref917</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 36, Item: 23</field>
+    <field name="location_ssm">Item: 23</field>
+    <field name="location_si">Item: 23</field>
+    <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_teim">MSS.368/repositories/3/resources/1861</field>
+    <field name="series_sim">Series V: Printed Ephemera</field>
+    <field name="series_sim">Subseries B: Print Ephemera</field>
+    <field name="series_si">Series V: Printed Ephemera &gt;&gt; Subseries B: Print Ephemera &gt;&gt; Alice in Wonderland Notecards</field>
+    <field name="heading_ssm">Alice in Wonderland Notecards</field>
+    <field name="unitdate_ssm">[Undated]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">553</field>
+  </doc>
+</add>

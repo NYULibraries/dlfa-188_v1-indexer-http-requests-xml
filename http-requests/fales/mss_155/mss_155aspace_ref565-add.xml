@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_155aspace_ref565</field>
+    <field name="ead_ssi">mss_155</field>
+    <field name="parent_ssi">aspace_ref560</field>
+    <field name="parent_ssm">aspace_ref494</field>
+    <field name="parent_ssm">aspace_ref560</field>
+    <field name="parent_unittitles_ssm">Series II: Artists TV Network</field>
+    <field name="parent_unittitles_ssm">Subseries F: Financial materials</field>
+    <field name="parent_unittitles_teim">Series II: Artists TV Network</field>
+    <field name="parent_unittitles_teim">Subseries F: Financial materials</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jaime Davidovich Collection</field>
+    <field name="collection_ssm">Jaime Davidovich Collection</field>
+    <field name="collection_unitid_ssm">MSS.155/repositories/3/resources/1715</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">ATN Ledger.</field>
+    <field name="unittitle_teim">ATN Ledger.</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/478909</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/478909</field>
+    <field name="unitdate_teim">1980-1985</field>
+    <field name="ref_ssi">aspace_ref565</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14, Folder: data_value_missing_ad6f2cb1498d6c5aac1ffbf86c34832b</field>
+    <field name="location_ssm">Folder: data_value_missing_ad6f2cb1498d6c5aac1ffbf86c34832b</field>
+    <field name="location_si">Folder: data_value_missing_ad6f2cb1498d6c5aac1ffbf86c34832b</field>
+    <field name="collection_teim">Jaime Davidovich Collection</field>
+    <field name="collection_unitid_teim">MSS.155/repositories/3/resources/1715</field>
+    <field name="series_sim">Series II: Artists TV Network</field>
+    <field name="series_sim">Subseries F: Financial materials</field>
+    <field name="series_si">Series II: Artists TV Network &gt;&gt; Subseries F: Financial materials &gt;&gt; ATN Ledger.</field>
+    <field name="heading_ssm">ATN Ledger.</field>
+    <field name="unitdate_ssm">1980-1985</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">554</field>
+  </doc>
+</add>

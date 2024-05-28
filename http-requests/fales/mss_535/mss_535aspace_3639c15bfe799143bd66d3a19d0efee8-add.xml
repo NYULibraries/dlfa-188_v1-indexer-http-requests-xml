@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_535aspace_3639c15bfe799143bd66d3a19d0efee8</field>
+    <field name="ead_ssi">mss_535</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Homer L. Bartlett Medieval Manuscript Fragments</field>
+    <field name="collection_ssm">Homer L. Bartlett Medieval Manuscript Fragments</field>
+    <field name="collection_unitid_ssm">MSS.535/repositories/3/resources/2656</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Fragment 101</field>
+    <field name="unittitle_teim">Fragment 101</field>
+    <field name="unitid_teim">cuid29525</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/923098</field>
+    <field name="unitid_ssm">cuid29525</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/923098</field>
+    <field name="unitdate_normal_ssm">0990/1800</field>
+    <field name="unitdate_normal_teim">0990/1800</field>
+    <field name="unitdate_normal_sim">0990/1800</field>
+    <field name="unitdate_inclusive_teim">circa 990-1800</field>
+    <field name="dao_teim">Fragment 101: circa 990-1800</field>
+    <field name="dao_ssm">Fragment 101: circa 990-1800</field>
+    <field name="ref_ssi">aspace_3639c15bfe799143bd66d3a19d0efee8</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Fales 040, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Homer L. Bartlett Medieval Manuscript Fragments</field>
+    <field name="collection_unitid_teim">MSS.535/repositories/3/resources/2656</field>
+    <field name="series_si">Fragment 101</field>
+    <field name="heading_ssm">Fragment 101</field>
+    <field name="unitdate_start_sim">0990</field>
+    <field name="unitdate_start_ssm">0990</field>
+    <field name="unitdate_start_si">0990</field>
+    <field name="unitdate_end_sim">1800</field>
+    <field name="unitdate_end_ssm">1800</field>
+    <field name="unitdate_end_si">1800</field>
+    <field name="unitdate_ssm">Inclusive, circa 990-1800</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="sort_ii">87</field>
+  </doc>
+</add>

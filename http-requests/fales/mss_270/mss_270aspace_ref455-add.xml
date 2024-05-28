@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_270aspace_ref455</field>
+    <field name="ead_ssi">mss_270</field>
+    <field name="parent_ssi">aspace_ref18</field>
+    <field name="parent_ssm">aspace_ref18</field>
+    <field name="parent_unittitles_ssm">Series V: Messages to the Public</field>
+    <field name="parent_unittitles_teim">Series V: Messages to the Public</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Public Art Fund Archive</field>
+    <field name="collection_ssm">Public Art Fund Archive</field>
+    <field name="collection_unitid_ssm">MSS.270/repositories/3/resources/1796</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V.B: Administrative Files</field>
+    <field name="unittitle_teim">Subseries V.B: Administrative Files</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/535752</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/535752</field>
+    <field name="unitdate_normal_ssm">1981/1994</field>
+    <field name="unitdate_normal_teim">1981/1994</field>
+    <field name="unitdate_normal_sim">1981/1994</field>
+    <field name="unitdate_inclusive_teim">1982-1992</field>
+    <field name="scopecontent_teim">This series includes correspondence with and documentation of Spectacolor Inc., the activities of the selection panel, financial and budgeting information, and general publicity material.  This series also includes some of the background documentation on the compilation videotapes that the Public Art Fund made of various animations from Messages To The Public.</field>
+    <field name="ref_ssi">aspace_ref455</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Public Art Fund Archive</field>
+    <field name="collection_unitid_teim">MSS.270/repositories/3/resources/1796</field>
+    <field name="series_sim">Series V: Messages to the Public</field>
+    <field name="series_si">Series V: Messages to the Public &gt;&gt; Subseries V.B: Administrative Files</field>
+    <field name="heading_ssm">Subseries V.B: Administrative Files</field>
+    <field name="unitdate_start_sim">1981</field>
+    <field name="unitdate_start_ssm">1981</field>
+    <field name="unitdate_start_si">1981</field>
+    <field name="unitdate_end_sim">1994</field>
+    <field name="unitdate_end_ssm">1994</field>
+    <field name="unitdate_end_si">1994</field>
+    <field name="unitdate_ssm">Inclusive, 1982-1992</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">512</field>
+  </doc>
+</add>

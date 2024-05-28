@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_095aspace_ec41d6c4fbcc97cbc6f51977747f38ea</field>
+    <field name="ead_ssi">mss_095</field>
+    <field name="parent_ssi">aspace_10503eb4e82b6f59a85b097f5217ae47</field>
+    <field name="parent_ssm">aspace_10503eb4e82b6f59a85b097f5217ae47</field>
+    <field name="parent_unittitles_ssm">Series 3B: Correspondence to Remarque</field>
+    <field name="parent_unittitles_teim">Series 3B: Correspondence to Remarque</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erich Maria Remarque Papers</field>
+    <field name="collection_ssm">Erich Maria Remarque Papers</field>
+    <field name="collection_unitid_ssm">MSS.095/repositories/3/resources/1665</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Marlene Dietrich</field>
+    <field name="unittitle_teim">Marlene Dietrich</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/984649</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/984649</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ec41d6c4fbcc97cbc6f51977747f38ea</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 88, Folder: 114</field>
+    <field name="location_ssm">Folder: 114, Item: 21</field>
+    <field name="location_ssm">Item: 21</field>
+    <field name="location_si">Item: 21</field>
+    <field name="collection_teim">Erich Maria Remarque Papers</field>
+    <field name="collection_unitid_teim">MSS.095/repositories/3/resources/1665</field>
+    <field name="series_sim">Series 3B: Correspondence to Remarque</field>
+    <field name="series_si">Series 3B: Correspondence to Remarque &gt;&gt; Marlene Dietrich</field>
+    <field name="heading_ssm">Marlene Dietrich</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1851</field>
+  </doc>
+</add>

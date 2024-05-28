@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_414aspace_ref84</field>
+    <field name="ead_ssi">mss_414</field>
+    <field name="parent_ssi">aspace_ref5</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref5</field>
+    <field name="parent_unittitles_ssm">Series II: Performance</field>
+    <field name="parent_unittitles_ssm">Subseries A: Performances with Christopher Knowles</field>
+    <field name="parent_unittitles_teim">Series II: Performance</field>
+    <field name="parent_unittitles_teim">Subseries A: Performances with Christopher Knowles</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Christopher Knowles Papers</field>
+    <field name="collection_ssm">Christopher Knowles Papers</field>
+    <field name="collection_unitid_ssm">MSS.414/repositories/3/resources/1884</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Emily Likes the TV photographs</field>
+    <field name="unittitle_teim">Emily Likes the TV photographs</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/582605</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/582605</field>
+    <field name="unitdate_normal_ssm">1976/1977</field>
+    <field name="unitdate_normal_teim">1976/1977</field>
+    <field name="unitdate_normal_sim">1976/1977</field>
+    <field name="unitdate_inclusive_teim">1976-1977</field>
+    <field name="ref_ssi">aspace_ref84</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 32</field>
+    <field name="location_ssm">Folder: 32</field>
+    <field name="location_si">Folder: 32</field>
+    <field name="collection_teim">Christopher Knowles Papers</field>
+    <field name="collection_unitid_teim">MSS.414/repositories/3/resources/1884</field>
+    <field name="series_sim">Series II: Performance</field>
+    <field name="series_sim">Subseries A: Performances with Christopher Knowles</field>
+    <field name="series_si">Series II: Performance &gt;&gt; Subseries A: Performances with Christopher Knowles &gt;&gt; Emily Likes the TV photographs</field>
+    <field name="heading_ssm">Emily Likes the TV photographs</field>
+    <field name="unitdate_start_sim">1976</field>
+    <field name="unitdate_start_ssm">1976</field>
+    <field name="unitdate_start_si">1976</field>
+    <field name="unitdate_end_sim">1977</field>
+    <field name="unitdate_end_ssm">1977</field>
+    <field name="unitdate_end_si">1977</field>
+    <field name="unitdate_ssm">Inclusive, 1976-1977</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">49</field>
+  </doc>
+</add>

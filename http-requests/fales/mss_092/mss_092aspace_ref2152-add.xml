@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_092aspace_ref2152</field>
+    <field name="ead_ssi">mss_092</field>
+    <field name="parent_ssi">aspace_ref2149</field>
+    <field name="parent_ssm">aspace_ref2149</field>
+    <field name="parent_unittitles_ssm">Oversize - Series V: Art Magazines and Catalogue Contributions</field>
+    <field name="parent_unittitles_teim">Oversize - Series V: Art Magazines and Catalogue Contributions</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">David Wojnarowicz Papers</field>
+    <field name="collection_ssm">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B: Articles by Wojnarowicz</field>
+    <field name="unittitle_teim">Subseries B: Articles by Wojnarowicz</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/427002</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/427002</field>
+    <field name="ref_ssi">aspace_ref2152</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">David Wojnarowicz Papers</field>
+    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="series_sim">Oversize - Series V: Art Magazines and Catalogue Contributions</field>
+    <field name="series_si">Oversize - Series V: Art Magazines and Catalogue Contributions &gt;&gt; Subseries B: Articles by Wojnarowicz</field>
+    <field name="heading_ssm">Subseries B: Articles by Wojnarowicz</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2934</field>
+  </doc>
+</add>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_113aspace_ref527</field>
+    <field name="ead_ssi">mss_113</field>
+    <field name="parent_ssi">aspace_ref515</field>
+    <field name="parent_ssm">aspace_ref515</field>
+    <field name="parent_unittitles_ssm">Series VIII: Artwork</field>
+    <field name="parent_unittitles_teim">Series VIII: Artwork</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">REPOhistory Archive</field>
+    <field name="collection_ssm">REPOhistory Archive</field>
+    <field name="collection_unitid_ssm">MSS.113/repositories/3/resources/1678</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B: Lower Manhattan Sign Project</field>
+    <field name="unittitle_teim">Subseries B: Lower Manhattan Sign Project</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/441330</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/441330</field>
+    <field name="scopecontent_teim">All signs are printed on the front and back. In cases in which text appears on both sides it is noted in the transcription, otherwise the text appears only on the back. All signs end with one or two boxed questions in the lower left corner on the back with the sign number and the REPOhistory logo in the lower right corner. Note: For this project, the archive does not have a copy of sign number 35.</field>
+    <field name="ref_ssi">aspace_ref527</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">REPOhistory Archive</field>
+    <field name="collection_unitid_teim">MSS.113/repositories/3/resources/1678</field>
+    <field name="series_sim">Series VIII: Artwork</field>
+    <field name="series_si">Series VIII: Artwork &gt;&gt; Subseries B: Lower Manhattan Sign Project</field>
+    <field name="heading_ssm">Subseries B: Lower Manhattan Sign Project</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">516</field>
+  </doc>
+</add>

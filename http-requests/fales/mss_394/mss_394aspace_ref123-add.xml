@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_394aspace_ref123</field>
+    <field name="ead_ssi">mss_394</field>
+    <field name="parent_ssi">aspace_ref6</field>
+    <field name="parent_ssm">aspace_ref6</field>
+    <field name="parent_unittitles_ssm">Series II: Zines, Ephemera, and Catalogs</field>
+    <field name="parent_unittitles_teim">Series II: Zines, Ephemera, and Catalogs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Elena Humphreys Riot Grrrl Collection</field>
+    <field name="collection_ssm">Elena Humphreys Riot Grrrl Collection</field>
+    <field name="collection_unitid_ssm">MSS.394</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Vagina</field>
+    <field name="unittitle_teim">Vagina</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref123</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 25</field>
+    <field name="location_ssm">Folder: 25</field>
+    <field name="location_si">Folder: 25</field>
+    <field name="collection_teim">Elena Humphreys Riot Grrrl Collection</field>
+    <field name="collection_unitid_teim">MSS.394</field>
+    <field name="series_sim">Series II: Zines, Ephemera, and Catalogs</field>
+    <field name="series_si">Series II: Zines, Ephemera, and Catalogs &gt;&gt; Vagina</field>
+    <field name="heading_ssm">Vagina</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">118</field>
+  </doc>
+</add>

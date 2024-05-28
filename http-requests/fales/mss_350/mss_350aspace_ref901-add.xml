@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_350aspace_ref901</field>
+    <field name="ead_ssi">mss_350</field>
+    <field name="parent_ssi">aspace_ref848</field>
+    <field name="parent_ssm">aspace_ref846</field>
+    <field name="parent_ssm">aspace_ref848</field>
+    <field name="parent_unittitles_ssm">Series V: Commercially Released Media</field>
+    <field name="parent_unittitles_ssm">Subseries A: Sound Recordings</field>
+    <field name="parent_unittitles_teim">Series V: Commercially Released Media</field>
+    <field name="parent_unittitles_teim">Subseries A: Sound Recordings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Malcolm Goldstein Papers</field>
+    <field name="collection_ssm">Malcolm Goldstein Papers</field>
+    <field name="collection_unitid_ssm">MSS.350/repositories/3/resources/1849</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"Musicworks 78: Gesture and Interaction"</field>
+    <field name="unittitle_teim">"Musicworks 78: Gesture and Interaction"</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/574817</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/574817</field>
+    <field name="unitdate_normal_ssm">2000/2000</field>
+    <field name="unitdate_normal_teim">2000/2000</field>
+    <field name="unitdate_normal_sim">2000/2000</field>
+    <field name="unitdate_inclusive_teim">2000</field>
+    <field name="scopecontent_teim">Contents: "From Configurations in darkness : (1995) / composed and performed by Malcolm Goldstein (12:43) -- Trousseau--True nature : (2000). Excerpts from improvisations, Bridle party ; Teacups ; Wild birds ; Chapel hum / by Urge -- Parallels : (1998) / composed and performed by Rob Wannamaker (8:20) -- It were another : (1998) / composed and performed by Malcolm Goldstein (10:28) -- Lullaby for Daisy Pauline : (1979) / by Pauline Oliveros (2:28) -- Improvisations for piano and extensions : (2000) / composed and performed by David Cronkite (13:08)."</field>
+    <field name="phystech_teim">Original format: (1 sound disc) digital 4 3/4 in.</field>
+    <field name="ref_ssi">aspace_ref901</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 38</field>
+    <field name="location_si">Box: 38</field>
+    <field name="collection_teim">Malcolm Goldstein Papers</field>
+    <field name="collection_unitid_teim">MSS.350/repositories/3/resources/1849</field>
+    <field name="series_sim">Series V: Commercially Released Media</field>
+    <field name="series_sim">Subseries A: Sound Recordings</field>
+    <field name="series_si">Series V: Commercially Released Media &gt;&gt; Subseries A: Sound Recordings &gt;&gt; "Musicworks 78: Gesture and Interaction"</field>
+    <field name="heading_ssm">"Musicworks 78: Gesture and Interaction"</field>
+    <field name="unitdate_start_sim">2000</field>
+    <field name="unitdate_start_ssm">2000</field>
+    <field name="unitdate_start_si">2000</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 2000</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">884</field>
+  </doc>
+</add>

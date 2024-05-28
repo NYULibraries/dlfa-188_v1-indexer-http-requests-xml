@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_208aspace_ref1793</field>
+    <field name="ead_ssi">mss_208</field>
+    <field name="parent_ssi">aspace_ref1792</field>
+    <field name="parent_ssm">aspace_ref1792</field>
+    <field name="parent_unittitles_ssm">Record Group III: Gardiner Family</field>
+    <field name="parent_unittitles_teim">Record Group III: Gardiner Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sylvester Manor Archive</field>
+    <field name="collection_ssm">Sylvester Manor Archive</field>
+    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Series A: Samuel Smith Gardiner</field>
+    <field name="unittitle_teim">Series A: Samuel Smith Gardiner</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/509002</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/509002</field>
+    <field name="scopecontent_teim">Record Group III, Series A pertains to Samuel Smith Gardiner's personal and professional life in which it includes correspondence, financial records, legal papers, and printed materials in the form of government and political circulars, newspapers, and religious manuscripts. In addition, Record Group III, Series A includes David Gardiner professional papers. </field>
+    <field name="scopecontent_teim">
+      Selected printed materials have been removed to Fales Special Collections and cataloged. Please search Bobcat to locate these items.
+    </field>
+    <field name="bioghist_teim">Son of Captain Abraham Gardiner (1763 - 1796) and Phebe Dayton, Samuel Smith Gardiner (1789 - 1859) was a member of the prominent and wealthy Gardiner family, who traced their ancestry to early settler Lion Gardiner. Samuel Smith Gardiner was educated at Williams College in Massachusetts, managed the Shelter Island estate, and practiced law in Suffolk County and larger New York. Gardiner was one of the secretaries of the NY State Constitutional Convention of 1821, and a member of the NY State Legislature from 1823-1824. Gardiner wed Mary Catherine L'Hommedieu on August 7, 1823. Debt forced the Dering Family to place the Sylvester Manor estate at auction and Samuel Smith Gardiner purchased the manor house and 578 acres for $10,400. Samuel Smith Gardiner and Mary Catherine L'Hommedieu Gardiner's three daughters Mary L'Hommedieu Gardiner, Phoebe Dayton Gardiner, and Frances Eliza Gardiner would later inherit Samuel's estate. After Mary Catherine L'Hommedieu Gardiner passed away on January 28, 1838, Samuel Smith Gardiner married Susan F. Mott in the mid-1840s, the daughter of Henry Franklin and the widow of William W. Mott. Samuel Smith Gardiner passed away on March 21, 1859.</field>
+    <field name="bioghist_teim">Samuel Smith Gardiner business management records in the form of accounts, bills, deeds, estate documents, and statements are included in the Horsford Family Papers (1681-1954) at the Rensselaer Institute Archives and Special Collections in Troy, NY.  </field>
+    <field name="ref_ssi">aspace_ref1793</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sylvester Manor Archive</field>
+    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="series_sim">Record Group III: Gardiner Family</field>
+    <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series A: Samuel Smith Gardiner</field>
+    <field name="heading_ssm">Series A: Samuel Smith Gardiner</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1768</field>
+  </doc>
+</add>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_213aspace_ref740</field>
+    <field name="ead_ssi">mss_213</field>
+    <field name="parent_ssi">aspace_ref1366</field>
+    <field name="parent_ssm">aspace_ref1669</field>
+    <field name="parent_ssm">aspace_ref1366</field>
+    <field name="parent_unittitles_ssm">Series II: Video recordings / Film</field>
+    <field name="parent_unittitles_ssm">Subseries A: Video Works</field>
+    <field name="parent_unittitles_teim">Series II: Video recordings / Film</field>
+    <field name="parent_unittitles_teim">Subseries A: Video Works</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Peter Dougherty Collection</field>
+    <field name="collection_ssm">Peter Dougherty Collection</field>
+    <field name="collection_unitid_ssm">MSS.213/repositories/3/resources/1756</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Stevie Wonder Tape 3</field>
+    <field name="unittitle_teim">Stevie Wonder Tape 3</field>
+    <field name="unitid_teim">ID: 213.0354</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/513806</field>
+    <field name="unitid_ssm">ID: 213.0354</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/513806</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="scopecontent_teim">Content: Crew talking after performance. Stevie Wonder does not appear on the disc.</field>
+    <field name="phystech_teim">Format: 8mm Videocassette</field>
+    <field name="phystech_teim">Tape Length: 60 minutes</field>
+    <field name="ref_ssi">aspace_ref740</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9</field>
+    <field name="location_ssm">case: 213.0354</field>
+    <field name="location_si">case: 213.0354</field>
+    <field name="collection_teim">Peter Dougherty Collection</field>
+    <field name="collection_unitid_teim">MSS.213/repositories/3/resources/1756</field>
+    <field name="series_sim">Series II: Video recordings / Film</field>
+    <field name="series_sim">Subseries A: Video Works</field>
+    <field name="series_si">Series II: Video recordings / Film &gt;&gt; Subseries A: Video Works &gt;&gt; Stevie Wonder Tape 3</field>
+    <field name="heading_ssm">Stevie Wonder Tape 3</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">436</field>
+  </doc>
+</add>

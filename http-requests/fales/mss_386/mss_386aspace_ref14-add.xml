@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_386aspace_ref14</field>
+    <field name="ead_ssi">mss_386</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Art Practice</field>
+    <field name="parent_unittitles_teim">Series I: Art Practice</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Linda Mary Montano Papers</field>
+    <field name="collection_ssm">Linda Mary Montano Papers</field>
+    <field name="collection_unitid_ssm">MSS.386/repositories/3/resources/1872</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries E: Press</field>
+    <field name="unittitle_teim">Subseries E: Press</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/579908</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/579908</field>
+    <field name="scopecontent_teim">This subseries tracks press about Montano's career from the 1970s to the early 2000s. It includes promotional postcards, advertisements, and press releases. It also contains newspaper clippings, reviews and articles written about her art and performances, from publications like High Performance Magazine to the New York Times.</field>
+    <field name="ref_ssi">aspace_ref14</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Linda Mary Montano Papers</field>
+    <field name="collection_unitid_teim">MSS.386/repositories/3/resources/1872</field>
+    <field name="series_sim">Series I: Art Practice</field>
+    <field name="series_si">Series I: Art Practice &gt;&gt; Subseries E: Press</field>
+    <field name="heading_ssm">Subseries E: Press</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">426</field>
+  </doc>
+</add>

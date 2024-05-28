@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_095aspace_6f61062547356e909a9c4e5ea5c275f9</field>
+    <field name="ead_ssi">mss_095</field>
+    <field name="parent_ssi">aspace_15a53c15a4adb346cb19d1beb03424a0</field>
+    <field name="parent_ssm">aspace_15a53c15a4adb346cb19d1beb03424a0</field>
+    <field name="parent_unittitles_ssm">Series 1: Manuscripts</field>
+    <field name="parent_unittitles_teim">Series 1: Manuscripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erich Maria Remarque Papers</field>
+    <field name="collection_ssm">Erich Maria Remarque Papers</field>
+    <field name="collection_unitid_ssm">MSS.095/repositories/3/resources/1665</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Songs von K. Z." -- working manuscript</field>
+    <field name="unittitle_teim">"Songs von K. Z." -- working manuscript</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/983499</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/983499</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_6f61062547356e909a9c4e5ea5c275f9</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 82, Folder: 260</field>
+    <field name="location_ssm">Folder: 260, Item: 38</field>
+    <field name="location_ssm">Item: 38</field>
+    <field name="location_si">Item: 38</field>
+    <field name="collection_teim">Erich Maria Remarque Papers</field>
+    <field name="collection_unitid_teim">MSS.095/repositories/3/resources/1665</field>
+    <field name="series_sim">Series 1: Manuscripts</field>
+    <field name="series_si">Series 1: Manuscripts &gt;&gt; "Songs von K. Z." -- working manuscript</field>
+    <field name="heading_ssm">"Songs von K. Z." -- working manuscript</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">704</field>
+  </doc>
+</add>

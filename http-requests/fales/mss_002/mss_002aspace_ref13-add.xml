@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_002aspace_ref13</field>
+    <field name="ead_ssi">mss_002</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series I: Diaries</field>
+    <field name="parent_unittitles_teim">Series I: Diaries</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Elizabeth Robins Papers</field>
+    <field name="collection_ssm">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_ssm">MSS.002/repositories/3/resources/1587</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Diaries</field>
+    <field name="unittitle_teim">Subseries A: Diaries</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/387039</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/387039</field>
+    <field name="scopecontent_teim">This subseries consists of Robins's diaries from the time she was fourteen years old (1876) to the last year of her life (1952). This subseries is remarkably complete with the exception of the 1890's.</field>
+    <field name="scopecontent_teim">Robins did not always write lengthy diary entries, but she wrote often, which allows one to piece together many of her activities over the years. Sometimes she would skip days of writing in her diaries, then compensate for those periods by filling in the blank pages from memory. </field>
+    <field name="ref_ssi">aspace_ref13</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Elizabeth Robins Papers</field>
+    <field name="collection_unitid_teim">MSS.002/repositories/3/resources/1587</field>
+    <field name="series_sim">Series I: Diaries</field>
+    <field name="series_si">Series I: Diaries &gt;&gt; Subseries A: Diaries</field>
+    <field name="heading_ssm">Subseries A: Diaries</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

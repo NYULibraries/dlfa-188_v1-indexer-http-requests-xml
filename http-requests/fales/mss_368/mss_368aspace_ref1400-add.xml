@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_368aspace_ref1400</field>
+    <field name="ead_ssi">mss_368</field>
+    <field name="parent_ssi">aspace_ref1115</field>
+    <field name="parent_ssm">aspace_ref1114</field>
+    <field name="parent_ssm">aspace_ref1115</field>
+    <field name="parent_unittitles_ssm">Oversize Series V: Printed Ephemera</field>
+    <field name="parent_unittitles_ssm">Subseries B: Print Ephemera</field>
+    <field name="parent_unittitles_teim">Oversize Series V: Printed Ephemera</field>
+    <field name="parent_unittitles_teim">Subseries B: Print Ephemera</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_ssm">MSS.368/repositories/3/resources/1861</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Alice in Wonderland Prints</field>
+    <field name="unittitle_teim">Alice in Wonderland Prints</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/578474</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/578474</field>
+    <field name="unitdate_teim">[Undated]</field>
+    <field name="scopecontent_teim">Title: Alice in Wonderland Prints</field>
+    <field name="scopecontent_teim">Description: 1. Alice in Wonderland Poster.  2. Alice in Wonderland Poster. 3. Production of Alice in Wonderland at the "Teatr Rozmaitosci W.Warszawie". 4. Cheshire Cat Poster "We Are All Mad."  5. 3 Posters with sketches of Alice in Wonderland Characters. 6. Alice's Tea Party Poster. 7. 4 Posters with Alice in Wonderland Scenes. 8.Cheshire Cat Poster "We Are All Mad".</field>
+    <field name="scopecontent_teim">Dimensions: 1. 36.25"x24.75". 2. 36.25"x24.75". 3. 37"x25" 4. 34.5"x23" 5. 23"x17.5" 6. 23.5"x17.5". 7. 35"x25.5". 8. 34.5"x23"</field>
+    <field name="ref_ssi">aspace_ref1400</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
+    <field name="collection_unitid_teim">MSS.368/repositories/3/resources/1861</field>
+    <field name="series_sim">Oversize Series V: Printed Ephemera</field>
+    <field name="series_sim">Subseries B: Print Ephemera</field>
+    <field name="series_si">Oversize Series V: Printed Ephemera &gt;&gt; Subseries B: Print Ephemera &gt;&gt; Alice in Wonderland Prints</field>
+    <field name="heading_ssm">Alice in Wonderland Prints</field>
+    <field name="unitdate_ssm">[Undated]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">933</field>
+  </doc>
+</add>

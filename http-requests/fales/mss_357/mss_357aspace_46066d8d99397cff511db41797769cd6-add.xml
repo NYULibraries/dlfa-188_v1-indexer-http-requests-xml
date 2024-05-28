@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_357aspace_46066d8d99397cff511db41797769cd6</field>
+    <field name="ead_ssi">mss_357</field>
+    <field name="parent_ssi">aspace_ref2061</field>
+    <field name="parent_ssm">aspace_ref2061</field>
+    <field name="parent_unittitles_ssm">Series II: Film</field>
+    <field name="parent_unittitles_teim">Series II: Film</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Nelson Sullivan Video Collection</field>
+    <field name="collection_ssm">Nelson Sullivan Video Collection</field>
+    <field name="collection_unitid_ssm">MSS.357</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Unidentified Film #14</field>
+    <field name="unittitle_teim">Unidentified Film #14</field>
+    <field name="unitid_teim">cuid6966</field>
+    <field name="unitid_ssm">cuid6966</field>
+    <field name="unitdate_bulk_teim">undated</field>
+    <field name="scopecontent_teim">Film begins with footage shot in darkness, showing a lit light bulb, a raging fire, and the lights of emergency vehicles. Second half is daylight footage shot in Nelson's apartment, showing interiors, and shots from the window of pedestrians, men urinating on a wall, foliage, and neighboring buildings. There is a brief shot of Blackout lounging on the floor.</field>
+    <field name="phystech_teim">Original format: Super 8mm film, Duration: 4 min.</field>
+    <field name="ref_ssi">aspace_46066d8d99397cff511db41797769cd6</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Film: cuid6966</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: mss357_cuid6966</field>
+    <field name="location_ssm">file: mss357_cuid6966</field>
+    <field name="location_si">file: mss357_cuid6966</field>
+    <field name="collection_teim">Nelson Sullivan Video Collection</field>
+    <field name="collection_unitid_teim">MSS.357</field>
+    <field name="series_sim">Series II: Film</field>
+    <field name="series_si">Series II: Film &gt;&gt; Unidentified Film #14</field>
+    <field name="heading_ssm">Unidentified Film #14</field>
+    <field name="unitdate_ssm">Inclusive,  ; undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">640</field>
+  </doc>
+</add>

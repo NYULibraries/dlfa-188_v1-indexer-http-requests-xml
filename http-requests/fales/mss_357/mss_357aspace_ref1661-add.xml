@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_357aspace_ref1661</field>
+    <field name="ead_ssi">mss_357</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Video recordings</field>
+    <field name="parent_unittitles_teim">Series I: Video recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Nelson Sullivan Video Collection</field>
+    <field name="collection_ssm">Nelson Sullivan Video Collection</field>
+    <field name="collection_unitid_ssm">MSS.357</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Monologue in Grenwich Village for First Cable Show, Bill Moye &amp;amp; Blackout at Pier (Nelson's last tape)</field>
+    <field name="unittitle_teim">Monologue in Grenwich Village for First Cable Show, Bill Moye &amp; Blackout at Pier (Nelson's last tape)</field>
+    <field name="unitid_teim">ID: 357.0485</field>
+    <field name="unitid_ssm">ID: 357.0485</field>
+    <field name="unitdate_normal_ssm">1989/1989</field>
+    <field name="unitdate_normal_teim">1989/1989</field>
+    <field name="unitdate_normal_sim">1989/1989</field>
+    <field name="unitdate_inclusive_teim">July 1989</field>
+    <field name="scopecontent_teim">[1] -- Monologue in Grenwich Village for First Cable Show, 7/2/1989 [2] -- Bill Moye &amp; Blackout at Pier (Nelson's last tape), 7/3/1989</field>
+    <field name="phystech_teim">Original format: Video8mm</field>
+    <field name="dao_teim">Monologue in Grenwich Village for First Cable Show, Bill Moye &amp; Blackout at Pier (Nelson's last tape)</field>
+    <field name="dao_ssm">Monologue in Grenwich Village for First Cable Show, Bill Moye &amp; Blackout at Pier (Nelson's last tape)</field>
+    <field name="ref_ssi">aspace_ref1661</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14, Media: ID: 357.0485</field>
+    <field name="location_ssm">Media: ID: 357.0485</field>
+    <field name="location_ssm">case: 357.0485</field>
+    <field name="location_si">case: 357.0485</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Nelson Sullivan Video Collection</field>
+    <field name="collection_unitid_teim">MSS.357</field>
+    <field name="series_sim">Series I: Video recordings</field>
+    <field name="series_si">Series I: Video recordings &gt;&gt; Monologue in Grenwich Village for First Cable Show, Bill Moye &amp;amp; Blackout at Pier (Nelson's last tape)</field>
+    <field name="heading_ssm">Monologue in Grenwich Village for First Cable Show, Bill Moye &amp; Blackout at Pier (Nelson's last tape)</field>
+    <field name="unitdate_start_sim">1989</field>
+    <field name="unitdate_start_ssm">1989</field>
+    <field name="unitdate_start_si">1989</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, July 1989</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">481</field>
+  </doc>
+</add>

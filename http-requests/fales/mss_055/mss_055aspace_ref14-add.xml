@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_055aspace_ref14</field>
+    <field name="ead_ssi">mss_055</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series I: New York State</field>
+    <field name="parent_unittitles_teim">Series I: New York State</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_ssm">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_ssm">MSS.055/repositories/3/resources/1638</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Letters and Documents</field>
+    <field name="unittitle_teim">Subseries A: Letters and Documents</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/404134</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/404134</field>
+    <field name="scopecontent_teim">Series I: Subseries A contains two legal boxes of letters and documents dating from the early settlement of New York by the Dutch through the late eighteenth century. These documents range from records of everyday life in both the Dutch and British colonies to contemporary descriptions of significant historical and political events affecting the colonies and the new state. This subseries also contains numerous documents relating to the Revolutionary War in New York State, including an eyewitness account of the British invasion of New York City in 1776 by Mrs. A. Hampton.</field>
+    <field name="ref_ssi">aspace_ref14</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Richard Maass Westchester and New York State History Collection</field>
+    <field name="collection_unitid_teim">MSS.055/repositories/3/resources/1638</field>
+    <field name="series_sim">Series I: New York State</field>
+    <field name="series_si">Series I: New York State &gt;&gt; Subseries A: Letters and Documents</field>
+    <field name="heading_ssm">Subseries A: Letters and Documents</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

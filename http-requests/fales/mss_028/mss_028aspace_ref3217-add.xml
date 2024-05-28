@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_028aspace_ref3217</field>
+    <field name="ead_ssi">mss_028</field>
+    <field name="parent_ssi">aspace_ref3187</field>
+    <field name="parent_ssm">aspace_ref3187</field>
+    <field name="parent_unittitles_ssm">Series VII: Oversize</field>
+    <field name="parent_unittitles_teim">Series VII: Oversize</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Levy Dime Novel Collection</field>
+    <field name="collection_ssm">Levy Dime Novel Collection</field>
+    <field name="collection_unitid_ssm">MSS.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;strong&gt;Series Title&lt;/strong&gt;: The Metropolitan Magazine&lt;strong&gt;City&lt;/strong&gt;: New Haven&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Other Notes&lt;/strong&gt;: republished by Peck and Newton&lt;strong&gt;Date&lt;/strong&gt;: 1835</field>
+    <field name="unittitle_teim">Series Title: The Metropolitan MagazineCity: New HavenFormat: hard coverOther Notes: republished by Peck and NewtonDate: 1835</field>
+    <field name="unitdate_normal_ssm">1835/1835</field>
+    <field name="unitdate_normal_teim">1835/1835</field>
+    <field name="unitdate_normal_sim">1835/1835</field>
+    <field name="unitdate_inclusive_teim">1835</field>
+    <field name="ref_ssi">aspace_ref3217</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 164, Folder: 2778</field>
+    <field name="location_ssm">Folder: 2778</field>
+    <field name="location_si">Folder: 2778</field>
+    <field name="collection_teim">Levy Dime Novel Collection</field>
+    <field name="collection_unitid_teim">MSS.028</field>
+    <field name="series_sim">Series VII: Oversize</field>
+    <field name="series_si">Series VII: Oversize &gt;&gt; &lt;strong&gt;Series Title&lt;/strong&gt;: The Metropolitan Magazine&lt;strong&gt;City&lt;/strong&gt;: New Haven&lt;strong&gt;Format&lt;/strong&gt;: hard cover&lt;strong&gt;Other Notes&lt;/strong&gt;: republished by Peck and Newton&lt;strong&gt;Date&lt;/strong&gt;: 1835</field>
+    <field name="heading_ssm">Series Title: The Metropolitan MagazineCity: New HavenFormat: hard coverOther Notes: republished by Peck and NewtonDate: 1835</field>
+    <field name="unitdate_start_sim">1835</field>
+    <field name="unitdate_start_ssm">1835</field>
+    <field name="unitdate_start_si">1835</field>
+    <field name="unitdate_end_sim">1835</field>
+    <field name="unitdate_end_ssm">1835</field>
+    <field name="unitdate_end_si">1835</field>
+    <field name="unitdate_ssm">Inclusive, 1835</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">3513</field>
+  </doc>
+</add>

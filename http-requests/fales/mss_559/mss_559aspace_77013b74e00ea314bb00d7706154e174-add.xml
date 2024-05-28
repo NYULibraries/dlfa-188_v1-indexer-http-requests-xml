@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mss_559aspace_77013b74e00ea314bb00d7706154e174</field>
+    <field name="ead_ssi">mss_559</field>
+    <field name="parent_ssi">aspace_bcc7648aaedf5790dcd16afa7028ad1d</field>
+    <field name="parent_ssm">aspace_bcc7648aaedf5790dcd16afa7028ad1d</field>
+    <field name="parent_unittitles_ssm">Series II. Ostraka</field>
+    <field name="parent_unittitles_teim">Series II. Ostraka</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Collection of Papyri, Ostraka, and Cuneiform Tablets</field>
+    <field name="collection_ssm">New York University Collection of Papyri, Ostraka, and Cuneiform Tablets</field>
+    <field name="collection_unitid_ssm">MSS.559</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ostracon: O.NYU inv 046</field>
+    <field name="unittitle_teim">Ostracon: O.NYU inv 046</field>
+    <field name="unitid_teim">cuid32732</field>
+    <field name="unitid_ssm">cuid32732</field>
+    <field name="dao_teim">Ostracon: O.NYU inv 046</field>
+    <field name="dao_ssm">Ostracon: O.NYU inv 046</field>
+    <field name="ref_ssi">aspace_77013b74e00ea314bb00d7706154e174</field>
+    <field name="repository_ssi">fales</field>
+    <field name="repository_sim">fales</field>
+    <field name="repository_ssm">fales</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 50, Item: O.NYU inv 046</field>
+    <field name="location_ssm">Item: O.NYU inv 046</field>
+    <field name="location_si">Item: O.NYU inv 046</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Collection of Papyri, Ostraka, and Cuneiform Tablets</field>
+    <field name="collection_unitid_teim">MSS.559</field>
+    <field name="series_sim">Series II. Ostraka</field>
+    <field name="series_si">Series II. Ostraka &gt;&gt; Ostracon: O.NYU inv 046</field>
+    <field name="heading_ssm">Ostracon: O.NYU inv 046</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2390</field>
+  </doc>
+</add>
