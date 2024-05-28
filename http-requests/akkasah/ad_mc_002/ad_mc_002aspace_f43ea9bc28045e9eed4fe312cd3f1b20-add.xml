@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ad_mc_002aspace_f43ea9bc28045e9eed4fe312cd3f1b20</field>
+    <field name="ead_ssi">ad_mc_002</field>
+    <field name="parent_ssi">aspace_ref179_s78</field>
+    <field name="parent_ssm">aspace_ref179_s78</field>
+    <field name="parent_unittitles_ssm">Series II: Egypt</field>
+    <field name="parent_unittitles_teim">Series II: Egypt</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Yasser Alwan Collection</field>
+    <field name="collection_ssm">Yasser Alwan Collection</field>
+    <field name="collection_unitid_ssm">AD.MC.002</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Nurse Series</field>
+    <field name="unittitle_teim">Nurse Series</field>
+    <field name="unitid_teim">1403</field>
+    <field name="unitid_ssm">1403</field>
+    <field name="unitdate_teim"> </field>
+    <field name="ref_ssi">aspace_f43ea9bc28045e9eed4fe312cd3f1b20</field>
+    <field name="repository_ssi">akkasah</field>
+    <field name="repository_sim">akkasah</field>
+    <field name="repository_ssm">akkasah</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Yasser Alwan Collection</field>
+    <field name="collection_unitid_teim">AD.MC.002</field>
+    <field name="series_sim">Series II: Egypt</field>
+    <field name="series_si">Series II: Egypt &gt;&gt; Nurse Series</field>
+    <field name="heading_ssm">Nurse Series</field>
+    <field name="unitdate_ssm"> </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">180</field>
+  </doc>
+</add>
