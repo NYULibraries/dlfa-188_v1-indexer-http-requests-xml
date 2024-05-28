@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ad_mc_010aspace_ref17_8py</field>
+    <field name="ead_ssi">ad_mc_010</field>
+    <field name="parent_ssi">aspace_ref22_g5l</field>
+    <field name="parent_ssm">aspace_ref22_g5l</field>
+    <field name="parent_unittitles_ssm">Ephemera</field>
+    <field name="parent_unittitles_teim">Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Chris Kutschera Ephemera Collection</field>
+    <field name="collection_ssm">Chris Kutschera Ephemera Collection</field>
+    <field name="collection_unitid_ssm">AD.MC.010</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">USSR - 1</field>
+    <field name="unittitle_teim">USSR - 1</field>
+    <field name="unitdate_normal_ssm">1979/1989</field>
+    <field name="unitdate_normal_teim">1979/1989</field>
+    <field name="unitdate_normal_sim">1979/1989</field>
+    <field name="unitdate_inclusive_teim">1979-1989, undated</field>
+    <field name="scopecontent_teim">1. "Intourist: U.S.S.R.  Voyages Organisés," booklet with pricing tables, 1989.
+2. "Boukhara," 12 postcards with case, 1979.
+3. "Intourist: Mary," booklet, unknown.
+4. "Intourist: Centres touristiques de l'U.S.S.R.," booklet, unknown.
+5. "The Guide Baku," booklet, unknown.
+6. "Intourist: Visit Soviet Turkmenia," pamphlet, unknown.
+7. "Intourist: Avec Intourist en Asie Centrale et au Kazakhstan," brochure, unknown.
+8. "Intourist: Visitez la Lituanie Soviétique!," brochure, unknown.
+9. "Intourist: L'Asie Centrale Et Le Kazakhstan," brochure, unknown, 2 copies.
+10. "Intourist: Découvrez l'Ouzbékistan soviétique," brochure, unknown, 2 copies.</field>
+    <field name="ref_ssi">aspace_ref17_8py</field>
+    <field name="repository_ssi">nyuad</field>
+    <field name="repository_sim">nyuad</field>
+    <field name="repository_ssm">nyuad</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 3, folder: 3</field>
+    <field name="location_ssm">folder: 3</field>
+    <field name="location_si">folder: 3</field>
+    <field name="collection_teim">Chris Kutschera Ephemera Collection</field>
+    <field name="collection_unitid_teim">AD.MC.010</field>
+    <field name="series_sim">Ephemera</field>
+    <field name="series_si">Ephemera &gt;&gt; USSR - 1</field>
+    <field name="heading_ssm">USSR - 1</field>
+    <field name="unitdate_start_sim">1979</field>
+    <field name="unitdate_start_ssm">1979</field>
+    <field name="unitdate_start_si">1979</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, 1979-1989, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">46</field>
+  </doc>
+</add>

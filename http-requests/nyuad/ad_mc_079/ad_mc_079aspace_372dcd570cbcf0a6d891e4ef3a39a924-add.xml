@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ad_mc_079aspace_372dcd570cbcf0a6d891e4ef3a39a924</field>
+    <field name="ead_ssi">ad_mc_079</field>
+    <field name="parent_ssi">aspace_222600d6b0c6985241944904480539dc</field>
+    <field name="parent_ssm">aspace_222600d6b0c6985241944904480539dc</field>
+    <field name="parent_unittitles_ssm">Sharjah Art Foundation</field>
+    <field name="parent_unittitles_teim">Sharjah Art Foundation</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Woodman Taylor collection</field>
+    <field name="collection_ssm">Woodman Taylor collection</field>
+    <field name="collection_unitid_ssm">AD.MC.079</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">General</field>
+    <field name="unittitle_teim">General</field>
+    <field name="unitdate_normal_ssm">2015/2019</field>
+    <field name="unitdate_normal_teim">2015/2019</field>
+    <field name="unitdate_normal_sim">2015/2019</field>
+    <field name="unitdate_inclusive_teim">2015-2019</field>
+    <field name="ref_ssi">aspace_372dcd570cbcf0a6d891e4ef3a39a924</field>
+    <field name="repository_ssi">nyuad</field>
+    <field name="repository_sim">nyuad</field>
+    <field name="repository_ssm">nyuad</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Woodman Taylor collection</field>
+    <field name="collection_unitid_teim">AD.MC.079</field>
+    <field name="series_sim">Sharjah Art Foundation</field>
+    <field name="series_si">Sharjah Art Foundation &gt;&gt; General</field>
+    <field name="heading_ssm">General</field>
+    <field name="unitdate_start_sim">2015</field>
+    <field name="unitdate_start_ssm">2015</field>
+    <field name="unitdate_start_si">2015</field>
+    <field name="unitdate_end_sim">2019</field>
+    <field name="unitdate_end_ssm">2019</field>
+    <field name="unitdate_end_si">2019</field>
+    <field name="unitdate_ssm">Inclusive, 2015-2019</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ad_mc_010aspace_ref4_nxo</field>
+    <field name="ead_ssi">ad_mc_010</field>
+    <field name="parent_ssi">aspace_ref22_g5l</field>
+    <field name="parent_ssm">aspace_ref22_g5l</field>
+    <field name="parent_unittitles_ssm">Ephemera</field>
+    <field name="parent_unittitles_teim">Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Chris Kutschera Ephemera Collection</field>
+    <field name="collection_ssm">Chris Kutschera Ephemera Collection</field>
+    <field name="collection_unitid_ssm">AD.MC.010</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Iran</field>
+    <field name="unittitle_teim">Iran</field>
+    <field name="unitdate_normal_ssm">2000/2000</field>
+    <field name="unitdate_normal_teim">2000/2000</field>
+    <field name="unitdate_normal_sim">2000/2000</field>
+    <field name="unitdate_inclusive_teim">2000, undated</field>
+    <field name="scopecontent_teim">1. "Tazieh, Festival d'automne à Paris, 22 Septembre - 5 Octobre 2000," festival guide, 2000.
+2. "Iran-Iraq War postcards," 39 postcards with case, c. 1993.
+3. "Urman-e-Takht postcards," 12 postcards with case, unknown.</field>
+    <field name="ref_ssi">aspace_ref4_nxo</field>
+    <field name="repository_ssi">nyuad</field>
+    <field name="repository_sim">nyuad</field>
+    <field name="repository_ssm">nyuad</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 2, folder: 14</field>
+    <field name="location_ssm">folder: 14</field>
+    <field name="location_si">folder: 14</field>
+    <field name="collection_teim">Chris Kutschera Ephemera Collection</field>
+    <field name="collection_unitid_teim">AD.MC.010</field>
+    <field name="series_sim">Ephemera</field>
+    <field name="series_si">Ephemera &gt;&gt; Iran</field>
+    <field name="heading_ssm">Iran</field>
+    <field name="unitdate_start_sim">2000</field>
+    <field name="unitdate_start_ssm">2000</field>
+    <field name="unitdate_start_si">2000</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 2000, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">35</field>
+  </doc>
+</add>

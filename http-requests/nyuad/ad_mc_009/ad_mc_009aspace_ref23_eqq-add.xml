@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ad_mc_009aspace_ref23_eqq</field>
+    <field name="ead_ssi">ad_mc_009</field>
+    <field name="parent_ssi">aspace_ref22_8ot</field>
+    <field name="parent_ssm">aspace_ref22_8ot</field>
+    <field name="parent_unittitles_ssm">Series III: Palestine Royal Commission</field>
+    <field name="parent_unittitles_teim">Series III: Palestine Royal Commission</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Max Kreutzberger Palestine collection</field>
+    <field name="collection_ssm">Max Kreutzberger Palestine collection</field>
+    <field name="collection_unitid_ssm">AD.MC.009</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Official Documents</field>
+    <field name="unittitle_teim">Subseries A: Official Documents</field>
+    <field name="ref_ssi">aspace_ref23_eqq</field>
+    <field name="repository_ssi">nyuad</field>
+    <field name="repository_sim">nyuad</field>
+    <field name="repository_ssm">nyuad</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Max Kreutzberger Palestine collection</field>
+    <field name="collection_unitid_teim">AD.MC.009</field>
+    <field name="series_sim">Series III: Palestine Royal Commission</field>
+    <field name="series_si">Series III: Palestine Royal Commission &gt;&gt; Subseries A: Official Documents</field>
+    <field name="heading_ssm">Subseries A: Official Documents</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">21</field>
+  </doc>
+</add>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ad_mc_022aspace_19408162080bdf53377b0c19b066e6c9</field>
+    <field name="ead_ssi">ad_mc_022</field>
+    <field name="parent_ssi">aspace_d21ae02403d25b1f28360c170e38a0d5</field>
+    <field name="parent_ssm">aspace_ref195_r4x</field>
+    <field name="parent_ssm">aspace_d21ae02403d25b1f28360c170e38a0d5</field>
+    <field name="parent_unittitles_ssm">ICWA records</field>
+    <field name="parent_unittitles_ssm">Permissions</field>
+    <field name="parent_unittitles_teim">ICWA records</field>
+    <field name="parent_unittitles_teim">Permissions</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Salwa Mikdadi papers</field>
+    <field name="collection_ssm">Salwa Mikdadi papers</field>
+    <field name="collection_unitid_ssm">AD.MC.022</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Greenwillow Books (Naomi Nye)</field>
+    <field name="unittitle_teim">Greenwillow Books (Naomi Nye)</field>
+    <field name="unitdate_normal_ssm">2001/2002</field>
+    <field name="unitdate_normal_teim">2001/2002</field>
+    <field name="unitdate_normal_sim">2001/2002</field>
+    <field name="unitdate_inclusive_teim">2001-2002</field>
+    <field name="ref_ssi">aspace_19408162080bdf53377b0c19b066e6c9</field>
+    <field name="repository_ssi">nyuad</field>
+    <field name="repository_sim">nyuad</field>
+    <field name="repository_ssm">nyuad</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 34, folder: 7</field>
+    <field name="location_ssm">folder: 7</field>
+    <field name="location_si">folder: 7</field>
+    <field name="collection_teim">Salwa Mikdadi papers</field>
+    <field name="collection_unitid_teim">AD.MC.022</field>
+    <field name="series_sim">ICWA records</field>
+    <field name="series_sim">Permissions</field>
+    <field name="series_si">ICWA records &gt;&gt; Permissions &gt;&gt; Greenwillow Books (Naomi Nye)</field>
+    <field name="heading_ssm">Greenwillow Books (Naomi Nye)</field>
+    <field name="unitdate_start_sim">2001</field>
+    <field name="unitdate_start_ssm">2001</field>
+    <field name="unitdate_start_si">2001</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 2001-2002</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">974</field>
+  </doc>
+</add>
