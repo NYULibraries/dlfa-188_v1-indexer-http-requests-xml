@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_034aspace_ref42_lx6</field>
+    <field name="ead_ssi">poly_rg_034</field>
+    <field name="parent_ssi">aspace_ref33_tgq</field>
+    <field name="parent_ssm">aspace_ref33_tgq</field>
+    <field name="parent_unittitles_ssm">Series II: Faculty</field>
+    <field name="parent_unittitles_teim">Series II: Faculty</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Polytechnic Marketing and Communications CD Image Collection</field>
+    <field name="collection_ssm">Polytechnic Marketing and Communications CD Image Collection</field>
+    <field name="collection_unitid_ssm">RG.034</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Chao</field>
+    <field name="unittitle_teim">Chao</field>
+    <field name="unitdate_normal_ssm">2008/2008</field>
+    <field name="unitdate_normal_teim">2008/2008</field>
+    <field name="unitdate_normal_sim">2008/2008</field>
+    <field name="unitdate_inclusive_teim">2008</field>
+    <field name="ref_ssi">aspace_ref42_lx6</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 1, disk: 53</field>
+    <field name="location_ssm">disk: 53</field>
+    <field name="location_si">disk: 53</field>
+    <field name="collection_teim">Polytechnic Marketing and Communications CD Image Collection</field>
+    <field name="collection_unitid_teim">RG.034</field>
+    <field name="series_sim">Series II: Faculty</field>
+    <field name="series_si">Series II: Faculty &gt;&gt; Chao</field>
+    <field name="heading_ssm">Chao</field>
+    <field name="unitdate_start_sim">2008</field>
+    <field name="unitdate_start_ssm">2008</field>
+    <field name="unitdate_start_si">2008</field>
+    <field name="unitdate_end_sim">2008</field>
+    <field name="unitdate_end_ssm">2008</field>
+    <field name="unitdate_end_si">2008</field>
+    <field name="unitdate_ssm">Inclusive, 2008</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

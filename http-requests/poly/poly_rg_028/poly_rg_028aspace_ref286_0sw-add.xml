@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_028aspace_ref286_0sw</field>
+    <field name="ead_ssi">poly_rg_028</field>
+    <field name="parent_ssi">aspace_ref285_evs</field>
+    <field name="parent_ssm">aspace_ref285_evs</field>
+    <field name="parent_unittitles_ssm">E</field>
+    <field name="parent_unittitles_teim">E</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Portrait Collection</field>
+    <field name="collection_ssm">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_ssm">RG.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Eaton, George S.</field>
+    <field name="unittitle_teim">Eaton, George S.</field>
+    <field name="unitid_teim">cuid1242</field>
+    <field name="unitid_ssm">cuid1242</field>
+    <field name="unitdate_teim">1952, 1954, 1955</field>
+    <field name="dao_teim">Eaton, George S.: 1952, 1954, 1955</field>
+    <field name="dao_ssm">Eaton, George S.: 1952, 1954, 1955</field>
+    <field name="ref_ssi">aspace_ref286_0sw</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 3, folder: 1</field>
+    <field name="location_ssm">folder: 1</field>
+    <field name="location_si">folder: 1</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_teim">RG.028</field>
+    <field name="series_sim">E</field>
+    <field name="series_si">E &gt;&gt; Eaton, George S.</field>
+    <field name="heading_ssm">Eaton, George S.</field>
+    <field name="unitdate_ssm">1952, 1954, 1955</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">288</field>
+  </doc>
+</add>

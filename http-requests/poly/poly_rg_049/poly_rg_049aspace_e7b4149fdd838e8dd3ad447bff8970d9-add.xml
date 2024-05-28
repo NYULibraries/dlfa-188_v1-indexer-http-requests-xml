@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_049aspace_e7b4149fdd838e8dd3ad447bff8970d9</field>
+    <field name="ead_ssi">poly_rg_049</field>
+    <field name="parent_ssi">aspace_6add0dec41a980dfca88661e4ac6965a</field>
+    <field name="parent_ssm">aspace_6add0dec41a980dfca88661e4ac6965a</field>
+    <field name="parent_unittitles_ssm">Series VI: Publications</field>
+    <field name="parent_unittitles_teim">Series VI: Publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Hellmut Juretschke Papers</field>
+    <field name="collection_ssm">Hellmut Juretschke Papers</field>
+    <field name="collection_unitid_ssm">RG.049</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series C: Poetry and Memoir</field>
+    <field name="unittitle_teim">Sub-series C: Poetry and Memoir</field>
+    <field name="unitdate_normal_ssm">2013/2018</field>
+    <field name="unitdate_normal_teim">2013/2018</field>
+    <field name="unitdate_normal_sim">2013/2018</field>
+    <field name="unitdate_inclusive_teim">2013-2018</field>
+    <field name="ref_ssi">aspace_e7b4149fdd838e8dd3ad447bff8970d9</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Hellmut Juretschke Papers</field>
+    <field name="collection_unitid_teim">RG.049</field>
+    <field name="series_sim">Series VI: Publications</field>
+    <field name="series_si">Series VI: Publications &gt;&gt; Sub-series C: Poetry and Memoir</field>
+    <field name="heading_ssm">Sub-series C: Poetry and Memoir</field>
+    <field name="unitdate_start_sim">2013</field>
+    <field name="unitdate_start_ssm">2013</field>
+    <field name="unitdate_start_si">2013</field>
+    <field name="unitdate_end_sim">2018</field>
+    <field name="unitdate_end_ssm">2018</field>
+    <field name="unitdate_end_si">2018</field>
+    <field name="unitdate_ssm">Inclusive, 2013-2018</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">174</field>
+  </doc>
+</add>

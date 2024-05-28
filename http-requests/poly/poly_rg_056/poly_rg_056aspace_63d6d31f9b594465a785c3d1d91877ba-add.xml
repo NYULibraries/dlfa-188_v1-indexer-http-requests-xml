@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_056aspace_63d6d31f9b594465a785c3d1d91877ba</field>
+    <field name="ead_ssi">poly_rg_056</field>
+    <field name="parent_ssi">aspace_808d7ab017130fc9a059dbdab673fc43</field>
+    <field name="parent_ssm">aspace_808d7ab017130fc9a059dbdab673fc43</field>
+    <field name="parent_unittitles_ssm">Series XI: Shelf 11</field>
+    <field name="parent_unittitles_teim">Series XI: Shelf 11</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Frame Rack</field>
+    <field name="collection_ssm">Poly Archives Frame Rack</field>
+    <field name="collection_unitid_ssm">RG.056</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Library Portrait of Frederick Washington Atkinson</field>
+    <field name="unittitle_teim">Library Portrait of Frederick Washington Atkinson</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_63d6d31f9b594465a785c3d1d91877ba</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">bin: 11, frame: 1</field>
+    <field name="location_ssm">frame: 1</field>
+    <field name="location_si">frame: 1</field>
+    <field name="collection_teim">Poly Archives Frame Rack</field>
+    <field name="collection_unitid_teim">RG.056</field>
+    <field name="series_sim">Series XI: Shelf 11</field>
+    <field name="series_si">Series XI: Shelf 11 &gt;&gt; Library Portrait of Frederick Washington Atkinson</field>
+    <field name="heading_ssm">Library Portrait of Frederick Washington Atkinson</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">132</field>
+  </doc>
+</add>

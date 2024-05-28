@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_011aspace_ref8_k0a</field>
+    <field name="ead_ssi">poly_rg_011</field>
+    <field name="parent_ssi">aspace_eeec8a465f87d448b1dbb7f91cec87db</field>
+    <field name="parent_ssm">aspace_eeec8a465f87d448b1dbb7f91cec87db</field>
+    <field name="parent_unittitles_ssm">Series I: Vintage Equipment</field>
+    <field name="parent_unittitles_teim">Series I: Vintage Equipment</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Vintage Equipment Collection</field>
+    <field name="collection_ssm">Vintage Equipment Collection</field>
+    <field name="collection_unitid_ssm">RG.011</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Book Binding Stapler: Acme Stapling Co., Camden, NJ</field>
+    <field name="unittitle_teim">Book Binding Stapler: Acme Stapling Co., Camden, NJ</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref8_k0a</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">object: 1</field>
+    <field name="location_si">object: 1</field>
+    <field name="collection_teim">Vintage Equipment Collection</field>
+    <field name="collection_unitid_teim">RG.011</field>
+    <field name="series_sim">Series I: Vintage Equipment</field>
+    <field name="series_si">Series I: Vintage Equipment &gt;&gt; Book Binding Stapler: Acme Stapling Co., Camden, NJ</field>
+    <field name="heading_ssm">Book Binding Stapler: Acme Stapling Co., Camden, NJ</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

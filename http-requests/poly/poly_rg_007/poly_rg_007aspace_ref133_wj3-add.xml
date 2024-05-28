@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_007aspace_ref133_wj3</field>
+    <field name="ead_ssi">poly_rg_007</field>
+    <field name="parent_ssi">aspace_ref4_4bm</field>
+    <field name="parent_ssm">aspace_ref353_v4y</field>
+    <field name="parent_ssm">aspace_ref4_4bm</field>
+    <field name="parent_unittitles_ssm">Series II: Subject Files</field>
+    <field name="parent_unittitles_ssm">Subseries B: MetroTech Center</field>
+    <field name="parent_unittitles_teim">Series II: Subject Files</field>
+    <field name="parent_unittitles_teim">Subseries B: MetroTech Center</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Administrative Papers of Chancellor George Bugliarello</field>
+    <field name="collection_ssm">Administrative Papers of Chancellor George Bugliarello</field>
+    <field name="collection_unitid_ssm">RG.007</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Funding</field>
+    <field name="unittitle_teim">Funding</field>
+    <field name="unitdate_normal_ssm">1988/1989</field>
+    <field name="unitdate_normal_teim">1988/1989</field>
+    <field name="unitdate_normal_sim">1988/1989</field>
+    <field name="unitdate_inclusive_teim">1988 January - 1989 February</field>
+    <field name="ref_ssi">aspace_ref133_wj3</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 26, folder: 16</field>
+    <field name="location_ssm">folder: 16</field>
+    <field name="location_si">folder: 16</field>
+    <field name="collection_teim">Administrative Papers of Chancellor George Bugliarello</field>
+    <field name="collection_unitid_teim">RG.007</field>
+    <field name="series_sim">Series II: Subject Files</field>
+    <field name="series_sim">Subseries B: MetroTech Center</field>
+    <field name="series_si">Series II: Subject Files &gt;&gt; Subseries B: MetroTech Center &gt;&gt; Funding</field>
+    <field name="heading_ssm">Funding</field>
+    <field name="unitdate_start_sim">1988</field>
+    <field name="unitdate_start_ssm">1988</field>
+    <field name="unitdate_start_si">1988</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, 1988 January - 1989 February</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1210</field>
+  </doc>
+</add>

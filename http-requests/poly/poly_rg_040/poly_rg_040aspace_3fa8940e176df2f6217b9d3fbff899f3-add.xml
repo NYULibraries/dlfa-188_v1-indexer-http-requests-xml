@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_040aspace_3fa8940e176df2f6217b9d3fbff899f3</field>
+    <field name="ead_ssi">poly_rg_040</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ready Reference Collection</field>
+    <field name="collection_ssm">Ready Reference Collection</field>
+    <field name="collection_unitid_ssm">RG.040</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">INTERNAL CONTROLS</field>
+    <field name="unittitle_teim">INTERNAL CONTROLS</field>
+    <field name="unitdate_normal_ssm">2006/2006</field>
+    <field name="unitdate_normal_teim">2006/2006</field>
+    <field name="unitdate_normal_sim">2006/2006</field>
+    <field name="unitdate_teim">2006</field>
+    <field name="ref_ssi">aspace_3fa8940e176df2f6217b9d3fbff899f3</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">drawer: 2, folder: 68</field>
+    <field name="location_ssm">folder: 68</field>
+    <field name="location_si">folder: 68</field>
+    <field name="collection_teim">Ready Reference Collection</field>
+    <field name="collection_unitid_teim">RG.040</field>
+    <field name="series_si">INTERNAL CONTROLS</field>
+    <field name="heading_ssm">INTERNAL CONTROLS</field>
+    <field name="unitdate_start_sim">2006</field>
+    <field name="unitdate_start_ssm">2006</field>
+    <field name="unitdate_start_si">2006</field>
+    <field name="unitdate_end_sim">2006</field>
+    <field name="unitdate_end_ssm">2006</field>
+    <field name="unitdate_end_si">2006</field>
+    <field name="unitdate_ssm">2006</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">145</field>
+  </doc>
+</add>

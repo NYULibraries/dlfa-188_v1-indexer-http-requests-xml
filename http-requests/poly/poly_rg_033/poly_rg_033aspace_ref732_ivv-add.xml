@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_033aspace_ref732_ivv</field>
+    <field name="ead_ssi">poly_rg_033</field>
+    <field name="parent_ssi">aspace_ref731_tm7</field>
+    <field name="parent_ssm">aspace_ref731_tm7</field>
+    <field name="parent_unittitles_ssm">Series VII: Oversize</field>
+    <field name="parent_unittitles_teim">Series VII: Oversize</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ernst Weber Collection</field>
+    <field name="collection_ssm">Ernst Weber Collection</field>
+    <field name="collection_unitid_ssm">RG.033</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Scientific American</field>
+    <field name="unittitle_teim">Scientific American</field>
+    <field name="unitdate_teim">1845 August 28</field>
+    <field name="ref_ssi">aspace_ref732_ivv</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 32, folder: 1</field>
+    <field name="location_ssm">folder: 1</field>
+    <field name="location_si">folder: 1</field>
+    <field name="collection_teim">Ernst Weber Collection</field>
+    <field name="collection_unitid_teim">RG.033</field>
+    <field name="series_sim">Series VII: Oversize</field>
+    <field name="series_si">Series VII: Oversize &gt;&gt; Scientific American</field>
+    <field name="heading_ssm">Scientific American</field>
+    <field name="unitdate_ssm">1845 August 28</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">751</field>
+  </doc>
+</add>

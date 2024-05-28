@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Megan Bardis</field>
+    <field name="author_ssm">Megan Bardis</field>
+    <field name="unittitle_teim">Poly Archives Frame Rack</field>
+    <field name="unittitle_ssm">Poly Archives Frame Rack</field>
+    <field name="unitid_teim">RG.056</field>
+    <field name="unitid_ssm">RG.056</field>
+    <field name="unitdate_normal_ssm">1848/2011</field>
+    <field name="unitdate_normal_teim">1848/2011</field>
+    <field name="unitdate_normal_sim">1848/2011</field>
+    <field name="unitdate_inclusive_teim">1848-2011</field>
+    <field name="scopecontent_teim">The Poly Frame Rack contains material from 1848 to 2011. This material includes photographs, portraits, plaques, proclamations, drawings, and diplomas. Shelf 1 and 5 include materials that are accessioned into the Herman Mark Papers, Shelf 2 includes materials that are accessioned into the Ernst Weber Papers, Shelf 6 includes materials that are accessioned into the Administrative Papers of the President and Chancellor George Bugliariello, and Shelf 5 and 8 include materials that are accessioned into the Jerry Hutlin Papers. The Poly Archives Frame Rack is located in the Poly Archives at Bern Dibner Library of Science and Technology.</field>
+    <field name="corpname_teim">Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</field>
+    <field name="corpname_ssm">Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</field>
+    <field name="collection_sim">Poly Archives Frame Rack</field>
+    <field name="collection_ssm">Poly Archives Frame Rack</field>
+    <field name="collection_teim">Poly Archives Frame Rack</field>
+    <field name="id">poly_rg_056</field>
+    <field name="ead_ssi">poly_rg_056</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="heading_ssm">Poly Archives Frame Rack</field>
+    <field name="unitdate_start_sim">1848</field>
+    <field name="unitdate_start_ssm">1848</field>
+    <field name="unitdate_start_si">1848</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, 1848-2011</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">2001-2100</field>
+  </doc>
+</add>

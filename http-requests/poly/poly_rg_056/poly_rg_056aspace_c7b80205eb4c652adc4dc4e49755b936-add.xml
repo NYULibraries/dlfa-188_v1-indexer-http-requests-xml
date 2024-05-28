@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_056aspace_c7b80205eb4c652adc4dc4e49755b936</field>
+    <field name="ead_ssi">poly_rg_056</field>
+    <field name="parent_ssi">aspace_e6b1f4a7a6c3e9c741d194741421eb88</field>
+    <field name="parent_ssm">aspace_e6b1f4a7a6c3e9c741d194741421eb88</field>
+    <field name="parent_unittitles_ssm">Series X: Shelf 10</field>
+    <field name="parent_unittitles_teim">Series X: Shelf 10</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Frame Rack</field>
+    <field name="collection_ssm">Poly Archives Frame Rack</field>
+    <field name="collection_unitid_ssm">RG.056</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Brooklyn Sanitary Fair Drawing</field>
+    <field name="unittitle_teim">Brooklyn Sanitary Fair Drawing</field>
+    <field name="unitdate_normal_ssm">1864/1864</field>
+    <field name="unitdate_normal_teim">1864/1864</field>
+    <field name="unitdate_normal_sim">1864/1864</field>
+    <field name="unitdate_teim">1864</field>
+    <field name="ref_ssi">aspace_c7b80205eb4c652adc4dc4e49755b936</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">bin: 10, frame: 7</field>
+    <field name="location_ssm">frame: 7</field>
+    <field name="location_si">frame: 7</field>
+    <field name="collection_teim">Poly Archives Frame Rack</field>
+    <field name="collection_unitid_teim">RG.056</field>
+    <field name="series_sim">Series X: Shelf 10</field>
+    <field name="series_si">Series X: Shelf 10 &gt;&gt; Brooklyn Sanitary Fair Drawing</field>
+    <field name="heading_ssm">Brooklyn Sanitary Fair Drawing</field>
+    <field name="unitdate_start_sim">1864</field>
+    <field name="unitdate_start_ssm">1864</field>
+    <field name="unitdate_start_si">1864</field>
+    <field name="unitdate_end_sim">1864</field>
+    <field name="unitdate_end_ssm">1864</field>
+    <field name="unitdate_end_si">1864</field>
+    <field name="unitdate_ssm">1864</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">125</field>
+  </doc>
+</add>

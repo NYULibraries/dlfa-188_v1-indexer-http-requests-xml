@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_049aspace_56baede64f256c167703313abb97febb</field>
+    <field name="ead_ssi">poly_rg_049</field>
+    <field name="parent_ssi">aspace_c0c88c023b5bb4dac5495ba70b638f5b</field>
+    <field name="parent_ssm">aspace_6b935a71e41faf11809e8f61c5f06775</field>
+    <field name="parent_ssm">aspace_c0c88c023b5bb4dac5495ba70b638f5b</field>
+    <field name="parent_unittitles_ssm">Series V: Paul Peter Ewald</field>
+    <field name="parent_unittitles_ssm">Sub-series D: Other Publications</field>
+    <field name="parent_unittitles_teim">Series V: Paul Peter Ewald</field>
+    <field name="parent_unittitles_teim">Sub-series D: Other Publications</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hellmut Juretschke Papers</field>
+    <field name="collection_ssm">Hellmut Juretschke Papers</field>
+    <field name="collection_unitid_ssm">RG.049</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ewald I - Reprints</field>
+    <field name="unittitle_teim">Ewald I - Reprints</field>
+    <field name="unitdate_normal_ssm">1937/1938</field>
+    <field name="unitdate_normal_teim">1937/1938</field>
+    <field name="unitdate_normal_sim">1937/1938</field>
+    <field name="unitdate_inclusive_teim">1937-1938</field>
+    <field name="ref_ssi">aspace_56baede64f256c167703313abb97febb</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 11, folder: 4</field>
+    <field name="location_ssm">folder: 4</field>
+    <field name="location_si">folder: 4</field>
+    <field name="collection_teim">Hellmut Juretschke Papers</field>
+    <field name="collection_unitid_teim">RG.049</field>
+    <field name="series_sim">Series V: Paul Peter Ewald</field>
+    <field name="series_sim">Sub-series D: Other Publications</field>
+    <field name="series_si">Series V: Paul Peter Ewald &gt;&gt; Sub-series D: Other Publications &gt;&gt; Ewald I - Reprints</field>
+    <field name="heading_ssm">Ewald I - Reprints</field>
+    <field name="unitdate_start_sim">1937</field>
+    <field name="unitdate_start_ssm">1937</field>
+    <field name="unitdate_start_si">1937</field>
+    <field name="unitdate_end_sim">1938</field>
+    <field name="unitdate_end_ssm">1938</field>
+    <field name="unitdate_end_si">1938</field>
+    <field name="unitdate_ssm">Inclusive, 1937-1938</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">154</field>
+  </doc>
+</add>

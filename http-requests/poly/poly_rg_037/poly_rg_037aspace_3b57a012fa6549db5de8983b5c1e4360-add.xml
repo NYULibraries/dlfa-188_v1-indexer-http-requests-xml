@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_037aspace_3b57a012fa6549db5de8983b5c1e4360</field>
+    <field name="ead_ssi">poly_rg_037</field>
+    <field name="parent_ssi">aspace_9416db37f462fddad12ee2c7fdc645a9</field>
+    <field name="parent_ssm">aspace_9416db37f462fddad12ee2c7fdc645a9</field>
+    <field name="parent_unittitles_ssm">Series IV: Photographs</field>
+    <field name="parent_unittitles_teim">Series IV: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Herbert Morawetz Collection</field>
+    <field name="collection_ssm">Herbert Morawetz Collection</field>
+    <field name="collection_unitid_ssm">RG.037</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">PHOTOGRAPHS - Oversize and photocopies</field>
+    <field name="unittitle_teim">PHOTOGRAPHS - Oversize and photocopies</field>
+    <field name="unitdate_normal_ssm">1975/2006</field>
+    <field name="unitdate_normal_teim">1975/2006</field>
+    <field name="unitdate_normal_sim">1975/2006</field>
+    <field name="unitdate_inclusive_teim">1975-2006, undated</field>
+    <field name="ref_ssi">aspace_3b57a012fa6549db5de8983b5c1e4360</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 2, folder: 4</field>
+    <field name="location_ssm">folder: 4</field>
+    <field name="location_si">folder: 4</field>
+    <field name="collection_teim">Herbert Morawetz Collection</field>
+    <field name="collection_unitid_teim">RG.037</field>
+    <field name="series_sim">Series IV: Photographs</field>
+    <field name="series_si">Series IV: Photographs &gt;&gt; PHOTOGRAPHS - Oversize and photocopies</field>
+    <field name="heading_ssm">PHOTOGRAPHS - Oversize and photocopies</field>
+    <field name="unitdate_start_sim">1975</field>
+    <field name="unitdate_start_ssm">1975</field>
+    <field name="unitdate_start_si">1975</field>
+    <field name="unitdate_end_sim">2006</field>
+    <field name="unitdate_end_ssm">2006</field>
+    <field name="unitdate_end_si">2006</field>
+    <field name="unitdate_ssm">Inclusive, 1975-2006, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">25</field>
+  </doc>
+</add>

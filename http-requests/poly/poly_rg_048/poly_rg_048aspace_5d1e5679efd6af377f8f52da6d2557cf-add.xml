@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_048aspace_5d1e5679efd6af377f8f52da6d2557cf</field>
+    <field name="ead_ssi">poly_rg_048</field>
+    <field name="parent_ssi">aspace_93c325e3f100f96259f298bb4ff5832c</field>
+    <field name="parent_ssm">aspace_93c325e3f100f96259f298bb4ff5832c</field>
+    <field name="parent_unittitles_ssm">Series I: Academia</field>
+    <field name="parent_unittitles_teim">Series I: Academia</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">A. George Schillinger Papers</field>
+    <field name="collection_ssm">A. George Schillinger Papers</field>
+    <field name="collection_unitid_ssm">RG.048</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series E: Nominations</field>
+    <field name="unittitle_teim">Sub-series E: Nominations</field>
+    <field name="unitdate_normal_ssm">1988/2000</field>
+    <field name="unitdate_normal_teim">1988/2000</field>
+    <field name="unitdate_normal_sim">1988/2000</field>
+    <field name="unitdate_inclusive_teim">1988-2000</field>
+    <field name="ref_ssi">aspace_5d1e5679efd6af377f8f52da6d2557cf</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">A. George Schillinger Papers</field>
+    <field name="collection_unitid_teim">RG.048</field>
+    <field name="series_sim">Series I: Academia</field>
+    <field name="series_si">Series I: Academia &gt;&gt; Sub-series E: Nominations</field>
+    <field name="heading_ssm">Sub-series E: Nominations</field>
+    <field name="unitdate_start_sim">1988</field>
+    <field name="unitdate_start_ssm">1988</field>
+    <field name="unitdate_start_si">1988</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 1988-2000</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">52</field>
+  </doc>
+</add>

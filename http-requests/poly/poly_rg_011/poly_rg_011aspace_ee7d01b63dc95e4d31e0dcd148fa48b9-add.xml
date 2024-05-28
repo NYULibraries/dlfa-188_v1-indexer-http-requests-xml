@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_011aspace_ee7d01b63dc95e4d31e0dcd148fa48b9</field>
+    <field name="ead_ssi">poly_rg_011</field>
+    <field name="parent_ssi">aspace_bdae67fb0fa05f8f60c28bfea5555541</field>
+    <field name="parent_ssm">aspace_bdae67fb0fa05f8f60c28bfea5555541</field>
+    <field name="parent_unittitles_ssm">Series II: 2021 Accretion</field>
+    <field name="parent_unittitles_teim">Series II: 2021 Accretion</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Vintage Equipment Collection</field>
+    <field name="collection_ssm">Vintage Equipment Collection</field>
+    <field name="collection_unitid_ssm">RG.011</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series B: Academia</field>
+    <field name="unittitle_teim">Sub-series B: Academia</field>
+    <field name="unitdate_normal_ssm">1954-06/1954-06</field>
+    <field name="unitdate_normal_teim">1954-06/1954-06</field>
+    <field name="unitdate_normal_sim">1954-06/1954-06</field>
+    <field name="unitdate_teim">1954-06</field>
+    <field name="ref_ssi">aspace_ee7d01b63dc95e4d31e0dcd148fa48b9</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Vintage Equipment Collection</field>
+    <field name="collection_unitid_teim">RG.011</field>
+    <field name="series_sim">Series II: 2021 Accretion</field>
+    <field name="series_si">Series II: 2021 Accretion &gt;&gt; Sub-series B: Academia</field>
+    <field name="heading_ssm">Sub-series B: Academia</field>
+    <field name="unitdate_ssm">1954-06</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">25</field>
+  </doc>
+</add>

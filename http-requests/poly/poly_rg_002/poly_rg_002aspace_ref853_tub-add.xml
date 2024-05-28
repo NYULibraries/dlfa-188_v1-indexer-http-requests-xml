@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_002aspace_ref853_tub</field>
+    <field name="ead_ssi">poly_rg_002</field>
+    <field name="parent_ssi">aspace_ref851_2br</field>
+    <field name="parent_ssm">aspace_ref851_2br</field>
+    <field name="parent_unittitles_ssm">Series X: Personal items and Miscellaneous</field>
+    <field name="parent_unittitles_teim">Series X: Personal items and Miscellaneous</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Herman F. Mark Collection</field>
+    <field name="collection_ssm">Herman F. Mark Collection</field>
+    <field name="collection_unitid_ssm">RG.002</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries C: Miscellaneous</field>
+    <field name="unittitle_teim">Subseries C: Miscellaneous</field>
+    <field name="ref_ssi">aspace_ref853_tub</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Herman F. Mark Collection</field>
+    <field name="collection_unitid_teim">RG.002</field>
+    <field name="series_sim">Series X: Personal items and Miscellaneous</field>
+    <field name="series_si">Series X: Personal items and Miscellaneous &gt;&gt; Subseries C: Miscellaneous</field>
+    <field name="heading_ssm">Subseries C: Miscellaneous</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1148</field>
+  </doc>
+</add>

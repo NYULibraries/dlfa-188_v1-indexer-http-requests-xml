@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_034aspace_ref278_lma</field>
+    <field name="ead_ssi">poly_rg_034</field>
+    <field name="parent_ssi">aspace_ref106_s5h</field>
+    <field name="parent_ssm">aspace_ref106_s5h</field>
+    <field name="parent_unittitles_ssm">Series IV: Events</field>
+    <field name="parent_unittitles_teim">Series IV: Events</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Polytechnic Marketing and Communications CD Image Collection</field>
+    <field name="collection_ssm">Polytechnic Marketing and Communications CD Image Collection</field>
+    <field name="collection_unitid_ssm">RG.034</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Roughead</field>
+    <field name="unittitle_teim">Roughead</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref278_lma</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 4, disk: 43</field>
+    <field name="location_ssm">disk: 43</field>
+    <field name="location_si">disk: 43</field>
+    <field name="collection_teim">Polytechnic Marketing and Communications CD Image Collection</field>
+    <field name="collection_unitid_teim">RG.034</field>
+    <field name="series_sim">Series IV: Events</field>
+    <field name="series_si">Series IV: Events &gt;&gt; Roughead</field>
+    <field name="heading_ssm">Roughead</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">277</field>
+  </doc>
+</add>

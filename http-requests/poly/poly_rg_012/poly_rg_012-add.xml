@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Lindsay Anderberg</field>
+    <field name="author_ssm">Lindsay Anderberg</field>
+    <field name="unittitle_teim">Frederick Kreiling Papers</field>
+    <field name="unittitle_ssm">Frederick Kreiling Papers</field>
+    <field name="unitid_teim">RG.012</field>
+    <field name="unitid_ssm">RG.012</field>
+    <field name="abstract_teim">The Frederick Kreiling Papers primarily consist of Kreiling's correspondence from 1964-1968.  Kreiling (1923-2004) was a professor in the Humanities and Social Science (HuSS) department at Polytechnic from 1948 to 1992.</field>
+    <field name="abstract_ssm">The Frederick Kreiling Papers primarily consist of Kreiling's correspondence from 1964-1968.  Kreiling (1923-2004) was a professor in the Humanities and Social Science (HuSS) department at Polytechnic from 1948 to 1992.</field>
+    <field name="unitdate_normal_ssm">1962/2004</field>
+    <field name="unitdate_normal_ssm">1962/1968</field>
+    <field name="unitdate_normal_teim">1962/2004</field>
+    <field name="unitdate_normal_teim">1962/1968</field>
+    <field name="unitdate_normal_sim">1962/2004</field>
+    <field name="unitdate_normal_sim">1962/1968</field>
+    <field name="unitdate_bulk_teim">1962-1968</field>
+    <field name="unitdate_inclusive_teim">1962-2004</field>
+    <field name="scopecontent_teim">The bulk of the Kreiling Papers consists of Frederick Kreiling's correspondence.  Only one letter in the collection is not Kreiling's; it is from "Janice" to "Lenore".  It is possible that Lenore is Kreiling's ex-wife.</field>
+    <field name="scopecontent_teim">The collection also includes biographical information about Kreiling, information about the History of Science program at Polytechnic, and annual reports from the NYC Department of Air Pollution.</field>
+    <field name="bioghist_teim">Frederick C. Kreiling was a professor in the Humanities and Social Sciences (HuSS) Department at Polytechnic from 1948 to 1992.  He was first hired as a German instructor and transitioned into a history of science professor.  In the fall of 1964, Kreiling was appointed head of the newly founded History of Science program at Polytechnic. In its first year, the program offered only three courses: Introduction to the History of Science, Topics in the History of Science, and Seminar in the History of Science.</field>
+    <field name="bioghist_teim">Kreiling joined Polytechnic soon after serving in WWII as a German translator for POWs.  During his career at Poly, his main research focus was on Gottfried W. Leibniz, an 18th-century German philosopher and mathematician.  Besides teaching courses in the history of science, he also taught a course on the history of jazz. An accomplished bass player, Krieling played with the likes of Roy Eldridge, Coleman Hawkins, and John Lewis.</field>
+    <field name="bioghist_teim">Kreiling retired from Polytechnic in 1992 and died on February 29, 2004.</field>
+    <field name="bioghist_teim">Sources: 
+"ePoly Briefs Home." 2013. Accessed April 24. http://www.poly.edu/poly_ebriefs/archives/April04.htm#PROFESSOR%20EMERITUS%20KREILING%20DIES.</field>
+    <field name="bioghist_teim">1964. Polytechnic Reporter, October 1.</field>
+    <field name="acqinfo_teim">This collection was donated in 2013 by Thomas B. Settle, former Professor of History in the Humanities and Social Sciences department and Professor Emeritus of the Technology, Culture, and Society department at Polytechnic.</field>
+    <field name="corpname_teim">Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</field>
+    <field name="corpname_ssm">Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</field>
+    <field name="genreform_teim">Correspondence</field>
+    <field name="genreform_ssm">Correspondence</field>
+    <field name="subject_teim">Social Sciences</field>
+    <field name="subject_teim">Social Sciences</field>
+    <field name="subject_ssm">Social Sciences</field>
+    <field name="collection_sim">Frederick Kreiling Papers</field>
+    <field name="collection_ssm">Frederick Kreiling Papers</field>
+    <field name="collection_teim">Frederick Kreiling Papers</field>
+    <field name="id">poly_rg_012</field>
+    <field name="ead_ssi">poly_rg_012</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="subject_sim">Social Sciences</field>
+    <field name="material_type_sim">Correspondence</field>
+    <field name="material_type_ssm">Correspondence</field>
+    <field name="heading_ssm">Frederick Kreiling Papers</field>
+    <field name="unitdate_start_sim">1962</field>
+    <field name="unitdate_start_ssm">1962</field>
+    <field name="unitdate_start_si">1962</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_sim">1968</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_ssm">1968</field>
+    <field name="unitdate_end_si">1968</field>
+    <field name="unitdate_ssm">Inclusive, 1962-2004 ; 1962-1968</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+  </doc>
+</add>

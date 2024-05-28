@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_026aspace_ref758_wdd</field>
+    <field name="ead_ssi">poly_rg_026</field>
+    <field name="parent_ssi">aspace_ref655_rnq</field>
+    <field name="parent_ssm">aspace_ref132_6um</field>
+    <field name="parent_ssm">aspace_ref655_rnq</field>
+    <field name="parent_unittitles_ssm">Series VII: Events</field>
+    <field name="parent_unittitles_ssm">Subseries H: Miscellaneous Events</field>
+    <field name="parent_unittitles_teim">Series VII: Events</field>
+    <field name="parent_unittitles_teim">Subseries H: Miscellaneous Events</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Historic Photograph Collection</field>
+    <field name="collection_ssm">Poly Archives Historic Photograph Collection</field>
+    <field name="collection_unitid_ssm">RG.026</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Laptop Distribution</field>
+    <field name="unittitle_teim">Laptop Distribution</field>
+    <field name="unitid_teim">cuid895</field>
+    <field name="unitid_ssm">cuid895</field>
+    <field name="unitdate_teim">2000 August, 30; 2000 September 13</field>
+    <field name="ref_ssi">aspace_ref758_wdd</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 21, folder: 18</field>
+    <field name="location_ssm">folder: 18</field>
+    <field name="location_si">folder: 18</field>
+    <field name="collection_teim">Poly Archives Historic Photograph Collection</field>
+    <field name="collection_unitid_teim">RG.026</field>
+    <field name="series_sim">Series VII: Events</field>
+    <field name="series_sim">Subseries H: Miscellaneous Events</field>
+    <field name="series_si">Series VII: Events &gt;&gt; Subseries H: Miscellaneous Events &gt;&gt; Laptop Distribution</field>
+    <field name="heading_ssm">Laptop Distribution</field>
+    <field name="unitdate_ssm">2000 August, 30; 2000 September 13</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">934</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_048aspace_bc1d37e52391dcb4b939e9d30466d605</field>
+    <field name="ead_ssi">poly_rg_048</field>
+    <field name="parent_ssi">aspace_10737db401c7ee2d8e310f47bc8dbb9a</field>
+    <field name="parent_ssm">aspace_98a6e2771e6176b58c21529df7232c82</field>
+    <field name="parent_ssm">aspace_10737db401c7ee2d8e310f47bc8dbb9a</field>
+    <field name="parent_unittitles_ssm">Series V: Brooklyn Poly</field>
+    <field name="parent_unittitles_ssm">Sub-series B: Administrative</field>
+    <field name="parent_unittitles_teim">Series V: Brooklyn Poly</field>
+    <field name="parent_unittitles_teim">Sub-series B: Administrative</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">A. George Schillinger Papers</field>
+    <field name="collection_ssm">A. George Schillinger Papers</field>
+    <field name="collection_unitid_ssm">RG.048</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Change of Grade Request</field>
+    <field name="unittitle_teim">Change of Grade Request</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_bc1d37e52391dcb4b939e9d30466d605</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 9, folder: 25</field>
+    <field name="location_ssm">folder: 25</field>
+    <field name="location_si">folder: 25</field>
+    <field name="collection_teim">A. George Schillinger Papers</field>
+    <field name="collection_unitid_teim">RG.048</field>
+    <field name="series_sim">Series V: Brooklyn Poly</field>
+    <field name="series_sim">Sub-series B: Administrative</field>
+    <field name="series_si">Series V: Brooklyn Poly &gt;&gt; Sub-series B: Administrative &gt;&gt; Change of Grade Request</field>
+    <field name="heading_ssm">Change of Grade Request</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">352</field>
+  </doc>
+</add>

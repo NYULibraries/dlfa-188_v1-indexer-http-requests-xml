@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Tommy Qiu and Aileen Thong</field>
+    <field name="author_ssm">Tommy Qiu and Aileen Thong</field>
+    <field name="unittitle_teim">Dean's Office Records</field>
+    <field name="unittitle_ssm">Dean's Office Records</field>
+    <field name="unitid_teim">RG.051</field>
+    <field name="unitid_ssm">RG.051</field>
+    <field name="unitdate_normal_ssm">1953/2018</field>
+    <field name="unitdate_normal_ssm">1990/2013</field>
+    <field name="unitdate_normal_teim">1953/2018</field>
+    <field name="unitdate_normal_teim">1990/2013</field>
+    <field name="unitdate_normal_sim">1953/2018</field>
+    <field name="unitdate_normal_sim">1990/2013</field>
+    <field name="unitdate_bulk_teim">1990-2013</field>
+    <field name="unitdate_inclusive_teim">1953-2018</field>
+    <field name="scopecontent_teim">The Dean's Office Records Collection contains documents from 1953 to 2018, with a bulk of documents from the mid 1990s to 2010s. These records were assembled by the Dean's Office before and after the NYU-Poly merger of 2014. Note that the Dean's Office records from pre-2014 use the title "President" while records from post-2014 use the title "Dean". The collection includes real estate development records, marketing/recruitment documents, and academia-related University records. The collection is 114 linear feet, located on bay 27, shelves 2F-7A.</field>
+    <field name="bioghist_teim">The NYU Polytechnic School of Engineering dates to 1854, when the NYU School of Civil Engineering and Architecture as well as the Brooklyn Collegiate and Polytechnic Institute (widely known as Brooklyn Poly) were founded. Their successor institutions merged in January 2014. Note that the Dean's Office records from pre-2014 use the title "President" while records from post-2014 use the title "Dean".</field>
+    <field name="acqinfo_teim">This collection was transferred from the Dean's Office in Summer 2017. The accession record was updated in 2023.</field>
+    <field name="corpname_teim">Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</field>
+    <field name="corpname_ssm">Poly Archives at the Bern Dibner Library of Science and Technology, NYU Libraries</field>
+    <field name="geogname_teim">Polytechnic Institute of NYU</field>
+    <field name="geogname_teim">Polytechnic University (Brooklyn, New York, N.Y.).</field>
+    <field name="geogname_ssm">Polytechnic Institute of NYU</field>
+    <field name="geogname_ssm">Polytechnic University (Brooklyn, New York, N.Y.).</field>
+    <field name="subject_teim">Merger - NYU-Poly - 1973</field>
+    <field name="subject_teim">Universities and colleges -- Mergers -- New York</field>
+    <field name="subject_teim">Merger - NYU-Poly - 1973</field>
+    <field name="subject_teim">Universities and colleges -- Mergers -- New York</field>
+    <field name="subject_ssm">Merger - NYU-Poly - 1973</field>
+    <field name="subject_ssm">Universities and colleges -- Mergers -- New York</field>
+    <field name="collection_sim">Dean's Office Records</field>
+    <field name="collection_ssm">Dean's Office Records</field>
+    <field name="collection_teim">Dean's Office Records</field>
+    <field name="id">poly_rg_051</field>
+    <field name="ead_ssi">poly_rg_051</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Polytechnic Institute of NYU</field>
+    <field name="place_sim">Polytechnic University (Brooklyn, New York, N.Y.).</field>
+    <field name="subject_sim">Merger - NYU-Poly - 1973</field>
+    <field name="subject_sim">Universities and colleges -- Mergers -- New York</field>
+    <field name="heading_ssm">Dean's Office Records</field>
+    <field name="unitdate_start_sim">1953</field>
+    <field name="unitdate_start_sim">1990</field>
+    <field name="unitdate_start_ssm">1953</field>
+    <field name="unitdate_start_ssm">1990</field>
+    <field name="unitdate_start_si">1990</field>
+    <field name="unitdate_end_sim">2018</field>
+    <field name="unitdate_end_sim">2013</field>
+    <field name="unitdate_end_ssm">2018</field>
+    <field name="unitdate_end_ssm">2013</field>
+    <field name="unitdate_end_si">2013</field>
+    <field name="unitdate_ssm">Inclusive, 1953-2018 ; 1990-2013</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+  </doc>
+</add>

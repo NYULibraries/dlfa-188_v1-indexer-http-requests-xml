@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_056aspace_9f162cf40cdf742282f55bb9f3b230cf</field>
+    <field name="ead_ssi">poly_rg_056</field>
+    <field name="parent_ssi">aspace_f510018cf03572a1506c11ad6de49777</field>
+    <field name="parent_ssm">aspace_f510018cf03572a1506c11ad6de49777</field>
+    <field name="parent_unittitles_ssm">Series VI: Shelf 6</field>
+    <field name="parent_unittitles_teim">Series VI: Shelf 6</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Frame Rack</field>
+    <field name="collection_ssm">Poly Archives Frame Rack</field>
+    <field name="collection_unitid_ssm">RG.056</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Brooklyn President Proclamation</field>
+    <field name="unittitle_teim">Brooklyn President Proclamation</field>
+    <field name="unitdate_normal_ssm">2011-04-27/2011-04-27</field>
+    <field name="unitdate_normal_teim">2011-04-27/2011-04-27</field>
+    <field name="unitdate_normal_sim">2011-04-27/2011-04-27</field>
+    <field name="unitdate_teim">2011-04-27</field>
+    <field name="ref_ssi">aspace_9f162cf40cdf742282f55bb9f3b230cf</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">bin: 6, frame: 5</field>
+    <field name="location_ssm">frame: 5</field>
+    <field name="location_si">frame: 5</field>
+    <field name="collection_teim">Poly Archives Frame Rack</field>
+    <field name="collection_unitid_teim">RG.056</field>
+    <field name="series_sim">Series VI: Shelf 6</field>
+    <field name="series_si">Series VI: Shelf 6 &gt;&gt; Brooklyn President Proclamation</field>
+    <field name="heading_ssm">Brooklyn President Proclamation</field>
+    <field name="unitdate_ssm">2011-04-27</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">72</field>
+  </doc>
+</add>

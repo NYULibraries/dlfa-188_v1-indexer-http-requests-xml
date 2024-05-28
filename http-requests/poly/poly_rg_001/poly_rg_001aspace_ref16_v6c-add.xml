@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_001aspace_ref16_v6c</field>
+    <field name="ead_ssi">poly_rg_001</field>
+    <field name="parent_ssi">aspace_ref15_8hs</field>
+    <field name="parent_ssm">aspace_ref1_0cu</field>
+    <field name="parent_ssm">aspace_ref15_8hs</field>
+    <field name="parent_unittitles_ssm">Series V: Publications</field>
+    <field name="parent_unittitles_ssm">Mechanical Engineering, 1921</field>
+    <field name="parent_unittitles_teim">Series V: Publications</field>
+    <field name="parent_unittitles_teim">Mechanical Engineering, 1921</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Keller Mechanical Engineering Corporation Collection</field>
+    <field name="collection_ssm">Keller Mechanical Engineering Corporation Collection</field>
+    <field name="collection_unitid_ssm">RG.001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"Dies Sinking and Metal Pattern-making by Automatic Machine"</field>
+    <field name="unittitle_teim">"Dies Sinking and Metal Pattern-making by Automatic Machine"</field>
+    <field name="unitdate_teim">1921 September</field>
+    <field name="ref_ssi">aspace_ref16_v6c</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 24, folder: 1</field>
+    <field name="location_ssm">folder: 1, object: 1</field>
+    <field name="location_ssm">object: 1</field>
+    <field name="location_si">object: 1</field>
+    <field name="collection_teim">Keller Mechanical Engineering Corporation Collection</field>
+    <field name="collection_unitid_teim">RG.001</field>
+    <field name="series_sim">Series V: Publications</field>
+    <field name="series_sim">Mechanical Engineering, 1921</field>
+    <field name="series_si">Series V: Publications &gt;&gt; Mechanical Engineering, 1921 &gt;&gt; "Dies Sinking and Metal Pattern-making by Automatic Machine"</field>
+    <field name="heading_ssm">"Dies Sinking and Metal Pattern-making by Automatic Machine"</field>
+    <field name="unitdate_ssm">1921 September</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">205</field>
+  </doc>
+</add>

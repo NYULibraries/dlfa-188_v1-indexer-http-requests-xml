@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_028aspace_ref999_9re</field>
+    <field name="ead_ssi">poly_rg_028</field>
+    <field name="parent_ssi">aspace_ref931_vb7</field>
+    <field name="parent_ssm">aspace_ref931_vb7</field>
+    <field name="parent_unittitles_ssm">P</field>
+    <field name="parent_unittitles_teim">P</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Portrait Collection</field>
+    <field name="collection_ssm">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_ssm">RG.028</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Preston, Richard</field>
+    <field name="unittitle_teim">Preston, Richard</field>
+    <field name="unitid_teim">cuid1940</field>
+    <field name="unitid_ssm">cuid1940</field>
+    <field name="unitdate_teim">circa 1998</field>
+    <field name="dao_teim">Preston, Richard: circa 1998</field>
+    <field name="dao_ssm">Preston, Richard: circa 1998</field>
+    <field name="ref_ssi">aspace_ref999_9re</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 6, folder: 179</field>
+    <field name="location_ssm">folder: 179</field>
+    <field name="location_si">folder: 179</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_teim">RG.028</field>
+    <field name="series_sim">P</field>
+    <field name="series_si">P &gt;&gt; Preston, Richard</field>
+    <field name="heading_ssm">Preston, Richard</field>
+    <field name="unitdate_ssm">circa 1998</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">998</field>
+  </doc>
+</add>

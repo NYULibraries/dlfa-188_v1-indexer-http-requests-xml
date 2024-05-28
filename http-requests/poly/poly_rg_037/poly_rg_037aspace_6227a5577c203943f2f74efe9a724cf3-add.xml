@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_037aspace_6227a5577c203943f2f74efe9a724cf3</field>
+    <field name="ead_ssi">poly_rg_037</field>
+    <field name="parent_ssi">aspace_0e0b21cdbf6ce8441430bac99e92cc1f</field>
+    <field name="parent_ssm">aspace_0e0b21cdbf6ce8441430bac99e92cc1f</field>
+    <field name="parent_unittitles_ssm">Series V: Awards and Honors</field>
+    <field name="parent_unittitles_teim">Series V: Awards and Honors</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Herbert Morawetz Collection</field>
+    <field name="collection_ssm">Herbert Morawetz Collection</field>
+    <field name="collection_unitid_ssm">RG.037</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Awards and Honors</field>
+    <field name="unittitle_teim">Awards and Honors</field>
+    <field name="unitdate_normal_ssm">1984/2006</field>
+    <field name="unitdate_normal_teim">1984/2006</field>
+    <field name="unitdate_normal_sim">1984/2006</field>
+    <field name="unitdate_inclusive_teim">1984-2006</field>
+    <field name="ref_ssi">aspace_6227a5577c203943f2f74efe9a724cf3</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 2, folder: 5</field>
+    <field name="location_ssm">folder: 5</field>
+    <field name="location_si">folder: 5</field>
+    <field name="collection_teim">Herbert Morawetz Collection</field>
+    <field name="collection_unitid_teim">RG.037</field>
+    <field name="series_sim">Series V: Awards and Honors</field>
+    <field name="series_si">Series V: Awards and Honors &gt;&gt; Awards and Honors</field>
+    <field name="heading_ssm">Awards and Honors</field>
+    <field name="unitdate_start_sim">1984</field>
+    <field name="unitdate_start_ssm">1984</field>
+    <field name="unitdate_start_si">1984</field>
+    <field name="unitdate_end_sim">2006</field>
+    <field name="unitdate_end_ssm">2006</field>
+    <field name="unitdate_end_si">2006</field>
+    <field name="unitdate_ssm">Inclusive, 1984-2006</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

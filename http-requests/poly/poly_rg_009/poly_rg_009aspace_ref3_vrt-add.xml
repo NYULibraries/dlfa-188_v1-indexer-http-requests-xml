@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_009aspace_ref3_vrt</field>
+    <field name="ead_ssi">poly_rg_009</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Pamela Kramer Papers</field>
+    <field name="collection_ssm">Pamela Kramer Papers</field>
+    <field name="collection_unitid_ssm">RG.009</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Biographical Information and Vita</field>
+    <field name="unittitle_teim">Series I: Biographical Information and Vita</field>
+    <field name="unitdate_normal_ssm">1978/1999</field>
+    <field name="unitdate_normal_teim">1978/1999</field>
+    <field name="unitdate_normal_sim">1978/1999</field>
+    <field name="unitdate_inclusive_teim">1978-1999</field>
+    <field name="scopecontent_teim">This series contains documents concerning Kramer's career, and her death in 1999.  Specifically, folder 1 includes a black and white photo of Kramer, two iterations of her CV (one from the late 1970s, and another from the mid 1990s), a brief biographical sketch, an issue of the Polytechnic Reporter with news of her death, and correspondence with the New York Times concerning her obituary.  Folder two contains all of the documentation regarding her appointment to full professor in 1996, including her application and letters of reference from colleagues.</field>
+    <field name="ref_ssi">aspace_ref3_vrt</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">box: 1</field>
+    <field name="location_si">box: 1</field>
+    <field name="collection_teim">Pamela Kramer Papers</field>
+    <field name="collection_unitid_teim">RG.009</field>
+    <field name="series_si">Series I: Biographical Information and Vita</field>
+    <field name="heading_ssm">Series I: Biographical Information and Vita</field>
+    <field name="unitdate_start_sim">1978</field>
+    <field name="unitdate_start_ssm">1978</field>
+    <field name="unitdate_start_si">1978</field>
+    <field name="unitdate_end_sim">1999</field>
+    <field name="unitdate_end_ssm">1999</field>
+    <field name="unitdate_end_si">1999</field>
+    <field name="unitdate_ssm">Inclusive, 1978-1999</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

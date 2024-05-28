@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_028aspace_ref600_nw0</field>
+    <field name="ead_ssi">poly_rg_028</field>
+    <field name="parent_ssi">aspace_ref560_jlb</field>
+    <field name="parent_ssm">aspace_ref560_jlb</field>
+    <field name="parent_unittitles_ssm">K</field>
+    <field name="parent_unittitles_teim">K</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Portrait Collection</field>
+    <field name="collection_ssm">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_ssm">RG.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Kerr, Michelle</field>
+    <field name="unittitle_teim">Kerr, Michelle</field>
+    <field name="unitid_teim">cuid1552</field>
+    <field name="unitid_ssm">cuid1552</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="dao_teim">Kerr, Michelle: undated</field>
+    <field name="dao_ssm">Kerr, Michelle: undated</field>
+    <field name="ref_ssi">aspace_ref600_nw0</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 4, folder: 169</field>
+    <field name="location_ssm">folder: 169</field>
+    <field name="location_si">folder: 169</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_teim">RG.028</field>
+    <field name="series_sim">K</field>
+    <field name="series_si">K &gt;&gt; Kerr, Michelle</field>
+    <field name="heading_ssm">Kerr, Michelle</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">605</field>
+  </doc>
+</add>

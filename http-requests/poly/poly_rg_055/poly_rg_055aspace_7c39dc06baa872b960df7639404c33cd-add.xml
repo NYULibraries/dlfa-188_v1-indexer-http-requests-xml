@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_055aspace_7c39dc06baa872b960df7639404c33cd</field>
+    <field name="ead_ssi">poly_rg_055</field>
+    <field name="parent_ssi">aspace_57fda9873e13ef3998d4eabb5ce39c77</field>
+    <field name="parent_ssm">aspace_57fda9873e13ef3998d4eabb5ce39c77</field>
+    <field name="parent_unittitles_ssm">Series XXI: Early Exercise Results</field>
+    <field name="parent_unittitles_teim">Series XXI: Early Exercise Results</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Peter P. Carr Papers</field>
+    <field name="collection_ssm">Peter P. Carr Papers</field>
+    <field name="collection_unitid_ssm">RG.055</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Upper Bound</field>
+    <field name="unittitle_teim">Upper Bound</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_7c39dc06baa872b960df7639404c33cd</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 11, folder: 48</field>
+    <field name="location_ssm">folder: 48</field>
+    <field name="location_si">folder: 48</field>
+    <field name="collection_teim">Peter P. Carr Papers</field>
+    <field name="collection_unitid_teim">RG.055</field>
+    <field name="series_sim">Series XXI: Early Exercise Results</field>
+    <field name="series_si">Series XXI: Early Exercise Results &gt;&gt; Upper Bound</field>
+    <field name="heading_ssm">Upper Bound</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1059</field>
+  </doc>
+</add>

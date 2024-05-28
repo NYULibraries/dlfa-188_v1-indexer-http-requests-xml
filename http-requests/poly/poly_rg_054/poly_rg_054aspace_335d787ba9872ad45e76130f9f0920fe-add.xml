@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_054aspace_335d787ba9872ad45e76130f9f0920fe</field>
+    <field name="ead_ssi">poly_rg_054</field>
+    <field name="parent_ssi">aspace_fb3723a77f6d1ed8e3014799e4378b8a</field>
+    <field name="parent_ssm">aspace_fb3723a77f6d1ed8e3014799e4378b8a</field>
+    <field name="parent_unittitles_ssm">Series VII: TRW Inc.</field>
+    <field name="parent_unittitles_teim">Series VII: TRW Inc.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Sol Lutwak Papers</field>
+    <field name="collection_ssm">Sol Lutwak Papers</field>
+    <field name="collection_unitid_ssm">RG.054</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series D: Courses, Programs and Trainings</field>
+    <field name="unittitle_teim">Sub-series D: Courses, Programs and Trainings</field>
+    <field name="unitdate_normal_ssm">1965/1987</field>
+    <field name="unitdate_normal_teim">1965/1987</field>
+    <field name="unitdate_normal_sim">1965/1987</field>
+    <field name="unitdate_inclusive_teim">1965-1987</field>
+    <field name="ref_ssi">aspace_335d787ba9872ad45e76130f9f0920fe</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sol Lutwak Papers</field>
+    <field name="collection_unitid_teim">RG.054</field>
+    <field name="series_sim">Series VII: TRW Inc.</field>
+    <field name="series_si">Series VII: TRW Inc. &gt;&gt; Sub-series D: Courses, Programs and Trainings</field>
+    <field name="heading_ssm">Sub-series D: Courses, Programs and Trainings</field>
+    <field name="unitdate_start_sim">1965</field>
+    <field name="unitdate_start_ssm">1965</field>
+    <field name="unitdate_start_si">1965</field>
+    <field name="unitdate_end_sim">1987</field>
+    <field name="unitdate_end_ssm">1987</field>
+    <field name="unitdate_end_si">1987</field>
+    <field name="unitdate_ssm">Inclusive, 1965-1987</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">91</field>
+  </doc>
+</add>

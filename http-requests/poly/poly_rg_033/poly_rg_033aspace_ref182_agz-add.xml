@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_033aspace_ref182_agz</field>
+    <field name="ead_ssi">poly_rg_033</field>
+    <field name="parent_ssi">aspace_ref2_vtf</field>
+    <field name="parent_ssm">aspace_ref2_vtf</field>
+    <field name="parent_unittitles_ssm">Series II: Writings</field>
+    <field name="parent_unittitles_teim">Series II: Writings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ernst Weber Collection</field>
+    <field name="collection_ssm">Ernst Weber Collection</field>
+    <field name="collection_unitid_ssm">RG.033</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries C: Drafts</field>
+    <field name="unittitle_teim">Subseries C: Drafts</field>
+    <field name="ref_ssi">aspace_ref182_agz</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ernst Weber Collection</field>
+    <field name="collection_unitid_teim">RG.033</field>
+    <field name="series_sim">Series II: Writings</field>
+    <field name="series_si">Series II: Writings &gt;&gt; Subseries C: Drafts</field>
+    <field name="heading_ssm">Subseries C: Drafts</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">179</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_028aspace_ref402_8wg</field>
+    <field name="ead_ssi">poly_rg_028</field>
+    <field name="parent_ssi">aspace_ref511_tef</field>
+    <field name="parent_ssm">aspace_ref511_tef</field>
+    <field name="parent_unittitles_ssm">G</field>
+    <field name="parent_unittitles_teim">G</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Portrait Collection</field>
+    <field name="collection_ssm">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_ssm">RG.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Goldsmith, Clifford Henry</field>
+    <field name="unittitle_teim">Goldsmith, Clifford Henry</field>
+    <field name="unitid_teim">cuid1358</field>
+    <field name="unitid_ssm">cuid1358</field>
+    <field name="unitdate_teim">1996, 1998, 2001</field>
+    <field name="dao_teim">Goldsmith, Clifford Henry: 1996, 1998, 2001</field>
+    <field name="dao_ssm">Goldsmith, Clifford Henry: 1996, 1998, 2001</field>
+    <field name="ref_ssi">aspace_ref402_8wg</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 3, folder: 117</field>
+    <field name="location_ssm">folder: 117</field>
+    <field name="location_si">folder: 117</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_teim">RG.028</field>
+    <field name="series_sim">G</field>
+    <field name="series_si">G &gt;&gt; Goldsmith, Clifford Henry</field>
+    <field name="heading_ssm">Goldsmith, Clifford Henry</field>
+    <field name="unitdate_ssm">1996, 1998, 2001</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">406</field>
+  </doc>
+</add>

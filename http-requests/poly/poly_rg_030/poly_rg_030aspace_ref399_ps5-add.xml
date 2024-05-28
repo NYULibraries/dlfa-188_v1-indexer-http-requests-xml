@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_030aspace_ref399_ps5</field>
+    <field name="ead_ssi">poly_rg_030</field>
+    <field name="parent_ssi">aspace_ref15_t18</field>
+    <field name="parent_ssm">aspace_ref15_t18</field>
+    <field name="parent_unittitles_ssm">Series XIII: Polytechnic Engineer</field>
+    <field name="parent_unittitles_teim">Series XIII: Polytechnic Engineer</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Serial Publications Collection</field>
+    <field name="collection_ssm">Poly Archives Serial Publications Collection</field>
+    <field name="collection_unitid_ssm">RG.030</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Index 1898 - 1968 (binder)</field>
+    <field name="unittitle_teim">Index 1898 - 1968 (binder)</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref399_ps5</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">item: Shelf 36/3E, item: 27</field>
+    <field name="location_ssm">item: 27</field>
+    <field name="location_si">item: 27</field>
+    <field name="collection_teim">Poly Archives Serial Publications Collection</field>
+    <field name="collection_unitid_teim">RG.030</field>
+    <field name="series_sim">Series XIII: Polytechnic Engineer</field>
+    <field name="series_si">Series XIII: Polytechnic Engineer &gt;&gt; Index 1898 - 1968 (binder)</field>
+    <field name="heading_ssm">Index 1898 - 1968 (binder)</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">331</field>
+  </doc>
+</add>

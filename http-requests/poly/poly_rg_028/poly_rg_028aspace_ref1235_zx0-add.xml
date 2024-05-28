@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">poly_rg_028aspace_ref1235_zx0</field>
+    <field name="ead_ssi">poly_rg_028</field>
+    <field name="parent_ssi">aspace_ref1152_sq3</field>
+    <field name="parent_ssm">aspace_ref1152_sq3</field>
+    <field name="parent_unittitles_ssm">S</field>
+    <field name="parent_unittitles_teim">S</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Poly Archives Portrait Collection</field>
+    <field name="collection_ssm">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_ssm">RG.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Sterling, John</field>
+    <field name="unittitle_teim">Sterling, John</field>
+    <field name="unitid_teim">cuid2176</field>
+    <field name="unitid_ssm">cuid2176</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="dao_teim">Sterling, John: undated</field>
+    <field name="dao_ssm">Sterling, John: undated</field>
+    <field name="ref_ssi">aspace_ref1235_zx0</field>
+    <field name="repository_ssi">poly</field>
+    <field name="repository_sim">poly</field>
+    <field name="repository_ssm">poly</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">box: 8, folder: 58</field>
+    <field name="location_ssm">folder: 58</field>
+    <field name="location_si">folder: 58</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Poly Archives Portrait Collection</field>
+    <field name="collection_unitid_teim">RG.028</field>
+    <field name="series_sim">S</field>
+    <field name="series_si">S &gt;&gt; Sterling, John</field>
+    <field name="heading_ssm">Sterling, John</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1237</field>
+  </doc>
+</add>
