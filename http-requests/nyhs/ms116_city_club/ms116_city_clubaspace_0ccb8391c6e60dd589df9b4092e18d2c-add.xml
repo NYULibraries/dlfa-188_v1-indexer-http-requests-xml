@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms116_city_clubaspace_0ccb8391c6e60dd589df9b4092e18d2c</field>
+    <field name="ead_ssi">ms116_city_club</field>
+    <field name="parent_ssi">aspace_5af44ce668a03092e3379877817df3e4</field>
+    <field name="parent_ssm">aspace_5af44ce668a03092e3379877817df3e4</field>
+    <field name="parent_unittitles_ssm">Series IV. Publications</field>
+    <field name="parent_unittitles_teim">Series IV. Publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">City Club of New York records</field>
+    <field name="collection_ssm">City Club of New York records</field>
+    <field name="collection_unitid_ssm">MS 116</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Report on Health and Hospitals</field>
+    <field name="unittitle_teim">Report on Health and Hospitals</field>
+    <field name="unitdate_inclusive_teim">1975</field>
+    <field name="ref_ssi">aspace_0ccb8391c6e60dd589df9b4092e18d2c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 11, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">City Club of New York records</field>
+    <field name="collection_unitid_teim">MS 116</field>
+    <field name="series_sim">Series IV. Publications</field>
+    <field name="series_si">Series IV. Publications &gt;&gt; Report on Health and Hospitals</field>
+    <field name="heading_ssm">Report on Health and Hospitals</field>
+    <field name="unitdate_ssm">Inclusive, 1975</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">213</field>
+  </doc>
+</add>

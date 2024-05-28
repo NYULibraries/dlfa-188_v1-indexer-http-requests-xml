@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref537_ytg</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Brooklyn--Coney Island</field>
+    <field name="unittitle_teim">New York--NYC -- Brooklyn--Coney Island</field>
+    <field name="unitdate_normal_ssm">1870/1925</field>
+    <field name="unitdate_normal_teim">1870/1925</field>
+    <field name="unitdate_normal_sim">1870/1925</field>
+    <field name="unitdate_inclusive_teim">[1870-1925]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0523</field>
+    <field name="scopecontent_teim">Views and Coney Island and Brighton Beach: beach scenes, including crowds of people on the each, bathers, including men, women and children; the Iron Pier, including view showing tables of an open air restaurant, and view of the pier with man diving in foreground; the Prospect Park and Coney Island Railroad train at a station, and the Marine Railway Station; the Elephant; Music Pavilion at Manhattan Beach; Manhattan Beach Hotel; Brighton Beach Hotel; tables and music stand at Brighton Beach; Clarendon Hotel; visitors in parlor of a hotel on a "rainy day"; Music Pavilion, and crowd, many holding umbrellas; Engeman's Pavilion; the Merry-go-round; Luna Park, including view showing lights at night; woman riding a bicycle; men doing acrobatics; life saving corps with boat on beach.</field>
+    <field name="scopecontent_teim">66 items</field>
+    <field name="ref_ssi">aspace_ref537_ytg</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 45</field>
+    <field name="location_si">Box: 45</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Brooklyn--Coney Island</field>
+    <field name="heading_ssm">New York--NYC -- Brooklyn--Coney Island</field>
+    <field name="unitdate_start_sim">1870</field>
+    <field name="unitdate_start_ssm">1870</field>
+    <field name="unitdate_start_si">1870</field>
+    <field name="unitdate_end_sim">1925</field>
+    <field name="unitdate_end_ssm">1925</field>
+    <field name="unitdate_end_si">1925</field>
+    <field name="unitdate_ssm">Inclusive, [1870-1925]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">524</field>
+  </doc>
+</add>

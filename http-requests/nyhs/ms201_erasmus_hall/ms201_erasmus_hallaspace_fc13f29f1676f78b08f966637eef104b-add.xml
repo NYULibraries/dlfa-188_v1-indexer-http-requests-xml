@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_fc13f29f1676f78b08f966637eef104b</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_bb08feee7cd3c34a89f9fce7282b1309</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_bb08feee7cd3c34a89f9fce7282b1309</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Lloyd Family</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Lloyd Family</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Holcroft, Thomas. &lt;em&gt;Life of Baron Frederick Trenck&lt;/em&gt; (N.Y.: William Durrell)</field>
+    <field name="unittitle_teim">Holcroft, Thomas. Life of Baron Frederick Trenck (N.Y.: William Durrell)</field>
+    <field name="unitdate_inclusive_teim">1796, 1797</field>
+    <field name="scopecontent_teim">Book that belonged to a member of the Lloyd family of Flatbush. Inscribed on fly-leaf: "Lydia Lloyd[']s Book, October 2nd 1797." With bookplate of John B. Zabriskie.</field>
+    <field name="ref_ssi">aspace_fc13f29f1676f78b08f966637eef104b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-16, envelope: Lloyd Family of Flatbush—Books</field>
+    <field name="location_ssm">envelope: Lloyd Family of Flatbush—Books</field>
+    <field name="location_si">envelope: Lloyd Family of Flatbush—Books</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Lloyd Family</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Lloyd Family &gt;&gt; Holcroft, Thomas. &lt;em&gt;Life of Baron Frederick Trenck&lt;/em&gt; (N.Y.: William Durrell)</field>
+    <field name="heading_ssm">Holcroft, Thomas. Life of Baron Frederick Trenck (N.Y.: William Durrell)</field>
+    <field name="unitdate_ssm">Inclusive, 1796, 1797</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">717</field>
+  </doc>
+</add>

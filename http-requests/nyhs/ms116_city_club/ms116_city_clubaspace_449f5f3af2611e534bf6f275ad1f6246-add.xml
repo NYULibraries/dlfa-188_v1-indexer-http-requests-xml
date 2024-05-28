@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms116_city_clubaspace_449f5f3af2611e534bf6f275ad1f6246</field>
+    <field name="ead_ssi">ms116_city_club</field>
+    <field name="parent_ssi">aspace_546569e03041dba6d7c39b38cee79a2f</field>
+    <field name="parent_ssm">aspace_546569e03041dba6d7c39b38cee79a2f</field>
+    <field name="parent_unittitles_ssm">Series I. Bound Minutes Books</field>
+    <field name="parent_unittitles_teim">Series I. Bound Minutes Books</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">City Club of New York records</field>
+    <field name="collection_ssm">City Club of New York records</field>
+    <field name="collection_unitid_ssm">MS 116</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Minutes of the Legislation Committee</field>
+    <field name="unittitle_teim">Minutes of the Legislation Committee</field>
+    <field name="unitdate_inclusive_teim">1909-1914</field>
+    <field name="ref_ssi">aspace_449f5f3af2611e534bf6f275ad1f6246</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: CC-11, Volume: 42</field>
+    <field name="location_ssm">Volume: 42</field>
+    <field name="location_si">Volume: 42</field>
+    <field name="collection_teim">City Club of New York records</field>
+    <field name="collection_unitid_teim">MS 116</field>
+    <field name="series_sim">Series I. Bound Minutes Books</field>
+    <field name="series_si">Series I. Bound Minutes Books &gt;&gt; Minutes of the Legislation Committee</field>
+    <field name="heading_ssm">Minutes of the Legislation Committee</field>
+    <field name="unitdate_ssm">Inclusive, 1909-1914</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">47</field>
+  </doc>
+</add>

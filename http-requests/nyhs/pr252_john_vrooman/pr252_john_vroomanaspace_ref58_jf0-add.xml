@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr252_john_vroomanaspace_ref58_jf0</field>
+    <field name="ead_ssi">pr252_john_vrooman</field>
+    <field name="parent_ssi">aspace_ref10_szw</field>
+    <field name="parent_ssm">aspace_ref10_szw</field>
+    <field name="parent_unittitles_ssm">unspecified</field>
+    <field name="parent_unittitles_teim">unspecified</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John J. Vrooman Photograph Collection</field>
+    <field name="collection_ssm">John J. Vrooman Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 252</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">ROTTERDAM</field>
+    <field name="unittitle_teim">ROTTERDAM</field>
+    <field name="ref_ssi">aspace_ref58_jf0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John J. Vrooman Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 252</field>
+    <field name="series_sim">unspecified</field>
+    <field name="series_si">unspecified &gt;&gt; ROTTERDAM</field>
+    <field name="heading_ssm">ROTTERDAM</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">49</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref456_y94</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Main Camp</field>
+    <field name="unittitle_teim">Main Camp</field>
+    <field name="unitdate_normal_ssm">1918/1918</field>
+    <field name="unitdate_normal_teim">1918/1918</field>
+    <field name="unitdate_normal_sim">1918/1918</field>
+    <field name="unitdate_inclusive_teim">1918</field>
+    <field name="scopecontent_teim">Tebb's Architectural Photo Co., publisher. Beecher Ogden, donor; views of Pelham Camp; "Main Camp" on cover; photos taken and mounted together to form panoramic views of the Naval Camp at Pelham, some of them marked "Extension Camp" in negative; barracks, other buildings including construction scenes; sailor on sentry duty, power plant, boat house with boats on dock; interior views of dispensary, mess hall, toilets, washroom.</field>
+    <field name="ref_ssi">aspace_ref456_y94</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 16, Volume: 144</field>
+    <field name="location_ssm">Volume: 144</field>
+    <field name="location_si">Volume: 144</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Main Camp</field>
+    <field name="heading_ssm">Main Camp</field>
+    <field name="unitdate_start_sim">1918</field>
+    <field name="unitdate_start_ssm">1918</field>
+    <field name="unitdate_start_si">1918</field>
+    <field name="unitdate_end_sim">1918</field>
+    <field name="unitdate_end_ssm">1918</field>
+    <field name="unitdate_end_si">1918</field>
+    <field name="unitdate_ssm">Inclusive, 1918</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">152</field>
+  </doc>
+</add>

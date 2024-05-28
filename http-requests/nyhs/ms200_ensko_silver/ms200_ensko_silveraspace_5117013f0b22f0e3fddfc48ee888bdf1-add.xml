@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_5117013f0b22f0e3fddfc48ee888bdf1</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_2adeacd3761ecc0cb46f38a587451c13</field>
+    <field name="parent_ssm">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_ssm">aspace_2adeacd3761ecc0cb46f38a587451c13</field>
+    <field name="parent_unittitles_ssm">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries III.C. Accounting Records</field>
+    <field name="parent_unittitles_teim">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries III.C. Accounting Records</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Accounts receivable/sales books</field>
+    <field name="unittitle_teim">Accounts receivable/sales books</field>
+    <field name="unitdate_inclusive_teim">1952-1971</field>
+    <field name="scopecontent_teim">5 volumes: August 1952-January 1954, January 1954-September 1956, October 1956-November 1959, December 1959-December 1962, then gap, and January 1968-March 1971. The volumes are a running daily list of sales made with client name, order ticket, and cash/receivable data.</field>
+    <field name="ref_ssi">aspace_5117013f0b22f0e3fddfc48ee888bdf1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 78, Volume: 1-5</field>
+    <field name="location_ssm">Volume: 1-5</field>
+    <field name="location_si">Volume: 1-5</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series III. Inventories and Financial Records</field>
+    <field name="series_sim">Subseries III.C. Accounting Records</field>
+    <field name="series_si">Series III. Inventories and Financial Records &gt;&gt; Subseries III.C. Accounting Records &gt;&gt; Accounts receivable/sales books</field>
+    <field name="heading_ssm">Accounts receivable/sales books</field>
+    <field name="unitdate_ssm">Inclusive, 1952-1971</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">103</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms295_hendricks_familyaspace_ref3_rk5</field>
+    <field name="ead_ssi">ms295_hendricks_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Hendricks Family papers</field>
+    <field name="collection_ssm">Hendricks Family papers</field>
+    <field name="collection_unitid_ssm">MS 295</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III. Hendricks Family and Partnership Business Records (1794-1928)</field>
+    <field name="unittitle_teim">Series III. Hendricks Family and Partnership Business Records (1794-1928)</field>
+    <field name="scopecontent_teim">The series includes records of businesses owned by the Hendricks family, wholly or in partnership.</field>
+    <field name="scopecontent_teim">The series is arranged into three subseries</field>
+    <field name="scopecontent_teim">
+      Subseries III.A. Partnership with Solomon I. Isaacs in  Soho Copper Company
+    </field>
+    <field name="scopecontent_teim">
+      Subseries III.B. Hendricks Brothers
+    </field>
+    <field name="scopecontent_teim">
+      Subseries III.C. Business  and property of the Soho Copper Company and Belleville Copper Rolling Mill 
+    </field>
+    <field name="ref_ssi">aspace_ref3_rk5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Hendricks Family papers</field>
+    <field name="collection_unitid_teim">MS 295</field>
+    <field name="series_si">Series III. Hendricks Family and Partnership Business Records (1794-1928)</field>
+    <field name="heading_ssm">Series III. Hendricks Family and Partnership Business Records (1794-1928)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">107</field>
+  </doc>
+</add>

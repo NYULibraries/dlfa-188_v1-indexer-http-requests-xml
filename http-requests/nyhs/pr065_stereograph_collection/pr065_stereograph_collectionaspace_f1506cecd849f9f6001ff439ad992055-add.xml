@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_f1506cecd849f9f6001ff439ad992055</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Comic and Sentimental</field>
+    <field name="unittitle_teim">Comic and Sentimental</field>
+    <field name="unitdate_inclusive_teim">1850-1910</field>
+    <field name="scopecontent_teim">Comic and Sentimental Series: This series consists of views that were staged to tell a story or to depict a scene from literature. Items are arranged into groups, and each group has an Identifier, or unique number. The Identifier can be found within the group's Scope and Contents note.  The groups are arranged by published series, or general topic.</field>
+    <field name="ref_ssi">aspace_f1506cecd849f9f6001ff439ad992055</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_si">Comic and Sentimental</field>
+    <field name="heading_ssm">Comic and Sentimental</field>
+    <field name="unitdate_ssm">Inclusive, 1850-1910</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">878</field>
+  </doc>
+</add>

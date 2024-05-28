@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr118_margaret_brown_dutch_housesaspace_ref339_1n3</field>
+    <field name="ead_ssi">pr118_margaret_brown_dutch_houses</field>
+    <field name="parent_ssi">aspace_ref338_k12</field>
+    <field name="parent_ssm">aspace_ref338_k12</field>
+    <field name="parent_unittitles_ssm">Series III. Unidentified</field>
+    <field name="parent_unittitles_teim">Series III. Unidentified</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Margaret Brown Dutch houses photograph collection</field>
+    <field name="collection_ssm">Margaret Brown Dutch houses photograph collection</field>
+    <field name="collection_unitid_ssm">PR 118</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Named Houses, Unidentified Locations</field>
+    <field name="unittitle_teim">Named Houses, Unidentified Locations</field>
+    <field name="ref_ssi">aspace_ref339_1n3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Margaret Brown Dutch houses photograph collection</field>
+    <field name="collection_unitid_teim">PR 118</field>
+    <field name="series_sim">Series III. Unidentified</field>
+    <field name="series_si">Series III. Unidentified &gt;&gt; Named Houses, Unidentified Locations</field>
+    <field name="heading_ssm">Named Houses, Unidentified Locations</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">323</field>
+  </doc>
+</add>

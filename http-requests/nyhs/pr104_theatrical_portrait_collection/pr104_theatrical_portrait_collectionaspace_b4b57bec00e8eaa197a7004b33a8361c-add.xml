@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr104_theatrical_portrait_collectionaspace_b4b57bec00e8eaa197a7004b33a8361c</field>
+    <field name="ead_ssi">pr104_theatrical_portrait_collection</field>
+    <field name="parent_ssi">aspace_6665db81c730cd9b83340c3add4fadce</field>
+    <field name="parent_ssm">aspace_c6f2ecc414d05d579688b6795c08aa32</field>
+    <field name="parent_ssm">aspace_6665db81c730cd9b83340c3add4fadce</field>
+    <field name="parent_unittitles_ssm">Series IV. Productions</field>
+    <field name="parent_unittitles_ssm">Subseries IV.A. Productions (small format)</field>
+    <field name="parent_unittitles_teim">Series IV. Productions</field>
+    <field name="parent_unittitles_teim">Subseries IV.A. Productions (small format)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_ssm">PR 104</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Motion Pictures (small)</field>
+    <field name="unittitle_teim">Motion Pictures (small)</field>
+    <field name="unitdate_inclusive_teim">circa 1912-1957, undated</field>
+    <field name="scopecontent_teim">"Destiny, or The Soul of a Woman," 1916 
+"Eve of the Revolution," 1924 
+"Gateway to the West," 1924 
+"The Golden Trail," 1920 
+"Johnny Tremain," 1957 
+"Knickerbocker Holiday," 1944 
+"Vanity Fair," 1915 
+"Your Wife and Mine," 1919 
+Westerns, miscellaneous 1923–31, undated
+Miscellaneous and unidentified circa 1912, undated</field>
+    <field name="ref_ssi">aspace_b4b57bec00e8eaa197a7004b33a8361c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 46</field>
+    <field name="location_si">Offsite-Box: 46</field>
+    <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_teim">PR 104</field>
+    <field name="series_sim">Series IV. Productions</field>
+    <field name="series_sim">Subseries IV.A. Productions (small format)</field>
+    <field name="series_si">Series IV. Productions &gt;&gt; Subseries IV.A. Productions (small format) &gt;&gt; Motion Pictures (small)</field>
+    <field name="heading_ssm">Motion Pictures (small)</field>
+    <field name="unitdate_ssm">Inclusive, circa 1912-1957, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">100</field>
+  </doc>
+</add>

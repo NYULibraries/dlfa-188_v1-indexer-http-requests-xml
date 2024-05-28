@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref70_j1x</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref12_qhd</field>
+    <field name="parent_ssm">aspace_ref12_qhd</field>
+    <field name="parent_unittitles_ssm">Series XII - Records of Other CAS Programs and Services</field>
+    <field name="parent_unittitles_teim">Series XII - Records of Other CAS Programs and Services</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">XII.2 - Family Emigration Program</field>
+    <field name="unittitle_teim">XII.2 - Family Emigration Program</field>
+    <field name="unitdate_normal_ssm">1874/1926</field>
+    <field name="unitdate_normal_teim">1874/1926</field>
+    <field name="unitdate_normal_sim">1874/1926</field>
+    <field name="unitdate_inclusive_teim">1874-1926</field>
+    <field name="scopecontent_teim">The subseries consists of 10 volumes related to the Family Emigration Program of the Children's Aid Society, arranged chronologically. Additional records of the Family Emigration Program may be found in the Company Books and Record Books of Series XI.4.</field>
+    <field name="scopecontent_teim">Beginning in 1874, the CAS initiated a "family emigration" program, providing train tickets for entire families to leave the city together, to rejoin a breadwinner or pursue other opportunities. Families traveled on the same trains as companies of children and are included in the "Company Books" and the "Record Books" in subseries XI.4. However, families were never included in the case files of the Emigration Department; the CAS did not provide additional social work care for them or track their progress. Although some information about families is contained in Emigration Department Record Books, other records of Family Emigration were kept separate, in volumes that are arranged in this series. </field>
+    <field name="ref_ssi">aspace_ref70_j1x</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series XII - Records of Other CAS Programs and Services</field>
+    <field name="series_si">Series XII - Records of Other CAS Programs and Services &gt;&gt; XII.2 - Family Emigration Program</field>
+    <field name="heading_ssm">XII.2 - Family Emigration Program</field>
+    <field name="unitdate_start_sim">1874</field>
+    <field name="unitdate_start_ssm">1874</field>
+    <field name="unitdate_start_si">1874</field>
+    <field name="unitdate_end_sim">1926</field>
+    <field name="unitdate_end_ssm">1926</field>
+    <field name="unitdate_end_si">1926</field>
+    <field name="unitdate_ssm">Inclusive, 1874-1926</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2080</field>
+  </doc>
+</add>

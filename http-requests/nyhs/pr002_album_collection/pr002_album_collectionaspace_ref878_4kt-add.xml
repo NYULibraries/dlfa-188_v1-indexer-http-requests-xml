@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref878_4kt</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ethel Amweg Scott Barber, Book I</field>
+    <field name="unittitle_teim">Ethel Amweg Scott Barber, Book I</field>
+    <field name="unitdate_normal_ssm">1880/1939</field>
+    <field name="unitdate_normal_teim">1880/1939</field>
+    <field name="unitdate_normal_sim">1880/1939</field>
+    <field name="unitdate_inclusive_teim">[1880-1939]</field>
+    <field name="scopecontent_teim">Portraits of Blanch Ethel Amweg, who went by Ethel; includes baby and childhood pictures with her mother and siblings, and at seaside entertainments, images of her at 15 and 17, and slightly later, including her in various costumes, including men's clothing; Ethel and friend dressed for masquerade; Ethel in what is probably her debutante dress, and possibly in her wedding dress to Walter Scott; views of the house decorated for her wedding, and her wedding presents; portraits of Ethel with her daughter Willette (Billie); portraits from travels, including Man Ray portraits; oter photographers include Underwood and Underwood, Kaiden and others; portrait of Ethel in her wedding dress for her wedding to Edward Barber; portraits made in Boston, San Francisco, Paris, Holywood, Florida, New York; views of her apartment on Park Ave., see also Album #190; includes early color photographs; portraits of Ethel, Billie and Mel outdoors at home. See also album #265, 267-273</field>
+    <field name="ref_ssi">aspace_ref878_4kt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 76, Volume: 266</field>
+    <field name="location_ssm">Volume: 266</field>
+    <field name="location_si">Volume: 266</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Ethel Amweg Scott Barber, Book I</field>
+    <field name="heading_ssm">Ethel Amweg Scott Barber, Book I</field>
+    <field name="unitdate_start_sim">1880</field>
+    <field name="unitdate_start_ssm">1880</field>
+    <field name="unitdate_start_si">1880</field>
+    <field name="unitdate_end_sim">1939</field>
+    <field name="unitdate_end_ssm">1939</field>
+    <field name="unitdate_end_si">1939</field>
+    <field name="unitdate_ssm">Inclusive, [1880-1939]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">302</field>
+  </doc>
+</add>

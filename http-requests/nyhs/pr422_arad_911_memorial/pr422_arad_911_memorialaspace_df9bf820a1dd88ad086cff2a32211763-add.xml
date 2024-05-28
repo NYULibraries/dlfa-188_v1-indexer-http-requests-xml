@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr422_arad_911_memorialaspace_df9bf820a1dd88ad086cff2a32211763</field>
+    <field name="ead_ssi">pr422_arad_911_memorial</field>
+    <field name="parent_ssi">aspace_4441d55f40da632fad67d72257e5c3ec</field>
+    <field name="parent_ssm">aspace_825ee8bec1e759b0d0f13717411ff39e</field>
+    <field name="parent_ssm">aspace_4441d55f40da632fad67d72257e5c3ec</field>
+    <field name="parent_unittitles_ssm">Series II: Digital Material</field>
+    <field name="parent_unittitles_ssm">Subseries II.B: CDs and DVDs</field>
+    <field name="parent_unittitles_teim">Series II: Digital Material</field>
+    <field name="parent_unittitles_teim">Subseries II.B: CDs and DVDs</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Michael Arad 9/11 Memorial papers</field>
+    <field name="collection_ssm">Michael Arad 9/11 Memorial papers</field>
+    <field name="collection_unitid_ssm">PR 422</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">CDs and DVDs</field>
+    <field name="unittitle_teim">CDs and DVDs</field>
+    <field name="unitdate_inclusive_teim">2003-2011</field>
+    <field name="ref_ssi">aspace_df9bf820a1dd88ad086cff2a32211763</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 35</field>
+    <field name="location_si">Offsite-Box: 35</field>
+    <field name="collection_teim">Michael Arad 9/11 Memorial papers</field>
+    <field name="collection_unitid_teim">PR 422</field>
+    <field name="series_sim">Series II: Digital Material</field>
+    <field name="series_sim">Subseries II.B: CDs and DVDs</field>
+    <field name="series_si">Series II: Digital Material &gt;&gt; Subseries II.B: CDs and DVDs &gt;&gt; CDs and DVDs</field>
+    <field name="heading_ssm">CDs and DVDs</field>
+    <field name="unitdate_ssm">Inclusive, 2003-2011</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">224</field>
+  </doc>
+</add>

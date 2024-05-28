@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr024_george_hall_sonaspace_ref610_7s4</field>
+    <field name="ead_ssi">pr024_george_hall_son</field>
+    <field name="parent_ssi">aspace_ref597_0yh</field>
+    <field name="parent_ssm">aspace_ref525_15c</field>
+    <field name="parent_ssm">aspace_ref540_2xv</field>
+    <field name="parent_ssm">aspace_ref597_0yh</field>
+    <field name="parent_unittitles_ssm">Series II: Photographs of The Bronx, Brooklyn, Queens and Staten Island</field>
+    <field name="parent_unittitles_ssm">Brooklyn</field>
+    <field name="parent_unittitles_ssm">Churches - Unmounted</field>
+    <field name="parent_unittitles_teim">Series II: Photographs of The Bronx, Brooklyn, Queens and Staten Island</field>
+    <field name="parent_unittitles_teim">Brooklyn</field>
+    <field name="parent_unittitles_teim">Churches - Unmounted</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">George P. Hall &amp; Son Photograph Collection</field>
+    <field name="collection_ssm">George P. Hall &amp; Son Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 24</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Second United Presbyterian Church, Atlantic Avenue (2)</field>
+    <field name="unittitle_teim">Second United Presbyterian Church, Atlantic Avenue (2)</field>
+    <field name="unitdate_normal_ssm">1895/1910</field>
+    <field name="unitdate_normal_teim">1895/1910</field>
+    <field name="unitdate_normal_sim">1895/1910</field>
+    <field name="unitdate_inclusive_teim">[1895-1910]</field>
+    <field name="ref_ssi">aspace_ref610_7s4</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 20, Folder: 176</field>
+    <field name="location_ssm">Folder: 176</field>
+    <field name="location_si">Folder: 176</field>
+    <field name="collection_teim">George P. Hall &amp; Son Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 24</field>
+    <field name="series_sim">Series II: Photographs of The Bronx, Brooklyn, Queens and Staten Island</field>
+    <field name="series_sim">Brooklyn</field>
+    <field name="series_sim">Churches - Unmounted</field>
+    <field name="series_si">Series II: Photographs of The Bronx, Brooklyn, Queens and Staten Island &gt;&gt; Brooklyn &gt;&gt; Churches - Unmounted &gt;&gt; Second United Presbyterian Church, Atlantic Avenue (2)</field>
+    <field name="heading_ssm">Second United Presbyterian Church, Atlantic Avenue (2)</field>
+    <field name="unitdate_start_sim">1895</field>
+    <field name="unitdate_start_ssm">1895</field>
+    <field name="unitdate_start_si">1895</field>
+    <field name="unitdate_end_sim">1910</field>
+    <field name="unitdate_end_ssm">1910</field>
+    <field name="unitdate_end_si">1910</field>
+    <field name="unitdate_ssm">Inclusive, [1895-1910]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">597</field>
+  </doc>
+</add>

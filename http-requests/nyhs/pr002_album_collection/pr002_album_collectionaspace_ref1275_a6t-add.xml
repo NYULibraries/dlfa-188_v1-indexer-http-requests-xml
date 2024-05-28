@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1275_a6t</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Photographs in New York and New Jersey]</field>
+    <field name="unittitle_teim">[Photographs in New York and New Jersey]</field>
+    <field name="unitdate_normal_ssm">1902/1903</field>
+    <field name="unitdate_normal_teim">1902/1903</field>
+    <field name="unitdate_normal_sim">1902/1903</field>
+    <field name="unitdate_inclusive_teim">1902-1903</field>
+    <field name="scopecontent_teim">Group portrait of men and St. Bernard dog in Central Park; group portrait of family and dog on roof; views in Prospect Park, including children, statues, the Squirrel House; water tower on Eastern Parkway, the lily pond, bridges, sleighing party, Mr. Clark with children, summer houses, waterfall; Grand Army plaza, with arch; Governors Island; Police Parade; Passaic Falls, and rapids, Patterson, N.J.; Glen Onko Falls; Obelisk and Bethesda Fountain, Central Park; sculptures of Henry Ward Beecher and George Washington; beech at Rockaway, July 4, 1903; Fort Green Park; Grant's Tomb; Williams Bridge and Speedway; Snuff Mill, waterfalls and Art Museum in Bronx Park (N.Y. Botanical Gardens); New York and Brooklyn city Halls decorated with bunting, May 1903; ducks and cattle on Staten Island; Luna Park at night, July 1903 water ride at Coney Island; beach at Coney Island; ship on the East River.</field>
+    <field name="ref_ssi">aspace_ref1275_a6t</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 93, Volume: 363</field>
+    <field name="location_ssm">Volume: 363</field>
+    <field name="location_si">Volume: 363</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Photographs in New York and New Jersey]</field>
+    <field name="heading_ssm">[Photographs in New York and New Jersey]</field>
+    <field name="unitdate_start_sim">1902</field>
+    <field name="unitdate_start_ssm">1902</field>
+    <field name="unitdate_start_si">1902</field>
+    <field name="unitdate_end_sim">1903</field>
+    <field name="unitdate_end_ssm">1903</field>
+    <field name="unitdate_end_si">1903</field>
+    <field name="unitdate_ssm">Inclusive, 1902-1903</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">423</field>
+  </doc>
+</add>

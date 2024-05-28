@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms282_harmonie_clubaspace_ref69_l39</field>
+    <field name="ead_ssi">ms282_harmonie_club</field>
+    <field name="parent_ssi">aspace_ref67_50d</field>
+    <field name="parent_ssm">aspace_ref67_50d</field>
+    <field name="parent_unittitles_ssm">Series III: Membership Books and Candidate Registers</field>
+    <field name="parent_unittitles_teim">Series III: Membership Books and Candidate Registers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Harmonie Club records</field>
+    <field name="collection_ssm">Harmonie Club records</field>
+    <field name="collection_unitid_ssm">MS 282</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">List of Members</field>
+    <field name="unittitle_teim">List of Members</field>
+    <field name="unitdate_teim">1859 - 1884</field>
+    <field name="ref_ssi">aspace_ref69_l39</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 22, Volume: 55</field>
+    <field name="location_ssm">Volume: 55</field>
+    <field name="location_si">Volume: 55</field>
+    <field name="collection_teim">Harmonie Club records</field>
+    <field name="collection_unitid_teim">MS 282</field>
+    <field name="series_sim">Series III: Membership Books and Candidate Registers</field>
+    <field name="series_si">Series III: Membership Books and Candidate Registers &gt;&gt; List of Members</field>
+    <field name="heading_ssm">List of Members</field>
+    <field name="unitdate_ssm">1859 - 1884</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">68</field>
+  </doc>
+</add>

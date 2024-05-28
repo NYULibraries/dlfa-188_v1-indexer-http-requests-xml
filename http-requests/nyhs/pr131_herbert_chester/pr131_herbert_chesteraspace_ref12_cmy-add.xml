@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr131_herbert_chesteraspace_ref12_cmy</field>
+    <field name="ead_ssi">pr131_herbert_chester</field>
+    <field name="parent_ssi">aspace_ref11_ui2</field>
+    <field name="parent_ssm">aspace_ref11_ui2</field>
+    <field name="parent_unittitles_ssm">California</field>
+    <field name="parent_unittitles_teim">California</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">H.M. Chester photograph collection</field>
+    <field name="collection_ssm">H.M. Chester photograph collection</field>
+    <field name="collection_unitid_ssm">PR 131</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Alcatraz Island</field>
+    <field name="unittitle_teim">Alcatraz Island</field>
+    <field name="ref_ssi">aspace_ref12_cmy</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">H.M. Chester photograph collection</field>
+    <field name="collection_unitid_teim">PR 131</field>
+    <field name="series_sim">California</field>
+    <field name="series_si">California &gt;&gt; Alcatraz Island</field>
+    <field name="heading_ssm">Alcatraz Island</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

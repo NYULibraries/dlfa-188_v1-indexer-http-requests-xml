@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_ref3210_mo0</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_ref3181_20y</field>
+    <field name="parent_ssm">aspace_ref5_ggh</field>
+    <field name="parent_ssm">aspace_ref11_zwc</field>
+    <field name="parent_ssm">aspace_ref3181_20y</field>
+    <field name="parent_unittitles_ssm">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_ssm">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="parent_unittitles_ssm"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="parent_unittitles_teim">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_teim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="parent_unittitles_teim"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Government- General</field>
+    <field name="unittitle_teim">Government- General</field>
+    <field name="scopecontent_teim">Barge office on Battery Place;</field>
+    <field name="scopecontent_teim">Castle Garden immigration station;</field>
+    <field name="scopecontent_teim">Custom House [Federal Hall National Monument] on Wall Street;</field>
+    <field name="scopecontent_teim">Custom House on Bowling Green;</field>
+    <field name="scopecontent_teim">Federal Office Building, 90 Church Street;</field>
+    <field name="scopecontent_teim">Hall of Records, City Hall Park;</field>
+    <field name="scopecontent_teim">Municipal Building;</field>
+    <field name="scopecontent_teim">New York County Courthouse;</field>
+    <field name="scopecontent_teim">Second Circuit Court of Appeals</field>
+    <field name="ref_ssi">aspace_ref3210_mo0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF357</field>
+    <field name="location_si">Folder: FF357</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series I: New York City Views - Manhattan</field>
+    <field name="series_sim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="series_sim"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt;  Manhattan - Flat Material - Photos - Buildings &gt;&gt; Government- General</field>
+    <field name="heading_ssm">Government- General</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1727</field>
+  </doc>
+</add>

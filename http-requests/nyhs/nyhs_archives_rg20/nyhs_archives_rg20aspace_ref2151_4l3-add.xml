@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg20aspace_ref2151_4l3</field>
+    <field name="ead_ssi">nyhs_archives_rg20</field>
+    <field name="parent_ssi">aspace_ref982_l3x</field>
+    <field name="parent_ssm">aspace_ref982_l3x</field>
+    <field name="parent_unittitles_ssm">Series VI. Object Images</field>
+    <field name="parent_unittitles_teim">Series VI. Object Images</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Museum Department records</field>
+    <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 20</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VI.B. Sets of Images</field>
+    <field name="unittitle_teim">Subseries VI.B. Sets of Images</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="scopecontent_teim">The subseries includes sets of images representing portions of N-YHS's current or past collections. The subseries currently holds only a few such sets: negatives of the Stuart collection, small (4" x 3") lantern slides of works by American and European artists, and photographs of the Rufus A. Grider powder horns, George Catlin drawings, and Dunsmore drawings. </field>
+    <field name="scopecontent_teim">In 2019, several trays of slides were transferred to the archives. These appear to be of various objects and of objects in exhibitions. Some slides appear to be reference objects from other institutions.</field>
+    <field name="ref_ssi">aspace_ref2151_4l3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 20</field>
+    <field name="series_sim">Series VI. Object Images</field>
+    <field name="series_si">Series VI. Object Images &gt;&gt; Subseries VI.B. Sets of Images</field>
+    <field name="heading_ssm">Subseries VI.B. Sets of Images</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1659</field>
+  </doc>
+</add>

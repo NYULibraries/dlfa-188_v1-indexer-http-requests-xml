@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_2adeacd3761ecc0cb46f38a587451c13</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_ssm">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_unittitles_ssm">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_teim">Series III. Inventories and Financial Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III.C. Accounting Records</field>
+    <field name="unittitle_teim">Subseries III.C. Accounting Records</field>
+    <field name="unitdate_inclusive_teim">1929-1971</field>
+    <field name="scopecontent_teim">The subseries includes various accounting records, especially sales/accounts receivable and inventory purchase/accounts payable records. The subseries also holds some of the earliest records of the firm after its incorporation in 1929, including early tax returns and sales journal. Check registers, payroll records, and other accounting records are in the subseries. None of the journals, ledgers, etc. are complete, though there are substantial periods of time covered by some.</field>
+    <field name="ref_ssi">aspace_2adeacd3761ecc0cb46f38a587451c13</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series III. Inventories and Financial Records</field>
+    <field name="series_si">Series III. Inventories and Financial Records &gt;&gt; Subseries III.C. Accounting Records</field>
+    <field name="heading_ssm">Subseries III.C. Accounting Records</field>
+    <field name="unitdate_ssm">Inclusive, 1929-1971</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">93</field>
+  </doc>
+</add>

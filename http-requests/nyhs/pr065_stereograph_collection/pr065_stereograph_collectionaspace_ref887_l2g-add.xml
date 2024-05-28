@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref887_l2g</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_ssm">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_unittitles_ssm">Subjects</field>
+    <field name="parent_unittitles_teim">Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Subjects--Sports, games, recreation</field>
+    <field name="unittitle_teim">Subjects--Sports, games, recreation</field>
+    <field name="unitdate_inclusive_teim">[1860-1910]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0873</field>
+    <field name="scopecontent_teim">Sports and games: a baseball team, beaches and swimming, including view of men at an indoor swimming pool, woman in bloomers on a safety bicycle, blind-man's-bluff, a boxing match between McGovern and Palmer, people boating on lakes and streams, including a view of a band in a boat, and a group of rowers with racing shells, people camping, people playing cards, croquet, women doing gymnastics out-of-doors, group with jump rope, minstrel group on a wagon, picnic groups, woman on a swing, women with tennis or other rackets, young women on teeter-totter, girls and women wading or sitting by streams, people watching a yacht race, man and woman playing unidentified game out of doors, groups relaxing on porches and in parks.</field>
+    <field name="scopecontent_teim">65 items</field>
+    <field name="ref_ssi">aspace_ref887_l2g</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 84</field>
+    <field name="location_si">Box: 84</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Subjects</field>
+    <field name="series_si">Subjects &gt;&gt; Subjects--Sports, games, recreation</field>
+    <field name="heading_ssm">Subjects--Sports, games, recreation</field>
+    <field name="unitdate_ssm">Inclusive, [1860-1910]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">875</field>
+  </doc>
+</add>

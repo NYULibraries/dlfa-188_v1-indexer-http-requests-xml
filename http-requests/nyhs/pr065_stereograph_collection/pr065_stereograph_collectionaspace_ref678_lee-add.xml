@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref678_lee</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">South Carolina--Charleston</field>
+    <field name="unittitle_teim">South Carolina--Charleston</field>
+    <field name="unitdate_inclusive_teim">[1865-1885]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0664</field>
+    <field name="scopecontent_teim">Charleston, S.C.: views on the eastern Battery, including view from a balcony; cotton piled high on a wharf; African Americans carrying baskets of cotton on their heads, at the cotton warehouse; Broad Street; St. Michael's Church; Unitarian and Lutheran Churches; the Vulcan iron works with a fanciful display of decorative ironwork; the post office; Fort Sumter; palmetto trees; Oceola's grave at Fort Moultrie; Goose Creek Church; Dorchester Tower, Goose Creek; Magnolia Cemetery.</field>
+    <field name="scopecontent_teim">20 items</field>
+    <field name="ref_ssi">aspace_ref678_lee</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 59</field>
+    <field name="location_si">Box: 59</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; South Carolina--Charleston</field>
+    <field name="heading_ssm">South Carolina--Charleston</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1885]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">665</field>
+  </doc>
+</add>

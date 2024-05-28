@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref65_dvv</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref64_u7v</field>
+    <field name="parent_ssm">aspace_ref11_8wt</field>
+    <field name="parent_ssm">aspace_ref64_u7v</field>
+    <field name="parent_unittitles_ssm">Series XI - Records of the Children's Emigration, Placing-Out, and Foster Home Programs</field>
+    <field name="parent_unittitles_ssm">Subseries X1.4 - Emigration/Placing-Out Program, Bound Volumes</field>
+    <field name="parent_unittitles_teim">Series XI - Records of the Children's Emigration, Placing-Out, and Foster Home Programs</field>
+    <field name="parent_unittitles_teim">Subseries X1.4 - Emigration/Placing-Out Program, Bound Volumes</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-Subseries XI.4.A - Emigration/Placing-Out Department Volumes</field>
+    <field name="unittitle_teim">Sub-Subseries XI.4.A - Emigration/Placing-Out Department Volumes</field>
+    <field name="unitdate_normal_ssm">1855/1922</field>
+    <field name="unitdate_normal_teim">1855/1922</field>
+    <field name="unitdate_normal_sim">1855/1922</field>
+    <field name="unitdate_inclusive_teim">1855-1922</field>
+    <field name="scopecontent_teim">Subseries XI.4.A consists of 42 volumes produced by the Emigration/Placing-Out program of the CAS between 1853-1922. The volumes overlap with the volumes in the following subseries, XI.4.B. The materials include Surrender Volumes which document children turned over by their guardians to the custody of the Children's Aid Society, Company Volumes which list children by the groups in which they traveled to the country together, and various other volumes listing placements, applications for children, financial records, and other records of the Emigration Program 1853-1922. The volumes are arranged chronologically by the initial date of the volume. Some of the volumes in this sub-subseries are RESTRICTED. Restricted volumes are labelled as such in this finding aid and on the volumes themselves.</field>
+    <field name="title_teim">Some of the volumes in this sub-subseries are RESTRICTED. Restricted volumes are labelled as such in this finding aid and on the volumes themselves.</field>
+    <field name="title_ssm">Some of the volumes in this sub-subseries are RESTRICTED. Restricted volumes are labelled as such in this finding aid and on the volumes themselves.</field>
+    <field name="ref_ssi">aspace_ref65_dvv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series XI - Records of the Children's Emigration, Placing-Out, and Foster Home Programs</field>
+    <field name="series_sim">Subseries X1.4 - Emigration/Placing-Out Program, Bound Volumes</field>
+    <field name="series_si">Series XI - Records of the Children's Emigration, Placing-Out, and Foster Home Programs &gt;&gt; Subseries X1.4 - Emigration/Placing-Out Program, Bound Volumes &gt;&gt; Sub-Subseries XI.4.A - Emigration/Placing-Out Department Volumes</field>
+    <field name="heading_ssm">Sub-Subseries XI.4.A - Emigration/Placing-Out Department Volumes</field>
+    <field name="unitdate_start_sim">1855</field>
+    <field name="unitdate_start_ssm">1855</field>
+    <field name="unitdate_start_si">1855</field>
+    <field name="unitdate_end_sim">1922</field>
+    <field name="unitdate_end_ssm">1922</field>
+    <field name="unitdate_end_si">1922</field>
+    <field name="unitdate_ssm">Inclusive, 1855-1922</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1923</field>
+  </doc>
+</add>

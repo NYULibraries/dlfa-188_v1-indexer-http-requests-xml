@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg02aspace_ref855_lf7</field>
+    <field name="ead_ssi">timeinc_ms3009_rg02</field>
+    <field name="parent_ssi">aspace_d413de1b4356f5870559fa614fb076e1</field>
+    <field name="parent_ssm">aspace_d413de1b4356f5870559fa614fb076e1</field>
+    <field name="parent_unittitles_ssm">Names D</field>
+    <field name="parent_unittitles_teim">Names D</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Time Inc. Bio Files</field>
+    <field name="collection_ssm">Time Inc. Bio Files</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Del Solar, Daniel</field>
+    <field name="unittitle_teim">Del Solar, Daniel</field>
+    <field name="ref_ssi">aspace_ref855_lf7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 319, Folder: 39-40</field>
+    <field name="location_ssm">Folder: 39-40</field>
+    <field name="location_si">Folder: 39-40</field>
+    <field name="collection_teim">Time Inc. Bio Files</field>
+    <field name="collection_unitid_teim">MS 3009-RG 2</field>
+    <field name="series_sim">Names D</field>
+    <field name="series_si">Names D &gt;&gt; Del Solar, Daniel</field>
+    <field name="heading_ssm">Del Solar, Daniel</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">930</field>
+  </doc>
+</add>

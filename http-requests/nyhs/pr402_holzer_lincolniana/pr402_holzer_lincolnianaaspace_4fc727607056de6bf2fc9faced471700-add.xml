@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr402_holzer_lincolnianaaspace_4fc727607056de6bf2fc9faced471700</field>
+    <field name="ead_ssi">pr402_holzer_lincolniana</field>
+    <field name="parent_ssi">aspace_6322dcbcea5c0b7edcdaefc011aa38ea</field>
+    <field name="parent_ssm">aspace_6322dcbcea5c0b7edcdaefc011aa38ea</field>
+    <field name="parent_unittitles_ssm">Series III. Memorial prints of Lincoln</field>
+    <field name="parent_unittitles_teim">Series III. Memorial prints of Lincoln</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Harold Holzer collection of Lincolniana</field>
+    <field name="collection_ssm">Harold Holzer collection of Lincolniana</field>
+    <field name="collection_unitid_ssm">PR 402</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Fishel, Adler &amp;amp; Schwartz. "Abraham Lincoln"</field>
+    <field name="unittitle_teim">Fishel, Adler &amp; Schwartz. "Abraham Lincoln"</field>
+    <field name="unitdate_inclusive_teim">circa 1875-1900</field>
+    <field name="scopecontent_teim">Engraving featuring Lincoln's head on Andrew Jackson's body. Published in New York, late 19th century.</field>
+    <field name="ref_ssi">aspace_4fc727607056de6bf2fc9faced471700</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: FF-1, item: 4</field>
+    <field name="location_ssm">item: 4</field>
+    <field name="location_si">item: 4</field>
+    <field name="collection_teim">Harold Holzer collection of Lincolniana</field>
+    <field name="collection_unitid_teim">PR 402</field>
+    <field name="series_sim">Series III. Memorial prints of Lincoln</field>
+    <field name="series_si">Series III. Memorial prints of Lincoln &gt;&gt; Fishel, Adler &amp;amp; Schwartz. "Abraham Lincoln"</field>
+    <field name="heading_ssm">Fishel, Adler &amp; Schwartz. "Abraham Lincoln"</field>
+    <field name="unitdate_ssm">Inclusive, circa 1875-1900</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

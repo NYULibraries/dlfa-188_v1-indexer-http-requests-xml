@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg21aspace_ref355_lbn</field>
+    <field name="ead_ssi">nyhs_archives_rg21</field>
+    <field name="parent_ssi">aspace_ref2_zn9</field>
+    <field name="parent_ssm">aspace_ref2_zn9</field>
+    <field name="parent_unittitles_ssm">Series III. General Office Files </field>
+    <field name="parent_unittitles_teim">Series III. General Office Files </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society Library Department records</field>
+    <field name="collection_ssm">New-York Historical Society Library Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 21</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">General Files. Purchases &amp;amp; Invoices (2 of 8 boxes)</field>
+    <field name="unittitle_teim">General Files. Purchases &amp; Invoices (2 of 8 boxes)</field>
+    <field name="unitdate_teim">1986-1995</field>
+    <field name="scopecontent_teim">This box holds RLG invoices from 1986-1995 and other invoices for FY 1993.</field>
+    <field name="ref_ssi">aspace_ref355_lbn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 93, Folder: -</field>
+    <field name="location_ssm">Folder: -</field>
+    <field name="location_si">Folder: -</field>
+    <field name="collection_teim">New-York Historical Society Library Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 21</field>
+    <field name="series_sim">Series III. General Office Files </field>
+    <field name="series_si">Series III. General Office Files  &gt;&gt; General Files. Purchases &amp;amp; Invoices (2 of 8 boxes)</field>
+    <field name="heading_ssm">General Files. Purchases &amp; Invoices (2 of 8 boxes)</field>
+    <field name="unitdate_ssm">1986-1995</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">271</field>
+  </doc>
+</add>

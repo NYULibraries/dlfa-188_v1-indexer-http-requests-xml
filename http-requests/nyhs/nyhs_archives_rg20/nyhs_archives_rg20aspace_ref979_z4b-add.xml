@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg20aspace_ref979_z4b</field>
+    <field name="ead_ssi">nyhs_archives_rg20</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Museum Department records</field>
+    <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 20</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V. Catalogues, Inventories, Surveys</field>
+    <field name="unittitle_teim">Series V. Catalogues, Inventories, Surveys</field>
+    <field name="unitdate_teim">1830-2000</field>
+    <field name="scopecontent_teim">The series includes a wide variety of miscellaneous catalogues, inventories, and other documents related to object descriptions. These range from John Delafield's 1830 handwritten inventory of the ancient coins and medals in the N-YHS "cabinet" to the user manual for the Multi-MIMSY 2000 System, N-YHS's collection management system at the turn of the twenty-first century. The series also holds the annotated and edited manuscripts of three catalogues published in the 1970s-1980s of N-YHS's American paintings (by Richard J. Koke and by Wayne Craven) and glass paperweights (by Paul Hollister). The container list includes a complete list of the specific contents.</field>
+    <field name="ref_ssi">aspace_ref979_z4b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 20</field>
+    <field name="series_si">Series V. Catalogues, Inventories, Surveys</field>
+    <field name="heading_ssm">Series V. Catalogues, Inventories, Surveys</field>
+    <field name="unitdate_ssm">1830-2000</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1604</field>
+  </doc>
+</add>

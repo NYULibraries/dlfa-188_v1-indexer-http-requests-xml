@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref399_1sa</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Unidentified family album depicting Maine, and possibly other areas]</field>
+    <field name="unittitle_teim">[Unidentified family album depicting Maine, and possibly other areas]</field>
+    <field name="unitdate_normal_ssm">1915/1925</field>
+    <field name="unitdate_normal_teim">1915/1925</field>
+    <field name="unitdate_normal_sim">1915/1925</field>
+    <field name="unitdate_inclusive_teim">[1915-1925]</field>
+    <field name="scopecontent_teim">Snapshots of a shingle-style house, with Craftsman interior details and furniture, located on a rocky shoreline, probably on Cousin Island in Maine; snapshots of the occupants of the house, most shot on the porch, including women knitting, and a man with binoculars, and people with dogs, cats and horses; steamboats on the sound, people fishing; group loading wagon with hay; views after a snow, (New Hampshire) showing houses and fields covered with snow, a sleigh, a woman holding snow-shoes; baby named Lawrence at 7 months, Sept. 1925; postcard format photographs of cousins Island; photos in envelope from a Portland, Me. photo processor laid in.</field>
+    <field name="ref_ssi">aspace_ref399_1sa</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 13, Volume: 125</field>
+    <field name="location_ssm">Volume: 125</field>
+    <field name="location_si">Volume: 125</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Unidentified family album depicting Maine, and possibly other areas]</field>
+    <field name="heading_ssm">[Unidentified family album depicting Maine, and possibly other areas]</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1925</field>
+    <field name="unitdate_end_ssm">1925</field>
+    <field name="unitdate_end_si">1925</field>
+    <field name="unitdate_ssm">Inclusive, [1915-1925]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">133</field>
+  </doc>
+</add>

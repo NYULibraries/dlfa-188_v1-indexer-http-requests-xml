@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms443_19_nyc_misc_manuscriptsaspace_f02fbfbf0a08321ba06ceaf5ac596e24</field>
+    <field name="ead_ssi">ms443_19_nyc_misc_manuscripts</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of New York City miscellaneous manuscripts</field>
+    <field name="collection_ssm">New-York Historical Society collection of New York City miscellaneous manuscripts</field>
+    <field name="collection_unitid_ssm">MS 443.19</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">List of Grand Jurors containing 25 names</field>
+    <field name="unittitle_teim">List of Grand Jurors containing 25 names</field>
+    <field name="unitdate_inclusive_teim">1787-1789</field>
+    <field name="scopecontent_teim">One list for 1787 and one list for 1789, both lists contain about 25 names</field>
+    <field name="ref_ssi">aspace_f02fbfbf0a08321ba06ceaf5ac596e24</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 61</field>
+    <field name="location_ssm">Folder: 61</field>
+    <field name="location_si">Folder: 61</field>
+    <field name="collection_teim">New-York Historical Society collection of New York City miscellaneous manuscripts</field>
+    <field name="collection_unitid_teim">MS 443.19</field>
+    <field name="series_si">List of Grand Jurors containing 25 names</field>
+    <field name="heading_ssm">List of Grand Jurors containing 25 names</field>
+    <field name="unitdate_ssm">Inclusive, 1787-1789</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">482</field>
+  </doc>
+</add>

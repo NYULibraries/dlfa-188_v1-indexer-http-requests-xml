@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr256_daniel_huntington_study_portraitsaspace_ref13_loi</field>
+    <field name="ead_ssi">pr256_daniel_huntington_study_portraits</field>
+    <field name="parent_ssi">aspace_ref12_nz4</field>
+    <field name="parent_ssm">aspace_ref11_o3u</field>
+    <field name="parent_ssm">aspace_ref12_nz4</field>
+    <field name="parent_unittitles_ssm">Portraits</field>
+    <field name="parent_unittitles_ssm">unspecified</field>
+    <field name="parent_unittitles_teim">Portraits</field>
+    <field name="parent_unittitles_teim">unspecified</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Daniel Huntington Study Portrait Collection</field>
+    <field name="collection_ssm">Daniel Huntington Study Portrait Collection</field>
+    <field name="collection_unitid_ssm">PR 256</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Adams, William (1813-1897), clergyman</field>
+    <field name="unittitle_teim">Adams, William (1813-1897), clergyman</field>
+    <field name="ref_ssi">aspace_ref13_loi</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Unknown container 331 for instance of Adams, William (1813-1897), clergyman, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Daniel Huntington Study Portrait Collection</field>
+    <field name="collection_unitid_teim">PR 256</field>
+    <field name="series_sim">Portraits</field>
+    <field name="series_sim">unspecified</field>
+    <field name="series_si">Portraits &gt;&gt; unspecified &gt;&gt; Adams, William (1813-1897), clergyman</field>
+    <field name="heading_ssm">Adams, William (1813-1897), clergyman</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

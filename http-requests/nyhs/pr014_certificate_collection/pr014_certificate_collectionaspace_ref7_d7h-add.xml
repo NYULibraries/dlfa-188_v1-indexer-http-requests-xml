@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref7_d7h</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV: Civic</field>
+    <field name="unittitle_teim">Series IV: Civic</field>
+    <field name="unitdate_inclusive_teim">1778-1943</field>
+    <field name="scopecontent_teim">This series includes commendations, membership, and professional certificates.  Most were issued by fire and police departments  </field>
+    <field name="scopecontent_teim">One fire department certificate is a colorful lithograph printed by Currier and Ives. New York City Fire Department certificates include several engraved by Peter Maverick from a drawing by Archibald Robertson. Another certificate, a fireman's exemption from jury duty, has an 1829 ten cent piece attached. Other fire department certificates were isuued by Albany, Paterson, San Francisco, and Toledo departments.</field>
+    <field name="scopecontent_teim">Police department certificates include appointments to various positions in the New York City and Morrisania departments as well as a membership certificate to the Police Endowment Fund Association. One 1896 certificate is signed by Theodore Roosevelt, then president of New York's Board of Police Commissioners. Certificates given to policemen to commemorate cases they helped solve are hand-lettered and illustrated. One of these has an albumen portrait of Elmira, NY Police Chief Levi D. Little attached.</field>
+    <field name="scopecontent_teim">Membership certificates from the Committee of Vigilance of the City of San Francisco include several that once belonged to John Stoneacre Ellis. There is also a certificate heralding the appointment of Benjamin Crane to Superintendent of Central Park 1870.</field>
+    <field name="scopecontent_teim">
+Certificates honoring retiring or resigning workers are particularly beautiful. A certificate recording the resignation of fireman Zophar Mills includes an albumen photograph of a fire engine. Another, given to Colonel J. Mayhew Wainwright upon his resignation as the Commissioner of the Westchester County Park Commission, is hand-lettered in the style of an illuminated manuscript. Also included are certificates for Columbus Ryan, George Rivet Van Namee, and John W. Chambers. An albumen photograph of John Chambers is included on his certificate.</field>
+    <field name="ref_ssi">aspace_ref7_d7h</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series IV: Civic</field>
+    <field name="heading_ssm">Series IV: Civic</field>
+    <field name="unitdate_ssm">Inclusive, 1778-1943</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">40</field>
+  </doc>
+</add>

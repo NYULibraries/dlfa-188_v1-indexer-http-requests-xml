@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2916_graham_windhamaspace_ref10_d80</field>
+    <field name="ead_ssi">ms2916_graham_windham</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Graham Windham Records</field>
+    <field name="collection_ssm">Graham Windham Records</field>
+    <field name="collection_unitid_ssm">MS 2916</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="unittitle_teim">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="unitdate_normal_ssm">1806/1977</field>
+    <field name="unitdate_normal_teim">1806/1977</field>
+    <field name="unitdate_normal_sim">1806/1977</field>
+    <field name="unitdate_inclusive_teim">1806-1977</field>
+    <field name="scopecontent_teim">The Orphan Asylum Society (founded 1806) was renamed the Graham School in 1929, and the Graham Home for Children in 1950.  It merged with Windham Child Care in 1977.  Series I consists of the agency's records before the merger.  For records after the merger, please see Series III.  </field>
+    <field name="scopecontent_teim">Series I contains records of the Orphan Asylum Society/Graham School/Graham Home, 1806-1981 (bulk 1806-1977), mostly in the form of bound volumes and photographs.  There is no administrative correspondence.  Series I is arranged in ten subseries as follows:</field>
+    <field name="ref_ssi">aspace_ref10_d80</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Graham Windham Records</field>
+    <field name="collection_unitid_teim">MS 2916</field>
+    <field name="series_si">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="heading_ssm">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="unitdate_start_sim">1806</field>
+    <field name="unitdate_start_ssm">1806</field>
+    <field name="unitdate_start_si">1806</field>
+    <field name="unitdate_end_sim">1977</field>
+    <field name="unitdate_end_ssm">1977</field>
+    <field name="unitdate_end_si">1977</field>
+    <field name="unitdate_ssm">Inclusive, 1806-1977</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3113_new_england_societyaspace_148d6f9193256c6d227eaf43dfb44633</field>
+    <field name="ead_ssi">ms3113_new_england_society</field>
+    <field name="parent_ssi">aspace_2cd1ae4c5f2a3f27261549813ada386d</field>
+    <field name="parent_ssm">aspace_2cd1ae4c5f2a3f27261549813ada386d</field>
+    <field name="parent_unittitles_ssm">Series V. Financial Records</field>
+    <field name="parent_unittitles_teim">Series V. Financial Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New England Society in the City of New York records</field>
+    <field name="collection_ssm">New England Society in the City of New York records</field>
+    <field name="collection_unitid_ssm">MS 3113</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Account book</field>
+    <field name="unittitle_teim">Account book</field>
+    <field name="unitdate_inclusive_teim">1929</field>
+    <field name="ref_ssi">aspace_148d6f9193256c6d227eaf43dfb44633</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 14, Folder: 28</field>
+    <field name="location_ssm">Folder: 28</field>
+    <field name="location_si">Folder: 28</field>
+    <field name="collection_teim">New England Society in the City of New York records</field>
+    <field name="collection_unitid_teim">MS 3113</field>
+    <field name="series_sim">Series V. Financial Records</field>
+    <field name="series_si">Series V. Financial Records &gt;&gt; Account book</field>
+    <field name="heading_ssm">Account book</field>
+    <field name="unitdate_ssm">Inclusive, 1929</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">104</field>
+  </doc>
+</add>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg21aspace_ref6_cgu</field>
+    <field name="ead_ssi">nyhs_archives_rg21</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Library Department records</field>
+    <field name="collection_ssm">New-York Historical Society Library Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 21</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V. Exhibitions</field>
+    <field name="unittitle_teim">Series V. Exhibitions</field>
+    <field name="unitdate_teim">1969-2011 (bulk, 1992-2001)</field>
+    <field name="scopecontent_teim">The series includes files concerning various installed and proposed exhibitions. These files are only those found as standalone records during processing; many other exhibition files found with curatorial and conservation lab records remain with those series. Principal exhibitions represented in this series are actual and proposed "Library Treasures" shows from 1969-1995, Letters from a War (1993-1994) and the related Pray for Me (2000), Militant Metropolis: New York City and the Spanish-American War (1998), and Inventing the Skyline: The Architecture of Cass Gilbert (2000). The series also holds many original exhibition labels, though most are not identified as to which exhibition they were part of.</field>
+    <field name="ref_ssi">aspace_ref6_cgu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Library Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 21</field>
+    <field name="series_si">Series V. Exhibitions</field>
+    <field name="heading_ssm">Series V. Exhibitions</field>
+    <field name="unitdate_ssm">1969-2011 (bulk, 1992-2001)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">365</field>
+  </doc>
+</add>

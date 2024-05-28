@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref326_i7s</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Commercial bldgs. -- Hotels</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Commercial bldgs. -- Hotels</field>
+    <field name="unitdate_normal_ssm">1865/1957</field>
+    <field name="unitdate_normal_teim">1865/1957</field>
+    <field name="unitdate_normal_sim">1865/1957</field>
+    <field name="unitdate_inclusive_teim">[1865-1957]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0312</field>
+    <field name="scopecontent_teim">Hotels: Albermarle House; Astor House (home of Thurlow Weed); Brevoort House; Central Hotel and nearby businesses; Joseph Conrad's Hotel at Central Bridge, wagon out front, and theater posters on nearby wall; Coleman House, Broadway; Cumberland House, with businesses in lower floor; African-American waiters at the ready in the dining room of Earle's Hotel, corner Canal and Centre Streets; Everett House, Union Square; the Gilsey House, Broadway and 29th, with drugstore in lower floor; Grand Hotel, Broadway and 31st; Henry Bertholf's Hotel, wood-frame building with awnings over the porch, Harlem Lane; Hoffman House, Fifth Avenue and 25th;, including interior showing ornate parlor; grand staircase in the Holland House; Hotel Astor, with marquee advertising Sammy Kaye and his Orchestra; Hotel Brunswick; Hotel Holley from Washington Square; looking out the W. 72nd Street gate of Central Park at the Hotel Majestic; Hotels Netherland and Savoy, showing trolley tracks running up the street between them; the Lafarge House and Broadway; New York Hotel, with Gurney's Gallery to the left; St. James Hotel, Broadway; St. Nicholas Hotel, Broadway, Spring and Broome Sts., including interior view of dining room; Springler House, with a Saloon, a Ladies Hair Store and other businesses in lower floors, men in top-hats on the stoop; Stewart's Hotel for Female Operatives; Tammany Hall and Hotel; Union Square Hotel, with organ and piano stores next door, taken from the Domestic Sewing Machine Co.; Village Hotel, 154 Bleecker Street; Waldorf-Astoria Hotel, with street thronged with traffic; carriage in front of the Washington Hotel; Windsor Hotel, Fifth Ave. and 46th St., including an interior view of the dining room.</field>
+    <field name="scopecontent_teim">57 items</field>
+    <field name="ref_ssi">aspace_ref326_i7s</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 30</field>
+    <field name="location_si">Box: 30</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Commercial bldgs. -- Hotels</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Commercial bldgs. -- Hotels</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1957]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">313</field>
+  </doc>
+</add>

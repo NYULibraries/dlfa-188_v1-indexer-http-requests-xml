@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms615_john_tayloraspace_ref1_vql</field>
+    <field name="ead_ssi">ms615_john_taylor</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John W. Taylor Papers</field>
+    <field name="collection_ssm">John W. Taylor Papers</field>
+    <field name="collection_unitid_ssm">MS 615</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Correspondence</field>
+    <field name="unittitle_teim">Series 1: Correspondence</field>
+    <field name="unitdate_normal_ssm">1812/1847</field>
+    <field name="unitdate_normal_teim">1812/1847</field>
+    <field name="unitdate_normal_sim">1812/1847</field>
+    <field name="unitdate_inclusive_teim">1812-1847</field>
+    <field name="scopecontent_teim">Series 1: Correspondence is arranged alphabetically by correspondent.</field>
+    <field name="scopecontent_teim">Series 1 consists of two subseries.  Subseries 1 contains correspondence received by John W. Taylor primarily through the years of 1813-1833 while he served in Congress.  The letters address a range of local, state and federal political issues including elections, political parties and abolition.  Subseries 2 consists of draft or copy forms of correspondence created by John W. Taylor.  This subseries includes over 80 letters to his wife, Jane Hodges Taylor from 1813-1833 that document a somewhat more intimate reflection on his day-to-day political life.  Also in Subseries 2 is a draft of Taylor's letter sent to and the response received from Thomas Jefferson.  While Jefferson declines knowledge of Taylor's request for information about Phi Beta Kappa, he does offer an unsolicited, somewhat cryptic but supportive in tone recognition of Taylor's political endeavors presumably with regard to his abolitionist stance. In light of Jefferson's acknowledged concern of the impact of the abolitionist movement upon the cohesiveness of the Union and his publicly neutral stance regarding the Missouri Compromises, this is an intriguing aspect of the collection.</field>
+    <field name="ref_ssi">aspace_ref1_vql</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 4</field>
+    <field name="location_ssm">Box: 3</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">John W. Taylor Papers</field>
+    <field name="collection_unitid_teim">MS 615</field>
+    <field name="series_si">Series 1: Correspondence</field>
+    <field name="heading_ssm">Series 1: Correspondence</field>
+    <field name="unitdate_start_sim">1812</field>
+    <field name="unitdate_start_ssm">1812</field>
+    <field name="unitdate_start_si">1812</field>
+    <field name="unitdate_end_sim">1847</field>
+    <field name="unitdate_end_ssm">1847</field>
+    <field name="unitdate_end_si">1847</field>
+    <field name="unitdate_ssm">Inclusive, 1812-1847</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

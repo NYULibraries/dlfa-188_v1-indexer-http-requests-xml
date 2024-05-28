@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_b77ca5f225c246ef8fcf09d68c4afada</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_f19e642464e5ff29b4dce73e44f6e014</field>
+    <field name="parent_ssm">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_ssm">aspace_f19e642464e5ff29b4dce73e44f6e014</field>
+    <field name="parent_unittitles_ssm">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries III.A. Bill Payment Files</field>
+    <field name="parent_unittitles_teim">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries III.A. Bill Payment Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bills Paid</field>
+    <field name="unittitle_teim">Bills Paid</field>
+    <field name="unitdate_inclusive_teim">1955-1960</field>
+    <field name="scopecontent_teim">Includes 1955-1960, U-Z.</field>
+    <field name="ref_ssi">aspace_b77ca5f225c246ef8fcf09d68c4afada</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 58</field>
+    <field name="location_si">Offsite-Box: 58</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series III. Inventories and Financial Records</field>
+    <field name="series_sim">Subseries III.A. Bill Payment Files</field>
+    <field name="series_si">Series III. Inventories and Financial Records &gt;&gt; Subseries III.A. Bill Payment Files &gt;&gt; Bills Paid</field>
+    <field name="heading_ssm">Bills Paid</field>
+    <field name="unitdate_ssm">Inclusive, 1955-1960</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">69</field>
+  </doc>
+</add>

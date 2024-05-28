@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref3_3bg</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II. Business</field>
+    <field name="unittitle_teim">Series II. Business</field>
+    <field name="unitdate_inclusive_teim">1889-1942</field>
+    <field name="scopecontent_teim">This series includes certificates issued by or to business organizations. 
+Included is a certificate from the NY State Office of the Secretary of State granting Strobridge Lithographers a license to do business in New York. One certificate of note is a certificate of membership to the Chamber of Commerce of the State of New York, given to General William T. Sherman in 1889. Another is a  hand-lettered certificate presented to Edwin B. Moore upon his retirement from the New York Tribune. 
+Of special interest is an 1893 certificate from Tiffany and Co. presented to Adalbert Emil Herrman Nordbrock upon completion of his apprenticeship in the silversmith department.</field>
+    <field name="ref_ssi">aspace_ref3_3bg</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series II. Business</field>
+    <field name="heading_ssm">Series II. Business</field>
+    <field name="unitdate_ssm">Inclusive, 1889-1942</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

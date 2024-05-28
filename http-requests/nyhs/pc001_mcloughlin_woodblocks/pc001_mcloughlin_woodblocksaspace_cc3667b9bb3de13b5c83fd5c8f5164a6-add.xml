@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pc001_mcloughlin_woodblocksaspace_cc3667b9bb3de13b5c83fd5c8f5164a6</field>
+    <field name="ead_ssi">pc001_mcloughlin_woodblocks</field>
+    <field name="parent_ssi">aspace_ecf1b71c7ecbcfd4ea50d9303a017b30</field>
+    <field name="parent_ssm">aspace_ecf1b71c7ecbcfd4ea50d9303a017b30</field>
+    <field name="parent_unittitles_ssm">Series IX. Alphabet books</field>
+    <field name="parent_unittitles_teim">Series IX. Alphabet books</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_ssm">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_unitid_ssm">PC 001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Little ABCs&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Little ABCs
+    </field>
+    <field name="scopecontent_teim">5 woodblocks.</field>
+    <field name="title_teim">Little ABCs</field>
+    <field name="title_ssm">Little ABCs</field>
+    <field name="ref_ssi">aspace_cc3667b9bb3de13b5c83fd5c8f5164a6</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 22, Box: 3F (5)</field>
+    <field name="location_ssm">Box: 3F (5)</field>
+    <field name="location_si">Box: 3F (5)</field>
+    <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_unitid_teim">PC 001</field>
+    <field name="series_sim">Series IX. Alphabet books</field>
+    <field name="series_si">Series IX. Alphabet books &gt;&gt; 
+      &lt;em&gt;Little ABCs&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Little ABCs
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">128</field>
+  </doc>
+</add>

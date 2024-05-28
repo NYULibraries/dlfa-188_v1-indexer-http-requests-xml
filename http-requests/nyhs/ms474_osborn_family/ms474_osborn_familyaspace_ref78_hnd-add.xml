@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms474_osborn_familyaspace_ref78_hnd</field>
+    <field name="ead_ssi">ms474_osborn_family</field>
+    <field name="parent_ssi">aspace_ref76_0sh</field>
+    <field name="parent_ssm">aspace_ref1_o8c</field>
+    <field name="parent_ssm">aspace_ref76_0sh</field>
+    <field name="parent_unittitles_ssm">Series I: Family papers</field>
+    <field name="parent_unittitles_ssm">Subseries I.2: Correspondence of Osborn family children</field>
+    <field name="parent_unittitles_teim">Series I: Family papers</field>
+    <field name="parent_unittitles_teim">Subseries I.2: Correspondence of Osborn family children</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Osborn Family Papers</field>
+    <field name="collection_ssm">Osborn Family Papers</field>
+    <field name="collection_unitid_ssm">MS 474</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence "P.W." (friend of family?)</field>
+    <field name="unittitle_teim">Correspondence "P.W." (friend of family?)</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref78_hnd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Osborn Family Papers</field>
+    <field name="collection_unitid_teim">MS 474</field>
+    <field name="series_sim">Series I: Family papers</field>
+    <field name="series_sim">Subseries I.2: Correspondence of Osborn family children</field>
+    <field name="series_si">Series I: Family papers &gt;&gt; Subseries I.2: Correspondence of Osborn family children &gt;&gt; Correspondence "P.W." (friend of family?)</field>
+    <field name="heading_ssm">Correspondence "P.W." (friend of family?)</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">64</field>
+  </doc>
+</add>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_36ec6aadaed3633f133a86c63463e5ef</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_ref3181_20y</field>
+    <field name="parent_ssm">aspace_ref5_ggh</field>
+    <field name="parent_ssm">aspace_ref11_zwc</field>
+    <field name="parent_ssm">aspace_ref3181_20y</field>
+    <field name="parent_unittitles_ssm">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_ssm">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="parent_unittitles_ssm"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="parent_unittitles_teim">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_teim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="parent_unittitles_teim"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Residences  I-M</field>
+    <field name="unittitle_teim">Residences  I-M</field>
+    <field name="scopecontent_teim">Jones, Mary Mason, 1 East 57th Street (Marble Row);</field>
+    <field name="scopecontent_teim">Kuttroff, Adolph, 17 E. 69th St.;</field>
+    <field name="scopecontent_teim">Leary, Countess Annie, 1032 Fifth Ave. (interiors, including dining room set for a Columbus Day dinner party);</field>
+    <field name="scopecontent_teim">Meyer, John, farmhouse, Eighth Ave. and 133rd St. before 1877;</field>
+    <field name="scopecontent_teim">Mott, Jordon and Winifred, W. 54th St</field>
+    <field name="ref_ssi">aspace_36ec6aadaed3633f133a86c63463e5ef</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF399</field>
+    <field name="location_si">Folder: FF399</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series I: New York City Views - Manhattan</field>
+    <field name="series_sim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="series_sim"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt;  Manhattan - Flat Material - Photos - Buildings &gt;&gt; Residences  I-M</field>
+    <field name="heading_ssm">Residences  I-M</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1770</field>
+  </doc>
+</add>

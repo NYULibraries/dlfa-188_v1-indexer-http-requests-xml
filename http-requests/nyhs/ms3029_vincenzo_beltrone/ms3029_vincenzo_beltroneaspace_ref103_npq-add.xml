@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3029_vincenzo_beltroneaspace_ref103_npq</field>
+    <field name="ead_ssi">ms3029_vincenzo_beltrone</field>
+    <field name="parent_ssi">aspace_ref7_k3w</field>
+    <field name="parent_ssm">aspace_ref7_k3w</field>
+    <field name="parent_unittitles_ssm">Series IV. Print matter</field>
+    <field name="parent_unittitles_teim">Series IV. Print matter</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Vincenzo Beltrone collection</field>
+    <field name="collection_ssm">Vincenzo Beltrone collection</field>
+    <field name="collection_unitid_ssm">MS 3029</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Poetry books</field>
+    <field name="unittitle_teim">Poetry books</field>
+    <field name="unitdate_teim">1953-1957</field>
+    <field name="scopecontent_teim">Contains three items:</field>
+    <field name="scopecontent_teim">1. Francis J. Mathues, Bestiary (New York: William-Frederick Press, 1953); illustrated by Alan Thielker.
+2. Harland Ristau, Slum School (Shelbyville, Ind.: Blue River Press, 1954). 
+3. Dixie Allen, Idle Thoughts in Poems (New York: Pageant Press, Inc., 1957).</field>
+    <field name="ref_ssi">aspace_ref103_npq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Vincenzo Beltrone collection</field>
+    <field name="collection_unitid_teim">MS 3029</field>
+    <field name="series_sim">Series IV. Print matter</field>
+    <field name="series_si">Series IV. Print matter &gt;&gt; Poetry books</field>
+    <field name="heading_ssm">Poetry books</field>
+    <field name="unitdate_ssm">1953-1957</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">51</field>
+  </doc>
+</add>

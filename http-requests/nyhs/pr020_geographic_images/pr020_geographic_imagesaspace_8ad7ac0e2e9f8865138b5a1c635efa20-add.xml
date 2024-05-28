@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_8ad7ac0e2e9f8865138b5a1c635efa20</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_ref3238_au7</field>
+    <field name="parent_ssm">aspace_ref5_ggh</field>
+    <field name="parent_ssm">aspace_ref12_jnh</field>
+    <field name="parent_ssm">aspace_ref3238_au7</field>
+    <field name="parent_unittitles_ssm">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_ssm">Subseries ID:  MANHATTAN - OVERSIZE MATERIAL</field>
+    <field name="parent_unittitles_ssm">Manhattan - Oversize Prints - Composite Views</field>
+    <field name="parent_unittitles_teim">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_teim">Subseries ID:  MANHATTAN - OVERSIZE MATERIAL</field>
+    <field name="parent_unittitles_teim">Manhattan - Oversize Prints - Composite Views</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Excursion Through New York City in Two Hours! -broadside advertising Bullard's Panorama of New York City</field>
+    <field name="unittitle_teim">Excursion Through New York City in Two Hours! -broadside advertising Bullard's Panorama of New York City</field>
+    <field name="unitdate_inclusive_teim">circa 1857</field>
+    <field name="scopecontent_teim">includes multiple vignettes of NYC buildings and sights, highlighting Bullard's Panorama.</field>
+    <field name="ref_ssi">aspace_8ad7ac0e2e9f8865138b5a1c635efa20</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: OS FF 508</field>
+    <field name="location_si">Folder: OS FF 508</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series I: New York City Views - Manhattan</field>
+    <field name="series_sim">Subseries ID:  MANHATTAN - OVERSIZE MATERIAL</field>
+    <field name="series_sim">Manhattan - Oversize Prints - Composite Views</field>
+    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries ID:  MANHATTAN - OVERSIZE MATERIAL &gt;&gt; Manhattan - Oversize Prints - Composite Views &gt;&gt; Excursion Through New York City in Two Hours! -broadside advertising Bullard's Panorama of New York City</field>
+    <field name="heading_ssm">Excursion Through New York City in Two Hours! -broadside advertising Bullard's Panorama of New York City</field>
+    <field name="unitdate_ssm">Inclusive, circa 1857</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1845</field>
+  </doc>
+</add>

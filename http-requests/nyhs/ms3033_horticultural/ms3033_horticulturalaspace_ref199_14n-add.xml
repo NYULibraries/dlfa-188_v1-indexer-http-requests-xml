@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3033_horticulturalaspace_ref199_14n</field>
+    <field name="ead_ssi">ms3033_horticultural</field>
+    <field name="parent_ssi">aspace_ref160_htp</field>
+    <field name="parent_ssm">aspace_ref160_htp</field>
+    <field name="parent_unittitles_ssm">Series V. Photographs</field>
+    <field name="parent_unittitles_teim">Series V. Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Horticultural Society of New York records</field>
+    <field name="collection_ssm">Horticultural Society of New York records</field>
+    <field name="collection_unitid_ssm">MS 3033</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V.B. Programs</field>
+    <field name="unittitle_teim">Subseries V.B. Programs</field>
+    <field name="unitdate_teim">1969-1995</field>
+    <field name="scopecontent_teim">This subseries documents HSNY's public outreach gardening and planting programs. The majority of the images are slides of urban community gardens created in neighborhoods lacking access to green space. Also included are photos of the garden at Riker's Island prison, which is part of a job-training program. In addition this subseries features images of the Green Team, an internship program to help people released from prison transition back into their communities.  The subseries contains one folder of oversize material.</field>
+    <field name="ref_ssi">aspace_ref199_14n</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Horticultural Society of New York records</field>
+    <field name="collection_unitid_teim">MS 3033</field>
+    <field name="series_sim">Series V. Photographs</field>
+    <field name="series_si">Series V. Photographs &gt;&gt; Subseries V.B. Programs</field>
+    <field name="heading_ssm">Subseries V.B. Programs</field>
+    <field name="unitdate_ssm">1969-1995</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">571</field>
+  </doc>
+</add>

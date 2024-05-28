@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms565_franz_sigelaspace_ref75_mr5</field>
+    <field name="ead_ssi">ms565_franz_sigel</field>
+    <field name="parent_ssi">aspace_ref74_1aj</field>
+    <field name="parent_ssm">aspace_ref74_1aj</field>
+    <field name="parent_unittitles_ssm">Series V: Writings</field>
+    <field name="parent_unittitles_teim">Series V: Writings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Franz Sigel papers</field>
+    <field name="collection_ssm">Franz Sigel papers</field>
+    <field name="collection_unitid_ssm">MS 565</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V.A: Sigel's Writings</field>
+    <field name="unittitle_teim">Subseries V.A: Sigel's Writings</field>
+    <field name="unitdate_teim">circa 1848-1902, undated</field>
+    <field name="scopecontent_teim">This subseries contains Sigel's own writings on a variety of topics. There is a mixture of both English and German, with the bulk appearing to be German. Within these materials, there are translations, notes, autobiographical information, and diaries and scrapbooks.</field>
+    <field name="ref_ssi">aspace_ref75_mr5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Franz Sigel papers</field>
+    <field name="collection_unitid_teim">MS 565</field>
+    <field name="series_sim">Series V: Writings</field>
+    <field name="series_si">Series V: Writings &gt;&gt; Subseries V.A: Sigel's Writings</field>
+    <field name="heading_ssm">Subseries V.A: Sigel's Writings</field>
+    <field name="unitdate_ssm">circa 1848-1902, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">85</field>
+  </doc>
+</add>

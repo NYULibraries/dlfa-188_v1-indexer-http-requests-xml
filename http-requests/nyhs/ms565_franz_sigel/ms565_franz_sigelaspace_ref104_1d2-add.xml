@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms565_franz_sigelaspace_ref104_1d2</field>
+    <field name="ead_ssi">ms565_franz_sigel</field>
+    <field name="parent_ssi">aspace_ref103_udo</field>
+    <field name="parent_ssm">aspace_ref103_udo</field>
+    <field name="parent_unittitles_ssm">Series VII: Sigel Family Papers</field>
+    <field name="parent_unittitles_teim">Series VII: Sigel Family Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Franz Sigel papers</field>
+    <field name="collection_ssm">Franz Sigel papers</field>
+    <field name="collection_unitid_ssm">MS 565</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VII.A: Moritz Sigel Papers</field>
+    <field name="unittitle_teim">Subseries VII.A: Moritz Sigel Papers</field>
+    <field name="unitdate_normal_ssm">1806/1859</field>
+    <field name="unitdate_normal_teim">1806/1859</field>
+    <field name="unitdate_normal_sim">1806/1859</field>
+    <field name="unitdate_inclusive_teim">1806-1859</field>
+    <field name="scopecontent_teim">Moritz Sigel was Franz Sigel's father. Like Sigel, Moritz took part in the 1848 revolution and had to leave Germany. He managed to escape when the revolution failed and, like his son, went to the United States and settled in New York City. However, just before the outbreak of the American Civil War, Moritz petitioned the Prussians for a pardon and was able to return to Germany in 1859. All of the documents in this subseries are written in German. There appear to be a number of official documents with seals and a diploma. The majority are handwritten documents that appear to be letters and notes.</field>
+    <field name="ref_ssi">aspace_ref104_1d2</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Franz Sigel papers</field>
+    <field name="collection_unitid_teim">MS 565</field>
+    <field name="series_sim">Series VII: Sigel Family Papers</field>
+    <field name="series_si">Series VII: Sigel Family Papers &gt;&gt; Subseries VII.A: Moritz Sigel Papers</field>
+    <field name="heading_ssm">Subseries VII.A: Moritz Sigel Papers</field>
+    <field name="unitdate_start_sim">1806</field>
+    <field name="unitdate_start_ssm">1806</field>
+    <field name="unitdate_start_si">1806</field>
+    <field name="unitdate_end_sim">1859</field>
+    <field name="unitdate_end_ssm">1859</field>
+    <field name="unitdate_end_si">1859</field>
+    <field name="unitdate_ssm">Inclusive, 1806-1859</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">118</field>
+  </doc>
+</add>

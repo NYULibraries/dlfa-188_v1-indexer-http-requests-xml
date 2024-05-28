@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr193_kerneraspace_fda06f6836c5b365d25bec7708c16633</field>
+    <field name="ead_ssi">pr193_kerner</field>
+    <field name="parent_ssi">aspace_ed237579fec42091cc9723e65fda41dc</field>
+    <field name="parent_ssm">aspace_ed237579fec42091cc9723e65fda41dc</field>
+    <field name="parent_unittitles_ssm">Photographic prints (16)</field>
+    <field name="parent_unittitles_teim">Photographic prints (16)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sidney Kerner photographs</field>
+    <field name="collection_ssm">Sidney Kerner photographs</field>
+    <field name="collection_unitid_ssm">PR 193</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">[16] Reflection of a crane in the East 50s</field>
+    <field name="unittitle_teim">[16] Reflection of a crane in the East 50s</field>
+    <field name="ref_ssi">aspace_fda06f6836c5b365d25bec7708c16633</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Sidney Kerner photographs</field>
+    <field name="collection_unitid_teim">PR 193</field>
+    <field name="series_sim">Photographic prints (16)</field>
+    <field name="series_si">Photographic prints (16) &gt;&gt; [16] Reflection of a crane in the East 50s</field>
+    <field name="heading_ssm">[16] Reflection of a crane in the East 50s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

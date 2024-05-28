@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms295_hendricks_familyaspace_ref102_cbd</field>
+    <field name="ead_ssi">ms295_hendricks_family</field>
+    <field name="parent_ssi">aspace_ref16_d8s</field>
+    <field name="parent_ssm">aspace_ref2_g5g</field>
+    <field name="parent_ssm">aspace_ref16_d8s</field>
+    <field name="parent_unittitles_ssm">Series II. Harmon Hendricks Papers (1794-1863)</field>
+    <field name="parent_unittitles_ssm">Subseries II.B. Correspondence</field>
+    <field name="parent_unittitles_teim">Series II. Harmon Hendricks Papers (1794-1863)</field>
+    <field name="parent_unittitles_teim">Subseries II.B. Correspondence</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hendricks Family papers</field>
+    <field name="collection_ssm">Hendricks Family papers</field>
+    <field name="collection_unitid_ssm">MS 295</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ship &lt;em&gt;Ophelia &lt;/em&gt;</field>
+    <field name="unittitle_teim">Ship Ophelia </field>
+    <field name="unitdate_teim">1807 March-May</field>
+    <field name="ref_ssi">aspace_ref102_cbd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Hendricks Family papers</field>
+    <field name="collection_unitid_teim">MS 295</field>
+    <field name="series_sim">Series II. Harmon Hendricks Papers (1794-1863)</field>
+    <field name="series_sim">Subseries II.B. Correspondence</field>
+    <field name="series_si">Series II. Harmon Hendricks Papers (1794-1863) &gt;&gt; Subseries II.B. Correspondence &gt;&gt; Ship &lt;em&gt;Ophelia &lt;/em&gt;</field>
+    <field name="heading_ssm">Ship Ophelia </field>
+    <field name="unitdate_ssm">1807 March-May</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">76</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3032_7th_regiment_fundaspace_ref1_kax</field>
+    <field name="ead_ssi">ms3032_7th_regiment_fund</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Seventh Regiment Fund court case records</field>
+    <field name="collection_ssm">Seventh Regiment Fund court case records</field>
+    <field name="collection_unitid_ssm">MS 3032</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Guide to the Records of the 7th Regiment 1767–1983&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Guide to the Records of the 7th Regiment 1767–1983
+    </field>
+    <field name="unitdate_teim">2004 May 10</field>
+    <field name="scopecontent_teim">A bound printout of the finding aid to the 7th Regiment records housed at the New-York Historical Society. For the latest version see http://dlib.nyu.edu/findingaids/html/nyhs/7threg/.</field>
+    <field name="ref_ssi">aspace_ref1_kax</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Seventh Regiment Fund court case records</field>
+    <field name="collection_unitid_teim">MS 3032</field>
+    <field name="series_si">
+      &lt;em&gt;Guide to the Records of the 7th Regiment 1767–1983&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Guide to the Records of the 7th Regiment 1767–1983
+    </field>
+    <field name="unitdate_ssm">2004 May 10</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

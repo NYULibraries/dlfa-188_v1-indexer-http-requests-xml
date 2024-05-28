@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref303_qih</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Panoramic views</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Panoramic views</field>
+    <field name="unitdate_normal_ssm">1865/1957</field>
+    <field name="unitdate_normal_teim">1865/1957</field>
+    <field name="unitdate_normal_sim">1865/1957</field>
+    <field name="unitdate_inclusive_teim">[1865-1957]</field>
+    <field name="scopecontent_teim">Identifiers: PR-065-0289</field>
+    <field name="scopecontent_teim">Panoramic views of Manhattan shot from buildings, from the Brooklyn Bridge and from the air: over the rooftops from the U.S. Hotel; looking south in the skyscraper district; views from the steeple of Trinity Church looking N.W., W., S.W., e. and N.E. showing harbor and businesses; from the Tribune building; from the Post Office; from the Brooklyn Bridge looking over piers, businesses, including foundries, a sail loft and publishing houses; looking up the east side of midtown toward the Queensboro Bridge and steam plant, with man sitting at the edge of the roof; view from Western Union building, showing ironwork along the edge of the roof; looking toward the harbor, one view in winter with Jersey City in the distance; views from the Shot Tower; Brooklyn Bridge and lower Manhattan from the Washington Building; from the World Building showing elevated tracks in the street below, and looking N.W. and w.; looking north toward Trinity Church; aerial views from the tip of Manhattan looking north; aerial view looking down the East River with Williamsburg Bridge in foreground, downtown Brooklyn, Lower Manhattan and Governors Island, Statue of Liberty in the distance; looking s. from Woolworth Building; from the Empire State Building looking east, N.E., including Chrysler Building, and n. (one view with souvenir receipt for the Observatory on the back);  looking north from the Singer building with Municipal Building and City Hall in middle ground; from Metropolitan Tower s. to Singer building.</field>
+    <field name="scopecontent_teim">62 items</field>
+    <field name="ref_ssi">aspace_ref303_qih</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 29</field>
+    <field name="location_si">Box: 29</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Panoramic views</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Panoramic views</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1957]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">290</field>
+  </doc>
+</add>

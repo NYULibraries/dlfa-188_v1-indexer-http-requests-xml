@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref804_sdn</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Album 1-1A of photographs depicting the construction of Fort Tryon Park by Olmstead Bros., landscape architects, and Edward J. Carrillo, chief engineer]</field>
+    <field name="unittitle_teim">[Album 1-1A of photographs depicting the construction of Fort Tryon Park by Olmstead Bros., landscape architects, and Edward J. Carrillo, chief engineer]</field>
+    <field name="unitdate_normal_ssm">1930/1934</field>
+    <field name="unitdate_normal_teim">1930/1934</field>
+    <field name="unitdate_normal_sim">1930/1934</field>
+    <field name="unitdate_inclusive_teim">1930-1934</field>
+    <field name="scopecontent_teim">Titled variously Claremont Park, and Fort Tryon Park. General views of the construction of Claremont Park, between Riverside Church and the International House, with Grants Tomb to the west, details of stairways, retaining walls, water pipes and drains; postcards and photographs of various locations in Europe which served as sources.</field>
+    <field name="scopecontent_teim">6 vols. each album labeled with Project title, Olmstead Bros., name of engineer, Edward J. Carrillo, and John D. Rockefeller, Jr. Photographers include E.S. Keogh, Irving Underhill, A.H.H., F.F.B., J.B.M., D.M. Jones, L. Funk, J.C.T., E.S.K., J.H.K., Russell &amp; Co., G.R. Fist. </field>
+    <field name="scopecontent_teim">Corbin Place Bridge, and Main Underpass Bridge: excavation of approaches, construction of bridges, excavation of underpass, construction of bridge, including setting stones in place, and images with Jack Carrillo identified, other images laid in, including view with George Washington Bridge, looking north to the Palisades, Broadway and Dyckman, Broadway and Thayer, children in wading pool.</field>
+    <field name="ref_ssi">aspace_ref804_sdn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 243.1-2</field>
+    <field name="location_si">Offsite-Box: 243.1-2</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Album 1-1A of photographs depicting the construction of Fort Tryon Park by Olmstead Bros., landscape architects, and Edward J. Carrillo, chief engineer]</field>
+    <field name="heading_ssm">[Album 1-1A of photographs depicting the construction of Fort Tryon Park by Olmstead Bros., landscape architects, and Edward J. Carrillo, chief engineer]</field>
+    <field name="unitdate_start_sim">1930</field>
+    <field name="unitdate_start_ssm">1930</field>
+    <field name="unitdate_start_si">1930</field>
+    <field name="unitdate_end_sim">1934</field>
+    <field name="unitdate_end_ssm">1934</field>
+    <field name="unitdate_end_si">1934</field>
+    <field name="unitdate_ssm">Inclusive, 1930-1934</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">276</field>
+  </doc>
+</add>

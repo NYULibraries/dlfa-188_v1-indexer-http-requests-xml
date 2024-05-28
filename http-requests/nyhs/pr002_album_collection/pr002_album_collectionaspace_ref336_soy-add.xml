@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref336_soy</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Travel photographs in Egypt]</field>
+    <field name="unittitle_teim">[Travel photographs in Egypt]</field>
+    <field name="unitdate_inclusive_teim">1893-1905</field>
+    <field name="scopecontent_teim">Brantingham, Francis Edward. One of at least 12 albums (this one labeled "IX"); travel photographs: Karnak, Thebes, Cairo, Alexandria, Jerusalem, Bethlehem, Bethany, Syria, Asia Minor, Greek Archipelago, Smyrna, Athens Patras, Olympia, Corfu, Miscellaneous (including Switzerland, 1901, 1905; Monte Carlo, 1900). See also album #102, 103.</field>
+    <field name="ref_ssi">aspace_ref336_soy</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 11, Volume: 104</field>
+    <field name="location_ssm">Volume: 104</field>
+    <field name="location_si">Volume: 104</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Travel photographs in Egypt]</field>
+    <field name="heading_ssm">[Travel photographs in Egypt]</field>
+    <field name="unitdate_ssm">Inclusive, 1893-1905</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">112</field>
+  </doc>
+</add>

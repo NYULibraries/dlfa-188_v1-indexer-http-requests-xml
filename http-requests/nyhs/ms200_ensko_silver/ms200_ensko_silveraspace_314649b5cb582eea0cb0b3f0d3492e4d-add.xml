@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_314649b5cb582eea0cb0b3f0d3492e4d</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_2adeacd3761ecc0cb46f38a587451c13</field>
+    <field name="parent_ssm">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_ssm">aspace_2adeacd3761ecc0cb46f38a587451c13</field>
+    <field name="parent_unittitles_ssm">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries III.C. Accounting Records</field>
+    <field name="parent_unittitles_teim">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries III.C. Accounting Records</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Pawnbroker descriptive cards</field>
+    <field name="unittitle_teim">Pawnbroker descriptive cards</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">Packet of slips. All are blank forms.</field>
+    <field name="ref_ssi">aspace_314649b5cb582eea0cb0b3f0d3492e4d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 78, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series III. Inventories and Financial Records</field>
+    <field name="series_sim">Subseries III.C. Accounting Records</field>
+    <field name="series_si">Series III. Inventories and Financial Records &gt;&gt; Subseries III.C. Accounting Records &gt;&gt; Pawnbroker descriptive cards</field>
+    <field name="heading_ssm">Pawnbroker descriptive cards</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">105</field>
+  </doc>
+</add>

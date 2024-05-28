@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr009_irving_browning_photosaspace_ref218_0s6</field>
+    <field name="ead_ssi">pr009_irving_browning_photos</field>
+    <field name="parent_ssi">aspace_ref13_xmc</field>
+    <field name="parent_ssm">aspace_ref13_xmc</field>
+    <field name="parent_unittitles_ssm">Series I. Photographs</field>
+    <field name="parent_unittitles_teim">Series I. Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Browning photograph collection</field>
+    <field name="collection_ssm">Browning photograph collection</field>
+    <field name="collection_unitid_ssm">PR 9</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Public Buildings and Institutions</field>
+    <field name="unittitle_teim">Public Buildings and Institutions</field>
+    <field name="scopecontent_teim">Public Buildings and Institutions includes a variety of major recognizable Manhattan institutions and government buildings such as the Municipal Building, City Hall, the New York Public Library, and the American Museum of Natural History.</field>
+    <field name="ref_ssi">aspace_ref218_0s6</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Browning photograph collection</field>
+    <field name="collection_unitid_teim">PR 9</field>
+    <field name="series_sim">Series I. Photographs</field>
+    <field name="series_si">Series I. Photographs &gt;&gt; Public Buildings and Institutions</field>
+    <field name="heading_ssm">Public Buildings and Institutions</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">200</field>
+  </doc>
+</add>

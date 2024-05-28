@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref60_4uk</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref10_1nh</field>
+    <field name="parent_ssm">aspace_ref10_1nh</field>
+    <field name="parent_unittitles_ssm">Series X - Convalescent Facilities and Medical Programs</field>
+    <field name="parent_unittitles_teim">Series X - Convalescent Facilities and Medical Programs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries X.2 - Convalescent Facilities, Alphabetical</field>
+    <field name="unittitle_teim">Subseries X.2 - Convalescent Facilities, Alphabetical</field>
+    <field name="unitdate_inclusive_teim">1885-1965</field>
+    <field name="scopecontent_teim">This subseries consists of eleven volumes, one small box of materials, and two folders housed in a separate oversize (OS) box, related to CAS convalescent facilities, 1885-1965, arranged in the following order: Elizabeth Milbank Anderson Home, Grinnell Home for Convalescent Boys, Health Home at Coney Island, Kinderfold, Milbank Home for Convalescent Boys, and mixed convalescent facilities. The boxed materials include cards for patients and the public, pamphlets, correspondence, reports, property surveys, and some internal documents.</field>
+    <field name="ref_ssi">aspace_ref60_4uk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series X - Convalescent Facilities and Medical Programs</field>
+    <field name="series_si">Series X - Convalescent Facilities and Medical Programs &gt;&gt; Subseries X.2 - Convalescent Facilities, Alphabetical</field>
+    <field name="heading_ssm">Subseries X.2 - Convalescent Facilities, Alphabetical</field>
+    <field name="unitdate_ssm">Inclusive, 1885-1965</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1704</field>
+  </doc>
+</add>

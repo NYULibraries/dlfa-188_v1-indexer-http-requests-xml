@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_eb7589e9d5204d7a085583ab95c630ac</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_fb030ab74d0c584e0de10afe96d0e2c1</field>
+    <field name="parent_ssm">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_ssm">aspace_fb030ab74d0c584e0de10afe96d0e2c1</field>
+    <field name="parent_unittitles_ssm">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries III.B. Stock Books and Other Inventories</field>
+    <field name="parent_unittitles_teim">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries III.B. Stock Books and Other Inventories</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Index cards: Objects in inventory (Box 1 of 7)</field>
+    <field name="unittitle_teim">Index cards: Objects in inventory (Box 1 of 7)</field>
+    <field name="unitdate_inclusive_teim">1930s-1940s</field>
+    <field name="scopecontent_teim">These seven boxes include sets of index cards related to Ensko's inventory over time. The cards were not reviewed sufficiently during processing to say definitively what their interrelationship is or what the notations all mean. But generally the cards appear to indicate date(s) of acquisition and dates of sale. Some cards have more detail than others. There appear to have been at least 4 numerical sequences/sets of cards over time: one initiated in the early 1930s, a second starting in the mid-1930s and extending to 1954, a third ranging from 1955 to 1967, and a fourth from 1968-1970. But there are other sets of cards related to inventory that are unclear as to how they relate to the others. Also, cards initiated in one year/period may have notations of a different year/period on them.</field>
+    <field name="scopecontent_teim">This first box holds what appears to be an early set of cards, dating from the early 1930s. The box also holds the beginning of a much larger set of cards that were initiated in the mid-1930s and eventually ended in the mid-1950s; this set continues in the following boxes.</field>
+    <field name="ref_ssi">aspace_eb7589e9d5204d7a085583ab95c630ac</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 114</field>
+    <field name="location_si">Offsite-Box: 114</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series III. Inventories and Financial Records</field>
+    <field name="series_sim">Subseries III.B. Stock Books and Other Inventories</field>
+    <field name="series_si">Series III. Inventories and Financial Records &gt;&gt; Subseries III.B. Stock Books and Other Inventories &gt;&gt; Index cards: Objects in inventory (Box 1 of 7)</field>
+    <field name="heading_ssm">Index cards: Objects in inventory (Box 1 of 7)</field>
+    <field name="unitdate_ssm">Inclusive, 1930s-1940s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">86</field>
+  </doc>
+</add>

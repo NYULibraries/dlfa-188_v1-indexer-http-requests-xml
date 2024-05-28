@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref494_4pn</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Summer Journeyings</field>
+    <field name="unittitle_teim">Summer Journeyings</field>
+    <field name="unitdate_normal_ssm">1863/1882</field>
+    <field name="unitdate_normal_teim">1863/1882</field>
+    <field name="unitdate_normal_sim">1863/1882</field>
+    <field name="unitdate_inclusive_teim">1863-1882</field>
+    <field name="scopecontent_teim">Title hand lettered on page with drawing of a hotel, lake, sailboat and train, with trunk and railway guide in the foreground; various travels of the Schermerhorn Family, including Vermont, Trenton Falls, Catskill Mountains, Milford, Pa., Bolton (Vt.? Mass.?), Charlestown, N.H., Stowe, Vt., Yosemite, Delhi, N.Y., Lake Luzerne, Mohonk, Sheldrake on Cayuga, Richfield, Springs, Stockbridge, Meenagha, Swampscott, Rye Beach and other locations; many images labeled, others numbered, with index on verso of title page; includes group portraits, and images of men target shooting, groups hiking and boating, and on the porches of hotels and guest houses. Includes interior views.</field>
+    <field name="ref_ssi">aspace_ref494_4pn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 18, Volume: 157</field>
+    <field name="location_ssm">Volume: 157</field>
+    <field name="location_si">Volume: 157</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Summer Journeyings</field>
+    <field name="heading_ssm">Summer Journeyings</field>
+    <field name="unitdate_start_sim">1863</field>
+    <field name="unitdate_start_ssm">1863</field>
+    <field name="unitdate_start_si">1863</field>
+    <field name="unitdate_end_sim">1882</field>
+    <field name="unitdate_end_ssm">1882</field>
+    <field name="unitdate_end_si">1882</field>
+    <field name="unitdate_ssm">Inclusive, 1863-1882</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">165</field>
+  </doc>
+</add>

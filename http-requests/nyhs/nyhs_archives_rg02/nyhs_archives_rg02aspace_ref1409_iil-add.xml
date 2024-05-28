@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg02aspace_ref1409_iil</field>
+    <field name="ead_ssi">nyhs_archives_rg02</field>
+    <field name="parent_ssi">aspace_ref1403_3n8</field>
+    <field name="parent_ssm">aspace_ref1403_3n8</field>
+    <field name="parent_unittitles_ssm">Series II. Letterpress Copybooks</field>
+    <field name="parent_unittitles_teim">Series II. Letterpress Copybooks</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society general correspondence</field>
+    <field name="collection_ssm">New-York Historical Society general correspondence</field>
+    <field name="collection_unitid_ssm">NYHS-RG 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letter Book.</field>
+    <field name="unittitle_teim">Letter Book.</field>
+    <field name="unitdate_teim">1907-1911</field>
+    <field name="scopecontent_teim">Frequent correspondents include V.D. Allen, Gerard Beekman, Mrs. Amos Draper, Stuyvesant Fish, Hudson-Fulton Celebration Commission, Nelson Robinson, Herbert Satterlee, and John A. Weekes.</field>
+    <field name="scopecontent_teim">
+      
+        Date ranges by page number
+1907 May-December: 1-34
+1908: 35-118
+1909: 119-266
+1910: 267-428
+1911 January-December: 429-698
+
+      
+    </field>
+    <field name="ref_ssi">aspace_ref1409_iil</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 70, Volume: 1</field>
+    <field name="location_ssm">Volume: 1</field>
+    <field name="location_si">Volume: 1</field>
+    <field name="collection_teim">New-York Historical Society general correspondence</field>
+    <field name="collection_unitid_teim">NYHS-RG 2</field>
+    <field name="series_sim">Series II. Letterpress Copybooks</field>
+    <field name="series_si">Series II. Letterpress Copybooks &gt;&gt; Letter Book.</field>
+    <field name="heading_ssm">Letter Book.</field>
+    <field name="unitdate_ssm">1907-1911</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">149</field>
+  </doc>
+</add>

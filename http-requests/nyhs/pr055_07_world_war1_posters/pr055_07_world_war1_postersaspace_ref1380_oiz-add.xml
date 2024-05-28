@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr055_07_world_war1_postersaspace_ref1380_oiz</field>
+    <field name="ead_ssi">pr055_07_world_war1_posters</field>
+    <field name="parent_ssi">aspace_ref1379_8ua</field>
+    <field name="parent_ssm">aspace_ref1379_8ua</field>
+    <field name="parent_unittitles_ssm">Series VI: Organizational</field>
+    <field name="parent_unittitles_teim">Series VI: Organizational</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">World War I poster collection</field>
+    <field name="collection_ssm">World War I poster collection</field>
+    <field name="collection_unitid_ssm">PR 55-7</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VI.1: Red Cross</field>
+    <field name="unittitle_teim">Subseries VI.1: Red Cross</field>
+    <field name="unitid_teim">29</field>
+    <field name="unitid_ssm">29</field>
+    <field name="ref_ssi">aspace_ref1380_oiz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">World War I poster collection</field>
+    <field name="collection_unitid_teim">PR 55-7</field>
+    <field name="series_sim">Series VI: Organizational</field>
+    <field name="series_si">Series VI: Organizational &gt;&gt; Subseries VI.1: Red Cross</field>
+    <field name="heading_ssm">Subseries VI.1: Red Cross</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">810</field>
+  </doc>
+</add>

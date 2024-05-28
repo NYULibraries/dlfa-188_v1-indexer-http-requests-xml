@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3096_cityartsaspace_2b096147f576006b94be6c144dd3a521</field>
+    <field name="ead_ssi">ms3096_cityarts</field>
+    <field name="parent_ssi">aspace_e12cf5d1a6641da43f6f4fff39f2ad45</field>
+    <field name="parent_ssm">aspace_e12cf5d1a6641da43f6f4fff39f2ad45</field>
+    <field name="parent_unittitles_ssm">Series VI. Leslie Bender Artworks (RESTRICTED)</field>
+    <field name="parent_unittitles_teim">Series VI. Leslie Bender Artworks (RESTRICTED)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">CITYarts Inc. records</field>
+    <field name="collection_ssm">CITYarts Inc. records</field>
+    <field name="collection_unitid_ssm">MS 3096</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Leslie Bender artworks (Restricted)</field>
+    <field name="unittitle_teim">Leslie Bender artworks (Restricted)</field>
+    <field name="unitdate_inclusive_teim">circa 1981</field>
+    <field name="ref_ssi">aspace_2b096147f576006b94be6c144dd3a521</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 60</field>
+    <field name="location_si">Offsite-Box: 60</field>
+    <field name="collection_teim">CITYarts Inc. records</field>
+    <field name="collection_unitid_teim">MS 3096</field>
+    <field name="series_sim">Series VI. Leslie Bender Artworks (RESTRICTED)</field>
+    <field name="series_si">Series VI. Leslie Bender Artworks (RESTRICTED) &gt;&gt; Leslie Bender artworks (Restricted)</field>
+    <field name="heading_ssm">Leslie Bender artworks (Restricted)</field>
+    <field name="unitdate_ssm">Inclusive, circa 1981</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">187</field>
+  </doc>
+</add>

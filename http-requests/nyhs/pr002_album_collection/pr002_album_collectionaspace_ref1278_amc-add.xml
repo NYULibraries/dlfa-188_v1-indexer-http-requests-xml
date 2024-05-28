@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1278_amc</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Scrapbook of genre prints, portraits, certificates and letters dating from 1790s-1880s]</field>
+    <field name="unittitle_teim">[Scrapbook of genre prints, portraits, certificates and letters dating from 1790s-1880s]</field>
+    <field name="unitdate_normal_ssm">1890/1899</field>
+    <field name="unitdate_normal_teim">1890/1899</field>
+    <field name="unitdate_normal_sim">1890/1899</field>
+    <field name="unitdate_inclusive_teim">[1890-1899]</field>
+    <field name="scopecontent_teim">Includes material relating to the Reverend S.R. Ely, Mary Ely, and William Sprague Ely; includes prints showing sentimental scenes, institutions and schools, landscapes, Oriental scenes, and portraits, including portraits of historic figures and religious persons; a drawing of the old Mill at East Hampton, and one of a house with couple and buggy in front; certificates for the American Tract Society and for various missionary organizations, and for the American Seaman's Friend Society; letter from L.H. Sigourney with memorial verse in honor of the Reverend Gilbert Livingston Smith; prints by Beauvarlet, Durand and others.</field>
+    <field name="ref_ssi">aspace_ref1278_amc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 68, Volume: 364</field>
+    <field name="location_ssm">Volume: 364</field>
+    <field name="location_si">Volume: 364</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Scrapbook of genre prints, portraits, certificates and letters dating from 1790s-1880s]</field>
+    <field name="heading_ssm">[Scrapbook of genre prints, portraits, certificates and letters dating from 1790s-1880s]</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1899</field>
+    <field name="unitdate_end_ssm">1899</field>
+    <field name="unitdate_end_si">1899</field>
+    <field name="unitdate_ssm">Inclusive, [1890-1899]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">424</field>
+  </doc>
+</add>

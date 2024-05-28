@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms199_emergency_shelteraspace_ref75_vv7</field>
+    <field name="ead_ssi">ms199_emergency_shelter</field>
+    <field name="parent_ssi">aspace_ref73_j45</field>
+    <field name="parent_ssm">aspace_ref59_9z4</field>
+    <field name="parent_ssm">aspace_ref73_j45</field>
+    <field name="parent_unittitles_ssm">Series 5: Photographs, 1930-1989</field>
+    <field name="parent_unittitles_ssm">Subseries II: Photographs of Men in Shelter Programs</field>
+    <field name="parent_unittitles_teim">Series 5: Photographs, 1930-1989</field>
+    <field name="parent_unittitles_teim">Subseries II: Photographs of Men in Shelter Programs</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Emergency Shelter records</field>
+    <field name="collection_ssm">Emergency Shelter records</field>
+    <field name="collection_unitid_ssm">MS 199</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Group Counseling</field>
+    <field name="unittitle_teim">Group Counseling</field>
+    <field name="unitdate_normal_ssm">1965/1979</field>
+    <field name="unitdate_normal_teim">1965/1979</field>
+    <field name="unitdate_normal_sim">1965/1979</field>
+    <field name="unitdate_inclusive_teim">[1965-1979]</field>
+    <field name="ref_ssi">aspace_ref75_vv7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Emergency Shelter records</field>
+    <field name="collection_unitid_teim">MS 199</field>
+    <field name="series_sim">Series 5: Photographs, 1930-1989</field>
+    <field name="series_sim">Subseries II: Photographs of Men in Shelter Programs</field>
+    <field name="series_si">Series 5: Photographs, 1930-1989 &gt;&gt; Subseries II: Photographs of Men in Shelter Programs &gt;&gt; Group Counseling</field>
+    <field name="heading_ssm">Group Counseling</field>
+    <field name="unitdate_start_sim">1965</field>
+    <field name="unitdate_start_ssm">1965</field>
+    <field name="unitdate_start_si">1965</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, [1965-1979]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">57</field>
+  </doc>
+</add>

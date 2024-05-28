@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg05aspace_ref11_7fl</field>
+    <field name="ead_ssi">timeinc_ms3009_rg05</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Time Inc. Corporate Administration Records</field>
+    <field name="collection_ssm">Time Inc. Corporate Administration Records</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 5</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I.A. General: Stock</field>
+    <field name="unittitle_teim">Series I.A. General: Stock</field>
+    <field name="unitdate_inclusive_teim">1929-1934, 1964</field>
+    <field name="scopecontent_teim">Stock includes canceled Time Inc. stock certificates, stock split ledgers listing the stockholder, account number, and shares owned; and stock books from which certificates were written.</field>
+    <field name="ref_ssi">aspace_ref11_7fl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Time Inc. Corporate Administration Records</field>
+    <field name="collection_unitid_teim">MS 3009-RG 5</field>
+    <field name="series_si">Series I.A. General: Stock</field>
+    <field name="heading_ssm">Series I.A. General: Stock</field>
+    <field name="unitdate_ssm">Inclusive, 1929-1934, 1964</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

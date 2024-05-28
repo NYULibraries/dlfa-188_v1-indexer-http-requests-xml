@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2530_emma_thursbyaspace_ref102_d29</field>
+    <field name="ead_ssi">ms2530_emma_thursby</field>
+    <field name="parent_ssi">aspace_ref14_x9z</field>
+    <field name="parent_ssm">aspace_ref14_x9z</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Emma Thursby papers</field>
+    <field name="collection_ssm">Emma Thursby papers</field>
+    <field name="collection_unitid_ssm">MS 2530</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 6: Thursby family letters</field>
+    <field name="unittitle_teim">Subseries 6: Thursby family letters</field>
+    <field name="unitdate_teim">1859-1913</field>
+    <field name="scopecontent_teim">Contains letters from Louis Thursby to John J. Thursby and a letter to Samuel Thursby from the United States Consulate in London informing him of the death of his brother John B. Thursby.</field>
+    <field name="ref_ssi">aspace_ref102_d29</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Emma Thursby papers</field>
+    <field name="collection_unitid_teim">MS 2530</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries 6: Thursby family letters</field>
+    <field name="heading_ssm">Subseries 6: Thursby family letters</field>
+    <field name="unitdate_ssm">1859-1913</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">84</field>
+  </doc>
+</add>

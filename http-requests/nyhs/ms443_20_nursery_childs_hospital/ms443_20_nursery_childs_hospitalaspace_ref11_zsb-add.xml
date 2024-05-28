@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms443_20_nursery_childs_hospitalaspace_ref11_zsb</field>
+    <field name="ead_ssi">ms443_20_nursery_childs_hospital</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Nursery and Child's Hospital Records</field>
+    <field name="collection_ssm">Nursery and Child's Hospital Records</field>
+    <field name="collection_unitid_ssm">MS 443.20</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Correspondence </field>
+    <field name="unittitle_teim">Correspondence </field>
+    <field name="unitdate_normal_ssm">1854/1924</field>
+    <field name="unitdate_normal_teim">1854/1924</field>
+    <field name="unitdate_normal_sim">1854/1924</field>
+    <field name="unitdate_inclusive_teim">1854-1924</field>
+    <field name="scopecontent_teim">The series consists mostly of the correspondence to and from Mrs. Mary Mildred Sullivan or her office as First Director.  There is one folder of correspondence to and from Mrs. Cornelius DuBois</field>
+    <field name="scopecontent_teim">The series is arranged chronological.</field>
+    <field name="ref_ssi">aspace_ref11_zsb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Nursery and Child's Hospital Records</field>
+    <field name="collection_unitid_teim">MS 443.20</field>
+    <field name="series_si">Correspondence </field>
+    <field name="heading_ssm">Correspondence </field>
+    <field name="unitdate_start_sim">1854</field>
+    <field name="unitdate_start_ssm">1854</field>
+    <field name="unitdate_start_si">1854</field>
+    <field name="unitdate_end_sim">1924</field>
+    <field name="unitdate_end_ssm">1924</field>
+    <field name="unitdate_end_si">1924</field>
+    <field name="unitdate_ssm">Inclusive, 1854-1924</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_ref3222_acz</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_ref3181_20y</field>
+    <field name="parent_ssm">aspace_ref5_ggh</field>
+    <field name="parent_ssm">aspace_ref11_zwc</field>
+    <field name="parent_ssm">aspace_ref3181_20y</field>
+    <field name="parent_unittitles_ssm">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_ssm">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="parent_unittitles_ssm"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="parent_unittitles_teim">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_teim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="parent_unittitles_teim"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Theaters A-L</field>
+    <field name="unittitle_teim">Theaters A-L</field>
+    <field name="scopecontent_teim">Academy of Music, 14th St.;</field>
+    <field name="scopecontent_teim">Booth's Theatre, Sixth Ave. and 23rd St.;</field>
+    <field name="scopecontent_teim">Broadway Theatre, at Broome St.;</field>
+    <field name="scopecontent_teim">
+Casino Roof-Garden;</field>
+    <field name="scopecontent_teim">Chickering Hall, Fifth Ave. and 18th St.;</field>
+    <field name="scopecontent_teim">Daly's Theatre, Broadway and 30th St.;</field>
+    <field name="scopecontent_teim">Eagle Theatre, Sixth Ave. and 32nd St.;</field>
+    <field name="scopecontent_teim">Fourteenth Street Theatre;</field>
+    <field name="scopecontent_teim">Globe Theatre, Broadway and Waverly Pl.;</field>
+    <field name="scopecontent_teim">Grand Opera House, Eighth Ave. and 23rd St.;</field>
+    <field name="scopecontent_teim">Hammerstein's Olympia Theatre, Broadway and 44th St.;</field>
+    <field name="scopecontent_teim">Hippotheatron (New York Circus), 14th St., 1865;</field>
+    <field name="scopecontent_teim">Hudson Theatre, 139 W. 44th St;</field>
+    <field name="ref_ssi">aspace_ref3222_acz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF425</field>
+    <field name="location_si">Folder: FF425</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series I: New York City Views - Manhattan</field>
+    <field name="series_sim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="series_sim"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt;  Manhattan - Flat Material - Photos - Buildings &gt;&gt; Theaters A-L</field>
+    <field name="heading_ssm">Theaters A-L</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1796</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms443_20_nursery_childs_hospitalaspace_ref41_jd5</field>
+    <field name="ead_ssi">ms443_20_nursery_childs_hospital</field>
+    <field name="parent_ssi">aspace_ref11_zsb</field>
+    <field name="parent_ssm">aspace_ref11_zsb</field>
+    <field name="parent_unittitles_ssm">Correspondence </field>
+    <field name="parent_unittitles_teim">Correspondence </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Nursery and Child's Hospital Records</field>
+    <field name="collection_ssm">Nursery and Child's Hospital Records</field>
+    <field name="collection_unitid_ssm">MS 443.20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Country Branch Outing Correspondence</field>
+    <field name="unittitle_teim">Country Branch Outing Correspondence</field>
+    <field name="unitdate_teim">1905</field>
+    <field name="ref_ssi">aspace_ref41_jd5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Nursery and Child's Hospital Records</field>
+    <field name="collection_unitid_teim">MS 443.20</field>
+    <field name="series_sim">Correspondence </field>
+    <field name="series_si">Correspondence  &gt;&gt; Country Branch Outing Correspondence</field>
+    <field name="heading_ssm">Country Branch Outing Correspondence</field>
+    <field name="unitdate_ssm">1905</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

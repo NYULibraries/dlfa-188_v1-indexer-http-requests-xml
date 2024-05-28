@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr242_kane_greenberg_cigar_label_proofsaspace_ref12_d60</field>
+    <field name="ead_ssi">pr242_kane_greenberg_cigar_label_proofs</field>
+    <field name="parent_ssi">aspace_ref9_tcp</field>
+    <field name="parent_ssm">aspace_ref9_tcp</field>
+    <field name="parent_unittitles_ssm">Series II: "C" Numbers</field>
+    <field name="parent_unittitles_teim">Series II: "C" Numbers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Kane-Greenberg collection of cigar label proofs</field>
+    <field name="collection_ssm">Kane-Greenberg collection of cigar label proofs</field>
+    <field name="collection_unitid_ssm">PR 242</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">John Hay (Purple)</field>
+    <field name="unittitle_teim">John Hay (Purple)</field>
+    <field name="unitdate_teim">1919 Jul 26</field>
+    <field name="ref_ssi">aspace_ref12_d60</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, item: C668</field>
+    <field name="location_ssm">item: C668</field>
+    <field name="location_si">item: C668</field>
+    <field name="collection_teim">Kane-Greenberg collection of cigar label proofs</field>
+    <field name="collection_unitid_teim">PR 242</field>
+    <field name="series_sim">Series II: "C" Numbers</field>
+    <field name="series_si">Series II: "C" Numbers &gt;&gt; John Hay (Purple)</field>
+    <field name="heading_ssm">John Hay (Purple)</field>
+    <field name="unitdate_ssm">1919 Jul 26</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

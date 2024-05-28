@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3000_boys_club_nyaspace_ref1036_q17</field>
+    <field name="ead_ssi">ms3000_boys_club_ny</field>
+    <field name="parent_ssi">aspace_ref335_xmw</field>
+    <field name="parent_ssm">aspace_ref335_xmw</field>
+    <field name="parent_unittitles_ssm">Series VIII: Scrapbooks and Ephemera</field>
+    <field name="parent_unittitles_teim">Series VIII: Scrapbooks and Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Boys' Club of New York records</field>
+    <field name="collection_ssm">Boys' Club of New York records</field>
+    <field name="collection_unitid_ssm">MS 3000</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Posters</field>
+    <field name="unittitle_teim">Posters</field>
+    <field name="ref_ssi">aspace_ref1036_q17</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: Large, oversize: BCNY OS 5</field>
+    <field name="location_ssm">oversize: BCNY OS 5</field>
+    <field name="location_si">oversize: BCNY OS 5</field>
+    <field name="collection_teim">Boys' Club of New York records</field>
+    <field name="collection_unitid_teim">MS 3000</field>
+    <field name="series_sim">Series VIII: Scrapbooks and Ephemera</field>
+    <field name="series_si">Series VIII: Scrapbooks and Ephemera &gt;&gt; Posters</field>
+    <field name="heading_ssm">Posters</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">890</field>
+  </doc>
+</add>

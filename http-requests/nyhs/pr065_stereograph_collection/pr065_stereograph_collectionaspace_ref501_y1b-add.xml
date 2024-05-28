@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref501_y1b</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Railroads, Elevated -- Third Avenue Line</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Railroads, Elevated -- Third Avenue Line</field>
+    <field name="unitdate_normal_ssm">1880/1955</field>
+    <field name="unitdate_normal_teim">1880/1955</field>
+    <field name="unitdate_normal_sim">1880/1955</field>
+    <field name="unitdate_inclusive_teim">[1880-1955]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0487</field>
+    <field name="scopecontent_teim">View on the Third Avenue elevated railroad line: from Bayard Street; stairway to City Hall Station; City Hall Branch from Chatham Square station; train at City Hall Station; City Hall Branch from  South Ferry tracks; Park Row, looking south from about Baxter Street; Hanover Square; under the "el' at Pearl, north from Beekman; above Second Avenue at St. James Place; north from Canal Street station; in Cooper Square, including views of Cooper Union; north from 34th Street station; north from 42nd Street station; views of stations including the 14th Street, 34th Street, with the Chrysler building in the distance, the 42nd Street and the 59th Street, with a sign for Bloomingdales atop it; view of the skyline, looking south from 53rd Street, Chrysler building in the distance; views of the Third Ave. line being demolished.</field>
+    <field name="scopecontent_teim">29 items</field>
+    <field name="ref_ssi">aspace_ref501_y1b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 42</field>
+    <field name="location_si">Box: 42</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Railroads, Elevated -- Third Avenue Line</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Railroads, Elevated -- Third Avenue Line</field>
+    <field name="unitdate_start_sim">1880</field>
+    <field name="unitdate_start_ssm">1880</field>
+    <field name="unitdate_start_si">1880</field>
+    <field name="unitdate_end_sim">1955</field>
+    <field name="unitdate_end_ssm">1955</field>
+    <field name="unitdate_end_si">1955</field>
+    <field name="unitdate_ssm">Inclusive, [1880-1955]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">488</field>
+  </doc>
+</add>

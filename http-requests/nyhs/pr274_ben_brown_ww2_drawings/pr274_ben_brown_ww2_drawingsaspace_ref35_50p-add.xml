@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr274_ben_brown_ww2_drawingsaspace_ref35_50p</field>
+    <field name="ead_ssi">pr274_ben_brown_ww2_drawings</field>
+    <field name="parent_ssi">aspace_ref11_sew</field>
+    <field name="parent_ssm">aspace_ref11_sew</field>
+    <field name="parent_unittitles_ssm">Series I: Drawings</field>
+    <field name="parent_unittitles_teim">Series I: Drawings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ben Brown World War II drawings collection</field>
+    <field name="collection_ssm">Ben Brown World War II drawings collection</field>
+    <field name="collection_unitid_ssm">PR 274</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.A: Oversize Drawings</field>
+    <field name="unittitle_teim">Subseries I.A: Oversize Drawings</field>
+    <field name="scopecontent_teim">Oversize drawings range from 6 x 9 inches to 8 x 10 1/2 inches in size and contain work in graphite, pen and ink, pastel, watercolor and acrylic. Included are several North African and Italian landscapes, drawings and paintings of soldiers at work and at play and a number of layouts. One particularly interesting piece, done in acrylic, shows soldiers peering in a bar window. Soldiers inside can be seen drinking and socializing. Layouts include a poem by Elma Dean paired with a sketch of two soldiers; a cautionary drawing of cigarettes and the statement "A Dead Give Away"; and several pages showing sketches and boxes blocked out for text.</field>
+    <field name="ref_ssi">aspace_ref35_50p</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ben Brown World War II drawings collection</field>
+    <field name="collection_unitid_teim">PR 274</field>
+    <field name="series_sim">Series I: Drawings</field>
+    <field name="series_si">Series I: Drawings &gt;&gt; Subseries I.A: Oversize Drawings</field>
+    <field name="heading_ssm">Subseries I.A: Oversize Drawings</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

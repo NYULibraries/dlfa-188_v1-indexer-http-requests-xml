@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr221_asher_durand_printsaspace_ref27_quh</field>
+    <field name="ead_ssi">pr221_asher_durand_prints</field>
+    <field name="parent_ssi">aspace_ref23_o8d</field>
+    <field name="parent_ssm">aspace_ref23_o8d</field>
+    <field name="parent_unittitles_ssm">Series II: Oversize Prints</field>
+    <field name="parent_unittitles_teim">Series II: Oversize Prints</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asher B. Durand print collection</field>
+    <field name="collection_ssm">Asher B. Durand print collection</field>
+    <field name="collection_unitid_ssm">PR 221</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Ariadne" after Vanderlyn</field>
+    <field name="unittitle_teim">"Ariadne" after Vanderlyn</field>
+    <field name="unitdate_teim">1835</field>
+    <field name="scopecontent_teim">One copy before letters, one copy of finished print.</field>
+    <field name="ref_ssi">aspace_ref27_quh</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF-12</field>
+    <field name="location_si">Folder: FF-12</field>
+    <field name="collection_teim">Asher B. Durand print collection</field>
+    <field name="collection_unitid_teim">PR 221</field>
+    <field name="series_sim">Series II: Oversize Prints</field>
+    <field name="series_si">Series II: Oversize Prints &gt;&gt; "Ariadne" after Vanderlyn</field>
+    <field name="heading_ssm">"Ariadne" after Vanderlyn</field>
+    <field name="unitdate_ssm">1835</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

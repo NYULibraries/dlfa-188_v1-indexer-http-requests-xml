@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3031_daughters_of_cincinnatiaspace_ref70_uqe</field>
+    <field name="ead_ssi">ms3031_daughters_of_cincinnati</field>
+    <field name="parent_ssi">aspace_ref15_vdr</field>
+    <field name="parent_ssm">aspace_ref1_6sf</field>
+    <field name="parent_ssm">aspace_ref15_vdr</field>
+    <field name="parent_unittitles_ssm">Series I: Minutes and Annual Reports</field>
+    <field name="parent_unittitles_ssm">Subseries I.B. Minutes</field>
+    <field name="parent_unittitles_teim">Series I: Minutes and Annual Reports</field>
+    <field name="parent_unittitles_teim">Subseries I.B. Minutes</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Daughters of the Cincinnati records</field>
+    <field name="collection_ssm">Daughters of the Cincinnati records</field>
+    <field name="collection_unitid_ssm">MS 3031</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Minutes</field>
+    <field name="unittitle_teim">Minutes</field>
+    <field name="unitdate_teim">1971</field>
+    <field name="ref_ssi">aspace_ref70_uqe</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 7, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Daughters of the Cincinnati records</field>
+    <field name="collection_unitid_teim">MS 3031</field>
+    <field name="series_sim">Series I: Minutes and Annual Reports</field>
+    <field name="series_sim">Subseries I.B. Minutes</field>
+    <field name="series_si">Series I: Minutes and Annual Reports &gt;&gt; Subseries I.B. Minutes &gt;&gt; Minutes</field>
+    <field name="heading_ssm">Minutes</field>
+    <field name="unitdate_ssm">1971</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">36</field>
+  </doc>
+</add>

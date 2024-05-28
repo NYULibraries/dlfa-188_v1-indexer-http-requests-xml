@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_020fe6a44801349cb43d3ed454546cb9</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_54b6fb29fad876a426fb19f47304adf8</field>
+    <field name="parent_ssm">aspace_bbc508e612d1f4bba6232147b4bc0512</field>
+    <field name="parent_ssm">aspace_54b6fb29fad876a426fb19f47304adf8</field>
+    <field name="parent_unittitles_ssm">Series V. Sales Tickets and Invoices</field>
+    <field name="parent_unittitles_ssm">Subseries V.B. Sales Tickets by Ticket Number</field>
+    <field name="parent_unittitles_teim">Series V. Sales Tickets and Invoices</field>
+    <field name="parent_unittitles_teim">Subseries V.B. Sales Tickets by Ticket Number</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Sales tickets. 1st run, 1941-1958. (Box 1 of 19)</field>
+    <field name="unittitle_teim">Sales tickets. 1st run, 1941-1958. (Box 1 of 19)</field>
+    <field name="unitdate_inclusive_teim">1941-1942</field>
+    <field name="scopecontent_teim">Includes tickets #100-3675, held in booklets numbered 1-48. Date range January 1941-December 1942.</field>
+    <field name="ref_ssi">aspace_020fe6a44801349cb43d3ed454546cb9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 121</field>
+    <field name="location_si">Offsite-Box: 121</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series V. Sales Tickets and Invoices</field>
+    <field name="series_sim">Subseries V.B. Sales Tickets by Ticket Number</field>
+    <field name="series_si">Series V. Sales Tickets and Invoices &gt;&gt; Subseries V.B. Sales Tickets by Ticket Number &gt;&gt; Sales tickets. 1st run, 1941-1958. (Box 1 of 19)</field>
+    <field name="heading_ssm">Sales tickets. 1st run, 1941-1958. (Box 1 of 19)</field>
+    <field name="unitdate_ssm">Inclusive, 1941-1942</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">157</field>
+  </doc>
+</add>

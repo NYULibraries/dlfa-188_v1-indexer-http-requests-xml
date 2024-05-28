@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg03aspace_ref836_fcr</field>
+    <field name="ead_ssi">nyhs_archives_rg03</field>
+    <field name="parent_ssi">aspace_ref258_avi</field>
+    <field name="parent_ssm">aspace_ref258_avi</field>
+    <field name="parent_unittitles_ssm">Series IV. Central Park West Construction: Expansion</field>
+    <field name="parent_unittitles_teim">Series IV. Central Park West Construction: Expansion</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society original buildings planning &amp; construction records</field>
+    <field name="collection_ssm">New-York Historical Society original buildings planning &amp; construction records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 3</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV.D. Post-Construction Plans</field>
+    <field name="unittitle_teim">Subseries IV.D. Post-Construction Plans</field>
+    <field name="unitdate_teim">1940, 1945-1946, undated</field>
+    <field name="scopecontent_teim">The Post-Construction Plans subseries includes a small number of plans from the 1940s, the period of time shortly after the completion of the expansion of the Central Park West building in the late 1930s. Most of the subseries includes preliminary blueprints from 1945-1946 developed by Philip N. Youtz concerning a further expansion of the N-YHS building along West 76th Street; these plans were unrealized. The subseries also includes a blueprint prepared by N-YHS engineer Garrett H. Winter of the boiler and engine room (1940) and a set of schematic floor plans, possibly from the 1940s.</field>
+    <field name="ref_ssi">aspace_ref836_fcr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society original buildings planning &amp; construction records</field>
+    <field name="collection_unitid_teim">NYHS-RG 3</field>
+    <field name="series_sim">Series IV. Central Park West Construction: Expansion</field>
+    <field name="series_si">Series IV. Central Park West Construction: Expansion &gt;&gt; Subseries IV.D. Post-Construction Plans</field>
+    <field name="heading_ssm">Subseries IV.D. Post-Construction Plans</field>
+    <field name="unitdate_ssm">1940, 1945-1946, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">633</field>
+  </doc>
+</add>

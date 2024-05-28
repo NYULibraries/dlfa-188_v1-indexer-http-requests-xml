@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_ee22e2dcf6cf56318387d8949af6c1e6</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_ssm">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_unittitles_ssm">Series II: Business Documents</field>
+    <field name="parent_unittitles_teim">Series II: Business Documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Invoices</field>
+    <field name="unittitle_teim">Invoices</field>
+    <field name="unitdate_inclusive_teim">1791-1800</field>
+    <field name="scopecontent_teim">This box includes 9 folders of invoices from 1791 to 1800.  These invoices are mostly for sundries and other smaller materials housed in trunks or bales.  They include a list of goods, a description of the goods, and their prices. Goods include casks of oil, spermaceti candles, fabric, staves, dyes, and linens.</field>
+    <field name="ref_ssi">aspace_ee22e2dcf6cf56318387d8949af6c1e6</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 58</field>
+    <field name="location_si">Box: 58</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series II: Business Documents</field>
+    <field name="series_si">Series II: Business Documents &gt;&gt; Invoices</field>
+    <field name="heading_ssm">Invoices</field>
+    <field name="unitdate_ssm">Inclusive, 1791-1800</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">398</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2997_saint_andrews_societyaspace_ref490_ji4</field>
+    <field name="ead_ssi">ms2997_saint_andrews_society</field>
+    <field name="parent_ssi">aspace_ref48_5f4</field>
+    <field name="parent_ssm">aspace_ref48_5f4</field>
+    <field name="parent_unittitles_ssm">Series IV: Event Records</field>
+    <field name="parent_unittitles_teim">Series IV: Event Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_ssm">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_unitid_ssm">MS 2997</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV.1: Anniversary Banquet Proceedings</field>
+    <field name="unittitle_teim">Subseries IV.1: Anniversary Banquet Proceedings</field>
+    <field name="unitdate_inclusive_teim">1893-1989</field>
+    <field name="scopecontent_teim">This subseries contains ephemera and transcriptions of the proceedings at the Society's Anniversary Banquets. Included are menus, programs that detail guests and seating arrangements, and in some cases, the text of speeches given on the occasion. 
+Bound volumes are arranged first, followed by foldered material. Duplicate items are housed separately.</field>
+    <field name="ref_ssi">aspace_ref490_ji4</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Offsite-Box: SA-15, Volume: 115</field>
+    <field name="location_ssm">Volume: 115</field>
+    <field name="location_si">Volume: 115</field>
+    <field name="collection_teim">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_unitid_teim">MS 2997</field>
+    <field name="series_sim">Series IV: Event Records</field>
+    <field name="series_si">Series IV: Event Records &gt;&gt; Subseries IV.1: Anniversary Banquet Proceedings</field>
+    <field name="heading_ssm">Subseries IV.1: Anniversary Banquet Proceedings</field>
+    <field name="unitdate_ssm">Inclusive, 1893-1989</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">540</field>
+  </doc>
+</add>

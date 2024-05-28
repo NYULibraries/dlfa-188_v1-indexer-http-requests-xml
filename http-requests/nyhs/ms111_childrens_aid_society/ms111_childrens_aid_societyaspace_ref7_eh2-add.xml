@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref7_eh2</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII - Legal Records</field>
+    <field name="unittitle_teim">Series VII - Legal Records</field>
+    <field name="unitdate_teim">circa 1861-1925</field>
+    <field name="scopecontent_teim">This series consists of 1 box of documents relating to miscellaneous legal matters, in folders arranged chronologically circa 1861-1925, and one volume (a mostly handwritten compilation of laws relating to gifts to charitable agencies 1848-1893; date of compilation unknown). The documents are mainly legal instruments (agreements, contracts, bonds, licenses), requests or petitions for legislation, as well as a few reports and letters regarding legal issues, and copies of legislation effecting the CAS. The volume is listed after the boxes in the container list.</field>
+    <field name="ref_ssi">aspace_ref7_eh2</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_si">Series VII - Legal Records</field>
+    <field name="heading_ssm">Series VII - Legal Records</field>
+    <field name="unitdate_ssm">circa 1861-1925</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1337</field>
+  </doc>
+</add>

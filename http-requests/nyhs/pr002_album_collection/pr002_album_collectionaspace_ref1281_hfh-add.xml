@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1281_hfh</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Album of views of the West / views taken by Clarence Copeland</field>
+    <field name="unittitle_teim">Album of views of the West / views taken by Clarence Copeland</field>
+    <field name="unitdate_normal_ssm">1902/1903</field>
+    <field name="unitdate_normal_teim">1902/1903</field>
+    <field name="unitdate_normal_sim">1902/1903</field>
+    <field name="unitdate_inclusive_teim">1902-1903</field>
+    <field name="scopecontent_teim">Views around Mt. Shasta, including general views, the train station, geyser, rivers, inclined railroad; views in Salt Lake City, including general view, Latter Day Saints College, Temple, homes, Salt Palace, Salt Aire Pavilion; Colorado Springs and Pike's Peak including Cog railroad; Manitou Springs, Garden of the Gods, gold mines; Denver: general view, the capital; views on the Denver, and Rio Grande Railroad, including Royal Gorge; California: parks in Los Angeles and Riverside, orange groves, beach scenes, rocky shoreline, redwood tree; Monterey, including 7 Mile Drive and a bullfight; Catalina Island, and excursion boats, San Francisco, including Cliff House and beach, and the Navy Yard; Arizona: Bright Angel, Grand Canyon, including vertical panoramas, Canyon Diablo; trains and scenery along the Atchison Topeka and Sante Fe railroad; views in Sante Fe, Pueblo Indian village, hotel in Las Vegas, N.M.; views in the Siskiyous; Seattle: Labor Day parade, waterfront, ships, Navy dry-dock in [Bellingham]; park and government building in Victoria, B.C; cadets marching at West Point; women visiting Plymouth Rock, other historic sites in Massachusetts; administration building at the St. Louis World's Fair; beach views in Atlantic City and Coney Island; ships at New York and Lake Erie; elk, polar bear, and buffalo in zoos; Niagara Falls; Mt. Vernon; lily pond and other sights at Shaw's Garden, St. Louis; sailboats, various locations; capital buildings in Albany, Hartford and Washington, D.C.; includes small panoramic views.</field>
+    <field name="ref_ssi">aspace_ref1281_hfh</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 68, Volume: 365</field>
+    <field name="location_ssm">Volume: 365</field>
+    <field name="location_si">Volume: 365</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Album of views of the West / views taken by Clarence Copeland</field>
+    <field name="heading_ssm">Album of views of the West / views taken by Clarence Copeland</field>
+    <field name="unitdate_start_sim">1902</field>
+    <field name="unitdate_start_ssm">1902</field>
+    <field name="unitdate_start_si">1902</field>
+    <field name="unitdate_end_sim">1903</field>
+    <field name="unitdate_end_ssm">1903</field>
+    <field name="unitdate_end_si">1903</field>
+    <field name="unitdate_ssm">Inclusive, 1902-1903</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">425</field>
+  </doc>
+</add>

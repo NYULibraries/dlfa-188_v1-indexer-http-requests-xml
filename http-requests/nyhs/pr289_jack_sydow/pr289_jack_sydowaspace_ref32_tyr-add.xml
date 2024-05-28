@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr289_jack_sydowaspace_ref32_tyr</field>
+    <field name="ead_ssi">pr289_jack_sydow</field>
+    <field name="parent_ssi">aspace_ref26_nit</field>
+    <field name="parent_ssm">aspace_ref11_s4d</field>
+    <field name="parent_ssm">aspace_ref26_nit</field>
+    <field name="parent_unittitles_ssm">Series I: World War II</field>
+    <field name="parent_unittitles_ssm">Subseries I.3: Documents</field>
+    <field name="parent_unittitles_teim">Series I: World War II</field>
+    <field name="parent_unittitles_teim">Subseries I.3: Documents</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jack Sydow Photographs and Papers Collection</field>
+    <field name="collection_ssm">Jack Sydow Photographs and Papers Collection</field>
+    <field name="collection_unitid_ssm">PR 289</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Newspaper clippings</field>
+    <field name="unittitle_teim">Newspaper clippings</field>
+    <field name="unitdate_teim">1944-1945, undated</field>
+    <field name="scopecontent_teim">Contains clippings about Hump Happy, obituaries for soldiers, and a French paper.</field>
+    <field name="ref_ssi">aspace_ref32_tyr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Jack Sydow Photographs and Papers Collection</field>
+    <field name="collection_unitid_teim">PR 289</field>
+    <field name="series_sim">Series I: World War II</field>
+    <field name="series_sim">Subseries I.3: Documents</field>
+    <field name="series_si">Series I: World War II &gt;&gt; Subseries I.3: Documents &gt;&gt; Newspaper clippings</field>
+    <field name="heading_ssm">Newspaper clippings</field>
+    <field name="unitdate_ssm">1944-1945, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">16</field>
+  </doc>
+</add>

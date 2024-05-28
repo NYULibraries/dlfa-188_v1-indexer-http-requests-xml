@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref179_6vv</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New Hampshire</field>
+    <field name="unittitle_teim">New Hampshire</field>
+    <field name="unitdate_normal_ssm">1864/1900</field>
+    <field name="unitdate_normal_teim">1864/1900</field>
+    <field name="unitdate_normal_sim">1864/1900</field>
+    <field name="unitdate_inclusive_teim">[1864-1900]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0165</field>
+    <field name="scopecontent_teim">New Hampshire: unidentified farm, farmer with sheep, house and barns beyond; tents and buildings, Alton Bay Campground; Ammonoosuc River and Falls, including view of artist at work (the photographer's brother, Thomas Moran?); Horace Greeley's birthplace, Amherst; view from lead mine bridge of the Androscoggin and mountains beyond; Bethlehem: Maplewood Hotel, Howard House, and group at the observatory on the summit of Mt. Agassiz; Campton Village: group portrait of a woman, two men and a baby, and group outside large frame building, some holding croquet mallets, carriages in background; Shaker sisters on the steps of a building, Canterbury; waiters and waitresses in the dining room of the Twin Mountain House, Carroll; Eagle Hotel, a gazebo and other buildings, Charlestown; Conway Congregational Church; views in the Connecticut Valley; log cabin at Dalton, family at door; group in front of the Fisherville tent at Epping Campground, and pulpit in auditorium under the pines; children in front of the High School, Exeter; railroad bridge near Fabyan House; interior of the Methodist Church, Fisherville; Morrison's dry good store, Franklin Falls; C. M. Jones Drugstore, Great Falls; Boars Head Hotel, Hampton Beach; train wreck on the Boston Maine R.R. near Haverhill; Main Street looking east, Kimball and Co. Dry Goods, Hopkinton; Sabbath School class and teacher, Lebanon; Mary E. Ninde's House, Littleton; carriage decorated with hemlock and pulled by oxen, Marlow town fair, 1878; men and women on suspension bridge over the Souhegan River, Milford; Main Street, Nashua, including printing establishment, churches, including one with clock in tower; railroad collision, Long Pond, New Hampton, one of the cars is painted with "Passumpsic R.R." on the side; views by a New Market photographer: frame house draped with American flag and hung with signs reading "Dodge Club, Springfield," men in sailor suits, two playing cards, woman in the door, a woman pulling small wagon with child in it, labeled "The Huckleberry woman"; bridge over Livermore Falls, Plymouth; courthouse where Daniel Webster made his first plea before a jury, Plymouth; group of bicyclists with "ordinary" bikes, Portsmouth; Ocean House, Rye Beach; mill building labeled Nickerson's mill, and a later view of a larger building, published by Bessie E. Nickerson, Sugar Hill; group sitting at table, Centennial picnic, Swanzey, Aug. 1876; view from the Mountain House, Whitefield, group on lawn in foreground, farms in middle ground; B. C. &amp; M. Railroad bridge, Woodsville;  parade, possibly in Tilton, American flag hanging over street; men and women in rowboats, titled "After the regatta"</field>
+    <field name="scopecontent_teim">51 items</field>
+    <field name="ref_ssi">aspace_ref179_6vv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18</field>
+    <field name="location_si">Box: 18</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New Hampshire</field>
+    <field name="heading_ssm">New Hampshire</field>
+    <field name="unitdate_start_sim">1864</field>
+    <field name="unitdate_start_ssm">1864</field>
+    <field name="unitdate_start_si">1864</field>
+    <field name="unitdate_end_sim">1900</field>
+    <field name="unitdate_end_ssm">1900</field>
+    <field name="unitdate_end_si">1900</field>
+    <field name="unitdate_ssm">Inclusive, [1864-1900]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">166</field>
+  </doc>
+</add>

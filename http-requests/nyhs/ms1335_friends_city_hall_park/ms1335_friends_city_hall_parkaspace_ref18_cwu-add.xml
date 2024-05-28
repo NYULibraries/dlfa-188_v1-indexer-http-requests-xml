@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms1335_friends_city_hall_parkaspace_ref18_cwu</field>
+    <field name="ead_ssi">ms1335_friends_city_hall_park</field>
+    <field name="parent_ssi">aspace_ref14_5a4</field>
+    <field name="parent_ssm">aspace_ref1_t7x</field>
+    <field name="parent_ssm">aspace_ref14_5a4</field>
+    <field name="parent_unittitles_ssm">Series I: Friends of City Hall Park</field>
+    <field name="parent_unittitles_ssm">Subseries A: Correspondence </field>
+    <field name="parent_unittitles_teim">Series I: Friends of City Hall Park</field>
+    <field name="parent_unittitles_teim">Subseries A: Correspondence </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Friends of City Hall Park Papers</field>
+    <field name="collection_ssm">Friends of City Hall Park Papers</field>
+    <field name="collection_unitid_ssm">MS 1335</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence from Friends of City Hall Park </field>
+    <field name="unittitle_teim">Correspondence from Friends of City Hall Park </field>
+    <field name="unitdate_normal_ssm">2002/2007</field>
+    <field name="unitdate_normal_teim">2002/2007</field>
+    <field name="unitdate_normal_sim">2002/2007</field>
+    <field name="unitdate_inclusive_teim">2002-2007, undated</field>
+    <field name="ref_ssi">aspace_ref18_cwu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Friends of City Hall Park Papers</field>
+    <field name="collection_unitid_teim">MS 1335</field>
+    <field name="series_sim">Series I: Friends of City Hall Park</field>
+    <field name="series_sim">Subseries A: Correspondence </field>
+    <field name="series_si">Series I: Friends of City Hall Park &gt;&gt; Subseries A: Correspondence  &gt;&gt; Correspondence from Friends of City Hall Park </field>
+    <field name="heading_ssm">Correspondence from Friends of City Hall Park </field>
+    <field name="unitdate_start_sim">2002</field>
+    <field name="unitdate_start_ssm">2002</field>
+    <field name="unitdate_start_si">2002</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, 2002-2007, undated</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

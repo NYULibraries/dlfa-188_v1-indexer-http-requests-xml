@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms000_oversize_manuscripts_collectionaspace_c4c63a1ef372fad0d6cd2c97ed08af81</field>
+    <field name="ead_ssi">ms000_oversize_manuscripts_collection</field>
+    <field name="parent_ssi">aspace_ref6_a5t</field>
+    <field name="parent_ssm">aspace_ref6_a5t</field>
+    <field name="parent_unittitles_ssm">Series I. Individual Oversize Manuscripts</field>
+    <field name="parent_unittitles_teim">Series I. Individual Oversize Manuscripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oversize manuscripts collection</field>
+    <field name="collection_ssm">Oversize manuscripts collection</field>
+    <field name="collection_unitid_ssm">MS OS</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Y-1861, August] Alert Hose Co., No. 3 resolutions re: William Moir Smith + frame</field>
+    <field name="unittitle_teim">[Y-1861, August] Alert Hose Co., No. 3 resolutions re: William Moir Smith + frame</field>
+    <field name="unitdate_teim">1861 August 22</field>
+    <field name="scopecontent_teim">Preamble and resolutions adopted at a special meeting of Alert Hose Co., No. 3, at the Carriage House in Brooklyn W.D. memorializing their fellow firefighter William Moir Smith who died at Richmond, Virginia, of wounds from the battle of Bull Run on July 21, 1861. Smith was a member of the 71st Regiment, Company A. Signed by H.A. Ransford, foreman, and W.A. Price, secretary.</field>
+    <field name="ref_ssi">aspace_c4c63a1ef372fad0d6cd2c97ed08af81</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: large, Folder: Y-1861 August (Smith)</field>
+    <field name="location_ssm">Folder: Y-1861 August (Smith)</field>
+    <field name="location_si">Folder: Y-1861 August (Smith)</field>
+    <field name="collection_teim">Oversize manuscripts collection</field>
+    <field name="collection_unitid_teim">MS OS</field>
+    <field name="series_sim">Series I. Individual Oversize Manuscripts</field>
+    <field name="series_si">Series I. Individual Oversize Manuscripts &gt;&gt; [Y-1861, August] Alert Hose Co., No. 3 resolutions re: William Moir Smith + frame</field>
+    <field name="heading_ssm">[Y-1861, August] Alert Hose Co., No. 3 resolutions re: William Moir Smith + frame</field>
+    <field name="unitdate_ssm">1861 August 22</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">217</field>
+  </doc>
+</add>

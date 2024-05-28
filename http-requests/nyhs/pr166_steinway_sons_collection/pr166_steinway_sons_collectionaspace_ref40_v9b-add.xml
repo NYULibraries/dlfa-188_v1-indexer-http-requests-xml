@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr166_steinway_sons_collectionaspace_ref40_v9b</field>
+    <field name="ead_ssi">pr166_steinway_sons_collection</field>
+    <field name="parent_ssi">aspace_ref39_xuj</field>
+    <field name="parent_ssm">aspace_ref39_xuj</field>
+    <field name="parent_unittitles_ssm">OVERSIZE MATERIAL</field>
+    <field name="parent_unittitles_teim">OVERSIZE MATERIAL</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Steinway &amp; Sons Photograph and Print Collection</field>
+    <field name="collection_ssm">Steinway &amp; Sons Photograph and Print Collection</field>
+    <field name="collection_unitid_ssm">PR 166</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">From Series I. Photographs -- PEOPLE</field>
+    <field name="unittitle_teim">From Series I. Photographs -- PEOPLE</field>
+    <field name="ref_ssi">aspace_ref40_v9b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Steinway &amp; Sons Photograph and Print Collection</field>
+    <field name="collection_unitid_teim">PR 166</field>
+    <field name="series_sim">OVERSIZE MATERIAL</field>
+    <field name="series_si">OVERSIZE MATERIAL &gt;&gt; From Series I. Photographs -- PEOPLE</field>
+    <field name="heading_ssm">From Series I. Photographs -- PEOPLE</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref51_0qf</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">J.P. Marquand, Jr. [Album of cartes-de-visite]</field>
+    <field name="unittitle_teim">J.P. Marquand, Jr. [Album of cartes-de-visite]</field>
+    <field name="unitdate_inclusive_teim">[186--187-]</field>
+    <field name="scopecontent_teim">"Cartes-de-visite, including sentimental views, celebrities, including Siamese twins, Tom Thumb and wife; a caricature; group portrait of African Americans; portrait of Lincoln and family; State Reform School, Westboro, Mass.</field>
+    <field name="ref_ssi">aspace_ref51_0qf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Volume: 15</field>
+    <field name="location_ssm">Volume: 15</field>
+    <field name="location_si">Volume: 15</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">J.P. Marquand, Jr. [Album of cartes-de-visite]</field>
+    <field name="heading_ssm">J.P. Marquand, Jr. [Album of cartes-de-visite]</field>
+    <field name="unitdate_ssm">Inclusive, [186--187-]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

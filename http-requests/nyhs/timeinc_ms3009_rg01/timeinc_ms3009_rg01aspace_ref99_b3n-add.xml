@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg01aspace_ref99_b3n</field>
+    <field name="ead_ssi">timeinc_ms3009_rg01</field>
+    <field name="parent_ssi">aspace_ref12_y3l</field>
+    <field name="parent_ssm">aspace_ref12_y3l</field>
+    <field name="parent_unittitles_ssm">Series I: 1960 and Before</field>
+    <field name="parent_unittitles_teim">Series I: 1960 and Before</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Time Inc. Subject Files</field>
+    <field name="collection_ssm">Time Inc. Subject Files</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 1</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Edit: 1938: Misc: Jan-April</field>
+    <field name="unittitle_teim">Edit: 1938: Misc: Jan-April</field>
+    <field name="ref_ssi">aspace_ref99_b3n</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 413</field>
+    <field name="location_si">Offsite-Box: 413</field>
+    <field name="collection_teim">Time Inc. Subject Files</field>
+    <field name="collection_unitid_teim">MS 3009-RG 1</field>
+    <field name="series_sim">Series I: 1960 and Before</field>
+    <field name="series_si">Series I: 1960 and Before &gt;&gt; Edit: 1938: Misc: Jan-April</field>
+    <field name="heading_ssm">Edit: 1938: Misc: Jan-April</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">87</field>
+  </doc>
+</add>

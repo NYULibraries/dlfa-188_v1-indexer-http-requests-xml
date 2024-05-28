@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms569_slavery_collectionaspace_ref57_3re</field>
+    <field name="ead_ssi">ms569_slavery_collection</field>
+    <field name="parent_ssi">aspace_ref55_rlg</field>
+    <field name="parent_ssm">aspace_ref53_38s</field>
+    <field name="parent_ssm">aspace_ref55_rlg</field>
+    <field name="parent_unittitles_ssm">Series II - Gardner and Dean, 1771-1807</field>
+    <field name="parent_unittitles_ssm">Subseries 1 - Correspondence, 1804-1807</field>
+    <field name="parent_unittitles_teim">Series II - Gardner and Dean, 1771-1807</field>
+    <field name="parent_unittitles_teim">Subseries 1 - Correspondence, 1804-1807</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Slavery Collection</field>
+    <field name="collection_ssm">Slavery Collection</field>
+    <field name="collection_unitid_ssm">MS 569</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence P#18; T#1, 2; W#14, 15, 26</field>
+    <field name="unittitle_teim">Correspondence P#18; T#1, 2; W#14, 15, 26</field>
+    <field name="unitdate_normal_ssm">1804/1807</field>
+    <field name="unitdate_normal_teim">1804/1807</field>
+    <field name="unitdate_normal_sim">1804/1807</field>
+    <field name="unitdate_inclusive_teim">1804-1807</field>
+    <field name="ref_ssi">aspace_ref57_3re</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Slavery Collection</field>
+    <field name="collection_unitid_teim">MS 569</field>
+    <field name="series_sim">Series II - Gardner and Dean, 1771-1807</field>
+    <field name="series_sim">Subseries 1 - Correspondence, 1804-1807</field>
+    <field name="series_si">Series II - Gardner and Dean, 1771-1807 &gt;&gt; Subseries 1 - Correspondence, 1804-1807 &gt;&gt; Correspondence P#18; T#1, 2; W#14, 15, 26</field>
+    <field name="heading_ssm">Correspondence P#18; T#1, 2; W#14, 15, 26</field>
+    <field name="unitdate_start_sim">1804</field>
+    <field name="unitdate_start_ssm">1804</field>
+    <field name="unitdate_start_si">1804</field>
+    <field name="unitdate_end_sim">1807</field>
+    <field name="unitdate_end_ssm">1807</field>
+    <field name="unitdate_end_si">1807</field>
+    <field name="unitdate_ssm">Inclusive, 1804-1807</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">42</field>
+  </doc>
+</add>

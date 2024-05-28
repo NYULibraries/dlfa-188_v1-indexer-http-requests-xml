@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3113_new_england_societyaspace_c6cb304c2242226c854a092f55e87ab7</field>
+    <field name="ead_ssi">ms3113_new_england_society</field>
+    <field name="parent_ssi">aspace_c7d808cfc608f5362718be9e5924d450</field>
+    <field name="parent_ssm">aspace_c7d808cfc608f5362718be9e5924d450</field>
+    <field name="parent_unittitles_ssm">Series II. General Correspondence</field>
+    <field name="parent_unittitles_teim">Series II. General Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New England Society in the City of New York records</field>
+    <field name="collection_ssm">New England Society in the City of New York records</field>
+    <field name="collection_unitid_ssm">MS 3113</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Letterbook</field>
+    <field name="unittitle_teim">Letterbook</field>
+    <field name="unitdate_inclusive_teim">1912 February - October</field>
+    <field name="ref_ssi">aspace_c6cb304c2242226c854a092f55e87ab7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 18, Volume: SN 43</field>
+    <field name="location_ssm">Volume: SN 43</field>
+    <field name="location_si">Volume: SN 43</field>
+    <field name="collection_teim">New England Society in the City of New York records</field>
+    <field name="collection_unitid_teim">MS 3113</field>
+    <field name="series_sim">Series II. General Correspondence</field>
+    <field name="series_si">Series II. General Correspondence &gt;&gt; Letterbook</field>
+    <field name="heading_ssm">Letterbook</field>
+    <field name="unitdate_ssm">Inclusive, 1912 February - October</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

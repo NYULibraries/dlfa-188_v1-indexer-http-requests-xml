@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg02aspace_ref1099_skf</field>
+    <field name="ead_ssi">nyhs_archives_rg02</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society general correspondence</field>
+    <field name="collection_ssm">New-York Historical Society general correspondence</field>
+    <field name="collection_unitid_ssm">NYHS-RG 2</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Notable Correspondents</field>
+    <field name="unittitle_teim">Series I. Notable Correspondents</field>
+    <field name="unitdate_inclusive_teim">1805-2023</field>
+    <field name="scopecontent_teim">The Notable Correspondents series consists of letters removed from the General Correspondence files (see Series III) by prior N-YHS staff based on their perceived value and importance. Correspondents include former American presidents and significant scholars, authors, politicans, journalists, historians, and other figures. </field>
+    <field name="scopecontent_teim">A bulk of the letters are acknowledgments of election as an Honorary Member or responses to invitations to deliver a lecture or attend an N-YHS event. The content for every letter in this series is noted in the container list, with the exception of three files arranged and described based on common event or correspondent.</field>
+    <field name="scopecontent_teim">Highlights of the series include correspondence documenting the N-YHS acquisition of John Jay Audubon's original Birds of America watercolor portfolios from his widow Lucy and a letter from Thomas Jefferson Randolph discussing the condition of Thomas Jefferson during the year leading up to his death. Substantive manuscripts include an account by John R. Bartlett of his mid-19th-century travels through Mexico, the American Southwest, and California; report by Amos Kendall on the death of Tecumseh; extrapolation by Orasmus Holmes Marshall of research into the site of La Salle's 1679 shipyard; and contestations by George Gibbs of recent claims on the island discoveries of Christopher Columbus.</field>
+    <field name="ref_ssi">aspace_ref1099_skf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society general correspondence</field>
+    <field name="collection_unitid_teim">NYHS-RG 2</field>
+    <field name="series_si">Series I. Notable Correspondents</field>
+    <field name="heading_ssm">Series I. Notable Correspondents</field>
+    <field name="unitdate_ssm">Inclusive, 1805-2023</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

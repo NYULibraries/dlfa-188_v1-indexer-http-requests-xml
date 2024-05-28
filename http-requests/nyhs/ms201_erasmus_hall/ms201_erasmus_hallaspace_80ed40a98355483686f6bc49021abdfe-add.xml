@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_80ed40a98355483686f6bc49021abdfe</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_e2c5a9240af89acbda0f67d706c98363</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_e2c5a9240af89acbda0f67d706c98363</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Erasmus Hall Academy—Catalogue</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Erasmus Hall Academy—Catalogue</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Prospectus and catalogues]</field>
+    <field name="unittitle_teim">[Prospectus and catalogues]</field>
+    <field name="unitdate_inclusive_teim">1860–1891</field>
+    <field name="scopecontent_teim">•	Howard, Rev. W. W. Prospectus of Erasmus Hall Academy. N.Y.: Smith, Woodman &amp; Co., 1860. 12 p.
+•	Circular and Catalogue of Erasmus Hall Academy. Brooklyn: Union-Argus Printing, 1881. 24 p.
+•	Circular and Catalogue of Erasmus Hall Academy. Brooklyn: Martin &amp; Niper, 1885. 24 p. [3 copies]
+•	Circular and Catalogue of Erasmus Hall Academy. Brooklyn: Martin &amp; Niper, 1886. 24 p. (&amp; insert)
+•	Erasmus Hall Academy. Circular for 1891. n.p., 1891. 4 l.</field>
+    <field name="ref_ssi">aspace_80ed40a98355483686f6bc49021abdfe</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-1, Folder: Academy Trustees' Correspondence</field>
+    <field name="location_ssm">Folder: Academy Trustees' Correspondence</field>
+    <field name="location_si">Folder: Academy Trustees' Correspondence</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Erasmus Hall Academy—Catalogue</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Erasmus Hall Academy—Catalogue &gt;&gt; [Prospectus and catalogues]</field>
+    <field name="heading_ssm">[Prospectus and catalogues]</field>
+    <field name="unitdate_ssm">Inclusive, 1860–1891</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">184</field>
+  </doc>
+</add>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr104_theatrical_portrait_collectionaspace_3fa4efe8d784627aa2f18e75754dbd5e</field>
+    <field name="ead_ssi">pr104_theatrical_portrait_collection</field>
+    <field name="parent_ssi">aspace_8d9acaf025e0344ad6576a0354d863ab</field>
+    <field name="parent_ssm">aspace_7073aa78a897811b2e33bd077b2955d3</field>
+    <field name="parent_ssm">aspace_8d9acaf025e0344ad6576a0354d863ab</field>
+    <field name="parent_unittitles_ssm">Series II. Groups</field>
+    <field name="parent_unittitles_ssm">Subseries II.A. Groups (medium format)</field>
+    <field name="parent_unittitles_teim">Series II. Groups</field>
+    <field name="parent_unittitles_teim">Subseries II.A. Groups (medium format)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_ssm">PR 104</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Theatre (medium)</field>
+    <field name="unittitle_teim">Theatre (medium)</field>
+    <field name="unitdate_inclusive_teim">1875-1936, undated</field>
+    <field name="scopecontent_teim">American Gilbert and Sullivan Association dinner (2 images), 1936
+Bronx Opera Club, (separate folder; 7 images)
+"The Gondoliers," 1931
+"HMS Pinafore," 1929
+"The Mascot," 1933
+"The Mikado," 1928
+"Olivette," 1932
+"Patience," 1929
+"The Sorcerer," 1932
+Callender Minstrel Festival, 1883
+Augustin Daly's company, including John Drew, Ada Rehan, 1884
+Empire Theatre Stock Company, 1903
+Daniel Frohman's Company, 1900
+Harrigan and Hart's Theatre Comique Company, 1875
+John E. Kellerd repertory productions cast (separate folder; 12 images), 1906–1911
+"Hamlet"
+"Macbeth"
+"Merchant of Venice"
+Weber and Fields Company, including Lillian Russell (3 images), undated</field>
+    <field name="ref_ssi">aspace_3fa4efe8d784627aa2f18e75754dbd5e</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">drawer: Medium</field>
+    <field name="location_si">drawer: Medium</field>
+    <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_teim">PR 104</field>
+    <field name="series_sim">Series II. Groups</field>
+    <field name="series_sim">Subseries II.A. Groups (medium format)</field>
+    <field name="series_si">Series II. Groups &gt;&gt; Subseries II.A. Groups (medium format) &gt;&gt; Theatre (medium)</field>
+    <field name="heading_ssm">Theatre (medium)</field>
+    <field name="unitdate_ssm">Inclusive, 1875-1936, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">83</field>
+  </doc>
+</add>

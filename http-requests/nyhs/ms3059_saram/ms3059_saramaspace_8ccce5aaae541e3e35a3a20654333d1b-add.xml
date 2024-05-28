@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3059_saramaspace_8ccce5aaae541e3e35a3a20654333d1b</field>
+    <field name="ead_ssi">ms3059_saram</field>
+    <field name="parent_ssi">aspace_69e27db8a73bb2259c900d5e018762f3</field>
+    <field name="parent_ssm">aspace_69e27db8a73bb2259c900d5e018762f3</field>
+    <field name="parent_unittitles_ssm">Series 1: Subject Files</field>
+    <field name="parent_unittitles_teim">Series 1: Subject Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Carole De Saram papers</field>
+    <field name="collection_ssm">Carole De Saram papers</field>
+    <field name="collection_unitid_ssm">MS 3059</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Helicopter Noise Safety</field>
+    <field name="unittitle_teim">Helicopter Noise Safety</field>
+    <field name="unitdate_inclusive_teim">1995-2000</field>
+    <field name="ref_ssi">aspace_8ccce5aaae541e3e35a3a20654333d1b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 8, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Carole De Saram papers</field>
+    <field name="collection_unitid_teim">MS 3059</field>
+    <field name="series_sim">Series 1: Subject Files</field>
+    <field name="series_si">Series 1: Subject Files &gt;&gt; Helicopter Noise Safety</field>
+    <field name="heading_ssm">Helicopter Noise Safety</field>
+    <field name="unitdate_ssm">Inclusive, 1995-2000</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">121</field>
+  </doc>
+</add>

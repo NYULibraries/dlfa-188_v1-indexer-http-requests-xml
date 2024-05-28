@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3071_wednesdayaspace_2ae44fa873b5be60adad3d60cb7ecae2</field>
+    <field name="ead_ssi">ms3071_wednesday</field>
+    <field name="parent_ssi">aspace_41b38eeaddd23493e30266be70b63d8b</field>
+    <field name="parent_ssm">aspace_41b38eeaddd23493e30266be70b63d8b</field>
+    <field name="parent_unittitles_ssm">Series VI. Financial</field>
+    <field name="parent_unittitles_teim">Series VI. Financial</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Wednesday Club records</field>
+    <field name="collection_ssm">Wednesday Club records</field>
+    <field name="collection_unitid_ssm">MS 3071</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Loose items from account book</field>
+    <field name="unittitle_teim">Loose items from account book</field>
+    <field name="unitdate_inclusive_teim">1959-1987</field>
+    <field name="ref_ssi">aspace_2ae44fa873b5be60adad3d60cb7ecae2</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 33</field>
+    <field name="location_ssm">Folder: 33</field>
+    <field name="location_si">Folder: 33</field>
+    <field name="collection_teim">Wednesday Club records</field>
+    <field name="collection_unitid_teim">MS 3071</field>
+    <field name="series_sim">Series VI. Financial</field>
+    <field name="series_si">Series VI. Financial &gt;&gt; Loose items from account book</field>
+    <field name="heading_ssm">Loose items from account book</field>
+    <field name="unitdate_ssm">Inclusive, 1959-1987</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">53</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref180_buc</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New Hampshire--Center Harbor; Lake Winnipesaukee</field>
+    <field name="unittitle_teim">New Hampshire--Center Harbor; Lake Winnipesaukee</field>
+    <field name="unitdate_inclusive_teim">[1860-1888]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0166</field>
+    <field name="scopecontent_teim">Center Harbor: Steamers at dock, including the Mt. Washington and the Lady of the Lake; Ossipee Mountains from Center Harbor, group in foreground; Senter House, coaches in front and people on the balcony, view of Lake Winnipesaukee from the Senter House Piazza, and from above the Senter House, with farms and churches in the middle ground; steamboats on the lake, including at Wolfeboro, and at the Winnipesaukee Camp Ground; men on houseboat, steam launches tied to it.</field>
+    <field name="scopecontent_teim">13 items</field>
+    <field name="ref_ssi">aspace_ref180_buc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18</field>
+    <field name="location_si">Box: 18</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New Hampshire--Center Harbor; Lake Winnipesaukee</field>
+    <field name="heading_ssm">New Hampshire--Center Harbor; Lake Winnipesaukee</field>
+    <field name="unitdate_ssm">Inclusive, [1860-1888]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">167</field>
+  </doc>
+</add>

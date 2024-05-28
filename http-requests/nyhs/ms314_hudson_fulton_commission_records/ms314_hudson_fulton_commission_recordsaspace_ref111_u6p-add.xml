@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms314_hudson_fulton_commission_recordsaspace_ref111_u6p</field>
+    <field name="ead_ssi">ms314_hudson_fulton_commission_records</field>
+    <field name="parent_ssi">aspace_ref13_hxq</field>
+    <field name="parent_ssm">aspace_ref13_hxq</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Hudson-Fulton Celebration Commission records</field>
+    <field name="collection_ssm">Hudson-Fulton Celebration Commission records</field>
+    <field name="collection_unitid_ssm">MS 314</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.C. Invitation Responses</field>
+    <field name="unittitle_teim">Subseries I.C. Invitation Responses</field>
+    <field name="scopecontent_teim">This subseries consists of replies to the various events sponsored by the Commission, as well as thank you letters commending the Commission on a job well done. Most of the individuals invited to the Celebration and banquets were dignitaries and officials from the United States, as well as countries throughout the world.</field>
+    <field name="ref_ssi">aspace_ref111_u6p</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Hudson-Fulton Celebration Commission records</field>
+    <field name="collection_unitid_teim">MS 314</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries I.C. Invitation Responses</field>
+    <field name="heading_ssm">Subseries I.C. Invitation Responses</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">97</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms8_alexander_papersaspace_ref287_858</field>
+    <field name="ead_ssi">ms8_alexander_papers</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Alexander papers</field>
+    <field name="collection_ssm">Alexander papers</field>
+    <field name="collection_unitid_ssm">MS 8</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 7: Court Papers</field>
+    <field name="unittitle_teim">Series 7: Court Papers</field>
+    <field name="unitdate_inclusive_teim">1684-1818</field>
+    <field name="scopecontent_teim">Court Papers are any papers, not including correspondence, which pertain to court cases. These include writs, warrants, motions, statements of case, pleas, and indictments. Also included in this series are the findings of Coroner's Juries. In most instances, the material is arranged by the name of the county in which a given trial took place, or in instances where the county is not specified or is unclear, by the name of the colony/state in which the trial took place. Courts whose jurisdictions were not confined to a single county appear in separate subseries. </field>
+    <field name="scopecontent_teim">Criminal cases and civil cases are separate folder groups within each county, colony/state, or court subseries. Civil cases are arranged alphabetically by the surname of the plaintiff, criminal cases are arranged alphabetically by the surname of the defendant. In instances where more than one plaintiff or defendant is identified, the material is alphabetized by the surname of the first named plaintiff or defendant. In some instances, the spelling of surnames varies from one item to the next (e.g. Reyerse/Ryerse or Ten Eyck/Ten Eick/Ten Ike). In those instances, if the elements (date, venue, other proper names, etc.) of two or more documents indicate that they pertain to the same prosecution or suit, the items were filed together, regardless of the nonidentical spellings. </field>
+    <field name="scopecontent_teim">In those instances when a court's jurisdiction is not restricted to a particular county, the material is arranged by the name of the court. Within the Court papers series, there are subseries for the New Jersey Court of Chancery, the New Jersey Court of Vice-Admiralty, and the New York Court of Admiralty. </field>
+    <field name="scopecontent_teim">Cases heard by the New Jersey Supreme Court are sometimes identified as pertaining to specific counties within the colony/state. These Supreme Court cases are therefore interfiled within the county subseries. Other New Jersey Supreme Court cases are identified as having been heard in one or the other of the colony/state's capital cities (Perth Amboy, Burlington, or Trenton). Cases heard in any of these cities are filed together in a separate subseries (New Jersey Supreme Court). Civil and criminal cases are separate folder groups within this subseries. </field>
+    <field name="scopecontent_teim">Cases heard by the New York Supreme Court are almost invariably identified as having been heard in New York City. New York Supreme Court cases are interfiled with other New York County civil or criminal cases. New York Supreme Court cases heard in Albany are interfiled with Albany County cases.</field>
+    <field name="scopecontent_teim">Finally in the Court Papers Series is a subseries called Unidentified Cases. The first folder in this series consists of items that pertain to identifiable cases, but for which a location and court are unclear. Such cases are filed in a single alphabet of civil and criminal cases, by the name of the plaintiff. In criminal cases, the plaintiff is The King or The State. </field>
+    <field name="scopecontent_teim">The remaining folders in the Unidentified Cases subseries consist of items that document procedures, testimony, arguments made, and authorities cited in cases that cannot be identified by plaintiff, defendant or venue. This material is sorted by form, and by date. Since it is not always possible to identify which material relates to civil and which to criminal cases, the material is interfiled in a single subseries. This material includes affidavits and depositions, opinions, arguments and briefs, and memoranda.</field>
+    <field name="scopecontent_teim">Cases that can be identified by plaintiff and defendant have been recorded in a database. </field>
+    <field name="scopecontent_teim">Approximate inclusive dates of material within each folder are indicated on the upper right hand corner of the folders in this series.</field>
+    <field name="ref_ssi">aspace_ref287_858</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Alexander papers</field>
+    <field name="collection_unitid_teim">MS 8</field>
+    <field name="series_si">Series 7: Court Papers</field>
+    <field name="heading_ssm">Series 7: Court Papers</field>
+    <field name="unitdate_ssm">Inclusive, 1684-1818</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">270</field>
+  </doc>
+</add>

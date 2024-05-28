@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1335_wc1</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Some ships of the American wooden Navy painted by W.A.K. Martin</field>
+    <field name="unittitle_teim">Some ships of the American wooden Navy painted by W.A.K. Martin</field>
+    <field name="unitdate_normal_ssm">1909/1909</field>
+    <field name="unitdate_normal_teim">1909/1909</field>
+    <field name="unitdate_normal_sim">1909/1909</field>
+    <field name="unitdate_inclusive_teim">1907-1912</field>
+    <field name="scopecontent_teim">9 prints after drawings by W.A.K. Martin, published by Henry A. Martin, Ambler, Pa.; No. 122 of 150 proofs, copies printed in facsimile of the original; includes images of the Constitution, Jamestown, Despatch, St. Louis, Beagles, Perry, John Adams, Thracian, Lawrence, Congress, New Ironsides, St. Marys, Franklin, Levant, Cyane, Grampus, Hornet; some prints include images of more than one ship.</field>
+    <field name="ref_ssi">aspace_ref1335_wc1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 382</field>
+    <field name="location_si">Volume: 382</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Some ships of the American wooden Navy painted by W.A.K. Martin</field>
+    <field name="heading_ssm">Some ships of the American wooden Navy painted by W.A.K. Martin</field>
+    <field name="unitdate_start_sim">1909</field>
+    <field name="unitdate_start_ssm">1909</field>
+    <field name="unitdate_start_si">1909</field>
+    <field name="unitdate_end_sim">1909</field>
+    <field name="unitdate_end_ssm">1909</field>
+    <field name="unitdate_end_si">1909</field>
+    <field name="unitdate_ssm">Inclusive, 1907-1912</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">444</field>
+  </doc>
+</add>

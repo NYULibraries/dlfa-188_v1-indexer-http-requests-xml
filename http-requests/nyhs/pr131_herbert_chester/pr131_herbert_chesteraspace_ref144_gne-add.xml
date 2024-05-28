@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr131_herbert_chesteraspace_ref144_gne</field>
+    <field name="ead_ssi">pr131_herbert_chester</field>
+    <field name="parent_ssi">aspace_ref142_qm7</field>
+    <field name="parent_ssm">aspace_ref11_ui2</field>
+    <field name="parent_ssm">aspace_ref142_qm7</field>
+    <field name="parent_unittitles_ssm">California</field>
+    <field name="parent_unittitles_ssm">Sonoma</field>
+    <field name="parent_unittitles_teim">California</field>
+    <field name="parent_unittitles_teim">Sonoma</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">H.M. Chester photograph collection</field>
+    <field name="collection_ssm">H.M. Chester photograph collection</field>
+    <field name="collection_unitid_ssm">PR 131</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Cactus Hedge</field>
+    <field name="unittitle_teim">Cactus Hedge</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref144_gne</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 155</field>
+    <field name="location_ssm">Folder: 155</field>
+    <field name="location_si">Folder: 155</field>
+    <field name="collection_teim">H.M. Chester photograph collection</field>
+    <field name="collection_unitid_teim">PR 131</field>
+    <field name="series_sim">California</field>
+    <field name="series_sim">Sonoma</field>
+    <field name="series_si">California &gt;&gt; Sonoma &gt;&gt; Cactus Hedge</field>
+    <field name="heading_ssm">Cactus Hedge</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">133</field>
+  </doc>
+</add>

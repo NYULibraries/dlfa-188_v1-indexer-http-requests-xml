@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_dc77d30654c569f85073e2f7fa5ebd08</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_5878ef34f7069ff3837b908a61c45ae2</field>
+    <field name="parent_ssm">aspace_5878ef34f7069ff3837b908a61c45ae2</field>
+    <field name="parent_unittitles_ssm">Series III: Photojournalism and Documentary Photography</field>
+    <field name="parent_unittitles_teim">Series III: Photojournalism and Documentary Photography</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries:  WORSINGER WINDOW SERVICE</field>
+    <field name="unittitle_teim">Subseries:  WORSINGER WINDOW SERVICE</field>
+    <field name="unitdate_inclusive_teim">1927-1939</field>
+    <field name="scopecontent_teim">This subseries contains photos by Worsinger Window Service, a firm that specialized in documenting shop windows and interiors. The firm was founded by Karl Worsinger (1893-1952), a window display designer and photographer who began his career working for Gimbel's of New York.</field>
+    <field name="scopecontent_teim">Stores pictured in this subseries are Bonwit-Teller, Lord and Taylor, Stern's, Russeks, Jaeckel's, and Nat Lewis.
+ </field>
+    <field name="ref_ssi">aspace_dc77d30654c569f85073e2f7fa5ebd08</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series III: Photojournalism and Documentary Photography</field>
+    <field name="series_si">Series III: Photojournalism and Documentary Photography &gt;&gt; Subseries:  WORSINGER WINDOW SERVICE</field>
+    <field name="heading_ssm">Subseries:  WORSINGER WINDOW SERVICE</field>
+    <field name="unitdate_ssm">Inclusive, 1927-1939</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">259</field>
+  </doc>
+</add>

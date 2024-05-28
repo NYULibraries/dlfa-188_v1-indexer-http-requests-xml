@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_4a0b39148dadf7042dc77e6298a69f5f</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_ssm">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_unittitles_ssm">Series II: Business Documents</field>
+    <field name="parent_unittitles_teim">Series II: Business Documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Checks: United States Bank, Bank of New York, Manhattan Company</field>
+    <field name="unittitle_teim">Checks: United States Bank, Bank of New York, Manhattan Company</field>
+    <field name="unitdate_inclusive_teim">1799-1803</field>
+    <field name="scopecontent_teim">This box contains canceled checks from the United States Bank, Bank of New York, and Manhattan Company.   These checks are predominantly written by Isaac Hicks to his clients, however there are some checks written to "my note" which appears to be Hicks writing checks for cash.</field>
+    <field name="ref_ssi">aspace_4a0b39148dadf7042dc77e6298a69f5f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 44</field>
+    <field name="location_si">Box: 44</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series II: Business Documents</field>
+    <field name="series_si">Series II: Business Documents &gt;&gt; Checks: United States Bank, Bank of New York, Manhattan Company</field>
+    <field name="heading_ssm">Checks: United States Bank, Bank of New York, Manhattan Company</field>
+    <field name="unitdate_ssm">Inclusive, 1799-1803</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">383</field>
+  </doc>
+</add>

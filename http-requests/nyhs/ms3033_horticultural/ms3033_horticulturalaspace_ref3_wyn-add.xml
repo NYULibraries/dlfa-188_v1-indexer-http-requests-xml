@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3033_horticulturalaspace_ref3_wyn</field>
+    <field name="ead_ssi">ms3033_horticultural</field>
+    <field name="parent_ssi">aspace_ref1_fbi</field>
+    <field name="parent_ssm">aspace_ref1_fbi</field>
+    <field name="parent_unittitles_ssm">Series III. Flower Show Records</field>
+    <field name="parent_unittitles_teim">Series III. Flower Show Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Horticultural Society of New York records</field>
+    <field name="collection_ssm">Horticultural Society of New York records</field>
+    <field name="collection_unitid_ssm">MS 3033</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III.A. Meeting Minutes &amp;amp; Working Files</field>
+    <field name="unittitle_teim">Subseries III.A. Meeting Minutes &amp; Working Files</field>
+    <field name="unitdate_teim">1915-2000s</field>
+    <field name="scopecontent_teim">The subseries primarily includes the minutes of the meetings related to the planning of the International Flower Shows for the years  1916 to 1970 (though there were no shows in some years) and for the New York Flower Shows of the 1980s and 1990s. For the years 1942 to 1970 these records include the Board of Directors meeting minutes for International Flower Show, Inc., the corporate body created to organize and run the shows over that period. Prior to 1942, and for the New York Flower Shows, informal committees conducted the planning. These minutes provide insight into the strategic, financial, legal, and other issues surrounding the various Flower Shows. </field>
+    <field name="scopecontent_teim">The subseries also includes various working files and publicity files, especially for the New York Flower Shows. The content of these various files is uneven across the years. The files include floor plans for some of the International Flower Shows of the 1960s, held at the New York Coliseum building; a 1969 memo from Horticultural Society of New York Executive Director Alexander Allport titled "The Future of the International Flower Show," which expressed concerns that would eventually lead to the termination of those shows; publicity packets for the New York shows; sponsor lists; logistical notes; and other items.</field>
+    <field name="ref_ssi">aspace_ref3_wyn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Horticultural Society of New York records</field>
+    <field name="collection_unitid_teim">MS 3033</field>
+    <field name="series_sim">Series III. Flower Show Records</field>
+    <field name="series_si">Series III. Flower Show Records &gt;&gt; Subseries III.A. Meeting Minutes &amp;amp; Working Files</field>
+    <field name="heading_ssm">Subseries III.A. Meeting Minutes &amp; Working Files</field>
+    <field name="unitdate_ssm">1915-2000s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">369</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref414_dra</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Construction of Grand Central Station</field>
+    <field name="unittitle_teim">Construction of Grand Central Station</field>
+    <field name="unitdate_normal_ssm">1903/1913</field>
+    <field name="unitdate_normal_teim">1903/1913</field>
+    <field name="unitdate_normal_sim">1903/1913</field>
+    <field name="unitdate_inclusive_teim">[1903-1913]</field>
+    <field name="scopecontent_teim">P.M. Corry's (superintendent of the construction) business card laid in; album of silver gelatin photographs of the construction of Grand Central Station is divided into several sections: Old Station building; demolition of old building; Excavation South of 50th Street; Excavation North of 50th Street; Underpinning buildings; Steel erection south of 50th Street; Steel erection north of 50th; concrete and masonry; 58th to 59th Street steel changes; Canopies; 45th Street changes; Panoramas and track layouts; maintaining traffic; New buildings: main station, post office, boiler house and loft building; Electric baggage trucks.</field>
+    <field name="ref_ssi">aspace_ref414_dra</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 14, Volume: 130</field>
+    <field name="location_ssm">Volume: 130</field>
+    <field name="location_si">Volume: 130</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Construction of Grand Central Station</field>
+    <field name="heading_ssm">Construction of Grand Central Station</field>
+    <field name="unitdate_start_sim">1903</field>
+    <field name="unitdate_start_ssm">1903</field>
+    <field name="unitdate_start_si">1903</field>
+    <field name="unitdate_end_sim">1913</field>
+    <field name="unitdate_end_ssm">1913</field>
+    <field name="unitdate_end_si">1913</field>
+    <field name="unitdate_ssm">Inclusive, [1903-1913]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">138</field>
+  </doc>
+</add>

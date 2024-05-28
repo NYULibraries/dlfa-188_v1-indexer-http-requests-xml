@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_3fed83207fd68156c815e51daaae003e</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_bf4b7a9d16c44baf867cbd178d63864c</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_bf4b7a9d16c44baf867cbd178d63864c</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Postillion</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Postillion</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Der Postillion," published by the German Department of Erasmus Hall High School</field>
+    <field name="unittitle_teim">"Der Postillion," published by the German Department of Erasmus Hall High School</field>
+    <field name="unitdate_inclusive_teim">1930–1937</field>
+    <field name="scopecontent_teim">•	Vol. 1, no. 3 (April 1930) [14 copies]
+•	Vol. 1, no. 7 (March 1931)
+•	Vol. 3, no. 9 (June 1932)
+•	Vol. 5, no. 13 (June 1935)
+•	Vol. 6, no. 14 (June 1936) [4 copies]
+•	Vol. 8, no. 1 (Jan. 1937)
+•	Vol. 8, no. 2 (Dec. 1937)</field>
+    <field name="ref_ssi">aspace_3fed83207fd68156c815e51daaae003e</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-4a, Folder: Der Postillion</field>
+    <field name="location_ssm">Folder: Der Postillion</field>
+    <field name="location_si">Folder: Der Postillion</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Postillion</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Postillion &gt;&gt; "Der Postillion," published by the German Department of Erasmus Hall High School</field>
+    <field name="heading_ssm">"Der Postillion," published by the German Department of Erasmus Hall High School</field>
+    <field name="unitdate_ssm">Inclusive, 1930–1937</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">813</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref301_bon</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XV: Military</field>
+    <field name="unittitle_teim">Series XV: Military</field>
+    <field name="unitdate_inclusive_teim">1838-1946</field>
+    <field name="scopecontent_teim">This series includes certificates given to commemorate appointments and changes in rank, citations and discharges from service, as well as membership to various clubs and organizations. It also includes certificates of recognition for donation of time or funds to various military causes. Some are printed on parchment with original seals.</field>
+    <field name="scopecontent_teim">Certificates of appointment include several from both John Stoneacre Ellis and Jonathan Mayhew
+Wainwright. One certificate from Hempstead, Long Island dated 1819, acknowledges a soldiers enrollment
+in "a troop of horse artillery…comprising part of a brigade in the second regiment of the state of New York."</field>
+    <field name="scopecontent_teim">A War Department certificate confirms pension payments owed to Revolutionary War widow Esther Hammond. </field>
+    <field name="scopecontent_teim">Certificates of discharge include one for Fred W. Mather, member of the 24th Regiment, United
+Stated Colored Troops. </field>
+    <field name="scopecontent_teim">Also included are several Civil War Soldiers Memorial certificates, which list names and ranks of regiment soldiers as well as their battle history.</field>
+    <field name="ref_ssi">aspace_ref301_bon</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series XV: Military</field>
+    <field name="heading_ssm">Series XV: Military</field>
+    <field name="unitdate_ssm">Inclusive, 1838-1946</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">244</field>
+  </doc>
+</add>

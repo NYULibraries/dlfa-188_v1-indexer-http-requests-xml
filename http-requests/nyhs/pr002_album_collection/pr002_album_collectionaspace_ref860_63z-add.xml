@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref860_63z</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Pictures of New York</field>
+    <field name="unittitle_teim">Pictures of New York</field>
+    <field name="unitdate_normal_ssm">1906/1916</field>
+    <field name="unitdate_normal_teim">1906/1916</field>
+    <field name="unitdate_normal_sim">1906/1916</field>
+    <field name="unitdate_inclusive_teim">[1906]-1916</field>
+    <field name="scopecontent_teim">Compiled by Henry E. Rile; note on inside of notebook reads "1906, commenced the collection"; includes index to images; clippings of houses, public buildings, churches, theaters, historic sites, and events such as the explosion and fire of 1845; notes give date of image, often when structure was built and when it was torn down, altered or destroyed.</field>
+    <field name="ref_ssi">aspace_ref860_63z</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 38, Volume: 260</field>
+    <field name="location_ssm">Volume: 260</field>
+    <field name="location_si">Volume: 260</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Pictures of New York</field>
+    <field name="heading_ssm">Pictures of New York</field>
+    <field name="unitdate_start_sim">1906</field>
+    <field name="unitdate_start_ssm">1906</field>
+    <field name="unitdate_start_si">1906</field>
+    <field name="unitdate_end_sim">1916</field>
+    <field name="unitdate_end_ssm">1916</field>
+    <field name="unitdate_end_si">1916</field>
+    <field name="unitdate_ssm">Inclusive, [1906]-1916</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">296</field>
+  </doc>
+</add>

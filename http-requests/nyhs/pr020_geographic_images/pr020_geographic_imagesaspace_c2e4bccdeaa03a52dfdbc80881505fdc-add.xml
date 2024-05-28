@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_c2e4bccdeaa03a52dfdbc80881505fdc</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_5a83d25c2b818c4a994130016ed74212</field>
+    <field name="parent_ssm">aspace_ref1921_gp6</field>
+    <field name="parent_ssm">aspace_5a83d25c2b818c4a994130016ed74212</field>
+    <field name="parent_unittitles_ssm">Series IV: New York City Views - Queens</field>
+    <field name="parent_unittitles_ssm">Subseries IVB: QUEENS - FLAT MATERIAL</field>
+    <field name="parent_unittitles_teim">Series IV: New York City Views - Queens</field>
+    <field name="parent_unittitles_teim">Subseries IVB: QUEENS - FLAT MATERIAL</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">College Point</field>
+    <field name="unittitle_teim">College Point</field>
+    <field name="scopecontent_teim">College Point, near Flushing, lithograph by Endicott, 1837;</field>
+    <field name="scopecontent_teim">Poppenhusen Residence, College Point, 1872 (photo);</field>
+    <field name="scopecontent_teim">Poppenhusen Hard Rubber Factory, photo by M. Stadtfeld;</field>
+    <field name="scopecontent_teim">View from Mr. Schleicher's House, East, photo by M. Stadtfeld;</field>
+    <field name="scopecontent_teim">View from Mr. Schleicher's House, South, photo by M. Stadtfeld;</field>
+    <field name="scopecontent_teim">Unidentified House, photo by M. Stadtfeld;</field>
+    <field name="ref_ssi">aspace_c2e4bccdeaa03a52dfdbc80881505fdc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF490</field>
+    <field name="location_si">Folder: FF490</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series IV: New York City Views - Queens</field>
+    <field name="series_sim">Subseries IVB: QUEENS - FLAT MATERIAL</field>
+    <field name="series_si">Series IV: New York City Views - Queens &gt;&gt; Subseries IVB: QUEENS - FLAT MATERIAL &gt;&gt; College Point</field>
+    <field name="heading_ssm">College Point</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2284</field>
+  </doc>
+</add>

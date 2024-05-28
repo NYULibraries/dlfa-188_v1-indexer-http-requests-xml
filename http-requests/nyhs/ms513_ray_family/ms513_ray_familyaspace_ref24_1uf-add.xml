@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms513_ray_familyaspace_ref24_1uf</field>
+    <field name="ead_ssi">ms513_ray_family</field>
+    <field name="parent_ssi">aspace_ref9_t1f</field>
+    <field name="parent_ssm">aspace_ref9_t1f</field>
+    <field name="parent_unittitles_ssm">Series I: Ray Family</field>
+    <field name="parent_unittitles_teim">Series I: Ray Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ray Family Papers</field>
+    <field name="collection_ssm">Ray Family Papers</field>
+    <field name="collection_unitid_ssm">MS 513</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Tax Bills</field>
+    <field name="unittitle_teim">Tax Bills</field>
+    <field name="unitdate_teim">1832-52</field>
+    <field name="ref_ssi">aspace_ref24_1uf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Ray Family Papers</field>
+    <field name="collection_unitid_teim">MS 513</field>
+    <field name="series_sim">Series I: Ray Family</field>
+    <field name="series_si">Series I: Ray Family &gt;&gt; Tax Bills</field>
+    <field name="heading_ssm">Tax Bills</field>
+    <field name="unitdate_ssm">1832-52</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

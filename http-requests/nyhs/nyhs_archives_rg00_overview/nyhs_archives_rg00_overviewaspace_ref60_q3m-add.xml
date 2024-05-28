@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg00_overviewaspace_ref60_q3m</field>
+    <field name="ead_ssi">nyhs_archives_rg00_overview</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society records overview</field>
+    <field name="collection_ssm">New-York Historical Society records overview</field>
+    <field name="collection_unitid_ssm">NYHS-RG Archives</field>
+    <field name="level_sim">recordgrp</field>
+    <field name="unittitle_ssm">NYHS-RG 26. Museum Store records (1940s-2001, bulk 1980s-1992)</field>
+    <field name="unittitle_teim">NYHS-RG 26. Museum Store records (1940s-2001, bulk 1980s-1992)</field>
+    <field name="scopecontent_teim">The New-York Historical Society museum store records include documents related to the management of the store, development of its product lines, and marketing. The files include correspondence, sales catalogs, inventories, sales results, reproduction licensing, orders, and photographs of catalog items. There are also examples of some of the products sold at the store, especially small format items like postcards and greeting cards. The bulk of the material relates to the period 1985 to 1991.</field>
+    <field name="scopecontent_teim">
+      
+        Click here to link to the Guide to the New-York Historical Society Museum Store Records
+      
+    </field>
+    <field name="ref_ssi">aspace_ref60_q3m</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">New-York Historical Society records overview</field>
+    <field name="collection_unitid_teim">NYHS-RG Archives</field>
+    <field name="series_si">NYHS-RG 26. Museum Store records (1940s-2001, bulk 1980s-1992)</field>
+    <field name="heading_ssm">NYHS-RG 26. Museum Store records (1940s-2001, bulk 1980s-1992)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

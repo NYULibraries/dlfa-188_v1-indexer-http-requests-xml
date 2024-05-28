@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms98_campbell_mumfordaspace_ref70_60f</field>
+    <field name="ead_ssi">ms98_campbell_mumford</field>
+    <field name="parent_ssi">aspace_ref12_bp5</field>
+    <field name="parent_ssm">aspace_ref12_bp5</field>
+    <field name="parent_unittitles_ssm">Series I: Campbell Family</field>
+    <field name="parent_unittitles_teim">Series I: Campbell Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Campbell-Mumford papers</field>
+    <field name="collection_ssm">Campbell-Mumford papers</field>
+    <field name="collection_unitid_ssm">MS 98</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 6: Douglas Campbell 1st Materials</field>
+    <field name="unittitle_teim">Subseries 6: Douglas Campbell 1st Materials</field>
+    <field name="scopecontent_teim">The sixth subseries covers the work of Douglas Campbell 1st (1840-1893), especially his work as historian, attorney, and creator of the Soldiers' Home. It, too, is arranged by relevance.</field>
+    <field name="ref_ssi">aspace_ref70_60f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Campbell-Mumford papers</field>
+    <field name="collection_unitid_teim">MS 98</field>
+    <field name="series_sim">Series I: Campbell Family</field>
+    <field name="series_si">Series I: Campbell Family &gt;&gt; Subseries 6: Douglas Campbell 1st Materials</field>
+    <field name="heading_ssm">Subseries 6: Douglas Campbell 1st Materials</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">54</field>
+  </doc>
+</add>

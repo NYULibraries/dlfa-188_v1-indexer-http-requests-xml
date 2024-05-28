@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref709_l72</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Wyoming--Union Pacific Railroad</field>
+    <field name="unittitle_teim">Wyoming--Union Pacific Railroad</field>
+    <field name="unitdate_inclusive_teim">[1866-1876]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0695</field>
+    <field name="scopecontent_teim">Union Pacific views in Wyoming: construction views and general views of the Union Pacific Railroad in Wyoming, including men grading, cuts near Green River, bridge construction, train on a snowy track, another snow view showing train being dug out, train at Green River Station, and at Black Buttes station which consists only of tents, depot and hotel at Cheyenne, Dale Creek Bridge, Sherman Station at the summit of Laramie Range, interior of paymaster's tent, Laramie City, mechanics shop at Laramie, artesian well, engine house and derrick at Rock Springs, snow shed near Sherman; scenery along the U.P.R.R. including Green River Butte and station, North Platte River at Ft. Fred Steele, man atop Reed's Rock; Giant's Teapot; views in the Laramie Range, a log cabin at Reynold's and Dowling's Camp, Quaking Asp Hill, graders' camp, party on horseback in mountains above Green River, Bitter Creek valley views; group includes several copy prints; man [A.J. Russell?] with a camera above  Carmichael's Camp, Bitter Creek.</field>
+    <field name="scopecontent_teim">56 items</field>
+    <field name="ref_ssi">aspace_ref709_l72</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 62</field>
+    <field name="location_si">Box: 62</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Wyoming--Union Pacific Railroad</field>
+    <field name="heading_ssm">Wyoming--Union Pacific Railroad</field>
+    <field name="unitdate_ssm">Inclusive, [1866-1876]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">696</field>
+  </doc>
+</add>

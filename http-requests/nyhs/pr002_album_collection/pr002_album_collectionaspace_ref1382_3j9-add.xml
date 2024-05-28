@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1382_3j9</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Richard C. Patterson, Jr., (1886-1966) albums]</field>
+    <field name="unittitle_teim">[Richard C. Patterson, Jr., (1886-1966) albums]</field>
+    <field name="unitdate_normal_ssm">1954/1958</field>
+    <field name="unitdate_normal_teim">1954/1958</field>
+    <field name="unitdate_normal_sim">1954/1958</field>
+    <field name="unitdate_inclusive_teim">1954-1958</field>
+    <field name="scopecontent_teim">"Photos #5": at luncheons and other official events; with Prmie ministers, ambassadors, Kings, and with the Queen Mother atop the Empire State building, the Shah of Iran and Queen Soraya, with Eleanor Roosevelt on Human Rights Day; visiting Rome; visiting uranium mine in Colorado; at receptions at the Metropolitan, and at the U.N.; on the Aerotrain at Penn Station; greeting dignitaries at the Heliport; rededication of City Hall; Patterson donkeys; Queen Elizabeth and Prince Phillip at Stapleton, Staten Island, 1957. See also Richard C. Patterson, Jr. scrapbooks (MS 3184), which were cataloged separately.</field>
+    <field name="ref_ssi">aspace_ref1382_3j9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 103, Volume: 396.4</field>
+    <field name="location_ssm">Volume: 396.4</field>
+    <field name="location_si">Volume: 396.4</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Richard C. Patterson, Jr., (1886-1966) albums]</field>
+    <field name="heading_ssm">[Richard C. Patterson, Jr., (1886-1966) albums]</field>
+    <field name="unitdate_start_sim">1954</field>
+    <field name="unitdate_start_ssm">1954</field>
+    <field name="unitdate_start_si">1954</field>
+    <field name="unitdate_end_sim">1958</field>
+    <field name="unitdate_end_ssm">1958</field>
+    <field name="unitdate_end_si">1958</field>
+    <field name="unitdate_ssm">Inclusive, 1954-1958</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">460</field>
+  </doc>
+</add>

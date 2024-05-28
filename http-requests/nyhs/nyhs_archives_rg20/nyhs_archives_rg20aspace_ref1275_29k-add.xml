@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg20aspace_ref1275_29k</field>
+    <field name="ead_ssi">nyhs_archives_rg20</field>
+    <field name="parent_ssi">aspace_ref973_193</field>
+    <field name="parent_ssm">aspace_ref973_193</field>
+    <field name="parent_unittitles_ssm">Series II. Exhibitions</field>
+    <field name="parent_unittitles_teim">Series II. Exhibitions</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Museum Department records</field>
+    <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 20</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.A. General Files</field>
+    <field name="unittitle_teim">Subseries II.A. General Files</field>
+    <field name="unitdate_inclusive_teim">1941-2018</field>
+    <field name="scopecontent_teim">The subseries includes files that appear to have been compiled over time for the purpose of documenting various aspects of particular exhibitions presented at N-YHS. The subseries includes only a few folders of material from before 1970. An increased number of files appear for the 1970s and early 1980s, and these appear to be largely from the files of the curator at that time, Mary Black. The bulk of the files date from after 1982 and seem to have come from various sources within the Museum Department (which included the Department of Prints, Photographs and Architecture collections in the 1990s), including curators, collections management/registrar, researchers, and others. In addition to installed exhibitions, the files also include some proposed exhibitions that never took place.</field>
+    <field name="scopecontent_teim">The type of documentation present for each exhibition is highly uneven, ranging from one folder with a document or two to extensive documentation of various aspects of an exhibition. Typical documentation found for many of the exhibitions includes checklists or other object lists, loan agreements and receipts, and publicity material. Other textual documents that can be found for many exhibitions are installation and design descriptions, wall and label text, conservation notes, budgets, grant or other funding proposals, correspondence/printed emails, and other planning documents. There are a few public comment books and the container list notes when these are in an exhibition's files. Some exhibitions include the sometimes extensive research files of the curator, public historian, or other exhibition developer. For traveling exhibitions, there is some documentation concerning arrangements and logistics.</field>
+    <field name="scopecontent_teim">In terms of images, there is a noticeable contrast between the files before and after circa 2003. Some exhibition files from the 1970s-1990s have object photographs and several have color slides of the installed galleries. The gallery slides are exceptional enough that an attempt was made by the archivist to identify them and note them in the container list. In the early 2000s, with the emergence of workplace digital technology, images become more common in the files. Many files from this later period have object lists with "thumbnail" sized color images. The press/publicity materials commonly include a professionally-produced CD with the paper material. Informally-created CDs from curators, researchers, conservators, and others are in the files, though not all are well-labeled as to content. Similarly, some of the later exhibitions have CDs of audio tours and other exhibition-related matter. Some of these CDs (and DVDs) are noted in the container list, but most are not because of their increasingly common presence (and often unclear content).</field>
+    <field name="ref_ssi">aspace_ref1275_29k</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 20</field>
+    <field name="series_sim">Series II. Exhibitions</field>
+    <field name="series_si">Series II. Exhibitions &gt;&gt; Subseries II.A. General Files</field>
+    <field name="heading_ssm">Subseries II.A. General Files</field>
+    <field name="unitdate_ssm">Inclusive, 1941-2018</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">14</field>
+  </doc>
+</add>

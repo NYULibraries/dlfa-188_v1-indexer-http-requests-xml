@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms94_butler_laingaspace_ref32_64t</field>
+    <field name="ead_ssi">ms94_butler_laing</field>
+    <field name="parent_ssi">aspace_ref17_x7i</field>
+    <field name="parent_ssm">aspace_ref17_x7i</field>
+    <field name="parent_unittitles_ssm">Series IV: Harriet Denison Butler Read</field>
+    <field name="parent_unittitles_teim">Series IV: Harriet Denison Butler Read</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Butler-Laing Family papers</field>
+    <field name="collection_ssm">Butler-Laing Family papers</field>
+    <field name="collection_unitid_ssm">MS 94</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Harriet Denison Butler Read, Letters Sent</field>
+    <field name="unittitle_teim">Harriet Denison Butler Read, Letters Sent</field>
+    <field name="unitdate_teim">[1855], 1868-1871, 1889-1890</field>
+    <field name="ref_ssi">aspace_ref32_64t</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Butler-Laing Family papers</field>
+    <field name="collection_unitid_teim">MS 94</field>
+    <field name="series_sim">Series IV: Harriet Denison Butler Read</field>
+    <field name="series_si">Series IV: Harriet Denison Butler Read &gt;&gt; Harriet Denison Butler Read, Letters Sent</field>
+    <field name="heading_ssm">Harriet Denison Butler Read, Letters Sent</field>
+    <field name="unitdate_ssm">[1855], 1868-1871, 1889-1890</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">21</field>
+  </doc>
+</add>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_773b39b42d8f4f1bddebbebcbdfdf5ff</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_75c975ac533bf07cbd8d3e2383f218a0</field>
+    <field name="parent_ssm">aspace_ref4_m0q</field>
+    <field name="parent_ssm">aspace_75c975ac533bf07cbd8d3e2383f218a0</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">
+      Letters: 1808-1820 (Including letters to his wife)
+    </field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">
+      Letters: 1808-1820 (Including letters to his wife)
+    </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Miscellaneous Correspondence</field>
+    <field name="unittitle_teim">Miscellaneous Correspondence</field>
+    <field name="unitdate_inclusive_teim">1809-1820</field>
+    <field name="scopecontent_teim">This folder includes correspondence to Isaac Hicks from his clients including Ephraim Jones, Judah Paddock, and Jacob Parker.  Ephraim Jones writes how he is now able to pay a debt.  Judah Paddock discusses how his wife, Mary, enjoys Hicks's company and discusses a potential visit.</field>
+    <field name="scopecontent_teim">It appears this correspondence has been grouped together because there was not enough of any one year to separate them into individual folders.  Also included is a more modern spreadsheet with names of individuals, number of letters, date, location, and summary of some of the letters included in this folder.</field>
+    <field name="ref_ssi">aspace_773b39b42d8f4f1bddebbebcbdfdf5ff</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 41, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">
+      Letters: 1808-1820 (Including letters to his wife)
+    </field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; 
+      Letters: 1808-1820 (Including letters to his wife)
+     &gt;&gt; Miscellaneous Correspondence</field>
+    <field name="heading_ssm">Miscellaneous Correspondence</field>
+    <field name="unitdate_ssm">Inclusive, 1809-1820</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">379</field>
+  </doc>
+</add>

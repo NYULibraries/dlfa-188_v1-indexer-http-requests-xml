@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms282_harmonie_clubaspace_ref23_j3l</field>
+    <field name="ead_ssi">ms282_harmonie_club</field>
+    <field name="parent_ssi">aspace_ref13_19i</field>
+    <field name="parent_ssm">aspace_ref13_19i</field>
+    <field name="parent_unittitles_ssm">Series I: Minutes</field>
+    <field name="parent_unittitles_teim">Series I: Minutes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Harmonie Club records</field>
+    <field name="collection_ssm">Harmonie Club records</field>
+    <field name="collection_unitid_ssm">MS 282</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 2: Secretary Minutes</field>
+    <field name="unittitle_teim">Subseries 2: Secretary Minutes</field>
+    <field name="unitdate_inclusive_teim">1894-1934</field>
+    <field name="scopecontent_teim">The Secretary Minutes are almost exclusively in English and the majority of the information is on loose paper that has been pasted into the ledgers. For the most part the books are in good condition, but there is some yellowing of the glue that has adversely affected the paper. Only a small amount of material are archetypal minutes taken during board proceeding. Instead the ledgers capture the organization's function through committee reports, membership candidates, presidential addresses, bills, revised constitutions, and budgetary information. Includes cards with the name and dates of members who died. Starting April 1922 the ledger is switched to a ringed binder from bound pages, allowing the minutes to be typed on loose paper and inserted using a holepunch instead of having to glue in typed minutes.</field>
+    <field name="ref_ssi">aspace_ref23_j3l</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Harmonie Club records</field>
+    <field name="collection_unitid_teim">MS 282</field>
+    <field name="series_sim">Series I: Minutes</field>
+    <field name="series_si">Series I: Minutes &gt;&gt; Subseries 2: Secretary Minutes</field>
+    <field name="heading_ssm">Subseries 2: Secretary Minutes</field>
+    <field name="unitdate_ssm">Inclusive, 1894-1934</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

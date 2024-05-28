@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms72_martha_bradstreetaspace_ref53_1mq</field>
+    <field name="ead_ssi">ms72_martha_bradstreet</field>
+    <field name="parent_ssi">aspace_ref52_01i</field>
+    <field name="parent_ssm">aspace_ref52_01i</field>
+    <field name="parent_unittitles_ssm">Series II: John Bradstreet Correspondence</field>
+    <field name="parent_unittitles_teim">Series II: John Bradstreet Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Martha Bradstreet papers</field>
+    <field name="collection_ssm">Martha Bradstreet papers</field>
+    <field name="collection_unitid_ssm">MS 72</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.A. Letters received</field>
+    <field name="unittitle_teim">Subseries II.A. Letters received</field>
+    <field name="unitdate_inclusive_teim">1814-1817, undated</field>
+    <field name="scopecontent_teim">Arranged by Sender. Many letters in this series include instructions for Mrs. Codd, sent through Mr. Bradstreet. As indicated above, we see Mr. Bell complaining about Mrs. Codd in several letters dated 1815. Edmond Bradstreet also referred to Mrs. Codd and it seems he too would have liked a share of her profit, if she were to win her case. Interestingly, only one of the two letters addressed to John Bradstreet from his brother Edmond was sent. Robert Bradstreet, although sharing the name, was not a relative, but offered Mrs. Codd his assistance. Joseph Hopkinson, Henry Platel, and Mr. Trebeck also offered help. C. Wynne was married to the sister of John, Edmond and Simon Bradstreet and wrote to relay information concerning Martha's case. Through this series it becomes apparent that John Bradstreet owed his brother Simon a good deal of money and there are many letters from Robert Murphy relating to this strained relationship. The majority of the letters were written and sent in 1815.</field>
+    <field name="ref_ssi">aspace_ref53_1mq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Martha Bradstreet papers</field>
+    <field name="collection_unitid_teim">MS 72</field>
+    <field name="series_sim">Series II: John Bradstreet Correspondence</field>
+    <field name="series_si">Series II: John Bradstreet Correspondence &gt;&gt; Subseries II.A. Letters received</field>
+    <field name="heading_ssm">Subseries II.A. Letters received</field>
+    <field name="unitdate_ssm">Inclusive, 1814-1817, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">38</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms25_astor_familyaspace_ref280_wbw</field>
+    <field name="ead_ssi">ms25_astor_family</field>
+    <field name="parent_ssi">aspace_ref20_b0b</field>
+    <field name="parent_ssm">aspace_ref1_0d0</field>
+    <field name="parent_ssm">aspace_ref20_b0b</field>
+    <field name="parent_unittitles_ssm">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+    <field name="parent_unittitles_ssm">Subseries I.16: Union Place to Ward Family</field>
+    <field name="parent_unittitles_teim">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+    <field name="parent_unittitles_teim">Subseries I.16: Union Place to Ward Family</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Astor family papers</field>
+    <field name="collection_ssm">Astor family papers</field>
+    <field name="collection_unitid_ssm">MS 25</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ward Family</field>
+    <field name="unittitle_teim">Ward Family</field>
+    <field name="unitdate_teim">1838-1881 </field>
+    <field name="ref_ssi">aspace_ref280_wbw</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 16, Box: 16</field>
+    <field name="location_ssm">Box: 16, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Astor family papers</field>
+    <field name="collection_unitid_teim">MS 25</field>
+    <field name="series_sim">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+    <field name="series_sim">Subseries I.16: Union Place to Ward Family</field>
+    <field name="series_si">Series I: Property Documents: Leases, Deeds, Mortgages, Maps &gt;&gt; Subseries I.16: Union Place to Ward Family &gt;&gt; Ward Family</field>
+    <field name="heading_ssm">Ward Family</field>
+    <field name="unitdate_ssm">1838-1881 </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">194</field>
+  </doc>
+</add>

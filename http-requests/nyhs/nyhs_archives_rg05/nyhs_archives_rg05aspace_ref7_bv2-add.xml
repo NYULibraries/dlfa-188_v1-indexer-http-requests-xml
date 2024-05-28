@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg05aspace_ref7_bv2</field>
+    <field name="ead_ssi">nyhs_archives_rg05</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society pictorial archive</field>
+    <field name="collection_ssm">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_ssm">NYHS-RG 5</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII: Trustees, Officers, and Staff</field>
+    <field name="unittitle_teim">Series VII: Trustees, Officers, and Staff</field>
+    <field name="unitdate_inclusive_teim">1918-2003</field>
+    <field name="scopecontent_teim">This series includes portrait, posed and casual photographs of N-YHS trustees, officers and staff members.</field>
+    <field name="ref_ssi">aspace_ref7_bv2</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_teim">NYHS-RG 5</field>
+    <field name="series_si">Series VII: Trustees, Officers, and Staff</field>
+    <field name="heading_ssm">Series VII: Trustees, Officers, and Staff</field>
+    <field name="unitdate_ssm">Inclusive, 1918-2003</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">336</field>
+  </doc>
+</add>

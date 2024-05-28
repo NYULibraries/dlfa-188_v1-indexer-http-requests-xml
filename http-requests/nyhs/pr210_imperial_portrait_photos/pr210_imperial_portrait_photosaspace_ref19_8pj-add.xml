@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr210_imperial_portrait_photosaspace_ref19_8pj</field>
+    <field name="ead_ssi">pr210_imperial_portrait_photos</field>
+    <field name="parent_ssi">aspace_ref14_fqg</field>
+    <field name="parent_ssm">aspace_ref13_h5u</field>
+    <field name="parent_ssm">aspace_ref14_fqg</field>
+    <field name="parent_unittitles_ssm">Series I: Portraits by Mathew B. Brady</field>
+    <field name="parent_unittitles_ssm">Individuals</field>
+    <field name="parent_unittitles_teim">Series I: Portraits by Mathew B. Brady</field>
+    <field name="parent_unittitles_teim">Individuals</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Imperial Portrait Photograph File</field>
+    <field name="collection_ssm">Imperial Portrait Photograph File</field>
+    <field name="collection_unitid_ssm">PR 210</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Bellows, Henry Whitney (1814-1882)</field>
+    <field name="unittitle_teim">Bellows, Henry Whitney (1814-1882)</field>
+    <field name="unitdate_teim">[1856-1870]</field>
+    <field name="ref_ssi">aspace_ref19_8pj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Imperial Portrait Photograph File</field>
+    <field name="collection_unitid_teim">PR 210</field>
+    <field name="series_sim">Series I: Portraits by Mathew B. Brady</field>
+    <field name="series_sim">Individuals</field>
+    <field name="series_si">Series I: Portraits by Mathew B. Brady &gt;&gt; Individuals &gt;&gt; Bellows, Henry Whitney (1814-1882)</field>
+    <field name="heading_ssm">Bellows, Henry Whitney (1814-1882)</field>
+    <field name="unitdate_ssm">[1856-1870]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

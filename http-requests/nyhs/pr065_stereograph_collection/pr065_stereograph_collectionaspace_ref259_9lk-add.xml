@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref259_9lk</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--Lake George--Fort William Henry Hotel</field>
+    <field name="unittitle_teim">New York--Lake George--Fort William Henry Hotel</field>
+    <field name="unitdate_inclusive_teim">[1865-1885]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0245</field>
+    <field name="scopecontent_teim">Fort William Henry Hotel before and after alterations: looking at the hotel from the lake and from the steamboat landing; interior views including the office and the parlor; the piazza with visitors; looking toward the lake and the landing, fountain and visitors in the foreground; visitors on stagecoaches in front of the hotel; views from the hotel of the grounds, stages, lake beyond.</field>
+    <field name="scopecontent_teim">22 items</field>
+    <field name="ref_ssi">aspace_ref259_9lk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 25</field>
+    <field name="location_si">Box: 25</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--Lake George--Fort William Henry Hotel</field>
+    <field name="heading_ssm">New York--Lake George--Fort William Henry Hotel</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1885]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">246</field>
+  </doc>
+</add>

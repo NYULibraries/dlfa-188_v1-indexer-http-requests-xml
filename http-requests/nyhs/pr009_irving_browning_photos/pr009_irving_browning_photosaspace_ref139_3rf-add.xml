@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr009_irving_browning_photosaspace_ref139_3rf</field>
+    <field name="ead_ssi">pr009_irving_browning_photos</field>
+    <field name="parent_ssi">aspace_ref13_xmc</field>
+    <field name="parent_ssm">aspace_ref13_xmc</field>
+    <field name="parent_unittitles_ssm">Series I. Photographs</field>
+    <field name="parent_unittitles_teim">Series I. Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Browning photograph collection</field>
+    <field name="collection_ssm">Browning photograph collection</field>
+    <field name="collection_unitid_ssm">PR 9</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Night Views</field>
+    <field name="unittitle_teim">Night Views</field>
+    <field name="scopecontent_teim">Night Views consists of a variety of photographs taken at night around the city, showing off such sites as the New York Public Library, the Empire State Building, the lighted signs of Times Square and elsewhere, and a variety of street and skyline views that capture the lights of urban nighttime.</field>
+    <field name="ref_ssi">aspace_ref139_3rf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Browning photograph collection</field>
+    <field name="collection_unitid_teim">PR 9</field>
+    <field name="series_sim">Series I. Photographs</field>
+    <field name="series_si">Series I. Photographs &gt;&gt; Night Views</field>
+    <field name="heading_ssm">Night Views</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">122</field>
+  </doc>
+</add>

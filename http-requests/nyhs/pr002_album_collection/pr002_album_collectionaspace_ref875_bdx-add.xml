@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref875_bdx</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Snap shots -- Book V, from Summer 1936 to [1940]</field>
+    <field name="unittitle_teim">Snap shots -- Book V, from Summer 1936 to [1940]</field>
+    <field name="unitdate_normal_ssm">1936/1940</field>
+    <field name="unitdate_normal_teim">1936/1940</field>
+    <field name="unitdate_normal_sim">1936/1940</field>
+    <field name="unitdate_inclusive_teim">1936-1940</field>
+    <field name="scopecontent_teim">Snapshots of the Barber family, including views at their home on Park Avenue, in Ridgewood; family and friends at vacation house at New London, Mel knitting, family with dogs, the pier and waterfront, a water bicycle, beach views, Ethel Barber's birthday party; views in Oslo; Billie at Jones Beach; a trip to California, including views in San Francisco, fishing in San Francisco bay, Mt. Tamalpais, Los Gatos and Montezuma School; portraits of family dogs; Lal in school play; leaving on Queen Mary for England; Stranahan Estate, Westport Connecticut, including house and grounds, pool, beach, Sound, boathouse, formal garden, pond, barbecue, interior views, gardener and other household employees; greeting cards, place cards, presents for Ethel's birthday, damage after 1938 hurricane; Billie at work in her studio; get together of the Red Bag Club, 1939; sleet storm at Ridgefield; Ed and the chief of police of Havana. See also album #266-273.</field>
+    <field name="ref_ssi">aspace_ref875_bdx</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 75, Volume: 265</field>
+    <field name="location_ssm">Volume: 265</field>
+    <field name="location_si">Volume: 265</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Snap shots -- Book V, from Summer 1936 to [1940]</field>
+    <field name="heading_ssm">Snap shots -- Book V, from Summer 1936 to [1940]</field>
+    <field name="unitdate_start_sim">1936</field>
+    <field name="unitdate_start_ssm">1936</field>
+    <field name="unitdate_start_si">1936</field>
+    <field name="unitdate_end_sim">1940</field>
+    <field name="unitdate_end_ssm">1940</field>
+    <field name="unitdate_end_si">1940</field>
+    <field name="unitdate_ssm">Inclusive, 1936-1940</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">301</field>
+  </doc>
+</add>

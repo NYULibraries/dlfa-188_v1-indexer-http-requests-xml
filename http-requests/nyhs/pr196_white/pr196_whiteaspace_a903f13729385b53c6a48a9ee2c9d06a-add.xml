@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr196_whiteaspace_a903f13729385b53c6a48a9ee2c9d06a</field>
+    <field name="ead_ssi">pr196_white</field>
+    <field name="parent_ssi">aspace_753e84846e7c26217a97eee78ec8f3fc</field>
+    <field name="parent_ssm">aspace_753e84846e7c26217a97eee78ec8f3fc</field>
+    <field name="parent_unittitles_ssm">Central Park</field>
+    <field name="parent_unittitles_teim">Central Park</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lewis F. White photographs</field>
+    <field name="collection_ssm">Lewis F. White photographs</field>
+    <field name="collection_unitid_ssm">PR 196</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Entrance to Central Park</field>
+    <field name="unittitle_teim">Entrance to Central Park</field>
+    <field name="unitdate_inclusive_teim">1951</field>
+    <field name="ref_ssi">aspace_a903f13729385b53c6a48a9ee2c9d06a</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Lewis F. White photographs</field>
+    <field name="collection_unitid_teim">PR 196</field>
+    <field name="series_sim">Central Park</field>
+    <field name="series_si">Central Park &gt;&gt; Entrance to Central Park</field>
+    <field name="heading_ssm">Entrance to Central Park</field>
+    <field name="unitdate_ssm">Inclusive, 1951</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

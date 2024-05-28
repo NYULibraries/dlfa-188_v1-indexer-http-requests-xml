@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_170c8eac34b0cc75de6476c60907ba5f</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_ac69c2e2bf3085e58d67127298c1bd54</field>
+    <field name="parent_ssm">aspace_ref4_m0q</field>
+    <field name="parent_ssm">aspace_ac69c2e2bf3085e58d67127298c1bd54</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">
+      Letters: 1801 A-C
+    </field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">
+      Letters: 1801 A-C
+    </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letters: B (Except Barker; Bolton; Bunker)</field>
+    <field name="unittitle_teim">Letters: B (Except Barker; Bolton; Bunker)</field>
+    <field name="unitdate_teim">1801</field>
+    <field name="scopecontent_teim">This folder includes correspondence to Isaac Hicks from his clients including Barker &amp; Annesly; Robert Benson; Benson, Cropper &amp; Benson; Joseph Bevin; and Richard Blow.  There are multiple letters from Benson, Cropper &amp; Benson regarding the formation of their company.  A majority of the correspondence is in regards to the sale and shipment of goods.  Other correspondence is in regard to the payment of debts.  One letter discusses how the ship Sarah was detained by the Spanish Armada.  The letter also discusses a treaty between the United States and the new French Republic.  A letter is included in French.</field>
+    <field name="scopecontent_teim">Ships Mentioned: Venus, Allion, Nancy, Sarah</field>
+    <field name="ref_ssi">aspace_170c8eac34b0cc75de6476c60907ba5f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 20, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">
+      Letters: 1801 A-C
+    </field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; 
+      Letters: 1801 A-C
+     &gt;&gt; Letters: B (Except Barker; Bolton; Bunker)</field>
+    <field name="heading_ssm">Letters: B (Except Barker; Bolton; Bunker)</field>
+    <field name="unitdate_ssm">1801</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">177</field>
+  </doc>
+</add>

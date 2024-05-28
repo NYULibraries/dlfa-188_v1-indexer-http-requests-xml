@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg60aspace_ee73eba54efd3fcf98fe5fc50ac9bfa1</field>
+    <field name="ead_ssi">timeinc_ms3009_rg60</field>
+    <field name="parent_ssi">aspace_218f8a1c1e93f6803970bdb91b6b0ca5</field>
+    <field name="parent_ssm">aspace_218f8a1c1e93f6803970bdb91b6b0ca5</field>
+    <field name="parent_unittitles_ssm">Series II. Baby Birth Record</field>
+    <field name="parent_unittitles_teim">Series II. Baby Birth Record</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Evening Star Newspaper Co. Records</field>
+    <field name="collection_ssm">Evening Star Newspaper Co. Records</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 60</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;The Evening Star&lt;/em&gt; Baby Book</field>
+    <field name="unittitle_teim">The Evening Star Baby Book</field>
+    <field name="unitdate_inclusive_teim">1959-1968</field>
+    <field name="title_teim">The Evening Star</field>
+    <field name="title_ssm">The Evening Star</field>
+    <field name="ref_ssi">aspace_ee73eba54efd3fcf98fe5fc50ac9bfa1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 4288, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Evening Star Newspaper Co. Records</field>
+    <field name="collection_unitid_teim">MS 3009-RG 60</field>
+    <field name="series_sim">Series II. Baby Birth Record</field>
+    <field name="series_si">Series II. Baby Birth Record &gt;&gt; &lt;em&gt;The Evening Star&lt;/em&gt; Baby Book</field>
+    <field name="heading_ssm">The Evening Star Baby Book</field>
+    <field name="unitdate_ssm">Inclusive, 1959-1968</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">21</field>
+  </doc>
+</add>

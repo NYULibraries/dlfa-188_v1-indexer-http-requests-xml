@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref925_i70</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Our Wedding, Karen and Bob, June 3, 1972. Isacson, Henry, photographer.</field>
+    <field name="unittitle_teim">Our Wedding, Karen and Bob, June 3, 1972. Isacson, Henry, photographer.</field>
+    <field name="unitdate_normal_ssm">1972/1972</field>
+    <field name="unitdate_normal_teim">1972/1972</field>
+    <field name="unitdate_normal_sim">1972/1972</field>
+    <field name="unitdate_inclusive_teim">1972</field>
+    <field name="scopecontent_teim">Wedding album, bound in white with gold lettering on cover; color photographs approx. 7.5 x 9.5 in. or less; bride in front of mirror, with bridesmaids, a view showing bridal gown with train, bride with parents, with dog, arriving at church, marriage ceremony and communion, group portrait of wedding party, bride and groom, reception photographs, cutting the cake, dancing, etc.</field>
+    <field name="ref_ssi">aspace_ref925_i70</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 44, Volume: 281</field>
+    <field name="location_ssm">Volume: 281</field>
+    <field name="location_si">Volume: 281</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Our Wedding, Karen and Bob, June 3, 1972. Isacson, Henry, photographer.</field>
+    <field name="heading_ssm">Our Wedding, Karen and Bob, June 3, 1972. Isacson, Henry, photographer.</field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_si">1972</field>
+    <field name="unitdate_end_sim">1972</field>
+    <field name="unitdate_end_ssm">1972</field>
+    <field name="unitdate_end_si">1972</field>
+    <field name="unitdate_ssm">Inclusive, 1972</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">318</field>
+  </doc>
+</add>

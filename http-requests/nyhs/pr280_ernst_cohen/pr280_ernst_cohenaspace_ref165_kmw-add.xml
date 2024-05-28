@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr280_ernst_cohenaspace_ref165_kmw</field>
+    <field name="ead_ssi">pr280_ernst_cohen</field>
+    <field name="parent_ssi">aspace_ref161_0t4</field>
+    <field name="parent_ssm">aspace_ref117_eq9</field>
+    <field name="parent_ssm">aspace_ref161_0t4</field>
+    <field name="parent_unittitles_ssm">Series II. Cityscapes </field>
+    <field name="parent_unittitles_ssm">Subseries VII. Buildings</field>
+    <field name="parent_unittitles_teim">Series II. Cityscapes </field>
+    <field name="parent_unittitles_teim">Subseries VII. Buildings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ernst Cohen photograph collection</field>
+    <field name="collection_ssm">Ernst Cohen photograph collection</field>
+    <field name="collection_unitid_ssm">PR 280</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">2 Columbus Circle</field>
+    <field name="unittitle_teim">2 Columbus Circle</field>
+    <field name="unitdate_teim">1964</field>
+    <field name="ref_ssi">aspace_ref165_kmw</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 22</field>
+    <field name="location_ssm">Folder: 22</field>
+    <field name="location_si">Folder: 22</field>
+    <field name="collection_teim">Ernst Cohen photograph collection</field>
+    <field name="collection_unitid_teim">PR 280</field>
+    <field name="series_sim">Series II. Cityscapes </field>
+    <field name="series_sim">Subseries VII. Buildings</field>
+    <field name="series_si">Series II. Cityscapes  &gt;&gt; Subseries VII. Buildings &gt;&gt; 2 Columbus Circle</field>
+    <field name="heading_ssm">2 Columbus Circle</field>
+    <field name="unitdate_ssm">1964</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">56</field>
+  </doc>
+</add>

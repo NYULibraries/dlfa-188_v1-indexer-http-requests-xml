@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_31e0153722e0e9fdc6b888713c12d9dc</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_ssm">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_unittitles_ssm">Series II: Business Documents</field>
+    <field name="parent_unittitles_teim">Series II: Business Documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bills; Bills of Exchange</field>
+    <field name="unittitle_teim">Bills; Bills of Exchange</field>
+    <field name="unitdate_inclusive_teim">1797-1807</field>
+    <field name="scopecontent_teim">This box contains folders that are primarily made up of bills. These bills are primarily in regards to the sailing of ships, but some are for other materials like fabric, paper, ink, and alcohol. Bills of exchange are not separated into separate folders, and are mixed in with the bills.</field>
+    <field name="ref_ssi">aspace_31e0153722e0e9fdc6b888713c12d9dc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 50</field>
+    <field name="location_si">Box: 50</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series II: Business Documents</field>
+    <field name="series_si">Series II: Business Documents &gt;&gt; Bills; Bills of Exchange</field>
+    <field name="heading_ssm">Bills; Bills of Exchange</field>
+    <field name="unitdate_ssm">Inclusive, 1797-1807</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">389</field>
+  </doc>
+</add>

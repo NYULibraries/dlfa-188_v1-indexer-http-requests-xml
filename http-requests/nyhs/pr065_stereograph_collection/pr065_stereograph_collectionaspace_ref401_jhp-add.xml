@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref401_jhp</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Parks &amp;amp; Squares -- Central Park, by Thompson</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Parks &amp; Squares -- Central Park, by Thompson</field>
+    <field name="unitdate_normal_ssm">1860/1862</field>
+    <field name="unitdate_normal_teim">1860/1862</field>
+    <field name="unitdate_normal_sim">1860/1862</field>
+    <field name="unitdate_inclusive_teim">1860-1862</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0387</field>
+    <field name="scopecontent_teim">Views of Central Park by F. F. Thompson, each with an Amateur Photographic Exchange Club label, dating the image, and identifying the processes used: the Water Cave; the Light Tower and Skating Pond (lake with Bow Bridge); stone bridge in the Ramble; Across the lake in early spring (snow not yet off); Iron Bridge (Bow Bridge) over the Skating Pond; Marble Arch at south end of the Mall; The Balcony Bridge (with carriage on it); Across the bridge to the Ramble; Panorama of the Ramble (snow not yet melted); The Frog Pond in 1861; South end Path, looking east; The Oak Bridge from the Peninsula; Morning Ice on the Frog Pond; From the Bridle Path, near 8th Ave. entrance looking east, with bridge and summer house in the distance; From the Bridle Path near 8th Ave. entrance, looking n. by e., Arsenal in the distance at the left; Manhattanville from the north end of the Park, old Mt. St. Vincent; Under a bridge;  Under the Grapevine arbor; A Shady nook in the Ramble; Foliage over the Frog Pond; Schiller bust.</field>
+    <field name="scopecontent_teim">21 images</field>
+    <field name="ref_ssi">aspace_ref401_jhp</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 37</field>
+    <field name="location_si">Box: 37</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Parks &amp;amp; Squares -- Central Park, by Thompson</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Parks &amp; Squares -- Central Park, by Thompson</field>
+    <field name="unitdate_start_sim">1860</field>
+    <field name="unitdate_start_ssm">1860</field>
+    <field name="unitdate_start_si">1860</field>
+    <field name="unitdate_end_sim">1862</field>
+    <field name="unitdate_end_ssm">1862</field>
+    <field name="unitdate_end_si">1862</field>
+    <field name="unitdate_ssm">Inclusive, 1860-1862</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">388</field>
+  </doc>
+</add>

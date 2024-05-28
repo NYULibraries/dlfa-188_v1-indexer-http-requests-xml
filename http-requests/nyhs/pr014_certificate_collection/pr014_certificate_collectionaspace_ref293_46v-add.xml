@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref293_46v</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII: Foreign Language </field>
+    <field name="unittitle_teim">Series VII: Foreign Language </field>
+    <field name="unitdate_inclusive_teim">1852-1947</field>
+    <field name="scopecontent_teim"> This series includes certificates in Arabic, Dutch, Danish, French, Greek, Latin, Polish, Spanish, Italian and German. The certificates have not been translated but include religious, academic, and honorary subjects.</field>
+    <field name="scopecontent_teim">Certificates in French are mainly honoring soldiers who served in World War I. One of these certificates of
+honor has the Chateau-Thierry Medal attached. The medal depicts the busts of Washington &amp; Lafayette and
+the Legion of Honor on the reverse. A 1907 membership certificate records aviator Alan Hawley's
+membership in L'Aero-Club de France.</field>
+    <field name="ref_ssi">aspace_ref293_46v</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series VII: Foreign Language </field>
+    <field name="heading_ssm">Series VII: Foreign Language </field>
+    <field name="unitdate_ssm">Inclusive, 1852-1947</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">108</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr009_irving_browning_photosaspace_ref171_nry</field>
+    <field name="ead_ssi">pr009_irving_browning_photos</field>
+    <field name="parent_ssi">aspace_ref160_dcn</field>
+    <field name="parent_ssm">aspace_ref13_xmc</field>
+    <field name="parent_ssm">aspace_ref160_dcn</field>
+    <field name="parent_unittitles_ssm">Series I. Photographs</field>
+    <field name="parent_unittitles_ssm">Office Buildings</field>
+    <field name="parent_unittitles_teim">Series I. Photographs</field>
+    <field name="parent_unittitles_teim">Office Buildings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Browning photograph collection</field>
+    <field name="collection_ssm">Browning photograph collection</field>
+    <field name="collection_unitid_ssm">PR 9</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Empire State Building -- Interiors (21)</field>
+    <field name="unittitle_teim">Empire State Building -- Interiors (21)</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref171_nry</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 64</field>
+    <field name="location_ssm">Folder: 64</field>
+    <field name="location_si">Folder: 64</field>
+    <field name="collection_teim">Browning photograph collection</field>
+    <field name="collection_unitid_teim">PR 9</field>
+    <field name="series_sim">Series I. Photographs</field>
+    <field name="series_sim">Office Buildings</field>
+    <field name="series_si">Series I. Photographs &gt;&gt; Office Buildings &gt;&gt; Empire State Building -- Interiors (21)</field>
+    <field name="heading_ssm">Empire State Building -- Interiors (21)</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">154</field>
+  </doc>
+</add>

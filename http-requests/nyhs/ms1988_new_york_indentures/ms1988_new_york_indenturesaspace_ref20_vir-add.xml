@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms1988_new_york_indenturesaspace_ref20_vir</field>
+    <field name="ead_ssi">ms1988_new_york_indentures</field>
+    <field name="parent_ssi">aspace_ref15_4w7</field>
+    <field name="parent_ssm">aspace_ref15_4w7</field>
+    <field name="parent_unittitles_ssm">Series I: Indentures (1718-1902)</field>
+    <field name="parent_unittitles_teim">Series I: Indentures (1718-1902)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New York City indentures collection</field>
+    <field name="collection_ssm">New York City indentures collection</field>
+    <field name="collection_unitid_ssm">MS 1988</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Subseries 2: Indentures, Boys (1792-1902)</field>
+    <field name="unittitle_teim">Subseries 2: Indentures, Boys (1792-1902)</field>
+    <field name="scopecontent_teim">The post-revolution indentures include the boys' ages and their term of indenture, which was generally until they became 21 years old. The apprentices' training includes a range of trades such as barber, wigmaker, hatter, carpenter, cordwainer (shoemaker), shipwright, blacksmith, confectioner, farmer, rope making, druggist, etc. Many times male apprentices were sent to do rural work.</field>
+    <field name="scopecontent_teim">The folder of loose indentures dated 1801-1811, do not appear to be the indentures of orphans because the indentures were performed under the consent of the Special Justices for preserving the Peace and not the Commissioners of the Alms-House and Bridewell.</field>
+    <field name="ref_ssi">aspace_ref20_vir</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">New York City indentures collection</field>
+    <field name="collection_unitid_teim">MS 1988</field>
+    <field name="series_sim">Series I: Indentures (1718-1902)</field>
+    <field name="series_si">Series I: Indentures (1718-1902) &gt;&gt; Subseries 2: Indentures, Boys (1792-1902)</field>
+    <field name="heading_ssm">Subseries 2: Indentures, Boys (1792-1902)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

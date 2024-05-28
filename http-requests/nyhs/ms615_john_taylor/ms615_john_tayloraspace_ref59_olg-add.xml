@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms615_john_tayloraspace_ref59_olg</field>
+    <field name="ead_ssi">ms615_john_taylor</field>
+    <field name="parent_ssi">aspace_ref5_qvh</field>
+    <field name="parent_ssm">aspace_ref5_qvh</field>
+    <field name="parent_unittitles_ssm">Series 5: Personal Papers</field>
+    <field name="parent_unittitles_teim">Series 5: Personal Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John W. Taylor Papers</field>
+    <field name="collection_ssm">John W. Taylor Papers</field>
+    <field name="collection_unitid_ssm">MS 615</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Calling Cards and Invitations</field>
+    <field name="unittitle_teim">Calling Cards and Invitations</field>
+    <field name="unitdate_normal_ssm">1818/1819</field>
+    <field name="unitdate_normal_teim">1818/1819</field>
+    <field name="unitdate_normal_sim">1818/1819</field>
+    <field name="unitdate_inclusive_teim">1818-1819</field>
+    <field name="ref_ssi">aspace_ref59_olg</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">John W. Taylor Papers</field>
+    <field name="collection_unitid_teim">MS 615</field>
+    <field name="series_sim">Series 5: Personal Papers</field>
+    <field name="series_si">Series 5: Personal Papers &gt;&gt; Calling Cards and Invitations</field>
+    <field name="heading_ssm">Calling Cards and Invitations</field>
+    <field name="unitdate_start_sim">1818</field>
+    <field name="unitdate_start_ssm">1818</field>
+    <field name="unitdate_start_si">1818</field>
+    <field name="unitdate_end_sim">1819</field>
+    <field name="unitdate_end_ssm">1819</field>
+    <field name="unitdate_end_si">1819</field>
+    <field name="unitdate_ssm">Inclusive, 1818-1819</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">59</field>
+  </doc>
+</add>

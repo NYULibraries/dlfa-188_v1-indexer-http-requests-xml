@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg05aspace_ref518_ezt</field>
+    <field name="ead_ssi">nyhs_archives_rg05</field>
+    <field name="parent_ssi">aspace_ref4_kjq</field>
+    <field name="parent_ssm">aspace_ref4_kjq</field>
+    <field name="parent_unittitles_ssm">Series IV: Public Programs</field>
+    <field name="parent_unittitles_teim">Series IV: Public Programs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society pictorial archive</field>
+    <field name="collection_ssm">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_ssm">NYHS-RG 5</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Lectures on Egypt</field>
+    <field name="unittitle_teim">Lectures on Egypt</field>
+    <field name="unitdate_normal_ssm">1864/1864</field>
+    <field name="unitdate_normal_teim">1864/1864</field>
+    <field name="unitdate_normal_sim">1864/1864</field>
+    <field name="unitdate_inclusive_teim">1864</field>
+    <field name="scopecontent_teim">Oversize poster (3 copies) for the lecture by Prof. Henry J. Anderson at Cooper Institute, the concluding lecture of a series, followed by an unrolling of the mummy. Signage (2 copies) for ticket sales.</field>
+    <field name="ref_ssi">aspace_ref518_ezt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">drawer: 12A-B10, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_teim">NYHS-RG 5</field>
+    <field name="series_sim">Series IV: Public Programs</field>
+    <field name="series_si">Series IV: Public Programs &gt;&gt; Lectures on Egypt</field>
+    <field name="heading_ssm">Lectures on Egypt</field>
+    <field name="unitdate_start_sim">1864</field>
+    <field name="unitdate_start_ssm">1864</field>
+    <field name="unitdate_start_si">1864</field>
+    <field name="unitdate_end_sim">1864</field>
+    <field name="unitdate_end_ssm">1864</field>
+    <field name="unitdate_end_si">1864</field>
+    <field name="unitdate_ssm">Inclusive, 1864</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">238</field>
+  </doc>
+</add>

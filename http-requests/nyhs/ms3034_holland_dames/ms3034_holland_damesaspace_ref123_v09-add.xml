@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3034_holland_damesaspace_ref123_v09</field>
+    <field name="ead_ssi">ms3034_holland_dames</field>
+    <field name="parent_ssi">aspace_ref11_1ag</field>
+    <field name="parent_ssm">aspace_ref11_1ag</field>
+    <field name="parent_unittitles_ssm">Series II. Subject Files</field>
+    <field name="parent_unittitles_teim">Series II. Subject Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Records of the Society of Daughters of Holland Dames, Descendants of the Ancient and Honorable Families of New Netherland</field>
+    <field name="collection_ssm">Records of the Society of Daughters of Holland Dames, Descendants of the Ancient and Honorable Families of New Netherland</field>
+    <field name="collection_unitid_ssm">MS 3034</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.B. Projects and general topics</field>
+    <field name="unittitle_teim">Subseries II.B. Projects and general topics</field>
+    <field name="unitdate_inclusive_teim">1896-2013</field>
+    <field name="ref_ssi">aspace_ref123_v09</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Records of the Society of Daughters of Holland Dames, Descendants of the Ancient and Honorable Families of New Netherland</field>
+    <field name="collection_unitid_teim">MS 3034</field>
+    <field name="series_sim">Series II. Subject Files</field>
+    <field name="series_si">Series II. Subject Files &gt;&gt; Subseries II.B. Projects and general topics</field>
+    <field name="heading_ssm">Subseries II.B. Projects and general topics</field>
+    <field name="unitdate_ssm">Inclusive, 1896-2013</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">111</field>
+  </doc>
+</add>

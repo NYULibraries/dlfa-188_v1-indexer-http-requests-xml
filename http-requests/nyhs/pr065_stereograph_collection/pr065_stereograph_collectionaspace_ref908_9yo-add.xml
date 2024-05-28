@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref908_9yo</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_f1506cecd849f9f6001ff439ad992055</field>
+    <field name="parent_ssm">aspace_f1506cecd849f9f6001ff439ad992055</field>
+    <field name="parent_unittitles_ssm">Comic and Sentimental</field>
+    <field name="parent_unittitles_teim">Comic and Sentimental</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Comic &amp;amp; Sentimental--European, Characters &amp;amp; scenes</field>
+    <field name="unittitle_teim">Comic &amp; Sentimental--European, Characters &amp; scenes</field>
+    <field name="unitdate_inclusive_teim">[1850-1865]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0894</field>
+    <field name="scopecontent_teim">Characters and scenes: winter, showing a well to do couple and a poor woman; "Life's phases, showing well to do woman and ragged woman; [Irish] man reading sign advertising transportation to N.Y. on the Shamrock; woman dressed in costume of time of Charles II, holding hawk; two views depicting "exchange is no robbery": man exchanging his clothes for better, and women exchanging a rat for a rabbit; two views of a miser, one happy alone with his money, another  fearful when someone intrudes; child flying through the air in a sieve to illustrate a text from Macbeth; two views illustrating "The old curiosity shop"; "Robinson Crusoe"; Little Red riding Hood; man trying to board an omnibus; couple in stocks; two scenes, possibly from the Crimea War time, one showing woman distraught after receiving a letter form the war, another a Highland soldier returning home to his cottage and his wife.</field>
+    <field name="scopecontent_teim">20 items</field>
+    <field name="ref_ssi">aspace_ref908_9yo</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 87</field>
+    <field name="location_si">Box: 87</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Comic and Sentimental</field>
+    <field name="series_si">Comic and Sentimental &gt;&gt; Comic &amp;amp; Sentimental--European, Characters &amp;amp; scenes</field>
+    <field name="heading_ssm">Comic &amp; Sentimental--European, Characters &amp; scenes</field>
+    <field name="unitdate_ssm">Inclusive, [1850-1865]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">897</field>
+  </doc>
+</add>

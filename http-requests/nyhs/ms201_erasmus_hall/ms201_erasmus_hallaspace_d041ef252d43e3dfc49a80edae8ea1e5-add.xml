@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_d041ef252d43e3dfc49a80edae8ea1e5</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_14e97415e78de8bef4067ce7f1200a45</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_14e97415e78de8bef4067ce7f1200a45</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Chronicles of Erasmus Hall (1906)</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Chronicles of Erasmus Hall (1906)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Letters]</field>
+    <field name="unittitle_teim">[Letters]</field>
+    <field name="unitdate_inclusive_teim">1906</field>
+    <field name="scopecontent_teim">A folder of letters pertaining to the published volume entitled Chronicles of Erasmus Hall High School. The majority are letters of thanks to Dr. Gunnison for sending complimentary copies of the Chronicles to various officials and libraries. There are, however, some letters from old Flatbush residents interesting for the signatures and for the contents.</field>
+    <field name="ref_ssi">aspace_d041ef252d43e3dfc49a80edae8ea1e5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-1, Folder: Correspondence Relating to the Chronicles of Erasmus Hall (1906)</field>
+    <field name="location_ssm">Folder: Correspondence Relating to the Chronicles of Erasmus Hall (1906)</field>
+    <field name="location_si">Folder: Correspondence Relating to the Chronicles of Erasmus Hall (1906)</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Chronicles of Erasmus Hall (1906)</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Chronicles of Erasmus Hall (1906) &gt;&gt; [Letters]</field>
+    <field name="heading_ssm">[Letters]</field>
+    <field name="unitdate_ssm">Inclusive, 1906</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">91</field>
+  </doc>
+</add>

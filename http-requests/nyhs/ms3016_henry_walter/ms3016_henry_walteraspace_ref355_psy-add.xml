@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3016_henry_walteraspace_ref355_psy</field>
+    <field name="ead_ssi">ms3016_henry_walter</field>
+    <field name="parent_ssi">aspace_ref336_n05</field>
+    <field name="parent_ssm">aspace_ref336_n05</field>
+    <field name="parent_unittitles_ssm">Series V. Print Matter</field>
+    <field name="parent_unittitles_teim">Series V. Print Matter</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Henry Walter papers</field>
+    <field name="collection_ssm">Henry Walter papers</field>
+    <field name="collection_unitid_ssm">MS 3016</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Print Matter (#25-40)</field>
+    <field name="unittitle_teim">Print Matter (#25-40)</field>
+    <field name="unitdate_inclusive_teim">1960s</field>
+    <field name="scopecontent_teim">* Four public affairs pamphlets from the Public Affairs Committee; 
+* "Freedom and the Public Schools" lecture by David I. Ashe (1969); 
+* Several issues and six posters of the Marshall McLuhan DEW-LINE, issued by the Human Development Corporation (1969); 
+* Annual report for 1969 of the New York City Police Department;
+* Marketing brochure for the Americana Hotel.</field>
+    <field name="ref_ssi">aspace_ref355_psy</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 25, Folder: 16</field>
+    <field name="location_ssm">Folder: 16</field>
+    <field name="location_si">Folder: 16</field>
+    <field name="collection_teim">Henry Walter papers</field>
+    <field name="collection_unitid_teim">MS 3016</field>
+    <field name="series_sim">Series V. Print Matter</field>
+    <field name="series_si">Series V. Print Matter &gt;&gt; Print Matter (#25-40)</field>
+    <field name="heading_ssm">Print Matter (#25-40)</field>
+    <field name="unitdate_ssm">Inclusive, 1960s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">241</field>
+  </doc>
+</add>

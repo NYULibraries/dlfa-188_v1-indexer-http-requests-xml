@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref9_6sj</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IX - Facilities Records: Industrial Schools, Lodging Houses, Summer Camps, and Farm Schools</field>
+    <field name="unittitle_teim">Series IX - Facilities Records: Industrial Schools, Lodging Houses, Summer Camps, and Farm Schools</field>
+    <field name="unitdate_normal_ssm">1854/1972</field>
+    <field name="unitdate_normal_ssm">1854/1958</field>
+    <field name="unitdate_normal_teim">1854/1972</field>
+    <field name="unitdate_normal_teim">1854/1958</field>
+    <field name="unitdate_normal_sim">1854/1972</field>
+    <field name="unitdate_normal_sim">1854/1958</field>
+    <field name="unitdate_bulk_teim">1854-1958</field>
+    <field name="unitdate_inclusive_teim">1854-1972 and undated</field>
+    <field name="scopecontent_teim">Series IX contains documents produced by and regarding CAS facilities, including industrial schools, lodging houses, camps, and farm schools. The materials are divided into 2 subseries:</field>
+    <field name="scopecontent_teim">IX.1 Facilities - Mixed</field>
+    <field name="scopecontent_teim">IX.2 Facilities - Arranged Alphabetically</field>
+    <field name="scopecontent_teim">The documents in subseries 1 are arranged chronologically. The documents in subseries 2 are arranged alphabetically by facility, and then chronologically for each facility. For convalescent facilities, please see Series X - Convalescent Facilities and Medical Programs.</field>
+    <field name="scopecontent_teim">Series IX includes both volumes and material in boxes, interfiled. Some volumes provide statistical data; others provide narrative material (stories about individuals who passed through the facilities). Volumes with narrative material are noted in the container list.  </field>
+    <field name="scopecontent_teim">Material types in the boxes include pamphlets, invitations, press releases, reports, memos, correspondence, forms, disbound volumes, property surveys, an address book and bank passbooks, newsletters, programs for minstrel shows and other entertainments and events, and some photos and minutes.</field>
+    <field name="scopecontent_teim">Bowdoin Farm and the Newsboys Lodging House are particularly well represented in the boxed materials. The Girls Lodging House, Elizabeth Home, Eleventh Ward Lodging House, Tompkins Square Lodging House, and Emergency Shelter for Women and Children are particularly well-represented among the volumes. There are fewer records from the industrial schools. Some materials from Bowdoin Camp, Bowdoin Farm, Brace Farm, and the convalescent homes are housed in a separate oversized (OS) box, noted in the container list.</field>
+    <field name="scopecontent_teim">Note: Children's Aid Society facilities changed names and locations frequently, and were sometimes known by different names at the same time. For a history of name changes, and how they relate to arrangement, see the note for Subseries IX.2 - Facilities, Alphabetical.</field>
+    <field name="scopecontent_teim">
+      Related Material in Other Series:
+    </field>
+    <field name="scopecontent_teim">Photographs of facilities are in Series XIII - Photographs. Volumes and other material related to the finances of a particular facility are included here in Series IX, but capital fund-raising campaigns for facilities are in Series VI.1 - Fund Raising - because such campaigns originated from the CAS main office, not at the facility itself.</field>
+    <field name="ref_ssi">aspace_ref9_6sj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_si">Series IX - Facilities Records: Industrial Schools, Lodging Houses, Summer Camps, and Farm Schools</field>
+    <field name="heading_ssm">Series IX - Facilities Records: Industrial Schools, Lodging Houses, Summer Camps, and Farm Schools</field>
+    <field name="unitdate_start_sim">1854</field>
+    <field name="unitdate_start_ssm">1854</field>
+    <field name="unitdate_start_si">1854</field>
+    <field name="unitdate_end_sim">1972</field>
+    <field name="unitdate_end_sim">1958</field>
+    <field name="unitdate_end_ssm">1972</field>
+    <field name="unitdate_end_ssm">1958</field>
+    <field name="unitdate_end_si">1958</field>
+    <field name="unitdate_ssm">Inclusive, 1854-1972 and undated ; 1854-1958</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1405</field>
+  </doc>
+</add>

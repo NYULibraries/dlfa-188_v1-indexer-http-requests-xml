@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms29_avignone_pharmacyaspace_465e089d52c518c09ce49a508bbcb1eb</field>
+    <field name="ead_ssi">ms29_avignone_pharmacy</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Frank Avignone &amp; Co. prescription books</field>
+    <field name="collection_ssm">Frank Avignone &amp; Co. prescription books</field>
+    <field name="collection_unitid_ssm">MS 29</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Prescription #101425 - 110018</field>
+    <field name="unittitle_teim">Prescription #101425 - 110018</field>
+    <field name="unitdate_inclusive_teim">1895-1898</field>
+    <field name="ref_ssi">aspace_465e089d52c518c09ce49a508bbcb1eb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: FA-1, Volume: 1</field>
+    <field name="location_ssm">Volume: 1</field>
+    <field name="location_si">Volume: 1</field>
+    <field name="collection_teim">Frank Avignone &amp; Co. prescription books</field>
+    <field name="collection_unitid_teim">MS 29</field>
+    <field name="series_si">Prescription #101425 - 110018</field>
+    <field name="heading_ssm">Prescription #101425 - 110018</field>
+    <field name="unitdate_ssm">Inclusive, 1895-1898</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

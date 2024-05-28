@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg02aspace_ref3363_ypc</field>
+    <field name="ead_ssi">timeinc_ms3009_rg02</field>
+    <field name="parent_ssi">aspace_853f8538325fbbd932bf61970af06569</field>
+    <field name="parent_ssm">aspace_853f8538325fbbd932bf61970af06569</field>
+    <field name="parent_unittitles_ssm">Names R</field>
+    <field name="parent_unittitles_teim">Names R</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Time Inc. Bio Files</field>
+    <field name="collection_ssm">Time Inc. Bio Files</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Riger, Robert</field>
+    <field name="unittitle_teim">Riger, Robert</field>
+    <field name="ref_ssi">aspace_ref3363_ypc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 385, Folder: 76</field>
+    <field name="location_ssm">Folder: 76</field>
+    <field name="location_si">Folder: 76</field>
+    <field name="collection_teim">Time Inc. Bio Files</field>
+    <field name="collection_unitid_teim">MS 3009-RG 2</field>
+    <field name="series_sim">Names R</field>
+    <field name="series_si">Names R &gt;&gt; Riger, Robert</field>
+    <field name="heading_ssm">Riger, Robert</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3145</field>
+  </doc>
+</add>

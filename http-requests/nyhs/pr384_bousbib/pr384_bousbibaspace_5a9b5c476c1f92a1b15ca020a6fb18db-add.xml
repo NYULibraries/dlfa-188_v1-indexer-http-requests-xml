@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_5a9b5c476c1f92a1b15ca020a6fb18db</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_ssm">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_unittitles_ssm">Series I: Broadway Theatrical Photography</field>
+    <field name="parent_unittitles_teim">Series I: Broadway Theatrical Photography</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries: FRIEDMAN-ABELES</field>
+    <field name="unittitle_teim">Subseries: FRIEDMAN-ABELES</field>
+    <field name="unitdate_inclusive_teim">1955-1976</field>
+    <field name="scopecontent_teim">This subseries consists of photographs and ephemera related to Broadway theatrical plays produced between 1955-1976. The photographs were taken by the Friedman-Abeles Studio between 1955 and 1976. Photographers Joseph Abeles (1908-1991) and Leo Friedman (1919-2011) began their partnership in 1954, and specialized in documenting Broadway and the theatrical world. </field>
+    <field name="scopecontent_teim">Included in this subseries are stills, clippings, and playbills from many major and minor Broadway shows of the era. Among them are "Cabaret," "Camelot," "MacBeth," "A Man for All Seasons," "The Music Man," "No No Nanette," "Our Town," and "Prisoner of Second Avenue".</field>
+    <field name="ref_ssi">aspace_5a9b5c476c1f92a1b15ca020a6fb18db</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series I: Broadway Theatrical Photography</field>
+    <field name="series_si">Series I: Broadway Theatrical Photography &gt;&gt; Subseries: FRIEDMAN-ABELES</field>
+    <field name="heading_ssm">Subseries: FRIEDMAN-ABELES</field>
+    <field name="unitdate_ssm">Inclusive, 1955-1976</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref858_7co</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_ssm">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_unittitles_ssm">Subjects</field>
+    <field name="parent_unittitles_teim">Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Subjects--Portraits--Theatrical</field>
+    <field name="unittitle_teim">Subjects--Portraits--Theatrical</field>
+    <field name="unitdate_normal_ssm">1858/1858</field>
+    <field name="unitdate_normal_teim">1858/1858</field>
+    <field name="unitdate_normal_sim">1858/1858</field>
+    <field name="unitdate_inclusive_teim">[1858-1880]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0844</field>
+    <field name="scopecontent_teim">European and American theatrical personalities, some in theatrical costume and poses: unidentified actresses, and a ballerina, C. Leslie Allen, Dan Magennis and Frank S. Canfrau in the Arkansas Traveler, Mary Anderson, Aurelia, dancer Marie Bonfanti, Edwin Booth, including view of Booth as Hamlet, Kate Claxton, Emma Day, Miss Fielding, George L. Fox as Humpty Dumpty, Flora Franks, Johanna Fritsche, Maud Granger, Miss Herbert, Mlle. Irma, Clara Louise Kellog, Minna Korner, Jeffrys Lewis and Emily Rigi, Pauline Lucca, Pauline Markham, McKay in the Two Orphans, Maggie Mitchell, Mrs. Moulton, Parepa, Milly Reid, Adelaide Ristori, daughter and company, Mrs. Rousby, Miss Siddons, E. A. Sothern, Susini and wife Isabella Hinckley, Lydia Thompson, Tom Thumb, wife, Commodore Nutt and Minnie Warren, Beatrice Shoo Fly as Topsy in Uncle Toms Cabin, Mlle. Verance, James W. Wallack and family, dogs at their feet.</field>
+    <field name="scopecontent_teim">62 items</field>
+    <field name="ref_ssi">aspace_ref858_7co</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 80</field>
+    <field name="location_si">Box: 80</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Subjects</field>
+    <field name="series_si">Subjects &gt;&gt; Subjects--Portraits--Theatrical</field>
+    <field name="heading_ssm">Subjects--Portraits--Theatrical</field>
+    <field name="unitdate_start_sim">1858</field>
+    <field name="unitdate_start_ssm">1858</field>
+    <field name="unitdate_start_si">1858</field>
+    <field name="unitdate_end_sim">1858</field>
+    <field name="unitdate_end_ssm">1858</field>
+    <field name="unitdate_end_si">1858</field>
+    <field name="unitdate_ssm">Inclusive, [1858-1880]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">846</field>
+  </doc>
+</add>

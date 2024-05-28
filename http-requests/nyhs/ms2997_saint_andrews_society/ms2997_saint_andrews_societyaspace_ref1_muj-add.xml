@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2997_saint_andrews_societyaspace_ref1_muj</field>
+    <field name="ead_ssi">ms2997_saint_andrews_society</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_ssm">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_unitid_ssm">MS 2997</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Administrative Records</field>
+    <field name="unittitle_teim">Series I: Administrative Records</field>
+    <field name="unitdate_inclusive_teim">1785-2008</field>
+    <field name="scopecontent_teim">This series contains material related to the operations and management of the Society as a whole. It is arranged into subseries that detail the organization's institutional structure, which includes an early treasurer's book, minutes, reports, printed histories, committee records, and office files.</field>
+    <field name="ref_ssi">aspace_ref1_muj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_unitid_teim">MS 2997</field>
+    <field name="series_si">Series I: Administrative Records</field>
+    <field name="heading_ssm">Series I: Administrative Records</field>
+    <field name="unitdate_ssm">Inclusive, 1785-2008</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

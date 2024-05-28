@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr064_john_snook_drawingsaspace_ref162_av3</field>
+    <field name="ead_ssi">pr064_john_snook_drawings</field>
+    <field name="parent_ssi">aspace_ref13_0bs</field>
+    <field name="parent_ssm">aspace_ref13_0bs</field>
+    <field name="parent_unittitles_ssm">Series I: Architectural Drawings</field>
+    <field name="parent_unittitles_teim">Series I: Architectural Drawings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John B. Snook architectural records collection</field>
+    <field name="collection_ssm">John B. Snook architectural records collection</field>
+    <field name="collection_unitid_ssm">PR 64</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">237-243 West 27th Street, New York, NYProject #140</field>
+    <field name="unittitle_teim">237-243 West 27th Street, New York, NYProject #140</field>
+    <field name="unitdate_teim">1895</field>
+    <field name="ref_ssi">aspace_ref162_av3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 16, Folder: unknown container</field>
+    <field name="location_ssm">Folder: unknown container</field>
+    <field name="location_si">Folder: unknown container</field>
+    <field name="collection_teim">John B. Snook architectural records collection</field>
+    <field name="collection_unitid_teim">PR 64</field>
+    <field name="series_sim">Series I: Architectural Drawings</field>
+    <field name="series_si">Series I: Architectural Drawings &gt;&gt; 237-243 West 27th Street, New York, NYProject #140</field>
+    <field name="heading_ssm">237-243 West 27th Street, New York, NYProject #140</field>
+    <field name="unitdate_ssm">1895</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">141</field>
+  </doc>
+</add>

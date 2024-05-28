@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr019_arnold_gentheaspace_ref235_cd6</field>
+    <field name="ead_ssi">pr019_arnold_genthe</field>
+    <field name="parent_ssi">aspace_ref232_926</field>
+    <field name="parent_ssm">aspace_ref232_926</field>
+    <field name="parent_unittitles_ssm">Series V: Cats</field>
+    <field name="parent_unittitles_teim">Series V: Cats</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Arnold Genthe Photograph Collection</field>
+    <field name="collection_ssm">Arnold Genthe Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 19</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">"Cat and Wine Barrels"</field>
+    <field name="unittitle_teim">"Cat and Wine Barrels"</field>
+    <field name="unitdate_normal_ssm">1919/1929</field>
+    <field name="unitdate_normal_teim">1919/1929</field>
+    <field name="unitdate_normal_sim">1919/1929</field>
+    <field name="unitdate_inclusive_teim">[1919-1929]</field>
+    <field name="ref_ssi">aspace_ref235_cd6</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 7, Box: 14</field>
+    <field name="location_ssm">Box: 14, Folder: 106</field>
+    <field name="location_ssm">Folder: 106</field>
+    <field name="location_si">Folder: 106</field>
+    <field name="collection_teim">Arnold Genthe Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 19</field>
+    <field name="series_sim">Series V: Cats</field>
+    <field name="series_si">Series V: Cats &gt;&gt; "Cat and Wine Barrels"</field>
+    <field name="heading_ssm">"Cat and Wine Barrels"</field>
+    <field name="unitdate_start_sim">1919</field>
+    <field name="unitdate_start_ssm">1919</field>
+    <field name="unitdate_start_si">1919</field>
+    <field name="unitdate_end_sim">1929</field>
+    <field name="unitdate_end_ssm">1929</field>
+    <field name="unitdate_end_si">1929</field>
+    <field name="unitdate_ssm">Inclusive, [1919-1929]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">114</field>
+  </doc>
+</add>

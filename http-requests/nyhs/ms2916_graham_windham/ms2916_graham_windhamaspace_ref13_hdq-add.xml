@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2916_graham_windhamaspace_ref13_hdq</field>
+    <field name="ead_ssi">ms2916_graham_windham</field>
+    <field name="parent_ssi">aspace_ref10_d80</field>
+    <field name="parent_ssm">aspace_ref10_d80</field>
+    <field name="parent_unittitles_ssm">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="parent_unittitles_teim">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Graham Windham Records</field>
+    <field name="collection_ssm">Graham Windham Records</field>
+    <field name="collection_unitid_ssm">MS 2916</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.1 - Board Minutes 1806-1974</field>
+    <field name="unittitle_teim">Subseries I.1 - Board Minutes 1806-1974</field>
+    <field name="unitdate_normal_ssm">1806/1974</field>
+    <field name="unitdate_normal_teim">1806/1974</field>
+    <field name="unitdate_normal_sim">1806/1974</field>
+    <field name="unitdate_inclusive_teim">1806-1974</field>
+    <field name="scopecontent_teim">The subseries contains 18 volumes of minutes of meetings of the Board of Trustees of the Orphan Asylum Society/Graham Home for Children (OAS) 1806-1974.  </field>
+    <field name="scopecontent_teim">Minutes from 1822-1851 and 1975-1977 are missing.  Some loose pages from the 1830's were interleaved with the 1887-1894 minutes, and remain with that volume (Vol. 4).  An index to the minutes is available to researchers at the New-York Historical Society manuscript department.</field>
+    <field name="scopecontent_teim">
+      Minutes are closed to the public for a term of one hundred years from date of creation.  Minutes older than one hundred years are open for research.
+      
+    </field>
+    <field name="scopecontent_teim">The Orphan Asylum Society merged with Windham Child Care in 1977 to become Graham Windham.  For Minutes of Windham Child Care, see Series II.1.  For post-1977 minutes of Graham Windham, see Series III.1. For OAS Committee Reports submitted to the Board, see Subseries I.5.  For a 1973 board manual and other board-related administrative materials, see Subseries I.7.</field>
+    <field name="ref_ssi">aspace_ref13_hdq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Graham Windham Records</field>
+    <field name="collection_unitid_teim">MS 2916</field>
+    <field name="series_sim">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="series_si">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977) &gt;&gt; Subseries I.1 - Board Minutes 1806-1974</field>
+    <field name="heading_ssm">Subseries I.1 - Board Minutes 1806-1974</field>
+    <field name="unitdate_start_sim">1806</field>
+    <field name="unitdate_start_ssm">1806</field>
+    <field name="unitdate_start_si">1806</field>
+    <field name="unitdate_end_sim">1974</field>
+    <field name="unitdate_end_ssm">1974</field>
+    <field name="unitdate_end_si">1974</field>
+    <field name="unitdate_ssm">Inclusive, 1806-1974</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

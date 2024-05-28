@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1427_dbx</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Grand Central Terminal Improvement</field>
+    <field name="unittitle_teim">Grand Central Terminal Improvement</field>
+    <field name="unitdate_normal_ssm">1910/1910</field>
+    <field name="unitdate_normal_teim">1910/1910</field>
+    <field name="unitdate_normal_sim">1910/1910</field>
+    <field name="unitdate_inclusive_teim">1910</field>
+    <field name="scopecontent_teim">Copies of renderings showing the new Grand Central station, including the 42nd and 45th Street elevations, the Post Office at Lexington Ave. and 43rd Street; Substation No. 1 of the New York Central and Hudson River Railroad Co., at 50th Street Between Lexington and Park; railyard designs, including suburban level, dated 1905; the express level; street level showing layout of streets above tracks; plan labeled "Office" showing the next level up; Longitudinal section on Park Ave., 42nd Street elevation, showing layout of tunnels, Section through Concourse, Section through Train Room; Section through 46th Street looking north, section south of 52nd Street looking north, section through 55th Street looking north, Section through 57th Street; section on cross section of 44th Street, looking north; longitudinal sections on Park Avenue.</field>
+    <field name="ref_ssi">aspace_ref1427_dbx</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 402, Volume: 410</field>
+    <field name="location_ssm">Volume: 410</field>
+    <field name="location_si">Volume: 410</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Grand Central Terminal Improvement</field>
+    <field name="heading_ssm">Grand Central Terminal Improvement</field>
+    <field name="unitdate_start_sim">1910</field>
+    <field name="unitdate_start_ssm">1910</field>
+    <field name="unitdate_start_si">1910</field>
+    <field name="unitdate_end_sim">1910</field>
+    <field name="unitdate_end_ssm">1910</field>
+    <field name="unitdate_end_si">1910</field>
+    <field name="unitdate_ssm">Inclusive, 1910</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">476</field>
+  </doc>
+</add>

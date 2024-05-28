@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms78_brown_brothers_harrimanaspace_ref1424_gwi</field>
+    <field name="ead_ssi">ms78_brown_brothers_harriman</field>
+    <field name="parent_ssi">aspace_ref611_f49</field>
+    <field name="parent_ssm">aspace_ref611_f49</field>
+    <field name="parent_unittitles_ssm">Series III. Financial and Business Records (1880-1934)</field>
+    <field name="parent_unittitles_teim">Series III. Financial and Business Records (1880-1934)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brown Brothers Harriman records</field>
+    <field name="collection_ssm">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_ssm">MS 78</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Subseries A. Ledgers (1880-1893, 1897-1928)</field>
+    <field name="unittitle_teim">Subseries A. Ledgers (1880-1893, 1897-1928)</field>
+    <field name="unitdate_teim">1880-1893, 1897-1928</field>
+    <field name="scopecontent_teim">The ledgers consist of 36 oversized bound books (see Physical Description note) documenting profit and loss, private accounts, and general ledger entries from Brown Brothers &amp; Co. between 1880 and 1928. Included in these transactions are details of many of the firm's financial activities documented elsewhere in the Records during this time period.</field>
+    <field name="scopecontent_teim">For ledgers that have an accompanying index, researchers are advised to consult the index first before accessing the ledger, because of the volumes' physical size (see Physical Description note). </field>
+    <field name="scopecontent_teim">The ledgers are up to 2 feet high and as wide as 8 inches; the largest volumes weigh close to 25 pounds. They were originally bound in leather and then covered in canvas chemises. Volumes that have separated from their covers have been rehoused in acid-free containers; those that are physically intact have been cleaned and shrink-wrapped.</field>
+    <field name="ref_ssi">aspace_ref1424_gwi</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_teim">MS 78</field>
+    <field name="series_sim">Series III. Financial and Business Records (1880-1934)</field>
+    <field name="series_si">Series III. Financial and Business Records (1880-1934) &gt;&gt; Subseries A. Ledgers (1880-1893, 1897-1928)</field>
+    <field name="heading_ssm">Subseries A. Ledgers (1880-1893, 1897-1928)</field>
+    <field name="unitdate_ssm">1880-1893, 1897-1928</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1444</field>
+  </doc>
+</add>

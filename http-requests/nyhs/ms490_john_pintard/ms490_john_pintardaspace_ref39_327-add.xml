@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms490_john_pintardaspace_ref39_327</field>
+    <field name="ead_ssi">ms490_john_pintard</field>
+    <field name="parent_ssi">aspace_ref6_szb</field>
+    <field name="parent_ssm">aspace_ref6_szb</field>
+    <field name="parent_unittitles_ssm">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="parent_unittitles_teim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Pintard Papers</field>
+    <field name="collection_ssm">John Pintard Papers</field>
+    <field name="collection_unitid_ssm">MS 490</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III: Financial and Business Records</field>
+    <field name="unittitle_teim">Subseries III: Financial and Business Records</field>
+    <field name="unitdate_teim">1782-1840</field>
+    <field name="scopecontent_teim">The financial and business records of John Pintard include receipts, bills, and other documents pertaining to his personal and family finances and the finances of organizations he was active in, usually as secretary or treasurer, including the New-York Historical Society.  Also included are promissory notes and other records relevant to John Pintard's business dealings with William Duer, both of whom were put in debtor's prison in the 1790's.</field>
+    <field name="scopecontent_teim">Also included are accounts of exports out of the port of New York in the 1770's, a list of all ships entering the port of New Orleans and their cargo in 1800, and a list of parishoners payments for reserving pews at the St. Esprit French Protestant Chruch in New York.</field>
+    <field name="ref_ssi">aspace_ref39_327</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Pintard Papers</field>
+    <field name="collection_unitid_teim">MS 490</field>
+    <field name="series_sim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="series_si">Series 1: Papers of John Pintard, 1779-1851 &gt;&gt; Subseries III: Financial and Business Records</field>
+    <field name="heading_ssm">Subseries III: Financial and Business Records</field>
+    <field name="unitdate_ssm">1782-1840</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">61</field>
+  </doc>
+</add>

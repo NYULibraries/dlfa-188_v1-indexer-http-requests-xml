@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_20032b4d583a8c87851300299218c244</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_2adeacd3761ecc0cb46f38a587451c13</field>
+    <field name="parent_ssm">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_ssm">aspace_2adeacd3761ecc0cb46f38a587451c13</field>
+    <field name="parent_unittitles_ssm">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries III.C. Accounting Records</field>
+    <field name="parent_unittitles_teim">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries III.C. Accounting Records</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Check/transaction register (Box 2 of 2). Flat oversize box</field>
+    <field name="unittitle_teim">Check/transaction register (Box 2 of 2). Flat oversize box</field>
+    <field name="unitdate_inclusive_teim">1962-1968</field>
+    <field name="scopecontent_teim">Includes the 4th and 5th of 5 volumes, continued from above: January 1962-December 1963, then gap, January 1966-August 1968.</field>
+    <field name="ref_ssi">aspace_20032b4d583a8c87851300299218c244</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 80, Volume: 1-2</field>
+    <field name="location_ssm">Volume: 1-2</field>
+    <field name="location_si">Volume: 1-2</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series III. Inventories and Financial Records</field>
+    <field name="series_sim">Subseries III.C. Accounting Records</field>
+    <field name="series_si">Series III. Inventories and Financial Records &gt;&gt; Subseries III.C. Accounting Records &gt;&gt; Check/transaction register (Box 2 of 2). Flat oversize box</field>
+    <field name="heading_ssm">Check/transaction register (Box 2 of 2). Flat oversize box</field>
+    <field name="unitdate_ssm">Inclusive, 1962-1968</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">107</field>
+  </doc>
+</add>

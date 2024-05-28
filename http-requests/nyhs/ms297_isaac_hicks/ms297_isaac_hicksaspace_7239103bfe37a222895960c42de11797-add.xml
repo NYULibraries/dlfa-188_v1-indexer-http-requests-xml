@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_7239103bfe37a222895960c42de11797</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_ssm">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_unittitles_ssm">Series II: Business Documents</field>
+    <field name="parent_unittitles_teim">Series II: Business Documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ships Papers</field>
+    <field name="unittitle_teim">Ships Papers</field>
+    <field name="unitdate_inclusive_teim">1801-1803</field>
+    <field name="scopecontent_teim">This box contains 5 folders of materials between 1801 and 1803.  The documents are predominantly letters of lading, import certifications, accounts, and shipping certifications. </field>
+    <field name="scopecontent_teim">The main ship mentioned is the General Mercer, though other ships are mentioned as well</field>
+    <field name="ref_ssi">aspace_7239103bfe37a222895960c42de11797</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 77</field>
+    <field name="location_si">Box: 77</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series II: Business Documents</field>
+    <field name="series_si">Series II: Business Documents &gt;&gt; Ships Papers</field>
+    <field name="heading_ssm">Ships Papers</field>
+    <field name="unitdate_ssm">Inclusive, 1801-1803</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">416</field>
+  </doc>
+</add>

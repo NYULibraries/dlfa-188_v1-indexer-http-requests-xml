@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms523_john_rogers_familyaspace_ref156_aob</field>
+    <field name="ead_ssi">ms523_john_rogers_family</field>
+    <field name="parent_ssi">aspace_ref53_xei</field>
+    <field name="parent_ssm">aspace_ref53_xei</field>
+    <field name="parent_unittitles_ssm">Series II: Papers of the Rogers Family</field>
+    <field name="parent_unittitles_teim">Series II: Papers of the Rogers Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Rogers Family Papers</field>
+    <field name="collection_ssm">Rogers Family Papers</field>
+    <field name="collection_unitid_ssm">MS 523</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III: Genealogical research</field>
+    <field name="unittitle_teim">Subseries III: Genealogical research</field>
+    <field name="unitdate_teim">1872 - 1965</field>
+    <field name="scopecontent_teim">This subseries consists chiefly of genealogical information collected and produced by members of the Rogers family. The subseries includes genealogical notes, extracts of writings about Rogers family ancestors, numerous articles, magazines and publications relating to and written by Rogers family members, and copies of family tree charts. Also included is corresondence, predominantly of Derby Rogers, concering this genealogical research, and a range of articles and publications on the works of John Rogers, sculptor.</field>
+    <field name="ref_ssi">aspace_ref156_aob</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Rogers Family Papers</field>
+    <field name="collection_unitid_teim">MS 523</field>
+    <field name="series_sim">Series II: Papers of the Rogers Family</field>
+    <field name="series_si">Series II: Papers of the Rogers Family &gt;&gt; Subseries III: Genealogical research</field>
+    <field name="heading_ssm">Subseries III: Genealogical research</field>
+    <field name="unitdate_ssm">1872 - 1965</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">81</field>
+  </doc>
+</add>

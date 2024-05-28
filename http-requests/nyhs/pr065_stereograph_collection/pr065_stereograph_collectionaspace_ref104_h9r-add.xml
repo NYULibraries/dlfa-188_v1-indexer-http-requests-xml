@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref104_h9r</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Iowa</field>
+    <field name="unittitle_teim">Iowa</field>
+    <field name="unitdate_inclusive_teim">1868 - [1889]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0092</field>
+    <field name="scopecontent_teim">Iowa: Davenport: wreck of the draw of the railroad bridge after gale of March 17th, 1868, residence of John L. Davies, with family horse "Bob" in front; Des Moines: Congregational church, railroad depot, and looking north from the depot, with train in middle ground; studio portrait of a baby in a carriage De Witt, Iowa; view from the bluff opposite the seminary, Dubuque; views of snow bound train on the Milwaukee &amp; St. Paul Railroad between Conover and Ridgway, after the storm of Jan. 7th and 8th, 1873; entrance to Burt's cave, near Maquoketa River, Jackson County with photographer's developing tent, center;  north side of square, Knoxville, in snow; Newton school house with students in front; Courthouse, Sioux City.</field>
+    <field name="scopecontent_teim">13 items</field>
+    <field name="ref_ssi">aspace_ref104_h9r</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12</field>
+    <field name="location_si">Box: 12</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Iowa</field>
+    <field name="heading_ssm">Iowa</field>
+    <field name="unitdate_ssm">Inclusive, 1868 - [1889]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">93</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr295_rebecca_lepkoffaspace_ref16_aoa</field>
+    <field name="ead_ssi">pr295_rebecca_lepkoff</field>
+    <field name="parent_ssi">aspace_ref20_5q8</field>
+    <field name="parent_ssm">aspace_ref20_5q8</field>
+    <field name="parent_unittitles_ssm">Series I: 8 x 10 (and smaller) prints</field>
+    <field name="parent_unittitles_teim">Series I: 8 x 10 (and smaller) prints</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Rebecca Lepkoff Photograph Collection</field>
+    <field name="collection_ssm">Rebecca Lepkoff Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 295</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Street vendors and shops</field>
+    <field name="unittitle_teim">Street vendors and shops</field>
+    <field name="unitdate_teim">1938-1950</field>
+    <field name="ref_ssi">aspace_ref16_aoa</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 10-11</field>
+    <field name="location_ssm">Folder: 10-11</field>
+    <field name="location_si">Folder: 10-11</field>
+    <field name="collection_teim">Rebecca Lepkoff Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 295</field>
+    <field name="series_sim">Series I: 8 x 10 (and smaller) prints</field>
+    <field name="series_si">Series I: 8 x 10 (and smaller) prints &gt;&gt; Street vendors and shops</field>
+    <field name="heading_ssm">Street vendors and shops</field>
+    <field name="unitdate_ssm">1938-1950</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

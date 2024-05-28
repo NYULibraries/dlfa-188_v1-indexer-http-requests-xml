@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms78_brown_brothers_harrimanaspace_ref941_p82</field>
+    <field name="ead_ssi">ms78_brown_brothers_harriman</field>
+    <field name="parent_ssi">aspace_ref609_r9h</field>
+    <field name="parent_ssm">aspace_ref1_vi4</field>
+    <field name="parent_ssm">aspace_ref4_8hl</field>
+    <field name="parent_ssm">aspace_ref609_r9h</field>
+    <field name="parent_unittitles_ssm">Series I. Historical Files (1699-1974)</field>
+    <field name="parent_unittitles_ssm">Subseries C. People Files (pre-1600s -1973)</field>
+    <field name="parent_unittitles_ssm">Subseries C.v. Brown Family (1600s-1970)</field>
+    <field name="parent_unittitles_teim">Series I. Historical Files (1699-1974)</field>
+    <field name="parent_unittitles_teim">Subseries C. People Files (pre-1600s -1973)</field>
+    <field name="parent_unittitles_teim">Subseries C.v. Brown Family (1600s-1970)</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brown Brothers Harriman records</field>
+    <field name="collection_ssm">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_ssm">MS 78</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Magoun family, James B. Markoe, Arthur L. Nash, Harmon Browns </field>
+    <field name="unittitle_teim">Magoun family, James B. Markoe, Arthur L. Nash, Harmon Browns </field>
+    <field name="unitdate_normal_ssm">1600/1933</field>
+    <field name="unitdate_normal_teim">1600/1933</field>
+    <field name="unitdate_normal_sim">1600/1933</field>
+    <field name="unitdate_inclusive_teim">1600-1933</field>
+    <field name="ref_ssi">aspace_ref941_p82</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 63, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_teim">MS 78</field>
+    <field name="series_sim">Series I. Historical Files (1699-1974)</field>
+    <field name="series_sim">Subseries C. People Files (pre-1600s -1973)</field>
+    <field name="series_sim">Subseries C.v. Brown Family (1600s-1970)</field>
+    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries C. People Files (pre-1600s -1973) &gt;&gt; Subseries C.v. Brown Family (1600s-1970) &gt;&gt; Magoun family, James B. Markoe, Arthur L. Nash, Harmon Browns </field>
+    <field name="heading_ssm">Magoun family, James B. Markoe, Arthur L. Nash, Harmon Browns </field>
+    <field name="unitdate_start_sim">1600</field>
+    <field name="unitdate_start_ssm">1600</field>
+    <field name="unitdate_start_si">1600</field>
+    <field name="unitdate_end_sim">1933</field>
+    <field name="unitdate_end_ssm">1933</field>
+    <field name="unitdate_end_si">1933</field>
+    <field name="unitdate_ssm">Inclusive, 1600-1933</field>
+    <field name="date_range_sim">1501-1600</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1099</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms443_20_nursery_childs_hospitalaspace_ref36_q0n</field>
+    <field name="ead_ssi">ms443_20_nursery_childs_hospital</field>
+    <field name="parent_ssi">aspace_ref11_zsb</field>
+    <field name="parent_ssm">aspace_ref11_zsb</field>
+    <field name="parent_unittitles_ssm">Correspondence </field>
+    <field name="parent_unittitles_teim">Correspondence </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Nursery and Child's Hospital Records</field>
+    <field name="collection_ssm">Nursery and Child's Hospital Records</field>
+    <field name="collection_unitid_ssm">MS 443.20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence Relating to the Country Branch</field>
+    <field name="unittitle_teim">Correspondence Relating to the Country Branch</field>
+    <field name="unitdate_normal_ssm">1883/1919</field>
+    <field name="unitdate_normal_teim">1883/1919</field>
+    <field name="unitdate_normal_sim">1883/1919</field>
+    <field name="unitdate_inclusive_teim">1883-1919</field>
+    <field name="ref_ssi">aspace_ref36_q0n</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Nursery and Child's Hospital Records</field>
+    <field name="collection_unitid_teim">MS 443.20</field>
+    <field name="series_sim">Correspondence </field>
+    <field name="series_si">Correspondence  &gt;&gt; Correspondence Relating to the Country Branch</field>
+    <field name="heading_ssm">Correspondence Relating to the Country Branch</field>
+    <field name="unitdate_start_sim">1883</field>
+    <field name="unitdate_start_ssm">1883</field>
+    <field name="unitdate_start_si">1883</field>
+    <field name="unitdate_end_sim">1919</field>
+    <field name="unitdate_end_ssm">1919</field>
+    <field name="unitdate_end_si">1919</field>
+    <field name="unitdate_ssm">Inclusive, 1883-1919</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">14</field>
+  </doc>
+</add>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms381_leverich_familyaspace_ref454_oz9</field>
+    <field name="ead_ssi">ms381_leverich_family</field>
+    <field name="parent_ssi">aspace_ref336_3oc</field>
+    <field name="parent_ssm">aspace_ref336_3oc</field>
+    <field name="parent_unittitles_ssm">Series II. Business/Financial Papers </field>
+    <field name="parent_unittitles_teim">Series II. Business/Financial Papers </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Leverich family papers</field>
+    <field name="collection_ssm">Leverich family papers</field>
+    <field name="collection_unitid_ssm">MS 381</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 2: Bills, Receipts, Invoices, Transferable Orders for Cotton, Payrolls, Charges </field>
+    <field name="unittitle_teim">Subseries 2: Bills, Receipts, Invoices, Transferable Orders for Cotton, Payrolls, Charges </field>
+    <field name="unitdate_teim">1825-1890</field>
+    <field name="scopecontent_teim">Contains material that concerns the exchange of goods and services for cash or, more simply put, those transactions of more of a singular nature. The utility of integrating these forms in a single series is that the same document may at different times have served more than one function: an itemized list of goods may have, at the bottom of the sheet, a request for remittance, and below the request, written at a later date, the notation "Recd. Payment". Such an item would have been created as an invoice, submitted as a bill, and been returned to the debtor as a receipt after the creditor had received payment. This section includes bills, receipts (acknowledgments of payment), and invoices paid by Leverich &amp; Co. in its own right as well as bills paid by the firm on behalf of its clients. It also includes household bills of the various Leverich households. Transferable Orders for Cotton are orders to one firm to deliver cotton at a given date at a given price. Charges are costs associated with specific shipments of goods.</field>
+    <field name="ref_ssi">aspace_ref454_oz9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Leverich family papers</field>
+    <field name="collection_unitid_teim">MS 381</field>
+    <field name="series_sim">Series II. Business/Financial Papers </field>
+    <field name="series_si">Series II. Business/Financial Papers  &gt;&gt; Subseries 2: Bills, Receipts, Invoices, Transferable Orders for Cotton, Payrolls, Charges </field>
+    <field name="heading_ssm">Subseries 2: Bills, Receipts, Invoices, Transferable Orders for Cotton, Payrolls, Charges </field>
+    <field name="unitdate_ssm">1825-1890</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">430</field>
+  </doc>
+</add>

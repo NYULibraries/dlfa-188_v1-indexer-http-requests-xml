@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref345_jsw</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Album of landscapes, ships and boats]</field>
+    <field name="unittitle_teim">[Album of landscapes, ships and boats]</field>
+    <field name="unitdate_inclusive_teim">[1900]</field>
+    <field name="scopecontent_teim">Landscapes including streets and rural roads, a small river [Bronx?] including view of African American man on horseback with other horses standing in the river and winter scenes; Grant's Tomb including night illumination; battleships, row boat and moored sailboat on the Hudson; dock scene with passenger ship; sailboat passing swiftly under full sail; porch of house with decorative woodwork; portrait of a dog.</field>
+    <field name="ref_ssi">aspace_ref345_jsw</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 11, Volume: 107</field>
+    <field name="location_ssm">Volume: 107</field>
+    <field name="location_si">Volume: 107</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Album of landscapes, ships and boats]</field>
+    <field name="heading_ssm">[Album of landscapes, ships and boats]</field>
+    <field name="unitdate_ssm">Inclusive, [1900]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">115</field>
+  </doc>
+</add>

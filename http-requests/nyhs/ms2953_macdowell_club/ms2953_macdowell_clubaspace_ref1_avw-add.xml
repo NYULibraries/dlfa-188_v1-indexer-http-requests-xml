@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2953_macdowell_clubaspace_ref1_avw</field>
+    <field name="ead_ssi">ms2953_macdowell_club</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">MacDowell Club of New York City records</field>
+    <field name="collection_ssm">MacDowell Club of New York City records</field>
+    <field name="collection_unitid_ssm">MS 2953</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Minutes</field>
+    <field name="unittitle_teim">Series I: Minutes</field>
+    <field name="scopecontent_teim">This series includes a complete set of the minutes of monthly, annual and special meetings of the directors of the MacDowell Club of New York City from the time of its inception until it was dissolved. Minutes of some meetings of several of the club's special committees (Admissions Committee, House Committee, and Student Fund Committee) are also included.</field>
+    <field name="scopecontent_teim">The minutes, originally stored in binders, have been disbound and rehoused in folders.  Loose ephemera and correspondence found in several of the earlier binders will be found in Series IV, Scrapbooks and Ephemera.</field>
+    <field name="ref_ssi">aspace_ref1_avw</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">MacDowell Club of New York City records</field>
+    <field name="collection_unitid_teim">MS 2953</field>
+    <field name="series_si">Series I: Minutes</field>
+    <field name="heading_ssm">Series I: Minutes</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

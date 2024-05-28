@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr104_theatrical_portrait_collectionaspace_6e005445f5fa01fb6c9c8ddf2491222c</field>
+    <field name="ead_ssi">pr104_theatrical_portrait_collection</field>
+    <field name="parent_ssi">aspace_6665db81c730cd9b83340c3add4fadce</field>
+    <field name="parent_ssm">aspace_c6f2ecc414d05d579688b6795c08aa32</field>
+    <field name="parent_ssm">aspace_6665db81c730cd9b83340c3add4fadce</field>
+    <field name="parent_unittitles_ssm">Series IV. Productions</field>
+    <field name="parent_unittitles_ssm">Subseries IV.A. Productions (small format)</field>
+    <field name="parent_unittitles_teim">Series IV. Productions</field>
+    <field name="parent_unittitles_teim">Subseries IV.A. Productions (small format)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_ssm">PR 104</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Theatre (small)</field>
+    <field name="unittitle_teim">Theatre (small)</field>
+    <field name="unitdate_inclusive_teim">1875-1917, undated</field>
+    <field name="scopecontent_teim">"Geisha," 1907
+"Genevieve de Brabant," undated
+"The Highest Bidder," undated 
+"King John," undated 
+"Living Art Studies," 1901 
+"Miss Multon," 1876 
+"Our Boarding House," 1877 
+"Pique," 1875–76 
+"The Private Secretary," 1885 
+"Romeo and Juliet," undated 
+"Sweet Lavender," 1888 
+"Trilby," 1895 
+"Uncle Tom's Cabin," undated 
+"Wanderer," 1917</field>
+    <field name="ref_ssi">aspace_6e005445f5fa01fb6c9c8ddf2491222c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 44</field>
+    <field name="location_si">Offsite-Box: 44</field>
+    <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_teim">PR 104</field>
+    <field name="series_sim">Series IV. Productions</field>
+    <field name="series_sim">Subseries IV.A. Productions (small format)</field>
+    <field name="series_si">Series IV. Productions &gt;&gt; Subseries IV.A. Productions (small format) &gt;&gt; Theatre (small)</field>
+    <field name="heading_ssm">Theatre (small)</field>
+    <field name="unitdate_ssm">Inclusive, 1875-1917, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">98</field>
+  </doc>
+</add>

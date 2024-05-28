@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_7ce0db63c5bec3c23e8fbd2b42bd469b</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_9d4d0c87433e68ecb623dbb590c0508a</field>
+    <field name="parent_ssm">aspace_bbc508e612d1f4bba6232147b4bc0512</field>
+    <field name="parent_ssm">aspace_9d4d0c87433e68ecb623dbb590c0508a</field>
+    <field name="parent_unittitles_ssm">Series V. Sales Tickets and Invoices</field>
+    <field name="parent_unittitles_ssm">Subseries V.C. Client Invoices</field>
+    <field name="parent_unittitles_teim">Series V. Sales Tickets and Invoices</field>
+    <field name="parent_unittitles_teim">Subseries V.C. Client Invoices</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Client invoices</field>
+    <field name="unittitle_teim">Client invoices</field>
+    <field name="unitdate_inclusive_teim">1951-1952</field>
+    <field name="scopecontent_teim">The box holds three stacks of bills numbered 21079-22332 (Sept 1951-Nov 1951), 22333-23741 (Dec 1951-Feb 1952), 23742-24913 (March 1952-May 1952).</field>
+    <field name="ref_ssi">aspace_7ce0db63c5bec3c23e8fbd2b42bd469b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 165</field>
+    <field name="location_si">Offsite-Box: 165</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series V. Sales Tickets and Invoices</field>
+    <field name="series_sim">Subseries V.C. Client Invoices</field>
+    <field name="series_si">Series V. Sales Tickets and Invoices &gt;&gt; Subseries V.C. Client Invoices &gt;&gt; Client invoices</field>
+    <field name="heading_ssm">Client invoices</field>
+    <field name="unitdate_ssm">Inclusive, 1951-1952</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">204</field>
+  </doc>
+</add>

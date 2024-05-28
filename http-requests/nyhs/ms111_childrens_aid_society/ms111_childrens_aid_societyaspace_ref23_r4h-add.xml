@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref23_r4h</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref3_3sw</field>
+    <field name="parent_ssm">aspace_ref3_3sw</field>
+    <field name="parent_unittitles_ssm">Series III - Reports</field>
+    <field name="parent_unittitles_teim">Series III - Reports</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III.3 - Reports to Supervisory Agencies and Other Organizations</field>
+    <field name="unittitle_teim">Subseries III.3 - Reports to Supervisory Agencies and Other Organizations</field>
+    <field name="unitdate_normal_ssm">1873/1937</field>
+    <field name="unitdate_normal_teim">1873/1937</field>
+    <field name="unitdate_normal_sim">1873/1937</field>
+    <field name="unitdate_inclusive_teim">1873-1937</field>
+    <field name="scopecontent_teim">Subseries III.3 contains reports to supervisory agencies, written in fulfillment of annual requirements, and reports to other organizations. The subseries is divided into 4 sub-subseries, each arranged chronologically.</field>
+    <field name="scopecontent_teim">III.3.A contains Reports to the State Board of Charities 1873-1929 (missing 1874-1876, 1878-1880, 1896, and 1919-1921).</field>
+    <field name="scopecontent_teim">III.3.B contains Reports to the State Department of Social Welfare (the subsequent name for the State Board of Charities, and a continuation of the reports in the previous sub-subseries) 1930-1937. The reports in the first two subseries give a thorough statistical accounting of the work of the Children's Aid Society.</field>
+    <field name="scopecontent_teim">III.3.C contains Reports to the New York City Department of Finance 1920, 1921, and 1926.</field>
+    <field name="scopecontent_teim">III.3.D contains two other reports: a Report to the Council of the Association for Improving the Condition of the Poor 1923, and a Report to the Trustees of Mrs. Kane's Estate, "Supervised Playgrounds," requesting allocation of funds for a self-supporting girl's club and apartment (circa 1927). </field>
+    <field name="ref_ssi">aspace_ref23_r4h</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series III - Reports</field>
+    <field name="series_si">Series III - Reports &gt;&gt; Subseries III.3 - Reports to Supervisory Agencies and Other Organizations</field>
+    <field name="heading_ssm">Subseries III.3 - Reports to Supervisory Agencies and Other Organizations</field>
+    <field name="unitdate_start_sim">1873</field>
+    <field name="unitdate_start_ssm">1873</field>
+    <field name="unitdate_start_si">1873</field>
+    <field name="unitdate_end_sim">1937</field>
+    <field name="unitdate_end_ssm">1937</field>
+    <field name="unitdate_end_si">1937</field>
+    <field name="unitdate_ssm">Inclusive, 1873-1937</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">271</field>
+  </doc>
+</add>

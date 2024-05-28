@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg19aspace_ref809_6qc</field>
+    <field name="ead_ssi">timeinc_ms3009_rg19</field>
+    <field name="parent_ssi">aspace_ref751_grw</field>
+    <field name="parent_ssm">aspace_ref751_grw</field>
+    <field name="parent_unittitles_ssm">Series IX. General Files</field>
+    <field name="parent_unittitles_teim">Series IX. General Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Time Inc. Corporate Public Affairs Department Records</field>
+    <field name="collection_ssm">Time Inc. Corporate Public Affairs Department Records</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 19</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IX.F. Weekly News Clippings</field>
+    <field name="unittitle_teim">Subseries IX.F. Weekly News Clippings</field>
+    <field name="unitdate_inclusive_teim">1970-1999</field>
+    <field name="scopecontent_teim">Weekly News Clippings contains packets of copied news clips for distribution regarding magazines, departments, or subsidiaries of Time Inc. Many packets include cover sheets showing they were compiled by Louis Slovinsky.</field>
+    <field name="scopecontent_teim">Weekly Press Reports are a continuation of the news clippings packets, but on microfilm. The dates refer to the original material and not the date of microfilm creation. Not all months or years within the range are present. Overlapping dates with the physical packets may mean there is some duplication.</field>
+    <field name="scopecontent_teim">News clippings in the Time Inc. Publicity Files (MS 3009-RG 46) may have been an earlier version of this practice of compilation.</field>
+    <field name="ref_ssi">aspace_ref809_6qc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Time Inc. Corporate Public Affairs Department Records</field>
+    <field name="collection_unitid_teim">MS 3009-RG 19</field>
+    <field name="series_sim">Series IX. General Files</field>
+    <field name="series_si">Series IX. General Files &gt;&gt; Subseries IX.F. Weekly News Clippings</field>
+    <field name="heading_ssm">Subseries IX.F. Weekly News Clippings</field>
+    <field name="unitdate_ssm">Inclusive, 1970-1999</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1080</field>
+  </doc>
+</add>

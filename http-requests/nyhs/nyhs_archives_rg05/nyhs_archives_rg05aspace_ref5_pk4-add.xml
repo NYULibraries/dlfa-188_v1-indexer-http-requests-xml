@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg05aspace_ref5_pk4</field>
+    <field name="ead_ssi">nyhs_archives_rg05</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society pictorial archive</field>
+    <field name="collection_ssm">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_ssm">NYHS-RG 5</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Events &amp;amp; Publicity</field>
+    <field name="unittitle_teim">Series V: Events &amp; Publicity</field>
+    <field name="unitdate_normal_ssm">1939/1995</field>
+    <field name="unitdate_normal_teim">1939/1995</field>
+    <field name="unitdate_normal_sim">1939/1995</field>
+    <field name="unitdate_inclusive_teim">1854, 1939-2000s?</field>
+    <field name="scopecontent_teim">This series includes photographs of events held by N-YHS that involved public audiences, though sometimes only to a limited or invited extent, or were of a publicity nature. These events included N-YHS's Strawberry Festival, an annual springtime affair for members, and the St. Nicholas Festival, a longtime tradition of jointly celebrating the December holiday from a Netherlands and New Netherlands perspective and N-YHS's anniversary. Other events include presentations of donated objects, N-YHS's sesquicentennial anniversary dinner and reception; commercial photo shoots using N-YHS galleries and objects as backdrop; medal awards; and the History Maker's Gala fundraisers of the 1980s, among others. The series also holds a small number of posters, signage, and other such graphic materials related to N-YHS sponsored events.</field>
+    <field name="ref_ssi">aspace_ref5_pk4</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_teim">NYHS-RG 5</field>
+    <field name="series_si">Series V: Events &amp;amp; Publicity</field>
+    <field name="heading_ssm">Series V: Events &amp; Publicity</field>
+    <field name="unitdate_start_sim">1939</field>
+    <field name="unitdate_start_ssm">1939</field>
+    <field name="unitdate_start_si">1939</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, 1854, 1939-2000s?</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">245</field>
+  </doc>
+</add>

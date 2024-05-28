@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms171_dodd_meadaspace_07b24a21aee442816842d26b1e4511da</field>
+    <field name="ead_ssi">ms171_dodd_mead</field>
+    <field name="parent_ssi">aspace_761800b464b4e59dabef24f37ab2a021</field>
+    <field name="parent_ssm">aspace_91749d10f32a3c0905e7cf805639054c</field>
+    <field name="parent_ssm">aspace_761800b464b4e59dabef24f37ab2a021</field>
+    <field name="parent_unittitles_ssm">Series IV. Publication Records</field>
+    <field name="parent_unittitles_ssm">Subseries IV.B. Copyright Records</field>
+    <field name="parent_unittitles_teim">Series IV. Publication Records</field>
+    <field name="parent_unittitles_teim">Subseries IV.B. Copyright Records</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_ssm">MS 171</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Copyright Cards</field>
+    <field name="unittitle_teim">Copyright Cards</field>
+    <field name="unitdate_teim">1890-1940s</field>
+    <field name="scopecontent_teim">This box contains Library of Congress copyright acknowledgement cards, sorted alphabetically by author from the late 1800s through the 1940s. The cards are divided into three index card size boxes: A-G, H-P, P-Z. The box contains two additional index card size boxes. These additional boxes have subjects with corresponding partial quotes from a specified book (their organization and purpose is unclear and uncontextualized).</field>
+    <field name="ref_ssi">aspace_07b24a21aee442816842d26b1e4511da</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 9</field>
+    <field name="location_si">Offsite-Box: 9</field>
+    <field name="collection_teim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_teim">MS 171</field>
+    <field name="series_sim">Series IV. Publication Records</field>
+    <field name="series_sim">Subseries IV.B. Copyright Records</field>
+    <field name="series_si">Series IV. Publication Records &gt;&gt; Subseries IV.B. Copyright Records &gt;&gt; Copyright Cards</field>
+    <field name="heading_ssm">Copyright Cards</field>
+    <field name="unitdate_ssm">1890-1940s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">124</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms23_artists_fund_societyaspace_ref19_h4d</field>
+    <field name="ead_ssi">ms23_artists_fund_society</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Artists' Fund Society records</field>
+    <field name="collection_ssm">Artists' Fund Society records</field>
+    <field name="collection_unitid_ssm">MS 23</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV: Reports</field>
+    <field name="unittitle_teim">Series IV: Reports</field>
+    <field name="scopecontent_teim">Reports are grouped by type. With the exception of Biennial Reports (which were formally published), most of these reports are hand written or typed drafts with hand written corrections and notations. The presidential and secretarial reports appear to be speeches that were read at the annual meeting or dinner. These reports discuss the overall health and activities of the organization, note deaths of members, and welcome new members.</field>
+    <field name="ref_ssi">aspace_ref19_h4d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Artists' Fund Society records</field>
+    <field name="collection_unitid_teim">MS 23</field>
+    <field name="series_si">Series IV: Reports</field>
+    <field name="heading_ssm">Series IV: Reports</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">42</field>
+  </doc>
+</add>

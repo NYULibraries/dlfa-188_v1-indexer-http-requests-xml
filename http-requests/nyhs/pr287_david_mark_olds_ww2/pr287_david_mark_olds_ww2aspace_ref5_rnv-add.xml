@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr287_david_mark_olds_ww2aspace_ref5_rnv</field>
+    <field name="ead_ssi">pr287_david_mark_olds_ww2</field>
+    <field name="parent_ssi">aspace_ref8_ipk</field>
+    <field name="parent_ssm">aspace_ref8_ipk</field>
+    <field name="parent_unittitles_ssm">Series II: Documents</field>
+    <field name="parent_unittitles_teim">Series II: Documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Mark Olds World War II Collection</field>
+    <field name="collection_ssm">David Mark Olds World War II Collection</field>
+    <field name="collection_unitid_ssm">PR 287</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Olds military papers</field>
+    <field name="unittitle_teim">Olds military papers</field>
+    <field name="unitdate_teim">1943, 1946, undated</field>
+    <field name="scopecontent_teim">Contains "Journal of the 3255 Signal Service Company in Europe 44/45," soldier orientation documents, military separation records, military course certificate, and presidential memorial certificate.</field>
+    <field name="ref_ssi">aspace_ref5_rnv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">David Mark Olds World War II Collection</field>
+    <field name="collection_unitid_teim">PR 287</field>
+    <field name="series_sim">Series II: Documents</field>
+    <field name="series_si">Series II: Documents &gt;&gt; Olds military papers</field>
+    <field name="heading_ssm">Olds military papers</field>
+    <field name="unitdate_ssm">1943, 1946, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

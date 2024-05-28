@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref148_pla</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Massachusetts--Provincetown</field>
+    <field name="unittitle_teim">Massachusetts--Provincetown</field>
+    <field name="unitdate_inclusive_teim">[1870-1889]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0134</field>
+    <field name="scopecontent_teim">Provincetown: harbor views showing wharves, buildings and church beyond, fishing fleet drying sails after a gale, sailboat (sharpie?) in front of Central House, people on porch and balcony, men on the deck of snow and ice-covered ship; whale on the beach; Highland lighthouse; group at old mill at Highland; group of men (two smoking pipes) on a bench or standing nearby: "The Log Committee"</field>
+    <field name="scopecontent_teim">9 items</field>
+    <field name="ref_ssi">aspace_ref148_pla</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 16</field>
+    <field name="location_si">Box: 16</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Massachusetts--Provincetown</field>
+    <field name="heading_ssm">Massachusetts--Provincetown</field>
+    <field name="unitdate_ssm">Inclusive, [1870-1889]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">135</field>
+  </doc>
+</add>

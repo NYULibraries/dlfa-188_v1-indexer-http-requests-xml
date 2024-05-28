@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_08ac7e3502e60fdd72c291cdba63e7c2</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_face29138a306a1834b170b0c3223924</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_face29138a306a1834b170b0c3223924</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Tiles, Dutch</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Tiles, Dutch</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ten Dutch tiles depicting Biblical scenes</field>
+    <field name="unittitle_teim">Ten Dutch tiles depicting Biblical scenes</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">Ten original Dutch tiles, each about 5 x 5", depicting Biblical scenes; framed.
+
+There is some question as to the provenance of these tiles. According to an article appearing in the school newspaper, The Dutchman, Apr. 3, 1936 (filed in folder marked "Fireplace," Records Case, Drawer 6), these tiles originally graced the fireplace of Erasmus Hall Academy, installed in 1787. However, there is good reason to believe that these tiles actually came from the fireplace in the old Zabriskie homestead which stood for almost 200 years on the northwest corner of Flatbush and Church Avenues, Brooklyn, until its demolition in 1877. The wooden frame is stamped in the lower right corner: "J.L.Z. 12.VI.1896." This is undoubtedly Reverend Jeremiah Lott Zabriskie (b. 1835) of Flatbush, who, according to Flatbush of To-Day (issued by All Souls Universalist Church, 1908, p. 141), owned the original tiles from the Zabriskie homestead, which were described as depicting events in Biblical history. He had apparently imbedded some of the tiles in the fireplace of his own home in 1886, where they remained in 1908; but these tiles framed in 1896 were undoubtedly also from the Zabriskie homestead.
+
+Further corroboration for this belief is found in the fact that many Zabriskie family heirlooms were donated to Erasmus Hall High School by Miss Louise Garvin Zabriskie. Among these are two wooden canisters made from beams in the old Zabriskie homestead, one of which bears the stamped inscription "J.L.Z. 1902." So it appears that Rev. Zabriskie was engaged in producing "souvenirs" of the old homestead for display, and embellishing them with his initials.</field>
+    <field name="ref_ssi">aspace_08ac7e3502e60fdd72c291cdba63e7c2</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-10c, frame: Wooden frame holding 10 tiles</field>
+    <field name="location_ssm">frame: Wooden frame holding 10 tiles</field>
+    <field name="location_si">frame: Wooden frame holding 10 tiles</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Tiles, Dutch</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Tiles, Dutch &gt;&gt; Ten Dutch tiles depicting Biblical scenes</field>
+    <field name="heading_ssm">Ten Dutch tiles depicting Biblical scenes</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">875</field>
+  </doc>
+</add>

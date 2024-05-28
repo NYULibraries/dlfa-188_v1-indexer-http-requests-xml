@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr050_photographer_fileaspace_ref76_ort</field>
+    <field name="ead_ssi">pr050_photographer_file</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Photographer File</field>
+    <field name="collection_ssm">Photographer File</field>
+    <field name="collection_unitid_ssm">PR 50</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Nappi, Peter</field>
+    <field name="unittitle_teim">Nappi, Peter</field>
+    <field name="ref_ssi">aspace_ref76_ort</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Photographer File</field>
+    <field name="collection_unitid_teim">PR 50</field>
+    <field name="series_si">Nappi, Peter</field>
+    <field name="heading_ssm">Nappi, Peter</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">132</field>
+  </doc>
+</add>

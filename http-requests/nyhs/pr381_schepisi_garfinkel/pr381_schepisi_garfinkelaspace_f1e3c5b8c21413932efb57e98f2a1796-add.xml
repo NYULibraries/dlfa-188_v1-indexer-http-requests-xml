@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr381_schepisi_garfinkelaspace_f1e3c5b8c21413932efb57e98f2a1796</field>
+    <field name="ead_ssi">pr381_schepisi_garfinkel</field>
+    <field name="parent_ssi">aspace_c6cb631d21361e6dbf73cbf643ce2a69</field>
+    <field name="parent_ssm">aspace_c6cb631d21361e6dbf73cbf643ce2a69</field>
+    <field name="parent_unittitles_ssm">Series II: André de Dienes photographs</field>
+    <field name="parent_unittitles_teim">Series II: André de Dienes photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_ssm">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 381</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Marilyn Monroe</field>
+    <field name="unittitle_teim">Marilyn Monroe</field>
+    <field name="unitdate_inclusive_teim">1945-1953</field>
+    <field name="ref_ssi">aspace_f1e3c5b8c21413932efb57e98f2a1796</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_unitid_teim">PR 381</field>
+    <field name="series_sim">Series II: André de Dienes photographs</field>
+    <field name="series_si">Series II: André de Dienes photographs &gt;&gt; Marilyn Monroe</field>
+    <field name="heading_ssm">Marilyn Monroe</field>
+    <field name="unitdate_ssm">Inclusive, 1945-1953</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">13</field>
+  </doc>
+</add>

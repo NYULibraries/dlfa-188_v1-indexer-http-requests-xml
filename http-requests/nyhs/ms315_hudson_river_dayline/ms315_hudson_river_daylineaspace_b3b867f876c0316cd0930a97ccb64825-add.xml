@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms315_hudson_river_daylineaspace_b3b867f876c0316cd0930a97ccb64825</field>
+    <field name="ead_ssi">ms315_hudson_river_dayline</field>
+    <field name="parent_ssi">aspace_9d3a440828ef7106d8b5f221d3588d09</field>
+    <field name="parent_ssm">aspace_9d3a440828ef7106d8b5f221d3588d09</field>
+    <field name="parent_unittitles_ssm">Series II. Bound Volumes</field>
+    <field name="parent_unittitles_teim">Series II. Bound Volumes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hudson River Day Line records</field>
+    <field name="collection_ssm">Hudson River Day Line records</field>
+    <field name="collection_unitid_ssm">MS 315</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Passengers received and landed</field>
+    <field name="unittitle_teim">Passengers received and landed</field>
+    <field name="unitdate_inclusive_teim">1902-1915?</field>
+    <field name="scopecontent_teim">Sequence numbers 347-349 are a set of volumes with date span of about 1902-1915 and possibly into the 1920s.</field>
+    <field name="ref_ssi">aspace_b3b867f876c0316cd0930a97ccb64825</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: HR-96, Volume: SN-347</field>
+    <field name="location_ssm">Volume: SN-347</field>
+    <field name="location_si">Volume: SN-347</field>
+    <field name="collection_teim">Hudson River Day Line records</field>
+    <field name="collection_unitid_teim">MS 315</field>
+    <field name="series_sim">Series II. Bound Volumes</field>
+    <field name="series_si">Series II. Bound Volumes &gt;&gt; Passengers received and landed</field>
+    <field name="heading_ssm">Passengers received and landed</field>
+    <field name="unitdate_ssm">Inclusive, 1902-1915?</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">402</field>
+  </doc>
+</add>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms444_nyc100_recordsaspace_ref159_8pf</field>
+    <field name="ead_ssi">ms444_nyc100_records</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The New York City 100 Records</field>
+    <field name="collection_ssm">The New York City 100 Records</field>
+    <field name="collection_unitid_ssm">MS 444</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series X: Educational Outreach</field>
+    <field name="unittitle_teim">Series X: Educational Outreach</field>
+    <field name="unitdate_normal_ssm">1998/2001</field>
+    <field name="unitdate_normal_teim">1998/2001</field>
+    <field name="unitdate_normal_sim">1998/2001</field>
+    <field name="unitdate_inclusive_teim">1998-2001</field>
+    <field name="scopecontent_teim">A collaboration of The New-York Historical Society and The New York Board of Education, with the assistance of many contributors, produced two resource manuals for New York City school teachers, one in 1998 and one in 2000.  The first (Box 7, Folder 3) provides students from elementary through high school with New York City historical content to complement their social studies and history curricula, focusing on the development of research skills.  The second (Box 7, Folder 5) contains maps, charts and tables, time lines, photographs and a wealth of primary and secondary sources to be used by teachers of all grades.  Its primary subject is immigration and it is subdivided into segments such as "Leaving Home", " The Journey", "Preserving Cultural Identity", "Assimilation", and "Next Generations." In addition to copies of the manuals, this series contains correspondence (Box 7, Folder 4) that includes thank you letters from both the Mayor and the Deputy Mayor.</field>
+    <field name="ref_ssi">aspace_ref159_8pf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 7</field>
+    <field name="location_si">Box: 7</field>
+    <field name="collection_teim">The New York City 100 Records</field>
+    <field name="collection_unitid_teim">MS 444</field>
+    <field name="series_si">Series X: Educational Outreach</field>
+    <field name="heading_ssm">Series X: Educational Outreach</field>
+    <field name="unitdate_start_sim">1998</field>
+    <field name="unitdate_start_ssm">1998</field>
+    <field name="unitdate_start_si">1998</field>
+    <field name="unitdate_end_sim">2001</field>
+    <field name="unitdate_end_ssm">2001</field>
+    <field name="unitdate_end_si">2001</field>
+    <field name="unitdate_ssm">Inclusive, 1998-2001</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">125</field>
+  </doc>
+</add>

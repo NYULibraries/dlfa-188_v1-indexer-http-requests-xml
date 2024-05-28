@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr381_schepisi_garfinkelaspace_05616d24ad6a3c3812152e90a689b6df</field>
+    <field name="ead_ssi">pr381_schepisi_garfinkel</field>
+    <field name="parent_ssi">aspace_db6fe639f21e08b276a776baa37c96b1</field>
+    <field name="parent_ssm">aspace_db6fe639f21e08b276a776baa37c96b1</field>
+    <field name="parent_unittitles_ssm">Series I: Black Star Agency photographs</field>
+    <field name="parent_unittitles_teim">Series I: Black Star Agency photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_ssm">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 381</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Portraits H-L</field>
+    <field name="unittitle_teim">Portraits H-L</field>
+    <field name="unitdate_inclusive_teim">1977-1984</field>
+    <field name="scopecontent_teim">Charlton Heston</field>
+    <field name="scopecontent_teim">Finola Hughes</field>
+    <field name="scopecontent_teim">Diane Keaton</field>
+    <field name="scopecontent_teim">Kennedy Family</field>
+    <field name="scopecontent_teim">Ayatollah Khomeini</field>
+    <field name="scopecontent_teim">Ed Koch</field>
+    <field name="scopecontent_teim">Jerry Lewis</field>
+    <field name="ref_ssi">aspace_05616d24ad6a3c3812152e90a689b6df</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_unitid_teim">PR 381</field>
+    <field name="series_sim">Series I: Black Star Agency photographs</field>
+    <field name="series_si">Series I: Black Star Agency photographs &gt;&gt; Portraits H-L</field>
+    <field name="heading_ssm">Portraits H-L</field>
+    <field name="unitdate_ssm">Inclusive, 1977-1984</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

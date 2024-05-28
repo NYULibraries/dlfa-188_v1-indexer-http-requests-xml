@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms565_franz_sigelaspace_ref103_udo</field>
+    <field name="ead_ssi">ms565_franz_sigel</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Franz Sigel papers</field>
+    <field name="collection_ssm">Franz Sigel papers</field>
+    <field name="collection_unitid_ssm">MS 565</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII: Sigel Family Papers</field>
+    <field name="unittitle_teim">Series VII: Sigel Family Papers</field>
+    <field name="unitdate_normal_ssm">1806/1915</field>
+    <field name="unitdate_normal_teim">1806/1915</field>
+    <field name="unitdate_normal_sim">1806/1915</field>
+    <field name="unitdate_inclusive_teim">1806-1915, undated</field>
+    <field name="scopecontent_teim">Within this series there are three subseries. The documents contained within this series are in both English and German, with the bulk of German in the first two subseries. There are letters, telegrams, and some official documents.</field>
+    <field name="ref_ssi">aspace_ref103_udo</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Franz Sigel papers</field>
+    <field name="collection_unitid_teim">MS 565</field>
+    <field name="series_si">Series VII: Sigel Family Papers</field>
+    <field name="heading_ssm">Series VII: Sigel Family Papers</field>
+    <field name="unitdate_start_sim">1806</field>
+    <field name="unitdate_start_ssm">1806</field>
+    <field name="unitdate_start_si">1806</field>
+    <field name="unitdate_end_sim">1915</field>
+    <field name="unitdate_end_ssm">1915</field>
+    <field name="unitdate_end_si">1915</field>
+    <field name="unitdate_ssm">Inclusive, 1806-1915, undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">117</field>
+  </doc>
+</add>

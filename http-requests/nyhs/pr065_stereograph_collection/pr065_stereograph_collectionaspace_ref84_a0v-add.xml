@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref84_a0v</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Florida</field>
+    <field name="unittitle_teim">Florida</field>
+    <field name="unitdate_inclusive_teim">[1870] - 1904</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0073</field>
+    <field name="scopecontent_teim">Views in Florida: plants and scenery, including Spanish moss-covered trees, orange and lemon trees, including views of people picnicking under the oranges, and an African American man picking oranges, a large century plant, coconut palms;  men shooting alligators, and with dead alligator, and an alligator on bank of river; homes; log cabins with shake roof, African Americans out front; two African American women on an ox drawn cart; African American men with cart drawn by three oxen; hotels, including an interior view of Tampa Bay Hotel Parlor; bathers at Palm Beach; river and swamp near Enterprise; plantation scenes on Ft. George Island, including old slave quarters, families in a field; Gainesville: general view, and African American man riding mule hitched to a cart;  couple in a cart; the U.S. Coast Survey schooner Torrey at railroad landing, St. Marks; ruins of Fort Mantanzas.</field>
+    <field name="scopecontent_teim">37 items</field>
+    <field name="ref_ssi">aspace_ref84_a0v</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10</field>
+    <field name="location_si">Box: 10</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Florida</field>
+    <field name="heading_ssm">Florida</field>
+    <field name="unitdate_ssm">Inclusive, [1870] - 1904</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">74</field>
+  </doc>
+</add>

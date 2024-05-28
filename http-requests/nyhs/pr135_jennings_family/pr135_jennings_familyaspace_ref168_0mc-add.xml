@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr135_jennings_familyaspace_ref168_0mc</field>
+    <field name="ead_ssi">pr135_jennings_family</field>
+    <field name="parent_ssi">aspace_ref164_vwt</field>
+    <field name="parent_ssm">aspace_ref164_vwt</field>
+    <field name="parent_unittitles_ssm">Series IV: Short Hills and Summit, NJ</field>
+    <field name="parent_unittitles_teim">Series IV: Short Hills and Summit, NJ</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jennings Photograph Collection</field>
+    <field name="collection_ssm">Jennings Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 135</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Summit -- Residences</field>
+    <field name="unittitle_teim">Summit -- Residences</field>
+    <field name="unitdate_teim">1939, undated</field>
+    <field name="ref_ssi">aspace_ref168_0mc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">Jennings Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 135</field>
+    <field name="series_sim">Series IV: Short Hills and Summit, NJ</field>
+    <field name="series_si">Series IV: Short Hills and Summit, NJ &gt;&gt; Summit -- Residences</field>
+    <field name="heading_ssm">Summit -- Residences</field>
+    <field name="unitdate_ssm">1939, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">150</field>
+  </doc>
+</add>

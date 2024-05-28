@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms698_williams_family_papersaspace_ref51_mpd</field>
+    <field name="ead_ssi">ms698_williams_family_papers</field>
+    <field name="parent_ssi">aspace_ref50_uo2</field>
+    <field name="parent_ssm">aspace_ref50_uo2</field>
+    <field name="parent_unittitles_ssm">Series VII. Medical Inventories and Recipes</field>
+    <field name="parent_unittitles_teim">Series VII. Medical Inventories and Recipes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Williams Family papers</field>
+    <field name="collection_ssm">Williams Family papers</field>
+    <field name="collection_unitid_ssm">MS 698</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Medical Inventories and Recipes</field>
+    <field name="unittitle_teim">Medical Inventories and Recipes</field>
+    <field name="unitdate_teim">1748-1763, undated</field>
+    <field name="ref_ssi">aspace_ref51_mpd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Williams Family papers</field>
+    <field name="collection_unitid_teim">MS 698</field>
+    <field name="series_sim">Series VII. Medical Inventories and Recipes</field>
+    <field name="series_si">Series VII. Medical Inventories and Recipes &gt;&gt; Medical Inventories and Recipes</field>
+    <field name="heading_ssm">Medical Inventories and Recipes</field>
+    <field name="unitdate_ssm">1748-1763, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

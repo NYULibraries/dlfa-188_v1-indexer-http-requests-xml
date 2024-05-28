@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref1940_wds</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref13_zkp</field>
+    <field name="parent_ssm">aspace_ref13_zkp</field>
+    <field name="parent_unittitles_ssm">Series XIII - Photographs</field>
+    <field name="parent_unittitles_teim">Series XIII - Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries XIII.4 - Children, Streets, and Tenements</field>
+    <field name="unittitle_teim">Subseries XIII.4 - Children, Streets, and Tenements</field>
+    <field name="scopecontent_teim">This subseries consists of 1 small box of photographs, divided into two sub-subseries. XIII.4.A consists of portraits of children, taken by photographers hired by the CAS. XIII.4.B consists of images of tenements, taken by photographers working for the CAS. The photographs were commissioned so that the CAS might reproduce them in annual reports and other publications to demonstrate the types of children the CAS served, and to provide examples of urban living conditions.</field>
+    <field name="ref_ssi">aspace_ref1940_wds</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series XIII - Photographs</field>
+    <field name="series_si">Series XIII - Photographs &gt;&gt; Subseries XIII.4 - Children, Streets, and Tenements</field>
+    <field name="heading_ssm">Subseries XIII.4 - Children, Streets, and Tenements</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2298</field>
+  </doc>
+</add>

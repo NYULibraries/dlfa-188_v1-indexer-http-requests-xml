@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr111_cross_brownaspace_ref320_ovw</field>
+    <field name="ead_ssi">pr111_cross_brown</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Cross &amp; Brown Company architectural photograph collection</field>
+    <field name="collection_ssm">Cross &amp; Brown Company architectural photograph collection</field>
+    <field name="collection_unitid_ssm">PR 111</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Negatives</field>
+    <field name="unittitle_teim">Series II: Negatives</field>
+    <field name="scopecontent_teim">Series II is divided into three subseries: Manhattan Properties, New York State Properties, and Cross &amp; Brown Company photographs. The first two series span the years from the early 1970s until the beginning of the 1990s, while company photographs date exclusively from the 1980s. Manhattan properties are arranged alphabetically by street, followed numerically by numbered avenues and then numbered streets. New York State Properties are arranged alphabetically by town (or borough). As in Series I, buildings in New York City's outer boroughs are filed under New York State. Cross &amp; Brown Company photographs are filed by name of individual or event, as in Series I.</field>
+    <field name="ref_ssi">aspace_ref320_ovw</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Cross &amp; Brown Company architectural photograph collection</field>
+    <field name="collection_unitid_teim">PR 111</field>
+    <field name="series_si">Series II: Negatives</field>
+    <field name="heading_ssm">Series II: Negatives</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">307</field>
+  </doc>
+</add>

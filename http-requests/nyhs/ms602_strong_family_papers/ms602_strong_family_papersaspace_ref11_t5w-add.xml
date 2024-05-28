@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms602_strong_family_papersaspace_ref11_t5w</field>
+    <field name="ead_ssi">ms602_strong_family_papers</field>
+    <field name="parent_ssi">aspace_ref1_sk2</field>
+    <field name="parent_ssm">aspace_ref1_sk2</field>
+    <field name="parent_unittitles_ssm">Series I. Early Generations (1747-1848)</field>
+    <field name="parent_unittitles_teim">Series I. Early Generations (1747-1848)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Strong Family Papers</field>
+    <field name="collection_ssm">Strong Family Papers</field>
+    <field name="collection_unitid_ssm">MS 602</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence-Benjamin Strong to Thomas S. Strong</field>
+    <field name="unittitle_teim">Correspondence-Benjamin Strong to Thomas S. Strong</field>
+    <field name="unitdate_teim">1800-1839</field>
+    <field name="ref_ssi">aspace_ref11_t5w</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Strong Family Papers</field>
+    <field name="collection_unitid_teim">MS 602</field>
+    <field name="series_sim">Series I. Early Generations (1747-1848)</field>
+    <field name="series_si">Series I. Early Generations (1747-1848) &gt;&gt; Correspondence-Benjamin Strong to Thomas S. Strong</field>
+    <field name="heading_ssm">Correspondence-Benjamin Strong to Thomas S. Strong</field>
+    <field name="unitdate_ssm">1800-1839</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

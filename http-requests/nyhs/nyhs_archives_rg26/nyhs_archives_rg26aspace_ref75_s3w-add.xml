@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg26aspace_ref75_s3w</field>
+    <field name="ead_ssi">nyhs_archives_rg26</field>
+    <field name="parent_ssi">aspace_ref1_mj7</field>
+    <field name="parent_ssm">aspace_ref1_mj7</field>
+    <field name="parent_unittitles_ssm">Series I. Correspondence Files </field>
+    <field name="parent_unittitles_teim">Series I. Correspondence Files </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society museum store records</field>
+    <field name="collection_ssm">New-York Historical Society museum store records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 26</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Set 2. Memorandums</field>
+    <field name="unittitle_teim">Set 2. Memorandums</field>
+    <field name="unitdate_teim">1987-1991</field>
+    <field name="ref_ssi">aspace_ref75_s3w</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 5, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">New-York Historical Society museum store records</field>
+    <field name="collection_unitid_teim">NYHS-RG 26</field>
+    <field name="series_sim">Series I. Correspondence Files </field>
+    <field name="series_si">Series I. Correspondence Files  &gt;&gt; Set 2. Memorandums</field>
+    <field name="heading_ssm">Set 2. Memorandums</field>
+    <field name="unitdate_ssm">1987-1991</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

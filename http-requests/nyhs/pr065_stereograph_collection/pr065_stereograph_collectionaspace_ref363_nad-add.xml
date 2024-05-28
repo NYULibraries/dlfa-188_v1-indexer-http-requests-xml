@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref363_nad</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Residences -- Houses and homes, exterior</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Residences -- Houses and homes, exterior</field>
+    <field name="unitdate_inclusive_teim">[1865-1957]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0349</field>
+    <field name="scopecontent_teim">Houses and homes: unidentified group in garden at the rear of a house with an attached greenhouse just visible; Peter Cooper's House, Lexington Avenue at 22nd; Anton Dvorjak house, 327 E. 17th Street; Dyckman House, Broadway and 204th; backyard of the Leopold Eidlitz house, child in hammock and neighbor's house, side of the house and precipitous slope, looking over the Hudson , stairway in foreground; child with bicycle in front of Hamilton Grange, Convent Avenue; Morris-Jumel mansion, Jumel Terrace; Old Merchant's House, 29 E. 4th St.; A. T. Stewart's residence, 34th and Fifth Avenue; Vanderbilt residences on Fifth Avenue, including Mrs. Cornelius Vanderbilt's, later YIVO Institute for Jewish Studies.; W. K. Vanderbilt residence; Vanderbilt double houses on Fifth Avenue.</field>
+    <field name="scopecontent_teim">33 items</field>
+    <field name="ref_ssi">aspace_ref363_nad</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 33</field>
+    <field name="location_si">Box: 33</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Residences -- Houses and homes, exterior</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Residences -- Houses and homes, exterior</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1957]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">350</field>
+  </doc>
+</add>

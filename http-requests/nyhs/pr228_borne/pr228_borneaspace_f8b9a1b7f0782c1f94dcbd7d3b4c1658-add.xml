@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr228_borneaspace_f8b9a1b7f0782c1f94dcbd7d3b4c1658</field>
+    <field name="ead_ssi">pr228_borne</field>
+    <field name="parent_ssi">aspace_2acf625f5dbd23452d0a2a740e9909f0</field>
+    <field name="parent_ssm">aspace_2acf625f5dbd23452d0a2a740e9909f0</field>
+    <field name="parent_unittitles_ssm">Mortimer Borne drypoints</field>
+    <field name="parent_unittitles_teim">Mortimer Borne drypoints</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mortimer Borne drypoints</field>
+    <field name="collection_ssm">Mortimer Borne drypoints</field>
+    <field name="collection_unitid_ssm">PR 228</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Kew Gardens Landscape</field>
+    <field name="unittitle_teim">Kew Gardens Landscape</field>
+    <field name="unitdate_inclusive_teim">1945</field>
+    <field name="ref_ssi">aspace_f8b9a1b7f0782c1f94dcbd7d3b4c1658</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Mortimer Borne drypoints</field>
+    <field name="collection_unitid_teim">PR 228</field>
+    <field name="series_sim">Mortimer Borne drypoints</field>
+    <field name="series_si">Mortimer Borne drypoints &gt;&gt; Kew Gardens Landscape</field>
+    <field name="heading_ssm">Kew Gardens Landscape</field>
+    <field name="unitdate_ssm">Inclusive, 1945</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">44</field>
+  </doc>
+</add>

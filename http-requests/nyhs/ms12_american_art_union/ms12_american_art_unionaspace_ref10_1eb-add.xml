@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms12_american_art_unionaspace_ref10_1eb</field>
+    <field name="ead_ssi">ms12_american_art_union</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">American Art-Union records</field>
+    <field name="collection_ssm">American Art-Union records</field>
+    <field name="collection_unitid_ssm">MS 12</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Microfilm Reel List</field>
+    <field name="unittitle_teim">Microfilm Reel List</field>
+    <field name="scopecontent_teim">Following is a listing of the contents of the microfilm reels that contain the material in the box and bound volumes of the American Art-Union collection. Online version available to users affiliated with subscribing institutions via Gale Cengage Learning.</field>
+    <field name="ref_ssi">aspace_ref10_1eb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">American Art-Union records</field>
+    <field name="collection_unitid_teim">MS 12</field>
+    <field name="series_si">Microfilm Reel List</field>
+    <field name="heading_ssm">Microfilm Reel List</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

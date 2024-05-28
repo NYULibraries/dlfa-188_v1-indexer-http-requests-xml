@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms171_dodd_meadaspace_2a676017c0ef6e6c0071ce6e2d8ced55</field>
+    <field name="ead_ssi">ms171_dodd_mead</field>
+    <field name="parent_ssi">aspace_3084a8eededfc647e6ffcd32435833e4</field>
+    <field name="parent_ssm">aspace_0d6e00ceabf4b6678c76f9c505b224c2</field>
+    <field name="parent_ssm">aspace_3084a8eededfc647e6ffcd32435833e4</field>
+    <field name="parent_unittitles_ssm">Series II. Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="parent_unittitles_teim">Series II. Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_ssm">MS 171</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Securities Transactions (4 folders)</field>
+    <field name="unittitle_teim">Securities Transactions (4 folders)</field>
+    <field name="unitdate_inclusive_teim">1931-1933, 1939-1940</field>
+    <field name="scopecontent_teim">Investment-related confirmations and correspondence with Fifth Avenue Bank Trust Department and broker Plympton, Gardiner &amp; Co., 1931-1933. Also approved purchase list and other information about the Chemical Fund, Inc., with purchase confirmation, 1939-40.</field>
+    <field name="ref_ssi">aspace_2a676017c0ef6e6c0071ce6e2d8ced55</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 18, Folder: 11-14</field>
+    <field name="location_ssm">Folder: 11-14</field>
+    <field name="location_si">Folder: 11-14</field>
+    <field name="collection_teim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_teim">MS 171</field>
+    <field name="series_sim">Series II. Financial Records</field>
+    <field name="series_sim">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="series_si">Series II. Financial Records &gt;&gt; Subseries II.A. Financial Reports and Related Material &gt;&gt; Securities Transactions (4 folders)</field>
+    <field name="heading_ssm">Securities Transactions (4 folders)</field>
+    <field name="unitdate_ssm">Inclusive, 1931-1933, 1939-1940</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">37</field>
+  </doc>
+</add>

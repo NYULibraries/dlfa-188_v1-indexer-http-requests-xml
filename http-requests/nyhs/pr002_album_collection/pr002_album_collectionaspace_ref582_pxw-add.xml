@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref582_pxw</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Brooks family album]</field>
+    <field name="unittitle_teim">[Brooks family album]</field>
+    <field name="unitdate_normal_ssm">1893/1904</field>
+    <field name="unitdate_normal_teim">1893/1904</field>
+    <field name="unitdate_normal_sim">1893/1904</field>
+    <field name="unitdate_inclusive_teim">1893-1904</field>
+    <field name="scopecontent_teim">Title based on images of the people aboard the Lasca, a yacht which was owned by J.E. Brooks in 1893 when the photos were made; other subjects include groups in St. Agathe, Canada, views aboard the cruiser "Olympia"; a large house in White Plains; group outfitted for ride in touring car; other views in Canada, including street scenes, a waterfall (Montmorency?), views at the Montreal Hunt Club, and West Hatley; on board the Lasca at Bar Harbor, 1904; street scene in Rockport, Mass.; beach scenes.</field>
+    <field name="ref_ssi">aspace_ref582_pxw</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 22, Volume: 181</field>
+    <field name="location_ssm">Volume: 181</field>
+    <field name="location_si">Volume: 181</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Brooks family album]</field>
+    <field name="heading_ssm">[Brooks family album]</field>
+    <field name="unitdate_start_sim">1893</field>
+    <field name="unitdate_start_ssm">1893</field>
+    <field name="unitdate_start_si">1893</field>
+    <field name="unitdate_end_sim">1904</field>
+    <field name="unitdate_end_ssm">1904</field>
+    <field name="unitdate_end_si">1904</field>
+    <field name="unitdate_ssm">Inclusive, 1893-1904</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">199</field>
+  </doc>
+</add>

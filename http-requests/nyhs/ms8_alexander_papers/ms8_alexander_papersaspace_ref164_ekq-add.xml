@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms8_alexander_papersaspace_ref164_ekq</field>
+    <field name="ead_ssi">ms8_alexander_papers</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Alexander papers</field>
+    <field name="collection_ssm">Alexander papers</field>
+    <field name="collection_unitid_ssm">MS 8</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 6: Surveys</field>
+    <field name="unittitle_teim">Series 6: Surveys</field>
+    <field name="unitdate_inclusive_teim">[1681]-1804</field>
+    <field name="scopecontent_teim">For purposes of this arrangement, Surveys are any papers created specifically to detail the boundaries of privately held land. Of these, there are two kinds: first, items that include scale drawings of the area surveyed; second; items usually referred to as returns of surveys, which give a written description of the boundaries of a tract, but have no drawing. </field>
+    <field name="scopecontent_teim">Surveys are arranged by county, then alphabetically by the surname of the owner of the surveyed tract. In most instances, officials of the Surveyor General's office identified surveys by noting the names of the tract's owners on the verso of the survey. In almost every instance, even in the absence of such a notation, the surveyor himself names the owner(s) of the surveyed tract in the body of the survey. In instances when two or more owners are identified for a given tract, the survey is placed in the alphabet according to the surname of the first identified owner. Researchers should be aware that in their returns, officials were not consistent in the way that they listed the owners of tracts. Two surveys done for the same group of owners, therefore, might be alphabetized in the series under different letters, depending upon which owner's name was listed first on the return.</field>
+    <field name="scopecontent_teim">In the Surveys series, are folders titled "Unidentified or Multiple Owners". These folders contain two types of material. The first type is surveys of tracts whose owners cannot be identified. The second type is surveys of several (usually adjacent) tracts, wherein no single owner's tract is identified as the subject of the survey.</field>
+    <field name="scopecontent_teim">The last subseries in the Surveys series is of warrants granted by the Proprietors for tracts of land. These documents authorized the Surveyor General to survey a tract of a prescribed size for the grantee. The warrants do not name or designate specific tracts, but in many instances were issued as a preliminary to the undertaking of a survey, and thus correspond to items in the Surveys series. Almost all of the material of this kind in the collection was created by the East New Jersey Proprietors, with only one folder deriving from West New Jersey.</field>
+    <field name="scopecontent_teim">Approximate inclusive dates of material within each folder are indicated on the upper right hand corner of the folders in this series. </field>
+    <field name="ref_ssi">aspace_ref164_ekq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Alexander papers</field>
+    <field name="collection_unitid_teim">MS 8</field>
+    <field name="series_si">Series 6: Surveys</field>
+    <field name="heading_ssm">Series 6: Surveys</field>
+    <field name="unitdate_ssm">Inclusive, [1681]-1804</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">148</field>
+  </doc>
+</add>

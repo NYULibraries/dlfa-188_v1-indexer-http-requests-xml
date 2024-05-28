@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms672_world_war2_collectionaspace_ref2_omj</field>
+    <field name="ead_ssi">ms672_world_war2_collection</field>
+    <field name="parent_ssi">aspace_ref21_efn</field>
+    <field name="parent_ssm">aspace_ref21_efn</field>
+    <field name="parent_unittitles_ssm">Series I: New-York Historical Society Employees Letters</field>
+    <field name="parent_unittitles_teim">Series I: New-York Historical Society Employees Letters</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society World War II collection</field>
+    <field name="collection_ssm">New-York Historical Society World War II collection</field>
+    <field name="collection_unitid_ssm">MS 672</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">William R. Baillie Letters to Garrett H. Winter</field>
+    <field name="unittitle_teim">William R. Baillie Letters to Garrett H. Winter</field>
+    <field name="unitdate_teim">1943 April 23-1945 September</field>
+    <field name="ref_ssi">aspace_ref2_omj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">New-York Historical Society World War II collection</field>
+    <field name="collection_unitid_teim">MS 672</field>
+    <field name="series_sim">Series I: New-York Historical Society Employees Letters</field>
+    <field name="series_si">Series I: New-York Historical Society Employees Letters &gt;&gt; William R. Baillie Letters to Garrett H. Winter</field>
+    <field name="heading_ssm">William R. Baillie Letters to Garrett H. Winter</field>
+    <field name="unitdate_ssm">1943 April 23-1945 September</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3212_p_adem_carrollaspace_60ec884ae347b76d6f78d045b8a66737</field>
+    <field name="ead_ssi">ms3212_p_adem_carroll</field>
+    <field name="parent_ssi">aspace_0cc314be2c7efa6714592c9c77a5deec</field>
+    <field name="parent_ssm">aspace_0cc314be2c7efa6714592c9c77a5deec</field>
+    <field name="parent_unittitles_ssm">Series V. Artifacts</field>
+    <field name="parent_unittitles_teim">Series V. Artifacts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">P. Adem Carroll papers</field>
+    <field name="collection_ssm">P. Adem Carroll papers</field>
+    <field name="collection_unitid_ssm">MS 3212</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Tile with Arabic script</field>
+    <field name="unittitle_teim">Tile with Arabic script</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="ref_ssi">aspace_60ec884ae347b76d6f78d045b8a66737</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 5, Folder: 18</field>
+    <field name="location_ssm">Folder: 18</field>
+    <field name="location_si">Folder: 18</field>
+    <field name="collection_teim">P. Adem Carroll papers</field>
+    <field name="collection_unitid_teim">MS 3212</field>
+    <field name="series_sim">Series V. Artifacts</field>
+    <field name="series_si">Series V. Artifacts &gt;&gt; Tile with Arabic script</field>
+    <field name="heading_ssm">Tile with Arabic script</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">99</field>
+  </doc>
+</add>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms359_ladies_christian_unionaspace_ref52_g2f</field>
+    <field name="ead_ssi">ms359_ladies_christian_union</field>
+    <field name="parent_ssi">aspace_ref51_m35</field>
+    <field name="parent_ssm">aspace_ref51_m35</field>
+    <field name="parent_unittitles_ssm">Series III: Minutes</field>
+    <field name="parent_unittitles_teim">Series III: Minutes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ladies' Christian Union Records</field>
+    <field name="collection_ssm">Ladies' Christian Union Records</field>
+    <field name="collection_unitid_ssm">MS 359</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 1: Minutes of General Meetings of LCU, 1858-1917</field>
+    <field name="unittitle_teim">Subseries 1: Minutes of General Meetings of LCU, 1858-1917</field>
+    <field name="scopecontent_teim">This subseries includes an almost complete set of minutes for general LCU meetings for years 1858-1917. The minutes contain discussion of the current business of the organization including statements from the treasurer, reports of various committees, and descriptions of issues concerning houses owned by the LCU. The minute books reveal details about the death of LCU members, issues with specific boarders, and particulars regarding the purchase and maintenance of LCU homes. The books also contain minutes of the Annual Meeting, usually held in January of each year. </field>
+    <field name="scopecontent_teim">Some of the meeting minutes are from monthly meetings (1868-1870 and 1914-1917) and others are from meetings held bimonthly (1871-1913). Because the LCU did not meet July through September, there are no minutes for those months in any year.</field>
+    <field name="ref_ssi">aspace_ref52_g2f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ladies' Christian Union Records</field>
+    <field name="collection_unitid_teim">MS 359</field>
+    <field name="series_sim">Series III: Minutes</field>
+    <field name="series_si">Series III: Minutes &gt;&gt; Subseries 1: Minutes of General Meetings of LCU, 1858-1917</field>
+    <field name="heading_ssm">Subseries 1: Minutes of General Meetings of LCU, 1858-1917</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

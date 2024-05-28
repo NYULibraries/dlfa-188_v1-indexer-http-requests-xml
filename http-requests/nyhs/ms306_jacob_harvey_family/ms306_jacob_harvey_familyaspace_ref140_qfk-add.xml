@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms306_jacob_harvey_familyaspace_ref140_qfk</field>
+    <field name="ead_ssi">ms306_jacob_harvey_family</field>
+    <field name="parent_ssi">aspace_ref55_jhj</field>
+    <field name="parent_ssm">aspace_ref265_cfn</field>
+    <field name="parent_ssm">aspace_ref55_jhj</field>
+    <field name="parent_unittitles_ssm">Series II. Harvey Family Papers</field>
+    <field name="parent_unittitles_ssm">Subseries II.A. Jacob Harvey Correspondence</field>
+    <field name="parent_unittitles_teim">Series II. Harvey Family Papers</field>
+    <field name="parent_unittitles_teim">Subseries II.A. Jacob Harvey Correspondence</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jacob Harvey family papers</field>
+    <field name="collection_ssm">Jacob Harvey family papers</field>
+    <field name="collection_unitid_ssm">MS 306</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Jacob Harvey to/from Correspondents A-H</field>
+    <field name="unittitle_teim">Jacob Harvey to/from Correspondents A-H</field>
+    <field name="unitdate_teim">1821-1848</field>
+    <field name="scopecontent_teim">Correspondents include:  John Agnew (?) (1827); Joseph Arc-- (from Brighton) (1837); William B. Astor (1846); A. M. Church (1833); F. W. Conway (1847); Clarence C. Cook (1843); Miss Edgeworth (1843); John Ford (1839); Jane J Lennell (1848); -- Graves (1846); Robert Greenhow (1828); James Haughton (?) (1846); Francis L. Hawkes (1836); Jack Healy (1821); John H. Hicks (1845).</field>
+    <field name="ref_ssi">aspace_ref140_qfk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 6, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Jacob Harvey family papers</field>
+    <field name="collection_unitid_teim">MS 306</field>
+    <field name="series_sim">Series II. Harvey Family Papers</field>
+    <field name="series_sim">Subseries II.A. Jacob Harvey Correspondence</field>
+    <field name="series_si">Series II. Harvey Family Papers &gt;&gt; Subseries II.A. Jacob Harvey Correspondence &gt;&gt; Jacob Harvey to/from Correspondents A-H</field>
+    <field name="heading_ssm">Jacob Harvey to/from Correspondents A-H</field>
+    <field name="unitdate_ssm">1821-1848</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">104</field>
+  </doc>
+</add>

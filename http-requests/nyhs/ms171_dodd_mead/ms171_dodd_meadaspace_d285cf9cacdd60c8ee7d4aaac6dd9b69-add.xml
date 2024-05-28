@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms171_dodd_meadaspace_d285cf9cacdd60c8ee7d4aaac6dd9b69</field>
+    <field name="ead_ssi">ms171_dodd_mead</field>
+    <field name="parent_ssi">aspace_3084a8eededfc647e6ffcd32435833e4</field>
+    <field name="parent_ssm">aspace_0d6e00ceabf4b6678c76f9c505b224c2</field>
+    <field name="parent_ssm">aspace_3084a8eededfc647e6ffcd32435833e4</field>
+    <field name="parent_unittitles_ssm">Series II. Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="parent_unittitles_teim">Series II. Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_ssm">MS 171</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Red Books" (Profits and Losses by Title)</field>
+    <field name="unittitle_teim">"Red Books" (Profits and Losses by Title)</field>
+    <field name="unitdate_inclusive_teim">1949-1953, 1956, 1959</field>
+    <field name="scopecontent_teim">Includes general titles for 1952-1953 and 1956, with an overall analysis at 1959; and Juveniles for 1949-1953.</field>
+    <field name="ref_ssi">aspace_d285cf9cacdd60c8ee7d4aaac6dd9b69</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 22</field>
+    <field name="location_si">Offsite-Box: 22</field>
+    <field name="collection_teim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_teim">MS 171</field>
+    <field name="series_sim">Series II. Financial Records</field>
+    <field name="series_sim">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="series_si">Series II. Financial Records &gt;&gt; Subseries II.A. Financial Reports and Related Material &gt;&gt; "Red Books" (Profits and Losses by Title)</field>
+    <field name="heading_ssm">"Red Books" (Profits and Losses by Title)</field>
+    <field name="unitdate_ssm">Inclusive, 1949-1953, 1956, 1959</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">23</field>
+  </doc>
+</add>

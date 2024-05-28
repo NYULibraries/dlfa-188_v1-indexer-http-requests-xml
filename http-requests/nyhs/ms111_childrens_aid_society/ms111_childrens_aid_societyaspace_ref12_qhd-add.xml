@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref12_qhd</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XII - Records of Other CAS Programs and Services</field>
+    <field name="unittitle_teim">Series XII - Records of Other CAS Programs and Services</field>
+    <field name="unitdate_normal_ssm">1874/1947</field>
+    <field name="unitdate_normal_teim">1874/1947</field>
+    <field name="unitdate_normal_sim">1874/1947</field>
+    <field name="unitdate_inclusive_teim">1874-1947</field>
+    <field name="scopecontent_teim">This series consists of 6 subseries of records of 6 CAS programs and services not covered in the earlier series. In alphabetical order, the programs in the series are as follows:</field>
+    <field name="scopecontent_teim">XII.1 -Dental Service, 1910-1939 (bulk 1931-1939)</field>
+    <field name="scopecontent_teim">XII.2 - Family Emigration Program, 1874-1926</field>
+    <field name="scopecontent_teim">XII.3 - Housekeeper Service Committee, 1933-1941</field>
+    <field name="scopecontent_teim">XII.4 - Sandlot Baseball Program, 1933-1947</field>
+    <field name="scopecontent_teim">XII.5 - Service Bureau for Negro Children, 1936-1945</field>
+    <field name="scopecontent_teim">XII.6 - U.S. Committee for the Care of European Children, 1940-1947.</field>
+    <field name="scopecontent_teim">The materials within each subseries are arranged chronologically. The series as a whole consists of 2 boxes and 10 Family Emigration volumes. For more information about each program or service, and for specific information about records, please see notes for each subseries.</field>
+    <field name="ref_ssi">aspace_ref12_qhd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_si">Series XII - Records of Other CAS Programs and Services</field>
+    <field name="heading_ssm">Series XII - Records of Other CAS Programs and Services</field>
+    <field name="unitdate_start_sim">1874</field>
+    <field name="unitdate_start_ssm">1874</field>
+    <field name="unitdate_start_si">1874</field>
+    <field name="unitdate_end_sim">1947</field>
+    <field name="unitdate_end_ssm">1947</field>
+    <field name="unitdate_end_si">1947</field>
+    <field name="unitdate_ssm">Inclusive, 1874-1947</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2055</field>
+  </doc>
+</add>

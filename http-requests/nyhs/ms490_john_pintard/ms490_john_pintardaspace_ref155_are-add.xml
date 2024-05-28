@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms490_john_pintardaspace_ref155_are</field>
+    <field name="ead_ssi">ms490_john_pintard</field>
+    <field name="parent_ssi">aspace_ref11_jfv</field>
+    <field name="parent_ssm">aspace_ref6_szb</field>
+    <field name="parent_ssm">aspace_ref11_jfv</field>
+    <field name="parent_unittitles_ssm">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="parent_unittitles_ssm">Subseries V: Notes and Ephemera</field>
+    <field name="parent_unittitles_teim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="parent_unittitles_teim">Subseries V: Notes and Ephemera</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Pintard Papers</field>
+    <field name="collection_ssm">John Pintard Papers</field>
+    <field name="collection_unitid_ssm">MS 490</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Reminiscences of the Early Life of John Pintard (Partial Transcript)</field>
+    <field name="unittitle_teim">Reminiscences of the Early Life of John Pintard (Partial Transcript)</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref155_are</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">John Pintard Papers</field>
+    <field name="collection_unitid_teim">MS 490</field>
+    <field name="series_sim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="series_sim">Subseries V: Notes and Ephemera</field>
+    <field name="series_si">Series 1: Papers of John Pintard, 1779-1851 &gt;&gt; Subseries V: Notes and Ephemera &gt;&gt; Reminiscences of the Early Life of John Pintard (Partial Transcript)</field>
+    <field name="heading_ssm">Reminiscences of the Early Life of John Pintard (Partial Transcript)</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">83</field>
+  </doc>
+</add>

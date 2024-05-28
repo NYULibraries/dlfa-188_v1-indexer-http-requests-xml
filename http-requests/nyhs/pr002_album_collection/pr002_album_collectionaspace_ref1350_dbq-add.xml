@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1350_dbq</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Airplane views of the Bronx taken for the Bronx Home News. Fairchild Aerial Photography Co., photographer</field>
+    <field name="unittitle_teim">Airplane views of the Bronx taken for the Bronx Home News. Fairchild Aerial Photography Co., photographer</field>
+    <field name="unitdate_normal_ssm">1921/1921</field>
+    <field name="unitdate_normal_teim">1921/1921</field>
+    <field name="unitdate_normal_sim">1921/1921</field>
+    <field name="unitdate_inclusive_teim">1921</field>
+    <field name="scopecontent_teim">Includes map of the Bronx mounted on linen; includes views of Bedford Park, Lower Bronx, Westchester; the Hub (149th and Third Avenue); Central Bronx; Fordham; Van Nest; Webb Academy and Devoe Park; Montefiore Home; Mount Hope; Highbridge; New York University; Riverdale; the Longwood Section.</field>
+    <field name="ref_ssi">aspace_ref1350_dbq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 387</field>
+    <field name="location_si">Offsite-Box: 387</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Airplane views of the Bronx taken for the Bronx Home News. Fairchild Aerial Photography Co., photographer</field>
+    <field name="heading_ssm">Airplane views of the Bronx taken for the Bronx Home News. Fairchild Aerial Photography Co., photographer</field>
+    <field name="unitdate_start_sim">1921</field>
+    <field name="unitdate_start_ssm">1921</field>
+    <field name="unitdate_start_si">1921</field>
+    <field name="unitdate_end_sim">1921</field>
+    <field name="unitdate_end_ssm">1921</field>
+    <field name="unitdate_end_si">1921</field>
+    <field name="unitdate_ssm">Inclusive, 1921</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">449</field>
+  </doc>
+</add>

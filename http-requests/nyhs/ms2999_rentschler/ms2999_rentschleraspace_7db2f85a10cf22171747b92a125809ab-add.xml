@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2999_rentschleraspace_7db2f85a10cf22171747b92a125809ab</field>
+    <field name="ead_ssi">ms2999_rentschler</field>
+    <field name="parent_ssi">aspace_ref5_1u9</field>
+    <field name="parent_ssm">aspace_4a53ba14f182b68e08bd211643c4afc0</field>
+    <field name="parent_ssm">aspace_ref5_1u9</field>
+    <field name="parent_unittitles_ssm">Series I. Manuscripts and memorabilia</field>
+    <field name="parent_unittitles_ssm">Subseries I.C. Gordon Sohn Rentschler (1885–1948) [GSR]</field>
+    <field name="parent_unittitles_teim">Series I. Manuscripts and memorabilia</field>
+    <field name="parent_unittitles_teim">Subseries I.C. Gordon Sohn Rentschler (1885–1948) [GSR]</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mary Coolidge Rentschler collection</field>
+    <field name="collection_ssm">Mary Coolidge Rentschler collection</field>
+    <field name="collection_unitid_ssm">MS 2999</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Gordon S. Rentschler Princeton yearbooks and publication</field>
+    <field name="unittitle_teim">Gordon S. Rentschler Princeton yearbooks and publication</field>
+    <field name="unitdate_inclusive_teim">1905-1916</field>
+    <field name="scopecontent_teim">Publications/programs from Princeton University:
+1) The Daily Princetonian dinner program, 1905, 1907
+2) Princeton Class Day publication (yearbook?), 1906, 1907
+3) Western Association of Princeton Clubs dinner program</field>
+    <field name="ref_ssi">aspace_7db2f85a10cf22171747b92a125809ab</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 4, Box: Mem-33</field>
+    <field name="location_ssm">Box: Mem-33</field>
+    <field name="location_si">Box: Mem-33</field>
+    <field name="collection_teim">Mary Coolidge Rentschler collection</field>
+    <field name="collection_unitid_teim">MS 2999</field>
+    <field name="series_sim">Series I. Manuscripts and memorabilia</field>
+    <field name="series_sim">Subseries I.C. Gordon Sohn Rentschler (1885–1948) [GSR]</field>
+    <field name="series_si">Series I. Manuscripts and memorabilia &gt;&gt; Subseries I.C. Gordon Sohn Rentschler (1885–1948) [GSR] &gt;&gt; Gordon S. Rentschler Princeton yearbooks and publication</field>
+    <field name="heading_ssm">Gordon S. Rentschler Princeton yearbooks and publication</field>
+    <field name="unitdate_ssm">Inclusive, 1905-1916</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">327</field>
+  </doc>
+</add>

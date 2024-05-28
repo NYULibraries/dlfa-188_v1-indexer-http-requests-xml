@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2902_bowers_familyaspace_ref4_o0o</field>
+    <field name="ead_ssi">ms2902_bowers_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Bowers family papers</field>
+    <field name="collection_ssm">Bowers family papers</field>
+    <field name="collection_unitid_ssm">MS 2902</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Legal Papers</field>
+    <field name="unittitle_teim">Series II: Legal Papers</field>
+    <field name="unitdate_inclusive_teim">1741-1933</field>
+    <field name="scopecontent_teim">This series contains two subseries with materials relating to land transactions as well as specific legal instruments for the family.</field>
+    <field name="ref_ssi">aspace_ref4_o0o</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bowers family papers</field>
+    <field name="collection_unitid_teim">MS 2902</field>
+    <field name="series_si">Series II: Legal Papers</field>
+    <field name="heading_ssm">Series II: Legal Papers</field>
+    <field name="unitdate_ssm">Inclusive, 1741-1933</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

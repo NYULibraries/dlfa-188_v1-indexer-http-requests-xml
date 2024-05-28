@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref11_nv3</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Geographic</field>
+    <field name="unittitle_teim">Geographic</field>
+    <field name="unitdate_inclusive_teim">1850-1964</field>
+    <field name="scopecontent_teim">Geographic Series: The bulk of the collection consists of geographic views. Items are arranged into groups, and each group has an Identifier, or unique number. The Identifier can be found within the group's Scope and Contents note. Wherever possible items are arranged in the smallest geographic group possible, usually a town. Large cities may be covered by many groups of items and the views divided up by location within the city, or by subject. If there are only one or two items for a particular geographic unit, they may be combined with other items and described under the name of the next larger geographic unit, such as the state. In general, the groups go from the general to the specific, with groups covering entire states followed by more specific locations within the state.</field>
+    <field name="ref_ssi">aspace_ref11_nv3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_si">Geographic</field>
+    <field name="heading_ssm">Geographic</field>
+    <field name="unitdate_ssm">Inclusive, 1850-1964</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

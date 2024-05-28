@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_fa9cfa30d0e1403d350a54a743b0b095</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_974b93b7ef464f1359c49e2ee6d44f43</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_974b93b7ef464f1359c49e2ee6d44f43</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Meteorological Records</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Meteorological Records</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Meteorological observations taken at Erasmus Hall Academy</field>
+    <field name="unittitle_teim">Meteorological observations taken at Erasmus Hall Academy</field>
+    <field name="unitdate_inclusive_teim">1852–1869, 1940</field>
+    <field name="scopecontent_teim">Approximately 35 reports, in manuscript, each covering a one-month period, dated between 1852–1869. These are apparently rough drafts of the records later copied into the 2 folio volumes of reports, except that these volumes cease with 1857.
+
+Also, correspondence with U.S. Weather Service, 1940.</field>
+    <field name="ref_ssi">aspace_fa9cfa30d0e1403d350a54a743b0b095</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-17, Folder: Meteorological Reports Made at Erasmus Hall Academy</field>
+    <field name="location_ssm">Folder: Meteorological Reports Made at Erasmus Hall Academy</field>
+    <field name="location_si">Folder: Meteorological Reports Made at Erasmus Hall Academy</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Meteorological Records</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Meteorological Records &gt;&gt; Meteorological observations taken at Erasmus Hall Academy</field>
+    <field name="heading_ssm">Meteorological observations taken at Erasmus Hall Academy</field>
+    <field name="unitdate_ssm">Inclusive, 1852–1869, 1940</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">772</field>
+  </doc>
+</add>

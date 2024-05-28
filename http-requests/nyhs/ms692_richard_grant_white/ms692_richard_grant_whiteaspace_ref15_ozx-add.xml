@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms692_richard_grant_whiteaspace_ref15_ozx</field>
+    <field name="ead_ssi">ms692_richard_grant_white</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Richard Grant White papers</field>
+    <field name="collection_ssm">Richard Grant White papers</field>
+    <field name="collection_unitid_ssm">MS 692</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Writing</field>
+    <field name="unittitle_teim">Series II: Writing</field>
+    <field name="unitdate_normal_ssm">1854/1857</field>
+    <field name="unitdate_normal_teim">1854/1857</field>
+    <field name="unitdate_normal_sim">1854/1857</field>
+    <field name="unitdate_inclusive_teim">1853-1884, undated</field>
+    <field name="scopecontent_teim">This series contains the early stages of White's writings. There are handwritten literary manuscripts and printed galleys--a vital editing step before actual publication--with annotations in the margins. There are also bound volumes that White wrote out by hand, such as the Truths from Shakespeare, which is made up of Shakespeare quote "snippets" White particularly liked.</field>
+    <field name="ref_ssi">aspace_ref15_ozx</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Richard Grant White papers</field>
+    <field name="collection_unitid_teim">MS 692</field>
+    <field name="series_si">Series II: Writing</field>
+    <field name="heading_ssm">Series II: Writing</field>
+    <field name="unitdate_start_sim">1854</field>
+    <field name="unitdate_start_ssm">1854</field>
+    <field name="unitdate_start_si">1854</field>
+    <field name="unitdate_end_sim">1857</field>
+    <field name="unitdate_end_ssm">1857</field>
+    <field name="unitdate_end_si">1857</field>
+    <field name="unitdate_ssm">Inclusive, 1853-1884, undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

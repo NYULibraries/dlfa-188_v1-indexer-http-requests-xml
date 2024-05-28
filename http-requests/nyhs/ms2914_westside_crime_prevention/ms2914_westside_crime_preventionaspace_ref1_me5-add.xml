@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2914_westside_crime_preventionaspace_ref1_me5</field>
+    <field name="ead_ssi">ms2914_westside_crime_prevention</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Westside Crime Prevention Program records</field>
+    <field name="collection_ssm">Westside Crime Prevention Program records</field>
+    <field name="collection_unitid_ssm">MS 2914</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Minutes and Agendas</field>
+    <field name="unittitle_teim">Series I: Minutes and Agendas</field>
+    <field name="unitdate_normal_ssm">1987/2002</field>
+    <field name="unitdate_normal_teim">1987/2002</field>
+    <field name="unitdate_normal_sim">1987/2002</field>
+    <field name="unitdate_inclusive_teim">1987-2002</field>
+    <field name="scopecontent_teim">Series I consists entirely of the Westside Crime Prevention Program board meeting minutes and agendas, from 1984 to 2002. The meeting minutes and agendas deal primarily with the organization's program development, financial records, and community outreach.</field>
+    <field name="ref_ssi">aspace_ref1_me5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Westside Crime Prevention Program records</field>
+    <field name="collection_unitid_teim">MS 2914</field>
+    <field name="series_si">Series I: Minutes and Agendas</field>
+    <field name="heading_ssm">Series I: Minutes and Agendas</field>
+    <field name="unitdate_start_sim">1987</field>
+    <field name="unitdate_start_ssm">1987</field>
+    <field name="unitdate_start_si">1987</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 1987-2002</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

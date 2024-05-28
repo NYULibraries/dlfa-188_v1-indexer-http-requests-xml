@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr009_irving_browning_photosaspace_ref28_nzw</field>
+    <field name="ead_ssi">pr009_irving_browning_photos</field>
+    <field name="parent_ssi">aspace_ref13_xmc</field>
+    <field name="parent_ssm">aspace_ref13_xmc</field>
+    <field name="parent_unittitles_ssm">Series I. Photographs</field>
+    <field name="parent_unittitles_teim">Series I. Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Browning photograph collection</field>
+    <field name="collection_ssm">Browning photograph collection</field>
+    <field name="collection_unitid_ssm">PR 9</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Aircraft and Aeronautics</field>
+    <field name="unittitle_teim">Aircraft and Aeronautics</field>
+    <field name="scopecontent_teim">Aircraft and Aeronautics includes mostly unidentified photographs of early aviators, airplanes, airships (blimps), and members of high society posing with aircraft at small airfields in the greater New York area. Included are portraits of several society women posing near airplanes; several of these were taken were at private aviation clubs such as the Aviation Country Club in on Long Island. Identified individuals pictured in this series include Beckwith Havens, Howard Hughes, Joe McLaughlin, Evelyn Seversky, and Mrs. Felix William Zelcer.</field>
+    <field name="ref_ssi">aspace_ref28_nzw</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Browning photograph collection</field>
+    <field name="collection_unitid_teim">PR 9</field>
+    <field name="series_sim">Series I. Photographs</field>
+    <field name="series_si">Series I. Photographs &gt;&gt; Aircraft and Aeronautics</field>
+    <field name="heading_ssm">Aircraft and Aeronautics</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">16</field>
+  </doc>
+</add>

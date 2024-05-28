@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr278_photographic_slides_collectionaspace_ref35_y8v</field>
+    <field name="ead_ssi">pr278_photographic_slides_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society Collection of Photographic Slides Collection</field>
+    <field name="collection_ssm">New-York Historical Society Collection of Photographic Slides Collection</field>
+    <field name="collection_unitid_ssm">PR 278</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Billings Slides</field>
+    <field name="unittitle_teim">Billings Slides</field>
+    <field name="unitdate_inclusive_teim">1960-1979</field>
+    <field name="scopecontent_teim">These slides were taken by amatuer photographer Ray H. Billings and include interior shots of a New York City police department radio room from 1972, views of the 1964 World's Fair and other New York City sites, and views of Lake George and other unidentified locations outside New York City.</field>
+    <field name="ref_ssi">aspace_ref35_y8v</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">New-York Historical Society Collection of Photographic Slides Collection</field>
+    <field name="collection_unitid_teim">PR 278</field>
+    <field name="series_si">Billings Slides</field>
+    <field name="heading_ssm">Billings Slides</field>
+    <field name="unitdate_ssm">Inclusive, 1960-1979</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

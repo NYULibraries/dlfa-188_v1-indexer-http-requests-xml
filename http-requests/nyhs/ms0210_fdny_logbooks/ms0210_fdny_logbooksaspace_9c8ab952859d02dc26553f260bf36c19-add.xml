@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms0210_fdny_logbooksaspace_9c8ab952859d02dc26553f260bf36c19</field>
+    <field name="ead_ssi">ms0210_fdny_logbooks</field>
+    <field name="parent_ssi">aspace_ad59c2dd0ac2da7aa6452a90a9721bf1</field>
+    <field name="parent_ssm">aspace_ad59c2dd0ac2da7aa6452a90a9721bf1</field>
+    <field name="parent_unittitles_ssm">Series II: Hook and Ladder Company Logbooks</field>
+    <field name="parent_unittitles_teim">Series II: Hook and Ladder Company Logbooks</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fire Department of the City of New York Logbooks and Reports</field>
+    <field name="collection_ssm">Fire Department of the City of New York Logbooks and Reports</field>
+    <field name="collection_unitid_ssm">MS 0210</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hook and Ladder Company 14</field>
+    <field name="unittitle_teim">Hook and Ladder Company 14</field>
+    <field name="unitdate_inclusive_teim">June-October 1899</field>
+    <field name="ref_ssi">aspace_9c8ab952859d02dc26553f260bf36c19</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 38</field>
+    <field name="location_si">Volume: 38</field>
+    <field name="collection_teim">Fire Department of the City of New York Logbooks and Reports</field>
+    <field name="collection_unitid_teim">MS 0210</field>
+    <field name="series_sim">Series II: Hook and Ladder Company Logbooks</field>
+    <field name="series_si">Series II: Hook and Ladder Company Logbooks &gt;&gt; Hook and Ladder Company 14</field>
+    <field name="heading_ssm">Hook and Ladder Company 14</field>
+    <field name="unitdate_ssm">Inclusive, June-October 1899</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

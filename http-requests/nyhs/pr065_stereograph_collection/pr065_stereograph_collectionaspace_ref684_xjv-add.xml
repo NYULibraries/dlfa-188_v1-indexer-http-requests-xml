@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref684_xjv</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Utah</field>
+    <field name="unittitle_teim">Utah</field>
+    <field name="unitdate_teim">[1865]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0670</field>
+    <field name="scopecontent_teim">Utah: grove of cottonwoods; entrance to a copper mine; first grist mill in Utah; views on the American Fork, including Sultana Smelter, general canyon view, Miller mine, and mountains beyond, men on a hand car on the American Fork Narrow Gauge R.R.; American bison, Antelope Island, in the snow; New Jersey Milling and Furnace Co., Arastra; residence of Ben Hampton, Bear River stage station; cabin at head of Bear River; gold mine in Bingham Canyon, and general view of workings; three children riding a steer on the Fourth of July, Heber City; mine on the west front of Lion Hill; Eph. Hank's house, Parley's Park, Utah; views in the Uinta Mountains, including Gilbert's Peak, Lake of Sounding, Moore's Lake, the summit of the Uintas, men handing large plate holder up a cliff to the photographer, photographer's breakfasting by the side of the lake (one possibly Russell), man, probably Russell, feigning sleep under a rock outcropping; Bee Lake in southern Utah; Ka[s]mara Canyon, southern Utah.</field>
+    <field name="scopecontent_teim">27 items</field>
+    <field name="ref_ssi">aspace_ref684_xjv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 59</field>
+    <field name="location_si">Box: 59</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Utah</field>
+    <field name="heading_ssm">Utah</field>
+    <field name="unitdate_ssm">[1865]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">671</field>
+  </doc>
+</add>

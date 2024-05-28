@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_7af0bd7caf1e68e159e312b3f7d215cb</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_d3a1112d3af94fed79fa7808172f4fe9</field>
+    <field name="parent_ssm">aspace_5878ef34f7069ff3837b908a61c45ae2</field>
+    <field name="parent_ssm">aspace_d3a1112d3af94fed79fa7808172f4fe9</field>
+    <field name="parent_unittitles_ssm">Series III: Photojournalism and Documentary Photography</field>
+    <field name="parent_unittitles_ssm">Subseries: FRED MCDARRAH</field>
+    <field name="parent_unittitles_teim">Series III: Photojournalism and Documentary Photography</field>
+    <field name="parent_unittitles_teim">Subseries: FRED MCDARRAH</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Events</field>
+    <field name="unittitle_teim">Events</field>
+    <field name="unitdate_inclusive_teim">1956-1978, undated</field>
+    <field name="scopecontent_teim">World's Fair 1964; 1977 Blackout; Bryant Park Book Fair; Coney Island Beach clean up; events at MOMA; parades, outdoor art shows, festivals, and concerts; NYU graduation ceremony; parties, including an Artist's Club New Year's Eve party and a beatnik birthday party for Ted Joans; Star Trek convention; Polar Bears swimmers.</field>
+    <field name="ref_ssi">aspace_7af0bd7caf1e68e159e312b3f7d215cb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 56, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series III: Photojournalism and Documentary Photography</field>
+    <field name="series_sim">Subseries: FRED MCDARRAH</field>
+    <field name="series_si">Series III: Photojournalism and Documentary Photography &gt;&gt; Subseries: FRED MCDARRAH &gt;&gt; Events</field>
+    <field name="heading_ssm">Events</field>
+    <field name="unitdate_ssm">Inclusive, 1956-1978, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">214</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr432_matchbook_coversaspace_a47c2e047b8f4195f2ee7bda11db4eae</field>
+    <field name="ead_ssi">pr432_matchbook_covers</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of matchbook covers</field>
+    <field name="collection_ssm">New-York Historical Society collection of matchbook covers</field>
+    <field name="collection_unitid_ssm">PR 432</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Harvey J. Hess Collection</field>
+    <field name="unittitle_teim">Series I. Harvey J. Hess Collection</field>
+    <field name="unitdate_inclusive_teim">1930s?-1950s?</field>
+    <field name="scopecontent_teim">The series includes 11 albums of matchbook covers collected by Harvey J. Hess. They are undated, but presumably date from perhaps the 1930s-early 1950s. The albums are constructed such that the covers are held loosely to the pages with string, not adhered with glue or tape.</field>
+    <field name="scopecontent_teim">Nine of the albums hold covers from hotels/motels or restaurants in hotels/motels. Most of these are from states of the United States, and were arranged accordingly by Hess, with some from locations outside the U.S., though closely related to the U.S., such as Alaska and Hawaii (still territories when the covers were collected), and Puerto Rico. Two albums hold covers from military ships, military posts, airfields, hospitals, college campuses, and other such institutions. </field>
+    <field name="scopecontent_teim">The bulk are about 1.5 inches in width. Most of the institutional covers seem to be wider, at 3 inches. A very few covers are more slender, at about 1.25 inches.</field>
+    <field name="ref_ssi">aspace_a47c2e047b8f4195f2ee7bda11db4eae</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of matchbook covers</field>
+    <field name="collection_unitid_teim">PR 432</field>
+    <field name="series_si">Series I. Harvey J. Hess Collection</field>
+    <field name="heading_ssm">Series I. Harvey J. Hess Collection</field>
+    <field name="unitdate_ssm">Inclusive, 1930s?-1950s?</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

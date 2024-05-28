@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr115_playing_cards_gamesaspace_ref20_neh</field>
+    <field name="ead_ssi">pr115_playing_cards_games</field>
+    <field name="parent_ssi">aspace_ref16_spk</field>
+    <field name="parent_ssm">aspace_ref16_spk</field>
+    <field name="parent_unittitles_ssm">Series I. American Playing Cards (1824- )</field>
+    <field name="parent_unittitles_teim">Series I. American Playing Cards (1824- )</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Playing card and game collection</field>
+    <field name="collection_ssm">Playing card and game collection</field>
+    <field name="collection_unitid_ssm">PR 115</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">[Roodles Card]</field>
+    <field name="unittitle_teim">[Roodles Card]</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref20_neh</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Playing card and game collection</field>
+    <field name="collection_unitid_teim">PR 115</field>
+    <field name="series_sim">Series I. American Playing Cards (1824- )</field>
+    <field name="series_si">Series I. American Playing Cards (1824- ) &gt;&gt; [Roodles Card]</field>
+    <field name="heading_ssm">[Roodles Card]</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

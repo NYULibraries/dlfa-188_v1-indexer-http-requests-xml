@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref173_2xn</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Nebraska</field>
+    <field name="unittitle_teim">Nebraska</field>
+    <field name="unitdate_normal_ssm">1859/1910</field>
+    <field name="unitdate_normal_teim">1859/1910</field>
+    <field name="unitdate_normal_sim">1859/1910</field>
+    <field name="unitdate_inclusive_teim">[1859-1910]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0159</field>
+    <field name="scopecontent_teim">Nebraska: views from the Lander expedition,including Native American Indians: Shoshone children, Ogalalla Sioux camp, people in foreground; men under overhanging rock, Bitter Creek Canyon, on the Union Pacific Railroad; main street in Fremont, lined with wood frame buildings; trestle bridge over the North Platte, U.P.R.R.; group of Sioux on horseback; William Henry Jackson outside his dark tent; Grand Duke Alexis' tent, during visit to Nebraska.</field>
+    <field name="scopecontent_teim">9 items</field>
+    <field name="ref_ssi">aspace_ref173_2xn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18</field>
+    <field name="location_si">Box: 18</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Nebraska</field>
+    <field name="heading_ssm">Nebraska</field>
+    <field name="unitdate_start_sim">1859</field>
+    <field name="unitdate_start_ssm">1859</field>
+    <field name="unitdate_start_si">1859</field>
+    <field name="unitdate_end_sim">1910</field>
+    <field name="unitdate_end_ssm">1910</field>
+    <field name="unitdate_end_si">1910</field>
+    <field name="unitdate_ssm">Inclusive, [1859-1910]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">160</field>
+  </doc>
+</add>

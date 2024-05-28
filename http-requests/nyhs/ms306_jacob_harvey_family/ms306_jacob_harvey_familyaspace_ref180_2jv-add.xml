@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms306_jacob_harvey_familyaspace_ref180_2jv</field>
+    <field name="ead_ssi">ms306_jacob_harvey_family</field>
+    <field name="parent_ssi">aspace_ref55_jhj</field>
+    <field name="parent_ssm">aspace_ref265_cfn</field>
+    <field name="parent_ssm">aspace_ref55_jhj</field>
+    <field name="parent_unittitles_ssm">Series II. Harvey Family Papers</field>
+    <field name="parent_unittitles_ssm">Subseries II.A. Jacob Harvey Correspondence</field>
+    <field name="parent_unittitles_teim">Series II. Harvey Family Papers</field>
+    <field name="parent_unittitles_teim">Subseries II.A. Jacob Harvey Correspondence</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jacob Harvey family papers</field>
+    <field name="collection_ssm">Jacob Harvey family papers</field>
+    <field name="collection_unitid_ssm">MS 306</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Newspaper Clippings (1 of 3)</field>
+    <field name="unittitle_teim">Newspaper Clippings (1 of 3)</field>
+    <field name="unitdate_teim">1820s-1840s, undated</field>
+    <field name="scopecontent_teim">Subjects include: The Creole Case (1842, undated); Irish Affairs (1847, undated) (clipping "Supplement to The Dublin Evening Post, 1816" moved to oversized); Maine &amp; Oregon border disputes, State Debts (1842-1846, undated); Miscellaneous (1822-1823, undated).</field>
+    <field name="ref_ssi">aspace_ref180_2jv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 6, Folder: 24</field>
+    <field name="location_ssm">Folder: 24</field>
+    <field name="location_si">Folder: 24</field>
+    <field name="collection_teim">Jacob Harvey family papers</field>
+    <field name="collection_unitid_teim">MS 306</field>
+    <field name="series_sim">Series II. Harvey Family Papers</field>
+    <field name="series_sim">Subseries II.A. Jacob Harvey Correspondence</field>
+    <field name="series_si">Series II. Harvey Family Papers &gt;&gt; Subseries II.A. Jacob Harvey Correspondence &gt;&gt; Newspaper Clippings (1 of 3)</field>
+    <field name="heading_ssm">Newspaper Clippings (1 of 3)</field>
+    <field name="unitdate_ssm">1820s-1840s, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">119</field>
+  </doc>
+</add>

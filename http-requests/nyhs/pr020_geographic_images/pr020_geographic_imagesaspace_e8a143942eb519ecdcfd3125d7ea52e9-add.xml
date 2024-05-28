@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_e8a143942eb519ecdcfd3125d7ea52e9</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_5a83d25c2b818c4a994130016ed74212</field>
+    <field name="parent_ssm">aspace_ref1921_gp6</field>
+    <field name="parent_ssm">aspace_5a83d25c2b818c4a994130016ed74212</field>
+    <field name="parent_unittitles_ssm">Series IV: New York City Views - Queens</field>
+    <field name="parent_unittitles_ssm">Subseries IVB: QUEENS - FLAT MATERIAL</field>
+    <field name="parent_unittitles_teim">Series IV: New York City Views - Queens</field>
+    <field name="parent_unittitles_teim">Subseries IVB: QUEENS - FLAT MATERIAL</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm"> Astoria/Ravenswood</field>
+    <field name="unittitle_teim"> Astoria/Ravenswood</field>
+    <field name="scopecontent_teim">View of Astoria, L.I. from the New York Side, lithograph by Currier and Ives, F. Palmer, delineator, 1862;</field>
+    <field name="scopecontent_teim">St. Thomas Chapel, Ravenswood L.I., Attached to St. George's Church, Astoria, lithograph of G. and W. Endicott, circa 1844 (2 copies);</field>
+    <field name="scopecontent_teim">Delafield Mansion, "Sunswick," photograph by Holmes, 1878;</field>
+    <field name="scopecontent_teim">Ravenswood Classical English Boarding and Day School, photograph, 1872;</field>
+    <field name="scopecontent_teim">unidentified building, Ravenswood-Astoria, L.I., East River, photograph.</field>
+    <field name="ref_ssi">aspace_e8a143942eb519ecdcfd3125d7ea52e9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF488</field>
+    <field name="location_si">Folder: FF488</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series IV: New York City Views - Queens</field>
+    <field name="series_sim">Subseries IVB: QUEENS - FLAT MATERIAL</field>
+    <field name="series_si">Series IV: New York City Views - Queens &gt;&gt; Subseries IVB: QUEENS - FLAT MATERIAL &gt;&gt;  Astoria/Ravenswood</field>
+    <field name="heading_ssm"> Astoria/Ravenswood</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2282</field>
+  </doc>
+</add>

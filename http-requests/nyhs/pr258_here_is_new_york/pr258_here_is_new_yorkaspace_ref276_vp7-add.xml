@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr258_here_is_new_yorkaspace_ref276_vp7</field>
+    <field name="ead_ssi">pr258_here_is_new_york</field>
+    <field name="parent_ssi">aspace_ref109_2is</field>
+    <field name="parent_ssm">aspace_ref109_2is</field>
+    <field name="parent_unittitles_ssm">Series V: Office Files</field>
+    <field name="parent_unittitles_teim">Series V: Office Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Here is New York collection</field>
+    <field name="collection_ssm">Here is New York collection</field>
+    <field name="collection_unitid_ssm">PR 258</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VIII: Ephemera/Artifacts</field>
+    <field name="unittitle_teim">Subseries VIII: Ephemera/Artifacts</field>
+    <field name="scopecontent_teim">This subseries contains brochures of ceremonies for two awards won by here is new york (Brendan Gill Award and Cornell Capa Award) in 2002. Also included are office ephemera and artifacts including a patriotic mirror, flags, an album recording of E.B. White's "Here is New York," and VHS tapes unrelated to 9/11.</field>
+    <field name="ref_ssi">aspace_ref276_vp7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Here is New York collection</field>
+    <field name="collection_unitid_teim">PR 258</field>
+    <field name="series_sim">Series V: Office Files</field>
+    <field name="series_si">Series V: Office Files &gt;&gt; Subseries VIII: Ephemera/Artifacts</field>
+    <field name="heading_ssm">Subseries VIII: Ephemera/Artifacts</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">220</field>
+  </doc>
+</add>

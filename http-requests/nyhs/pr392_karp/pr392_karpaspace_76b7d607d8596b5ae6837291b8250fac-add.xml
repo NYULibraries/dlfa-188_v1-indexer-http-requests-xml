@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr392_karpaspace_76b7d607d8596b5ae6837291b8250fac</field>
+    <field name="ead_ssi">pr392_karp</field>
+    <field name="parent_ssi">aspace_ad45d73dba3a5cf731671bb47f1dc069</field>
+    <field name="parent_ssm">aspace_ad45d73dba3a5cf731671bb47f1dc069</field>
+    <field name="parent_unittitles_ssm">Series II: Ephemera </field>
+    <field name="parent_unittitles_teim">Series II: Ephemera </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Amie Karp collection of tobacciana</field>
+    <field name="collection_ssm">Amie Karp collection of tobacciana</field>
+    <field name="collection_unitid_ssm">PR 392</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cigar Box Labels L-Z</field>
+    <field name="unittitle_teim">Cigar Box Labels L-Z</field>
+    <field name="unitdate_inclusive_teim">1874-1935</field>
+    <field name="ref_ssi">aspace_76b7d607d8596b5ae6837291b8250fac</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 1-16</field>
+    <field name="location_ssm">Folder: 1-16</field>
+    <field name="location_si">Folder: 1-16</field>
+    <field name="collection_teim">Amie Karp collection of tobacciana</field>
+    <field name="collection_unitid_teim">PR 392</field>
+    <field name="series_sim">Series II: Ephemera </field>
+    <field name="series_si">Series II: Ephemera  &gt;&gt; Cigar Box Labels L-Z</field>
+    <field name="heading_ssm">Cigar Box Labels L-Z</field>
+    <field name="unitdate_ssm">Inclusive, 1874-1935</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">11</field>
+  </doc>
+</add>

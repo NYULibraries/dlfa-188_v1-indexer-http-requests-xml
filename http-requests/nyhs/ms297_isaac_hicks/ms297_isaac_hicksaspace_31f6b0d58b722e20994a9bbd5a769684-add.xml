@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_31f6b0d58b722e20994a9bbd5a769684</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_b45301b1202403866963b30db408cc55</field>
+    <field name="parent_ssm">aspace_ref4_m0q</field>
+    <field name="parent_ssm">aspace_b45301b1202403866963b30db408cc55</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">
+      Letters: 1804 A-F
+    </field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">
+      Letters: 1804 A-F
+    </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letters: D</field>
+    <field name="unittitle_teim">Letters: D</field>
+    <field name="unitdate_teim">1804</field>
+    <field name="scopecontent_teim">This folder includes correspondence to Isaac Hicks from his clients, including Davidson &amp; Foster, The Brothers DeBauque, Thomas Dickason, and Henry Drinker.  The brothers DeBauque discuss how business has been active during the time of peace.  They also discuss British blockades from all ports between Ostend and Havre.  A majority of the correspondence is in regards to regular business matters.  Some letters are in French.</field>
+    <field name="scopecontent_teim">Ships Mentioned: John Morgan</field>
+    <field name="ref_ssi">aspace_31f6b0d58b722e20994a9bbd5a769684</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 33, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">
+      Letters: 1804 A-F
+    </field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; 
+      Letters: 1804 A-F
+     &gt;&gt; Letters: D</field>
+    <field name="heading_ssm">Letters: D</field>
+    <field name="unitdate_ssm">1804</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">311</field>
+  </doc>
+</add>

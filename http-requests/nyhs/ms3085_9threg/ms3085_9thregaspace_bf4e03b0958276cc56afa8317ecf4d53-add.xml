@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3085_9thregaspace_bf4e03b0958276cc56afa8317ecf4d53</field>
+    <field name="ead_ssi">ms3085_9threg</field>
+    <field name="parent_ssi">aspace_ce37879d82df9256506264d557f99f7c</field>
+    <field name="parent_ssm">aspace_ce37879d82df9256506264d557f99f7c</field>
+    <field name="parent_unittitles_ssm">Series II: Veterans Association Meeting Minutes</field>
+    <field name="parent_unittitles_teim">Series II: Veterans Association Meeting Minutes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York State National Guard, 9th Regiment collection</field>
+    <field name="collection_ssm">New York State National Guard, 9th Regiment collection</field>
+    <field name="collection_unitid_ssm">MS 3085</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Minutes. Veterans of the Ninth Regiment, N.G.S.N.Y.</field>
+    <field name="unittitle_teim">Minutes. Veterans of the Ninth Regiment, N.G.S.N.Y.</field>
+    <field name="unitdate_inclusive_teim">1912 March-1922 December</field>
+    <field name="ref_ssi">aspace_bf4e03b0958276cc56afa8317ecf4d53</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 13, Volume: 13</field>
+    <field name="location_ssm">Volume: 13</field>
+    <field name="location_si">Volume: 13</field>
+    <field name="collection_teim">New York State National Guard, 9th Regiment collection</field>
+    <field name="collection_unitid_teim">MS 3085</field>
+    <field name="series_sim">Series II: Veterans Association Meeting Minutes</field>
+    <field name="series_si">Series II: Veterans Association Meeting Minutes &gt;&gt; Minutes. Veterans of the Ninth Regiment, N.G.S.N.Y.</field>
+    <field name="heading_ssm">Minutes. Veterans of the Ninth Regiment, N.G.S.N.Y.</field>
+    <field name="unitdate_ssm">Inclusive, 1912 March-1922 December</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">16</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_5309f5259cc63a39f89554ef46dca284</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_ssm">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_unittitles_ssm">Series II: Business Documents</field>
+    <field name="parent_unittitles_teim">Series II: Business Documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cargo Books, Insurance Account Books, Bill Books</field>
+    <field name="unittitle_teim">Cargo Books, Insurance Account Books, Bill Books</field>
+    <field name="unitdate_inclusive_teim">1795-1797</field>
+    <field name="scopecontent_teim">This box contains 15 folders of cargo books, insurance account books, and bill books.  In the cargo books, the pages are broken into columns and are titled: date, marks, number, quality, and crates.  One is bound in burlap and the other is bound in paper.  The insurance account books is predominantly a book of debits and credits based on purchasing of insurance.  Columns can include the date, ships names, captain, whether the vessel or cargo was what was insured, the amount it was insured for, and the premium paid.  The bill books include lists of money lent and borrowed, to whom it was lent, and when payment is due.</field>
+    <field name="ref_ssi">aspace_5309f5259cc63a39f89554ef46dca284</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 103</field>
+    <field name="location_si">Box: 103</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series II: Business Documents</field>
+    <field name="series_si">Series II: Business Documents &gt;&gt; Cargo Books, Insurance Account Books, Bill Books</field>
+    <field name="heading_ssm">Cargo Books, Insurance Account Books, Bill Books</field>
+    <field name="unitdate_ssm">Inclusive, 1795-1797</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">444</field>
+  </doc>
+</add>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_b2ec8cca9b6108de5695f533c72faecc</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_ea0f61a0262a8d717111beb4eefed96a</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_ea0f61a0262a8d717111beb4eefed96a</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Dutchman</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Dutchman</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Dutchman [loose issues]</field>
+    <field name="unittitle_teim">Dutchman [loose issues]</field>
+    <field name="unitdate_inclusive_teim">1941–1974</field>
+    <field name="scopecontent_teim">Vol. 24, no. 1 (September 26, 1941) – vol. 47, no. 3 (June 1974).</field>
+    <field name="scopecontent_teim">Complete except for the following issues:
+
+•	v. 28, no. 3 (Oct.? 1943)
+•	v. 31, no. 3 (Mar. 1945)
+•	v. 32, no. 1 (Sept.? 1945)
+•	v. 32, nos. 7–8 (Dec. 1945–Jan. 1946?) (published? )
+•	v. 34, no. 5 (Dec.? 1946)
+•	v. 36, nos. 5–6 (Dec. 1947–Jan. 1948?) (published? )
+•	v. 46, no. 1 (Oct. 1, 1952) (mutilated copy on file)
+•	v. 53, no. 3 (Nov. 30, 1956) (mutilated copy on file)
+•	v. 57, nos. 4–5 (Dec. 1958–Jan. 1959?) (published? )
+•	v. 64, no. 3 (Nov.? 1963)
+•	v. 68, no. 3 (Nov.? 1966)
+•	v. 70, no. 6 (June 1969) (defective copy on file)</field>
+    <field name="ref_ssi">aspace_b2ec8cca9b6108de5695f533c72faecc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-20</field>
+    <field name="location_si">Offsite-Box: RC-20</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Dutchman</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Dutchman &gt;&gt; Dutchman [loose issues]</field>
+    <field name="heading_ssm">Dutchman [loose issues]</field>
+    <field name="unitdate_ssm">Inclusive, 1941–1974</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">146</field>
+  </doc>
+</add>

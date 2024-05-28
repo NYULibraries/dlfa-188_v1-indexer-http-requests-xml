@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms282_harmonie_clubaspace_ref82_ycb</field>
+    <field name="ead_ssi">ms282_harmonie_club</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Harmonie Club records</field>
+    <field name="collection_ssm">Harmonie Club records</field>
+    <field name="collection_unitid_ssm">MS 282</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Constitutions and Statutes</field>
+    <field name="unittitle_teim">Series V: Constitutions and Statutes</field>
+    <field name="unitdate_inclusive_teim">1855-1884</field>
+    <field name="scopecontent_teim">The Constitutions and Statues series is composed of yearly editions of the Harmonie Club's constitution and regulations handwritten in German and signed by all active members. Three of the ledgers are titled Statuten Buch Gesellschaft Harmonie (Statutes Book Society Harmonie) and contain only one year each. The fourth is Verwaltungs Verordnungen (Administration Regulations) and maps the changes made to the governing rules over several years.</field>
+    <field name="ref_ssi">aspace_ref82_ycb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Harmonie Club records</field>
+    <field name="collection_unitid_teim">MS 282</field>
+    <field name="series_si">Series V: Constitutions and Statutes</field>
+    <field name="heading_ssm">Series V: Constitutions and Statutes</field>
+    <field name="unitdate_ssm">Inclusive, 1855-1884</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">92</field>
+  </doc>
+</add>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr054_postcardaspace_ref358_yo5</field>
+    <field name="ead_ssi">pr054_postcard</field>
+    <field name="parent_ssi">aspace_ref8_kng</field>
+    <field name="parent_ssm">aspace_ref8_kng</field>
+    <field name="parent_unittitles_ssm">Series IV. Subjects</field>
+    <field name="parent_unittitles_teim">Series IV. Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_ssm">PR 54</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;Transportation&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      Transportation
+    </field>
+    <field name="scopecontent_teim">Aeronautics
+Automotive
+Horse-drawn Vehicles
+Mountain Railways
+Railroads</field>
+    <field name="scopecontent_teim">Ships
+named, A-G
+named, H-R
+named, S-Z
+groups of ships
+unidentified ships</field>
+    <field name="scopecontent_teim">Trolley Cars</field>
+    <field name="ref_ssi">aspace_ref358_yo5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 92-95</field>
+    <field name="location_si">Box: 92-95</field>
+    <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_teim">PR 54</field>
+    <field name="series_sim">Series IV. Subjects</field>
+    <field name="series_si">Series IV. Subjects &gt;&gt; 
+      &lt;strong&gt;Transportation&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      Transportation
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">447</field>
+  </doc>
+</add>

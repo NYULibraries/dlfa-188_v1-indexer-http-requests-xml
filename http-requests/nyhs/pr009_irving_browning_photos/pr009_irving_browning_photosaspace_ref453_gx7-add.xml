@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr009_irving_browning_photosaspace_ref453_gx7</field>
+    <field name="ead_ssi">pr009_irving_browning_photos</field>
+    <field name="parent_ssi">aspace_ref450_9lx</field>
+    <field name="parent_ssm">aspace_ref450_9lx</field>
+    <field name="parent_unittitles_ssm">Series II. Documents</field>
+    <field name="parent_unittitles_teim">Series II. Documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Browning photograph collection</field>
+    <field name="collection_ssm">Browning photograph collection</field>
+    <field name="collection_unitid_ssm">PR 9</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Clippings</field>
+    <field name="unittitle_teim">Clippings</field>
+    <field name="unitdate_teim">1928-1941</field>
+    <field name="ref_ssi">aspace_ref453_gx7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 24, Folder: 231</field>
+    <field name="location_ssm">Folder: 231</field>
+    <field name="location_si">Folder: 231</field>
+    <field name="collection_teim">Browning photograph collection</field>
+    <field name="collection_unitid_teim">PR 9</field>
+    <field name="series_sim">Series II. Documents</field>
+    <field name="series_si">Series II. Documents &gt;&gt; Clippings</field>
+    <field name="heading_ssm">Clippings</field>
+    <field name="unitdate_ssm">1928-1941</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">430</field>
+  </doc>
+</add>

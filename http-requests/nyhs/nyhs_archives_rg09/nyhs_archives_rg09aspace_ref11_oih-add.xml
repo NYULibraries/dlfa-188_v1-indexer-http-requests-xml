@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg09aspace_ref11_oih</field>
+    <field name="ead_ssi">nyhs_archives_rg09</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society membership records</field>
+    <field name="collection_ssm">New-York Historical Society membership records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 9</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II. Annual Member Lists</field>
+    <field name="unittitle_teim">Series II. Annual Member Lists</field>
+    <field name="unitdate_teim">1873-1978</field>
+    <field name="scopecontent_teim">The Annual Member Lists series includes 69 volumes of member lists. The volumes are essentially scrapbooks. From 1912 to the end of the series in 1978, each volume includes the year's list of members as cut and pasted from the N-YHS printed annual report. These lists include annotations concerning deaths, resignations, and other factors impacting membership status that occurred during the year. Newspaper clippings, especially death notices and obituaries, and some correspondence concerning resignations and deaths, are glued into the volumes. The earliest years in the series—1873 to 1911—are compiled in three volumes; these are a bit less consistent in content than the later years, with many more handwritten annotations, but include essentially the same information.</field>
+    <field name="ref_ssi">aspace_ref11_oih</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society membership records</field>
+    <field name="collection_unitid_teim">NYHS-RG 9</field>
+    <field name="series_si">Series II. Annual Member Lists</field>
+    <field name="heading_ssm">Series II. Annual Member Lists</field>
+    <field name="unitdate_ssm">1873-1978</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">32</field>
+  </doc>
+</add>

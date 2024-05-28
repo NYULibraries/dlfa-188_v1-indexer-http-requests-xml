@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_880f5e251699e24ef830dc3d16937813</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_ssm">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_unittitles_ssm">Series I: Broadway Theatrical Photography</field>
+    <field name="parent_unittitles_teim">Series I: Broadway Theatrical Photography</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries: VANDAMM STUDIOS</field>
+    <field name="unittitle_teim">Subseries: VANDAMM STUDIOS</field>
+    <field name="unitdate_inclusive_teim">1926-1958</field>
+    <field name="scopecontent_teim">This subseries contains the work of Vandamm Studio, founded by Florence Vandamm (1883-1966). Vandamm Studio, in operation in New York from 1924 to 1964, was run by Florence Vandamm and her husband George R. Thomas, and the photographs capture the New York theater world. This subseries includes images of theatrical productions and portraits of stage actors.</field>
+    <field name="scopecontent_teim">This subseries contains photos of plays such as "Angels in the Wings," "Bloomer Girl," "Doctor's Dilemma," "The Good Fairy," "Madame Bovary," "Star Wagon," and "Streets of New York," among many others.  Portrait subjects include Mary Boland, Jimmy Durante, Helen Hayes, Harriet Jackson, Alfred Lunt and Lynn Fontanne.</field>
+    <field name="ref_ssi">aspace_880f5e251699e24ef830dc3d16937813</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series I: Broadway Theatrical Photography</field>
+    <field name="series_si">Series I: Broadway Theatrical Photography &gt;&gt; Subseries: VANDAMM STUDIOS</field>
+    <field name="heading_ssm">Subseries: VANDAMM STUDIOS</field>
+    <field name="unitdate_ssm">Inclusive, 1926-1958</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">57</field>
+  </doc>
+</add>

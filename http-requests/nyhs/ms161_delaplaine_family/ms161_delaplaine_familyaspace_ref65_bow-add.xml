@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms161_delaplaine_familyaspace_ref65_bow</field>
+    <field name="ead_ssi">ms161_delaplaine_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Delaplaine Family papers</field>
+    <field name="collection_ssm">Delaplaine Family papers</field>
+    <field name="collection_unitid_ssm">MS 161</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Financial Papers - Elijah Delaplaine</field>
+    <field name="unittitle_teim">Financial Papers - Elijah Delaplaine</field>
+    <field name="unitdate_normal_ssm">1834/1837</field>
+    <field name="unitdate_normal_teim">1834/1837</field>
+    <field name="unitdate_normal_sim">1834/1837</field>
+    <field name="unitdate_inclusive_teim">1834-1837</field>
+    <field name="ref_ssi">aspace_ref65_bow</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Delaplaine Family papers</field>
+    <field name="collection_unitid_teim">MS 161</field>
+    <field name="series_si">Financial Papers - Elijah Delaplaine</field>
+    <field name="heading_ssm">Financial Papers - Elijah Delaplaine</field>
+    <field name="unitdate_start_sim">1834</field>
+    <field name="unitdate_start_ssm">1834</field>
+    <field name="unitdate_start_si">1834</field>
+    <field name="unitdate_end_sim">1837</field>
+    <field name="unitdate_end_ssm">1837</field>
+    <field name="unitdate_end_si">1837</field>
+    <field name="unitdate_ssm">Inclusive, 1834-1837</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

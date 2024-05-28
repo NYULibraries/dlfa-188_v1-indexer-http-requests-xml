@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms277_hare_familyaspace_ref23_9ul</field>
+    <field name="ead_ssi">ms277_hare_family</field>
+    <field name="parent_ssi">aspace_ref14_w3a</field>
+    <field name="parent_ssm">aspace_ref14_w3a</field>
+    <field name="parent_unittitles_ssm">Series 1: Montgomery Hare, 1884-1930, undated</field>
+    <field name="parent_unittitles_teim">Series 1: Montgomery Hare, 1884-1930, undated</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hare Family Papers</field>
+    <field name="collection_ssm">Hare Family Papers</field>
+    <field name="collection_unitid_ssm">MS 277</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Montgomery Hare: Letters received from R-S</field>
+    <field name="unittitle_teim">Montgomery Hare: Letters received from R-S</field>
+    <field name="unitdate_normal_ssm">1883/1930</field>
+    <field name="unitdate_normal_teim">1883/1930</field>
+    <field name="unitdate_normal_sim">1883/1930</field>
+    <field name="unitdate_inclusive_teim">1883-1930</field>
+    <field name="ref_ssi">aspace_ref23_9ul</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Hare Family Papers</field>
+    <field name="collection_unitid_teim">MS 277</field>
+    <field name="series_sim">Series 1: Montgomery Hare, 1884-1930, undated</field>
+    <field name="series_si">Series 1: Montgomery Hare, 1884-1930, undated &gt;&gt; Montgomery Hare: Letters received from R-S</field>
+    <field name="heading_ssm">Montgomery Hare: Letters received from R-S</field>
+    <field name="unitdate_start_sim">1883</field>
+    <field name="unitdate_start_ssm">1883</field>
+    <field name="unitdate_start_si">1883</field>
+    <field name="unitdate_end_sim">1930</field>
+    <field name="unitdate_end_ssm">1930</field>
+    <field name="unitdate_end_si">1930</field>
+    <field name="unitdate_ssm">Inclusive, 1883-1930</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

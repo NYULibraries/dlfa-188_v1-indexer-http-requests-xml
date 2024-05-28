@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr011_carte_de_visiteaspace_3e39d8bf1a7426b854903e959909bf16</field>
+    <field name="ead_ssi">pr011_carte_de_visite</field>
+    <field name="parent_ssi">aspace_bb00e0847451131998e988a2a18ff086</field>
+    <field name="parent_ssm">aspace_8c541ee80b86029c1f2356bcb1fbbde3</field>
+    <field name="parent_ssm">aspace_bb00e0847451131998e988a2a18ff086</field>
+    <field name="parent_unittitles_ssm">Series I. Portraits</field>
+    <field name="parent_unittitles_ssm">Subseries I.B. Printed portraits</field>
+    <field name="parent_unittitles_teim">Series I. Portraits</field>
+    <field name="parent_unittitles_teim">Subseries I.B. Printed portraits</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society carte de visite photograph collection</field>
+    <field name="collection_ssm">New-York Historical Society carte de visite photograph collection</field>
+    <field name="collection_unitid_ssm">PR 011</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;Printed portraits: W&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      Printed portraits: W
+    </field>
+    <field name="scopecontent_teim">Wadsworth, James S.
+Ward, John H. H.
+Warren, Gouverneur Kemble
+Washington, George (4)
+Washington, Martha
+Weber, Max (2)
+Welles, Gideon
+Wilkes, Charles (4)
+Wilson, Henry
+Winthrop, Theodore (2)
+Wool, John E. (8)</field>
+    <field name="ref_ssi">aspace_3e39d8bf1a7426b854903e959909bf16</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 25</field>
+    <field name="location_si">Box: 25</field>
+    <field name="collection_teim">New-York Historical Society carte de visite photograph collection</field>
+    <field name="collection_unitid_teim">PR 011</field>
+    <field name="series_sim">Series I. Portraits</field>
+    <field name="series_sim">Subseries I.B. Printed portraits</field>
+    <field name="series_si">Series I. Portraits &gt;&gt; Subseries I.B. Printed portraits &gt;&gt; 
+      &lt;strong&gt;Printed portraits: W&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      Printed portraits: W
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">73</field>
+  </doc>
+</add>

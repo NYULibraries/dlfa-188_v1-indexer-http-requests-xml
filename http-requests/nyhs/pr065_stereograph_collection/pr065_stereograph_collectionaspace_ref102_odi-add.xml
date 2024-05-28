@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref102_odi</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Illinois--Chicago--World's Columbian Exposition</field>
+    <field name="unittitle_teim">Illinois--Chicago--World's Columbian Exposition</field>
+    <field name="unitdate_normal_ssm">1893/1893</field>
+    <field name="unitdate_normal_teim">1893/1893</field>
+    <field name="unitdate_normal_sim">1893/1893</field>
+    <field name="unitdate_inclusive_teim">1893</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0090</field>
+    <field name="scopecontent_teim">Views at the World's Colombian Exposition: Throngs of people at the opening, and view of the blind chaplain leading a prayer, and six hundred musicians rendering the Colombian March; general views, including views of the lagoon, the great fountain (one view on fourth of July with large U.S. flag in foreground), fireworks over the lagoon, and various buildings; buildings shown include: Administration building, Fine Arts building, German building; Government building, Horticultural Hall, Japanese pagoda, Liberal Arts building, Machinery Hall, state buildings, including the Illinois building, New York Building, Washington State Building, the Transportation building, Women's building; specific exhibits: children looking at the first locomotive, a modern speed-record-setting locomotive, the China exhibit, Japanese pottery in the Manuf. Building, German toy exhibit showing elaborate carriage filled with toys, center court in the Fine Arts building, Bohemian glass and stuffed animals including baby bison and polar bears in the Liberal Arts Building, women in the New South Wales exhibit, views in the Agriculture building including the Brazilian exhibit, and the goddess of the harvest in the North Dakota exhibit, interior views of horticultural hall including Florida's coconut tree, Oregon fruit, and a mammoth fern, general interior view and Pennsylvania coal in Mining Building, interior view of the California building, an Illinois farm scene made from grain in the Illinois building, views on the grounds: flowers on the Wooded Island, the Midway, including the Ferris wheel, a group of Javanese, Algerians with drums and instruments, the Algerian and Tunisian village, exterior of the Chinese village, "street life of Cairo," with men with donkeys and man on a camel, group of South Sea Islanders, one of McMonnies' horse statues, a statue of Christopher Columbus, the Peristyle, views on the lagoon including a Norse ship, Columbus's ships which are moored next to convent where Columbus founded an asylum, a bicycle club riding in the World's Fair dedication Parade; men looking on as water is poured on the burning Cold storage building; a group of ducks rounded up at the end of the fair; floral display in the shape of the world in Washington Park; a replica of the Nina.</field>
+    <field name="scopecontent_teim">107 items</field>
+    <field name="ref_ssi">aspace_ref102_odi</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12</field>
+    <field name="location_si">Box: 12</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Illinois--Chicago--World's Columbian Exposition</field>
+    <field name="heading_ssm">Illinois--Chicago--World's Columbian Exposition</field>
+    <field name="unitdate_start_sim">1893</field>
+    <field name="unitdate_start_ssm">1893</field>
+    <field name="unitdate_start_si">1893</field>
+    <field name="unitdate_end_sim">1893</field>
+    <field name="unitdate_end_ssm">1893</field>
+    <field name="unitdate_end_si">1893</field>
+    <field name="unitdate_ssm">Inclusive, 1893</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">91</field>
+  </doc>
+</add>

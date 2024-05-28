@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr104_theatrical_portrait_collectionaspace_c9b58a235f09c409f5fb809e0ca50692</field>
+    <field name="ead_ssi">pr104_theatrical_portrait_collection</field>
+    <field name="parent_ssi">aspace_3090953be99b575b3b2cfc28d04f351e</field>
+    <field name="parent_ssm">aspace_7073aa78a897811b2e33bd077b2955d3</field>
+    <field name="parent_ssm">aspace_3090953be99b575b3b2cfc28d04f351e</field>
+    <field name="parent_unittitles_ssm">Series II. Groups</field>
+    <field name="parent_unittitles_ssm">Subseries II.B. Groups (large format)</field>
+    <field name="parent_unittitles_teim">Series II. Groups</field>
+    <field name="parent_unittitles_teim">Subseries II.B. Groups (large format)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_ssm">PR 104</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Theatre (large)</field>
+    <field name="unittitle_teim">Theatre (large)</field>
+    <field name="unitdate_inclusive_teim">1917</field>
+    <field name="scopecontent_teim">"Lest We Forget" poster with portraits of deceased actors, 1917</field>
+    <field name="ref_ssi">aspace_c9b58a235f09c409f5fb809e0ca50692</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">drawer: Large</field>
+    <field name="location_si">drawer: Large</field>
+    <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_teim">PR 104</field>
+    <field name="series_sim">Series II. Groups</field>
+    <field name="series_sim">Subseries II.B. Groups (large format)</field>
+    <field name="series_si">Series II. Groups &gt;&gt; Subseries II.B. Groups (large format) &gt;&gt; Theatre (large)</field>
+    <field name="heading_ssm">Theatre (large)</field>
+    <field name="unitdate_ssm">Inclusive, 1917</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">86</field>
+  </doc>
+</add>

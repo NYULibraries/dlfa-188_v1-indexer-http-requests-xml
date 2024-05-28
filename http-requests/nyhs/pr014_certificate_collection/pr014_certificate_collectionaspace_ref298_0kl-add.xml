@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref298_0kl</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XII: Legal</field>
+    <field name="unittitle_teim">Series XII: Legal</field>
+    <field name="unitdate_inclusive_teim">1809-1936</field>
+    <field name="scopecontent_teim">This series includes birth, marriage and death certificates, passports, and certificates of
+admission to the bar. Some are on parchment and include wax or foil seals. Also included are leases, receipts, a deed for land in the Dakota Territories,
+and a certificate from the London Trade Marks Registry Office.   </field>
+    <field name="scopecontent_teim">Of special interest is an ornate lithograph recording the marriage of Henry Lockwood and Zana Rowland in
+1885. Cartes de visite of the bride and groom are attached to the verso. </field>
+    <field name="scopecontent_teim">Also of note is a hand-lettered document from the State of New York Executive Chamber. The certificate, created in 1913, is affixed with the pen that was used to sign a bill regarding the Highway Act into law. </field>
+    <field name="ref_ssi">aspace_ref298_0kl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series XII: Legal</field>
+    <field name="heading_ssm">Series XII: Legal</field>
+    <field name="unitdate_ssm">Inclusive, 1809-1936</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">195</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms592_ebenezer_stevensaspace_ref59_fj8</field>
+    <field name="ead_ssi">ms592_ebenezer_stevens</field>
+    <field name="parent_ssi">aspace_ref43_wyb</field>
+    <field name="parent_ssm">aspace_ref43_wyb</field>
+    <field name="parent_unittitles_ssm">Series IV: Legal Documents </field>
+    <field name="parent_unittitles_teim">Series IV: Legal Documents </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ebenezer Stevens Papers</field>
+    <field name="collection_ssm">Ebenezer Stevens Papers</field>
+    <field name="collection_unitid_ssm">MS 592</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Legal Documents</field>
+    <field name="unittitle_teim">Legal Documents</field>
+    <field name="unitdate_teim">1783, 1793</field>
+    <field name="ref_ssi">aspace_ref59_fj8</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Ebenezer Stevens Papers</field>
+    <field name="collection_unitid_teim">MS 592</field>
+    <field name="series_sim">Series IV: Legal Documents </field>
+    <field name="series_si">Series IV: Legal Documents  &gt;&gt; Legal Documents</field>
+    <field name="heading_ssm">Legal Documents</field>
+    <field name="unitdate_ssm">1783, 1793</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

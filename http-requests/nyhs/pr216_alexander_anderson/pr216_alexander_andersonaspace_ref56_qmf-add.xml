@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr216_alexander_andersonaspace_ref56_qmf</field>
+    <field name="ead_ssi">pr216_alexander_anderson</field>
+    <field name="parent_ssi">aspace_ref55_qz3</field>
+    <field name="parent_ssm">aspace_ref55_qz3</field>
+    <field name="parent_unittitles_ssm">Series IV. Documentation</field>
+    <field name="parent_unittitles_teim">Series IV. Documentation</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alexander Anderson Print Collection</field>
+    <field name="collection_ssm">Alexander Anderson Print Collection</field>
+    <field name="collection_unitid_ssm">PR 216</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Anderson's engraving tools</field>
+    <field name="unittitle_teim">Anderson's engraving tools</field>
+    <field name="ref_ssi">aspace_ref56_qmf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4</field>
+    <field name="location_si">Box: 4</field>
+    <field name="collection_teim">Alexander Anderson Print Collection</field>
+    <field name="collection_unitid_teim">PR 216</field>
+    <field name="series_sim">Series IV. Documentation</field>
+    <field name="series_si">Series IV. Documentation &gt;&gt; Anderson's engraving tools</field>
+    <field name="heading_ssm">Anderson's engraving tools</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms78_brown_brothers_harrimanaspace_ref611_f49</field>
+    <field name="ead_ssi">ms78_brown_brothers_harriman</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brown Brothers Harriman records</field>
+    <field name="collection_ssm">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_ssm">MS 78</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III. Financial and Business Records (1880-1934)</field>
+    <field name="unittitle_teim">Series III. Financial and Business Records (1880-1934)</field>
+    <field name="unitdate_normal_ssm">1880/1928</field>
+    <field name="unitdate_normal_teim">1880/1928</field>
+    <field name="unitdate_normal_sim">1880/1928</field>
+    <field name="unitdate_inclusive_teim">1880-1928</field>
+    <field name="scopecontent_teim">The series includes ledgers, salary books, customer and partnership accounts, quarterly and annual accounts by location, receipts, legal documents, and statements providing details of accounting practices and both financial transactions and business practices within and external to Brown Brothers Harriman and its preceding component companies.</field>
+    <field name="scopecontent_teim">The series is arranged in two subseries: </field>
+    <field name="scopecontent_teim">Subseries A. Ledgers</field>
+    <field name="scopecontent_teim">Subseries B. Other Financial and Business Records</field>
+    <field name="scopecontent_teim">The volumes are numbered differently from others in the Records for ease of access, because the ledgers are so physically distinct and unwieldy (see Subseries A. Physical Description note). The ledgers in Subseries A. are numbered consecutively L1-L36; the volumes in Subseries B. continue (with Volume 13) the numbering system from Series I. Historical Files.</field>
+    <field name="ref_ssi">aspace_ref611_f49</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_teim">MS 78</field>
+    <field name="series_si">Series III. Financial and Business Records (1880-1934)</field>
+    <field name="heading_ssm">Series III. Financial and Business Records (1880-1934)</field>
+    <field name="unitdate_start_sim">1880</field>
+    <field name="unitdate_start_ssm">1880</field>
+    <field name="unitdate_start_si">1880</field>
+    <field name="unitdate_end_sim">1928</field>
+    <field name="unitdate_end_ssm">1928</field>
+    <field name="unitdate_end_si">1928</field>
+    <field name="unitdate_ssm">Inclusive, 1880-1928</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1443</field>
+  </doc>
+</add>

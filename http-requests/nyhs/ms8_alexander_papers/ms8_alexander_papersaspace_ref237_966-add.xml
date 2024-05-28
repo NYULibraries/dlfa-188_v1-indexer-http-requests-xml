@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms8_alexander_papersaspace_ref237_966</field>
+    <field name="ead_ssi">ms8_alexander_papers</field>
+    <field name="parent_ssi">aspace_ref164_ekq</field>
+    <field name="parent_ssm">aspace_ref164_ekq</field>
+    <field name="parent_unittitles_ssm">Series 6: Surveys</field>
+    <field name="parent_unittitles_teim">Series 6: Surveys</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alexander papers</field>
+    <field name="collection_ssm">Alexander papers</field>
+    <field name="collection_unitid_ssm">MS 8</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Surveys--Somerset County. A</field>
+    <field name="unittitle_teim">Surveys--Somerset County. A</field>
+    <field name="ref_ssi">aspace_ref237_966</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 31, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Alexander papers</field>
+    <field name="collection_unitid_teim">MS 8</field>
+    <field name="series_sim">Series 6: Surveys</field>
+    <field name="series_si">Series 6: Surveys &gt;&gt; Surveys--Somerset County. A</field>
+    <field name="heading_ssm">Surveys--Somerset County. A</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">221</field>
+  </doc>
+</add>

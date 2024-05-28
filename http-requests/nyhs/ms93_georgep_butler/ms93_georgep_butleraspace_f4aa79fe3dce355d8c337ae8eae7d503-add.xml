@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms93_georgep_butleraspace_f4aa79fe3dce355d8c337ae8eae7d503</field>
+    <field name="ead_ssi">ms93_georgep_butler</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">George P. Butler &amp; Brother records</field>
+    <field name="collection_ssm">George P. Butler &amp; Brother records</field>
+    <field name="collection_unitid_ssm">MS 93</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II. Financial Records</field>
+    <field name="unittitle_teim">Series II. Financial Records</field>
+    <field name="unitdate_inclusive_teim">1905-1911</field>
+    <field name="scopecontent_teim">The series includes client statements, transaction ledgers and journals, blotters, and other accounting records that provides information on clients, client activity, securities bought and sold, dividend and interest payments, and other financial business matters.</field>
+    <field name="ref_ssi">aspace_f4aa79fe3dce355d8c337ae8eae7d503</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">George P. Butler &amp; Brother records</field>
+    <field name="collection_unitid_teim">MS 93</field>
+    <field name="series_si">Series II. Financial Records</field>
+    <field name="heading_ssm">Series II. Financial Records</field>
+    <field name="unitdate_ssm">Inclusive, 1905-1911</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

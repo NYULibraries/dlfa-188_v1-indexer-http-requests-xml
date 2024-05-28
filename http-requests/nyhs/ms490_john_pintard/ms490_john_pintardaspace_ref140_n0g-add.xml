@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms490_john_pintardaspace_ref140_n0g</field>
+    <field name="ead_ssi">ms490_john_pintard</field>
+    <field name="parent_ssi">aspace_ref138_grt</field>
+    <field name="parent_ssm">aspace_ref6_szb</field>
+    <field name="parent_ssm">aspace_ref138_grt</field>
+    <field name="parent_unittitles_ssm">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="parent_unittitles_ssm">Subseries VII: Genealogies</field>
+    <field name="parent_unittitles_teim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="parent_unittitles_teim">Subseries VII: Genealogies</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Pintard Papers</field>
+    <field name="collection_ssm">John Pintard Papers</field>
+    <field name="collection_unitid_ssm">MS 490</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Genealogies</field>
+    <field name="unittitle_teim">Genealogies</field>
+    <field name="unitdate_teim">1822, 1831, undated</field>
+    <field name="ref_ssi">aspace_ref140_n0g</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">John Pintard Papers</field>
+    <field name="collection_unitid_teim">MS 490</field>
+    <field name="series_sim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="series_sim">Subseries VII: Genealogies</field>
+    <field name="series_si">Series 1: Papers of John Pintard, 1779-1851 &gt;&gt; Subseries VII: Genealogies &gt;&gt; Genealogies</field>
+    <field name="heading_ssm">Genealogies</field>
+    <field name="unitdate_ssm">1822, 1831, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">91</field>
+  </doc>
+</add>

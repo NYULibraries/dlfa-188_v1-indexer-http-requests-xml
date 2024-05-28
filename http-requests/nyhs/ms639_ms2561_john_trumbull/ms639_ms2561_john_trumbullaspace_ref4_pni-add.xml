@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms639_ms2561_john_trumbullaspace_ref4_pni</field>
+    <field name="ead_ssi">ms639_ms2561_john_trumbull</field>
+    <field name="parent_ssi">aspace_ref10_jhc</field>
+    <field name="parent_ssm">aspace_ref10_jhc</field>
+    <field name="parent_unittitles_ssm">Series I: John Trumbull Correspondence and Papers</field>
+    <field name="parent_unittitles_teim">Series I: John Trumbull Correspondence and Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Trumbull Papers</field>
+    <field name="collection_ssm">John Trumbull Papers</field>
+    <field name="collection_unitid_ssm">MS 639, MS 2561</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Letter Book (volume)</field>
+    <field name="unittitle_teim">Letter Book (volume)</field>
+    <field name="unitdate_teim">1796-1802</field>
+    <field name="ref_ssi">aspace_ref4_pni</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 2</field>
+    <field name="location_si">Volume: 2</field>
+    <field name="collection_teim">John Trumbull Papers</field>
+    <field name="collection_unitid_teim">MS 639, MS 2561</field>
+    <field name="series_sim">Series I: John Trumbull Correspondence and Papers</field>
+    <field name="series_si">Series I: John Trumbull Correspondence and Papers &gt;&gt; Letter Book (volume)</field>
+    <field name="heading_ssm">Letter Book (volume)</field>
+    <field name="unitdate_ssm">1796-1802</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

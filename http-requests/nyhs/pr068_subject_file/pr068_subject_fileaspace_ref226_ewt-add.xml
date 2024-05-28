@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr068_subject_fileaspace_ref226_ewt</field>
+    <field name="ead_ssi">pr068_subject_file</field>
+    <field name="parent_ssi">aspace_ref11_o09</field>
+    <field name="parent_ssm">aspace_ref11_o09</field>
+    <field name="parent_unittitles_ssm">Series I: Boxed Files</field>
+    <field name="parent_unittitles_teim">Series I: Boxed Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Subject File</field>
+    <field name="collection_ssm">Subject File</field>
+    <field name="collection_unitid_ssm">PR 68</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">SPORTS AND RECREATION - FOOTBALL</field>
+    <field name="unittitle_teim">SPORTS AND RECREATION - FOOTBALL</field>
+    <field name="ref_ssi">aspace_ref226_ewt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13</field>
+    <field name="location_si">Box: 13</field>
+    <field name="collection_teim">Subject File</field>
+    <field name="collection_unitid_teim">PR 68</field>
+    <field name="series_sim">Series I: Boxed Files</field>
+    <field name="series_si">Series I: Boxed Files &gt;&gt; SPORTS AND RECREATION - FOOTBALL</field>
+    <field name="heading_ssm">SPORTS AND RECREATION - FOOTBALL</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">64</field>
+  </doc>
+</add>

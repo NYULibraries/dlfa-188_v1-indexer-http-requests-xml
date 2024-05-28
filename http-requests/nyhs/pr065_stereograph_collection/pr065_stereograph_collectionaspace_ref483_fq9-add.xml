@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref483_fq9</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Streets, Avenues -- Fifth, 42nd - 59th</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Streets, Avenues -- Fifth, 42nd - 59th</field>
+    <field name="unitdate_normal_ssm">1865/1959</field>
+    <field name="unitdate_normal_teim">1865/1959</field>
+    <field name="unitdate_normal_sim">1865/1959</field>
+    <field name="unitdate_inclusive_teim">[1865-1959]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0469</field>
+    <field name="scopecontent_teim">Fifth Avenue, 42nd - 59th Streets: from the reservoir, including the Rutgers Institute and the Jewish Tabernacle from 42nd street, including carriages and automobiles, homes and the Jewish Tabernacle, later views showing large office buildings; apartment house on the corner of 42nd and Fifth; wooden buildings at 56th and Fifth; Protestant Episcopal Church of the Heavenly Rest and neighboring homes, 45th and 46th; N.W. corner of 44th and Fifth, looking west; south from 45th, with Empire State Building just visible at the left; north from 45th, with St. Patrick's Cathedral; north from 48th, facades of Rockefeller Center visible; north from 49th, with homes and St. Patrick's; looking north, from in front of St. Patrick's, crowds leaving church; Fifth Avenue and 52nd, looking N.W., with steam shovel, bulldozer and crane in construction site; north from 52nd, St. Thomas's Church; north from 53rd, with palatial homes and hotels, one view with carriages and early cars and buses, later view with large buildings on the west side of the street; south from 53rd, with mansion converted to other purposes, and St. Thomas Church; north from 53rd, Vanderbilt homes, church; buildings (houses) near 59th; A.S.P.C.A. wagon with water for horses, at Grand Army Plaza, 5th and 59th.</field>
+    <field name="scopecontent_teim">40 items</field>
+    <field name="ref_ssi">aspace_ref483_fq9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 41</field>
+    <field name="location_si">Box: 41</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Streets, Avenues -- Fifth, 42nd - 59th</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Streets, Avenues -- Fifth, 42nd - 59th</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1959</field>
+    <field name="unitdate_end_ssm">1959</field>
+    <field name="unitdate_end_si">1959</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1959]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">470</field>
+  </doc>
+</add>

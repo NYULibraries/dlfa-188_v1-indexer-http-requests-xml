@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref339_ojn</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Europe, February 3 to June 9th, 1913</field>
+    <field name="unittitle_teim">Europe, February 3 to June 9th, 1913</field>
+    <field name="unitdate_inclusive_teim">1913</field>
+    <field name="scopecontent_teim">Robinson, Pauline, compiler. Views on board ships, including the" Auguste Victoria," and views in Madeira, Spain, including La Alhambra, Granada; Algeria; the Riviera, including views of touring cars; Sicily; Italy including Rome, Florence, Venice and Lake Como; Malta; Greece; Syria, including views at train station and market; Jerusalem; Egypt; group portraits, views in gardens, at ruins and other sites, ship-board scenes.</field>
+    <field name="ref_ssi">aspace_ref339_ojn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 11, Volume: 105</field>
+    <field name="location_ssm">Volume: 105</field>
+    <field name="location_si">Volume: 105</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Europe, February 3 to June 9th, 1913</field>
+    <field name="heading_ssm">Europe, February 3 to June 9th, 1913</field>
+    <field name="unitdate_ssm">Inclusive, 1913</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">113</field>
+  </doc>
+</add>

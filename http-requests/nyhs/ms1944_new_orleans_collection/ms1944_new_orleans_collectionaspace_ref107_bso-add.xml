@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms1944_new_orleans_collectionaspace_ref107_bso</field>
+    <field name="ead_ssi">ms1944_new_orleans_collection</field>
+    <field name="parent_ssi">aspace_ref94_f3a</field>
+    <field name="parent_ssm">aspace_ref94_f3a</field>
+    <field name="parent_unittitles_ssm">Series VII. Financial Records, 1803-1883, undated (bulk 1820s)</field>
+    <field name="parent_unittitles_teim">Series VII. Financial Records, 1803-1883, undated (bulk 1820s)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New Orleans Collection</field>
+    <field name="collection_ssm">New Orleans Collection</field>
+    <field name="collection_unitid_ssm">MS 1944</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Accounts, bills, receipts</field>
+    <field name="unittitle_teim">Accounts, bills, receipts</field>
+    <field name="unitdate_normal_ssm">1826/1827</field>
+    <field name="unitdate_normal_teim">1826/1827</field>
+    <field name="unitdate_normal_sim">1826/1827</field>
+    <field name="unitdate_inclusive_teim">1826-1827</field>
+    <field name="ref_ssi">aspace_ref107_bso</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">New Orleans Collection</field>
+    <field name="collection_unitid_teim">MS 1944</field>
+    <field name="series_sim">Series VII. Financial Records, 1803-1883, undated (bulk 1820s)</field>
+    <field name="series_si">Series VII. Financial Records, 1803-1883, undated (bulk 1820s) &gt;&gt; Accounts, bills, receipts</field>
+    <field name="heading_ssm">Accounts, bills, receipts</field>
+    <field name="unitdate_start_sim">1826</field>
+    <field name="unitdate_start_ssm">1826</field>
+    <field name="unitdate_start_si">1826</field>
+    <field name="unitdate_end_sim">1827</field>
+    <field name="unitdate_end_ssm">1827</field>
+    <field name="unitdate_end_si">1827</field>
+    <field name="unitdate_ssm">Inclusive, 1826-1827</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">82</field>
+  </doc>
+</add>

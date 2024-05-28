@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms612_matthias_tallmadgeaspace_ref73_wba</field>
+    <field name="ead_ssi">ms612_matthias_tallmadge</field>
+    <field name="parent_ssi">aspace_ref51_wpf</field>
+    <field name="parent_ssm">aspace_ref51_wpf</field>
+    <field name="parent_unittitles_ssm">Series II: Legal</field>
+    <field name="parent_unittitles_teim">Series II: Legal</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Matthias B. Tallmadge papers</field>
+    <field name="collection_ssm">Matthias B. Tallmadge papers</field>
+    <field name="collection_unitid_ssm">MS 612</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.B: Court Documents </field>
+    <field name="unittitle_teim">Subseries II.B: Court Documents </field>
+    <field name="unitdate_normal_ssm">1772/1822</field>
+    <field name="unitdate_normal_teim">1772/1822</field>
+    <field name="unitdate_normal_sim">1772/1822</field>
+    <field name="unitdate_inclusive_teim">1772-1822, undated</field>
+    <field name="scopecontent_teim">Subseries B contains a variety of official materials. There are affidavits from cases heard from 1807-1810. Of note among these affidavits are several pertaining to the illegal importation of slaves including affidavits from William L. Lawrence and Anthony Anthe, both dated March 15, 1810 and Isaac Sherman's dated March 17, 1810. There are a variety of other official documents from the court, though none of them have a number close to that of the affidavits. Two cases have been given their own files because of the amount of documentation: William Jackson et al. v. Ship Frederick  and U.S. v. Aquila Giles, Nicholas Fish, and Matthew Clarkson, in which the defendants were known Revolutionary War heroes.</field>
+    <field name="ref_ssi">aspace_ref73_wba</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Matthias B. Tallmadge papers</field>
+    <field name="collection_unitid_teim">MS 612</field>
+    <field name="series_sim">Series II: Legal</field>
+    <field name="series_si">Series II: Legal &gt;&gt; Subseries II.B: Court Documents </field>
+    <field name="heading_ssm">Subseries II.B: Court Documents </field>
+    <field name="unitdate_start_sim">1772</field>
+    <field name="unitdate_start_ssm">1772</field>
+    <field name="unitdate_start_si">1772</field>
+    <field name="unitdate_end_sim">1822</field>
+    <field name="unitdate_end_ssm">1822</field>
+    <field name="unitdate_end_si">1822</field>
+    <field name="unitdate_ssm">Inclusive, 1772-1822, undated</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">57</field>
+  </doc>
+</add>

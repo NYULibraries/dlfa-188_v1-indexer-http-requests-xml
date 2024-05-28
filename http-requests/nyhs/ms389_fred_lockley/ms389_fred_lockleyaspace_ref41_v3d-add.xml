@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms389_fred_lockleyaspace_ref41_v3d</field>
+    <field name="ead_ssi">ms389_fred_lockley</field>
+    <field name="parent_ssi">aspace_ref15_zbd</field>
+    <field name="parent_ssm">aspace_ref15_zbd</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence, 1839-1958, undated</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence, 1839-1958, undated</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Fred Lockley Papers</field>
+    <field name="collection_ssm">Fred Lockley Papers</field>
+    <field name="collection_unitid_ssm">MS 389</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 3: Letters between Others, 1839-1955</field>
+    <field name="unittitle_teim">Subseries 3: Letters between Others, 1839-1955</field>
+    <field name="scopecontent_teim">Includes letters to and from various family members, including Lockley's mother, grandmother, and sister. Also included are a few letters to and from Lockley's son, Lawrence, and a set of correspondence between Lockley's father, Frederic E., and mother, Elizabeth Campbell.</field>
+    <field name="ref_ssi">aspace_ref41_v3d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Fred Lockley Papers</field>
+    <field name="collection_unitid_teim">MS 389</field>
+    <field name="series_sim">Series I: Correspondence, 1839-1958, undated</field>
+    <field name="series_si">Series I: Correspondence, 1839-1958, undated &gt;&gt; Subseries 3: Letters between Others, 1839-1955</field>
+    <field name="heading_ssm">Subseries 3: Letters between Others, 1839-1955</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">25</field>
+  </doc>
+</add>

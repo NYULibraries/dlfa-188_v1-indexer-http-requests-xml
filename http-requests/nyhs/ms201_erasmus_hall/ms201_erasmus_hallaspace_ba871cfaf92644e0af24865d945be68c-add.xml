@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_ba871cfaf92644e0af24865d945be68c</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_6764821bc2509f3c638a049b448f20fc</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_6764821bc2509f3c638a049b448f20fc</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Erasmus Hall Academy—Diploma</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Erasmus Hall Academy—Diploma</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Two diplomas awarded to William Henry Kouwenhoven</field>
+    <field name="unittitle_teim">Two diplomas awarded to William Henry Kouwenhoven</field>
+    <field name="unitdate_inclusive_teim">1880, 1883</field>
+    <field name="scopecontent_teim">•	"This Testimonial of Merit is awarded to . . . for punctuality, deportment, and diligent attention to study during the past twelve months at Erasmus Hall Academy. (signed) John M. Ferris, President; John L. Zabriskie, Clerk; R. C. Strong, Principal. Flatbush, June 15th, 1880."
+•	"This Certificate is Awarded to . . . inasmuch as he has completed the full term of study presented at Erasmus Hall Academy, Flatbush, Kings County, N.Y. (signed) John M. Ferris, President of the Board of Trustees; R. C. Strong, Principal. 1883."</field>
+    <field name="ref_ssi">aspace_ba871cfaf92644e0af24865d945be68c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-13</field>
+    <field name="location_si">Offsite-Box: RC-13</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Erasmus Hall Academy—Diploma</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Erasmus Hall Academy—Diploma &gt;&gt; Two diplomas awarded to William Henry Kouwenhoven</field>
+    <field name="heading_ssm">Two diplomas awarded to William Henry Kouwenhoven</field>
+    <field name="unitdate_ssm">Inclusive, 1880, 1883</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">191</field>
+  </doc>
+</add>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr073_winston_weismanaspace_ref1125_xs4</field>
+    <field name="ead_ssi">pr073_winston_weisman</field>
+    <field name="parent_ssi">aspace_ref14_0hq</field>
+    <field name="parent_ssm">aspace_ref14_0hq</field>
+    <field name="parent_unittitles_ssm">Series I. Mounted Copy Prints</field>
+    <field name="parent_unittitles_teim">Series I. Mounted Copy Prints</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Winston Weisman Soho Historic District collection</field>
+    <field name="collection_ssm">Winston Weisman Soho Historic District collection</field>
+    <field name="collection_unitid_ssm">PR 73</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">INTERNATIONAL</field>
+    <field name="unittitle_teim">INTERNATIONAL</field>
+    <field name="scopecontent_teim">This subseries is mounted copy prints of buildings in countries other than United States.</field>
+    <field name="ref_ssi">aspace_ref1125_xs4</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Winston Weisman Soho Historic District collection</field>
+    <field name="collection_unitid_teim">PR 73</field>
+    <field name="series_sim">Series I. Mounted Copy Prints</field>
+    <field name="series_si">Series I. Mounted Copy Prints &gt;&gt; INTERNATIONAL</field>
+    <field name="heading_ssm">INTERNATIONAL</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">643</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr050_photographer_fileaspace_4b75349a567e6f91a6b7ab73d836070d</field>
+    <field name="ead_ssi">pr050_photographer_file</field>
+    <field name="parent_ssi">aspace_65e1d14fe94263cf7be9e081b0b30120</field>
+    <field name="parent_ssm">aspace_65e1d14fe94263cf7be9e081b0b30120</field>
+    <field name="parent_unittitles_ssm">Frost, Rosalie</field>
+    <field name="parent_unittitles_teim">Frost, Rosalie</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Photographer File</field>
+    <field name="collection_ssm">Photographer File</field>
+    <field name="collection_unitid_ssm">PR 50</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Dune Pond, Fort Tilden</field>
+    <field name="unittitle_teim">Dune Pond, Fort Tilden</field>
+    <field name="unitdate_inclusive_teim">2007</field>
+    <field name="ref_ssi">aspace_4b75349a567e6f91a6b7ab73d836070d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5</field>
+    <field name="location_si">Box: 5</field>
+    <field name="collection_teim">Photographer File</field>
+    <field name="collection_unitid_teim">PR 50</field>
+    <field name="series_sim">Frost, Rosalie</field>
+    <field name="series_si">Frost, Rosalie &gt;&gt; Dune Pond, Fort Tilden</field>
+    <field name="heading_ssm">Dune Pond, Fort Tilden</field>
+    <field name="unitdate_ssm">Inclusive, 2007</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">67</field>
+  </doc>
+</add>

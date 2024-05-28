@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms523_john_rogers_familyaspace_ref104_z8h</field>
+    <field name="ead_ssi">ms523_john_rogers_family</field>
+    <field name="parent_ssi">aspace_ref156_aob</field>
+    <field name="parent_ssm">aspace_ref53_xei</field>
+    <field name="parent_ssm">aspace_ref156_aob</field>
+    <field name="parent_unittitles_ssm">Series II: Papers of the Rogers Family</field>
+    <field name="parent_unittitles_ssm">Subseries III: Genealogical research</field>
+    <field name="parent_unittitles_teim">Series II: Papers of the Rogers Family</field>
+    <field name="parent_unittitles_teim">Subseries III: Genealogical research</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Rogers Family Papers</field>
+    <field name="collection_ssm">Rogers Family Papers</field>
+    <field name="collection_unitid_ssm">MS 523</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letters to Derby Rogers 1928-1929</field>
+    <field name="unittitle_teim">Letters to Derby Rogers 1928-1929</field>
+    <field name="unitdate_normal_ssm">1928/1929</field>
+    <field name="unitdate_normal_teim">1928/1929</field>
+    <field name="unitdate_normal_sim">1928/1929</field>
+    <field name="unitdate_inclusive_teim">1928-1929</field>
+    <field name="ref_ssi">aspace_ref104_z8h</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Rogers Family Papers</field>
+    <field name="collection_unitid_teim">MS 523</field>
+    <field name="series_sim">Series II: Papers of the Rogers Family</field>
+    <field name="series_sim">Subseries III: Genealogical research</field>
+    <field name="series_si">Series II: Papers of the Rogers Family &gt;&gt; Subseries III: Genealogical research &gt;&gt; Letters to Derby Rogers 1928-1929</field>
+    <field name="heading_ssm">Letters to Derby Rogers 1928-1929</field>
+    <field name="unitdate_start_sim">1928</field>
+    <field name="unitdate_start_ssm">1928</field>
+    <field name="unitdate_start_si">1928</field>
+    <field name="unitdate_end_sim">1929</field>
+    <field name="unitdate_end_ssm">1929</field>
+    <field name="unitdate_end_si">1929</field>
+    <field name="unitdate_ssm">Inclusive, 1928-1929</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">86</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr102_reich_portraitaspace_7195581fe1403c546bc6414619c61cd7</field>
+    <field name="ead_ssi">pr102_reich_portrait</field>
+    <field name="parent_ssi">aspace_6266befb31527b1e2ad7cc09b845d856</field>
+    <field name="parent_ssm">aspace_6266befb31527b1e2ad7cc09b845d856</field>
+    <field name="parent_unittitles_ssm">Portraits by Jacques Reich</field>
+    <field name="parent_unittitles_teim">Portraits by Jacques Reich</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jacques Reich portrait prints</field>
+    <field name="collection_ssm">Jacques Reich portrait prints</field>
+    <field name="collection_unitid_ssm">PR 102</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Whittier, John Greenleaf (2 prints)</field>
+    <field name="unittitle_teim">Whittier, John Greenleaf (2 prints)</field>
+    <field name="unitdate_inclusive_teim">1899</field>
+    <field name="ref_ssi">aspace_7195581fe1403c546bc6414619c61cd7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: Large-4</field>
+    <field name="location_si">Folder: Large-4</field>
+    <field name="collection_teim">Jacques Reich portrait prints</field>
+    <field name="collection_unitid_teim">PR 102</field>
+    <field name="series_sim">Portraits by Jacques Reich</field>
+    <field name="series_si">Portraits by Jacques Reich &gt;&gt; Whittier, John Greenleaf (2 prints)</field>
+    <field name="heading_ssm">Whittier, John Greenleaf (2 prints)</field>
+    <field name="unitdate_ssm">Inclusive, 1899</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">92</field>
+  </doc>
+</add>

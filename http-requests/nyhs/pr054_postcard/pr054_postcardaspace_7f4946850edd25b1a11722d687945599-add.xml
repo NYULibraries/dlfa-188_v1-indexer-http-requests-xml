@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr054_postcardaspace_7f4946850edd25b1a11722d687945599</field>
+    <field name="ead_ssi">pr054_postcard</field>
+    <field name="parent_ssi">aspace_ref247_3o2</field>
+    <field name="parent_ssm">aspace_ref380_bft</field>
+    <field name="parent_ssm">aspace_ref247_3o2</field>
+    <field name="parent_unittitles_ssm">Series II. Geographic Locations | New York</field>
+    <field name="parent_unittitles_ssm">Subseries II.B. New York City</field>
+    <field name="parent_unittitles_teim">Series II. Geographic Locations | New York</field>
+    <field name="parent_unittitles_teim">Subseries II.B. New York City</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_ssm">PR 54</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;Manhattan | Armories&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      Manhattan | Armories
+    </field>
+    <field name="ref_ssi">aspace_7f4946850edd25b1a11722d687945599</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 42</field>
+    <field name="location_si">Box: 42</field>
+    <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_teim">PR 54</field>
+    <field name="series_sim">Series II. Geographic Locations | New York</field>
+    <field name="series_sim">Subseries II.B. New York City</field>
+    <field name="series_si">Series II. Geographic Locations | New York &gt;&gt; Subseries II.B. New York City &gt;&gt; 
+      &lt;strong&gt;Manhattan | Armories&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      Manhattan | Armories
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">179</field>
+  </doc>
+</add>

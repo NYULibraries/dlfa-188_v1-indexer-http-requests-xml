@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr052_portrait_collectionaspace_ae9c3d7207187c6bf622236306defd74</field>
+    <field name="ead_ssi">pr052_portrait_collection</field>
+    <field name="parent_ssi">aspace_be250078934bc40301cc46f467a10d13</field>
+    <field name="parent_ssm">aspace_be250078934bc40301cc46f467a10d13</field>
+    <field name="parent_unittitles_ssm">Series III. Royalty</field>
+    <field name="parent_unittitles_teim">Series III. Royalty</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society portrait collection</field>
+    <field name="collection_unitid_ssm">PR 52</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III.C. Royalty: Oversize Format</field>
+    <field name="unittitle_teim">Subseries III.C. Royalty: Oversize Format</field>
+    <field name="ref_ssi">aspace_ae9c3d7207187c6bf622236306defd74</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society portrait collection</field>
+    <field name="collection_unitid_teim">PR 52</field>
+    <field name="series_sim">Series III. Royalty</field>
+    <field name="series_si">Series III. Royalty &gt;&gt; Subseries III.C. Royalty: Oversize Format</field>
+    <field name="heading_ssm">Subseries III.C. Royalty: Oversize Format</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4458</field>
+  </doc>
+</add>

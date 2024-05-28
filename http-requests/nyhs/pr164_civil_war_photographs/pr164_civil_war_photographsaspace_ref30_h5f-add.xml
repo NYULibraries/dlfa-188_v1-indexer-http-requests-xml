@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr164_civil_war_photographsaspace_ref30_h5f</field>
+    <field name="ead_ssi">pr164_civil_war_photographs</field>
+    <field name="parent_ssi">aspace_ref12_fji</field>
+    <field name="parent_ssm">aspace_ref12_fji</field>
+    <field name="parent_unittitles_ssm">Series I: War Scenes and Sites</field>
+    <field name="parent_unittitles_teim">Series I: War Scenes and Sites</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Civil War photograph file</field>
+    <field name="collection_ssm">Civil War photograph file</field>
+    <field name="collection_unitid_ssm">PR 164</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Pennsylvania</field>
+    <field name="unittitle_teim">Pennsylvania</field>
+    <field name="ref_ssi">aspace_ref30_h5f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Civil War photograph file</field>
+    <field name="collection_unitid_teim">PR 164</field>
+    <field name="series_sim">Series I: War Scenes and Sites</field>
+    <field name="series_si">Series I: War Scenes and Sites &gt;&gt; Pennsylvania</field>
+    <field name="heading_ssm">Pennsylvania</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

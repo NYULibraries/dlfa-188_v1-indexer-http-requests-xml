@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms98_campbell_mumfordaspace_ref252_4cp</field>
+    <field name="ead_ssi">ms98_campbell_mumford</field>
+    <field name="parent_ssi">aspace_ref247_zz1</field>
+    <field name="parent_ssm">aspace_ref247_zz1</field>
+    <field name="parent_unittitles_ssm">Series VII: Newspapers and Periodicals</field>
+    <field name="parent_unittitles_teim">Series VII: Newspapers and Periodicals</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Campbell-Mumford papers</field>
+    <field name="collection_ssm">Campbell-Mumford papers</field>
+    <field name="collection_unitid_ssm">MS 98</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cooperstown Newspaper Clippings</field>
+    <field name="unittitle_teim">Cooperstown Newspaper Clippings</field>
+    <field name="unitdate_teim">1843 May 1; 1877 August 16; 1878 October 10; 1886 January 27</field>
+    <field name="ref_ssi">aspace_ref252_4cp</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 26, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Campbell-Mumford papers</field>
+    <field name="collection_unitid_teim">MS 98</field>
+    <field name="series_sim">Series VII: Newspapers and Periodicals</field>
+    <field name="series_si">Series VII: Newspapers and Periodicals &gt;&gt; Cooperstown Newspaper Clippings</field>
+    <field name="heading_ssm">Cooperstown Newspaper Clippings</field>
+    <field name="unitdate_ssm">1843 May 1; 1877 August 16; 1878 October 10; 1886 January 27</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">222</field>
+  </doc>
+</add>

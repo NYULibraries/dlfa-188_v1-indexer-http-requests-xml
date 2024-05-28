@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms565_franz_sigelaspace_ref86_nde</field>
+    <field name="ead_ssi">ms565_franz_sigel</field>
+    <field name="parent_ssi">aspace_ref75_mr5</field>
+    <field name="parent_ssm">aspace_ref74_1aj</field>
+    <field name="parent_ssm">aspace_ref75_mr5</field>
+    <field name="parent_unittitles_ssm">Series V: Writings</field>
+    <field name="parent_unittitles_ssm">Subseries V.A: Sigel's Writings</field>
+    <field name="parent_unittitles_teim">Series V: Writings</field>
+    <field name="parent_unittitles_teim">Subseries V.A: Sigel's Writings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Franz Sigel papers</field>
+    <field name="collection_ssm">Franz Sigel papers</field>
+    <field name="collection_unitid_ssm">MS 565</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Civil War</field>
+    <field name="unittitle_teim">Civil War</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref86_nde</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 18</field>
+    <field name="location_ssm">Folder: 18</field>
+    <field name="location_si">Folder: 18</field>
+    <field name="collection_teim">Franz Sigel papers</field>
+    <field name="collection_unitid_teim">MS 565</field>
+    <field name="series_sim">Series V: Writings</field>
+    <field name="series_sim">Subseries V.A: Sigel's Writings</field>
+    <field name="series_si">Series V: Writings &gt;&gt; Subseries V.A: Sigel's Writings &gt;&gt; Civil War</field>
+    <field name="heading_ssm">Civil War</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">96</field>
+  </doc>
+</add>

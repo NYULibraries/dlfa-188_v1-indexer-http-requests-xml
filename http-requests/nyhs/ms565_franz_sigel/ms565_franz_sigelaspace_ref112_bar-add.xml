@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms565_franz_sigelaspace_ref112_bar</field>
+    <field name="ead_ssi">ms565_franz_sigel</field>
+    <field name="parent_ssi">aspace_ref108_tk1</field>
+    <field name="parent_ssm">aspace_ref103_udo</field>
+    <field name="parent_ssm">aspace_ref108_tk1</field>
+    <field name="parent_unittitles_ssm">Series VII: Sigel Family Papers</field>
+    <field name="parent_unittitles_ssm">Subseries VII.B: Elise Sigel Papers</field>
+    <field name="parent_unittitles_teim">Series VII: Sigel Family Papers</field>
+    <field name="parent_unittitles_teim">Subseries VII.B: Elise Sigel Papers</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Franz Sigel papers</field>
+    <field name="collection_ssm">Franz Sigel papers</field>
+    <field name="collection_unitid_ssm">MS 565</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence</field>
+    <field name="unittitle_teim">Correspondence</field>
+    <field name="unitdate_normal_ssm">1902/1910</field>
+    <field name="unitdate_normal_teim">1902/1910</field>
+    <field name="unitdate_normal_sim">1902/1910</field>
+    <field name="unitdate_inclusive_teim">1902-1910, undated</field>
+    <field name="ref_ssi">aspace_ref112_bar</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 14</field>
+    <field name="location_ssm">Folder: 14</field>
+    <field name="location_si">Folder: 14</field>
+    <field name="collection_teim">Franz Sigel papers</field>
+    <field name="collection_unitid_teim">MS 565</field>
+    <field name="series_sim">Series VII: Sigel Family Papers</field>
+    <field name="series_sim">Subseries VII.B: Elise Sigel Papers</field>
+    <field name="series_si">Series VII: Sigel Family Papers &gt;&gt; Subseries VII.B: Elise Sigel Papers &gt;&gt; Correspondence</field>
+    <field name="heading_ssm">Correspondence</field>
+    <field name="unitdate_start_sim">1902</field>
+    <field name="unitdate_start_ssm">1902</field>
+    <field name="unitdate_start_si">1902</field>
+    <field name="unitdate_end_sim">1910</field>
+    <field name="unitdate_end_ssm">1910</field>
+    <field name="unitdate_end_si">1910</field>
+    <field name="unitdate_ssm">Inclusive, 1902-1910, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">126</field>
+  </doc>
+</add>

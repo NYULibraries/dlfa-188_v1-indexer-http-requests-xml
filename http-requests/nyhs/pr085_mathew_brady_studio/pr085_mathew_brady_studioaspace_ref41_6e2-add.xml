@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr085_mathew_brady_studioaspace_ref41_6e2</field>
+    <field name="ead_ssi">pr085_mathew_brady_studio</field>
+    <field name="parent_ssi">aspace_ref12_w5k</field>
+    <field name="parent_ssm">aspace_ref12_w5k</field>
+    <field name="parent_unittitles_ssm">Series I: Imperial Format Portraits</field>
+    <field name="parent_unittitles_teim">Series I: Imperial Format Portraits</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mathew B. Brady studio portrait photograph collection</field>
+    <field name="collection_ssm">Mathew B. Brady studio portrait photograph collection</field>
+    <field name="collection_unitid_ssm">PR 85</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Photo Fragments / Body Parts</field>
+    <field name="unittitle_teim">Photo Fragments / Body Parts</field>
+    <field name="ref_ssi">aspace_ref41_6e2</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 28</field>
+    <field name="location_ssm">Folder: 28</field>
+    <field name="location_si">Folder: 28</field>
+    <field name="collection_teim">Mathew B. Brady studio portrait photograph collection</field>
+    <field name="collection_unitid_teim">PR 85</field>
+    <field name="series_sim">Series I: Imperial Format Portraits</field>
+    <field name="series_si">Series I: Imperial Format Portraits &gt;&gt; Photo Fragments / Body Parts</field>
+    <field name="heading_ssm">Photo Fragments / Body Parts</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

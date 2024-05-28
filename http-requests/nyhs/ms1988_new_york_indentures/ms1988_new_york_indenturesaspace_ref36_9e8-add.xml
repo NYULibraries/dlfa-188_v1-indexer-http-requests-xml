@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms1988_new_york_indenturesaspace_ref36_9e8</field>
+    <field name="ead_ssi">ms1988_new_york_indentures</field>
+    <field name="parent_ssi">aspace_ref20_vir</field>
+    <field name="parent_ssm">aspace_ref15_4w7</field>
+    <field name="parent_ssm">aspace_ref20_vir</field>
+    <field name="parent_unittitles_ssm">Series I: Indentures (1718-1902)</field>
+    <field name="parent_unittitles_ssm">Subseries 2: Indentures, Boys (1792-1902)</field>
+    <field name="parent_unittitles_teim">Series I: Indentures (1718-1902)</field>
+    <field name="parent_unittitles_teim">Subseries 2: Indentures, Boys (1792-1902)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York City indentures collection</field>
+    <field name="collection_ssm">New York City indentures collection</field>
+    <field name="collection_unitid_ssm">MS 1988</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Boys' Indentures</field>
+    <field name="unittitle_teim">Boys' Indentures</field>
+    <field name="unitdate_normal_ssm">1853/1860</field>
+    <field name="unitdate_normal_teim">1853/1860</field>
+    <field name="unitdate_normal_sim">1853/1860</field>
+    <field name="unitdate_inclusive_teim">1853-1860</field>
+    <field name="ref_ssi">aspace_ref36_9e8</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 17</field>
+    <field name="location_si">Volume: 17</field>
+    <field name="collection_teim">New York City indentures collection</field>
+    <field name="collection_unitid_teim">MS 1988</field>
+    <field name="series_sim">Series I: Indentures (1718-1902)</field>
+    <field name="series_sim">Subseries 2: Indentures, Boys (1792-1902)</field>
+    <field name="series_si">Series I: Indentures (1718-1902) &gt;&gt; Subseries 2: Indentures, Boys (1792-1902) &gt;&gt; Boys' Indentures</field>
+    <field name="heading_ssm">Boys' Indentures</field>
+    <field name="unitdate_start_sim">1853</field>
+    <field name="unitdate_start_ssm">1853</field>
+    <field name="unitdate_start_si">1853</field>
+    <field name="unitdate_end_sim">1860</field>
+    <field name="unitdate_end_ssm">1860</field>
+    <field name="unitdate_end_si">1860</field>
+    <field name="unitdate_ssm">Inclusive, 1853-1860</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">21</field>
+  </doc>
+</add>

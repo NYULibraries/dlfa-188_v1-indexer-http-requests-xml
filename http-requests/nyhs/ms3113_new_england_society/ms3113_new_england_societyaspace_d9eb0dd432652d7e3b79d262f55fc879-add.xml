@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3113_new_england_societyaspace_d9eb0dd432652d7e3b79d262f55fc879</field>
+    <field name="ead_ssi">ms3113_new_england_society</field>
+    <field name="parent_ssi">aspace_520894ef61568d40bc1ac7f3e2b54839</field>
+    <field name="parent_ssm">aspace_520894ef61568d40bc1ac7f3e2b54839</field>
+    <field name="parent_unittitles_ssm">Series III. Membership Records</field>
+    <field name="parent_unittitles_teim">Series III. Membership Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New England Society in the City of New York records</field>
+    <field name="collection_ssm">New England Society in the City of New York records</field>
+    <field name="collection_unitid_ssm">MS 3113</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Members book</field>
+    <field name="unittitle_teim">Members book</field>
+    <field name="unitdate_inclusive_teim">1850s</field>
+    <field name="ref_ssi">aspace_d9eb0dd432652d7e3b79d262f55fc879</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 24, Volume: SN 21</field>
+    <field name="location_ssm">Volume: SN 21</field>
+    <field name="location_si">Volume: SN 21</field>
+    <field name="collection_teim">New England Society in the City of New York records</field>
+    <field name="collection_unitid_teim">MS 3113</field>
+    <field name="series_sim">Series III. Membership Records</field>
+    <field name="series_si">Series III. Membership Records &gt;&gt; Members book</field>
+    <field name="heading_ssm">Members book</field>
+    <field name="unitdate_ssm">Inclusive, 1850s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">67</field>
+  </doc>
+</add>

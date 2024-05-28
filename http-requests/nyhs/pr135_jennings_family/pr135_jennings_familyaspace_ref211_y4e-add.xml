@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr135_jennings_familyaspace_ref211_y4e</field>
+    <field name="ead_ssi">pr135_jennings_family</field>
+    <field name="parent_ssi">aspace_ref210_usu</field>
+    <field name="parent_ssm">aspace_ref210_usu</field>
+    <field name="parent_unittitles_ssm">Oversize Material</field>
+    <field name="parent_unittitles_teim">Oversize Material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jennings Photograph Collection</field>
+    <field name="collection_ssm">Jennings Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 135</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">From Series III</field>
+    <field name="unittitle_teim">From Series III</field>
+    <field name="ref_ssi">aspace_ref211_y4e</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jennings Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 135</field>
+    <field name="series_sim">Oversize Material</field>
+    <field name="series_si">Oversize Material &gt;&gt; From Series III</field>
+    <field name="heading_ssm">From Series III</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">185</field>
+  </doc>
+</add>

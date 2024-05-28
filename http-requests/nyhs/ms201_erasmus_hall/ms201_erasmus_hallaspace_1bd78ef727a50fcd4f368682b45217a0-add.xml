@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_1bd78ef727a50fcd4f368682b45217a0</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_31ae65c70d248460c5d30f468a45200b</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_31ae65c70d248460c5d30f468a45200b</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Neefus Family</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Neefus Family</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Waerachtighe Beschry – Vinghe&lt;/em&gt; . . . (Delft, Holland)</field>
+    <field name="unittitle_teim">Waerachtighe Beschry – Vinghe . . . (Delft, Holland)</field>
+    <field name="unitdate_inclusive_teim">1584</field>
+    <field name="scopecontent_teim">Inscribed inside front cover: "Holland Dutch Book 309 years old, Printed and sold at Delft, Date 1584. Loaned by Peter I. Neefus, Flatbush, Kings Co., Long Island. Exhibited by Miss L. G. Zabriskie of same place."</field>
+    <field name="ref_ssi">aspace_1bd78ef727a50fcd4f368682b45217a0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-16, envelope: Dutch book dated 1584 </field>
+    <field name="location_ssm">envelope: Dutch book dated 1584 </field>
+    <field name="location_si">envelope: Dutch book dated 1584 </field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Neefus Family</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Neefus Family &gt;&gt; &lt;em&gt;Waerachtighe Beschry – Vinghe&lt;/em&gt; . . . (Delft, Holland)</field>
+    <field name="heading_ssm">Waerachtighe Beschry – Vinghe . . . (Delft, Holland)</field>
+    <field name="unitdate_ssm">Inclusive, 1584</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">786</field>
+  </doc>
+</add>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pc001_mcloughlin_woodblocksaspace_49c239948ceb554101d2220018aee290</field>
+    <field name="ead_ssi">pc001_mcloughlin_woodblocks</field>
+    <field name="parent_ssi">aspace_9cf49392dd515ab3222d0ac0ae40cd10</field>
+    <field name="parent_ssm">aspace_9cf49392dd515ab3222d0ac0ae40cd10</field>
+    <field name="parent_unittitles_ssm">Series III. Edward P. Cogger, engraver</field>
+    <field name="parent_unittitles_teim">Series III. Edward P. Cogger, engraver</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_ssm">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_unitid_ssm">PC 001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;King Donkey&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      King Donkey
+    </field>
+    <field name="scopecontent_teim">6 woodblocks; 1 is broken.</field>
+    <field name="title_teim">King Donkey</field>
+    <field name="title_ssm">King Donkey</field>
+    <field name="ref_ssi">aspace_49c239948ceb554101d2220018aee290</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 8, Box: 1E (1)</field>
+    <field name="location_ssm">Box: 1E (1)</field>
+    <field name="location_si">Box: 1E (1)</field>
+    <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_unitid_teim">PC 001</field>
+    <field name="series_sim">Series III. Edward P. Cogger, engraver</field>
+    <field name="series_si">Series III. Edward P. Cogger, engraver &gt;&gt; 
+      &lt;em&gt;King Donkey&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      King Donkey
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">44</field>
+  </doc>
+</add>

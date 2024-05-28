@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms381_leverich_familyaspace_ref322_gql</field>
+    <field name="ead_ssi">ms381_leverich_family</field>
+    <field name="parent_ssi">aspace_ref13_052</field>
+    <field name="parent_ssm">aspace_ref13_052</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Leverich family papers</field>
+    <field name="collection_ssm">Leverich family papers</field>
+    <field name="collection_unitid_ssm">MS 381</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 8: Newtown &amp;amp; Bushwick Turnpike </field>
+    <field name="unittitle_teim">Subseries 8: Newtown &amp; Bushwick Turnpike </field>
+    <field name="unitdate_teim">1831-1844</field>
+    <field name="scopecontent_teim">This subseries includes documents relating to the Newtown &amp; Bushwick Turnpike dating from 1831 to 1844. The Newtown &amp; Bushwick Turnpike material includes letters from S. Willets, Gideon Hallet, Charles P. Lowerre, and M.P. Holland, all Inspectors of Turnpikes of the period. Also included are letters of complaint to Nicholas N. Wyckoff, the president of the turnpike company, and from William Johnson.</field>
+    <field name="ref_ssi">aspace_ref322_gql</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Leverich family papers</field>
+    <field name="collection_unitid_teim">MS 381</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries 8: Newtown &amp;amp; Bushwick Turnpike </field>
+    <field name="heading_ssm">Subseries 8: Newtown &amp; Bushwick Turnpike </field>
+    <field name="unitdate_ssm">1831-1844</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">303</field>
+  </doc>
+</add>

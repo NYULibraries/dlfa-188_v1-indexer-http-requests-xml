@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref1591_azo</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref59_7kr</field>
+    <field name="parent_ssm">aspace_ref10_1nh</field>
+    <field name="parent_ssm">aspace_ref59_7kr</field>
+    <field name="parent_unittitles_ssm">Series X - Convalescent Facilities and Medical Programs</field>
+    <field name="parent_unittitles_ssm">Subseries X.1 - The Sick Children's Mission/Medical Bureau/Medical Department - Chronological</field>
+    <field name="parent_unittitles_teim">Series X - Convalescent Facilities and Medical Programs</field>
+    <field name="parent_unittitles_teim">Subseries X.1 - The Sick Children's Mission/Medical Bureau/Medical Department - Chronological</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Annual report of the Medical Department 1939 by Charles Conklin</field>
+    <field name="unittitle_teim">Annual report of the Medical Department 1939 by Charles Conklin</field>
+    <field name="unitdate_normal_ssm">1940/1940</field>
+    <field name="unitdate_normal_teim">1940/1940</field>
+    <field name="unitdate_normal_sim">1940/1940</field>
+    <field name="unitdate_inclusive_teim">1940</field>
+    <field name="ref_ssi">aspace_ref1591_azo</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 43, Folder: 44</field>
+    <field name="location_ssm">Folder: 44</field>
+    <field name="location_si">Folder: 44</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series X - Convalescent Facilities and Medical Programs</field>
+    <field name="series_sim">Subseries X.1 - The Sick Children's Mission/Medical Bureau/Medical Department - Chronological</field>
+    <field name="series_si">Series X - Convalescent Facilities and Medical Programs &gt;&gt; Subseries X.1 - The Sick Children's Mission/Medical Bureau/Medical Department - Chronological &gt;&gt; Annual report of the Medical Department 1939 by Charles Conklin</field>
+    <field name="heading_ssm">Annual report of the Medical Department 1939 by Charles Conklin</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">1940</field>
+    <field name="unitdate_end_ssm">1940</field>
+    <field name="unitdate_end_si">1940</field>
+    <field name="unitdate_ssm">Inclusive, 1940</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1703</field>
+  </doc>
+</add>

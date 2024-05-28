@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms179_duane_familyaspace_ref104_e4y</field>
+    <field name="ead_ssi">ms179_duane_family</field>
+    <field name="parent_ssi">aspace_ref87_h6a</field>
+    <field name="parent_ssm">aspace_ref87_h6a</field>
+    <field name="parent_unittitles_ssm">Series II: Legal and Business Papers</field>
+    <field name="parent_unittitles_teim">Series II: Legal and Business Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Duane Family papers</field>
+    <field name="collection_ssm">Duane Family papers</field>
+    <field name="collection_unitid_ssm">MS 179</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Deeds, releases, and other land papers, New York City (includes surveys of Grammercy)</field>
+    <field name="unittitle_teim">Deeds, releases, and other land papers, New York City (includes surveys of Grammercy)</field>
+    <field name="unitdate_teim">1665-1765</field>
+    <field name="ref_ssi">aspace_ref104_e4y</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: large, Folder: Duane OS1-OS2</field>
+    <field name="location_ssm">Folder: Duane OS1-OS2</field>
+    <field name="location_si">Folder: Duane OS1-OS2</field>
+    <field name="collection_teim">Duane Family papers</field>
+    <field name="collection_unitid_teim">MS 179</field>
+    <field name="series_sim">Series II: Legal and Business Papers</field>
+    <field name="series_si">Series II: Legal and Business Papers &gt;&gt; Deeds, releases, and other land papers, New York City (includes surveys of Grammercy)</field>
+    <field name="heading_ssm">Deeds, releases, and other land papers, New York City (includes surveys of Grammercy)</field>
+    <field name="unitdate_ssm">1665-1765</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">32</field>
+  </doc>
+</add>

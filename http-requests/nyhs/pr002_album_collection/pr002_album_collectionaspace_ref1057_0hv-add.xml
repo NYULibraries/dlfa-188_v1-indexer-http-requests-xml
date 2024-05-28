@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1057_0hv</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Album of photographs of Victorian resort homes]</field>
+    <field name="unittitle_teim">[Album of photographs of Victorian resort homes]</field>
+    <field name="unitdate_normal_ssm">1890/1890</field>
+    <field name="unitdate_normal_teim">1890/1890</field>
+    <field name="unitdate_normal_sim">1890/1890</field>
+    <field name="unitdate_inclusive_teim">[1890]</field>
+    <field name="scopecontent_teim">Albumen prints of country homes, children playing, a train stations with waiting omnibuses, and a view of an African American man; views of newly built homes, one still under construction; portrait of man with cigar; two views of surf; copy of a painting of a woman; man on horseback; portrait of a girl.</field>
+    <field name="ref_ssi">aspace_ref1057_0hv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 81, Volume: 310</field>
+    <field name="location_ssm">Volume: 310</field>
+    <field name="location_si">Volume: 310</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Album of photographs of Victorian resort homes]</field>
+    <field name="heading_ssm">[Album of photographs of Victorian resort homes]</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1890</field>
+    <field name="unitdate_end_ssm">1890</field>
+    <field name="unitdate_end_si">1890</field>
+    <field name="unitdate_ssm">Inclusive, [1890]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">369</field>
+  </doc>
+</add>

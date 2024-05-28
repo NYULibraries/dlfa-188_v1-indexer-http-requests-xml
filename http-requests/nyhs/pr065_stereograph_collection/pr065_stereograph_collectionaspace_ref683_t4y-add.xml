@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref683_t4y</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Texas</field>
+    <field name="unittitle_teim">Texas</field>
+    <field name="unitdate_normal_ssm">1865/1900</field>
+    <field name="unitdate_normal_teim">1865/1900</field>
+    <field name="unitdate_normal_sim">1865/1900</field>
+    <field name="unitdate_inclusive_teim">[1865-1900]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0669</field>
+    <field name="scopecontent_teim">Texas: destruction in Galveston after the Hurricane in 1900, showing the ruins of the Sacred Heart Church, and the "Colored" High School, and streets strewn with lumber and other rubble; ferry at New Braunfels; views in San Antonio: Alamo Street, chili stands and market wagons in the Military Plaza, headquarter, Dept. of Texas; two views of Mexican jacals, made of adobe and thatch; wagons fording river, s.e. of the city.</field>
+    <field name="scopecontent_teim">13 items</field>
+    <field name="ref_ssi">aspace_ref683_t4y</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 59</field>
+    <field name="location_si">Box: 59</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Texas</field>
+    <field name="heading_ssm">Texas</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1900</field>
+    <field name="unitdate_end_ssm">1900</field>
+    <field name="unitdate_end_si">1900</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1900]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">670</field>
+  </doc>
+</add>

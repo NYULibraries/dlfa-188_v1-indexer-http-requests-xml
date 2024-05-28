@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref497_d3v</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Album documenting Mary Rutherford Jay's activities in France during World War I]</field>
+    <field name="unittitle_teim">[Album documenting Mary Rutherford Jay's activities in France during World War I]</field>
+    <field name="unitdate_normal_ssm">1918/1919</field>
+    <field name="unitdate_normal_teim">1918/1919</field>
+    <field name="unitdate_normal_sim">1918/1919</field>
+    <field name="unitdate_inclusive_teim">1918-1919</field>
+    <field name="scopecontent_teim">Mary Rutherford Jay went to France as part of ComitÃ© AmÃ©ricaine des RÃ©gions DevastÃ©es which was sponsored by Anne Morgan. She helped establish gardens at Versailles, planted and maintained by invalid soldiers to supply fresh vegetables to American forces. Later she was Hostess for the Junior Officers' Club at the American Embarkation Center at Le Mans under the auspices of the Red Cross and sponsored by W.N. Cromwell; includes photographs of gardens at Versailles, soldiers and American women working; portraits of Miss Jay; views in Paris, and postcards from Paris and elsewhere; menu of the mess of the 103rd Field Artillery for Feb. 1, 1919, with drawing on verso of last position of the artillery, North Verdun; views of soldiers at the Junior Officer's Club, and of the interior and gardens; plans for the club; letters of support and appreciation; views of guns, and of devastated towns; calling cards, invitations, "A Yank's Prayer; views of the parade of American forces in Paris; pile of cannons statue of rooster atop it; piece of metal, a button, a metal identification plaque; schedules of staff at Junior Officers' Club; list of officers for Junior Officers' Mess, and other documents; letters from soldiers; travel documents, including passes and passport; portrait of two German shepherds with Christmas greetings; various newspapers and magazines laid in.</field>
+    <field name="ref_ssi">aspace_ref497_d3v</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 158</field>
+    <field name="location_si">Offsite-Box: 158</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Album documenting Mary Rutherford Jay's activities in France during World War I]</field>
+    <field name="heading_ssm">[Album documenting Mary Rutherford Jay's activities in France during World War I]</field>
+    <field name="unitdate_start_sim">1918</field>
+    <field name="unitdate_start_ssm">1918</field>
+    <field name="unitdate_start_si">1918</field>
+    <field name="unitdate_end_sim">1919</field>
+    <field name="unitdate_end_ssm">1919</field>
+    <field name="unitdate_end_si">1919</field>
+    <field name="unitdate_ssm">Inclusive, 1918-1919</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">166</field>
+  </doc>
+</add>

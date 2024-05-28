@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2997_saint_andrews_societyaspace_ref27_vrn</field>
+    <field name="ead_ssi">ms2997_saint_andrews_society</field>
+    <field name="parent_ssi">aspace_ref26_nxr</field>
+    <field name="parent_ssm">aspace_ref26_nxr</field>
+    <field name="parent_unittitles_ssm">Series II: Charitable Records (RESTRICTIONS APPLY)</field>
+    <field name="parent_unittitles_teim">Series II: Charitable Records (RESTRICTIONS APPLY)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_ssm">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_unitid_ssm">MS 2997</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.1: Manager's and Almoner's Record Books</field>
+    <field name="unittitle_teim">Subseries II.1: Manager's and Almoner's Record Books</field>
+    <field name="unitdate_inclusive_teim">1802-1979</field>
+    <field name="scopecontent_teim">The subseries contains ledger volumes that detail individual requests for aid and corresponding disbursements made by the Society. The volumes are in chronological order.</field>
+    <field name="ref_ssi">aspace_ref27_vrn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_unitid_teim">MS 2997</field>
+    <field name="series_sim">Series II: Charitable Records (RESTRICTIONS APPLY)</field>
+    <field name="series_si">Series II: Charitable Records (RESTRICTIONS APPLY) &gt;&gt; Subseries II.1: Manager's and Almoner's Record Books</field>
+    <field name="heading_ssm">Subseries II.1: Manager's and Almoner's Record Books</field>
+    <field name="unitdate_ssm">Inclusive, 1802-1979</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">355</field>
+  </doc>
+</add>

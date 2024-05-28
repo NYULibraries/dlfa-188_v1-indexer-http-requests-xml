@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_ref103_lrk</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_ref42_jw3</field>
+    <field name="parent_ssm">aspace_ref4_m0q</field>
+    <field name="parent_ssm">aspace_ref42_jw3</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">
+      Letters: 1797 A-F
+    </field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">
+      Letters: 1797 A-F
+    </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letters: F (Except Forbes)</field>
+    <field name="unittitle_teim">Letters: F (Except Forbes)</field>
+    <field name="unitdate_teim">1797</field>
+    <field name="scopecontent_teim">This folder contains correspondence to Isaac Hicks from his clients, including Fish &amp; Maxfeld; Samuel &amp; Meers Fishers, and George Folger.  Most of the correspondence is in regards to normal business matters. Correspondence from Philip &amp; Anthony Felichey discuss how the French military had been garrisned in Leghorn (Liviorno, Italy), how a treaty has been signed in Bologna, Italy, and the army has been removed-which give Philip &amp; Anthony hope for increased trade with the region.  There is a large amount of correspondence with Samuel &amp; Meers Fishers, mostly regarding shipping.  There is one letter that states that they are going out of the country with their families and children because there is a "sickness" (probably yellow fever) going through Philadelphia.  There is also a letter from George Folger, a cashier, revoking Hicks's power of attorney, that had been given to him after a robbery of the bank that employed Folger.</field>
+    <field name="scopecontent_teim">Ships Mentioned:Franklin, Nancy</field>
+    <field name="ref_ssi">aspace_ref103_lrk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">
+      Letters: 1797 A-F
+    </field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; 
+      Letters: 1797 A-F
+     &gt;&gt; Letters: F (Except Forbes)</field>
+    <field name="heading_ssm">Letters: F (Except Forbes)</field>
+    <field name="unitdate_ssm">1797</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">45</field>
+  </doc>
+</add>

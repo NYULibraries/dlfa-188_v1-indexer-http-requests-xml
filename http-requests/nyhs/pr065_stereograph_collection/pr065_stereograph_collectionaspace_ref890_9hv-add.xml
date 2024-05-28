@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref890_9hv</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_f1506cecd849f9f6001ff439ad992055</field>
+    <field name="parent_ssm">aspace_f1506cecd849f9f6001ff439ad992055</field>
+    <field name="parent_unittitles_ssm">Comic and Sentimental</field>
+    <field name="parent_unittitles_teim">Comic and Sentimental</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Comic &amp;amp; Sentimental--Children</field>
+    <field name="unittitle_teim">Comic &amp; Sentimental--Children</field>
+    <field name="unitdate_inclusive_teim">[1850-1910]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0876</field>
+    <field name="scopecontent_teim">Children in various staged situations: portraits, some with various props such as fishing poles and picture frames; children playing outdoors; babies, including bathing and sleeping; children and adults, including children at prayer, being bathed, sneaking food, being punished; children and animals: babies and children with cats and dogs, on horseback, with chickens; bedtime: children going to bed, in bed or asleep; boys and girls: girl and boy dining together, girl asking for a kiss; children playing dress-up, or dressed up to act out scenes or depict certain characters, including boy and "ghost," a scene in a country store, a widow, pretending to be a chemist, pretending to be grandparents, Tom Whittington; children and dolls, including pretend baptism scene, doll carriages, tea parties, and African American dolls, Noah, the ark and animals; children reading or in school, including playing practical jokes, and standing on chairs to avoid rats or mice.</field>
+    <field name="scopecontent_teim">110 items</field>
+    <field name="ref_ssi">aspace_ref890_9hv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 85</field>
+    <field name="location_si">Box: 85</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Comic and Sentimental</field>
+    <field name="series_si">Comic and Sentimental &gt;&gt; Comic &amp;amp; Sentimental--Children</field>
+    <field name="heading_ssm">Comic &amp; Sentimental--Children</field>
+    <field name="unitdate_ssm">Inclusive, [1850-1910]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">879</field>
+  </doc>
+</add>

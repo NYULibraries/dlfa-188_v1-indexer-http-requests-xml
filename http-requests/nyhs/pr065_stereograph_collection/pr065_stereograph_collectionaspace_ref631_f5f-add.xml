@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref631_f5f</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Pennsylvania</field>
+    <field name="unittitle_teim">Pennsylvania</field>
+    <field name="unitdate_normal_ssm">1865/1903</field>
+    <field name="unitdate_normal_teim">1865/1903</field>
+    <field name="unitdate_normal_sim">1865/1903</field>
+    <field name="unitdate_inclusive_teim">[1865-1903]</field>
+    <field name="scopecontent_teim">PR-065-0617</field>
+    <field name="scopecontent_teim">Pennsylvania: Rev. Dickey's church in Allegheny; train wreck near Bellefonte, June 11, 1878, showing ruined cars, and what appears to be a collapsed bridge; women seated on rocks along the Brandywine; children crossing footbridge in Bryn Mawr, along the line of the Pennsylvania Railroad, falls on Buckhill Creek, photographer's tent in the foreground; coal being delivered to a breaker, boys picking slate in a coal breaker; Caldeno Falls; Forest House at Cherry Run; Long Bridge, a covered bridge at Columbia; train passing through ice gorge arriving at Coxton; factory near Fairview, men on cupola; view from the cupola of the factory, farm fields and small buildings; horse-drawn streetcar, Germantown in the distance; view south to Round Top from the Gettysburg Battle field, cannons and monuments in foreground; view of a painting of a farm, paper mill and surroundings in lower Heidelberg Township; Female Seminary, Hollidaysburg; steel works, Homestead; view up the Lackawaxen depicting the river, canal and with man in stove-pipe hat in the foreground; bridge over Jack's Creek near Lewistown; Soldiers and Sailors Monument in Lancaster; Marshalls Falls; icy scenes in the glen in Pike's County, including huge icicles and a frozen waterfall; a 90-foot long, red-hot steel beam in steel works in Pittsburgh; covered bridge over the Delaware at Portland; men at Table Rock, West Falls, and a view on the Rumbling Run, including the photographer' s wagon, near Pottsville; Scranton: men and women in garden in front of Italianate home, two locomotives built by the Dickson Mfg. Co. for the Delasare and Hudson Canal Company, Albany and Susquehana Railroad department; looking west in Susquehanna, Erie R.R. locomotive shops, center; large barrel-vaulted dining hall, Starucca House, Susquehanna Depot; Washington's Headquarters at Valley Forge; a view on the Schuylkill River; first opening of the anthracite coal field of Pennsylvania (made in 1807), 4 miles below the city of Wilkes-Barre.</field>
+    <field name="scopecontent_teim">41 items</field>
+    <field name="ref_ssi">aspace_ref631_f5f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 54</field>
+    <field name="location_si">Box: 54</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Pennsylvania</field>
+    <field name="heading_ssm">Pennsylvania</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1903</field>
+    <field name="unitdate_end_ssm">1903</field>
+    <field name="unitdate_end_si">1903</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1903]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">618</field>
+  </doc>
+</add>

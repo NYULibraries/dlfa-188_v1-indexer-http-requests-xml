@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms23_artists_fund_societyaspace_ref94_f0o</field>
+    <field name="ead_ssi">ms23_artists_fund_society</field>
+    <field name="parent_ssi">aspace_ref88_v9p</field>
+    <field name="parent_ssm">aspace_ref8_4d5</field>
+    <field name="parent_ssm">aspace_ref88_v9p</field>
+    <field name="parent_unittitles_ssm">Series I: Alexander C. Morgan Papers</field>
+    <field name="parent_unittitles_ssm">Subseries E: Financial and Real Estate</field>
+    <field name="parent_unittitles_teim">Series I: Alexander C. Morgan Papers</field>
+    <field name="parent_unittitles_teim">Subseries E: Financial and Real Estate</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Artists' Fund Society records</field>
+    <field name="collection_ssm">Artists' Fund Society records</field>
+    <field name="collection_unitid_ssm">MS 23</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Real Estate Documents</field>
+    <field name="unittitle_teim">Real Estate Documents</field>
+    <field name="unitdate_normal_ssm">1924/1933</field>
+    <field name="unitdate_normal_teim">1924/1933</field>
+    <field name="unitdate_normal_sim">1924/1933</field>
+    <field name="unitdate_inclusive_teim">1924-1933</field>
+    <field name="ref_ssi">aspace_ref94_f0o</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Artists' Fund Society records</field>
+    <field name="collection_unitid_teim">MS 23</field>
+    <field name="series_sim">Series I: Alexander C. Morgan Papers</field>
+    <field name="series_sim">Subseries E: Financial and Real Estate</field>
+    <field name="series_si">Series I: Alexander C. Morgan Papers &gt;&gt; Subseries E: Financial and Real Estate &gt;&gt; Real Estate Documents</field>
+    <field name="heading_ssm">Real Estate Documents</field>
+    <field name="unitdate_start_sim">1924</field>
+    <field name="unitdate_start_ssm">1924</field>
+    <field name="unitdate_start_si">1924</field>
+    <field name="unitdate_end_sim">1933</field>
+    <field name="unitdate_end_ssm">1933</field>
+    <field name="unitdate_end_si">1933</field>
+    <field name="unitdate_ssm">Inclusive, 1924-1933</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

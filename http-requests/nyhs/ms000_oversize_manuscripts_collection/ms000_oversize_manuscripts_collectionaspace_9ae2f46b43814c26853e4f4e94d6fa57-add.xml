@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms000_oversize_manuscripts_collectionaspace_9ae2f46b43814c26853e4f4e94d6fa57</field>
+    <field name="ead_ssi">ms000_oversize_manuscripts_collection</field>
+    <field name="parent_ssi">aspace_ref9_cso</field>
+    <field name="parent_ssm">aspace_ref9_cso</field>
+    <field name="parent_unittitles_ssm">Series II. Oversize Manuscripts From Other Collections</field>
+    <field name="parent_unittitles_teim">Series II. Oversize Manuscripts From Other Collections</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oversize manuscripts collection</field>
+    <field name="collection_ssm">Oversize manuscripts collection</field>
+    <field name="collection_unitid_ssm">MS OS</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Y-Erasmus Hall Records (MS 201) (folder 1 of 3)] Long photographs of the complete faculty</field>
+    <field name="unittitle_teim">[Y-Erasmus Hall Records (MS 201) (folder 1 of 3)] Long photographs of the complete faculty</field>
+    <field name="unitdate_inclusive_teim">1912</field>
+    <field name="scopecontent_teim">Taken on campus at time of 125th anniversary celebration.
+•	Folder 1.1 (numbered copy 1): Formerly framed (frame discarded 2021), with only accurate identification of faculty member. 
+•	Folder 1.2 (numbered copy 2): This numbered copy was presented in Dec. 1972 by Ms. Alex Cameron, a teacher who appears in the photo. Poor condition (split in half).
+•	Folder 1.3 (flat copies): Three copies (one complete, two partial).
+
+See Guide to the Erasmus Hall Records, 1325–1989 (bulk, circa 1775–1975), MS 201.</field>
+    <field name="ref_ssi">aspace_9ae2f46b43814c26853e4f4e94d6fa57</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: large</field>
+    <field name="location_si">oversize: large</field>
+    <field name="collection_teim">Oversize manuscripts collection</field>
+    <field name="collection_unitid_teim">MS OS</field>
+    <field name="series_sim">Series II. Oversize Manuscripts From Other Collections</field>
+    <field name="series_si">Series II. Oversize Manuscripts From Other Collections &gt;&gt; [Y-Erasmus Hall Records (MS 201) (folder 1 of 3)] Long photographs of the complete faculty</field>
+    <field name="heading_ssm">[Y-Erasmus Hall Records (MS 201) (folder 1 of 3)] Long photographs of the complete faculty</field>
+    <field name="unitdate_ssm">Inclusive, 1912</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">344</field>
+  </doc>
+</add>

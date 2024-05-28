@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_ref1187_fse</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_ref42_m1n</field>
+    <field name="parent_ssm">aspace_ref5_ggh</field>
+    <field name="parent_ssm">aspace_ref9_gx4</field>
+    <field name="parent_ssm">aspace_ref42_m1n</field>
+    <field name="parent_unittitles_ssm">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_ssm">Subseries IA: MANHATTAN - BOXED MATERIAL</field>
+    <field name="parent_unittitles_ssm">Manhattan - Boxed Material - Buildings</field>
+    <field name="parent_unittitles_teim">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_teim">Subseries IA: MANHATTAN - BOXED MATERIAL</field>
+    <field name="parent_unittitles_teim">Manhattan - Boxed Material - Buildings</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Buildings-Institutions-Hospitals-Harlem Hospital</field>
+    <field name="unittitle_teim">Buildings-Institutions-Hospitals-Harlem Hospital</field>
+    <field name="ref_ssi">aspace_ref1187_fse</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 70, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series I: New York City Views - Manhattan</field>
+    <field name="series_sim">Subseries IA: MANHATTAN - BOXED MATERIAL</field>
+    <field name="series_sim">Manhattan - Boxed Material - Buildings</field>
+    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IA: MANHATTAN - BOXED MATERIAL &gt;&gt; Manhattan - Boxed Material - Buildings &gt;&gt; Buildings-Institutions-Hospitals-Harlem Hospital</field>
+    <field name="heading_ssm">Buildings-Institutions-Hospitals-Harlem Hospital</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1072</field>
+  </doc>
+</add>

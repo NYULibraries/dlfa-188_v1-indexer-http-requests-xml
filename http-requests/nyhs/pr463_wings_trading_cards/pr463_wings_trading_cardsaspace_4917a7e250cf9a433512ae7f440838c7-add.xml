@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr463_wings_trading_cardsaspace_4917a7e250cf9a433512ae7f440838c7</field>
+    <field name="ead_ssi">pr463_wings_trading_cards</field>
+    <field name="parent_ssi">aspace_1a92116c98ecdbdcea178618c4b6d28f</field>
+    <field name="parent_ssm">aspace_1a92116c98ecdbdcea178618c4b6d28f</field>
+    <field name="parent_unittitles_ssm">Wings "Friend or Foe" cards</field>
+    <field name="parent_unittitles_teim">Wings "Friend or Foe" cards</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_ssm">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_unitid_ssm">PR 463</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Wings "Friend or Foe" cards 121-140</field>
+    <field name="unittitle_teim">Wings "Friend or Foe" cards 121-140</field>
+    <field name="unitdate_inclusive_teim">1952</field>
+    <field name="scopecontent_teim">[Lacking 122, 131, 134, 139.]
+121. SAAB 29-A (Swedish Jet Fighter)
+122. F9 F6 Cougar (U.S. Navy Fighter) [LACKING]
+123. YB60 Heavy Bomber (U.S. Air Force Bomber)
+124. XF 88A Voodoo (U.S. Air Force Fighter)
+125. F-84-G Thunderjet (U.S. Air Force Bomber)
+126. XC-99 Cargo Transport (U.S. Air Force Transport)
+127. XC-123A Jet Avitruc (U.S. Air Force Jet)
+128. X-4 Northrop (U.S. Air Force Research Jet)
+129. PO-1W Lockheed (U.S. Navy Plane)
+130. S.E. 2415 Gronard II (French Twin-Jet)
+131. Swift Supermarine S41 (English Jet Fighter) [LACKING]
+132. Gloster GA 5 (English Jet Fighter)
+133. SR A-1 (British Jet Flying Boat)
+134. Short SA 4 (English Jet Bomber) [LACKING]
+135. Unknown (Russian Jet Plane)
+136. XA2J1 Savage (U.S. Navy)
+137. FJ2 North American (U.S. Navy Jet Bomber)
+138. AD-5 Skyraider (U.S. Navy Plane)
+139. PB M-5 Mariner (U.S. Navy Amphibian) [LACKING]
+140. XP 5Y-1 Vultee (U.S. Air Force)</field>
+    <field name="ref_ssi">aspace_4917a7e250cf9a433512ae7f440838c7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_unitid_teim">PR 463</field>
+    <field name="series_sim">Wings "Friend or Foe" cards</field>
+    <field name="series_si">Wings "Friend or Foe" cards &gt;&gt; Wings "Friend or Foe" cards 121-140</field>
+    <field name="heading_ssm">Wings "Friend or Foe" cards 121-140</field>
+    <field name="unitdate_ssm">Inclusive, 1952</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

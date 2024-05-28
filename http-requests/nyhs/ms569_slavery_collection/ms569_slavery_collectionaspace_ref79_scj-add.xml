@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms569_slavery_collectionaspace_ref79_scj</field>
+    <field name="ead_ssi">ms569_slavery_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Slavery Collection</field>
+    <field name="collection_ssm">Slavery Collection</field>
+    <field name="collection_unitid_ssm">MS 569</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V - Correspondence, 1766-1895</field>
+    <field name="unittitle_teim">Series V - Correspondence, 1766-1895</field>
+    <field name="unitdate_normal_ssm">1766/1895</field>
+    <field name="unitdate_normal_teim">1766/1895</field>
+    <field name="unitdate_normal_sim">1766/1895</field>
+    <field name="unitdate_inclusive_teim">1766-1895</field>
+    <field name="scopecontent_teim">Arranged alphabetically by last name of sender.</field>
+    <field name="scopecontent_teim">Note to researchers: A number of items originally housed in this collection were transferred to more appropriate places (for example, much was organized into the Vernon Correspondence series). Therefore, the letter and number combination item identification will not always be consecutive (e.g., C#3 is followed by C#17).</field>
+    <field name="scopecontent_teim">The correspondence series includes letters from, among others, eminent abolitionists such as Theodore Weld, Gerrit Smith and Angelina Grimke.</field>
+    <field name="scopecontent_teim">Items A#44-46 are letters to the printers of the Lewes Journal and The Diary regarding the abolition of the slave trade and are signed "Atticus."</field>
+    <field name="scopecontent_teim">Items F#14 and H#14 both refer to the same court case concerning Jack, a slave sentenced to death for stealing from his master. Both the master, Hugh Hopewell of Saint Mary's County, Maryland, and his friend Colonel Fitzhugh wrote to the Governor of Maryland asking for mercy for Jack, stating that because of his value as a slave and his sincere remorse for the crime, he should not be put to death.</field>
+    <field name="scopecontent_teim">Also of note is a letter written by an unidentified black man apologizing to his uncle for marrying a white woman, which can be found in the "Letters Unsigned" folder. </field>
+    <field name="ref_ssi">aspace_ref79_scj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Slavery Collection</field>
+    <field name="collection_unitid_teim">MS 569</field>
+    <field name="series_si">Series V - Correspondence, 1766-1895</field>
+    <field name="heading_ssm">Series V - Correspondence, 1766-1895</field>
+    <field name="unitdate_start_sim">1766</field>
+    <field name="unitdate_start_ssm">1766</field>
+    <field name="unitdate_start_si">1766</field>
+    <field name="unitdate_end_sim">1895</field>
+    <field name="unitdate_end_ssm">1895</field>
+    <field name="unitdate_end_si">1895</field>
+    <field name="unitdate_ssm">Inclusive, 1766-1895</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">59</field>
+  </doc>
+</add>

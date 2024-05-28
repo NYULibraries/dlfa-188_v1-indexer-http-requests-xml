@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref681_ym1</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">South Dakota--Fort Randall--Sioux prisoners of war</field>
+    <field name="unittitle_teim">South Dakota--Fort Randall--Sioux prisoners of war</field>
+    <field name="unitdate_normal_ssm">1882/1882</field>
+    <field name="unitdate_normal_teim">1882/1882</field>
+    <field name="unitdate_normal_sim">1882/1882</field>
+    <field name="unitdate_inclusive_teim">1882</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0667</field>
+    <field name="scopecontent_teim">Sioux Indian camp at Fort Randall, summer and winter views: teepees, including the "Medicine Teepee," with wolf skin being tanned in front of it; the sentinel's tent; portraits, including Sitting Bull and his eighth wife; Sitting Bull, wife, twins and infant, with white woman and child, and officer on horseback in background; Sitting Bull, two wives and three children; One Bull and Black Prairie Chicken  in front of Medicine Teepee; Eat Dog and family; group of Native Americans and military officers and families on ration day, with camp in the background; soldiers and others with wagon and goods on ration day; "Officers and Ladies' morning call": group visiting camp; prisoners in front of their teepees for roll call; women carrying firewood; women next to teepees with wood they have carried; Battalion drill of the 25th, Infantry Colored at Fort Randall, including military band and troops, fort building in background; Swift Bear and Squaw Chief; man on horse in front of drying meat. Native American Indians. Letter regarding George T. Bagoe's acquisition of the Sitting Bull images in Curatorial files.</field>
+    <field name="scopecontent_teim">28 items</field>
+    <field name="ref_ssi">aspace_ref681_ym1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 59</field>
+    <field name="location_si">Box: 59</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; South Dakota--Fort Randall--Sioux prisoners of war</field>
+    <field name="heading_ssm">South Dakota--Fort Randall--Sioux prisoners of war</field>
+    <field name="unitdate_start_sim">1882</field>
+    <field name="unitdate_start_ssm">1882</field>
+    <field name="unitdate_start_si">1882</field>
+    <field name="unitdate_end_sim">1882</field>
+    <field name="unitdate_end_ssm">1882</field>
+    <field name="unitdate_end_si">1882</field>
+    <field name="unitdate_ssm">Inclusive, 1882</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">668</field>
+  </doc>
+</add>

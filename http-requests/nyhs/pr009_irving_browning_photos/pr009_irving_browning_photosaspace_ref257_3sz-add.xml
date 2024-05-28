@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr009_irving_browning_photosaspace_ref257_3sz</field>
+    <field name="ead_ssi">pr009_irving_browning_photos</field>
+    <field name="parent_ssi">aspace_ref13_xmc</field>
+    <field name="parent_ssm">aspace_ref13_xmc</field>
+    <field name="parent_unittitles_ssm">Series I. Photographs</field>
+    <field name="parent_unittitles_teim">Series I. Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Browning photograph collection</field>
+    <field name="collection_ssm">Browning photograph collection</field>
+    <field name="collection_unitid_ssm">PR 9</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Roofs and Roof Gardens</field>
+    <field name="unittitle_teim">Roofs and Roof Gardens</field>
+    <field name="scopecontent_teim">Roofs and Roof Gardens includes views of rooftop patios and gardens as well as clothes hung to dry on apartment building roofs. A view of a man mowing the lawn on the roof of a Park Avenue penthouse, a series of photographs of an unidentified woman lounging with her dogs while being served drinks by a servant on the roof of a private residence, and photographs of residents enjoying the roof of the London Terrace (decorated to look like an ocean liner deck) allow a glimpse of the lifestyle of wealthier New Yorkers.</field>
+    <field name="ref_ssi">aspace_ref257_3sz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Browning photograph collection</field>
+    <field name="collection_unitid_teim">PR 9</field>
+    <field name="series_sim">Series I. Photographs</field>
+    <field name="series_si">Series I. Photographs &gt;&gt; Roofs and Roof Gardens</field>
+    <field name="heading_ssm">Roofs and Roof Gardens</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">238</field>
+  </doc>
+</add>

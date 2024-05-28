@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr115_playing_cards_gamesaspace_ref251_q5w</field>
+    <field name="ead_ssi">pr115_playing_cards_games</field>
+    <field name="parent_ssi">aspace_ref243_k2i</field>
+    <field name="parent_ssm">aspace_ref239_fsv</field>
+    <field name="parent_ssm">aspace_ref243_k2i</field>
+    <field name="parent_unittitles_ssm">Oversized Cards</field>
+    <field name="parent_unittitles_ssm">From Series III. German and Austrian Playing Cards</field>
+    <field name="parent_unittitles_teim">Oversized Cards</field>
+    <field name="parent_unittitles_teim">From Series III. German and Austrian Playing Cards</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Playing card and game collection</field>
+    <field name="collection_ssm">Playing card and game collection</field>
+    <field name="collection_unitid_ssm">PR 115</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Metamorphosen der Neuzeit für Knaben; Modern transformations for boys</field>
+    <field name="unittitle_teim">Metamorphosen der Neuzeit für Knaben; Modern transformations for boys</field>
+    <field name="unitdate_normal_ssm">1850/1850</field>
+    <field name="unitdate_normal_teim">1850/1850</field>
+    <field name="unitdate_normal_sim">1850/1850</field>
+    <field name="unitdate_inclusive_teim">[1850]</field>
+    <field name="ref_ssi">aspace_ref251_q5w</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15, Folder: 38</field>
+    <field name="location_ssm">Folder: 38</field>
+    <field name="location_si">Folder: 38</field>
+    <field name="collection_teim">Playing card and game collection</field>
+    <field name="collection_unitid_teim">PR 115</field>
+    <field name="series_sim">Oversized Cards</field>
+    <field name="series_sim">From Series III. German and Austrian Playing Cards</field>
+    <field name="series_si">Oversized Cards &gt;&gt; From Series III. German and Austrian Playing Cards &gt;&gt; Metamorphosen der Neuzeit für Knaben; Modern transformations for boys</field>
+    <field name="heading_ssm">Metamorphosen der Neuzeit für Knaben; Modern transformations for boys</field>
+    <field name="unitdate_start_sim">1850</field>
+    <field name="unitdate_start_ssm">1850</field>
+    <field name="unitdate_start_si">1850</field>
+    <field name="unitdate_end_sim">1850</field>
+    <field name="unitdate_end_ssm">1850</field>
+    <field name="unitdate_end_si">1850</field>
+    <field name="unitdate_ssm">Inclusive, [1850]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">239</field>
+  </doc>
+</add>

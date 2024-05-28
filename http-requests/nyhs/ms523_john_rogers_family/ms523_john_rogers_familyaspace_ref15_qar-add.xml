@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms523_john_rogers_familyaspace_ref15_qar</field>
+    <field name="ead_ssi">ms523_john_rogers_family</field>
+    <field name="parent_ssi">aspace_ref14_bkn</field>
+    <field name="parent_ssm">aspace_ref14_bkn</field>
+    <field name="parent_unittitles_ssm">Series I: Papers of John Rogers, Jr.</field>
+    <field name="parent_unittitles_teim">Series I: Papers of John Rogers, Jr.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Rogers Family Papers</field>
+    <field name="collection_ssm">Rogers Family Papers</field>
+    <field name="collection_unitid_ssm">MS 523</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I: Personal Correspondence</field>
+    <field name="unittitle_teim">Subseries I: Personal Correspondence</field>
+    <field name="unitdate_normal_ssm">1916/1936</field>
+    <field name="unitdate_normal_teim">1916/1936</field>
+    <field name="unitdate_normal_sim">1916/1936</field>
+    <field name="unitdate_inclusive_teim">1837-1904</field>
+    <field name="scopecontent_teim">This subseries primarily consists of letters written by John Rogers, Jr. dating from adolescence up until his death in 1904. John Rogers wrote mainly to siblings, particularly sister Ellen Derby Rogers, his parents John Rogers, Sr. and Sarah Ellen Derby Rogers, and later in life to his children and wife Harriet Moore Francis Rogers. Also included is correspondence from a few notable Americans who wrote to John Rogers, Jr. about his work, including Abraham Lincoln, Ulysses S. Grant, Grover Cleveland, and Henry Ward Beecher. The letters are arranged chronologically.</field>
+    <field name="scopecontent_teim">Rogers' earliest letters date back to his time at grammar school in Roxbury and the Boston English High School. The letters reflect day to day life, occasionally revealing an early interest in the arts. Later letters from Manchester, New Hampshire describe his first exploits in machinery and plan to develop a career as a machinist when he later writes from Hannibal, Missouri as a Master Mechanic. Rogers wrote fewer letters during his times abroad, but returns to Chicago and New York to write many letters about his unexpected success as an artist. His letters also include the many he wrote to wife Harriet Moore Francis Rogers following their marriage in 1865.</field>
+    <field name="ref_ssi">aspace_ref15_qar</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Rogers Family Papers</field>
+    <field name="collection_unitid_teim">MS 523</field>
+    <field name="series_sim">Series I: Papers of John Rogers, Jr.</field>
+    <field name="series_si">Series I: Papers of John Rogers, Jr. &gt;&gt; Subseries I: Personal Correspondence</field>
+    <field name="heading_ssm">Subseries I: Personal Correspondence</field>
+    <field name="unitdate_start_sim">1916</field>
+    <field name="unitdate_start_ssm">1916</field>
+    <field name="unitdate_start_si">1916</field>
+    <field name="unitdate_end_sim">1936</field>
+    <field name="unitdate_end_ssm">1936</field>
+    <field name="unitdate_end_si">1936</field>
+    <field name="unitdate_ssm">Inclusive, 1837-1904</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

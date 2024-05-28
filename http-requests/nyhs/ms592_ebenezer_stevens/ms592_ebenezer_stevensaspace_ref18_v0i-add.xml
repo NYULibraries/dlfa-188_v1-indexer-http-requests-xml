@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms592_ebenezer_stevensaspace_ref18_v0i</field>
+    <field name="ead_ssi">ms592_ebenezer_stevens</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ebenezer Stevens Papers</field>
+    <field name="collection_ssm">Ebenezer Stevens Papers</field>
+    <field name="collection_unitid_ssm">MS 592</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III: Financial Documents</field>
+    <field name="unittitle_teim">Series III: Financial Documents</field>
+    <field name="unitdate_normal_ssm">1769/1806</field>
+    <field name="unitdate_normal_teim">1769/1806</field>
+    <field name="unitdate_normal_sim">1769/1806</field>
+    <field name="unitdate_inclusive_teim">1769, 1785-1806</field>
+    <field name="scopecontent_teim">Series III consists of various financial documents regarding Stevens' business as well as personal matters. The documents regarding shipping are largely bills of lading, which document the sending or receiving of shipped goods.  Bills of lading include the date sent or received; name of shipper and reciever; destination and origin as well as price of goods. Also included in the shipping documents are several records of accounts. </field>
+    <field name="scopecontent_teim">The documents regarding General Schuyler are also of a business nature and contain information regarding accounts between Stevens and Schuyler. </field>
+    <field name="scopecontent_teim">The school bills contain documents regarding the payment for education of Stevens' children.  It consists of several bills for education and supplies. </field>
+    <field name="ref_ssi">aspace_ref18_v0i</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ebenezer Stevens Papers</field>
+    <field name="collection_unitid_teim">MS 592</field>
+    <field name="series_si">Series III: Financial Documents</field>
+    <field name="heading_ssm">Series III: Financial Documents</field>
+    <field name="unitdate_start_sim">1769</field>
+    <field name="unitdate_start_ssm">1769</field>
+    <field name="unitdate_start_si">1769</field>
+    <field name="unitdate_end_sim">1806</field>
+    <field name="unitdate_end_ssm">1806</field>
+    <field name="unitdate_end_si">1806</field>
+    <field name="unitdate_ssm">Inclusive, 1769, 1785-1806</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">22</field>
+  </doc>
+</add>

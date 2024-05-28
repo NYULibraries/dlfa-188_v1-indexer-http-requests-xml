@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3033_horticulturalaspace_ref791_j6a</field>
+    <field name="ead_ssi">ms3033_horticultural</field>
+    <field name="parent_ssi">aspace_ref580_9hl</field>
+    <field name="parent_ssm">aspace_ref580_9hl</field>
+    <field name="parent_unittitles_ssm">Series I. General Administration Files</field>
+    <field name="parent_unittitles_teim">Series I. General Administration Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Horticultural Society of New York records</field>
+    <field name="collection_ssm">Horticultural Society of New York records</field>
+    <field name="collection_unitid_ssm">MS 3033</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.D. Presidents' Files</field>
+    <field name="unittitle_teim">Subseries I.D. Presidents' Files</field>
+    <field name="unitdate_teim">1930s-1990s (bulk, 1990s)</field>
+    <field name="scopecontent_teim">Subseries I.D encompasses the administrative files of the HSNY President's office. They are chiefly Millicent Johnson's, who held the title in the 1990s, but possibly include material from others. Like Subseries I.E, these administrative documents are grouped by topic, rather than creator.</field>
+    <field name="ref_ssi">aspace_ref791_j6a</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Horticultural Society of New York records</field>
+    <field name="collection_unitid_teim">MS 3033</field>
+    <field name="series_sim">Series I. General Administration Files</field>
+    <field name="series_si">Series I. General Administration Files &gt;&gt; Subseries I.D. Presidents' Files</field>
+    <field name="heading_ssm">Subseries I.D. Presidents' Files</field>
+    <field name="unitdate_ssm">1930s-1990s (bulk, 1990s)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">193</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2953_macdowell_clubaspace_ref11_46x</field>
+    <field name="ead_ssi">ms2953_macdowell_club</field>
+    <field name="parent_ssi">aspace_ref1_avw</field>
+    <field name="parent_ssm">aspace_ref1_avw</field>
+    <field name="parent_unittitles_ssm">Series I: Minutes</field>
+    <field name="parent_unittitles_teim">Series I: Minutes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">MacDowell Club of New York City records</field>
+    <field name="collection_ssm">MacDowell Club of New York City records</field>
+    <field name="collection_unitid_ssm">MS 2953</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">General minutes</field>
+    <field name="unittitle_teim">General minutes</field>
+    <field name="unitdate_teim">1909 October - 1910 May</field>
+    <field name="ref_ssi">aspace_ref11_46x</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">MacDowell Club of New York City records</field>
+    <field name="collection_unitid_teim">MS 2953</field>
+    <field name="series_sim">Series I: Minutes</field>
+    <field name="series_si">Series I: Minutes &gt;&gt; General minutes</field>
+    <field name="heading_ssm">General minutes</field>
+    <field name="unitdate_ssm">1909 October - 1910 May</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

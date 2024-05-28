@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms72_martha_bradstreetaspace_ref45_5th</field>
+    <field name="ead_ssi">ms72_martha_bradstreet</field>
+    <field name="parent_ssi">aspace_ref13_s1u</field>
+    <field name="parent_ssm">aspace_ref13_s1u</field>
+    <field name="parent_unittitles_ssm">Series I: Martha Bradstreet Codd Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Martha Bradstreet Codd Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Martha Bradstreet papers</field>
+    <field name="collection_ssm">Martha Bradstreet papers</field>
+    <field name="collection_unitid_ssm">MS 72</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.B. Letters sent by Martha Bradstreet Codd</field>
+    <field name="unittitle_teim">Subseries I.B. Letters sent by Martha Bradstreet Codd</field>
+    <field name="unitdate_inclusive_teim">1814-1857</field>
+    <field name="scopecontent_teim">Arranged by recipient. Included here are letters concerning C. Bedford and Edward Bell, both of whom Martha believed had insulted her by claiming that she had been abusive in insulting them. There seems to have been some dispute over money owed to each of these men for their services to her in her quest in regaining the property in the United States. Bedford and Bell were Martha's legal council in London, deciphering the wills of her relatives and in the sale of some of her husband Mr. Codd's property. In addition, there is correspondence between these two men amongst themselves as well as with John Bradstreet, discussing Martha's personal character and state of affairs. Martha's letter to John Bradstreet, however, does not mention this, instead, she writes that although she knows Peggy (Mrs. John Bradstreet) feels that in exchange for all they have done for her, Martha should take care of them financially, Martha wrote that it was not feasible, she had her own debts and needed to support her own children. The last letter, dated much later to Martin V. B. Wilconson, refers to the next Judge to be faced on the Herkimer Circuit. It seems that Martha's legal battles extend to the later 1850s.</field>
+    <field name="ref_ssi">aspace_ref45_5th</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Martha Bradstreet papers</field>
+    <field name="collection_unitid_teim">MS 72</field>
+    <field name="series_sim">Series I: Martha Bradstreet Codd Correspondence</field>
+    <field name="series_si">Series I: Martha Bradstreet Codd Correspondence &gt;&gt; Subseries I.B. Letters sent by Martha Bradstreet Codd</field>
+    <field name="heading_ssm">Subseries I.B. Letters sent by Martha Bradstreet Codd</field>
+    <field name="unitdate_ssm">Inclusive, 1814-1857</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">32</field>
+  </doc>
+</add>

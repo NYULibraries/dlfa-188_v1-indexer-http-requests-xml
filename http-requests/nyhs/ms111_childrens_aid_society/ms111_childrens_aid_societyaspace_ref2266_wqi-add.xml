@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref2266_wqi</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref6_3bh</field>
+    <field name="parent_ssm">aspace_ref6_3bh</field>
+    <field name="parent_unittitles_ssm">Series VI - Financial and Fund-Raising Records</field>
+    <field name="parent_unittitles_teim">Series VI - Financial and Fund-Raising Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VI.4 - Volumes. Supplement</field>
+    <field name="unittitle_teim">Subseries VI.4 - Volumes. Supplement</field>
+    <field name="unitdate_inclusive_teim">circa 1858-1963</field>
+    <field name="scopecontent_teim">The subseries includes 310 volumes of records acquired as a supplement to the originally processed collection. The volumes are financial in nature and relate to those found in Series VI.3; these volumes include cash ledgers, income and expense records, donation registers, payroll records, etc.</field>
+    <field name="ref_ssi">aspace_ref2266_wqi</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series VI - Financial and Fund-Raising Records</field>
+    <field name="series_si">Series VI - Financial and Fund-Raising Records &gt;&gt; Subseries VI.4 - Volumes. Supplement</field>
+    <field name="heading_ssm">Subseries VI.4 - Volumes. Supplement</field>
+    <field name="unitdate_ssm">Inclusive, circa 1858-1963</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1026</field>
+  </doc>
+</add>

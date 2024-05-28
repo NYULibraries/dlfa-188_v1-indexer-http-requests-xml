@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms592_ebenezer_stevensaspace_ref14_ykz</field>
+    <field name="ead_ssi">ms592_ebenezer_stevens</field>
+    <field name="parent_ssi">aspace_ref1_rxo</field>
+    <field name="parent_ssm">aspace_ref1_rxo</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence </field>
+    <field name="parent_unittitles_teim">Series I: Correspondence </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ebenezer Stevens Papers</field>
+    <field name="collection_ssm">Ebenezer Stevens Papers</field>
+    <field name="collection_unitid_ssm">MS 592</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B: Family Correspondence </field>
+    <field name="unittitle_teim">Subseries B: Family Correspondence </field>
+    <field name="unitdate_normal_ssm">1804/1822</field>
+    <field name="unitdate_normal_teim">1804/1822</field>
+    <field name="unitdate_normal_sim">1804/1822</field>
+    <field name="unitdate_inclusive_teim">1739,1804-1822</field>
+    <field name="scopecontent_teim">Subseries B contains the correspondence of members of Stevens' family including his sons Horatio Gates Stevens, George Alexander Stevens, Byram Kerby Stevens and his daughter Mary Stevens. It also contains two letters from members of the Ledyard family.</field>
+    <field name="ref_ssi">aspace_ref14_ykz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ebenezer Stevens Papers</field>
+    <field name="collection_unitid_teim">MS 592</field>
+    <field name="series_sim">Series I: Correspondence </field>
+    <field name="series_si">Series I: Correspondence  &gt;&gt; Subseries B: Family Correspondence </field>
+    <field name="heading_ssm">Subseries B: Family Correspondence </field>
+    <field name="unitdate_start_sim">1804</field>
+    <field name="unitdate_start_ssm">1804</field>
+    <field name="unitdate_start_si">1804</field>
+    <field name="unitdate_end_sim">1822</field>
+    <field name="unitdate_end_ssm">1822</field>
+    <field name="unitdate_end_si">1822</field>
+    <field name="unitdate_ssm">Inclusive, 1739,1804-1822</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

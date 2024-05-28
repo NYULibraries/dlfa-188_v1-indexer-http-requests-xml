@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms231_freedmanaspace_4d4f26294db8bf0f872b4ede6a60182e</field>
+    <field name="ead_ssi">ms231_freedman</field>
+    <field name="parent_ssi">aspace_ad24f6983e48f6f31b9089d7e2f5cafd</field>
+    <field name="parent_ssm">aspace_ad24f6983e48f6f31b9089d7e2f5cafd</field>
+    <field name="parent_unittitles_ssm">Series III. Unrelated documents</field>
+    <field name="parent_unittitles_teim">Series III. Unrelated documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Freedman family papers and other documents</field>
+    <field name="collection_ssm">Freedman family papers and other documents</field>
+    <field name="collection_unitid_ssm">MS 231</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Wallet</field>
+    <field name="unittitle_teim">Wallet</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">Holds a card with the word "REPUBLICAN" typed above the numbers "0987654321" followed by the same written in reverse: "NACILBUPER" above "1234567890."</field>
+    <field name="ref_ssi">aspace_4d4f26294db8bf0f872b4ede6a60182e</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 4, Folder: 19</field>
+    <field name="location_ssm">Folder: 19</field>
+    <field name="location_si">Folder: 19</field>
+    <field name="collection_teim">Freedman family papers and other documents</field>
+    <field name="collection_unitid_teim">MS 231</field>
+    <field name="series_sim">Series III. Unrelated documents</field>
+    <field name="series_si">Series III. Unrelated documents &gt;&gt; Wallet</field>
+    <field name="heading_ssm">Wallet</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">56</field>
+  </doc>
+</add>

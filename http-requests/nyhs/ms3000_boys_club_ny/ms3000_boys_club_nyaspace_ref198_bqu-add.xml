@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3000_boys_club_nyaspace_ref198_bqu</field>
+    <field name="ead_ssi">ms3000_boys_club_ny</field>
+    <field name="parent_ssi">aspace_ref1_fre</field>
+    <field name="parent_ssm">aspace_ref1_fre</field>
+    <field name="parent_unittitles_ssm">Series I: Organizational Records</field>
+    <field name="parent_unittitles_teim">Series I: Organizational Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Boys' Club of New York records</field>
+    <field name="collection_ssm">Boys' Club of New York records</field>
+    <field name="collection_unitid_ssm">MS 3000</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.4: Women's Board</field>
+    <field name="unittitle_teim">Subseries I.4: Women's Board</field>
+    <field name="scopecontent_teim">The Women's Board was established in 1968.  Its purpose was initially limited to managing BCNY's fund raising benefits, but eventually expanded to include administering volunteer programs such as Homework Help and R.E.A.D. Minutes date back to 1973 and are primarily concerned with planning of events, including Spring and Fall Dances, fashion shows, and movie and theater benefits.  There is also some correspondence relating to meetings, events and volunteer programs, along with some financial statements. </field>
+    <field name="scopecontent_teim">Women became eligible to serve on the Board of Trustees in 1989, and minutes and correspondence from the late 1980's include discussion of this issue.  </field>
+    <field name="scopecontent_teim">Note that access to Women's Board meeting minutes and related correspondence is restricted for 35 years from the date of creation. Materials that were subject to restriction at the time this finding aid was created are identified in the box and folder list. </field>
+    <field name="ref_ssi">aspace_ref198_bqu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Boys' Club of New York records</field>
+    <field name="collection_unitid_teim">MS 3000</field>
+    <field name="series_sim">Series I: Organizational Records</field>
+    <field name="series_si">Series I: Organizational Records &gt;&gt; Subseries I.4: Women's Board</field>
+    <field name="heading_ssm">Subseries I.4: Women's Board</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">118</field>
+  </doc>
+</add>

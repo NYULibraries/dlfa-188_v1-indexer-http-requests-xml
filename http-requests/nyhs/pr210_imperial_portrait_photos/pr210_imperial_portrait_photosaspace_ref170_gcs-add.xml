@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr210_imperial_portrait_photosaspace_ref170_gcs</field>
+    <field name="ead_ssi">pr210_imperial_portrait_photos</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Imperial Portrait Photograph File</field>
+    <field name="collection_ssm">Imperial Portrait Photograph File</field>
+    <field name="collection_unitid_ssm">PR 210</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Oversize Material</field>
+    <field name="unittitle_teim">Oversize Material</field>
+    <field name="scopecontent_teim">Oversize material is filed in one flat folder housed in a map case drawer.</field>
+    <field name="ref_ssi">aspace_ref170_gcs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Imperial Portrait Photograph File</field>
+    <field name="collection_unitid_teim">PR 210</field>
+    <field name="series_si">Oversize Material</field>
+    <field name="heading_ssm">Oversize Material</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">82</field>
+  </doc>
+</add>

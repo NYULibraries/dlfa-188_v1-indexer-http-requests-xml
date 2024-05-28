@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref172_w79</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Montana</field>
+    <field name="unittitle_teim">Montana</field>
+    <field name="unitdate_inclusive_teim">[1870-1904]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0158</field>
+    <field name="scopecontent_teim">Montana: buffalo near Flathead Lake, buffalo hunter standing over dead animal; sheep herder and his dog, in front of a tent; men laying track, and hydraulic work on the Bozeman Tunnel, Northern Pacific Railroad; horseman on "the Devil's Pathway";  Fort Benton and the Missouri River, ferry in foreground, steamboat in background; log building at Fort Carroll; railroad tracks and buildings, Glendive; train in cut at Eagle Butte, near Glendive; general view of Helena; animal bones and grave of the unknown, Little Big Horn Battleground,  men looking at wooden marker for Col. Keogh and others, custer monument and cemetery; bridge over the Madison River; street views in Miles City, showing ox teams and covered wagons, livery stable and other businesses; steamboat Helena on the Milk river, and at Wolf Point, Native American seated in foreground; F. Jay Haynes and camera at the falls of the Missouri.</field>
+    <field name="scopecontent_teim">25 items</field>
+    <field name="ref_ssi">aspace_ref172_w79</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18</field>
+    <field name="location_si">Box: 18</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Montana</field>
+    <field name="heading_ssm">Montana</field>
+    <field name="unitdate_ssm">Inclusive, [1870-1904]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">159</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg20aspace_ref997_l3d</field>
+    <field name="ead_ssi">nyhs_archives_rg20</field>
+    <field name="parent_ssi">aspace_ref982_l3x</field>
+    <field name="parent_ssm">aspace_ref982_l3x</field>
+    <field name="parent_unittitles_ssm">Series VI. Object Images</field>
+    <field name="parent_unittitles_teim">Series VI. Object Images</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Museum Department records</field>
+    <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 20</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VI.A. Image Files</field>
+    <field name="unittitle_teim">Subseries VI.A. Image Files</field>
+    <field name="unitdate_teim">1765, circa 1864-circa 1990</field>
+    <field name="scopecontent_teim">The series includes the museum's photograph files for select objects, which generally appears to be paintings, drawings, and some sculpture. The series retains the original folders, which include the object/accession number, the negative number of the object's image and, for some, other notes. For the bulk of the folders, the content includes only one or two black and white photographic prints. Many of the folders hold no documents, but those empty folders were also retained in the series.</field>
+    <field name="scopecontent_teim">In addition to photographs, a considerable number of folders also include other documents. These documents concern the object's acquisition, attributions, research notes on the object's subject, inquiries from outside N-YHS about the object, conservation/restoration reports, deaccession in some cases, and other matter. A small number of these additional documents are exceptional, such as the original 1765 declaration of John Cruger naming Joseph Drake a freeman and citizen of New York City (object 1957.64) and Frederic De Peyster's 1864 letter presenting the drawing by John J. Audubon of John Cleeves Symmes to N-YHS (object 1864.4). Also, some files include a negative or transparency (often color) of the object. During processing, the archivist attempted on a time limited best efforts basis to identify which files held documents other than black and white prints and these instances are noted in the container list below; researchers should not rely exclusively on these notes as other files may well hold useful documentation, such as descriptions written on the back of photographs.</field>
+    <field name="ref_ssi">aspace_ref997_l3d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 20</field>
+    <field name="series_sim">Series VI. Object Images</field>
+    <field name="series_si">Series VI. Object Images &gt;&gt; Subseries VI.A. Image Files</field>
+    <field name="heading_ssm">Subseries VI.A. Image Files</field>
+    <field name="unitdate_ssm">1765, circa 1864-circa 1990</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1635</field>
+  </doc>
+</add>

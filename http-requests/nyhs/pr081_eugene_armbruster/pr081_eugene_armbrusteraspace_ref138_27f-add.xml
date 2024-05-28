@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr081_eugene_armbrusteraspace_ref138_27f</field>
+    <field name="ead_ssi">pr081_eugene_armbruster</field>
+    <field name="parent_ssi">aspace_ref130_gct</field>
+    <field name="parent_ssm">aspace_ref13_l7y</field>
+    <field name="parent_ssm">aspace_ref130_gct</field>
+    <field name="parent_unittitles_ssm">Series I: Prints</field>
+    <field name="parent_unittitles_ssm">Subseries II: Prints: 5 x 7"</field>
+    <field name="parent_unittitles_teim">Series I: Prints</field>
+    <field name="parent_unittitles_teim">Subseries II: Prints: 5 x 7"</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Eugene L. Armbruster photograph collection</field>
+    <field name="collection_ssm">Eugene L. Armbruster photograph collection</field>
+    <field name="collection_unitid_ssm">PR 81</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">New York--Nassau County--Hempstead</field>
+    <field name="unittitle_teim">New York--Nassau County--Hempstead</field>
+    <field name="unitdate_normal_ssm">1922/1922</field>
+    <field name="unitdate_normal_teim">1922/1922</field>
+    <field name="unitdate_normal_sim">1922/1922</field>
+    <field name="unitdate_inclusive_teim">1922</field>
+    <field name="ref_ssi">aspace_ref138_27f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7</field>
+    <field name="location_si">Box: 7</field>
+    <field name="collection_teim">Eugene L. Armbruster photograph collection</field>
+    <field name="collection_unitid_teim">PR 81</field>
+    <field name="series_sim">Series I: Prints</field>
+    <field name="series_sim">Subseries II: Prints: 5 x 7"</field>
+    <field name="series_si">Series I: Prints &gt;&gt; Subseries II: Prints: 5 x 7" &gt;&gt; New York--Nassau County--Hempstead</field>
+    <field name="heading_ssm">New York--Nassau County--Hempstead</field>
+    <field name="unitdate_start_sim">1922</field>
+    <field name="unitdate_start_ssm">1922</field>
+    <field name="unitdate_start_si">1922</field>
+    <field name="unitdate_end_sim">1922</field>
+    <field name="unitdate_end_ssm">1922</field>
+    <field name="unitdate_end_si">1922</field>
+    <field name="unitdate_ssm">Inclusive, 1922</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">125</field>
+  </doc>
+</add>

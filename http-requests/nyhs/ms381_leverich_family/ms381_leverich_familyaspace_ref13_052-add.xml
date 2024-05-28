@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms381_leverich_familyaspace_ref13_052</field>
+    <field name="ead_ssi">ms381_leverich_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Leverich family papers</field>
+    <field name="collection_ssm">Leverich family papers</field>
+    <field name="collection_unitid_ssm">MS 381</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Correspondence</field>
+    <field name="unittitle_teim">Series I: Correspondence</field>
+    <field name="unitdate_teim">1825-1890, 1937</field>
+    <field name="scopecontent_teim">The Correspondence series consists of letters, telegrams, letterpress books, letter copy books, code books, annotated bills, annotated statements, annotated prices current, invitations, calling cards, envelopes, and an address book. The series primarily contains correspondence to and from members of the Leverich and allied families, the family business, Leverich &amp; Co., and business associates of both the family and the firm. The series includes information about Leverich &amp; Co.'s business dealings, the running of the Oak Lawn and Dogberry plantations, and to a lesser degree the family and private matters of the Leveriches. The material in this series dates from 1825 to 1890, with a selection of handwritten notes from 1937. The bulk dates vary with the least amount of material existing for the years of the Civil War. </field>
+    <field name="scopecontent_teim">The principal subseries contain correspondence of Leverich &amp; Co., Charles P. Leverich, Henry S. Leverich, Edward Leverich, Annie Leverich, and family friend and employee George Payne. Each of the principal subseries is further divided into incoming and outgoing material. Incoming ("Received") correspondence consists of letters, telegrams and annotated items addressed to the above-named persons or entities. Outgoing ("Sent") correspondence consists of letter books (retained copies of letters sent), telegram books, and a small number of letters sent by them to other addressees.</field>
+    <field name="scopecontent_teim">Foldered material is arranged alphabetically by the sender's name, and then chronologically within the folder. For purposes of arrangement, the "sender" is the person or entity noted (docketed) by the recipient on the verso of the letter. Thus, a letter signed by "John Smith", but docketed "Smith &amp; Jones" would be filed under "Smith &amp; Jones". A letter signed by the same individual, but docketed "John Smith" would be filed as "Smith, John". Within the subseries, folders were created for correspondents who authored ten or more documents and for noteworthy persons within the collection, such as other Leverich family members and members of the Porter family, owners of the Oak Lawn and Dogberry plantations. Persons or entities that created fewer than ten documents are included in general alphabetical folders located at the beginning of each subseries.</field>
+    <field name="scopecontent_teim">Researchers should note that, for the most part, envelopes are housed with their corresponding letters. However, the Envelopes subseries contains a few folders of envelopes for which the corresponding letter could not be readily determined.</field>
+    <field name="ref_ssi">aspace_ref13_052</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Leverich family papers</field>
+    <field name="collection_unitid_teim">MS 381</field>
+    <field name="series_si">Series I: Correspondence</field>
+    <field name="heading_ssm">Series I: Correspondence</field>
+    <field name="unitdate_ssm">1825-1890, 1937</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

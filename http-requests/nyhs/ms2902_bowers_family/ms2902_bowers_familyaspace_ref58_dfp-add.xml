@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2902_bowers_familyaspace_ref58_dfp</field>
+    <field name="ead_ssi">ms2902_bowers_family</field>
+    <field name="parent_ssi">aspace_ref54_gk3</field>
+    <field name="parent_ssm">aspace_ref51_nsr</field>
+    <field name="parent_ssm">aspace_ref54_gk3</field>
+    <field name="parent_unittitles_ssm">Series VI: Books</field>
+    <field name="parent_unittitles_ssm">Subseries VI.B: Published Books</field>
+    <field name="parent_unittitles_teim">Series VI: Books</field>
+    <field name="parent_unittitles_teim">Subseries VI.B: Published Books</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bowers family papers</field>
+    <field name="collection_ssm">Bowers family papers</field>
+    <field name="collection_unitid_ssm">MS 2902</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Washington Irving, &lt;em&gt; A History of the Life and Voyages of Christopher Columbus in Three Volumes&lt;/em&gt;, volume 2, New York: G. &amp;amp; C. Carvill, 1828.</field>
+    <field name="unittitle_teim">Washington Irving,  A History of the Life and Voyages of Christopher Columbus in Three Volumes, volume 2, New York: G. &amp; C. Carvill, 1828.</field>
+    <field name="unitdate_teim">1828</field>
+    <field name="ref_ssi">aspace_ref58_dfp</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7</field>
+    <field name="location_si">Box: 7</field>
+    <field name="collection_teim">Bowers family papers</field>
+    <field name="collection_unitid_teim">MS 2902</field>
+    <field name="series_sim">Series VI: Books</field>
+    <field name="series_sim">Subseries VI.B: Published Books</field>
+    <field name="series_si">Series VI: Books &gt;&gt; Subseries VI.B: Published Books &gt;&gt; Washington Irving, &lt;em&gt; A History of the Life and Voyages of Christopher Columbus in Three Volumes&lt;/em&gt;, volume 2, New York: G. &amp;amp; C. Carvill, 1828.</field>
+    <field name="heading_ssm">Washington Irving,  A History of the Life and Voyages of Christopher Columbus in Three Volumes, volume 2, New York: G. &amp; C. Carvill, 1828.</field>
+    <field name="unitdate_ssm">1828</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">67</field>
+  </doc>
+</add>

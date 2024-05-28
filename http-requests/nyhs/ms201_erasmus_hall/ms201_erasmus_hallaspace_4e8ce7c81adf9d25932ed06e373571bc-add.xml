@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_4e8ce7c81adf9d25932ed06e373571bc</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_f0fc1a7847758885988279881666855c</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_f0fc1a7847758885988279881666855c</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Card catalog</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Card catalog</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Catalogue of the Archives of Erasmus Hall High School, Compiled by Joseph W. Halpern, Class of '72</field>
+    <field name="unittitle_teim">Catalogue of the Archives of Erasmus Hall High School, Compiled by Joseph W. Halpern, Class of '72</field>
+    <field name="scopecontent_teim">Card catalog in wooden file drawer. A bound photocopy of the cards is kept in the New-York Historical Society Manuscript Department, but the present finding aid provides a nearly verbatim transcription of the item-level catalog.</field>
+    <field name="ref_ssi">aspace_4e8ce7c81adf9d25932ed06e373571bc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-25</field>
+    <field name="location_si">Offsite-Box: RC-25</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Card catalog</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Card catalog &gt;&gt; Catalogue of the Archives of Erasmus Hall High School, Compiled by Joseph W. Halpern, Class of '72</field>
+    <field name="heading_ssm">Catalogue of the Archives of Erasmus Hall High School, Compiled by Joseph W. Halpern, Class of '72</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

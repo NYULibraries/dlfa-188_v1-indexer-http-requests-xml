@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref333_f54</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Commercial bldgs. -- Publishing</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Commercial bldgs. -- Publishing</field>
+    <field name="unitdate_normal_ssm">1865/1954</field>
+    <field name="unitdate_normal_teim">1865/1954</field>
+    <field name="unitdate_normal_sim">1865/1954</field>
+    <field name="unitdate_inclusive_teim">[1865-1954]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0319</field>
+    <field name="scopecontent_teim">Newspaper and magazine publishers: Harper's Publishing House; the Herald building on Broadway; people reading the war bulletins on the front of the New York Journal building from City Hall Park; man buying newspaper from boy while others read bulletin on the front of the Evening Post building; the Staats-Zeitung, Centre Street across from City Hall, with one view showing building decked out with bunting, flags and a portrait of a visiting dignitary; the Times building downtown in Printer's Row, with signs for advertising agencies, and a view of an uptown building with the elevated railroad in the foreground; the Tribune Tower, with clock tower, including view from the New Post Office and the park, with fountain in foreground; the old World building near the old Times building, and the New World Building across from City Hall, including views with City Hall in the view at the left, one with the tower of the Brooklyn Bridge in the distance, and a view showing street full of trolleys and of people reading the bulletins about the Spanish American War posted on the front of the building.</field>
+    <field name="scopecontent_teim">30 items</field>
+    <field name="ref_ssi">aspace_ref333_f54</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 31</field>
+    <field name="location_si">Box: 31</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Commercial bldgs. -- Publishing</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Commercial bldgs. -- Publishing</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1954</field>
+    <field name="unitdate_end_ssm">1954</field>
+    <field name="unitdate_end_si">1954</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1954]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">320</field>
+  </doc>
+</add>

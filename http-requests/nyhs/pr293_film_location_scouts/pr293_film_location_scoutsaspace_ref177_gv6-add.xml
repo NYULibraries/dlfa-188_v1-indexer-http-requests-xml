@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr293_film_location_scoutsaspace_ref177_gv6</field>
+    <field name="ead_ssi">pr293_film_location_scouts</field>
+    <field name="parent_ssi">aspace_ref135_e5j</field>
+    <field name="parent_ssm">aspace_ref135_e5j</field>
+    <field name="parent_unittitles_ssm">Series I: Location Scout Photographs (Steve Horn)</field>
+    <field name="parent_unittitles_teim">Series I: Location Scout Photographs (Steve Horn)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Film Location Scouts Photograph Collection</field>
+    <field name="collection_ssm">Film Location Scouts Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 293</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bus Stations</field>
+    <field name="unittitle_teim">Bus Stations</field>
+    <field name="ref_ssi">aspace_ref177_gv6</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 58</field>
+    <field name="location_si">Box: 58</field>
+    <field name="collection_teim">Film Location Scouts Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 293</field>
+    <field name="series_sim">Series I: Location Scout Photographs (Steve Horn)</field>
+    <field name="series_si">Series I: Location Scout Photographs (Steve Horn) &gt;&gt; Bus Stations</field>
+    <field name="heading_ssm">Bus Stations</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

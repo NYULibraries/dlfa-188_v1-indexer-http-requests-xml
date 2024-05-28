@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_ref131_xpl</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_ref126_mvi</field>
+    <field name="parent_ssm">aspace_ref4_m0q</field>
+    <field name="parent_ssm">aspace_ref126_mvi</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">
+      Letters: 1797 N-Z
+    </field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">
+      Letters: 1797 N-Z
+    </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letters: R</field>
+    <field name="unittitle_teim">Letters: R</field>
+    <field name="unitdate_teim">1797</field>
+    <field name="scopecontent_teim">This folder contains correspondence to Isaac Hicks from his clients including Daniel Ruketson &amp; Sons, Samuel Rodman.  A majority of the correspondence is in regards to regular business matters, including payment for and shipping of goods.  Samuel Rodman writes about an act of Congress changing the days when the circuit court meets, he goes on to discuss a court case he appears to be involved with.</field>
+    <field name="scopecontent_teim">Ships Mentioned: Franklin</field>
+    <field name="ref_ssi">aspace_ref131_xpl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">
+      Letters: 1797 N-Z
+    </field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; 
+      Letters: 1797 N-Z
+     &gt;&gt; Letters: R</field>
+    <field name="heading_ssm">Letters: R</field>
+    <field name="unitdate_ssm">1797</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">60</field>
+  </doc>
+</add>

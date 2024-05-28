@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms315_hudson_river_daylineaspace_cc0e97777332f55093b642949fe1bdca</field>
+    <field name="ead_ssi">ms315_hudson_river_dayline</field>
+    <field name="parent_ssi">aspace_517590656054cbe10bf0bd218ff53cba</field>
+    <field name="parent_ssm">aspace_517590656054cbe10bf0bd218ff53cba</field>
+    <field name="parent_unittitles_ssm">Series I. Files</field>
+    <field name="parent_unittitles_teim">Series I. Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hudson River Day Line records</field>
+    <field name="collection_ssm">Hudson River Day Line records</field>
+    <field name="collection_unitid_ssm">MS 315</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Way bills</field>
+    <field name="unittitle_teim">Way bills</field>
+    <field name="unitdate_inclusive_teim">1863-1899</field>
+    <field name="scopecontent_teim">This box includes an inventory prepared in 1919 of the waybills from the 1860s-1908 preserved by the Day Line, now found in this box and the next (boxes 12 and 13). The note indicates that all other waybills were destroyed in 1919, which would account for the gap in the collection of waybills between 1908 and 1916. According to that list this box holds waybills from the following steamboats: Daniel Drew (1863-1880), Armenia (1863-1878), Chauncey Vibbard(1864-1886), Albany(1880-1899), and New York (1887-1899).</field>
+    <field name="ref_ssi">aspace_cc0e97777332f55093b642949fe1bdca</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 12</field>
+    <field name="location_si">Offsite-Box: 12</field>
+    <field name="collection_teim">Hudson River Day Line records</field>
+    <field name="collection_unitid_teim">MS 315</field>
+    <field name="series_sim">Series I. Files</field>
+    <field name="series_si">Series I. Files &gt;&gt; Way bills</field>
+    <field name="heading_ssm">Way bills</field>
+    <field name="unitdate_ssm">Inclusive, 1863-1899</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

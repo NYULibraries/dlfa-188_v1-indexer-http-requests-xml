@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr422_arad_911_memorialaspace_e5ddc41c225a05aa54a9a95b11f73845</field>
+    <field name="ead_ssi">pr422_arad_911_memorial</field>
+    <field name="parent_ssi">aspace_d4e74634e1854d96e6b54d3c19f30d88</field>
+    <field name="parent_ssm">aspace_d4e74634e1854d96e6b54d3c19f30d88</field>
+    <field name="parent_unittitles_ssm">Series III: Ephemera and Other Media</field>
+    <field name="parent_unittitles_teim">Series III: Ephemera and Other Media</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Michael Arad 9/11 Memorial papers</field>
+    <field name="collection_ssm">Michael Arad 9/11 Memorial papers</field>
+    <field name="collection_unitid_ssm">PR 422</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Newspapers and Magazines</field>
+    <field name="unittitle_teim">Newspapers and Magazines</field>
+    <field name="unitdate_inclusive_teim">2001-2012</field>
+    <field name="scopecontent_teim">Mostly New York publications containing articles related to the 9/11 terrorist attacks and the 9/11 Memorial.</field>
+    <field name="ref_ssi">aspace_e5ddc41c225a05aa54a9a95b11f73845</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 45</field>
+    <field name="location_si">Offsite-Box: 45</field>
+    <field name="collection_teim">Michael Arad 9/11 Memorial papers</field>
+    <field name="collection_unitid_teim">PR 422</field>
+    <field name="series_sim">Series III: Ephemera and Other Media</field>
+    <field name="series_si">Series III: Ephemera and Other Media &gt;&gt; Newspapers and Magazines</field>
+    <field name="heading_ssm">Newspapers and Magazines</field>
+    <field name="unitdate_ssm">Inclusive, 2001-2012</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">239</field>
+  </doc>
+</add>

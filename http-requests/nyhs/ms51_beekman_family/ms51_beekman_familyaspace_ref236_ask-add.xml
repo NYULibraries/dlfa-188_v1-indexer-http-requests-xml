@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms51_beekman_familyaspace_ref236_ask</field>
+    <field name="ead_ssi">ms51_beekman_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Beekman family papers</field>
+    <field name="collection_ssm">Beekman family papers</field>
+    <field name="collection_unitid_ssm">MS 51</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Box 13(B), James Beekman</field>
+    <field name="unittitle_teim">Box 13(B), James Beekman</field>
+    <field name="unitdate_teim">1759-1760</field>
+    <field name="scopecontent_teim">Folders 8-9 in this box are describes by White under folder #4 in the guide. Similarly, folder 10 of this box is described as folder #5 in White's guide.</field>
+    <field name="ref_ssi">aspace_ref236_ask</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Beekman family papers</field>
+    <field name="collection_unitid_teim">MS 51</field>
+    <field name="series_si">Box 13(B), James Beekman</field>
+    <field name="heading_ssm">Box 13(B), James Beekman</field>
+    <field name="unitdate_ssm">1759-1760</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">191</field>
+  </doc>
+</add>

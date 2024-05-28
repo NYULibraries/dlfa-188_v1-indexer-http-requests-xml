@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms1988_new_york_indenturesaspace_ref15_4w7</field>
+    <field name="ead_ssi">ms1988_new_york_indentures</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New York City indentures collection</field>
+    <field name="collection_ssm">New York City indentures collection</field>
+    <field name="collection_unitid_ssm">MS 1988</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Indentures (1718-1902)</field>
+    <field name="unittitle_teim">Series I: Indentures (1718-1902)</field>
+    <field name="scopecontent_teim">The series includes indentures of colonial and post-Revolutionary New York City. Only one volume in this series contains colonial indentures; the rest are post-revolutionary indentures that were kept separate in volumes for male and female apprentices. If a child or a master or mistress was black, it is noted by "B", only sometimes by "Colored." The residence of the master or mistress in New York City is given by street and number and in New Jersey by name of town and country and distance from the nearest post office. The indentures sometimes reveal the name of a parent or family member of the apprentice.</field>
+    <field name="scopecontent_teim">Many of the indentures indicate the cancellation of the agreement and the reason for its abrogation. Some of the indentures function as adoption papers with the terms master and apprentice crossed out to read parent and child. Although the apprenticed children were from New York City, many of their masters resided outside of the city.</field>
+    <field name="ref_ssi">aspace_ref15_4w7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New York City indentures collection</field>
+    <field name="collection_unitid_teim">MS 1988</field>
+    <field name="series_si">Series I: Indentures (1718-1902)</field>
+    <field name="heading_ssm">Series I: Indentures (1718-1902)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

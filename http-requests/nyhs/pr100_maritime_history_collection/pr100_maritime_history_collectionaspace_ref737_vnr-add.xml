@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr100_maritime_history_collectionaspace_ref737_vnr</field>
+    <field name="ead_ssi">pr100_maritime_history_collection</field>
+    <field name="parent_ssi">aspace_ref728_zq8</field>
+    <field name="parent_ssm">aspace_ref724_ydu</field>
+    <field name="parent_ssm">aspace_ref728_zq8</field>
+    <field name="parent_unittitles_ssm">Series IV: Oversize Flat files</field>
+    <field name="parent_unittitles_ssm">Subseries IV.2: Steamships</field>
+    <field name="parent_unittitles_teim">Series IV: Oversize Flat files</field>
+    <field name="parent_unittitles_teim">Subseries IV.2: Steamships</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Maritime History Collection</field>
+    <field name="collection_ssm">Maritime History Collection</field>
+    <field name="collection_unitid_ssm">PR 100</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">L</field>
+    <field name="unittitle_teim">L</field>
+    <field name="ref_ssi">aspace_ref737_vnr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: Flat file, Folder: FF 141</field>
+    <field name="location_ssm">Folder: FF 141</field>
+    <field name="location_si">Folder: FF 141</field>
+    <field name="collection_teim">Maritime History Collection</field>
+    <field name="collection_unitid_teim">PR 100</field>
+    <field name="series_sim">Series IV: Oversize Flat files</field>
+    <field name="series_sim">Subseries IV.2: Steamships</field>
+    <field name="series_si">Series IV: Oversize Flat files &gt;&gt; Subseries IV.2: Steamships &gt;&gt; L</field>
+    <field name="heading_ssm">L</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">484</field>
+  </doc>
+</add>

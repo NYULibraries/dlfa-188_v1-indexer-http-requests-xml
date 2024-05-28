@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms594_stewartaspace_47d2186dd6d2ea376781e6fdea451c2c</field>
+    <field name="ead_ssi">ms594_stewart</field>
+    <field name="parent_ssi">aspace_0039a807effbad4637f5b70167abc1e2</field>
+    <field name="parent_ssm">aspace_0039a807effbad4637f5b70167abc1e2</field>
+    <field name="parent_unittitles_ssm">Series II. Financial documents</field>
+    <field name="parent_unittitles_teim">Series II. Financial documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">William George Stewart papers</field>
+    <field name="collection_ssm">William George Stewart papers</field>
+    <field name="collection_unitid_ssm">MS 594</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Account book</field>
+    <field name="unittitle_teim">Account book</field>
+    <field name="unitdate_inclusive_teim">1846-1848</field>
+    <field name="ref_ssi">aspace_47d2186dd6d2ea376781e6fdea451c2c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">William George Stewart papers</field>
+    <field name="collection_unitid_teim">MS 594</field>
+    <field name="series_sim">Series II. Financial documents</field>
+    <field name="series_si">Series II. Financial documents &gt;&gt; Account book</field>
+    <field name="heading_ssm">Account book</field>
+    <field name="unitdate_ssm">Inclusive, 1846-1848</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">117</field>
+  </doc>
+</add>

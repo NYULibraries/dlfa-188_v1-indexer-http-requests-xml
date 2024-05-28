@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_50d2a584ff19e11b00401c01c3f71720</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_96428aa50326d214bf1f731b5eb1dddf</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_96428aa50326d214bf1f731b5eb1dddf</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Erasmus Hall Academy—Library—Catalogue</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Erasmus Hall Academy—Library—Catalogue</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Original catalogue of books in the Erasmus Hall Library</field>
+    <field name="unittitle_teim">Original catalogue of books in the Erasmus Hall Library</field>
+    <field name="unitdate_inclusive_teim">circa 1795</field>
+    <field name="scopecontent_teim">Original catalogue of books in the Erasmus Hall Library, written, according to a pencil notation on the inside cover, by Dr. Wilson, who served as principal from 1792 until 1805. 10 leaves, marbled paper covers. The numbers assigned to the books in this catalogue correspond to the number to the immediate right of the word "Libraryn" [sic] on the bookplate in each book.</field>
+    <field name="ref_ssi">aspace_50d2a584ff19e11b00401c01c3f71720</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-5a, Folder: Original catalogue, Erasmus Hall library</field>
+    <field name="location_ssm">Folder: Original catalogue, Erasmus Hall library</field>
+    <field name="location_si">Folder: Original catalogue, Erasmus Hall library</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Erasmus Hall Academy—Library—Catalogue</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Erasmus Hall Academy—Library—Catalogue &gt;&gt; Original catalogue of books in the Erasmus Hall Library</field>
+    <field name="heading_ssm">Original catalogue of books in the Erasmus Hall Library</field>
+    <field name="unitdate_ssm">Inclusive, circa 1795</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">208</field>
+  </doc>
+</add>

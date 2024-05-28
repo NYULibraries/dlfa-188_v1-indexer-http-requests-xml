@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms523_john_rogers_familyaspace_ref171_dkz</field>
+    <field name="ead_ssi">ms523_john_rogers_family</field>
+    <field name="parent_ssi">aspace_ref156_aob</field>
+    <field name="parent_ssm">aspace_ref53_xei</field>
+    <field name="parent_ssm">aspace_ref156_aob</field>
+    <field name="parent_unittitles_ssm">Series II: Papers of the Rogers Family</field>
+    <field name="parent_unittitles_ssm">Subseries III: Genealogical research</field>
+    <field name="parent_unittitles_teim">Series II: Papers of the Rogers Family</field>
+    <field name="parent_unittitles_teim">Subseries III: Genealogical research</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Rogers Family Papers</field>
+    <field name="collection_ssm">Rogers Family Papers</field>
+    <field name="collection_unitid_ssm">MS 523</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Genealogies of families relating to the Rogers family</field>
+    <field name="unittitle_teim">Genealogies of families relating to the Rogers family</field>
+    <field name="ref_ssi">aspace_ref171_dkz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Rogers Family Papers</field>
+    <field name="collection_unitid_teim">MS 523</field>
+    <field name="series_sim">Series II: Papers of the Rogers Family</field>
+    <field name="series_sim">Subseries III: Genealogical research</field>
+    <field name="series_si">Series II: Papers of the Rogers Family &gt;&gt; Subseries III: Genealogical research &gt;&gt; Genealogies of families relating to the Rogers family</field>
+    <field name="heading_ssm">Genealogies of families relating to the Rogers family</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">100</field>
+  </doc>
+</add>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr004_jessie_tarbox_bealsaspace_ref60_au0</field>
+    <field name="ead_ssi">pr004_jessie_tarbox_beals</field>
+    <field name="parent_ssi">aspace_ref59_qex</field>
+    <field name="parent_ssm">aspace_ref42_y2s</field>
+    <field name="parent_ssm">aspace_ref59_qex</field>
+    <field name="parent_unittitles_ssm">Series II. Places</field>
+    <field name="parent_unittitles_ssm">Missouri--St. Louis</field>
+    <field name="parent_unittitles_teim">Series II. Places</field>
+    <field name="parent_unittitles_teim">Missouri--St. Louis</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jessie Tarbox Beals photographs</field>
+    <field name="collection_ssm">Jessie Tarbox Beals photographs</field>
+    <field name="collection_unitid_ssm">PR 4</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Louisiana Purchase Exposition</field>
+    <field name="unittitle_teim">Louisiana Purchase Exposition</field>
+    <field name="unitdate_normal_ssm">1904/1904</field>
+    <field name="unitdate_normal_teim">1904/1904</field>
+    <field name="unitdate_normal_sim">1904/1904</field>
+    <field name="unitdate_inclusive_teim">1904</field>
+    <field name="ref_ssi">aspace_ref60_au0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 4, Folder: 36</field>
+    <field name="location_ssm">Folder: 36</field>
+    <field name="location_si">Folder: 36</field>
+    <field name="collection_teim">Jessie Tarbox Beals photographs</field>
+    <field name="collection_unitid_teim">PR 4</field>
+    <field name="series_sim">Series II. Places</field>
+    <field name="series_sim">Missouri--St. Louis</field>
+    <field name="series_si">Series II. Places &gt;&gt; Missouri--St. Louis &gt;&gt; Louisiana Purchase Exposition</field>
+    <field name="heading_ssm">Louisiana Purchase Exposition</field>
+    <field name="unitdate_start_sim">1904</field>
+    <field name="unitdate_start_ssm">1904</field>
+    <field name="unitdate_start_si">1904</field>
+    <field name="unitdate_end_sim">1904</field>
+    <field name="unitdate_end_ssm">1904</field>
+    <field name="unitdate_end_si">1904</field>
+    <field name="unitdate_ssm">Inclusive, 1904</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>

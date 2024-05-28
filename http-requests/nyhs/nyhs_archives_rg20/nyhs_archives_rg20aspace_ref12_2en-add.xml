@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg20aspace_ref12_2en</field>
+    <field name="ead_ssi">nyhs_archives_rg20</field>
+    <field name="parent_ssi">aspace_ref969_f6h</field>
+    <field name="parent_ssm">aspace_ref969_f6h</field>
+    <field name="parent_unittitles_ssm">Series IV. Collection Management Files</field>
+    <field name="parent_unittitles_teim">Series IV. Collection Management Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Museum Department records</field>
+    <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 20</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV.B. Outgoing Loans</field>
+    <field name="unittitle_teim">Subseries IV.B. Outgoing Loans</field>
+    <field name="unitdate_normal_ssm">1976/2002</field>
+    <field name="unitdate_normal_teim">1976/2002</field>
+    <field name="unitdate_normal_sim">1976/2002</field>
+    <field name="unitdate_bulk_teim">1976-2002</field>
+    <field name="unitdate_inclusive_teim">1939, 1947, 1976-2005</field>
+    <field name="scopecontent_teim">The Outgoing Loan Requests subseries of the New-York Historical Society museum records consists of files that were created within the Museum Department (likely by the registrar and associated staff) and chiefly relate to requests from outside institutions for loans of items from N-YHS's museum and library/print room collections for exhibition purposes. The date range for the series runs from 1975 to 2002.    </field>
+    <field name="scopecontent_teim">The types of materials contained in the files include:  internal and external correspondence such as memoranda and letters, facility reports, research material, loan agreements, receipts, insurance certificates, shipping invoices, and condition reports.  Additionally, some files include photographic prints, slides, transparencies, and negatives of requested items, requesting facilities, or of damage to requested items incurred in connection with loans.  Some files include exhibition checklists or catalogues. Files holding such images or print matter are noted in the container list below. </field>
+    <field name="scopecontent_teim">Together the materials document the considerations, process, and logistics underlying N-YHS's loan of particular objects, from initial request, review and recommendation by internal staff, final approval or rejection by the Board of Trustees, conservation work, insurance coverage, packing and shipment, and the resulting exhibitions and related publicity and press. More broadly, the files document the history of N-YHS's overall loan activities and the ways in which the collections have been called on in support of other institutions' exhibitions.  Loans for purposes other than museum exhibitions are also documented, including long-term loans for display in government buildings. </field>
+    <field name="scopecontent_teim">The subseries includes files not only for loan requests that were satisfied, but also for those requests that were declined, withdrawn, or otherwise unfulfilled.  Some rejections or rescissions of loan requests in 1988, 1993, and 1999 reflect loan moratoria due to larger  events in N-YHS's history, including inventorying of collections,  financial difficulties, and an anticipated move of collections related to the opening of the Henry Luce III Center for the Study of American Culture, respectively. </field>
+    <field name="ref_ssi">aspace_ref12_2en</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 20</field>
+    <field name="series_sim">Series IV. Collection Management Files</field>
+    <field name="series_si">Series IV. Collection Management Files &gt;&gt; Subseries IV.B. Outgoing Loans</field>
+    <field name="heading_ssm">Subseries IV.B. Outgoing Loans</field>
+    <field name="unitdate_start_sim">1976</field>
+    <field name="unitdate_start_ssm">1976</field>
+    <field name="unitdate_start_si">1976</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 1939, 1947, 1976-2005 ; 1976-2002</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">977</field>
+  </doc>
+</add>

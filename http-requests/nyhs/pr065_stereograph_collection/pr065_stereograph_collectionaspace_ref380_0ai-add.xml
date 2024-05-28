@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref380_0ai</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Parks &amp;amp; Squares</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Parks &amp; Squares</field>
+    <field name="unitdate_inclusive_teim">[1890-1963]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0366</field>
+    <field name="scopecontent_teim">Parks and squares: man in unidentified park wearing 3-d glasses and reading "Three Dimensional Comics"; group in unidentified park, one wearing police (?) badge;  unidentified woods in Manhattan; Abingdon Square in the snow; women and children standing near the fountain, Gramercy Park; Greeley Square, with Gimbles just visible at the left; "Minerva, bell ringers and owl," the clock in Herald Square; views in High Bridge Park of park, and bridge over Harlem River under construction; Jeanette Park, with large buildings rising above the trees; the drive in Morningside Park; Riverside Park: statue of Joan of Arc, Soldiers' and Sailors' Monument.</field>
+    <field name="scopecontent_teim">17 items</field>
+    <field name="ref_ssi">aspace_ref380_0ai</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 34</field>
+    <field name="location_si">Box: 34</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Parks &amp;amp; Squares</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Parks &amp; Squares</field>
+    <field name="unitdate_ssm">Inclusive, [1890-1963]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">367</field>
+  </doc>
+</add>

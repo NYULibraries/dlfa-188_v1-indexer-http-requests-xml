@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref46_ece</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref5_9z3</field>
+    <field name="parent_ssm">aspace_ref5_9z3</field>
+    <field name="parent_unittitles_ssm">Series V - Diaries, Memoirs, and Historical Sketches by CAS Employees</field>
+    <field name="parent_unittitles_teim">Series V - Diaries, Memoirs, and Historical Sketches by CAS Employees</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V.1 - Diaries and Journals of Agents of the CAS</field>
+    <field name="unittitle_teim">Subseries V.1 - Diaries and Journals of Agents of the CAS</field>
+    <field name="unitdate_teim">circa 1853- circa 1865</field>
+    <field name="scopecontent_teim">This subseries contains 11 volumes of diaries/journals written by the earliest CAS Agents in the course of their work, and a transcription of a portion of another journal. The diaries are arranged chronologically. See also the diary of Charles Loring Brace in Series IV.1A for another diary from this period.</field>
+    <field name="ref_ssi">aspace_ref46_ece</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series V - Diaries, Memoirs, and Historical Sketches by CAS Employees</field>
+    <field name="series_si">Series V - Diaries, Memoirs, and Historical Sketches by CAS Employees &gt;&gt; Subseries V.1 - Diaries and Journals of Agents of the CAS</field>
+    <field name="heading_ssm">Subseries V.1 - Diaries and Journals of Agents of the CAS</field>
+    <field name="unitdate_ssm">circa 1853- circa 1865</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">589</field>
+  </doc>
+</add>

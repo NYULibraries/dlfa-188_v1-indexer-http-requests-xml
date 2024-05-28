@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr132_lucius_cathanaspace_ref34_awr</field>
+    <field name="ead_ssi">pr132_lucius_cathan</field>
+    <field name="parent_ssi">aspace_ref33_z2n</field>
+    <field name="parent_ssm">aspace_ref33_z2n</field>
+    <field name="parent_unittitles_ssm">Series II: Large Format</field>
+    <field name="parent_unittitles_teim">Series II: Large Format</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lucius H. Cathan photograph collection</field>
+    <field name="collection_ssm">Lucius H. Cathan photograph collection</field>
+    <field name="collection_unitid_ssm">PR 132</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Glass negatives</field>
+    <field name="unittitle_teim">Glass negatives</field>
+    <field name="ref_ssi">aspace_ref34_awr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lucius H. Cathan photograph collection</field>
+    <field name="collection_unitid_teim">PR 132</field>
+    <field name="series_sim">Series II: Large Format</field>
+    <field name="series_si">Series II: Large Format &gt;&gt; Glass negatives</field>
+    <field name="heading_ssm">Glass negatives</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">22</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref50_4qf</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Connecticut</field>
+    <field name="unittitle_teim">Connecticut</field>
+    <field name="unitdate_inclusive_teim">[1860-1889]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0039</field>
+    <field name="scopecontent_teim">Connecticut: unidentified mill; group at hotel, Branford Point; Bridgeport: family in H. Wakeman's house, railroad station and express company, Fairfield Avenue, photographer's wagon at left, and a view in P.T. Barnum's dining room; Chester Iron Works; home of L. Brooks, Chester; Latimer's mill, Chesterfield, showing bridge, dam and waterfall; Deep River: man, two women and a horse, dam and mill buildings; Farmington: view in Diamond Glen, a woman sitting in parlor rooms labeled "study halls"; Falkner Island Lighthouse; Milford: church from the RR line; boaters at New Milford; Naugatuc Junction; woman boater at High rock, and view in High Rock Grove showing boys at hand pump; Horse Shoe Falls, Pequabuck; people in swings, Rail Road Grove, Savin Rock; a demolished house, Stafford Springs; Alvin Adams estate, Watertown; Winsted: balloon ascension, man in a wheelbarrow trimmed with American flags, soldiers in background, one with drum.</field>
+    <field name="scopecontent_teim">25 items</field>
+    <field name="ref_ssi">aspace_ref50_4qf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7</field>
+    <field name="location_si">Box: 7</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Connecticut</field>
+    <field name="heading_ssm">Connecticut</field>
+    <field name="unitdate_ssm">Inclusive, [1860-1889]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">40</field>
+  </doc>
+</add>

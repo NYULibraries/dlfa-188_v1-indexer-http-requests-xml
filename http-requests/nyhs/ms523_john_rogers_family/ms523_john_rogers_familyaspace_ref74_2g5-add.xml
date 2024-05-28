@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms523_john_rogers_familyaspace_ref74_2g5</field>
+    <field name="ead_ssi">ms523_john_rogers_family</field>
+    <field name="parent_ssi">aspace_ref53_xei</field>
+    <field name="parent_ssm">aspace_ref53_xei</field>
+    <field name="parent_unittitles_ssm">Series II: Papers of the Rogers Family</field>
+    <field name="parent_unittitles_teim">Series II: Papers of the Rogers Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Rogers Family Papers</field>
+    <field name="collection_ssm">Rogers Family Papers</field>
+    <field name="collection_unitid_ssm">MS 523</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II: Papers of Rogers Family Ancestors</field>
+    <field name="unittitle_teim">Subseries II: Papers of Rogers Family Ancestors</field>
+    <field name="unitdate_normal_ssm">1916/1936</field>
+    <field name="unitdate_normal_teim">1916/1936</field>
+    <field name="unitdate_normal_sim">1916/1936</field>
+    <field name="unitdate_inclusive_teim">1636-1898</field>
+    <field name="scopecontent_teim">Dating back to early 17th century in Dedham, England, this subseries contains the correspondence, poetry, and sermons of the Rogers' family's past relatives, many of whom were religious leaders of the Protestant church. Additionally included are newspapers preserved by family members from as early as 1723 and 19th century paper currency. This subseries is arranged by person and chronologically within each folder. Many of the documents included are extremely aged and fragile. These documents also include a number of sermon books and notebooks written or used by some of the eldest members of the Rogers ancestry, as well as a genealogical timeline of the Foxcroft Family, related through Anna Foxcroft who married Reverend Daniel Rogers in 1748, created in 1730.</field>
+    <field name="ref_ssi">aspace_ref74_2g5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Rogers Family Papers</field>
+    <field name="collection_unitid_teim">MS 523</field>
+    <field name="series_sim">Series II: Papers of the Rogers Family</field>
+    <field name="series_si">Series II: Papers of the Rogers Family &gt;&gt; Subseries II: Papers of Rogers Family Ancestors</field>
+    <field name="heading_ssm">Subseries II: Papers of Rogers Family Ancestors</field>
+    <field name="unitdate_start_sim">1916</field>
+    <field name="unitdate_start_ssm">1916</field>
+    <field name="unitdate_start_si">1916</field>
+    <field name="unitdate_end_sim">1936</field>
+    <field name="unitdate_end_ssm">1936</field>
+    <field name="unitdate_end_si">1936</field>
+    <field name="unitdate_ssm">Inclusive, 1636-1898</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">67</field>
+  </doc>
+</add>

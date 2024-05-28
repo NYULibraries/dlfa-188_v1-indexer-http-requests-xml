@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr397_forteaspace_7e48f878054dcd2eb6473bf5373633cf</field>
+    <field name="ead_ssi">pr397_forte</field>
+    <field name="parent_ssi">aspace_a31d0454db9d8ae56d000d2fbd3cee1f</field>
+    <field name="parent_ssm">aspace_a31d0454db9d8ae56d000d2fbd3cee1f</field>
+    <field name="parent_unittitles_ssm">[Catalog sheet 2 + prints]</field>
+    <field name="parent_unittitles_teim">[Catalog sheet 2 + prints]</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lorraine Forte photographs</field>
+    <field name="collection_ssm">Lorraine Forte photographs</field>
+    <field name="collection_unitid_ssm">PR 397</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">LOISAIDA FIREWORKS</field>
+    <field name="unittitle_teim">LOISAIDA FIREWORKS</field>
+    <field name="unitdate_inclusive_teim">1990</field>
+    <field name="scopecontent_teim">"View of fireworks in the East River looking north from rooftop."</field>
+    <field name="ref_ssi">aspace_7e48f878054dcd2eb6473bf5373633cf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2, Item: 13</field>
+    <field name="location_ssm">Item: 13</field>
+    <field name="location_si">Item: 13</field>
+    <field name="collection_teim">Lorraine Forte photographs</field>
+    <field name="collection_unitid_teim">PR 397</field>
+    <field name="series_sim">[Catalog sheet 2 + prints]</field>
+    <field name="series_si">[Catalog sheet 2 + prints] &gt;&gt; LOISAIDA FIREWORKS</field>
+    <field name="heading_ssm">LOISAIDA FIREWORKS</field>
+    <field name="unitdate_ssm">Inclusive, 1990</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

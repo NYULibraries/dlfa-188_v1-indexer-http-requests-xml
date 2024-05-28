@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr293_film_location_scoutsaspace_ref135_e5j</field>
+    <field name="ead_ssi">pr293_film_location_scouts</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Film Location Scouts Photograph Collection</field>
+    <field name="collection_ssm">Film Location Scouts Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 293</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Location Scout Photographs (Steve Horn)</field>
+    <field name="unittitle_teim">Series I: Location Scout Photographs (Steve Horn)</field>
+    <field name="scopecontent_teim">Series I contains location scout photographs taken by the staff of director Steve Horn.  The photographs depict a broad range of locations, including many that are no longer in existence.  The original arrangement of the photographs into categories (for example, bakeries, churches, warehouses, etc.) has been retained.  Categories are listed in alpabetical order below.</field>
+    <field name="ref_ssi">aspace_ref135_e5j</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Film Location Scouts Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 293</field>
+    <field name="series_si">Series I: Location Scout Photographs (Steve Horn)</field>
+    <field name="heading_ssm">Series I: Location Scout Photographs (Steve Horn)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

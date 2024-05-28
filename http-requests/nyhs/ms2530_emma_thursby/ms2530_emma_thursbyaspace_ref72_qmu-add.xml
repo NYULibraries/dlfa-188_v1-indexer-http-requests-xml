@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2530_emma_thursbyaspace_ref72_qmu</field>
+    <field name="ead_ssi">ms2530_emma_thursby</field>
+    <field name="parent_ssi">aspace_ref66_7sa</field>
+    <field name="parent_ssm">aspace_ref14_x9z</field>
+    <field name="parent_ssm">aspace_ref66_7sa</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">Subseries 2: Ina Thursby</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Subseries 2: Ina Thursby</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Emma Thursby papers</field>
+    <field name="collection_ssm">Emma Thursby papers</field>
+    <field name="collection_unitid_ssm">MS 2530</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ina Thursby, letters received from F-H</field>
+    <field name="unittitle_teim">Ina Thursby, letters received from F-H</field>
+    <field name="unitdate_normal_ssm">1908/1931</field>
+    <field name="unitdate_normal_teim">1908/1931</field>
+    <field name="unitdate_normal_sim">1908/1931</field>
+    <field name="unitdate_inclusive_teim">1908-1931</field>
+    <field name="ref_ssi">aspace_ref72_qmu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Emma Thursby papers</field>
+    <field name="collection_unitid_teim">MS 2530</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">Subseries 2: Ina Thursby</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries 2: Ina Thursby &gt;&gt; Ina Thursby, letters received from F-H</field>
+    <field name="heading_ssm">Ina Thursby, letters received from F-H</field>
+    <field name="unitdate_start_sim">1908</field>
+    <field name="unitdate_start_ssm">1908</field>
+    <field name="unitdate_start_si">1908</field>
+    <field name="unitdate_end_sim">1931</field>
+    <field name="unitdate_end_ssm">1931</field>
+    <field name="unitdate_end_si">1931</field>
+    <field name="unitdate_ssm">Inclusive, 1908-1931</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">58</field>
+  </doc>
+</add>

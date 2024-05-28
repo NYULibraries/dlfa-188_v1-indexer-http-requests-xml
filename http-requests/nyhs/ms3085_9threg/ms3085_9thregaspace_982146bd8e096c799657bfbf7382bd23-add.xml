@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3085_9thregaspace_982146bd8e096c799657bfbf7382bd23</field>
+    <field name="ead_ssi">ms3085_9threg</field>
+    <field name="parent_ssi">aspace_90c0a0f8a56899c188d3c8d7c602c325</field>
+    <field name="parent_ssm">aspace_90c0a0f8a56899c188d3c8d7c602c325</field>
+    <field name="parent_unittitles_ssm">Series I: Civil War Regimental Records</field>
+    <field name="parent_unittitles_teim">Series I: Civil War Regimental Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York State National Guard, 9th Regiment collection</field>
+    <field name="collection_ssm">New York State National Guard, 9th Regiment collection</field>
+    <field name="collection_unitid_ssm">MS 3085</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Company A Morning Reports</field>
+    <field name="unittitle_teim">Company A Morning Reports</field>
+    <field name="unitdate_inclusive_teim">1864</field>
+    <field name="scopecontent_teim">Contains "Remarks for the Month" and a log recording attendance of soldiers in regiment, as well as any additions/losses to regiment.</field>
+    <field name="ref_ssi">aspace_982146bd8e096c799657bfbf7382bd23</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 12, Volume: 2</field>
+    <field name="location_ssm">Volume: 2</field>
+    <field name="location_si">Volume: 2</field>
+    <field name="collection_teim">New York State National Guard, 9th Regiment collection</field>
+    <field name="collection_unitid_teim">MS 3085</field>
+    <field name="series_sim">Series I: Civil War Regimental Records</field>
+    <field name="series_si">Series I: Civil War Regimental Records &gt;&gt; Company A Morning Reports</field>
+    <field name="heading_ssm">Company A Morning Reports</field>
+    <field name="unitdate_ssm">Inclusive, 1864</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

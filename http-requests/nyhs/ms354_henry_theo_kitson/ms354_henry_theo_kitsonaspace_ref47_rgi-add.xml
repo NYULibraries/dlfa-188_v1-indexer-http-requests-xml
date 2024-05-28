@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms354_henry_theo_kitsonaspace_ref47_rgi</field>
+    <field name="ead_ssi">ms354_henry_theo_kitson</field>
+    <field name="parent_ssi">aspace_ref46_h4s</field>
+    <field name="parent_ssm">aspace_ref46_h4s</field>
+    <field name="parent_unittitles_ssm">Series 4: Notes, undated</field>
+    <field name="parent_unittitles_teim">Series 4: Notes, undated</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Kitson Papers</field>
+    <field name="collection_ssm">Kitson Papers</field>
+    <field name="collection_unitid_ssm">MS 354</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Notes</field>
+    <field name="unittitle_teim">Notes</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref47_rgi</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Kitson Papers</field>
+    <field name="collection_unitid_teim">MS 354</field>
+    <field name="series_sim">Series 4: Notes, undated</field>
+    <field name="series_si">Series 4: Notes, undated &gt;&gt; Notes</field>
+    <field name="heading_ssm">Notes</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">30</field>
+  </doc>
+</add>

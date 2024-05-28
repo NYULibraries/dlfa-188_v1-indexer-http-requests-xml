@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref59_pi3</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Connecticut--Norwich</field>
+    <field name="unittitle_teim">Connecticut--Norwich</field>
+    <field name="unitdate_normal_ssm">1865/1880</field>
+    <field name="unitdate_normal_teim">1865/1880</field>
+    <field name="unitdate_normal_sim">1865/1880</field>
+    <field name="unitdate_inclusive_teim">1865 - 1880</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0048</field>
+    <field name="scopecontent_teim">Norwich: general and street views showing homes and commercial buildings, wagon traffic; views out windows looking at the backs of buildings, and laundry lines; Norwich Free Academy; Court house; interior view of Weekes photo studio, showing work displayed on walls;  factory over Norwich Falls; Norwich Falls; Preston [covered] bridge; iron bridge over the Shetucket; bridge over the Yantic near Norwich Falls; monuments for Nichols, Stedman and other families at Yantic Cemetery; scenes from the flood of 1876: raging river waters, submerged railroad bridge and depot; water in Franklin square, residents in boats and at edge of flood; river with railroad train in foreground; wreck of the side-wheeler "New London" made by a Norwich photographer.</field>
+    <field name="scopecontent_teim">32 items</field>
+    <field name="ref_ssi">aspace_ref59_pi3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7</field>
+    <field name="location_si">Box: 7</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Connecticut--Norwich</field>
+    <field name="heading_ssm">Connecticut--Norwich</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1880</field>
+    <field name="unitdate_end_ssm">1880</field>
+    <field name="unitdate_end_si">1880</field>
+    <field name="unitdate_ssm">Inclusive, 1865 - 1880</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">49</field>
+  </doc>
+</add>

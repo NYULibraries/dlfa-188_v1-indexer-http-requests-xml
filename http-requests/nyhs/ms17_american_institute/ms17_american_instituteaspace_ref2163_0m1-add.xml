@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms17_american_instituteaspace_ref2163_0m1</field>
+    <field name="ead_ssi">ms17_american_institute</field>
+    <field name="parent_ssi">aspace_ref2157_3xw</field>
+    <field name="parent_ssm">aspace_ref2157_3xw</field>
+    <field name="parent_unittitles_ssm">Series V: Visual Materials, 1926-1927, n.d.</field>
+    <field name="parent_unittitles_teim">Series V: Visual Materials, 1926-1927, n.d.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">American Institute of the City of New York for the Encouragement of Science and Invention records</field>
+    <field name="collection_ssm">American Institute of the City of New York for the Encouragement of Science and Invention records</field>
+    <field name="collection_unitid_ssm">MS 17</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Colorlog (oversize)</field>
+    <field name="unittitle_teim">Colorlog (oversize)</field>
+    <field name="ref_ssi">aspace_ref2163_0m1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 458</field>
+    <field name="location_si">Offsite-Box: 458</field>
+    <field name="collection_teim">American Institute of the City of New York for the Encouragement of Science and Invention records</field>
+    <field name="collection_unitid_teim">MS 17</field>
+    <field name="series_sim">Series V: Visual Materials, 1926-1927, n.d.</field>
+    <field name="series_si">Series V: Visual Materials, 1926-1927, n.d. &gt;&gt; Colorlog (oversize)</field>
+    <field name="heading_ssm">Colorlog (oversize)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2148</field>
+  </doc>
+</add>

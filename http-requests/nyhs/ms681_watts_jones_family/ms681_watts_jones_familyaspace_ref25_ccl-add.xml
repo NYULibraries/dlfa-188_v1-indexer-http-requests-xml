@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms681_watts_jones_familyaspace_ref25_ccl</field>
+    <field name="ead_ssi">ms681_watts_jones_family</field>
+    <field name="parent_ssi">aspace_ref13_t43</field>
+    <field name="parent_ssm">aspace_ref13_t43</field>
+    <field name="parent_unittitles_ssm">Series I: Watts Family Papers, 1800-1831</field>
+    <field name="parent_unittitles_teim">Series I: Watts Family Papers, 1800-1831</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Watts-Jones Family Papers</field>
+    <field name="collection_ssm">Watts-Jones Family Papers</field>
+    <field name="collection_unitid_ssm">MS 681</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Subseries II: Legal Documents, 1803-1820</field>
+    <field name="unittitle_teim">Subseries II: Legal Documents, 1803-1820</field>
+    <field name="scopecontent_teim">This subseries contains legal papers of the Watts family including deeds, indentures, estate papers, and the will of Charles Watts, Sr. It includes documentation of a lawsuit against Charles Watts, Jr. for a physical assault. The subseries also consists of legal papers regarding the running of the horse ferry to New Jersey and documents from cases with Charles Watts, Jr. serving as an attorney.</field>
+    <field name="ref_ssi">aspace_ref25_ccl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Watts-Jones Family Papers</field>
+    <field name="collection_unitid_teim">MS 681</field>
+    <field name="series_sim">Series I: Watts Family Papers, 1800-1831</field>
+    <field name="series_si">Series I: Watts Family Papers, 1800-1831 &gt;&gt; Subseries II: Legal Documents, 1803-1820</field>
+    <field name="heading_ssm">Subseries II: Legal Documents, 1803-1820</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

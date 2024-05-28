@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr012_cased_images_collectionaspace_ref12586_177</field>
+    <field name="ead_ssi">pr012_cased_images_collection</field>
+    <field name="parent_ssi">aspace_ref10571_6po</field>
+    <field name="parent_ssm">aspace_ref10571_6po</field>
+    <field name="parent_unittitles_ssm">Series II: Daguerreotype</field>
+    <field name="parent_unittitles_teim">Series II: Daguerreotype</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Cased Image File</field>
+    <field name="collection_ssm">Cased Image File</field>
+    <field name="collection_unitid_ssm">PR 12</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Joel Squier</field>
+    <field name="unittitle_teim">Joel Squier</field>
+    <field name="ref_ssi">aspace_ref12586_177</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">item: 2-844</field>
+    <field name="location_si">item: 2-844</field>
+    <field name="collection_teim">Cased Image File</field>
+    <field name="collection_unitid_teim">PR 12</field>
+    <field name="series_sim">Series II: Daguerreotype</field>
+    <field name="series_si">Series II: Daguerreotype &gt;&gt; Joel Squier</field>
+    <field name="heading_ssm">Joel Squier</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1279</field>
+  </doc>
+</add>

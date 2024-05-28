@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms25_astor_familyaspace_ref1_0d0</field>
+    <field name="ead_ssi">ms25_astor_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Astor family papers</field>
+    <field name="collection_ssm">Astor family papers</field>
+    <field name="collection_unitid_ssm">MS 25</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+    <field name="unittitle_teim">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+    <field name="unitdate_teim">1758-1940</field>
+    <field name="scopecontent_teim">This series contains individual documents spanning from 1758-1940 and pertaining to Astor owned properties, including title abstracts, deeds, leases, mortgages, agreements, and notification of arrears.  It also contains documents related to the various branch families of the Astors, including the Wards, the Langdons, the Chanlers and so forth.  Not only are there assignments of properties in these folders, but also marriage agreements, receipts, word orders, and Supreme Court cases due to complaints leveled against the John Jacob Astor Estate.</field>
+    <field name="ref_ssi">aspace_ref1_0d0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Astor family papers</field>
+    <field name="collection_unitid_teim">MS 25</field>
+    <field name="series_si">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+    <field name="heading_ssm">Series I: Property Documents: Leases, Deeds, Mortgages, Maps</field>
+    <field name="unitdate_ssm">1758-1940</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

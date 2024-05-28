@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg08aspace_ref22_zzz</field>
+    <field name="ead_ssi">nyhs_archives_rg08</field>
+    <field name="parent_ssi">aspace_ref13_biw</field>
+    <field name="parent_ssm">aspace_ref13_biw</field>
+    <field name="parent_unittitles_ssm">Series II.  Press Kits</field>
+    <field name="parent_unittitles_teim">Series II.  Press Kits</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society public relations material</field>
+    <field name="collection_ssm">New-York Historical Society public relations material</field>
+    <field name="collection_unitid_ssm">NYHS-RG 8</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Artists and Architects Collaboration&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Artists and Architects Collaboration
+    </field>
+    <field name="unitdate_teim">1981</field>
+    <field name="scopecontent_teim">Explores the history and future collaboration between artists and architects. Includes booklet on works and architects involved.</field>
+    <field name="ref_ssi">aspace_ref22_zzz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 7, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">New-York Historical Society public relations material</field>
+    <field name="collection_unitid_teim">NYHS-RG 8</field>
+    <field name="series_sim">Series II.  Press Kits</field>
+    <field name="series_si">Series II.  Press Kits &gt;&gt; 
+      &lt;em&gt;Artists and Architects Collaboration&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Artists and Architects Collaboration
+    </field>
+    <field name="unitdate_ssm">1981</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Marybeth Kavanagh</field>
+    <field name="author_ssm">Marybeth Kavanagh</field>
+    <field name="unittitle_teim">Raymond Germann Photograph Collection</field>
+    <field name="unittitle_ssm">Raymond Germann Photograph Collection</field>
+    <field name="unitid_teim">PR 311</field>
+    <field name="unitid_ssm">PR 311</field>
+    <field name="abstract_teim">The Raymond Germann Photograph Collection consists of over 300 archival inkjet photographs of New York City street scenes taken between 1978-2016.  Four are color prints, the remainder are black and white prints.</field>
+    <field name="abstract_ssm">The Raymond Germann Photograph Collection consists of over 300 archival inkjet photographs of New York City street scenes taken between 1978-2016.  Four are color prints, the remainder are black and white prints.</field>
+    <field name="unitdate_normal_ssm">1978/2016</field>
+    <field name="unitdate_normal_ssm">2005/2014</field>
+    <field name="unitdate_normal_teim">1978/2016</field>
+    <field name="unitdate_normal_teim">2005/2014</field>
+    <field name="unitdate_normal_sim">1978/2016</field>
+    <field name="unitdate_normal_sim">2005/2014</field>
+    <field name="unitdate_bulk_teim">2005-2014</field>
+    <field name="unitdate_inclusive_teim">ca. 1978-2016</field>
+    <field name="scopecontent_teim">The Raymond Germann Photograph Collection consists of 378 archival inkjet photographs of New York City, taken between 1978 and 2016.  The images are street scenes, many featuring billboards, advertising, store fronts, murals, street fairs and street vendors. The photos are mainly of Manhattan, including Greenwich Village, Harlem, Washington Heights, the High Line, lower Manhattan and midtown.  There are also a few images of Brooklyn, the Bronx and Queens, including 2 color prints of graffiti at the 5 Pointz Building in Long Island City. The images were numbered by the photographer; titles are based on photographer's identification.</field>
+    <field name="scopecontent_teim">Note: the prints are numbered; There is NO print # 177, and NO prints #340-360.</field>
+    <field name="acqinfo_teim">This collection was a gift from the photographer, 2013, 2014, 2015 &amp; 2016.</field>
+    <field name="corpname_teim">New-York Historical Society</field>
+    <field name="corpname_ssm">New-York Historical Society</field>
+    <field name="collection_sim">Raymond Germann Photograph Collection</field>
+    <field name="collection_ssm">Raymond Germann Photograph Collection</field>
+    <field name="collection_teim">Raymond Germann Photograph Collection</field>
+    <field name="id">pr311_raymond_germann</field>
+    <field name="ead_ssi">pr311_raymond_germann</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="heading_ssm">Raymond Germann Photograph Collection</field>
+    <field name="unitdate_start_sim">1978</field>
+    <field name="unitdate_start_sim">2005</field>
+    <field name="unitdate_start_ssm">1978</field>
+    <field name="unitdate_start_ssm">2005</field>
+    <field name="unitdate_start_si">2005</field>
+    <field name="unitdate_end_sim">2016</field>
+    <field name="unitdate_end_sim">2014</field>
+    <field name="unitdate_end_ssm">2016</field>
+    <field name="unitdate_end_ssm">2014</field>
+    <field name="unitdate_end_si">2014</field>
+    <field name="unitdate_ssm">Inclusive, ca. 1978-2016 ; 2005-2014</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

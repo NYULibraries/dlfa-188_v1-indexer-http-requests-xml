@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg05aspace_ref591_chy</field>
+    <field name="ead_ssi">nyhs_archives_rg05</field>
+    <field name="parent_ssi">aspace_ref1_bf1</field>
+    <field name="parent_ssm">aspace_ref1_bf1</field>
+    <field name="parent_unittitles_ssm">Series I: Buildings</field>
+    <field name="parent_unittitles_teim">Series I: Buildings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society pictorial archive</field>
+    <field name="collection_ssm">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_ssm">NYHS-RG 5</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">170 Central Park West. Construction. Lighting</field>
+    <field name="unittitle_teim">170 Central Park West. Construction. Lighting</field>
+    <field name="unitdate_teim">1937</field>
+    <field name="scopecontent_teim">Includes mostly snapshots of published images of museum and library spaces (not N-YHS) with captions on reverse referring to the lighting. A few snapshots of an N-YHS gallery under construction, and a photograph of George Zabriskie in England dated August 1937, suggest that these might be images compiled by Alexander Wall and Zabriskie during their summer 1937 inquiry into state of the art lighting practices for museums.</field>
+    <field name="ref_ssi">aspace_ref591_chy</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_teim">NYHS-RG 5</field>
+    <field name="series_sim">Series I: Buildings</field>
+    <field name="series_si">Series I: Buildings &gt;&gt; 170 Central Park West. Construction. Lighting</field>
+    <field name="heading_ssm">170 Central Park West. Construction. Lighting</field>
+    <field name="unitdate_ssm">1937</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

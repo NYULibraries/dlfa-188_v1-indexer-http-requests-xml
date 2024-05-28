@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2962_ludington_familyaspace_ref5_rbn</field>
+    <field name="ead_ssi">ms2962_ludington_family</field>
+    <field name="parent_ssi">aspace_ref1_lso</field>
+    <field name="parent_ssm">aspace_ref1_lso</field>
+    <field name="parent_unittitles_ssm">Series I: Genealogical and biographical material</field>
+    <field name="parent_unittitles_teim">Series I: Genealogical and biographical material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ludington Family Papers</field>
+    <field name="collection_ssm">Ludington Family Papers</field>
+    <field name="collection_unitid_ssm">MS 2962</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence and news clippings regarding Sybil Ludington</field>
+    <field name="unittitle_teim">Correspondence and news clippings regarding Sybil Ludington</field>
+    <field name="unitdate_teim">1888-1894, 1988</field>
+    <field name="ref_ssi">aspace_ref5_rbn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Ludington Family Papers</field>
+    <field name="collection_unitid_teim">MS 2962</field>
+    <field name="series_sim">Series I: Genealogical and biographical material</field>
+    <field name="series_si">Series I: Genealogical and biographical material &gt;&gt; Correspondence and news clippings regarding Sybil Ludington</field>
+    <field name="heading_ssm">Correspondence and news clippings regarding Sybil Ludington</field>
+    <field name="unitdate_ssm">1888-1894, 1988</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

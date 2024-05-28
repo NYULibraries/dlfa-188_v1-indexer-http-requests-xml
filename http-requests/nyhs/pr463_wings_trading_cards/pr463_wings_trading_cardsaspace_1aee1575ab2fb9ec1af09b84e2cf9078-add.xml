@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr463_wings_trading_cardsaspace_1aee1575ab2fb9ec1af09b84e2cf9078</field>
+    <field name="ead_ssi">pr463_wings_trading_cards</field>
+    <field name="parent_ssi">aspace_1a92116c98ecdbdcea178618c4b6d28f</field>
+    <field name="parent_ssm">aspace_1a92116c98ecdbdcea178618c4b6d28f</field>
+    <field name="parent_unittitles_ssm">Wings "Friend or Foe" cards</field>
+    <field name="parent_unittitles_teim">Wings "Friend or Foe" cards</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_ssm">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_unitid_ssm">PR 463</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Wings "Friend or Foe" cards 101-120</field>
+    <field name="unittitle_teim">Wings "Friend or Foe" cards 101-120</field>
+    <field name="unitdate_inclusive_teim">1952</field>
+    <field name="scopecontent_teim">[Lacking 117, 120.]
+101. AE-27 Pulqui (Argentine Fighter)
+102. AE33 Pulqui II (Argentine Jet Plane)
+103. O-10 Leduc (French Monoplane)
+104. MD-450 Ouragan (French Fighter)
+105. SO-6021 Espadan (French Jet Plane)
+106. SO-M2 (French Jet)
+107. SO-6000 Triton (French Jet Trainer)
+108. VG-90 (French Jet Fighter)
+109. NORD 1601 (French Research Plane)
+110. NORD 2260 (French Jet Plane)
+111. 707A Delta Wing (English Jet Plane)
+112. AVRO Aston (English Jet Plane)
+113. Supermarine 535 (English Jet Plane)
+114. Vickers 660 (English Bomber)
+115. Hawker P-1081 (English Jet Plane)
+116. Short SB-3 (R.A.F. Anti-Submarine Plane)
+117. Handley-Page 88 (English Jet Plane) [LACKING]
+118. Target Plane (Australian Jet)
+119. Fokker S-14 (Netherlands Jet Trainer)
+120. MIG-19 (Russian Jet Fighter) [LACKING]</field>
+    <field name="ref_ssi">aspace_1aee1575ab2fb9ec1af09b84e2cf9078</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_unitid_teim">PR 463</field>
+    <field name="series_sim">Wings "Friend or Foe" cards</field>
+    <field name="series_si">Wings "Friend or Foe" cards &gt;&gt; Wings "Friend or Foe" cards 101-120</field>
+    <field name="heading_ssm">Wings "Friend or Foe" cards 101-120</field>
+    <field name="unitdate_ssm">Inclusive, 1952</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

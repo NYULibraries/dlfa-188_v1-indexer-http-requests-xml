@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref545_tlj</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Bronx--Railroads and subways</field>
+    <field name="unittitle_teim">New York--NYC -- Bronx--Railroads and subways</field>
+    <field name="unitdate_normal_ssm">1875/1962</field>
+    <field name="unitdate_normal_teim">1875/1962</field>
+    <field name="unitdate_normal_sim">1875/1962</field>
+    <field name="unitdate_inclusive_teim">[1875-1962]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0531</field>
+    <field name="scopecontent_teim">Railroads and subways in the Bronx: along the Harlem River, looking north from McComb's Dam, railroad, right; railroad crossing at High Bridge, Morrisania, with people on the steps of a restaurant, right; 174th Street entrance to Concourse subway station; 138th Street station, New York Central Railroad, including view on platform; Botanical garden station, N.Y.C.R.R.; Melrose (168 St.) station, Harlem division, N.Y.C.R.R.; disused Morris Park Station, New Haven Railroad; Park Avenue and railroad tracks, north of 144th Street; Van Cortlandt Station, N.Y.C.R.R., Putnam division, Van Cortlandt Park.</field>
+    <field name="scopecontent_teim">14 items</field>
+    <field name="ref_ssi">aspace_ref545_tlj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 46</field>
+    <field name="location_si">Box: 46</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Bronx--Railroads and subways</field>
+    <field name="heading_ssm">New York--NYC -- Bronx--Railroads and subways</field>
+    <field name="unitdate_start_sim">1875</field>
+    <field name="unitdate_start_ssm">1875</field>
+    <field name="unitdate_start_si">1875</field>
+    <field name="unitdate_end_sim">1962</field>
+    <field name="unitdate_end_ssm">1962</field>
+    <field name="unitdate_end_si">1962</field>
+    <field name="unitdate_ssm">Inclusive, [1875-1962]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">532</field>
+  </doc>
+</add>

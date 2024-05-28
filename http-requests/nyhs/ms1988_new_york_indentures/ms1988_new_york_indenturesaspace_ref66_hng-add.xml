@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms1988_new_york_indenturesaspace_ref66_hng</field>
+    <field name="ead_ssi">ms1988_new_york_indentures</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New York City indentures collection</field>
+    <field name="collection_ssm">New York City indentures collection</field>
+    <field name="collection_unitid_ssm">MS 1988</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Foundling Records (1838-1915)</field>
+    <field name="unittitle_teim">Series II: Foundling Records (1838-1915)</field>
+    <field name="scopecontent_teim">The foundling records document information regarding orphans who were under the control of the state before they were to be transferred to an orphan asylum or else indentured. They are comprised of personal information of foundlings such as the sex, color, and religion of the infant as well as notes regarding his or her health, and the circumstances of the child's arrival and sometimes their death. All of these records include both boy and girl infants and some volumes contain newspaper articles and affidavits regarding the foundlings. Volume 37 contains personal information of the nurses.</field>
+    <field name="scopecontent_teim">Only volume 38 has records of indentured foundlings, and it does not include the actual indentures of the children. This volume has notes about visiting the indentured child and the child's condition, which was frequently not good. Often the child was declared dead or listed as simply "not found."</field>
+    <field name="ref_ssi">aspace_ref66_hng</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New York City indentures collection</field>
+    <field name="collection_unitid_teim">MS 1988</field>
+    <field name="series_si">Series II: Foundling Records (1838-1915)</field>
+    <field name="heading_ssm">Series II: Foundling Records (1838-1915)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">48</field>
+  </doc>
+</add>

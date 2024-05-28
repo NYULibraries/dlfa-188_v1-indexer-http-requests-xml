@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr054_postcardaspace_d0de7ca151211e6a5da5cfa4f1444499</field>
+    <field name="ead_ssi">pr054_postcard</field>
+    <field name="parent_ssi">aspace_59d8574505654becc1535ca01f637986</field>
+    <field name="parent_ssm">aspace_ref7_1i1</field>
+    <field name="parent_ssm">aspace_59d8574505654becc1535ca01f637986</field>
+    <field name="parent_unittitles_ssm">Series III. Geographic Locations | International</field>
+    <field name="parent_unittitles_ssm">Subseries III.H. South Asia</field>
+    <field name="parent_unittitles_teim">Series III. Geographic Locations | International</field>
+    <field name="parent_unittitles_teim">Subseries III.H. South Asia</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_ssm">PR 54</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;India&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      India
+    </field>
+    <field name="ref_ssi">aspace_d0de7ca151211e6a5da5cfa4f1444499</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 88</field>
+    <field name="location_si">Box: 88</field>
+    <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_teim">PR 54</field>
+    <field name="series_sim">Series III. Geographic Locations | International</field>
+    <field name="series_sim">Subseries III.H. South Asia</field>
+    <field name="series_si">Series III. Geographic Locations | International &gt;&gt; Subseries III.H. South Asia &gt;&gt; 
+      &lt;strong&gt;India&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      India
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">398</field>
+  </doc>
+</add>

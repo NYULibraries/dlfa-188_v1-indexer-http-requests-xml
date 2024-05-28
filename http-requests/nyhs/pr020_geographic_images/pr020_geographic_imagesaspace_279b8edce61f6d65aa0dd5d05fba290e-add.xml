@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_279b8edce61f6d65aa0dd5d05fba290e</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_ref3181_20y</field>
+    <field name="parent_ssm">aspace_ref5_ggh</field>
+    <field name="parent_ssm">aspace_ref11_zwc</field>
+    <field name="parent_ssm">aspace_ref3181_20y</field>
+    <field name="parent_unittitles_ssm">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_ssm">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="parent_unittitles_ssm"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="parent_unittitles_teim">Series I: New York City Views - Manhattan</field>
+    <field name="parent_unittitles_teim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="parent_unittitles_teim"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hotels  F-H</field>
+    <field name="unittitle_teim">Hotels  F-H</field>
+    <field name="scopecontent_teim">Fort George Hotel;</field>
+    <field name="scopecontent_teim">Gilsey House;</field>
+    <field name="scopecontent_teim">Grand Hotel;</field>
+    <field name="scopecontent_teim">Grand Union Hotel;</field>
+    <field name="scopecontent_teim">Holland House</field>
+    <field name="ref_ssi">aspace_279b8edce61f6d65aa0dd5d05fba290e</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF364</field>
+    <field name="location_si">Folder: FF364</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series I: New York City Views - Manhattan</field>
+    <field name="series_sim">Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS</field>
+    <field name="series_sim"> Manhattan - Flat Material - Photos - Buildings</field>
+    <field name="series_si">Series I: New York City Views - Manhattan &gt;&gt; Subseries IC: MANHATTAN - FLAT MATERIALS- PHOTOS &gt;&gt;  Manhattan - Flat Material - Photos - Buildings &gt;&gt; Hotels  F-H</field>
+    <field name="heading_ssm">Hotels  F-H</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1734</field>
+  </doc>
+</add>

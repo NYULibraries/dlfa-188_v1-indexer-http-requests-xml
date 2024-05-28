@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms231_freedmanaspace_475aa9d69537b333ebef294dc2512335</field>
+    <field name="ead_ssi">ms231_freedman</field>
+    <field name="parent_ssi">aspace_ad24f6983e48f6f31b9089d7e2f5cafd</field>
+    <field name="parent_ssm">aspace_ad24f6983e48f6f31b9089d7e2f5cafd</field>
+    <field name="parent_unittitles_ssm">Series III. Unrelated documents</field>
+    <field name="parent_unittitles_teim">Series III. Unrelated documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Freedman family papers and other documents</field>
+    <field name="collection_ssm">Freedman family papers and other documents</field>
+    <field name="collection_unitid_ssm">MS 231</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Abstract from a [land] patent . . .</field>
+    <field name="unittitle_teim">Abstract from a [land] patent . . .</field>
+    <field name="unitdate_teim">1765 June 6</field>
+    <field name="scopecontent_teim">"Abstract from a Patent Dated the 6th day of June 1765 and granted to John Montressor, Francis Mee and Robert Wallace" for "All that certain Tract or parcel of Land situate lying and being in the County of Albany on the west side of Lake Champlain within Our province of New York as also four small Islands called Les Isles des quatres Vents lying in the said Lake . . . ."</field>
+    <field name="ref_ssi">aspace_475aa9d69537b333ebef294dc2512335</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 4, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Freedman family papers and other documents</field>
+    <field name="collection_unitid_teim">MS 231</field>
+    <field name="series_sim">Series III. Unrelated documents</field>
+    <field name="series_si">Series III. Unrelated documents &gt;&gt; Abstract from a [land] patent . . .</field>
+    <field name="heading_ssm">Abstract from a [land] patent . . .</field>
+    <field name="unitdate_ssm">1765 June 6</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

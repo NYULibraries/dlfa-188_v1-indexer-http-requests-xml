@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_ref41_krr</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_ref38_vgi</field>
+    <field name="parent_ssm">aspace_ref4_m0q</field>
+    <field name="parent_ssm">aspace_ref38_vgi</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">
+      Letters: 1796 R-Z
+    </field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">
+      Letters: 1796 R-Z
+    </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letters: S-Z</field>
+    <field name="unittitle_teim">Letters: S-Z</field>
+    <field name="unitdate_teim">1796</field>
+    <field name="scopecontent_teim">This folder contains correspondence to Alsop &amp; Hicks, Hicks &amp; Doughty, and Hicks from their clients, including David Starbuck, Francis Turner, and Caspar Voght.  The correspondence is predominantly in regards to finances and goods shipped. Included in this folder is a log of debits and credits for Philip Sansom and the ship Ann, captained by Joseph Cartwright.  Caspar Voght, of Hamburg, Germany, is particularly interested in the changing price of rice.</field>
+    <field name="scopecontent_teim">Ships Mentioned:Pearl</field>
+    <field name="ref_ssi">aspace_ref41_krr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">
+      Letters: 1796 R-Z
+    </field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; 
+      Letters: 1796 R-Z
+     &gt;&gt; Letters: S-Z</field>
+    <field name="heading_ssm">Letters: S-Z</field>
+    <field name="unitdate_ssm">1796</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">35</field>
+  </doc>
+</add>

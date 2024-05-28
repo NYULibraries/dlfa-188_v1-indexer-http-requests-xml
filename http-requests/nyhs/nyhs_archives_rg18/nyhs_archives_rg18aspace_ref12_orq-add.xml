@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg18aspace_ref12_orq</field>
+    <field name="ead_ssi">nyhs_archives_rg18</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Board of Trustees records</field>
+    <field name="collection_ssm">New-York Historical Society Board of Trustees records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 18</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Board Minutes</field>
+    <field name="unittitle_teim">Series I. Board Minutes</field>
+    <field name="unitdate_inclusive_teim">1939-1958</field>
+    <field name="scopecontent_teim">Series I holds bound volumes of the minutes of trustee meetings from 1939 to 1958. These are the original minutes, signed by the Board Secretary, who was typically the Director. The minutes include information concerning acquisitions, dispositions, financial matters (e.g., investments, budgets), operations (e.g., policies, employee benefit plans), facilities, membership elections, publication initiatives, by-law changes, officer elections, programs (e.g., exhibitions, Strawberry Festivals, publicity), memorials, and consideration of loan requests.</field>
+    <field name="ref_ssi">aspace_ref12_orq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Board of Trustees records</field>
+    <field name="collection_unitid_teim">NYHS-RG 18</field>
+    <field name="series_si">Series I. Board Minutes</field>
+    <field name="heading_ssm">Series I. Board Minutes</field>
+    <field name="unitdate_ssm">Inclusive, 1939-1958</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

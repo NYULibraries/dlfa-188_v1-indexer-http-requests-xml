@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms362_martha_lambaspace_ref128_udf</field>
+    <field name="ead_ssi">ms362_martha_lamb</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Martha J. Lamb papers</field>
+    <field name="collection_ssm">Martha J. Lamb papers</field>
+    <field name="collection_unitid_ssm">MS 362</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VI. Clippings, 1756-1892</field>
+    <field name="unittitle_teim">Series VI. Clippings, 1756-1892</field>
+    <field name="unitdate_inclusive_teim">undated (bulk 1876-1883)</field>
+    <field name="scopecontent_teim">Includes twenty-seven scrapbook volumes containing clippings of many of Lamb's published articles, reviews of History of the City of New York and other publications, articles about Lamb's activities, and items on various topics. Five folders of loose clippings include articles about Lamb, particularly reviews of HCNY. Also loose newspaper clippings on various topics, and articles from eighteenth century magazines. </field>
+    <field name="scopecontent_teim">Scrapbooks are arranged roughly by content, then chronologically (dates overlap). The volumes have been numbered for paging purposes. </field>
+    <field name="scopecontent_teim">Some of the published articles are signed, but a number are unsigned, or a penname is used (the name "Crisp" occurs frequently). As Lamb was known to use pennames, and these pieces appear in scrapbooks along with signed articles of Lamb's, she is assumed to be the author. </field>
+    <field name="title_teim">History of the City of New York </field>
+    <field name="title_teim">HCNY</field>
+    <field name="title_ssm">History of the City of New York </field>
+    <field name="title_ssm">HCNY</field>
+    <field name="ref_ssi">aspace_ref128_udf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Martha J. Lamb papers</field>
+    <field name="collection_unitid_teim">MS 362</field>
+    <field name="series_si">Series VI. Clippings, 1756-1892</field>
+    <field name="heading_ssm">Series VI. Clippings, 1756-1892</field>
+    <field name="unitdate_ssm">Inclusive, undated (bulk 1876-1883)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">111</field>
+  </doc>
+</add>

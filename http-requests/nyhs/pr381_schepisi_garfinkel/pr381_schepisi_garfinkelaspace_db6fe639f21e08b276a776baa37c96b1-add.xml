@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr381_schepisi_garfinkelaspace_db6fe639f21e08b276a776baa37c96b1</field>
+    <field name="ead_ssi">pr381_schepisi_garfinkel</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_ssm">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 381</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Black Star Agency photographs</field>
+    <field name="unittitle_teim">Series I: Black Star Agency photographs</field>
+    <field name="unitdate_inclusive_teim">1975-1984</field>
+    <field name="scopecontent_teim">contains images of prominent people and events of the 1970s and 1980s.</field>
+    <field name="ref_ssi">aspace_db6fe639f21e08b276a776baa37c96b1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_unitid_teim">PR 381</field>
+    <field name="series_si">Series I: Black Star Agency photographs</field>
+    <field name="heading_ssm">Series I: Black Star Agency photographs</field>
+    <field name="unitdate_ssm">Inclusive, 1975-1984</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_6ac89b591b276e2d93c41b269a2fb193</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_ssm">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_unittitles_ssm">Series I: Broadway Theatrical Photography</field>
+    <field name="parent_unittitles_teim">Series I: Broadway Theatrical Photography</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries:  MISHKIN STUDIO</field>
+    <field name="unittitle_teim">Subseries:  MISHKIN STUDIO</field>
+    <field name="unitdate_inclusive_teim">1913-1930</field>
+    <field name="scopecontent_teim">This subseries consists of portraits takin by Mishkin Studio between 1913-1930. Subjects include Mary Lewis, Katharine Cornell, Janet Beecher, Mario Chamlee, France Demarest, and Will Rogers.</field>
+    <field name="bioghist_teim">Born in Minsk, Russia, Herman Mishkin (1871-1948) immigrated to the United States in 1885. While working as a store clerk in New York City, Mishkin began shooting cartes de visites and cabinet portraits of performers in costume in the 1890s, eventually  securing  a position with Oscar Hammerstein's Manhattan Opera Company as a photographer-publicist.</field>
+    <field name="bioghist_teim">In 1908, the Metropolitan Opera hired Mishkin as its official photographer, and he served as the Met's portraitist until 1932. While shooting opera stars for the Metropolitan, he maintained a portrait studio frequented by most of the significant actors and celebrities of the day. </field>
+    <field name="ref_ssi">aspace_6ac89b591b276e2d93c41b269a2fb193</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series I: Broadway Theatrical Photography</field>
+    <field name="series_si">Series I: Broadway Theatrical Photography &gt;&gt; Subseries:  MISHKIN STUDIO</field>
+    <field name="heading_ssm">Subseries:  MISHKIN STUDIO</field>
+    <field name="unitdate_ssm">Inclusive, 1913-1930</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

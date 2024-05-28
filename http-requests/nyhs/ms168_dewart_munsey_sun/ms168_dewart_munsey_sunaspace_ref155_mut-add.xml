@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms168_dewart_munsey_sunaspace_ref155_mut</field>
+    <field name="ead_ssi">ms168_dewart_munsey_sun</field>
+    <field name="parent_ssi">aspace_ref24_uxt</field>
+    <field name="parent_ssm">aspace_ref24_uxt</field>
+    <field name="parent_unittitles_ssm">Series III: Publications</field>
+    <field name="parent_unittitles_teim">Series III: Publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">William Thompson Dewart collection of Frank A. Munsey and New York Sun papers</field>
+    <field name="collection_ssm">William Thompson Dewart collection of Frank A. Munsey and New York Sun papers</field>
+    <field name="collection_unitid_ssm">MS 168</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III.4: Books</field>
+    <field name="unittitle_teim">Subseries III.4: Books</field>
+    <field name="ref_ssi">aspace_ref155_mut</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">William Thompson Dewart collection of Frank A. Munsey and New York Sun papers</field>
+    <field name="collection_unitid_teim">MS 168</field>
+    <field name="series_sim">Series III: Publications</field>
+    <field name="series_si">Series III: Publications &gt;&gt; Subseries III.4: Books</field>
+    <field name="heading_ssm">Subseries III.4: Books</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">149</field>
+  </doc>
+</add>

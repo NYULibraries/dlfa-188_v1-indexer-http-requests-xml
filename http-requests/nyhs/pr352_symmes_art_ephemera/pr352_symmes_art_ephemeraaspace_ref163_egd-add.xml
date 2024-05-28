@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr352_symmes_art_ephemeraaspace_ref163_egd</field>
+    <field name="ead_ssi">pr352_symmes_art_ephemera</field>
+    <field name="parent_ssi">aspace_ref3_y74</field>
+    <field name="parent_ssm">aspace_ref3_y74</field>
+    <field name="parent_unittitles_ssm">Series I. Single Artist Exhibitions</field>
+    <field name="parent_unittitles_teim">Series I. Single Artist Exhibitions</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Marilyn Symmes collection of art exhibition ephemera</field>
+    <field name="collection_ssm">Marilyn Symmes collection of art exhibition ephemera</field>
+    <field name="collection_unitid_ssm">PR 352</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Seltzer, Phyllis - Correspondence</field>
+    <field name="unittitle_teim">Seltzer, Phyllis - Correspondence</field>
+    <field name="unitdate_inclusive_teim">1993-2015</field>
+    <field name="scopecontent_teim">Includes correspondence, including exhibition invitations and brochures, between Phyllis Seltzer and Marilyn Symmes regarding Seltzer's work and heat transfer process. Also includes a Butler Institute of American Art 2011 catalogue for Phyllis Seltzer: Scapes. Also includes a sheet of slides with images of works by Phyllis Seltzer and her assistant Zoya Trofimova (1993-2001).</field>
+    <field name="ref_ssi">aspace_ref163_egd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 13, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Marilyn Symmes collection of art exhibition ephemera</field>
+    <field name="collection_unitid_teim">PR 352</field>
+    <field name="series_sim">Series I. Single Artist Exhibitions</field>
+    <field name="series_si">Series I. Single Artist Exhibitions &gt;&gt; Seltzer, Phyllis - Correspondence</field>
+    <field name="heading_ssm">Seltzer, Phyllis - Correspondence</field>
+    <field name="unitdate_ssm">Inclusive, 1993-2015</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">95</field>
+  </doc>
+</add>

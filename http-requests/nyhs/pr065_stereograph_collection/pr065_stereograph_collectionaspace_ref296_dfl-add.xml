@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref296_dfl</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC--Harbor -- Ferry terminals and slips</field>
+    <field name="unittitle_teim">New York--NYC--Harbor -- Ferry terminals and slips</field>
+    <field name="unitdate_normal_ssm">1859/1959</field>
+    <field name="unitdate_normal_teim">1859/1959</field>
+    <field name="unitdate_normal_sim">1859/1959</field>
+    <field name="unitdate_inclusive_teim">1859-1959</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0282</field>
+    <field name="scopecontent_teim">Ferry terminals and slips: South Street: the ferry terminal, omnibuses and coaches waiting at the ferry and heading up Broadway toward the Corn Exchange, park on the left, ferry Pacific in the slip, South and Staten Island Ferry from the water, with office buildings beyond; Fulton Ferry: view from up the hill in Brooklyn looking toward Manhattan, from street looking S.W., the America at dock; Wall Street Ferry from Brooklyn Heights, Manhattan in the distance; Municipal Ferry building, later the Battery Maritime Building; Staten Island Ferry from the water with ferries in slip including the Mary Murray, the Verrazzano, Dongan Hills and Gold Star Mother, and interiors of the Cornelius G. Kolff, views of the 1954 Staten Island Ferry terminal from the land; 42nd Street Ferry slip from the water; Central Railroad of New Jersey ferry terminal; looking down from Brooklyn bridge on ferries Alaska and Montana moored at Roosevelt SI (Staten Island?) terminal; the New Jersey ferry Chicago bringing commuters to Manhattan.</field>
+    <field name="scopecontent_teim">40 items</field>
+    <field name="ref_ssi">aspace_ref296_dfl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 28</field>
+    <field name="location_si">Box: 28</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC--Harbor -- Ferry terminals and slips</field>
+    <field name="heading_ssm">New York--NYC--Harbor -- Ferry terminals and slips</field>
+    <field name="unitdate_start_sim">1859</field>
+    <field name="unitdate_start_ssm">1859</field>
+    <field name="unitdate_start_si">1859</field>
+    <field name="unitdate_end_sim">1959</field>
+    <field name="unitdate_end_ssm">1959</field>
+    <field name="unitdate_end_si">1959</field>
+    <field name="unitdate_ssm">Inclusive, 1859-1959</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">283</field>
+  </doc>
+</add>

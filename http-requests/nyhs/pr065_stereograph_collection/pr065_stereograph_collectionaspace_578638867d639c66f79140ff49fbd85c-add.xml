@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Subjects</field>
+    <field name="unittitle_teim">Subjects</field>
+    <field name="unitdate_inclusive_teim">1860-1920</field>
+    <field name="scopecontent_teim">Subject Series: This series is arranged by subject or topic. Items are arranged into groups, and each group has an Identifier, or unique number. The Identifier can be found within the group's Scope and Contents note. Many of the items arranged by subject are of unknown location. Other subjects have known locations, but depict substantial and important subjects, such as the Civil War or the Spanish American War. Some of the items form published series, such as the Powell and Wheeler expeditions in the American West. It may be necessary to search the Geographic Series for subjects that are also represented in the Subject Series. For instance, there is a subject group titled Indians of North America, but there are additional views of Native American Indians dispersed throughout the Geographic Series. </field>
+    <field name="scopecontent_teim">Civil War stereographs have been digitized and are available online via New York Heritage.</field>
+    <field name="ref_ssi">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_si">Subjects</field>
+    <field name="heading_ssm">Subjects</field>
+    <field name="unitdate_ssm">Inclusive, 1860-1920</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">761</field>
+  </doc>
+</add>

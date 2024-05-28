@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref866_wmt</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Pictures of Old New York</field>
+    <field name="unittitle_teim">Pictures of Old New York</field>
+    <field name="unitdate_normal_ssm">1895/1895</field>
+    <field name="unitdate_normal_teim">1895/1895</field>
+    <field name="unitdate_normal_sim">1895/1895</field>
+    <field name="unitdate_inclusive_teim">[1895]</field>
+    <field name="scopecontent_teim">Prints, clippings from magazines and other publications, and stationery with view letterhead, including engravings, lithographs, halftones, etching, wood engraving and drypoint, depicting historic sites in Manhattan, including farmsteads, churches, hotels, the stock exchange and other commercial buildings, the Hudson and East Rivers, Central Park, views from and in Brooklyn Heights, cultural buildings including Astor Library, the Crystal Palace, interior of 7th Regt. Armory Fulton Ferry, state prison, The Tombs including interior showing police court, charitable institutions; panorama of the city from Brooklyn; a view of Brady's Gallery of Daguerreotype; Indian village of Manhattans; riot of Astor Place, burning of City Hall; images made between ca. 1820 and ca. 1892.</field>
+    <field name="ref_ssi">aspace_ref866_wmt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 39, Volume: 262</field>
+    <field name="location_ssm">Volume: 262</field>
+    <field name="location_si">Volume: 262</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Pictures of Old New York</field>
+    <field name="heading_ssm">Pictures of Old New York</field>
+    <field name="unitdate_start_sim">1895</field>
+    <field name="unitdate_start_ssm">1895</field>
+    <field name="unitdate_start_si">1895</field>
+    <field name="unitdate_end_sim">1895</field>
+    <field name="unitdate_end_ssm">1895</field>
+    <field name="unitdate_end_si">1895</field>
+    <field name="unitdate_ssm">Inclusive, [1895]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">298</field>
+  </doc>
+</add>

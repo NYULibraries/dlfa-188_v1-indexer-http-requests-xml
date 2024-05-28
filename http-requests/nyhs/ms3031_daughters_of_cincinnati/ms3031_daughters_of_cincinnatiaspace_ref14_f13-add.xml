@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3031_daughters_of_cincinnatiaspace_ref14_f13</field>
+    <field name="ead_ssi">ms3031_daughters_of_cincinnati</field>
+    <field name="parent_ssi">aspace_ref1_6sf</field>
+    <field name="parent_ssm">aspace_ref1_6sf</field>
+    <field name="parent_unittitles_ssm">Series I: Minutes and Annual Reports</field>
+    <field name="parent_unittitles_teim">Series I: Minutes and Annual Reports</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Daughters of the Cincinnati records</field>
+    <field name="collection_ssm">Daughters of the Cincinnati records</field>
+    <field name="collection_unitid_ssm">MS 3031</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.A. Minutes in binders</field>
+    <field name="unittitle_teim">Subseries I.A. Minutes in binders</field>
+    <field name="unitdate_teim">1895-1964</field>
+    <field name="scopecontent_teim">This subseries is comprised of typescripts of meeting minutes that are housed in their original binders. The date range is 1895 to 1964.The minutes contain discussions of the current business of the organization, reports of various committees, and upcoming elections. These transcripts also provide details about the death of members, issues related to membership requirements and applications, and planning for events, trips, and fundraising efforts for scholarships.</field>
+    <field name="ref_ssi">aspace_ref14_f13</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Daughters of the Cincinnati records</field>
+    <field name="collection_unitid_teim">MS 3031</field>
+    <field name="series_sim">Series I: Minutes and Annual Reports</field>
+    <field name="series_si">Series I: Minutes and Annual Reports &gt;&gt; Subseries I.A. Minutes in binders</field>
+    <field name="heading_ssm">Subseries I.A. Minutes in binders</field>
+    <field name="unitdate_ssm">1895-1964</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

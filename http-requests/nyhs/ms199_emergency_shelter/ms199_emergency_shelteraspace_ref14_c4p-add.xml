@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms199_emergency_shelteraspace_ref14_c4p</field>
+    <field name="ead_ssi">ms199_emergency_shelter</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Emergency Shelter records</field>
+    <field name="collection_ssm">Emergency Shelter records</field>
+    <field name="collection_unitid_ssm">MS 199</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Histories of the Emergency Shelter, 1932-1987</field>
+    <field name="unittitle_teim">Series 1: Histories of the Emergency Shelter, 1932-1987</field>
+    <field name="scopecontent_teim">This series includes short histories of the Emergency Shelter and its programs. Most of the histories appear to be written for internal use and are unpublished.</field>
+    <field name="ref_ssi">aspace_ref14_c4p</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Emergency Shelter records</field>
+    <field name="collection_unitid_teim">MS 199</field>
+    <field name="series_si">Series 1: Histories of the Emergency Shelter, 1932-1987</field>
+    <field name="heading_ssm">Series 1: Histories of the Emergency Shelter, 1932-1987</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

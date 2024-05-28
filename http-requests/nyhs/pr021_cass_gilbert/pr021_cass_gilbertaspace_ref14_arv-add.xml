@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr021_cass_gilbertaspace_ref14_arv</field>
+    <field name="ead_ssi">pr021_cass_gilbert</field>
+    <field name="parent_ssi">aspace_ref13_29g</field>
+    <field name="parent_ssm">aspace_ref13_29g</field>
+    <field name="parent_unittitles_ssm">Series I. Project Files</field>
+    <field name="parent_unittitles_teim">Series I. Project Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Cass Gilbert papers and architectural drawings</field>
+    <field name="collection_ssm">Cass Gilbert papers and architectural drawings</field>
+    <field name="collection_unitid_ssm">PR 21</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I: Foldered Material</field>
+    <field name="unittitle_teim">Subseries I: Foldered Material</field>
+    <field name="scopecontent_teim">This subseries contains the box and foldered material regarding Cass Gilbert projects. The material has been filed alphabetically by project and then by the project number assigned by Gilbert's office. Gilbert also designated material within the project files by type. Thus, the project files are also divided by type of material. The types of material include Preliminary Correspondence, Correspondence, Memoranda/Notes, Specifications, Bid Documents, Proposals, Reports, Contracts/Agreements, Financial Statements (includes Requisitions), Change Orders, Drawings, Photographs, etc.</field>
+    <field name="ref_ssi">aspace_ref14_arv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Cass Gilbert papers and architectural drawings</field>
+    <field name="collection_unitid_teim">PR 21</field>
+    <field name="series_sim">Series I. Project Files</field>
+    <field name="series_si">Series I. Project Files &gt;&gt; Subseries I: Foldered Material</field>
+    <field name="heading_ssm">Subseries I: Foldered Material</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2916_graham_windhamaspace_ref208_jrl</field>
+    <field name="ead_ssi">ms2916_graham_windham</field>
+    <field name="parent_ssi">aspace_ref10_d80</field>
+    <field name="parent_ssm">aspace_ref10_d80</field>
+    <field name="parent_unittitles_ssm">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="parent_unittitles_teim">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Graham Windham Records</field>
+    <field name="collection_ssm">Graham Windham Records</field>
+    <field name="collection_unitid_ssm">MS 2916</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.5 - Committee Reports and Other Inspections, 1848-1966</field>
+    <field name="unittitle_teim">Subseries I.5 - Committee Reports and Other Inspections, 1848-1966</field>
+    <field name="unitdate_normal_ssm">1848/1966</field>
+    <field name="unitdate_normal_teim">1848/1966</field>
+    <field name="unitdate_normal_sim">1848/1966</field>
+    <field name="unitdate_inclusive_teim">1848-1966</field>
+    <field name="scopecontent_teim">The subseries consists of five volumes of reports of the Visitor's Commitee (1842-1892), followed by two volumes of records and reports of the Investigating Committee (1900-1905), followed by one volume of records of the Correspondence Committee (1903-1922).  The women of the Visitor's Committee visited the asylum regularly and reported their observations to the board.  The Investigating Committee appears to have performed follow-up visits to children who had left the asylum, as well as investigations of children in the asylum.  The Correspondence Committee recorded information about, and correspondence with, selected children who had left the asylum, following their lives for many years.</field>
+    <field name="scopecontent_teim">The volumes are followed by folders containing an inspection report by the State Board of Social Welfare (1935-36) forwarded to the Board, and a bound report of a visiting committee to the Board (1966).</field>
+    <field name="scopecontent_teim">
+      Reports in this subseries are closed to the public for a term of one hundred years from their date of creation.  Records older than one hundred years are open for research.
+      
+    </field>
+    <field name="ref_ssi">aspace_ref208_jrl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Graham Windham Records</field>
+    <field name="collection_unitid_teim">MS 2916</field>
+    <field name="series_sim">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="series_si">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977) &gt;&gt; Subseries I.5 - Committee Reports and Other Inspections, 1848-1966</field>
+    <field name="heading_ssm">Subseries I.5 - Committee Reports and Other Inspections, 1848-1966</field>
+    <field name="unitdate_start_sim">1848</field>
+    <field name="unitdate_start_ssm">1848</field>
+    <field name="unitdate_start_si">1848</field>
+    <field name="unitdate_end_sim">1966</field>
+    <field name="unitdate_end_ssm">1966</field>
+    <field name="unitdate_end_si">1966</field>
+    <field name="unitdate_ssm">Inclusive, 1848-1966</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">160</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms000_oversize_manuscripts_collectionaspace_a489474767b495f2d481b8150e40fb76</field>
+    <field name="ead_ssi">ms000_oversize_manuscripts_collection</field>
+    <field name="parent_ssi">aspace_ref6_a5t</field>
+    <field name="parent_ssm">aspace_ref6_a5t</field>
+    <field name="parent_unittitles_ssm">Series I. Individual Oversize Manuscripts</field>
+    <field name="parent_unittitles_teim">Series I. Individual Oversize Manuscripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oversize manuscripts collection</field>
+    <field name="collection_ssm">Oversize manuscripts collection</field>
+    <field name="collection_unitid_ssm">MS OS</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Y-1939] Inauguration of Washington Commemorative Stamps</field>
+    <field name="unittitle_teim">[Y-1939] Inauguration of Washington Commemorative Stamps</field>
+    <field name="unitdate_inclusive_teim">1939 April 30</field>
+    <field name="scopecontent_teim">Item is a sheet of 50 3 cents stamps issued on April 30, 1939, for the "Sesquicentennial of the inauguration of Washington as first president." Sheet (#22365) is mounted to paper backing, with contextual information, indicating that the sheet was sold by New York City postmaster Albert Goldman to N-YHS Director Alexander J. Wall on the first day of issue. Goldman signed and dated the sheet and signed the backing.</field>
+    <field name="ref_ssi">aspace_a489474767b495f2d481b8150e40fb76</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: small, Folder: Y-1939 (Stamps)</field>
+    <field name="location_ssm">Folder: Y-1939 (Stamps)</field>
+    <field name="location_si">Folder: Y-1939 (Stamps)</field>
+    <field name="collection_teim">Oversize manuscripts collection</field>
+    <field name="collection_unitid_teim">MS OS</field>
+    <field name="series_sim">Series I. Individual Oversize Manuscripts</field>
+    <field name="series_si">Series I. Individual Oversize Manuscripts &gt;&gt; [Y-1939] Inauguration of Washington Commemorative Stamps</field>
+    <field name="heading_ssm">[Y-1939] Inauguration of Washington Commemorative Stamps</field>
+    <field name="unitdate_ssm">Inclusive, 1939 April 30</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">255</field>
+  </doc>
+</add>

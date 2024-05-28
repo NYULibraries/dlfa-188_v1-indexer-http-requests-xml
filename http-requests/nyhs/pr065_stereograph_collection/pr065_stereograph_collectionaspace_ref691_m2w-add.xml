@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref691_m2w</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Utah--Union Pacific Railroad</field>
+    <field name="unittitle_teim">Utah--Union Pacific Railroad</field>
+    <field name="unitdate_teim">[1860s]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0677</field>
+    <field name="scopecontent_teim">Union Pacific Railroad views in Utah; views at Promontory Point including the last rail, with American flag flying over it, views of the "Golden Spike" celebration showing crowds, two locomotives face to face, soldiers, men laying the last rail; great Trestle at Promontory; man in a cave near Promontory; train unloading ties and iron; crowd of workers around the paymaster's car, Blue Creek; bridge over the Bear River; fill west of Granite Canyon; views in Corinne, including businesses, the Snowflake Hotel, a large tent, the Daily Reporter, a newspaper housed in a large tent, men and a woman in front, group of Shoshone Indians, with railroad behind them; locomotive in a tunnel; general view of Uintah; views at Wasatch, including locomotive #120, cut west of Wasatch, high trestle; railroad officials in a Pullman car; O.C. Smith and party in snow on Aug. 26th, [1868?] White Pine Canyon; Great Salt Lake from Monument Point, train in foreground; speaker Colfax and party inspecting construction of U.P.R.R.</field>
+    <field name="scopecontent_teim">36 items</field>
+    <field name="ref_ssi">aspace_ref691_m2w</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 60</field>
+    <field name="location_si">Box: 60</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Utah--Union Pacific Railroad</field>
+    <field name="heading_ssm">Utah--Union Pacific Railroad</field>
+    <field name="unitdate_ssm">[1860s]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">678</field>
+  </doc>
+</add>

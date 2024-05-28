@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_b37020e6140c38eb63ada579a61048e5</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_9d4d0c87433e68ecb623dbb590c0508a</field>
+    <field name="parent_ssm">aspace_bbc508e612d1f4bba6232147b4bc0512</field>
+    <field name="parent_ssm">aspace_9d4d0c87433e68ecb623dbb590c0508a</field>
+    <field name="parent_unittitles_ssm">Series V. Sales Tickets and Invoices</field>
+    <field name="parent_unittitles_ssm">Subseries V.C. Client Invoices</field>
+    <field name="parent_unittitles_teim">Series V. Sales Tickets and Invoices</field>
+    <field name="parent_unittitles_teim">Subseries V.C. Client Invoices</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Client invoices</field>
+    <field name="unittitle_teim">Client invoices</field>
+    <field name="unitdate_inclusive_teim">1966-1967</field>
+    <field name="scopecontent_teim">The box holds three stacks of bills numbered 85843-86714 (Jan 1966-June 1966), 86715-87576 (July 1966-Dec 1966), 87577-88388 (Jan 1967-June 1967).</field>
+    <field name="ref_ssi">aspace_b37020e6140c38eb63ada579a61048e5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 183</field>
+    <field name="location_si">Offsite-Box: 183</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series V. Sales Tickets and Invoices</field>
+    <field name="series_sim">Subseries V.C. Client Invoices</field>
+    <field name="series_si">Series V. Sales Tickets and Invoices &gt;&gt; Subseries V.C. Client Invoices &gt;&gt; Client invoices</field>
+    <field name="heading_ssm">Client invoices</field>
+    <field name="unitdate_ssm">Inclusive, 1966-1967</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">222</field>
+  </doc>
+</add>

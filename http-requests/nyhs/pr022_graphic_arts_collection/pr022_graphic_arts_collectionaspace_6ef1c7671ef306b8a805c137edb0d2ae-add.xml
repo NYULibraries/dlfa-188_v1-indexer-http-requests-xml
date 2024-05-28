@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr022_graphic_arts_collectionaspace_6ef1c7671ef306b8a805c137edb0d2ae</field>
+    <field name="ead_ssi">pr022_graphic_arts_collection</field>
+    <field name="parent_ssi">aspace_ref12_43r</field>
+    <field name="parent_ssm">aspace_ref12_43r</field>
+    <field name="parent_unittitles_ssm">Series I. American Graphic Arts</field>
+    <field name="parent_unittitles_teim">Series I. American Graphic Arts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical graphic arts collection</field>
+    <field name="collection_ssm">New-York Historical graphic arts collection</field>
+    <field name="collection_unitid_ssm">PR 22</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Jacob's Well. Christ and the Woman of Samaria"</field>
+    <field name="unittitle_teim">"Jacob's Well. Christ and the Woman of Samaria"</field>
+    <field name="unitdate_teim">1825</field>
+    <field name="scopecontent_teim">Approximately 15x18 inches. Includes Christian religious imagery and text based on John Chapter 4, Verse 7, bordering an open area within which is written a manuscript poem "The Birth of Christ." At bottom the document is signed and dated by Eliza Livingston. Published by S. King of New York. Hand colored?</field>
+    <field name="ref_ssi">aspace_6ef1c7671ef306b8a805c137edb0d2ae</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Drawer: FF-1, Folder: 45</field>
+    <field name="location_ssm">Folder: 45</field>
+    <field name="location_si">Folder: 45</field>
+    <field name="collection_teim">New-York Historical graphic arts collection</field>
+    <field name="collection_unitid_teim">PR 22</field>
+    <field name="series_sim">Series I. American Graphic Arts</field>
+    <field name="series_si">Series I. American Graphic Arts &gt;&gt; "Jacob's Well. Christ and the Woman of Samaria"</field>
+    <field name="heading_ssm">"Jacob's Well. Christ and the Woman of Samaria"</field>
+    <field name="unitdate_ssm">1825</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

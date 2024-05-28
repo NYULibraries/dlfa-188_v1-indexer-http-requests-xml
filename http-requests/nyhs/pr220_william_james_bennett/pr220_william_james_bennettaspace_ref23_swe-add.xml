@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr220_william_james_bennettaspace_ref23_swe</field>
+    <field name="ead_ssi">pr220_william_james_bennett</field>
+    <field name="parent_ssi">aspace_ref13_8nn</field>
+    <field name="parent_ssm">aspace_ref13_8nn</field>
+    <field name="parent_unittitles_ssm">Series I. Views of New York City</field>
+    <field name="parent_unittitles_teim">Series I. Views of New York City</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">William James Bennett print collection</field>
+    <field name="collection_ssm">William James Bennett print collection</field>
+    <field name="collection_unitid_ssm">PR 220</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II: Other Views of New York City</field>
+    <field name="unittitle_teim">Subseries II: Other Views of New York City</field>
+    <field name="scopecontent_teim">Subseries II. includes two different views that show the fire that ravaged downtown New York on December 16th and 17th, 1835. One of these, the view from the Bank of America building, shows the Merchant's Exchange (which would burn to the ground) on fire. From 1831 to 1842, Bennett issued nineteen folio engravings of views of American cities, some based on his own drawings, others based on sketches or paintings by other artists. Eleven of these views, considered to be some of the finest early American city views, are included in this collection. Two of these are views in New York City: "View of the New York Quarantine, Staten Island," and "New-York. Taken from the Bay Near Bedlows Island," a view of the harbor.</field>
+    <field name="ref_ssi">aspace_ref23_swe</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">William James Bennett print collection</field>
+    <field name="collection_unitid_teim">PR 220</field>
+    <field name="series_sim">Series I. Views of New York City</field>
+    <field name="series_si">Series I. Views of New York City &gt;&gt; Subseries II: Other Views of New York City</field>
+    <field name="heading_ssm">Subseries II: Other Views of New York City</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms171_dodd_meadaspace_895eafc03a3392fb8d2da281a2d0ef84</field>
+    <field name="ead_ssi">ms171_dodd_mead</field>
+    <field name="parent_ssi">aspace_3084a8eededfc647e6ffcd32435833e4</field>
+    <field name="parent_ssm">aspace_0d6e00ceabf4b6678c76f9c505b224c2</field>
+    <field name="parent_ssm">aspace_3084a8eededfc647e6ffcd32435833e4</field>
+    <field name="parent_unittitles_ssm">Series II. Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="parent_unittitles_teim">Series II. Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_ssm">MS 171</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Inventories(?)</field>
+    <field name="unittitle_teim">Inventories(?)</field>
+    <field name="unitdate_inclusive_teim">1978, 1981</field>
+    <field name="ref_ssi">aspace_895eafc03a3392fb8d2da281a2d0ef84</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 23</field>
+    <field name="location_si">Offsite-Box: 23</field>
+    <field name="collection_teim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_teim">MS 171</field>
+    <field name="series_sim">Series II. Financial Records</field>
+    <field name="series_sim">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="series_si">Series II. Financial Records &gt;&gt; Subseries II.A. Financial Reports and Related Material &gt;&gt; Inventories(?)</field>
+    <field name="heading_ssm">Inventories(?)</field>
+    <field name="unitdate_ssm">Inclusive, 1978, 1981</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

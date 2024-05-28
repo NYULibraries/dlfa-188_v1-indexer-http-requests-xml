@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2999_rentschleraspace_ref7_udt</field>
+    <field name="ead_ssi">ms2999_rentschler</field>
+    <field name="parent_ssi">aspace_4a53ba14f182b68e08bd211643c4afc0</field>
+    <field name="parent_ssm">aspace_4a53ba14f182b68e08bd211643c4afc0</field>
+    <field name="parent_unittitles_ssm">Series I. Manuscripts and memorabilia</field>
+    <field name="parent_unittitles_teim">Series I. Manuscripts and memorabilia</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mary Coolidge Rentschler collection</field>
+    <field name="collection_ssm">Mary Coolidge Rentschler collection</field>
+    <field name="collection_unitid_ssm">MS 2999</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.E. Susan Rentschler Witter (1933– ) [SRW]</field>
+    <field name="unittitle_teim">Subseries I.E. Susan Rentschler Witter (1933– ) [SRW]</field>
+    <field name="scopecontent_teim">This very small group of materials consists of condolence letters to Susan R. Witter upon the death of her mother, Mary C. Rentschler, in 1988, and two notes from LMC? concerning the death of Susan R. Witter's aunt, Isabel Coolidge, the following year.</field>
+    <field name="ref_ssi">aspace_ref7_udt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mary Coolidge Rentschler collection</field>
+    <field name="collection_unitid_teim">MS 2999</field>
+    <field name="series_sim">Series I. Manuscripts and memorabilia</field>
+    <field name="series_si">Series I. Manuscripts and memorabilia &gt;&gt; Subseries I.E. Susan Rentschler Witter (1933– ) [SRW]</field>
+    <field name="heading_ssm">Subseries I.E. Susan Rentschler Witter (1933– ) [SRW]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">490</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref370_lwp</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Theaters</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Theaters</field>
+    <field name="unitdate_normal_ssm">1865/1964</field>
+    <field name="unitdate_normal_teim">1865/1964</field>
+    <field name="unitdate_normal_sim">1865/1964</field>
+    <field name="unitdate_inclusive_teim">[1865-1964]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0356</field>
+    <field name="scopecontent_teim">Theaters: Bryant's Opera House; Capitol Theatre, 1639 Broadway; Carnegie Hall, 156 2. 57th; Center Theatre, 6th Avenue and 49th (Rockefeller Center); Chickering Hall; Circle in the Square Theatre, Sheridan Square; Colonial Theatre, Color T.V. studio, National Broadcasting Company; The Coliseum, Broadway, northwest corner of 35th Street; C.B.S. color studio, Broadway &amp; 81st Street; Davenport Theatre, 138 E. 27th Street; Empire Theatre, Broadway and 41st Street; Gilmore Concert Garden, later Madison Square Garden; Loews 72nd Street Theatre; Madison Square Garden, including interior view at night; Mark Hellinger Theatre, 237 W. 51st St.; Metropolitan Opera House, 1962; National Winter Garden at corner of Houston and Chrystie, torn down for subway construction; 34th Street East Theatre; Olympic Theatre; Renata Theatre, 146 Bleecker Street; Roxy Theatre, 7th Avenue and 50th street; Steinway Hall; Wallick's Theatre, Broadway and 13th Street.</field>
+    <field name="scopecontent_teim">36 items</field>
+    <field name="ref_ssi">aspace_ref370_lwp</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 33</field>
+    <field name="location_si">Box: 33</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Theaters</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Theaters</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1964</field>
+    <field name="unitdate_end_ssm">1964</field>
+    <field name="unitdate_end_si">1964</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1964]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">357</field>
+  </doc>
+</add>

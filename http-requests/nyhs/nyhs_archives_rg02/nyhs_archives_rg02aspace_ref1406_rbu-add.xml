@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg02aspace_ref1406_rbu</field>
+    <field name="ead_ssi">nyhs_archives_rg02</field>
+    <field name="parent_ssi">aspace_ref1403_3n8</field>
+    <field name="parent_ssm">aspace_ref1403_3n8</field>
+    <field name="parent_unittitles_ssm">Series II. Letterpress Copybooks</field>
+    <field name="parent_unittitles_teim">Series II. Letterpress Copybooks</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society general correspondence</field>
+    <field name="collection_ssm">New-York Historical Society general correspondence</field>
+    <field name="collection_unitid_ssm">NYHS-RG 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letter Book.</field>
+    <field name="unittitle_teim">Letter Book.</field>
+    <field name="unitdate_teim">1876-1881</field>
+    <field name="scopecontent_teim">Frequent correspondents include Erastus Benedict, Charles W. Baird, Samuel L. Boardman, Henry H. Browne, Jeremiah Colburn, E.B. Coley, Samuel W. Francis, William Henry Hurlbert, Charles P. Kirkland, Juo W.M. Lee, William Beach Lawrence, Amos Perry, Eugene Revillout, Rev. Ebenezer Rogers, J.H. Trumbull, H.C. Van Schaack, Justin Winsor, and former N-YHS Librarian George H. Moore.</field>
+    <field name="scopecontent_teim">
+Date ranges by page number
+1876 November-December: 1-20
+1877: 21-275
+1878: 276-368
+1879: 368-468
+1880: 469-610
+1881 January-September: 611-693</field>
+    <field name="scopecontent_teim">The associated register for the letterpress book is detached and stored in a folder in the box with the volume.</field>
+    <field name="ref_ssi">aspace_ref1406_rbu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 67, Volume: 1</field>
+    <field name="location_ssm">Volume: 1</field>
+    <field name="location_si">Volume: 1</field>
+    <field name="collection_teim">New-York Historical Society general correspondence</field>
+    <field name="collection_unitid_teim">NYHS-RG 2</field>
+    <field name="series_sim">Series II. Letterpress Copybooks</field>
+    <field name="series_si">Series II. Letterpress Copybooks &gt;&gt; Letter Book.</field>
+    <field name="heading_ssm">Letter Book.</field>
+    <field name="unitdate_ssm">1876-1881</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">144</field>
+  </doc>
+</add>

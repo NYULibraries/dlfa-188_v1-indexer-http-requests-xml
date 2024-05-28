@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms282_harmonie_clubaspace_ref125_s1x</field>
+    <field name="ead_ssi">ms282_harmonie_club</field>
+    <field name="parent_ssi">aspace_ref36_p8q</field>
+    <field name="parent_ssm">aspace_ref13_19i</field>
+    <field name="parent_ssm">aspace_ref36_p8q</field>
+    <field name="parent_unittitles_ssm">Series I: Minutes</field>
+    <field name="parent_unittitles_ssm">Subseries 3: Board of Governors Minutes</field>
+    <field name="parent_unittitles_teim">Series I: Minutes</field>
+    <field name="parent_unittitles_teim">Subseries 3: Board of Governors Minutes</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Harmonie Club records</field>
+    <field name="collection_ssm">Harmonie Club records</field>
+    <field name="collection_unitid_ssm">MS 282</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Minutes Board Of Governors Harmonie Club</field>
+    <field name="unittitle_teim">Minutes Board Of Governors Harmonie Club</field>
+    <field name="unitdate_teim">1968 February - 1969 December</field>
+    <field name="ref_ssi">aspace_ref125_s1x</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 11, Volume: 22</field>
+    <field name="location_ssm">Volume: 22</field>
+    <field name="location_si">Volume: 22</field>
+    <field name="collection_teim">Harmonie Club records</field>
+    <field name="collection_unitid_teim">MS 282</field>
+    <field name="series_sim">Series I: Minutes</field>
+    <field name="series_sim">Subseries 3: Board of Governors Minutes</field>
+    <field name="series_si">Series I: Minutes &gt;&gt; Subseries 3: Board of Governors Minutes &gt;&gt; Minutes Board Of Governors Harmonie Club</field>
+    <field name="heading_ssm">Minutes Board Of Governors Harmonie Club</field>
+    <field name="unitdate_ssm">1968 February - 1969 December</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

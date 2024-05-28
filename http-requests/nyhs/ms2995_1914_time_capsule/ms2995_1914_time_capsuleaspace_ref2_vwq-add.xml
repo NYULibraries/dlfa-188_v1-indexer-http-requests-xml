@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2995_1914_time_capsuleaspace_ref2_vwq</field>
+    <field name="ead_ssi">ms2995_1914_time_capsule</field>
+    <field name="parent_ssi">aspace_ref1_e2e</field>
+    <field name="parent_ssm">aspace_ref1_e2e</field>
+    <field name="parent_unittitles_ssm">Series I: Publications and pamphlets</field>
+    <field name="parent_unittitles_teim">Series I: Publications and pamphlets</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">1914 Time Capsule Collection</field>
+    <field name="collection_ssm">1914 Time Capsule Collection</field>
+    <field name="collection_unitid_ssm">MS 2995</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Program of ceremonies connected with the unveiling of the tablet at the Merchants Coffee House&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Program of ceremonies connected with the unveiling of the tablet at the Merchants Coffee House
+    </field>
+    <field name="unitdate_teim">May 23, 1914</field>
+    <field name="ref_ssi">aspace_ref2_vwq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 2, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">1914 Time Capsule Collection</field>
+    <field name="collection_unitid_teim">MS 2995</field>
+    <field name="series_sim">Series I: Publications and pamphlets</field>
+    <field name="series_si">Series I: Publications and pamphlets &gt;&gt; 
+      &lt;em&gt;Program of ceremonies connected with the unveiling of the tablet at the Merchants Coffee House&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Program of ceremonies connected with the unveiling of the tablet at the Merchants Coffee House
+    </field>
+    <field name="unitdate_ssm">May 23, 1914</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

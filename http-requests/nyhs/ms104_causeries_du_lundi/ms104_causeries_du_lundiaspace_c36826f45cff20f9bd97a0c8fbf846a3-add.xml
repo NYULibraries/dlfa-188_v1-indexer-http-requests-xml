@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms104_causeries_du_lundiaspace_c36826f45cff20f9bd97a0c8fbf846a3</field>
+    <field name="ead_ssi">ms104_causeries_du_lundi</field>
+    <field name="parent_ssi">aspace_ref14_v52</field>
+    <field name="parent_ssm">aspace_ref14_v52</field>
+    <field name="parent_unittitles_ssm">Series I. Rules of Government / Governance and Incorporation</field>
+    <field name="parent_unittitles_teim">Series I. Rules of Government / Governance and Incorporation</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Causeries du Lundi records</field>
+    <field name="collection_ssm">Causeries du Lundi records</field>
+    <field name="collection_unitid_ssm">MS 104</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Rules of Governance drafts</field>
+    <field name="unittitle_teim">Rules of Governance drafts</field>
+    <field name="unitdate_inclusive_teim">2010-2011</field>
+    <field name="ref_ssi">aspace_c36826f45cff20f9bd97a0c8fbf846a3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Causeries du Lundi records</field>
+    <field name="collection_unitid_teim">MS 104</field>
+    <field name="series_sim">Series I. Rules of Government / Governance and Incorporation</field>
+    <field name="series_si">Series I. Rules of Government / Governance and Incorporation &gt;&gt; Rules of Governance drafts</field>
+    <field name="heading_ssm">Rules of Governance drafts</field>
+    <field name="unitdate_ssm">Inclusive, 2010-2011</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg20aspace_ref1006_cvm</field>
+    <field name="ead_ssi">nyhs_archives_rg20</field>
+    <field name="parent_ssi">aspace_ref970_pcs</field>
+    <field name="parent_ssm">aspace_ref970_pcs</field>
+    <field name="parent_unittitles_ssm">Series I. Select Collections Correspondence</field>
+    <field name="parent_unittitles_teim">Series I. Select Collections Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society Museum Department records</field>
+    <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Rogers Group Inquiries (10 folders)</field>
+    <field name="unittitle_teim">Rogers Group Inquiries (10 folders)</field>
+    <field name="unitdate_teim">1932-1951</field>
+    <field name="scopecontent_teim">Includes correspondence to N-YHS from various individuals, principally in 1932 and in 1939, with offers of Rogers statuettes, requests for appraisals, or other such matters. Although these files relate to N-YHS's interest in obtaining Rogers groups, they do not appear to relate directly to those actually owned. See also New-York Historical Society Legal Matters (NYHS-RG 16), Series I. Bequests, Gifts, and Related Matters, folder Rogers, Katherine R. for documents concerning N-YHS's purchase of 36 bronze groups in 1936.</field>
+    <field name="ref_ssi">aspace_ref1006_cvm</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 55, Folder: 1-10</field>
+    <field name="location_ssm">Folder: 1-10</field>
+    <field name="location_si">Folder: 1-10</field>
+    <field name="collection_teim">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 20</field>
+    <field name="series_sim">Series I. Select Collections Correspondence</field>
+    <field name="series_si">Series I. Select Collections Correspondence &gt;&gt; Rogers Group Inquiries (10 folders)</field>
+    <field name="heading_ssm">Rogers Group Inquiries (10 folders)</field>
+    <field name="unitdate_ssm">1932-1951</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

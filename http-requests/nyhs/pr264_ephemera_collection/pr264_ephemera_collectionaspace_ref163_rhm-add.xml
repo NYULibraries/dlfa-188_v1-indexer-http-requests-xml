@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr264_ephemera_collectionaspace_ref163_rhm</field>
+    <field name="ead_ssi">pr264_ephemera_collection</field>
+    <field name="parent_ssi">aspace_ref1_qne</field>
+    <field name="parent_ssm">aspace_ref1_qne</field>
+    <field name="parent_unittitles_ssm">Series I: Ephemera</field>
+    <field name="parent_unittitles_teim">Series I: Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society ephemera collection</field>
+    <field name="collection_ssm">New-York Historical Society ephemera collection</field>
+    <field name="collection_unitid_ssm">PR 264</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Banks and financial</field>
+    <field name="unittitle_teim">Banks and financial</field>
+    <field name="unitdate_teim">1930</field>
+    <field name="scopecontent_teim">Folder holds one item: Booklet "The richest man in Babylon tells his system" by George S. Clason, published by Financial Independence Founders Inc. (1930), gift of Mike Blumenthal, 2007.</field>
+    <field name="ref_ssi">aspace_ref163_rhm</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">New-York Historical Society ephemera collection</field>
+    <field name="collection_unitid_teim">PR 264</field>
+    <field name="series_sim">Series I: Ephemera</field>
+    <field name="series_si">Series I: Ephemera &gt;&gt; Banks and financial</field>
+    <field name="heading_ssm">Banks and financial</field>
+    <field name="unitdate_ssm">1930</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3096_cityartsaspace_e85303edd297bbc991224b60d96fcc78</field>
+    <field name="ead_ssi">ms3096_cityarts</field>
+    <field name="parent_ssi">aspace_358c1c16b72286eeed6df3b806f37d19</field>
+    <field name="parent_ssm">aspace_358c1c16b72286eeed6df3b806f37d19</field>
+    <field name="parent_unittitles_ssm">Series I. Project Binders</field>
+    <field name="parent_unittitles_teim">Series I. Project Binders</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">CITYarts Inc. records</field>
+    <field name="collection_ssm">CITYarts Inc. records</field>
+    <field name="collection_unitid_ssm">MS 3096</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Binder #26. Various Projects (148, 149, 151-153)</field>
+    <field name="unittitle_teim">Binder #26. Various Projects (148, 149, 151-153)</field>
+    <field name="unitdate_inclusive_teim">1990</field>
+    <field name="scopecontent_teim">Project 148: Queens, mural, 1990, I.S. 126, 31-35 21st Street, Queens. (See also binder 15.)
+Project 149: P.E.P's Bing-Bong Circus, mural, 1990, P.S. 198, 1700 3rd Avenue. (See also binder 15.)
+Project 151: Stapleton Tower Suites Finalists, sculpture, 1990, Tappen Park, Staten Island.
+Project 152: Past, Present, Future, mural, 1990, Garden, 474 Classon Avenue, Brooklyn.(See also binder 15.)
+Project 153: Save the Earth (or Colors of Music?), mural, 1989-90, Joan of Arc School, 154 West 93rd Street. (See also binder 15.)</field>
+    <field name="ref_ssi">aspace_e85303edd297bbc991224b60d96fcc78</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 8</field>
+    <field name="location_si">Offsite-Box: 8</field>
+    <field name="collection_teim">CITYarts Inc. records</field>
+    <field name="collection_unitid_teim">MS 3096</field>
+    <field name="series_sim">Series I. Project Binders</field>
+    <field name="series_si">Series I. Project Binders &gt;&gt; Binder #26. Various Projects (148, 149, 151-153)</field>
+    <field name="heading_ssm">Binder #26. Various Projects (148, 149, 151-153)</field>
+    <field name="unitdate_ssm">Inclusive, 1990</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

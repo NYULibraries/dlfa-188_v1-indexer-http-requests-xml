@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_6b399f519a43fe76cab1e9aa736f485c</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_86c254638271f37f4b0267dad1025121</field>
+    <field name="parent_ssm">aspace_86c254638271f37f4b0267dad1025121</field>
+    <field name="parent_unittitles_ssm">Series II: Hollywood Studio Photography</field>
+    <field name="parent_unittitles_teim">Series II: Hollywood Studio Photography</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries: MADISON LACY</field>
+    <field name="unittitle_teim">Subseries: MADISON LACY</field>
+    <field name="unitdate_inclusive_teim">1937-1946</field>
+    <field name="scopecontent_teim">This subseries consists of photos by Madison S. Lacy (1898-1978), an American Hollywood studio photographer active from the late 1910s to the 1970s. Subjects include actors Eddie Albert, James Cagney, Signe Hasso, Ian Hunter, Jackie Oakey, Martha Raye, and Thomas Mitchell.
+There are a number of publicity photos for the films "Three Cheers for the Irish," "Four Wives," and "Navy Blues." These are interfiled alphabetically by the first actor listed on the photo.</field>
+    <field name="ref_ssi">aspace_6b399f519a43fe76cab1e9aa736f485c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series II: Hollywood Studio Photography</field>
+    <field name="series_si">Series II: Hollywood Studio Photography &gt;&gt; Subseries: MADISON LACY</field>
+    <field name="heading_ssm">Subseries: MADISON LACY</field>
+    <field name="unitdate_ssm">Inclusive, 1937-1946</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">124</field>
+  </doc>
+</add>

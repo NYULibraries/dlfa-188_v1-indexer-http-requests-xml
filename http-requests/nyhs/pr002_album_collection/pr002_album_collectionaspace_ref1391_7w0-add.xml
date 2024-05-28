@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1391_7w0</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Old Times in the Bronx; A collection of photographs 1883-1904, with a guide by Howard Masten Canoune. New York : 1926.</field>
+    <field name="unittitle_teim">Old Times in the Bronx; A collection of photographs 1883-1904, with a guide by Howard Masten Canoune. New York : 1926.</field>
+    <field name="unitdate_normal_ssm">1883/1904</field>
+    <field name="unitdate_normal_teim">1883/1904</field>
+    <field name="unitdate_normal_sim">1883/1904</field>
+    <field name="unitdate_inclusive_teim">1883-1904</field>
+    <field name="scopecontent_teim">Old Tremont, 1883-1903; Old Mount Hope, 1884-1904; Echo Park and Burnside Avenue, 1891-1899; Claremont Park and Mount Eden, 1892-1904; Brown's Woods, 1890; Washington Bridge and High Bridge, 1890-1891; New York University and the Hall of Fame, 1893; Madison Avenue and Forty First Street, Bethesda Fountain and the Ramble in Central Park, 1891; Crotona Park and the Indian Lake, 1891; The Bronx River from West Farms to Lorillard's, 1891-1893; views along the Bronx River are an area now in the New York Botanical Garden.</field>
+    <field name="ref_ssi">aspace_ref1391_7w0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 105, Volume: 398</field>
+    <field name="location_ssm">Volume: 398</field>
+    <field name="location_si">Volume: 398</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Old Times in the Bronx; A collection of photographs 1883-1904, with a guide by Howard Masten Canoune. New York : 1926.</field>
+    <field name="heading_ssm">Old Times in the Bronx; A collection of photographs 1883-1904, with a guide by Howard Masten Canoune. New York : 1926.</field>
+    <field name="unitdate_start_sim">1883</field>
+    <field name="unitdate_start_ssm">1883</field>
+    <field name="unitdate_start_si">1883</field>
+    <field name="unitdate_end_sim">1904</field>
+    <field name="unitdate_end_ssm">1904</field>
+    <field name="unitdate_end_si">1904</field>
+    <field name="unitdate_ssm">Inclusive, 1883-1904</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">464</field>
+  </doc>
+</add>

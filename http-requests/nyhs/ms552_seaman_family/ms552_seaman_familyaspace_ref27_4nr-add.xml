@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms552_seaman_familyaspace_ref27_4nr</field>
+    <field name="ead_ssi">ms552_seaman_family</field>
+    <field name="parent_ssi">aspace_ref16_oup</field>
+    <field name="parent_ssm">aspace_ref16_oup</field>
+    <field name="parent_unittitles_ssm">Series I. Freeman/Van Horn Family Correspondence, 1836-1916</field>
+    <field name="parent_unittitles_teim">Series I. Freeman/Van Horn Family Correspondence, 1836-1916</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Seaman Family Papers</field>
+    <field name="collection_ssm">Seaman Family Papers</field>
+    <field name="collection_unitid_ssm">MS 552</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Miscellaneous Freeman Family Correspondence</field>
+    <field name="unittitle_teim">Miscellaneous Freeman Family Correspondence</field>
+    <field name="unitdate_teim">1858-1903</field>
+    <field name="ref_ssi">aspace_ref27_4nr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Seaman Family Papers</field>
+    <field name="collection_unitid_teim">MS 552</field>
+    <field name="series_sim">Series I. Freeman/Van Horn Family Correspondence, 1836-1916</field>
+    <field name="series_si">Series I. Freeman/Van Horn Family Correspondence, 1836-1916 &gt;&gt; Miscellaneous Freeman Family Correspondence</field>
+    <field name="heading_ssm">Miscellaneous Freeman Family Correspondence</field>
+    <field name="unitdate_ssm">1858-1903</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

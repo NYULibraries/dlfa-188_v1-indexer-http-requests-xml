@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms116_city_clubaspace_97c9652894df6c69b380dde2d02263e5</field>
+    <field name="ead_ssi">ms116_city_club</field>
+    <field name="parent_ssi">aspace_546569e03041dba6d7c39b38cee79a2f</field>
+    <field name="parent_ssm">aspace_546569e03041dba6d7c39b38cee79a2f</field>
+    <field name="parent_unittitles_ssm">Series I. Bound Minutes Books</field>
+    <field name="parent_unittitles_teim">Series I. Bound Minutes Books</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">City Club of New York records</field>
+    <field name="collection_ssm">City Club of New York records</field>
+    <field name="collection_unitid_ssm">MS 116</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Minutes of the Board of Trustees</field>
+    <field name="unittitle_teim">Minutes of the Board of Trustees</field>
+    <field name="unitdate_inclusive_teim">1913</field>
+    <field name="scopecontent_teim">Includes report on Interborough Transit Company contract, correspondence regarding closing of Savoy and Dewey theatres by Fire Commissioner, correspondence to Fire Commissioner regarding the Carnegie Lyceum's lack of exits and map of theatre, correspondence regarding incorporation and leasing of Century Opera House for popular opera, memorandum for preservation of St. John's Chapel, correspondence regarding removal of elevated railway and hand drawn maps.</field>
+    <field name="ref_ssi">aspace_97c9652894df6c69b380dde2d02263e5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: CC-3, Volume: 10</field>
+    <field name="location_ssm">Volume: 10</field>
+    <field name="location_si">Volume: 10</field>
+    <field name="collection_teim">City Club of New York records</field>
+    <field name="collection_unitid_teim">MS 116</field>
+    <field name="series_sim">Series I. Bound Minutes Books</field>
+    <field name="series_si">Series I. Bound Minutes Books &gt;&gt; Minutes of the Board of Trustees</field>
+    <field name="heading_ssm">Minutes of the Board of Trustees</field>
+    <field name="unitdate_ssm">Inclusive, 1913</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

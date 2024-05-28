@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr100_maritime_history_collectionaspace_ref724_ydu</field>
+    <field name="ead_ssi">pr100_maritime_history_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Maritime History Collection</field>
+    <field name="collection_ssm">Maritime History Collection</field>
+    <field name="collection_unitid_ssm">PR 100</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV: Oversize Flat files</field>
+    <field name="unittitle_teim">Series IV: Oversize Flat files</field>
+    <field name="scopecontent_teim">Series IV, Oversize Flat Files, includes material larger than 30 x 40 inches.  Material is arranged by ship type.  The majority of images in this series depict steamboats.</field>
+    <field name="ref_ssi">aspace_ref724_ydu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Maritime History Collection</field>
+    <field name="collection_unitid_teim">PR 100</field>
+    <field name="series_si">Series IV: Oversize Flat files</field>
+    <field name="heading_ssm">Series IV: Oversize Flat files</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">471</field>
+  </doc>
+</add>

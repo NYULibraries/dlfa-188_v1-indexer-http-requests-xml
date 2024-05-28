@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr422_arad_911_memorialaspace_de1ac48f8c60da1b14cf6c8acc8a50e1</field>
+    <field name="ead_ssi">pr422_arad_911_memorial</field>
+    <field name="parent_ssi">aspace_73f7295b09927696701baf645b392081</field>
+    <field name="parent_ssm">aspace_825ee8bec1e759b0d0f13717411ff39e</field>
+    <field name="parent_ssm">aspace_73f7295b09927696701baf645b392081</field>
+    <field name="parent_unittitles_ssm">Series II: Digital Material</field>
+    <field name="parent_unittitles_ssm">Subseries II.A: Digital Files</field>
+    <field name="parent_unittitles_teim">Series II: Digital Material</field>
+    <field name="parent_unittitles_teim">Subseries II.A: Digital Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Michael Arad 9/11 Memorial papers</field>
+    <field name="collection_ssm">Michael Arad 9/11 Memorial papers</field>
+    <field name="collection_unitid_ssm">PR 422</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">61_RAMFS_Presentation</field>
+    <field name="unittitle_teim">61_RAMFS_Presentation</field>
+    <field name="unitdate_inclusive_teim">2004</field>
+    <field name="ref_ssi">aspace_de1ac48f8c60da1b14cf6c8acc8a50e1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Digital-Folder: PR 422</field>
+    <field name="location_si">Digital-Folder: PR 422</field>
+    <field name="collection_teim">Michael Arad 9/11 Memorial papers</field>
+    <field name="collection_unitid_teim">PR 422</field>
+    <field name="series_sim">Series II: Digital Material</field>
+    <field name="series_sim">Subseries II.A: Digital Files</field>
+    <field name="series_si">Series II: Digital Material &gt;&gt; Subseries II.A: Digital Files &gt;&gt; 61_RAMFS_Presentation</field>
+    <field name="heading_ssm">61_RAMFS_Presentation</field>
+    <field name="unitdate_ssm">Inclusive, 2004</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">188</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg21aspace_ref19_o6c</field>
+    <field name="ead_ssi">nyhs_archives_rg21</field>
+    <field name="parent_ssi">aspace_ref11_ovv</field>
+    <field name="parent_ssm">aspace_ref11_ovv</field>
+    <field name="parent_unittitles_ssm">Series I. Collection Descriptions &amp;amp; Inventories</field>
+    <field name="parent_unittitles_teim">Series I. Collection Descriptions &amp;amp; Inventories</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Library Department records</field>
+    <field name="collection_ssm">New-York Historical Society Library Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 21</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.A. Descriptions Prepared by N-YHS</field>
+    <field name="unittitle_teim">Subseries I.A. Descriptions Prepared by N-YHS</field>
+    <field name="unitdate_teim">1815?-2003</field>
+    <field name="scopecontent_teim">The subseries includes primarily manuscript form inventories, catalogues and other material describing the content of N-YHS's library collections. The subseries includes many standalone documents from the nineteenth century, such as John Delafield's 1833 catalogue of books in the library and lists of manuscripts and maps from the 1820s. </field>
+    <field name="scopecontent_teim">Material from the twentieth century ranges beyond inventories to include broader descriptions of the library collections, working files of cataloging and other projects involving collection descriptions, bibliographies and guides to the collection. These files include, among others,  records of the collections sent outside of New York City for safekeeping during World War II, the index to a comic book collection deaccessioned in the 1970s, annotated typescripts of Arthur J. Breton's  Guide to the Manuscript Collections of N-YHS, and the survey/inventory sheets from the NEH-funded project to catalog N-YHS's maps (1989-1994 ). In addition to the map project, several other cataloging or other collection classification and control projects from the 1980s-1990s are documented in the subseries. The container list includes reference to the specific descriptive documents in the files.</field>
+    <field name="ref_ssi">aspace_ref19_o6c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Library Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 21</field>
+    <field name="series_sim">Series I. Collection Descriptions &amp;amp; Inventories</field>
+    <field name="series_si">Series I. Collection Descriptions &amp;amp; Inventories &gt;&gt; Subseries I.A. Descriptions Prepared by N-YHS</field>
+    <field name="heading_ssm">Subseries I.A. Descriptions Prepared by N-YHS</field>
+    <field name="unitdate_ssm">1815?-2003</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

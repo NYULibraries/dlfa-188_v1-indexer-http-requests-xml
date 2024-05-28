@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms389_fred_lockleyaspace_ref98_upk</field>
+    <field name="ead_ssi">ms389_fred_lockley</field>
+    <field name="parent_ssi">aspace_ref76_ccb</field>
+    <field name="parent_ssm">aspace_ref76_ccb</field>
+    <field name="parent_unittitles_ssm">Single Folder Series</field>
+    <field name="parent_unittitles_teim">Single Folder Series</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Fred Lockley Papers</field>
+    <field name="collection_ssm">Fred Lockley Papers</field>
+    <field name="collection_unitid_ssm">MS 389</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Series XI. Clippings, 1901-1954</field>
+    <field name="unittitle_teim">Series XI. Clippings, 1901-1954</field>
+    <field name="scopecontent_teim">This series contains newspaper clippings, including copies of Lockley's Oregon Journal column "Lockley's Impressions," and the obituary of Frederic E. Lockley.</field>
+    <field name="title_teim">Oregon Journal</field>
+    <field name="title_ssm">Oregon Journal</field>
+    <field name="ref_ssi">aspace_ref98_upk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Fred Lockley Papers</field>
+    <field name="collection_unitid_teim">MS 389</field>
+    <field name="series_sim">Single Folder Series</field>
+    <field name="series_si">Single Folder Series &gt;&gt; Series XI. Clippings, 1901-1954</field>
+    <field name="heading_ssm">Series XI. Clippings, 1901-1954</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">71</field>
+  </doc>
+</add>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref830_9ju</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_ssm">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_unittitles_ssm">Subjects</field>
+    <field name="parent_unittitles_teim">Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Subjects--Expositions and fairs</field>
+    <field name="unittitle_teim">Subjects--Expositions and fairs</field>
+    <field name="unitdate_normal_ssm">1900/1900</field>
+    <field name="unitdate_normal_teim">1900/1900</field>
+    <field name="unitdate_normal_sim">1900/1900</field>
+    <field name="unitdate_inclusive_teim">[1900]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0816</field>
+    <field name="scopecontent_teim">Cows at a county fair.</field>
+    <field name="scopecontent_teim">2 items</field>
+    <field name="ref_ssi">aspace_ref830_9ju</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 76</field>
+    <field name="location_si">Box: 76</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Subjects</field>
+    <field name="series_si">Subjects &gt;&gt; Subjects--Expositions and fairs</field>
+    <field name="heading_ssm">Subjects--Expositions and fairs</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">1900</field>
+    <field name="unitdate_end_ssm">1900</field>
+    <field name="unitdate_end_si">1900</field>
+    <field name="unitdate_ssm">Inclusive, [1900]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">818</field>
+  </doc>
+</add>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms523_john_rogers_familyaspace_ref54_6im</field>
+    <field name="ead_ssi">ms523_john_rogers_family</field>
+    <field name="parent_ssi">aspace_ref53_xei</field>
+    <field name="parent_ssm">aspace_ref53_xei</field>
+    <field name="parent_unittitles_ssm">Series II: Papers of the Rogers Family</field>
+    <field name="parent_unittitles_teim">Series II: Papers of the Rogers Family</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Rogers Family Papers</field>
+    <field name="collection_ssm">Rogers Family Papers</field>
+    <field name="collection_unitid_ssm">MS 523</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I: John Rogers, Jr. Family Papers</field>
+    <field name="unittitle_teim">Subseries I: John Rogers, Jr. Family Papers</field>
+    <field name="unitdate_normal_ssm">1916/1936</field>
+    <field name="unitdate_normal_teim">1916/1936</field>
+    <field name="unitdate_normal_sim">1916/1936</field>
+    <field name="unitdate_inclusive_teim">1848-1971</field>
+    <field name="scopecontent_teim">This subseries consists primarily of correspondence, but also diaries, pictures, and financial documents created or received by immediate family members of John Rogers, Jr. This chiefly includes his children Alexander Parker, David Francis, Derby Francis, wife Harriet M. F. Rogers, father John Rogers, Sr., mother Sarah Ellen Derby Rogers, and siblings. Correspondence and personal papers are arranged alphabetically by folder and chronologically within each folder and subject. Many of the family members have just a few records included in the collection. However, those featured more prominently are Derby Francis Rogers, Harriet Moore Francis Rogers, Katherine R. Rogers, and John Rogers, Sr. Derby F. Rogers and sister Katherine R. Rogers both received and wrote much correspondence about their father's work after he passed, supplying information for exhibitions and signing legal contracts of sale or donation. Additionally, both brother and sister heavily pursued knowledge of their ancestry after John Rogers, Jr.'s death in 1904.</field>
+    <field name="scopecontent_teim">The correspondence of Harriet Moore Francis Rogers (often called Hattie) is largely comprised of letters to and from her mother, Catherine Rebecca Jewett Francis, sisters-in-law, and friends. Harriet M. F. Rogers' diary includes favored quotes by various poets and authors. The correspondence of John Rogers, Sr. most prominently includes letters written to his wife Sarah Ellen Derby (often referred to as Ellen), and the letters of John Rogers, Sr.'s family include communication amongst siblings and mother Sarah Ellen Derby.</field>
+    <field name="ref_ssi">aspace_ref54_6im</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Rogers Family Papers</field>
+    <field name="collection_unitid_teim">MS 523</field>
+    <field name="series_sim">Series II: Papers of the Rogers Family</field>
+    <field name="series_si">Series II: Papers of the Rogers Family &gt;&gt; Subseries I: John Rogers, Jr. Family Papers</field>
+    <field name="heading_ssm">Subseries I: John Rogers, Jr. Family Papers</field>
+    <field name="unitdate_start_sim">1916</field>
+    <field name="unitdate_start_ssm">1916</field>
+    <field name="unitdate_start_si">1916</field>
+    <field name="unitdate_end_sim">1936</field>
+    <field name="unitdate_end_ssm">1936</field>
+    <field name="unitdate_end_si">1936</field>
+    <field name="unitdate_ssm">Inclusive, 1848-1971</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">46</field>
+  </doc>
+</add>

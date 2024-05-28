@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2916_graham_windhamaspace_ref14_tlm</field>
+    <field name="ead_ssi">ms2916_graham_windham</field>
+    <field name="parent_ssi">aspace_ref10_d80</field>
+    <field name="parent_ssm">aspace_ref10_d80</field>
+    <field name="parent_unittitles_ssm">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="parent_unittitles_teim">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Graham Windham Records</field>
+    <field name="collection_ssm">Graham Windham Records</field>
+    <field name="collection_unitid_ssm">MS 2916</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.3 - Annual Reports 1806-1977</field>
+    <field name="unittitle_teim">Subseries I.3 - Annual Reports 1806-1977</field>
+    <field name="unitdate_normal_ssm">1806/1977</field>
+    <field name="unitdate_normal_teim">1806/1977</field>
+    <field name="unitdate_normal_sim">1806/1977</field>
+    <field name="unitdate_inclusive_teim">1806-1977</field>
+    <field name="scopecontent_teim">The subseries contains bound volumes and loose copies of annual reports of the Orphan Asylum Society (later Graham School of the Orphan Asylum Society, and then Graham Home for Children), 1806-1977.  Bound volumes are arranged first, followed by loose copies. 
+ 
+There are no loose copies of annual reports from 1824-1832, and there are no copies in any form of annual reports from 1908, 1937, 1942, 1947-1948, 1950-1957, 1960-1964, 1968-1969, 1972, and 1974.</field>
+    <field name="scopecontent_teim">Some of the early annual reports include the organization's constitution, by-laws, and minutes.  One bound volume of annual reports has been bound with two speeches from 1821 and 1823.  An index for the annual reports, as well as a summary of each annual report, is available to researchers at the New-York Historical Society manuscript department.</field>
+    <field name="scopecontent_teim">For annual reports of the Society for the Relief of Half Orphans and Destitute Children/Windham Child Care, please see Series II.</field>
+    <field name="scopecontent_teim">For annual reports of Graham Windham, formed in 1977 by the merger of the Graham Home and the Windham Child Care, please see Series III.</field>
+    <field name="ref_ssi">aspace_ref14_tlm</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Graham Windham Records</field>
+    <field name="collection_unitid_teim">MS 2916</field>
+    <field name="series_sim">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977)</field>
+    <field name="series_si">Series I - Orphan Asylum Society/Graham Home for Children, 1806-1981 (bulk 1806-1977) &gt;&gt; Subseries I.3 - Annual Reports 1806-1977</field>
+    <field name="heading_ssm">Subseries I.3 - Annual Reports 1806-1977</field>
+    <field name="unitdate_start_sim">1806</field>
+    <field name="unitdate_start_ssm">1806</field>
+    <field name="unitdate_start_si">1806</field>
+    <field name="unitdate_end_sim">1977</field>
+    <field name="unitdate_end_ssm">1977</field>
+    <field name="unitdate_end_si">1977</field>
+    <field name="unitdate_ssm">Inclusive, 1806-1977</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">35</field>
+  </doc>
+</add>

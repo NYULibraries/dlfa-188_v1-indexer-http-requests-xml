@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr274_ben_brown_ww2_drawingsaspace_ref28_q3i</field>
+    <field name="ead_ssi">pr274_ben_brown_ww2_drawings</field>
+    <field name="parent_ssi">aspace_ref11_sew</field>
+    <field name="parent_ssm">aspace_ref11_sew</field>
+    <field name="parent_unittitles_ssm">Series I: Drawings</field>
+    <field name="parent_unittitles_teim">Series I: Drawings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ben Brown World War II drawings collection</field>
+    <field name="collection_ssm">Ben Brown World War II drawings collection</field>
+    <field name="collection_unitid_ssm">PR 274</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Still Lifes and Studies - Italy</field>
+    <field name="unittitle_teim">Still Lifes and Studies - Italy</field>
+    <field name="unitdate_teim">1944, undated</field>
+    <field name="ref_ssi">aspace_ref28_q3i</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 2, Folder: 19</field>
+    <field name="location_ssm">Folder: 19</field>
+    <field name="location_si">Folder: 19</field>
+    <field name="collection_teim">Ben Brown World War II drawings collection</field>
+    <field name="collection_unitid_teim">PR 274</field>
+    <field name="series_sim">Series I: Drawings</field>
+    <field name="series_si">Series I: Drawings &gt;&gt; Still Lifes and Studies - Italy</field>
+    <field name="heading_ssm">Still Lifes and Studies - Italy</field>
+    <field name="unitdate_ssm">1944, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">18</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref845_yi4</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_ssm">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_unittitles_ssm">Subjects</field>
+    <field name="parent_unittitles_teim">Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Subjects--Occupations</field>
+    <field name="unittitle_teim">Subjects--Occupations</field>
+    <field name="unitdate_inclusive_teim">[1860-1880]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0831</field>
+    <field name="scopecontent_teim">Group of men, "Thimble riggers"; men outdoors, working with hammers and anvils; millers sitting among bags and baskets of grain and corn; man on the street with "fortune telling" birds; interior of printing shop.</field>
+    <field name="scopecontent_teim">6 items</field>
+    <field name="ref_ssi">aspace_ref845_yi4</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 78</field>
+    <field name="location_si">Box: 78</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Subjects</field>
+    <field name="series_si">Subjects &gt;&gt; Subjects--Occupations</field>
+    <field name="heading_ssm">Subjects--Occupations</field>
+    <field name="unitdate_ssm">Inclusive, [1860-1880]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">833</field>
+  </doc>
+</add>

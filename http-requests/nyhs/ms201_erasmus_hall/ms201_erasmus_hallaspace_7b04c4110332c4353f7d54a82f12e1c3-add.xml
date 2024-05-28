@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_7b04c4110332c4353f7d54a82f12e1c3</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_c2a4797ff31fe399702af61c900ddcaa</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_c2a4797ff31fe399702af61c900ddcaa</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Currency</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Currency</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Colonial currency]</field>
+    <field name="unittitle_teim">[Colonial currency]</field>
+    <field name="unitdate_inclusive_teim">1775, 1776</field>
+    <field name="scopecontent_teim">•	Fifteen shilling note issued by the Colony of New Jersey, 20 Feb. 1776. Signed by John Hart of Hopewell, N.J., a signer of the Declaration of Independence.
+•	"Continental Currency" of "The United Colonies," entitling the bearer to "eight Spanish milled dollars," and dated Nov. 29, 1775, at Philadelphia.
+•	"State of New York, New York Currency," good for three Spanish milled dollars. Aug. 13, 1776.</field>
+    <field name="ref_ssi">aspace_7b04c4110332c4353f7d54a82f12e1c3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-6a, Folder: Three pieces of Currency . . .</field>
+    <field name="location_ssm">Folder: Three pieces of Currency . . .</field>
+    <field name="location_si">Folder: Three pieces of Currency . . .</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Currency</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Currency &gt;&gt; [Colonial currency]</field>
+    <field name="heading_ssm">[Colonial currency]</field>
+    <field name="unitdate_ssm">Inclusive, 1775, 1776</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">127</field>
+  </doc>
+</add>

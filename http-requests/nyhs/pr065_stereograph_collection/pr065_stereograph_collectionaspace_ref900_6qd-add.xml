@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref900_6qd</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_f1506cecd849f9f6001ff439ad992055</field>
+    <field name="parent_ssm">aspace_f1506cecd849f9f6001ff439ad992055</field>
+    <field name="parent_unittitles_ssm">Comic and Sentimental</field>
+    <field name="parent_unittitles_teim">Comic and Sentimental</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Comic &amp;amp; Sentimental--Music and entertainments</field>
+    <field name="unittitle_teim">Comic &amp; Sentimental--Music and entertainments</field>
+    <field name="unitdate_teim">[1870]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0886</field>
+    <field name="scopecontent_teim">Music and entertainment: Carol singers; a choir singing and in a dispute, group arriving and surprising couple with a party, couple in a museum, wife pulling husband away from a classical-style sculpture of a woman.</field>
+    <field name="scopecontent_teim">9 items</field>
+    <field name="ref_ssi">aspace_ref900_6qd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 86</field>
+    <field name="location_si">Box: 86</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Comic and Sentimental</field>
+    <field name="series_si">Comic and Sentimental &gt;&gt; Comic &amp;amp; Sentimental--Music and entertainments</field>
+    <field name="heading_ssm">Comic &amp; Sentimental--Music and entertainments</field>
+    <field name="unitdate_ssm">[1870]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">889</field>
+  </doc>
+</add>

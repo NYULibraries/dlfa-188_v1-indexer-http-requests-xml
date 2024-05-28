@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_ref154_exr</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_ref141_shn</field>
+    <field name="parent_ssm">aspace_ref4_m0q</field>
+    <field name="parent_ssm">aspace_ref141_shn</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">
+      Letters: 1798 A-G
+    </field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">
+      Letters: 1798 A-G
+    </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letters: De Bauque</field>
+    <field name="unittitle_teim">Letters: De Bauque</field>
+    <field name="unitdate_teim">1798</field>
+    <field name="scopecontent_teim">This folder includes correspondence from the Brothers DeBauque to Isaac Hicks.  Included is a list of debits and credits between Epaphras Jones and the Brothers De Bauque.  There is also an "Articles of Agreement" document between Jones and De Bauque, and a French Language document.  There are also multiple accounts of sales.  Much of the correspondence is in regard to opening trade between the United States and France, as well as the goods, such as cotton, that were shipped between the two countries.  </field>
+    <field name="scopecontent_teim">Ships Mentioned: Thomas, Suffolk</field>
+    <field name="ref_ssi">aspace_ref154_exr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">
+      Letters: 1798 A-G
+    </field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; 
+      Letters: 1798 A-G
+     &gt;&gt; Letters: De Bauque</field>
+    <field name="heading_ssm">Letters: De Bauque</field>
+    <field name="unitdate_ssm">1798</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">72</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref4_s7o</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV - Officers and Trustees of the CAS - Correspondence and Other Materials</field>
+    <field name="unittitle_teim">Series IV - Officers and Trustees of the CAS - Correspondence and Other Materials</field>
+    <field name="unitdate_normal_ssm">1853/1959</field>
+    <field name="unitdate_normal_teim">1853/1959</field>
+    <field name="unitdate_normal_sim">1853/1959</field>
+    <field name="unitdate_inclusive_teim">1853-1959</field>
+    <field name="scopecontent_teim">This series is arranged in 5 subseries according to office:</field>
+    <field name="scopecontent_teim">IV.1 - Office of the Secretary</field>
+    <field name="scopecontent_teim">IV.2 - Office of the President</field>
+    <field name="scopecontent_teim">IV.3 - Office of the Treasurer/Assistant Treasurer</field>
+    <field name="scopecontent_teim">IV.4 - Mixed Officers and Other Executives</field>
+    <field name="scopecontent_teim">IV.5 - Trustees</field>
+    <field name="scopecontent_teim">Each subseries is further subdivided into sub-subseries by individuals holding the office. The materials in each sub-subseries are arranged chronologically. In most cases, materials are described at item-level. Correspondence is arranged most often by the recipient of the correspondence, although there are also some copies of outgoing correspondence. The collection does not provide a complete record of executive correspondence. Many letters were weeded out or lost over time.</field>
+    <field name="scopecontent_teim">The founder and first Secretary, Charles Loring Brace, is represented by more material than other officers in this series, including published books and a diary. All other executives and trustees are represented by correspondence and/or some miscellaneous material, including posthumous documents.</field>
+    <field name="scopecontent_teim">For reports, articles, and speeches written by the executives in this series, please see Series III.2-Reports. For photographs of executives and trustees in this series, please see Series XIII.1.</field>
+    <field name="scopecontent_teim">Note: Founder Charles Loring Brace is identified by that name in this collection. His son, who followed him as Secretary of CAS in 1890 and went by the same name or by C. Loring Brace or Loring Brace or C.L. Brace, is identified as Charles Loring Brace II for the purposes of this collection. </field>
+    <field name="ref_ssi">aspace_ref4_s7o</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_si">Series IV - Officers and Trustees of the CAS - Correspondence and Other Materials</field>
+    <field name="heading_ssm">Series IV - Officers and Trustees of the CAS - Correspondence and Other Materials</field>
+    <field name="unitdate_start_sim">1853</field>
+    <field name="unitdate_start_ssm">1853</field>
+    <field name="unitdate_start_si">1853</field>
+    <field name="unitdate_end_sim">1959</field>
+    <field name="unitdate_end_ssm">1959</field>
+    <field name="unitdate_end_si">1959</field>
+    <field name="unitdate_ssm">Inclusive, 1853-1959</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">354</field>
+  </doc>
+</add>

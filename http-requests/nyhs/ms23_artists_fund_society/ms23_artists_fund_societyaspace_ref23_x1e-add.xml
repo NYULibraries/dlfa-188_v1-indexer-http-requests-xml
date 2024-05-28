@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms23_artists_fund_societyaspace_ref23_x1e</field>
+    <field name="ead_ssi">ms23_artists_fund_society</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Artists' Fund Society records</field>
+    <field name="collection_ssm">Artists' Fund Society records</field>
+    <field name="collection_unitid_ssm">MS 23</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VI: Membership</field>
+    <field name="unittitle_teim">Series VI: Membership</field>
+    <field name="scopecontent_teim">Lists, nominations, honorary memberships, notifications of member deaths, and resignations all track the composition and structure of Artists' Fund Society membership over time. Additionally, death of members and fees lists, designation of benefits forms, will and estate documents, and receipts documenting benefit payments all demonstrate how assistance was administered to widows, children and families of deceased members.</field>
+    <field name="ref_ssi">aspace_ref23_x1e</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Artists' Fund Society records</field>
+    <field name="collection_unitid_teim">MS 23</field>
+    <field name="series_si">Series VI: Membership</field>
+    <field name="heading_ssm">Series VI: Membership</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">70</field>
+  </doc>
+</add>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr226_saint_meminaspace_ref14_jh6</field>
+    <field name="ead_ssi">pr226_saint_memin</field>
+    <field name="parent_ssi">aspace_ref13_623</field>
+    <field name="parent_ssm">aspace_ref13_623</field>
+    <field name="parent_unittitles_ssm">Series I: Portraits</field>
+    <field name="parent_unittitles_teim">Series I: Portraits</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Saint-Mémin Print Collection</field>
+    <field name="collection_ssm">Saint-Mémin Print Collection</field>
+    <field name="collection_unitid_ssm">PR 226</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I. Portrait Album</field>
+    <field name="unittitle_teim">Subseries I. Portrait Album</field>
+    <field name="scopecontent_teim">The Portrait album holds twenty-eight portraits, bound together in a small, leather-covered album. In general, these engravings were trimmed to their plate borders and pasted on to the album pages. There does not seem to be an order to the portraits; they have been listed in the container list in the order they appear in the album.</field>
+    <field name="scopecontent_teim">The portraits in the album are listed as they appear. Inscriptions are noted. </field>
+    <field name="ref_ssi">aspace_ref14_jh6</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Saint-Mémin Print Collection</field>
+    <field name="collection_unitid_teim">PR 226</field>
+    <field name="series_sim">Series I: Portraits</field>
+    <field name="series_si">Series I: Portraits &gt;&gt; Subseries I. Portrait Album</field>
+    <field name="heading_ssm">Subseries I. Portrait Album</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

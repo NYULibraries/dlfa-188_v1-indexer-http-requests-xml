@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms78_brown_brothers_harrimanaspace_ref1008_xyy</field>
+    <field name="ead_ssi">ms78_brown_brothers_harriman</field>
+    <field name="parent_ssi">aspace_ref610_u64</field>
+    <field name="parent_ssm">aspace_ref1_vi4</field>
+    <field name="parent_ssm">aspace_ref4_8hl</field>
+    <field name="parent_ssm">aspace_ref610_u64</field>
+    <field name="parent_unittitles_ssm">Series I. Historical Files (1699-1974)</field>
+    <field name="parent_unittitles_ssm">Subseries C. People Files (pre-1600s -1973)</field>
+    <field name="parent_unittitles_ssm">Subseries C.vi. Partners (pre-1600s - 1970)</field>
+    <field name="parent_unittitles_teim">Series I. Historical Files (1699-1974)</field>
+    <field name="parent_unittitles_teim">Subseries C. People Files (pre-1600s -1973)</field>
+    <field name="parent_unittitles_teim">Subseries C.vi. Partners (pre-1600s - 1970)</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brown Brothers Harriman records</field>
+    <field name="collection_ssm">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_ssm">MS 78</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">James Brown (1863-1935): personal and business correspondence</field>
+    <field name="unittitle_teim">James Brown (1863-1935): personal and business correspondence</field>
+    <field name="unitdate_normal_ssm">1918/1925</field>
+    <field name="unitdate_normal_teim">1918/1925</field>
+    <field name="unitdate_normal_sim">1918/1925</field>
+    <field name="unitdate_inclusive_teim">1918-1925</field>
+    <field name="ref_ssi">aspace_ref1008_xyy</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 65, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_teim">MS 78</field>
+    <field name="series_sim">Series I. Historical Files (1699-1974)</field>
+    <field name="series_sim">Subseries C. People Files (pre-1600s -1973)</field>
+    <field name="series_sim">Subseries C.vi. Partners (pre-1600s - 1970)</field>
+    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries C. People Files (pre-1600s -1973) &gt;&gt; Subseries C.vi. Partners (pre-1600s - 1970) &gt;&gt; James Brown (1863-1935): personal and business correspondence</field>
+    <field name="heading_ssm">James Brown (1863-1935): personal and business correspondence</field>
+    <field name="unitdate_start_sim">1918</field>
+    <field name="unitdate_start_ssm">1918</field>
+    <field name="unitdate_start_si">1918</field>
+    <field name="unitdate_end_sim">1925</field>
+    <field name="unitdate_end_ssm">1925</field>
+    <field name="unitdate_end_si">1925</field>
+    <field name="unitdate_ssm">Inclusive, 1918-1925</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1126</field>
+  </doc>
+</add>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr054_postcardaspace_ref342_40j</field>
+    <field name="ead_ssi">pr054_postcard</field>
+    <field name="parent_ssi">aspace_ref8_kng</field>
+    <field name="parent_ssm">aspace_ref8_kng</field>
+    <field name="parent_unittitles_ssm">Series IV. Subjects</field>
+    <field name="parent_unittitles_teim">Series IV. Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_ssm">PR 54</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;American History&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      American History
+    </field>
+    <field name="scopecontent_teim">General
+1492-1769
+1770-1783
+1784-1850
+1851-1897
+1898-1910
+1911-1919
+1920-1950
+1951-present
+Patriotic – Flags, seals, etc.</field>
+    <field name="ref_ssi">aspace_ref342_40j</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 89</field>
+    <field name="location_si">Box: 89</field>
+    <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_teim">PR 54</field>
+    <field name="series_sim">Series IV. Subjects</field>
+    <field name="series_si">Series IV. Subjects &gt;&gt; 
+      &lt;strong&gt;American History&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      American History
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">405</field>
+  </doc>
+</add>

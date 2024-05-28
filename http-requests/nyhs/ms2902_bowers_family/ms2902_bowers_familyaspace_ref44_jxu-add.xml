@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2902_bowers_familyaspace_ref44_jxu</field>
+    <field name="ead_ssi">ms2902_bowers_family</field>
+    <field name="parent_ssi">aspace_ref39_p8w</field>
+    <field name="parent_ssm">aspace_ref39_p8w</field>
+    <field name="parent_unittitles_ssm">Series IV: Surveys</field>
+    <field name="parent_unittitles_teim">Series IV: Surveys</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bowers family papers</field>
+    <field name="collection_ssm">Bowers family papers</field>
+    <field name="collection_unitid_ssm">MS 2902</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Oversized Diagrams and Maps</field>
+    <field name="unittitle_teim">Oversized Diagrams and Maps</field>
+    <field name="unitdate_normal_ssm">1791/1816</field>
+    <field name="unitdate_normal_teim">1791/1816</field>
+    <field name="unitdate_normal_sim">1791/1816</field>
+    <field name="unitdate_inclusive_teim">1791–1816, undated</field>
+    <field name="ref_ssi">aspace_ref44_jxu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: OS, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Bowers family papers</field>
+    <field name="collection_unitid_teim">MS 2902</field>
+    <field name="series_sim">Series IV: Surveys</field>
+    <field name="series_si">Series IV: Surveys &gt;&gt; Oversized Diagrams and Maps</field>
+    <field name="heading_ssm">Oversized Diagrams and Maps</field>
+    <field name="unitdate_start_sim">1791</field>
+    <field name="unitdate_start_ssm">1791</field>
+    <field name="unitdate_start_si">1791</field>
+    <field name="unitdate_end_sim">1816</field>
+    <field name="unitdate_end_ssm">1816</field>
+    <field name="unitdate_end_si">1816</field>
+    <field name="unitdate_ssm">Inclusive, 1791–1816, undated</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">54</field>
+  </doc>
+</add>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr052_portrait_collectionaspace_ref2_rxt</field>
+    <field name="ead_ssi">pr052_portrait_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society portrait collection</field>
+    <field name="collection_unitid_ssm">PR 52</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Individuals and Family Groups</field>
+    <field name="unittitle_teim">Series I. Individuals and Family Groups</field>
+    <field name="ref_ssi">aspace_ref2_rxt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society portrait collection</field>
+    <field name="collection_unitid_teim">PR 52</field>
+    <field name="series_si">Series I. Individuals and Family Groups</field>
+    <field name="heading_ssm">Series I. Individuals and Family Groups</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

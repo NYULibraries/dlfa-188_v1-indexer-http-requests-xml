@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref905_8am</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Schieffelin family and friends, Bar Harbor, Me., and Scarborough N.Y.]</field>
+    <field name="unittitle_teim">[Schieffelin family and friends, Bar Harbor, Me., and Scarborough N.Y.]</field>
+    <field name="unitdate_normal_ssm">1896/1896</field>
+    <field name="unitdate_normal_teim">1896/1896</field>
+    <field name="unitdate_normal_sim">1896/1896</field>
+    <field name="unitdate_inclusive_teim">1896</field>
+    <field name="scopecontent_teim">Photographs by Jay Schieffelin; cyanotypes and gelatin silver prints; children with ponies and tricycle; Miss McLane's class of children; group portrait of the Committee for "In the Hollow of his Hand" Mission; Lea McI. Luguer and Anne Low Pierrepont posing together on their engagement; Willie and Margaret Schieffelin with mother and sister Mary in baby carriage and other portraits; Moncure Robinson; woman with terrier; Schieffelin family at Woodlea in Scarborough, including woman on bicycle and children with goat cart; Edith and Ernesto on their engagement; Woodlea decorated for Edith's wedding; views of Beechwood, home of H. Walter Webb, Scarborough.</field>
+    <field name="ref_ssi">aspace_ref905_8am</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 41, Volume: 275</field>
+    <field name="location_ssm">Volume: 275</field>
+    <field name="location_si">Volume: 275</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Schieffelin family and friends, Bar Harbor, Me., and Scarborough N.Y.]</field>
+    <field name="heading_ssm">[Schieffelin family and friends, Bar Harbor, Me., and Scarborough N.Y.]</field>
+    <field name="unitdate_start_sim">1896</field>
+    <field name="unitdate_start_ssm">1896</field>
+    <field name="unitdate_start_si">1896</field>
+    <field name="unitdate_end_sim">1896</field>
+    <field name="unitdate_end_ssm">1896</field>
+    <field name="unitdate_end_si">1896</field>
+    <field name="unitdate_ssm">Inclusive, 1896</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">311</field>
+  </doc>
+</add>

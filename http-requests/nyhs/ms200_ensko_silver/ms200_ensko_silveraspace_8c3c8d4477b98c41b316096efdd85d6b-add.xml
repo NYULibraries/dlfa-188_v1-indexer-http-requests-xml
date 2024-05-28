@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_8c3c8d4477b98c41b316096efdd85d6b</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_fb030ab74d0c584e0de10afe96d0e2c1</field>
+    <field name="parent_ssm">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_ssm">aspace_fb030ab74d0c584e0de10afe96d0e2c1</field>
+    <field name="parent_unittitles_ssm">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries III.B. Stock Books and Other Inventories</field>
+    <field name="parent_unittitles_teim">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries III.B. Stock Books and Other Inventories</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Inventory Worksheets</field>
+    <field name="unittitle_teim">Inventory Worksheets</field>
+    <field name="unitdate_inclusive_teim">1954</field>
+    <field name="scopecontent_teim">Includes various worksheets and calculations related to inventory for 1954.</field>
+    <field name="ref_ssi">aspace_8c3c8d4477b98c41b316096efdd85d6b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 74</field>
+    <field name="location_si">Offsite-Box: 74</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series III. Inventories and Financial Records</field>
+    <field name="series_sim">Subseries III.B. Stock Books and Other Inventories</field>
+    <field name="series_si">Series III. Inventories and Financial Records &gt;&gt; Subseries III.B. Stock Books and Other Inventories &gt;&gt; Inventory Worksheets</field>
+    <field name="heading_ssm">Inventory Worksheets</field>
+    <field name="unitdate_ssm">Inclusive, 1954</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">84</field>
+  </doc>
+</add>

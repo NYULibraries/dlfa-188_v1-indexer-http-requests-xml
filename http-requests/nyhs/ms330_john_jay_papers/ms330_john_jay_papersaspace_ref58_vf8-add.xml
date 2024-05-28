@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms330_john_jay_papersaspace_ref58_vf8</field>
+    <field name="ead_ssi">ms330_john_jay_papers</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Jay papers</field>
+    <field name="collection_ssm">John Jay papers</field>
+    <field name="collection_unitid_ssm">MS 330</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VIII: Assorted Correspondence, Documents, and Notes </field>
+    <field name="unittitle_teim">Series VIII: Assorted Correspondence, Documents, and Notes </field>
+    <field name="unitdate_normal_ssm">1712/1863</field>
+    <field name="unitdate_normal_teim">1712/1863</field>
+    <field name="unitdate_normal_sim">1712/1863</field>
+    <field name="unitdate_inclusive_teim">1712-1863, undated</field>
+    <field name="scopecontent_teim">This series contains an array of materials. There is correspondence from Jay as well as correspondence from his family. There are also ephemera items as well as a stay of execution from 1799 when Jay was governor of New York. Of particular interest is the draft of  Federalist #64. Along with Alexander Hamilton and James Madison, Jay wrote a number of essays meant to persuade Americans to adopt the Constitution. At the time, the essays were published under the name Publius. Before his death, Alexander Hamilton wrote a list out identifying the number essay with its author. He indicated that Jay had written #64. Later, Madison claimed to have written it. In 1863, Jay's grandson, another John Jay, was going through family belongings and found a draft of #64 tied up in old copies of the  Independent Journal, which was a newspaper in which the essays had originally been printed. Wanting to set the record straight, John Jay, grandson, sent the draft to the New-York Historical Society. The draft itself is now a part of the bound volume collection under BV Jay, John, but this series contains photostat copies of the draft.</field>
+    <field name="ref_ssi">aspace_ref58_vf8</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Jay papers</field>
+    <field name="collection_unitid_teim">MS 330</field>
+    <field name="series_si">Series VIII: Assorted Correspondence, Documents, and Notes </field>
+    <field name="heading_ssm">Series VIII: Assorted Correspondence, Documents, and Notes </field>
+    <field name="unitdate_start_sim">1712</field>
+    <field name="unitdate_start_ssm">1712</field>
+    <field name="unitdate_start_si">1712</field>
+    <field name="unitdate_end_sim">1863</field>
+    <field name="unitdate_end_ssm">1863</field>
+    <field name="unitdate_end_si">1863</field>
+    <field name="unitdate_ssm">Inclusive, 1712-1863, undated</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">46</field>
+  </doc>
+</add>

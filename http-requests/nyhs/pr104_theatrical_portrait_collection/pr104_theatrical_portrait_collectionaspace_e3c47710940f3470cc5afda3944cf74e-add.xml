@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr104_theatrical_portrait_collectionaspace_e3c47710940f3470cc5afda3944cf74e</field>
+    <field name="ead_ssi">pr104_theatrical_portrait_collection</field>
+    <field name="parent_ssi">aspace_4ee7a95f47aeabce74358a3e6e0d72db</field>
+    <field name="parent_ssm">aspace_96e4688cd5744e2ae90b54fa4d4725ee</field>
+    <field name="parent_ssm">aspace_4ee7a95f47aeabce74358a3e6e0d72db</field>
+    <field name="parent_unittitles_ssm">Series I. Individuals</field>
+    <field name="parent_unittitles_ssm">Subseries I.A. Individuals (small format)</field>
+    <field name="parent_unittitles_teim">Series I. Individuals</field>
+    <field name="parent_unittitles_teim">Subseries I.A. Individuals (small format)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_ssm">PR 104</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Individuals (small) "T"</field>
+    <field name="unittitle_teim">Individuals (small) "T"</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">T miscellaneous
+Taber, Robert
+Taylor
+Tearle, Osmond
+Tempest, Marie
+Templeton, Fay (includes cabinet card, gift of the La Porte County Historical Society Museum, accession no. PPAC.2022.020)
+Terry, Ellen (includes cabinet card, gift of the La Porte County Historical Society Museum, accession no. PPAC.2022.020)
+Thomas
+Thompson, Lydia
+Thorne, Charles R. Jr.
+Tree, Herbert Beerbohm, Sir</field>
+    <field name="ref_ssi">aspace_e3c47710940f3470cc5afda3944cf74e</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 37</field>
+    <field name="location_si">Offsite-Box: 37</field>
+    <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_teim">PR 104</field>
+    <field name="series_sim">Series I. Individuals</field>
+    <field name="series_sim">Subseries I.A. Individuals (small format)</field>
+    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.A. Individuals (small format) &gt;&gt; Individuals (small) "T"</field>
+    <field name="heading_ssm">Individuals (small) "T"</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

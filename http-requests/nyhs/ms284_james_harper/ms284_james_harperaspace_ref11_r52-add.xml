@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms284_james_harperaspace_ref11_r52</field>
+    <field name="ead_ssi">ms284_james_harper</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">James Harper Papers</field>
+    <field name="collection_ssm">James Harper Papers</field>
+    <field name="collection_unitid_ssm">MS 284</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence to Harper</field>
+    <field name="unittitle_teim">Correspondence to Harper</field>
+    <field name="unitdate_normal_ssm">1845/1855</field>
+    <field name="unitdate_normal_teim">1845/1855</field>
+    <field name="unitdate_normal_sim">1845/1855</field>
+    <field name="unitdate_inclusive_teim">1845-1847, 1855</field>
+    <field name="ref_ssi">aspace_ref11_r52</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">James Harper Papers</field>
+    <field name="collection_unitid_teim">MS 284</field>
+    <field name="series_si">Correspondence to Harper</field>
+    <field name="heading_ssm">Correspondence to Harper</field>
+    <field name="unitdate_start_sim">1845</field>
+    <field name="unitdate_start_ssm">1845</field>
+    <field name="unitdate_start_si">1845</field>
+    <field name="unitdate_end_sim">1855</field>
+    <field name="unitdate_end_ssm">1855</field>
+    <field name="unitdate_end_si">1855</field>
+    <field name="unitdate_ssm">Inclusive, 1845-1847, 1855</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

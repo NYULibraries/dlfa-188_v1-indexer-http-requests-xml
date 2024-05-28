@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref251_h47</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--Hudson River</field>
+    <field name="unittitle_teim">New York--Hudson River</field>
+    <field name="unitdate_inclusive_teim">[1859-1940]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0237</field>
+    <field name="scopecontent_teim">Views along the Hudson river, primarily in and near the Highlands: general views of the river, valley and mountains including a view with a basket of laundry in the foreground; the Highlands, including Crow's Nest, Storm King; Bulls Head and Break Neck; the Hudson River Railroad, including a view with the photographer's dark tent visible, and a winter view with snow; women on the banks of the river; roads along the river and in the valley; a building with a sign for wholesale grocers; stone wall; boats moored at stakes at Moodna, and covered bridge over the Moodna; photographer in a boat with a stereoscopic camera; boat tied up at Stony Point; man with camera, Break Neck Tunnel in the background; view from Breakneck with Polypus island in the distance; Clifton Point tunnel; S.W. view from Wm. B. Astor's house; on the Hudson near Poughkeepsie, bridge visible in the distance; Hudson River just below Ft. Edward; Buttermilk Falls, Parry House and old mill; a mansion with castelated towers; steamboat towing raft of barges; man fishing at creek; unidentified house, garden and conservatory; "moonlight on the Hudson"</field>
+    <field name="scopecontent_teim">72 items</field>
+    <field name="ref_ssi">aspace_ref251_h47</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 24</field>
+    <field name="location_si">Box: 24</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--Hudson River</field>
+    <field name="heading_ssm">New York--Hudson River</field>
+    <field name="unitdate_ssm">Inclusive, [1859-1940]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">238</field>
+  </doc>
+</add>

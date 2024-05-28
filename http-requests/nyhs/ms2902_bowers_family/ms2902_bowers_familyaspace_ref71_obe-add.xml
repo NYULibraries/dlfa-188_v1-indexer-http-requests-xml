@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2902_bowers_familyaspace_ref71_obe</field>
+    <field name="ead_ssi">ms2902_bowers_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Bowers family papers</field>
+    <field name="collection_ssm">Bowers family papers</field>
+    <field name="collection_unitid_ssm">MS 2902</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VIII: Ephemera</field>
+    <field name="unittitle_teim">Series VIII: Ephemera</field>
+    <field name="unitdate_normal_ssm">1813/1933</field>
+    <field name="unitdate_normal_teim">1813/1933</field>
+    <field name="unitdate_normal_sim">1813/1933</field>
+    <field name="unitdate_inclusive_teim">1813–1933, undated</field>
+    <field name="scopecontent_teim">This series consists of a variety of materials that show various aspects of the Bowers family's everyday life. There are newspaper clippings, some that are related to the family and others that are not. There are calling cards, a greeting card, and even a recipe for sponge cake.</field>
+    <field name="ref_ssi">aspace_ref71_obe</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bowers family papers</field>
+    <field name="collection_unitid_teim">MS 2902</field>
+    <field name="series_si">Series VIII: Ephemera</field>
+    <field name="heading_ssm">Series VIII: Ephemera</field>
+    <field name="unitdate_start_sim">1813</field>
+    <field name="unitdate_start_ssm">1813</field>
+    <field name="unitdate_start_si">1813</field>
+    <field name="unitdate_end_sim">1933</field>
+    <field name="unitdate_end_ssm">1933</field>
+    <field name="unitdate_end_si">1933</field>
+    <field name="unitdate_ssm">Inclusive, 1813–1933, undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">81</field>
+  </doc>
+</add>

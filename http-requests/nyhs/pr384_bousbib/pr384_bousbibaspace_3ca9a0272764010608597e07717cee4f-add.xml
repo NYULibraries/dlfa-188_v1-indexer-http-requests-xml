@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_3ca9a0272764010608597e07717cee4f</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_ssm">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_unittitles_ssm">Series I: Broadway Theatrical Photography</field>
+    <field name="parent_unittitles_teim">Series I: Broadway Theatrical Photography</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm"> Subseries: APEDA STUDIO</field>
+    <field name="unittitle_teim"> Subseries: APEDA STUDIO</field>
+    <field name="unitdate_inclusive_teim">1910-1934</field>
+    <field name="scopecontent_teim">This subseries consists of Broadway theatrical publicity, production, and portrait photography produced by Apeda Studio, NY from 1910-1934. Subjects include Jimmy Durante, George Burns and Gracie Allen, Josephine McNellis, Will Mahoney, Blanche Ring, and Helen Vreeland.</field>
+    <field name="bioghist_teim">Apeda Studio was founded in 1906 by partners Alexander W. Dreyfoos  (1877-1952) and Henry Obstfield. The studio was originally located at 33 West 34th Street, and Dreyfoos was the head photographer, and Obstfield managed the studio.  Apeda Studios focused on sports, theater and celebrity portraiture.
+In addition to shooting portraits, Apeda Studios specialized in reproducing uncopyrighted images by other photographers under its own trade name. If other photographers had images that they could not reproduce and market themselves,  or took a photograph that could not be copyrighted because there was no contract between photographer and sitter, Apeda would secure a print, remove whatever name or trademark appeared on the print and affixed their own Apeda signature to the copies it produced. Apeda would also buy up the entire production archive of photographers who had business difficulties or were moving to other parts of the country. 
+During the mid-1930s Apeda shifted away from performing arts photography, turning to advertising imagery, industrial photography, and class portraiture.</field>
+    <field name="ref_ssi">aspace_3ca9a0272764010608597e07717cee4f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series I: Broadway Theatrical Photography</field>
+    <field name="series_si">Series I: Broadway Theatrical Photography &gt;&gt;  Subseries: APEDA STUDIO</field>
+    <field name="heading_ssm"> Subseries: APEDA STUDIO</field>
+    <field name="unitdate_ssm">Inclusive, 1910-1934</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms569_slavery_collectionaspace_ref96_m4x</field>
+    <field name="ead_ssi">ms569_slavery_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Slavery Collection</field>
+    <field name="collection_ssm">Slavery Collection</field>
+    <field name="collection_unitid_ssm">MS 569</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VI - Manifests, 1812-1855</field>
+    <field name="unittitle_teim">Series VI - Manifests, 1812-1855</field>
+    <field name="unitdate_normal_ssm">1812/1855</field>
+    <field name="unitdate_normal_teim">1812/1855</field>
+    <field name="unitdate_normal_sim">1812/1855</field>
+    <field name="unitdate_inclusive_teim">1812-1855</field>
+    <field name="scopecontent_teim">Arranged chronologically.</field>
+    <field name="scopecontent_teim">These manifests list Negroes, Mulattos, and persons of color taken aboard various vessels to be transported, mostly from Alexandria, Va., to be sold or disposed of as slaves. These documents list the slave's name, sex, age, height, color, owner or shipper's name and place of residence, and the consignee's name and place of residence. </field>
+    <field name="ref_ssi">aspace_ref96_m4x</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Slavery Collection</field>
+    <field name="collection_unitid_teim">MS 569</field>
+    <field name="series_si">Series VI - Manifests, 1812-1855</field>
+    <field name="heading_ssm">Series VI - Manifests, 1812-1855</field>
+    <field name="unitdate_start_sim">1812</field>
+    <field name="unitdate_start_ssm">1812</field>
+    <field name="unitdate_start_si">1812</field>
+    <field name="unitdate_end_sim">1855</field>
+    <field name="unitdate_end_ssm">1855</field>
+    <field name="unitdate_end_si">1855</field>
+    <field name="unitdate_ssm">Inclusive, 1812-1855</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">75</field>
+  </doc>
+</add>

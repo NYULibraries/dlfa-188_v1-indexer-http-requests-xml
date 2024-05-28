@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr258_here_is_new_yorkaspace_ref17_ucv</field>
+    <field name="ead_ssi">pr258_here_is_new_york</field>
+    <field name="parent_ssi">aspace_ref16_2s8</field>
+    <field name="parent_ssm">aspace_ref16_2s8</field>
+    <field name="parent_unittitles_ssm">Series I: here is new york Images</field>
+    <field name="parent_unittitles_teim">Series I: here is new york Images</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Here is New York collection</field>
+    <field name="collection_ssm">Here is New York collection</field>
+    <field name="collection_unitid_ssm">PR 258</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I: Digital Images</field>
+    <field name="unittitle_teim">Subseries I: Digital Images</field>
+    <field name="scopecontent_teim">This subseries contains the low-resolution digital files created by here is new york from original submissions in various formats. Public access to these images is through a searchable database on the HINY computer terminal in the Library Reading Room. This database was created by N-YHS using here is new york's information and access points. The digital images can be searched or browsed by image number, contributor, or category. Categories were originally created and assigned to images by here is new york (note: not all images were assigned a category or categories). Some images also have information on original format and/or contextual information on the photograph provided by the photographer (or, in a few instances, presumably by here is new york). </field>
+    <field name="scopecontent_teim">There are 6,254 digital images in the database, submitted by over 2,600 contributors. Images were scanned by here is new york using iMac computers and Adobe Photoshop software.</field>
+    <field name="scopecontent_teim">
+      Access to database on HINY computer terminal.
+    </field>
+    <field name="ref_ssi">aspace_ref17_ucv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Here is New York collection</field>
+    <field name="collection_unitid_teim">PR 258</field>
+    <field name="series_sim">Series I: here is new york Images</field>
+    <field name="series_si">Series I: here is new york Images &gt;&gt; Subseries I: Digital Images</field>
+    <field name="heading_ssm">Subseries I: Digital Images</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms0210_fdny_logbooksaspace_b07e4b9b38be34846561632a0a073305</field>
+    <field name="ead_ssi">ms0210_fdny_logbooks</field>
+    <field name="parent_ssi">aspace_1cc046398bb500cda2a01703e9c93f1d</field>
+    <field name="parent_ssm">aspace_1cc046398bb500cda2a01703e9c93f1d</field>
+    <field name="parent_unittitles_ssm">Series I: Engine Company Logbooks</field>
+    <field name="parent_unittitles_teim">Series I: Engine Company Logbooks</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fire Department of the City of New York Logbooks and Reports</field>
+    <field name="collection_ssm">Fire Department of the City of New York Logbooks and Reports</field>
+    <field name="collection_unitid_ssm">MS 0210</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Engine Company 6</field>
+    <field name="unittitle_teim">Engine Company 6</field>
+    <field name="unitdate_inclusive_teim">August 1871-March 1872</field>
+    <field name="ref_ssi">aspace_b07e4b9b38be34846561632a0a073305</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 3</field>
+    <field name="location_si">Volume: 3</field>
+    <field name="collection_teim">Fire Department of the City of New York Logbooks and Reports</field>
+    <field name="collection_unitid_teim">MS 0210</field>
+    <field name="series_sim">Series I: Engine Company Logbooks</field>
+    <field name="series_si">Series I: Engine Company Logbooks &gt;&gt; Engine Company 6</field>
+    <field name="heading_ssm">Engine Company 6</field>
+    <field name="unitdate_ssm">Inclusive, August 1871-March 1872</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

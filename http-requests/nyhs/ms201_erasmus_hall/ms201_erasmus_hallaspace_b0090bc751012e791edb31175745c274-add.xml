@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_b0090bc751012e791edb31175745c274</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_cef5cc255c9ef6b3c4116882f5c2eb0a</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_cef5cc255c9ef6b3c4116882f5c2eb0a</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Music Books</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Music Books</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Vanderveer and Remsen music books]</field>
+    <field name="unittitle_teim">[Vanderveer and Remsen music books]</field>
+    <field name="unitdate_inclusive_teim">circa 1775–1800</field>
+    <field name="scopecontent_teim">•	Music book, lacking title page and pp. 1–9, late 18th c., inscribed inside rear cover: "Jane Vanderveer, Ann Vanderveers Book."
+•	Read, Daniel. The Columbian harmonist, no. 2, containing . . . introduction to psalmody . . . choice collection of sacred music . . . New Haven: n.d. Inscribed on fly-leaf: "Miss Phoebe Remsen November the 14 1800."</field>
+    <field name="ref_ssi">aspace_b0090bc751012e791edb31175745c274</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-16, envelope: Music books, late 18th c.</field>
+    <field name="location_ssm">envelope: Music books, late 18th c.</field>
+    <field name="location_si">envelope: Music books, late 18th c.</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Music Books</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Music Books &gt;&gt; [Vanderveer and Remsen music books]</field>
+    <field name="heading_ssm">[Vanderveer and Remsen music books]</field>
+    <field name="unitdate_ssm">Inclusive, circa 1775–1800</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">780</field>
+  </doc>
+</add>

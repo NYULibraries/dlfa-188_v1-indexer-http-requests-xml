@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg20aspace_ref1111_r5g</field>
+    <field name="ead_ssi">nyhs_archives_rg20</field>
+    <field name="parent_ssi">aspace_ref997_l3d</field>
+    <field name="parent_ssm">aspace_ref982_l3x</field>
+    <field name="parent_ssm">aspace_ref997_l3d</field>
+    <field name="parent_unittitles_ssm">Series VI. Object Images</field>
+    <field name="parent_unittitles_ssm">Subseries VI.A. Image Files</field>
+    <field name="parent_unittitles_teim">Series VI. Object Images</field>
+    <field name="parent_unittitles_teim">Subseries VI.A. Image Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society Museum Department records</field>
+    <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">1948.122 - 1950.308</field>
+    <field name="unittitle_teim">1948.122 - 1950.308</field>
+    <field name="unitdate_teim">-</field>
+    <field name="scopecontent_teim">Includes correspondence/notes (1948.174, 1948.469, 1948.473, 1948.577, 1949.23, 1949.136, 1949.273, 1950.5, 1950.7, 1950.27, 1950.30, 1950.46, 1950.78, 1950.230, 1950.237, 1950.303a-j, 1950.308); negatives/transparencies (1950.27).</field>
+    <field name="ref_ssi">aspace_ref1111_r5g</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 173, Folder: -</field>
+    <field name="location_ssm">Folder: -</field>
+    <field name="location_si">Folder: -</field>
+    <field name="collection_teim">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 20</field>
+    <field name="series_sim">Series VI. Object Images</field>
+    <field name="series_sim">Subseries VI.A. Image Files</field>
+    <field name="series_si">Series VI. Object Images &gt;&gt; Subseries VI.A. Image Files &gt;&gt; 1948.122 - 1950.308</field>
+    <field name="heading_ssm">1948.122 - 1950.308</field>
+    <field name="unitdate_ssm">-</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1650</field>
+  </doc>
+</add>

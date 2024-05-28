@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3033_horticulturalaspace_ref1252_cvq</field>
+    <field name="ead_ssi">ms3033_horticultural</field>
+    <field name="parent_ssi">aspace_ref1009_xtj</field>
+    <field name="parent_ssm">aspace_ref1009_xtj</field>
+    <field name="parent_unittitles_ssm">Series VI. Print Matter</field>
+    <field name="parent_unittitles_teim">Series VI. Print Matter</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Horticultural Society of New York records</field>
+    <field name="collection_ssm">Horticultural Society of New York records</field>
+    <field name="collection_unitid_ssm">MS 3033</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VI.B. Other Hort Print Matter</field>
+    <field name="unittitle_teim">Subseries VI.B. Other Hort Print Matter</field>
+    <field name="unitdate_teim">1901-circa 2010</field>
+    <field name="scopecontent_teim">The subseries includes a broad range of printed matter, especially ephemera, produced by the Hort over the course of the twentieth century and into the first decade of the twentieth first century. These include informational brochures and booklets, program calendars (ranging from 1933-2006), stationery and forms, membership solicitations, event announcements, admission tickets, press releases, posters, mayoral proclamations, and other documents. Many of these documents date from Hort's earliest years through the 1940s and were found in two (now disbound) scrapbooks. International Flower Shows, New York Flower Shows, lectures, education programs, pilgrimages/tours, exhibitions, and annual and other organization meetings are among the subjects of the material.</field>
+    <field name="ref_ssi">aspace_ref1252_cvq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Horticultural Society of New York records</field>
+    <field name="collection_unitid_teim">MS 3033</field>
+    <field name="series_sim">Series VI. Print Matter</field>
+    <field name="series_si">Series VI. Print Matter &gt;&gt; Subseries VI.B. Other Hort Print Matter</field>
+    <field name="heading_ssm">Subseries VI.B. Other Hort Print Matter</field>
+    <field name="unitdate_ssm">1901-circa 2010</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">735</field>
+  </doc>
+</add>

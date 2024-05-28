@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms282_harmonie_clubaspace_ref14_iz9</field>
+    <field name="ead_ssi">ms282_harmonie_club</field>
+    <field name="parent_ssi">aspace_ref13_19i</field>
+    <field name="parent_ssm">aspace_ref13_19i</field>
+    <field name="parent_unittitles_ssm">Series I: Minutes</field>
+    <field name="parent_unittitles_teim">Series I: Minutes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Harmonie Club records</field>
+    <field name="collection_ssm">Harmonie Club records</field>
+    <field name="collection_unitid_ssm">MS 282</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 1: General Minutes</field>
+    <field name="unittitle_teim">Subseries 1: General Minutes</field>
+    <field name="unitdate_inclusive_teim">1852-1995</field>
+    <field name="scopecontent_teim">This subseries contains the earliest minutes of the Harmonie Club and contain a variety of financial information, membership lists, and reports. Several of the volumes have been supplemented by glued in quarterly budgets, other minutes, Tage-Ordnung (Agendas), reports from Club officers, committee minutes, correspondence, and other documents. The majority of the General Minutes are in German, but beginning in 1865 with a Tage-Ordnung there is a slow switch to English. From 1865 to the 1880s only glued in materials are in English, but by 1890 minutes handwritten in German becomes increasingly scarce. The fourth book in the subseries contains a number of notable documents including the membership laws and the legal forms required to remain operating as a social club during Prohibition. The presence of such documents from the 1920s appears to be a filing mistake.</field>
+    <field name="ref_ssi">aspace_ref14_iz9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Harmonie Club records</field>
+    <field name="collection_unitid_teim">MS 282</field>
+    <field name="series_sim">Series I: Minutes</field>
+    <field name="series_si">Series I: Minutes &gt;&gt; Subseries 1: General Minutes</field>
+    <field name="heading_ssm">Subseries 1: General Minutes</field>
+    <field name="unitdate_ssm">Inclusive, 1852-1995</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

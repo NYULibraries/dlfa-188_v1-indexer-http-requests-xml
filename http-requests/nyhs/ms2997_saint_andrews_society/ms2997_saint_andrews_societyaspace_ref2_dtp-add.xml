@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2997_saint_andrews_societyaspace_ref2_dtp</field>
+    <field name="ead_ssi">ms2997_saint_andrews_society</field>
+    <field name="parent_ssi">aspace_ref1_muj</field>
+    <field name="parent_ssm">aspace_ref1_muj</field>
+    <field name="parent_unittitles_ssm">Series I: Administrative Records</field>
+    <field name="parent_unittitles_teim">Series I: Administrative Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_ssm">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_unitid_ssm">MS 2997</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.2: Minutes</field>
+    <field name="unittitle_teim">Subseries I.2: Minutes</field>
+    <field name="unitdate_inclusive_teim">1835-1990</field>
+    <field name="scopecontent_teim">Minutes (1835 - 1989) provide an account of the Society's activities and include information related to charitable giving, membership, constitutional changes, and other facets of the organization's operation. Bound minutes are in some cases supplemented, or in later years, replaced by foldered material that includes correspondence, agendas, copies of reports, and the minutes themselves.</field>
+    <field name="scopecontent_teim">General Meeting minutes (1835- 1990) record the larger meetings called by the President to elect officers, receive annual reports, form committees, and otherwise express the intentions of the Society as a whole. These include Annual, Semi-Annual, Preparatory, and various Special Meetings. Bound minutes exist from 1835 to 1960. Foldered material runs from 1950 to 1990.</field>
+    <field name="scopecontent_teim">Minutes of the Board of Managers (1884 - 1989) record monthly meetings that address changes in membership, review monthly financial and charity reports, and attend to other business as needed. Bound volumes cover the period from 1884 to 1966. Foldered material exists from 1953 to 1989. </field>
+    <field name="scopecontent_teim">Some of what is contained in General Meeting minutes in relation to reports and officers can also be found in the subseries Annual Reports. Likewise, information related to the membership of individuals in the Society can also be found in the series Membership. </field>
+    <field name="ref_ssi">aspace_ref2_dtp</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Saint Andrew's Society of the State of New York records</field>
+    <field name="collection_unitid_teim">MS 2997</field>
+    <field name="series_sim">Series I: Administrative Records</field>
+    <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries I.2: Minutes</field>
+    <field name="heading_ssm">Subseries I.2: Minutes</field>
+    <field name="unitdate_ssm">Inclusive, 1835-1990</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

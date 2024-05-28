@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr066_george_stonebridgeaspace_ref65_vex</field>
+    <field name="ead_ssi">pr066_george_stonebridge</field>
+    <field name="parent_ssi">aspace_ref13_6hu</field>
+    <field name="parent_ssm">aspace_ref13_6hu</field>
+    <field name="parent_unittitles_ssm">Series I: Glass Negatives</field>
+    <field name="parent_unittitles_teim">Series I: Glass Negatives</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">George E. Stonebridge Photograph Collection</field>
+    <field name="collection_ssm">George E. Stonebridge Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 66</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Van Cortlandt Park</field>
+    <field name="unittitle_teim">Van Cortlandt Park</field>
+    <field name="unitdate_teim">1902-1918</field>
+    <field name="ref_ssi">aspace_ref65_vex</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 21</field>
+    <field name="location_si">Box: 21</field>
+    <field name="collection_teim">George E. Stonebridge Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 66</field>
+    <field name="series_sim">Series I: Glass Negatives</field>
+    <field name="series_si">Series I: Glass Negatives &gt;&gt; Van Cortlandt Park</field>
+    <field name="heading_ssm">Van Cortlandt Park</field>
+    <field name="unitdate_ssm">1902-1918</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">53</field>
+  </doc>
+</add>

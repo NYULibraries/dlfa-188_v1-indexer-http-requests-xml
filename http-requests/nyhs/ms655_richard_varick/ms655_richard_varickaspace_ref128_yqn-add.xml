@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms655_richard_varickaspace_ref128_yqn</field>
+    <field name="ead_ssi">ms655_richard_varick</field>
+    <field name="parent_ssi">aspace_ref127_inc</field>
+    <field name="parent_ssm">aspace_ref127_inc</field>
+    <field name="parent_unittitles_ssm">Series IV: Accounts, Bills, Receipts</field>
+    <field name="parent_unittitles_teim">Series IV: Accounts, Bills, Receipts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Richard Varick Papers</field>
+    <field name="collection_ssm">Richard Varick Papers</field>
+    <field name="collection_unitid_ssm">MS 655</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Accounts</field>
+    <field name="unittitle_teim">Accounts</field>
+    <field name="unitdate_teim">1775-1783</field>
+    <field name="ref_ssi">aspace_ref128_yqn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Richard Varick Papers</field>
+    <field name="collection_unitid_teim">MS 655</field>
+    <field name="series_sim">Series IV: Accounts, Bills, Receipts</field>
+    <field name="series_si">Series IV: Accounts, Bills, Receipts &gt;&gt; Accounts</field>
+    <field name="heading_ssm">Accounts</field>
+    <field name="unitdate_ssm">1775-1783</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">109</field>
+  </doc>
+</add>

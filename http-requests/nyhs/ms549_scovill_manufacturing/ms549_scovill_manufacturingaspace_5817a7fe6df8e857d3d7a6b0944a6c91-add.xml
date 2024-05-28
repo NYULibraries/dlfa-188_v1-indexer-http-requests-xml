@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms549_scovill_manufacturingaspace_5817a7fe6df8e857d3d7a6b0944a6c91</field>
+    <field name="ead_ssi">ms549_scovill_manufacturing</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Scovill Manufacturing Company invoice books</field>
+    <field name="collection_ssm">Scovill Manufacturing Company invoice books</field>
+    <field name="collection_unitid_ssm">MS 549</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Invoices paid (1,966 invoices)</field>
+    <field name="unittitle_teim">Invoices paid (1,966 invoices)</field>
+    <field name="unitdate_inclusive_teim">1877</field>
+    <field name="scopecontent_teim">There is also an index in the collection that indicates that it relates to the bills paid for 1877, but the entries do not obviously tie to the invoice book for 1877.</field>
+    <field name="ref_ssi">aspace_5817a7fe6df8e857d3d7a6b0944a6c91</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: SM-2, Volume: 1877</field>
+    <field name="location_ssm">Volume: 1877</field>
+    <field name="location_si">Volume: 1877</field>
+    <field name="collection_teim">Scovill Manufacturing Company invoice books</field>
+    <field name="collection_unitid_teim">MS 549</field>
+    <field name="series_si">Invoices paid (1,966 invoices)</field>
+    <field name="heading_ssm">Invoices paid (1,966 invoices)</field>
+    <field name="unitdate_ssm">Inclusive, 1877</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

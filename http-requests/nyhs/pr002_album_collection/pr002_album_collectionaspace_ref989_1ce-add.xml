@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref989_1ce</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photographic views of Hudson Square</field>
+    <field name="unittitle_teim">Photographic views of Hudson Square</field>
+    <field name="unitdate_normal_ssm">1866/1867</field>
+    <field name="unitdate_normal_teim">1866/1867</field>
+    <field name="unitdate_normal_sim">1866/1867</field>
+    <field name="unitdate_inclusive_teim">1866-1867</field>
+    <field name="scopecontent_teim">"Six photographic views of Hudson Square, St. John's Park, presented by the Vestry of Trinity Church July 19, 1867, in Port-folio"; Beach St. and park, west from Varick; Hudson St. and park; looking west across the center of St. John's Park; looking east from center of St. John's Park; St. John's Park, Laight St. side from Hudson; Varick Street and park from Laight St.</field>
+    <field name="ref_ssi">aspace_ref989_1ce</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 302</field>
+    <field name="location_si">Volume: 302</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Photographic views of Hudson Square</field>
+    <field name="heading_ssm">Photographic views of Hudson Square</field>
+    <field name="unitdate_start_sim">1866</field>
+    <field name="unitdate_start_ssm">1866</field>
+    <field name="unitdate_start_si">1866</field>
+    <field name="unitdate_end_sim">1867</field>
+    <field name="unitdate_end_ssm">1867</field>
+    <field name="unitdate_end_si">1867</field>
+    <field name="unitdate_ssm">Inclusive, 1866-1867</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">341</field>
+  </doc>
+</add>

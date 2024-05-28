@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1347_pdu</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">U.S. Navy sailing ships, 1797-1820</field>
+    <field name="unittitle_teim">U.S. Navy sailing ships, 1797-1820</field>
+    <field name="unitdate_normal_ssm">1900/1950</field>
+    <field name="unitdate_normal_teim">1900/1950</field>
+    <field name="unitdate_normal_sim">1900/1950</field>
+    <field name="unitdate_inclusive_teim">[1900-1950]</field>
+    <field name="scopecontent_teim">Title does not accurately reflex contents; gelatin silver prints of tall ships including U.S.S. Monongahela, U.S.S. Essex, U.S.S. Constitution, U.S.S. Hartford; photographic reproductions of paintings including one of the Constitution, a series of painting of the Constitution in battle with the Guerierre, painting of the Bombardment of Tripoli, Dutch ships in the month of the Scheldt (A. Stork, 1869), Constitution vs. Cyane and Levant, Captain Stewart; photograph made in 1888of four old sailors, each identified with name and position on ship (name of which is only partially legible), paintings of twentieth century sea actions.</field>
+    <field name="ref_ssi">aspace_ref1347_pdu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 96, Volume: 386</field>
+    <field name="location_ssm">Volume: 386</field>
+    <field name="location_si">Volume: 386</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">U.S. Navy sailing ships, 1797-1820</field>
+    <field name="heading_ssm">U.S. Navy sailing ships, 1797-1820</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">1950</field>
+    <field name="unitdate_end_ssm">1950</field>
+    <field name="unitdate_end_si">1950</field>
+    <field name="unitdate_ssm">Inclusive, [1900-1950]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">448</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms72_martha_bradstreetaspace_ref100_rkp</field>
+    <field name="ead_ssi">ms72_martha_bradstreet</field>
+    <field name="parent_ssi">aspace_ref87_9c7</field>
+    <field name="parent_ssm">aspace_ref87_9c7</field>
+    <field name="parent_unittitles_ssm">Series IV: Legal Documentation. Materials regarding lawsuits</field>
+    <field name="parent_unittitles_teim">Series IV: Legal Documentation. Materials regarding lawsuits</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Martha Bradstreet papers</field>
+    <field name="collection_ssm">Martha Bradstreet papers</field>
+    <field name="collection_unitid_ssm">MS 72</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV.C. Court Documents</field>
+    <field name="unittitle_teim">Subseries IV.C. Court Documents</field>
+    <field name="unitdate_inclusive_teim">1819-1835, undated</field>
+    <field name="scopecontent_teim">Arranged chronologically. This subseries represents the actual legal documentation produced in the courts as direct results of the lawsuits Martha Bradstreet filed over the course of many years. There are various court documents including the names of many of the men whom Martha sued such as Alexander Johnson, John Stiles, Marcus Hitchcock, Malcolm McKenyon and finally Henry Huntington, the latter of which made it to the Supreme Court in 1831, as judged by Justice Johnson. In addition, there is an 1831 Albany District Court "statement of facts in relation to the dismissal of Mrs. Martha Bradstreet's Suits."</field>
+    <field name="scopecontent_teim">Martha tries to get Judge Conkling removed from the case, which we see in several Memorials dated 1824-1840. For more information on this particular aspect of Martha's court endeavors please see "The Memorial of Martha Bradstreet: Praying for the impeachment of Alfred Conkling, United States Judge of the Northern District of New-York." NY: 1829. (The New-York Historical Society, General Library Collection).</field>
+    <field name="scopecontent_teim">Interestingly, there is a Bill of Complaint that is not attributed to Martha, but a Sarah Mary Anne Bradstreet versus Philip Schuyler et al. It is not dated but clearly comes after Martha's time, mentioning the history of the family and Martha's attempts to reclaim the land. This Bradstreet appears to specifically concern herself with a tract of land, originally part of Lot 53, entitled, Waggoner's Patent. In addition to her quest for land, this Bill of Complaint mentions some earlier documentation, although missing from this collection, that pertain to Martha's divorce from Matthew Codd in 1816. In 1816 Martha issued her own Bill of Complaint to the High and Honourable Court of Chancery provides that her rights and property were to be restored. Secondly, in 1817 Matthew Codd had to turn over to Martha all deeds, patents, agreements, leases and counterparts of leases, papers and evidences of little which do or may related to Martha at the time of their marriage. </field>
+    <field name="scopecontent_teim">Worthy of note would be the fact that not only did Martha lose her various cases, she actually owed money on several occasions. This is evidenced by an 1825 indenture which states that Martha owed money to Josiah Meiss and to John S. Tillinghast. Later, in 1824 she owed money to Henry McKinstry, Additson Porter and Samuel L Penfield as described in the Bill of Complaint above. An undated document from the land office pertains to an offer to give Martha land if she drops suits for 1000 acres. This was unsigned and the wording appears to have been terminated before completion.</field>
+    <field name="ref_ssi">aspace_ref100_rkp</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Martha Bradstreet papers</field>
+    <field name="collection_unitid_teim">MS 72</field>
+    <field name="series_sim">Series IV: Legal Documentation. Materials regarding lawsuits</field>
+    <field name="series_si">Series IV: Legal Documentation. Materials regarding lawsuits &gt;&gt; Subseries IV.C. Court Documents</field>
+    <field name="heading_ssm">Subseries IV.C. Court Documents</field>
+    <field name="unitdate_ssm">Inclusive, 1819-1835, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">79</field>
+  </doc>
+</add>

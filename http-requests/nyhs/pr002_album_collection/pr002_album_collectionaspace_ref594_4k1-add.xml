@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref594_4k1</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photographs 122 St., College Point</field>
+    <field name="unittitle_teim">Photographs 122 St., College Point</field>
+    <field name="unitdate_normal_ssm">1940/1940</field>
+    <field name="unitdate_normal_teim">1940/1940</field>
+    <field name="unitdate_normal_sim">1940/1940</field>
+    <field name="unitdate_inclusive_teim">1940</field>
+    <field name="scopecontent_teim">Map showing 122nd Street in College Point with annotations showing where photographs were made. Photographs are mounted on pages that are accordion-hinged so that they can be opened to one long view; views of homes, the business district, including a movie theater, automobiles, advertisements.</field>
+    <field name="ref_ssi">aspace_ref594_4k1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 23, Volume: 184</field>
+    <field name="location_ssm">Volume: 184</field>
+    <field name="location_si">Volume: 184</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Photographs 122 St., College Point</field>
+    <field name="heading_ssm">Photographs 122 St., College Point</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">1940</field>
+    <field name="unitdate_end_ssm">1940</field>
+    <field name="unitdate_end_si">1940</field>
+    <field name="unitdate_ssm">Inclusive, 1940</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">203</field>
+  </doc>
+</add>

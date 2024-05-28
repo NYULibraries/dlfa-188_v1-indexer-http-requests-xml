@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms000_oversize_manuscripts_collectionaspace_b89c8faefd0a2f20c415989fd2ef7683</field>
+    <field name="ead_ssi">ms000_oversize_manuscripts_collection</field>
+    <field name="parent_ssi">aspace_ref6_a5t</field>
+    <field name="parent_ssm">aspace_ref6_a5t</field>
+    <field name="parent_unittitles_ssm">Series I. Individual Oversize Manuscripts</field>
+    <field name="parent_unittitles_teim">Series I. Individual Oversize Manuscripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oversize manuscripts collection</field>
+    <field name="collection_ssm">Oversize manuscripts collection</field>
+    <field name="collection_unitid_ssm">MS OS</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Y-1920] Mabel Davison Memorial items</field>
+    <field name="unittitle_teim">[Y-1920] Mabel Davison Memorial items</field>
+    <field name="unitdate_inclusive_teim">1920, 1940</field>
+    <field name="scopecontent_teim">Medaille de la Reconnaissance Francaise, with related certificate, awarded to Mabel Davison for her care of blinded French soldiers during World War I. Also a related certificate to Davison from the American Fund for French Wounded. These items, with a placard also in the folder, were originally framed together in 1940. They were a gift to N-YHS in June 1940 by Charles Stewart Davison in the context of the opening year of World War II. See Davison's contextual June 1940 letter in the institutional archives (General Correspondence, Box 191, folder 2). The items were unframed, and the frame discarded, by conservator Alan Balicki in September 2022.</field>
+    <field name="ref_ssi">aspace_b89c8faefd0a2f20c415989fd2ef7683</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: small, Folder: Y-1920 (Davison)</field>
+    <field name="location_ssm">Folder: Y-1920 (Davison)</field>
+    <field name="location_si">Folder: Y-1920 (Davison)</field>
+    <field name="collection_teim">Oversize manuscripts collection</field>
+    <field name="collection_unitid_teim">MS OS</field>
+    <field name="series_sim">Series I. Individual Oversize Manuscripts</field>
+    <field name="series_si">Series I. Individual Oversize Manuscripts &gt;&gt; [Y-1920] Mabel Davison Memorial items</field>
+    <field name="heading_ssm">[Y-1920] Mabel Davison Memorial items</field>
+    <field name="unitdate_ssm">Inclusive, 1920, 1940</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">253</field>
+  </doc>
+</add>

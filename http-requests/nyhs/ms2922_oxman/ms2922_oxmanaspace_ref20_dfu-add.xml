@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2922_oxmanaspace_ref20_dfu</field>
+    <field name="ead_ssi">ms2922_oxman</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Harriet Oxman papers</field>
+    <field name="collection_ssm">Harriet Oxman papers</field>
+    <field name="collection_unitid_ssm">MS 2922</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Principal's diaries</field>
+    <field name="unittitle_teim">Series I. Principal's diaries</field>
+    <field name="unitdate_inclusive_teim">1972-1980</field>
+    <field name="scopecontent_teim">Repurposed red notebooks (labeled "Science-Biology") in which Oxman, as principal of Erasmus Hall, recorded staff names, addresses, telephone numbers; school activities and difficulties (e.g., bomb scares); calls from parents; community events; conversations; student demonstrations (e.g., anti-war), etc.</field>
+    <field name="ref_ssi">aspace_ref20_dfu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Harriet Oxman papers</field>
+    <field name="collection_unitid_teim">MS 2922</field>
+    <field name="series_si">Series I. Principal's diaries</field>
+    <field name="heading_ssm">Series I. Principal's diaries</field>
+    <field name="unitdate_ssm">Inclusive, 1972-1980</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

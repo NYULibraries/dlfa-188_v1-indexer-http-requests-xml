@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3126_hannaaspace_ea047bf4254cc76dd7170aede79a5616</field>
+    <field name="ead_ssi">ms3126_hanna</field>
+    <field name="parent_ssi">aspace_8dcea63c51b4627c3340cd8f87c3d1dc</field>
+    <field name="parent_ssm">aspace_8dcea63c51b4627c3340cd8f87c3d1dc</field>
+    <field name="parent_unittitles_ssm">Series II. Publications by others</field>
+    <field name="parent_unittitles_teim">Series II. Publications by others</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Charles A. Hanna collection</field>
+    <field name="collection_ssm">Charles A. Hanna collection</field>
+    <field name="collection_unitid_ssm">MS 3126</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Church Histories 2</field>
+    <field name="unittitle_teim">Church Histories 2</field>
+    <field name="ref_ssi">aspace_ea047bf4254cc76dd7170aede79a5616</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 13, Volume: SN-65</field>
+    <field name="location_ssm">Volume: SN-65</field>
+    <field name="location_si">Volume: SN-65</field>
+    <field name="collection_teim">Charles A. Hanna collection</field>
+    <field name="collection_unitid_teim">MS 3126</field>
+    <field name="series_sim">Series II. Publications by others</field>
+    <field name="series_si">Series II. Publications by others &gt;&gt; Church Histories 2</field>
+    <field name="heading_ssm">Church Histories 2</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">113</field>
+  </doc>
+</add>

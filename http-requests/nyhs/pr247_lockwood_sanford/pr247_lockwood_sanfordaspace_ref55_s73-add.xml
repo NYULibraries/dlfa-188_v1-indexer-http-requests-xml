@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr247_lockwood_sanfordaspace_ref55_s73</field>
+    <field name="ead_ssi">pr247_lockwood_sanford</field>
+    <field name="parent_ssi">aspace_ref13_65r</field>
+    <field name="parent_ssm">aspace_ref13_65r</field>
+    <field name="parent_unittitles_ssm">Series I: Client Sample Books</field>
+    <field name="parent_unittitles_teim">Series I: Client Sample Books</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lockwood Sanford Wood Engraving Proof Books</field>
+    <field name="collection_ssm">Lockwood Sanford Wood Engraving Proof Books</field>
+    <field name="collection_unitid_ssm">PR 247</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Hayden and BoydHayden and Smith</field>
+    <field name="unittitle_teim">Hayden and BoydHayden and Smith</field>
+    <field name="unitdate_teim">1878-1883</field>
+    <field name="ref_ssi">aspace_ref55_s73</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 20</field>
+    <field name="location_ssm">Folder: 20</field>
+    <field name="location_si">Folder: 20</field>
+    <field name="collection_teim">Lockwood Sanford Wood Engraving Proof Books</field>
+    <field name="collection_unitid_teim">PR 247</field>
+    <field name="series_sim">Series I: Client Sample Books</field>
+    <field name="series_si">Series I: Client Sample Books &gt;&gt; Hayden and BoydHayden and Smith</field>
+    <field name="heading_ssm">Hayden and BoydHayden and Smith</field>
+    <field name="unitdate_ssm">1878-1883</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">22</field>
+  </doc>
+</add>

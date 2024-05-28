@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms000_oversize_manuscripts_collectionaspace_ref6_a5t</field>
+    <field name="ead_ssi">ms000_oversize_manuscripts_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Oversize manuscripts collection</field>
+    <field name="collection_ssm">Oversize manuscripts collection</field>
+    <field name="collection_unitid_ssm">MS OS</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Individual Oversize Manuscripts</field>
+    <field name="unittitle_teim">Series I. Individual Oversize Manuscripts</field>
+    <field name="unitdate_inclusive_teim">1648-1942</field>
+    <field name="ref_ssi">aspace_ref6_a5t</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Oversize manuscripts collection</field>
+    <field name="collection_unitid_teim">MS OS</field>
+    <field name="series_si">Series I. Individual Oversize Manuscripts</field>
+    <field name="heading_ssm">Series I. Individual Oversize Manuscripts</field>
+    <field name="unitdate_ssm">Inclusive, 1648-1942</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

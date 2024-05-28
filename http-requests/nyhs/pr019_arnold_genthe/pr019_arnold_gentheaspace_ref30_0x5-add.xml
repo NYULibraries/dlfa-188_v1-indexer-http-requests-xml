@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr019_arnold_gentheaspace_ref30_0x5</field>
+    <field name="ead_ssi">pr019_arnold_genthe</field>
+    <field name="parent_ssi">aspace_ref13_isr</field>
+    <field name="parent_ssm">aspace_ref13_isr</field>
+    <field name="parent_unittitles_ssm">Series I: San Francisco Chinatown</field>
+    <field name="parent_unittitles_teim">Series I: San Francisco Chinatown</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Arnold Genthe Photograph Collection</field>
+    <field name="collection_ssm">Arnold Genthe Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 19</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">[Two children in imperial costume in front of vase shop]</field>
+    <field name="unittitle_teim">[Two children in imperial costume in front of vase shop]</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref30_0x5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Box: 2</field>
+    <field name="location_ssm">Box: 2, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Arnold Genthe Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 19</field>
+    <field name="series_sim">Series I: San Francisco Chinatown</field>
+    <field name="series_si">Series I: San Francisco Chinatown &gt;&gt; [Two children in imperial costume in front of vase shop]</field>
+    <field name="heading_ssm">[Two children in imperial costume in front of vase shop]</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

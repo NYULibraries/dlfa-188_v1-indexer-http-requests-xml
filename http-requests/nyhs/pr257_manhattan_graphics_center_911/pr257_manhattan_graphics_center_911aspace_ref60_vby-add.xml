@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr257_manhattan_graphics_center_911aspace_ref60_vby</field>
+    <field name="ead_ssi">pr257_manhattan_graphics_center_911</field>
+    <field name="parent_ssi">aspace_ref11_hnj</field>
+    <field name="parent_ssm">aspace_ref11_hnj</field>
+    <field name="parent_unittitles_ssm">Series I: Prints</field>
+    <field name="parent_unittitles_teim">Series I: Prints</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Manhattan Graphics Center 9/11 Print Portfolio</field>
+    <field name="collection_ssm">Manhattan Graphics Center 9/11 Print Portfolio</field>
+    <field name="collection_unitid_ssm">PR 257</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">ISASI, Carmen</field>
+    <field name="unittitle_teim">ISASI, Carmen</field>
+    <field name="ref_ssi">aspace_ref60_vby</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Manhattan Graphics Center 9/11 Print Portfolio</field>
+    <field name="collection_unitid_teim">PR 257</field>
+    <field name="series_sim">Series I: Prints</field>
+    <field name="series_si">Series I: Prints &gt;&gt; ISASI, Carmen</field>
+    <field name="heading_ssm">ISASI, Carmen</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">34</field>
+  </doc>
+</add>

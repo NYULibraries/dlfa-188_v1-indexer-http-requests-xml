@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms78_brown_brothers_harrimanaspace_ref605_xiz</field>
+    <field name="ead_ssi">ms78_brown_brothers_harriman</field>
+    <field name="parent_ssi">aspace_ref4_8hl</field>
+    <field name="parent_ssm">aspace_ref1_vi4</field>
+    <field name="parent_ssm">aspace_ref4_8hl</field>
+    <field name="parent_unittitles_ssm">Series I. Historical Files (1699-1974)</field>
+    <field name="parent_unittitles_ssm">Subseries C. People Files (pre-1600s -1973)</field>
+    <field name="parent_unittitles_teim">Series I. Historical Files (1699-1974)</field>
+    <field name="parent_unittitles_teim">Subseries C. People Files (pre-1600s -1973)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brown Brothers Harriman records</field>
+    <field name="collection_ssm">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_ssm">MS 78</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries C.iii. Famous Clients (1931-1966)</field>
+    <field name="unittitle_teim">Subseries C.iii. Famous Clients (1931-1966)</field>
+    <field name="unitdate_normal_ssm">1931/1966</field>
+    <field name="unitdate_normal_teim">1931/1966</field>
+    <field name="unitdate_normal_sim">1931/1966</field>
+    <field name="unitdate_inclusive_teim">1931-1966</field>
+    <field name="ref_ssi">aspace_ref605_xiz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_teim">MS 78</field>
+    <field name="series_sim">Series I. Historical Files (1699-1974)</field>
+    <field name="series_sim">Subseries C. People Files (pre-1600s -1973)</field>
+    <field name="series_si">Series I. Historical Files (1699-1974) &gt;&gt; Subseries C. People Files (pre-1600s -1973) &gt;&gt; Subseries C.iii. Famous Clients (1931-1966)</field>
+    <field name="heading_ssm">Subseries C.iii. Famous Clients (1931-1966)</field>
+    <field name="unitdate_start_sim">1931</field>
+    <field name="unitdate_start_ssm">1931</field>
+    <field name="unitdate_start_si">1931</field>
+    <field name="unitdate_end_sim">1966</field>
+    <field name="unitdate_end_ssm">1966</field>
+    <field name="unitdate_end_si">1966</field>
+    <field name="unitdate_ssm">Inclusive, 1931-1966</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1082</field>
+  </doc>
+</add>

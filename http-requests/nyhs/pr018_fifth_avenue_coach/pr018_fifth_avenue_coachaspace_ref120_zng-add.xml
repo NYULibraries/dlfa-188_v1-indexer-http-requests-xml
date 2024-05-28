@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr018_fifth_avenue_coachaspace_ref120_zng</field>
+    <field name="ead_ssi">pr018_fifth_avenue_coach</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Fifth Avenue Coach Company collection</field>
+    <field name="collection_ssm">Fifth Avenue Coach Company collection</field>
+    <field name="collection_unitid_ssm">PR 18</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV: Street Scenes</field>
+    <field name="unittitle_teim">Series IV: Street Scenes</field>
+    <field name="unitdate_normal_ssm">1898/1923</field>
+    <field name="unitdate_normal_teim">1898/1923</field>
+    <field name="unitdate_normal_sim">1898/1923</field>
+    <field name="unitdate_inclusive_teim">1898-1923</field>
+    <field name="scopecontent_teim">Series IV contains views of Manhattan dating primarily from the 1910s and 1920s, arranged numerically by street and avenue, and alphabetically by place name, according to the first-named element in the caption provided by the company. Three 1899 photographs document the construction of the Third Avenue Railway on upper Broadway. Three undated images from the 1910s offer views of Washington Square Park, the lower terminus of the Fifth Avenue line. Two photographs, also undated, show an Easter Parade along Fifth Avenue. A series of nine photographs taken the morning of 2 December 1915 depicts various Manhattan intersections from 14th Street to Times Square. Nine images dated 29 July 1921 show excavations underway along Fifth Avenue from 14th Street to 86th Street.</field>
+    <field name="ref_ssi">aspace_ref120_zng</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Fifth Avenue Coach Company collection</field>
+    <field name="collection_unitid_teim">PR 18</field>
+    <field name="series_si">Series IV: Street Scenes</field>
+    <field name="heading_ssm">Series IV: Street Scenes</field>
+    <field name="unitdate_start_sim">1898</field>
+    <field name="unitdate_start_ssm">1898</field>
+    <field name="unitdate_start_si">1898</field>
+    <field name="unitdate_end_sim">1923</field>
+    <field name="unitdate_end_ssm">1923</field>
+    <field name="unitdate_end_si">1923</field>
+    <field name="unitdate_ssm">Inclusive, 1898-1923</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">105</field>
+  </doc>
+</add>

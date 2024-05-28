@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_ref1_qcn</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII: Foreign Views</field>
+    <field name="unittitle_teim">Series VII: Foreign Views</field>
+    <field name="scopecontent_teim">Series I. Foreign Views is arranged alphabetically by country. Current (as of 2006), and not contemporaneous, names of countries were used. Each country for which there is a view is listed. In the boxed views, if five or more views of a city within a country exist, that city received its own folder.</field>
+    <field name="ref_ssi">aspace_ref1_qcn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_si">Series VII: Foreign Views</field>
+    <field name="heading_ssm">Series VII: Foreign Views</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2932</field>
+  </doc>
+</add>

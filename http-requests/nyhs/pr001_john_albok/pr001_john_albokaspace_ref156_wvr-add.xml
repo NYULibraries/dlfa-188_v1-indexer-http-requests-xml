@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr001_john_albokaspace_ref156_wvr</field>
+    <field name="ead_ssi">pr001_john_albok</field>
+    <field name="parent_ssi">aspace_ref155_411</field>
+    <field name="parent_ssm">aspace_ref131_0xm</field>
+    <field name="parent_ssm">aspace_ref155_411</field>
+    <field name="parent_unittitles_ssm">Oversize Material from Series I</field>
+    <field name="parent_unittitles_ssm">World's Fair</field>
+    <field name="parent_unittitles_teim">Oversize Material from Series I</field>
+    <field name="parent_unittitles_teim">World's Fair</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Albok photograph collection</field>
+    <field name="collection_ssm">John Albok photograph collection</field>
+    <field name="collection_unitid_ssm">PR 1</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">World's Fair</field>
+    <field name="unittitle_teim">World's Fair</field>
+    <field name="unitdate_teim">1939-1940</field>
+    <field name="ref_ssi">aspace_ref156_wvr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, Folder: 83</field>
+    <field name="location_ssm">Folder: 83</field>
+    <field name="location_si">Folder: 83</field>
+    <field name="collection_teim">John Albok photograph collection</field>
+    <field name="collection_unitid_teim">PR 1</field>
+    <field name="series_sim">Oversize Material from Series I</field>
+    <field name="series_sim">World's Fair</field>
+    <field name="series_si">Oversize Material from Series I &gt;&gt; World's Fair &gt;&gt; World's Fair</field>
+    <field name="heading_ssm">World's Fair</field>
+    <field name="unitdate_ssm">1939-1940</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">108</field>
+  </doc>
+</add>

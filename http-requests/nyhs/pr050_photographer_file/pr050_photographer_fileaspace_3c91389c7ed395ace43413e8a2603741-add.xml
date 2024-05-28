@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr050_photographer_fileaspace_3c91389c7ed395ace43413e8a2603741</field>
+    <field name="ead_ssi">pr050_photographer_file</field>
+    <field name="parent_ssi">aspace_ref20_ydw</field>
+    <field name="parent_ssm">aspace_ref20_ydw</field>
+    <field name="parent_unittitles_ssm">Cooper, William A</field>
+    <field name="parent_unittitles_teim">Cooper, William A</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Photographer File</field>
+    <field name="collection_ssm">Photographer File</field>
+    <field name="collection_unitid_ssm">PR 50</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">5 panoramic photographs of views from Brooklyn across the East River to lower Manhattan</field>
+    <field name="unittitle_teim">5 panoramic photographs of views from Brooklyn across the East River to lower Manhattan</field>
+    <field name="unitdate_inclusive_teim">circa 1911</field>
+    <field name="scopecontent_teim">None of the photos explicitly indicate they are by Cooper, but one can be found attributed to him on the Library of Congress site: [New York from Brooklyn Heights, panoramic view] at https://www.loc.gov/resource/ds.04403/. The others appear to have been taken from roughly the same spot, but at a slightly different time as different boats are on the river. The items were found together in the stacks in 2022 and were left together here.</field>
+    <field name="ref_ssi">aspace_3c91389c7ed395ace43413e8a2603741</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF-1</field>
+    <field name="location_si">Folder: FF-1</field>
+    <field name="collection_teim">Photographer File</field>
+    <field name="collection_unitid_teim">PR 50</field>
+    <field name="series_sim">Cooper, William A</field>
+    <field name="series_si">Cooper, William A &gt;&gt; 5 panoramic photographs of views from Brooklyn across the East River to lower Manhattan</field>
+    <field name="heading_ssm">5 panoramic photographs of views from Brooklyn across the East River to lower Manhattan</field>
+    <field name="unitdate_ssm">Inclusive, circa 1911</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">35</field>
+  </doc>
+</add>

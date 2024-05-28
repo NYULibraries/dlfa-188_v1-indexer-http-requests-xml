@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms330_john_jay_papersaspace_ref35_1xq</field>
+    <field name="ead_ssi">ms330_john_jay_papers</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Jay papers</field>
+    <field name="collection_ssm">John Jay papers</field>
+    <field name="collection_unitid_ssm">MS 330</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Documents Concerning Scholastic, Professional, Religious, and Community Organizations</field>
+    <field name="unittitle_teim">Series V: Documents Concerning Scholastic, Professional, Religious, and Community Organizations</field>
+    <field name="unitdate_normal_ssm">1714/1822</field>
+    <field name="unitdate_normal_teim">1714/1822</field>
+    <field name="unitdate_normal_sim">1714/1822</field>
+    <field name="unitdate_inclusive_teim">1714-1822, undated</field>
+    <field name="scopecontent_teim">Within this series are materials concerning organizations with which either Jay or his family was involved. These organizations include: Trinity Church, New York Hospital, the Society for the Suppression of Vice, Humane Society, and the Society for Meliorating the Conditions of the Jews. The materials regarding these societies and organizations include correspondence and notes. The British Mint and Van Schellyne papers consist of legal papers. Also of interest in this series are rules from Columbia College's library (in the variety organization folder) and the votes from the 1792 and 1795 New York governor's election.</field>
+    <field name="ref_ssi">aspace_ref35_1xq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Jay papers</field>
+    <field name="collection_unitid_teim">MS 330</field>
+    <field name="series_si">Series V: Documents Concerning Scholastic, Professional, Religious, and Community Organizations</field>
+    <field name="heading_ssm">Series V: Documents Concerning Scholastic, Professional, Religious, and Community Organizations</field>
+    <field name="unitdate_start_sim">1714</field>
+    <field name="unitdate_start_ssm">1714</field>
+    <field name="unitdate_start_si">1714</field>
+    <field name="unitdate_end_sim">1822</field>
+    <field name="unitdate_end_ssm">1822</field>
+    <field name="unitdate_end_si">1822</field>
+    <field name="unitdate_ssm">Inclusive, 1714-1822, undated</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

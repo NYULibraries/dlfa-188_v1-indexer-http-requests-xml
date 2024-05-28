@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg13aspace_0d47e7b809ae4428758e18352398d41d</field>
+    <field name="ead_ssi">timeinc_ms3009_rg13</field>
+    <field name="parent_ssi">aspace_be16b706d12a72d2c9bdd0376bce656c</field>
+    <field name="parent_ssm">aspace_ref1540</field>
+    <field name="parent_ssm">aspace_be16b706d12a72d2c9bdd0376bce656c</field>
+    <field name="parent_unittitles_ssm">Series I. Bio Files</field>
+    <field name="parent_unittitles_ssm">-E-</field>
+    <field name="parent_unittitles_teim">Series I. Bio Files</field>
+    <field name="parent_unittitles_teim">-E-</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Time Inc. Time Research Center Files</field>
+    <field name="collection_ssm">Time Inc. Time Research Center Files</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 13</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Eichmann, Adolf</field>
+    <field name="unittitle_teim">Eichmann, Adolf</field>
+    <field name="unitdate_inclusive_teim">1943-1988</field>
+    <field name="ref_ssi">aspace_0d47e7b809ae4428758e18352398d41d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1214</field>
+    <field name="location_si">Offsite-Box: 1214</field>
+    <field name="collection_teim">Time Inc. Time Research Center Files</field>
+    <field name="collection_unitid_teim">MS 3009-RG 13</field>
+    <field name="series_sim">Series I. Bio Files</field>
+    <field name="series_sim">-E-</field>
+    <field name="series_si">Series I. Bio Files &gt;&gt; -E- &gt;&gt; Eichmann, Adolf</field>
+    <field name="heading_ssm">Eichmann, Adolf</field>
+    <field name="unitdate_ssm">Inclusive, 1943-1988</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1837</field>
+  </doc>
+</add>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref111_6xb</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Ham and West family album]</field>
+    <field name="unittitle_teim">[Ham and West family album]</field>
+    <field name="unitdate_inclusive_teim">[1860-187-]</field>
+    <field name="scopecontent_teim">Cartes-de-visite and tin types; photographers include M. Brady, Mrs. Moore, Charles D. Fredricks &amp; Co., Grotecloss, and R. A. Lewis; men, including man in uniform, women and children, including child with dog.</field>
+    <field name="ref_ssi">aspace_ref111_6xb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 2, Volume: 34</field>
+    <field name="location_ssm">Volume: 34</field>
+    <field name="location_si">Volume: 34</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Ham and West family album]</field>
+    <field name="heading_ssm">[Ham and West family album]</field>
+    <field name="unitdate_ssm">Inclusive, [1860-187-]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">35</field>
+  </doc>
+</add>

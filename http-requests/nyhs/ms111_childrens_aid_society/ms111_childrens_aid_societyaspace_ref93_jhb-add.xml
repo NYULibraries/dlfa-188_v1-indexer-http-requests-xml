@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref93_jhb</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref13_zkp</field>
+    <field name="parent_ssm">aspace_ref13_zkp</field>
+    <field name="parent_unittitles_ssm">Series XIII - Photographs</field>
+    <field name="parent_unittitles_teim">Series XIII - Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries XIII.6 - Other Albums and Photographs</field>
+    <field name="unittitle_teim">Subseries XIII.6 - Other Albums and Photographs</field>
+    <field name="unitdate_teim">circa 1900-circa 1944</field>
+    <field name="scopecontent_teim">This subseries is divided into 3 sub-subseries:</field>
+    <field name="scopecontent_teim">XIII.6.A - Photo Albums - includes 2 photo albums created by the CAS covering many aspects of the organization. The content of these albums is too wide-ranging to fit the more narrowly defined subseries 1-5 above. The sub-subseries also includes 2 photo albums made by people affiliated with the CAS, although the albums do not in any clear way relate to CAS activities. For more information about all 4 photo albums, please see individual subseries notes.</field>
+    <field name="scopecontent_teim">XIII.6.B - Oversize - consists of 1 folder in a separate oversize (OS) box containing 7 photographs, 4 of them mounted on cardboard or foam backing. All except one are reprints of photographs found in Series XIII.2 and XIII.3 above. The one photograph which has no smaller or vintage counterpart is a 10.5x14 print of Franklin Delano Roosevelt visiting Bowdoin Farm on August 10, 1933.</field>
+    <field name="scopecontent_teim">XIII.6.C - Other Photographs - contains 3 folders of miscellaneous photographs which were neither commissioned by the CAS nor depicting images of the CAS, but which nevertheless made their way into the CAS files. 1 folder contains vintage prints by Lewis Hine, from his photo series on child labor in cotton mills and agriculture; the images were from 1908 and 1915, before he was hired by the CAS.</field>
+    <field name="ref_ssi">aspace_ref93_jhb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series XIII - Photographs</field>
+    <field name="series_si">Series XIII - Photographs &gt;&gt; Subseries XIII.6 - Other Albums and Photographs</field>
+    <field name="heading_ssm">Subseries XIII.6 - Other Albums and Photographs</field>
+    <field name="unitdate_ssm">circa 1900-circa 1944</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2379</field>
+  </doc>
+</add>

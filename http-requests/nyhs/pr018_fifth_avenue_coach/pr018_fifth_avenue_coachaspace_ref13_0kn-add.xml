@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr018_fifth_avenue_coachaspace_ref13_0kn</field>
+    <field name="ead_ssi">pr018_fifth_avenue_coach</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Fifth Avenue Coach Company collection</field>
+    <field name="collection_ssm">Fifth Avenue Coach Company collection</field>
+    <field name="collection_unitid_ssm">PR 18</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Buses and Automotive Parts</field>
+    <field name="unittitle_teim">Series I: Buses and Automotive Parts</field>
+    <field name="unitdate_normal_ssm">1915/1928</field>
+    <field name="unitdate_normal_teim">1915/1928</field>
+    <field name="unitdate_normal_sim">1915/1928</field>
+    <field name="unitdate_inclusive_teim">1915-1928</field>
+    <field name="scopecontent_teim">Series I houses photographs of the earliest coaches, including the horse-drawn omnibuses, in addition to all of the various models produced through the late 1920s. Photographs are arranged alphabetically by bus type or numerically by bus number when the type is not specified. Within each type, the items are arranged in the following order: exterior, interior, chassis and axles, and engine and parts. Interior bus views often show passengers, as well as the advertisements lining the upper walls. The series ends with miscellaneous and unidentified vehicles and automotive parts, arranged alphabetically.</field>
+    <field name="scopecontent_teim">Views of type J include photographs of buses produced for the Grand Rapids Railways, the Capitol Traction Company (Washington, DC), the Milwaukee Electric Railway Company, and the Kansas Electric Power Company. Views of type 7J include buses manufactured for Detroit and for the Toronto Transportation Commission, and views of type L include a coach manufactured for Baltimore. Bus 701 is shown in both New York and Chicago, with a repainted exterior. The exterior of bus 914, a cooperative project of the New York Automobile Club and the Board of Education, is covered with signs exhorting safety, such as "Hurry leads to worry," and "Why take chances? Odds are against you."</field>
+    <field name="scopecontent_teim">Views of miscellaneous buses include four images of an upper deck containing several couples evidently posed in romantic poses. According to a 1954 New York Times article, these so-called "spooners" favored the open-air upper decks in use from 1907 to 1936. As a result, certain strait-laced riders led a campaign against the open-air coaches as "instruments of evil." At around the same time these photographs were taken, John A. Ritchie, the head of the Fifth Avenue Coach Company in the 1920's, wrote a letter defending open-air spooning.</field>
+    <field name="ref_ssi">aspace_ref13_0kn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Fifth Avenue Coach Company collection</field>
+    <field name="collection_unitid_teim">PR 18</field>
+    <field name="series_si">Series I: Buses and Automotive Parts</field>
+    <field name="heading_ssm">Series I: Buses and Automotive Parts</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1928</field>
+    <field name="unitdate_end_ssm">1928</field>
+    <field name="unitdate_end_si">1928</field>
+    <field name="unitdate_ssm">Inclusive, 1915-1928</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

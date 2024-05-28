@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms171_dodd_meadaspace_d96a4c17784162fc630d666aa756941a</field>
+    <field name="ead_ssi">ms171_dodd_mead</field>
+    <field name="parent_ssi">aspace_3777bc9d13fd5410e7d2c3696e881f89</field>
+    <field name="parent_ssm">aspace_91749d10f32a3c0905e7cf805639054c</field>
+    <field name="parent_ssm">aspace_3777bc9d13fd5410e7d2c3696e881f89</field>
+    <field name="parent_unittitles_ssm">Series IV. Publication Records</field>
+    <field name="parent_unittitles_ssm">Subseries IV.C. Printing Inventories</field>
+    <field name="parent_unittitles_teim">Series IV. Publication Records</field>
+    <field name="parent_unittitles_teim">Subseries IV.C. Printing Inventories</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_ssm">MS 171</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Printing Inventories (Titles C-G)</field>
+    <field name="unittitle_teim">Printing Inventories (Titles C-G)</field>
+    <field name="unitdate_teim">1920-1940s</field>
+    <field name="ref_ssi">aspace_d96a4c17784162fc630d666aa756941a</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 36</field>
+    <field name="location_si">Offsite-Box: 36</field>
+    <field name="collection_teim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_teim">MS 171</field>
+    <field name="series_sim">Series IV. Publication Records</field>
+    <field name="series_sim">Subseries IV.C. Printing Inventories</field>
+    <field name="series_si">Series IV. Publication Records &gt;&gt; Subseries IV.C. Printing Inventories &gt;&gt; Printing Inventories (Titles C-G)</field>
+    <field name="heading_ssm">Printing Inventories (Titles C-G)</field>
+    <field name="unitdate_ssm">1920-1940s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">128</field>
+  </doc>
+</add>

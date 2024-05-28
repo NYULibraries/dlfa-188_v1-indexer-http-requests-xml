@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref272_qqo</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Album of photographs of military encampments and parades and family photographs]</field>
+    <field name="unittitle_teim">[Album of photographs of military encampments and parades and family photographs]</field>
+    <field name="unitdate_normal_ssm">1911/1911</field>
+    <field name="unitdate_normal_teim">1911/1911</field>
+    <field name="unitdate_normal_sim">1911/1911</field>
+    <field name="unitdate_inclusive_teim">1911</field>
+    <field name="scopecontent_teim">Views of parade and encampment in Van Cortland Park, May 13, 1911, including Capt. O'Ryan and the 1st Battery; Col. Dyer and 12th Regiment; Governor Dix on horseback reviewing troops; views from May 30th, [Memorial Day?] including Cpt. Appleton and 7th Regiment; Col. Conley, 69th Regiment; group of sailors and navy officers; John A. Dix Post; Duryea's Zouaves; 71st Regiment; men in kilts; 17th Battery on march from State Camp, July 15, 1911, Ossining; in camp, Philips Manor; Brewester cottage, Hartsdale, including views of house, and butterflies on marigolds, chickens, cow and calf, unidentified people; Rye Beach, 1911; International Motor Boat Races, Huntington, Long Island, including views of racers, spectator's boats; Catskill Aqueduct near Briarcliff; couple in garden; man changing tire on his car.</field>
+    <field name="ref_ssi">aspace_ref272_qqo</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 7, Volume: 84</field>
+    <field name="location_ssm">Volume: 84</field>
+    <field name="location_si">Volume: 84</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Album of photographs of military encampments and parades and family photographs]</field>
+    <field name="heading_ssm">[Album of photographs of military encampments and parades and family photographs]</field>
+    <field name="unitdate_start_sim">1911</field>
+    <field name="unitdate_start_ssm">1911</field>
+    <field name="unitdate_start_si">1911</field>
+    <field name="unitdate_end_sim">1911</field>
+    <field name="unitdate_end_ssm">1911</field>
+    <field name="unitdate_end_si">1911</field>
+    <field name="unitdate_ssm">Inclusive, 1911</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">90</field>
+  </doc>
+</add>

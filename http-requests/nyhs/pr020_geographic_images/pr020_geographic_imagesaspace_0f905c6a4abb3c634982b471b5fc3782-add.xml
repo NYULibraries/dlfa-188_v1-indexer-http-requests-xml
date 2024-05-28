@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_0f905c6a4abb3c634982b471b5fc3782</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_ref1_qcn</field>
+    <field name="parent_ssm">aspace_ref1_qcn</field>
+    <field name="parent_unittitles_ssm">Series VII: Foreign Views</field>
+    <field name="parent_unittitles_teim">Series VII: Foreign Views</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VIIB: FOREIGN VIEWS - FLAT MATERIAL</field>
+    <field name="unittitle_teim">Subseries VIIB: FOREIGN VIEWS - FLAT MATERIAL</field>
+    <field name="scopecontent_teim">Arranged alphabetically by country.</field>
+    <field name="ref_ssi">aspace_0f905c6a4abb3c634982b471b5fc3782</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series VII: Foreign Views</field>
+    <field name="series_si">Series VII: Foreign Views &gt;&gt; Subseries VIIB: FOREIGN VIEWS - FLAT MATERIAL</field>
+    <field name="heading_ssm">Subseries VIIB: FOREIGN VIEWS - FLAT MATERIAL</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3000</field>
+  </doc>
+</add>

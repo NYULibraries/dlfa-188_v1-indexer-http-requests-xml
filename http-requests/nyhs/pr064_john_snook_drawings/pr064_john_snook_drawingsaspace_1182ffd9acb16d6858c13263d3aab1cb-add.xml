@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr064_john_snook_drawingsaspace_1182ffd9acb16d6858c13263d3aab1cb</field>
+    <field name="ead_ssi">pr064_john_snook_drawings</field>
+    <field name="parent_ssi">aspace_38892de023f13312b2dc574421e880e5</field>
+    <field name="parent_ssm">aspace_b709d3069a3ab69effb16dafef104cd3</field>
+    <field name="parent_ssm">aspace_38892de023f13312b2dc574421e880e5</field>
+    <field name="parent_unittitles_ssm">Series III: Printed Material from Snook's Library</field>
+    <field name="parent_unittitles_ssm">Books in English</field>
+    <field name="parent_unittitles_teim">Series III: Printed Material from Snook's Library</field>
+    <field name="parent_unittitles_teim">Books in English</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John B. Snook architectural records collection</field>
+    <field name="collection_ssm">John B. Snook architectural records collection</field>
+    <field name="collection_unitid_ssm">PR 64</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Villa And Cottage Architecture, Blackie and Sons, publisher</field>
+    <field name="unittitle_teim">Villa And Cottage Architecture, Blackie and Sons, publisher</field>
+    <field name="unitdate_inclusive_teim">1868</field>
+    <field name="ref_ssi">aspace_1182ffd9acb16d6858c13263d3aab1cb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 46</field>
+    <field name="location_si">Offsite-Box: 46</field>
+    <field name="collection_teim">John B. Snook architectural records collection</field>
+    <field name="collection_unitid_teim">PR 64</field>
+    <field name="series_sim">Series III: Printed Material from Snook's Library</field>
+    <field name="series_sim">Books in English</field>
+    <field name="series_si">Series III: Printed Material from Snook's Library &gt;&gt; Books in English &gt;&gt; Villa And Cottage Architecture, Blackie and Sons, publisher</field>
+    <field name="heading_ssm">Villa And Cottage Architecture, Blackie and Sons, publisher</field>
+    <field name="unitdate_ssm">Inclusive, 1868</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">288</field>
+  </doc>
+</add>

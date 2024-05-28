@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms344_john_tabor_kempeaspace_ref1_9jb</field>
+    <field name="ead_ssi">ms344_john_tabor_kempe</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Tabor Kempe Papers</field>
+    <field name="collection_ssm">John Tabor Kempe Papers</field>
+    <field name="collection_unitid_ssm">MS 344</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated</field>
+    <field name="unittitle_teim">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated</field>
+    <field name="unitdate_normal_ssm">1678/1778</field>
+    <field name="unitdate_normal_ssm">1752/1774</field>
+    <field name="unitdate_normal_teim">1678/1778</field>
+    <field name="unitdate_normal_teim">1752/1774</field>
+    <field name="unitdate_normal_sim">1678/1778</field>
+    <field name="unitdate_normal_sim">1752/1774</field>
+    <field name="unitdate_bulk_teim">1752-1774</field>
+    <field name="unitdate_inclusive_teim">1678-1778 and Undated</field>
+    <field name="scopecontent_teim">The bulk of the court case records in this collection are for cases argued in the New York Supreme Court of Judicature. Other courts include the Court of Chancery, Court of Vice-Admiralty, New York General Sessions (in counties), New York General Quarter Sessions (in New York City), Court of Mayor and Aldermen, and the Court of Oyer and Terminer. Cases argued before the Governor and Council are also found in this series.</field>
+    <field name="scopecontent_teim">Court case records are arranged by the court in which a case was argued. Within each court, cases are divided into criminal and civil, then arranged alphabetically by defendant for criminal cases, by plaintiff for civil cases. Cases with multiple plaintiffs or defendants are filed under the first name to appear on the documents. In addition, this series includes documents for cases for which the court, plaintiff or defendant cannot be determined. Cases where the court venue is unclear, but plaintiff and defendant are evident, are filed under "Court Undetermined." Documents that are most likely related to a court case, but the court, plaintiff, and/or defendant cannot be determined are filed under "Case Undetermined." Many of these undetermined cases are represented by a single document.</field>
+    <field name="scopecontent_teim">Court case documents include briefs, presentments, affidavits, trial notes, complaints, statements of cases, indictments, memoranda, subpoenas, pleas, notices, depositions, rules, certiorari, narratios, replications, bail notices, trial notices, notes, petitions, jury lists, costs, and other relevant documents such as estate records or accounts. Many items are drafts or contemporary copies. Petitions not linked to any specific case are filed together within Case Undetermined.</field>
+    <field name="scopecontent_teim">All cases in this series have been entered into a separate database. The database information generally includes court, location, dates, items, plaintiff and defendant, and charge or suit for each case. A notes field also contains other pertinent information about the case, such as references to other relevant cases and correspondence. (Correspondence that was filed with individual court cases has been removed to Series II, and each item removed is listed in the notes field--additional correspondence not listed may also relate to specific court cases, as many letters were already filed separately). A complete report derived from this database is available for researchers, sorted by court. A separate report sorted by charge/suit is also available. The database can be searched by name or keyword--see Manuscript Department staff.</field>
+    <field name="scopecontent_teim">Court cases in the John Tabor Kempe Papers involve assault, debt, grand and petit larceny, riot, ejectment, keeping disorderly or bawdy houses, murder, estate disputes, libel, slander, trading with the enemy, trespass, rape, and counterfeiting, among other charges. The bulk of these cases occurred in New York City, though a number of major cases, especially land disputes, took place upstate. These include riots during the 1760s in Cortlandt Manor, Westchester Co. (King vs. Daniel Cornell et al, in the Supreme Court of Judicature), and Dutchess Co. (King vs. John Kane, King vs. Elisha Cole, both in Court of Oyer and Terminer; King vs. James Higby et al, in the Supreme Court of Judicature). Other prominent land disputes include Intrusion on Crown Lands cases in Albany Co. (King vs. John Henry Lydius, King vs. George Klock, King vs. John Van Rensselaer, all in the Supreme Court of Judicature) and the Wappinger Indian land claim led by Chief Daniel Nimham, argued before the Governor and Council.</field>
+    <field name="scopecontent_teim">This collection also includes numerous land tenant ejectment cases. These suits were brought on the behalf of a fictitious current tenant, usually called "James Jackson," though other names were also used ("Peter Quiet," "John Denn"). Therefore, ejectment cases are filed by the first plaintiff to follow the fictitious name. The false names "John Stiles" and "John Turnout" were commonly used for defendants.</field>
+    <field name="scopecontent_teim">Political cases represented in this series include King vs. Alexander McDougall in the Supreme Court of Judicature for libel/slander, several trading with the enemy cases during the French and Indian War (especially the various George Spencer cases in the Supreme Court of Judicature and the Court of Vice-Admiralty), and a number of cases involving maladministration of Justices of the Peace.</field>
+    <field name="scopecontent_teim">Court case records also document the quotidian disputes of New Yorkers, particularly in assault cases, and sometimes reveal contentious relationships between men and women, masters and servants, ministers and their congregations, and neighbors. Women are present throughout the series as both plaintiffs and defendants, and a few cases include unkept marriage promises, and accusations of rape. Many cases involve disputes within religious institutions, particularly the Protestant Dutch Church. The King vs. Nepthali Hart Meyers, Hayman Levi, Daniel Gomez et al in the Supreme Court of Judicature details a violent disagreement within a NYC synagogue.</field>
+    <field name="scopecontent_teim">Several cases in this collection involve the accusation of slaves for various crimes; see King vs. Belinda, King vs. Venus, King vs. Falmouth, King vs. Pompey, in the Supreme Court of Judicature and King vs. Abraham, King vs. Scipio in Court Undetermined. A number of cases concern slaves seeking their freedom, often claiming false enslavement in the American colonies; see Juan Miranda vs. Cornelius and Sarah Van Ranst in the Supreme Court of Judicature, the case of Francis de Salas Cortilla in Governor and Council, and the cases of Vacan Beneto (petition), Simon Moore, Jacob Quaco, and the estate of William West, all in Case Undetermined.</field>
+    <field name="scopecontent_teim">In some instances, the court in which a case was argued was determined through the use of an outside source, especially Julius Goebel Jr. and T. Raymond Naughton's Law Enforcement in Colonial New York: A Study in Criminal Procedure (1664-1776) (NY : The Commonwealth Fund, 1944). Daniel Allen Hearn's Legal Executions in New York State, 1639-1963 (N.C. : McFarland and Co., 1997) was also consulted. Both are referenced in the note field of the database when applicable. Further information on many cases in the collection can also be found in these sources.</field>
+    <field name="scopecontent_teim">Note: Many cases contain alternate spellings for the names of plaintiffs and defendants. The most common was used for indexing; alternate spellings are also included in brackets. A number of documents contain the abbreviation "ads," i.e. John Smith ads. William Thomas. With this abbreviation, the defendant is listed first and the plaintiff listed second, rather than the more common Thomas vs. Smith, or Thomas agt. Smith. Other abbreviations found in the collection are "ex dem" meaning "upon the demise" (used in ejectment cases) and "qui tam" meaning the plaintiff has launched a civil suit on behalf of the state. </field>
+    <field name="ref_ssi">aspace_ref1_9jb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Tabor Kempe Papers</field>
+    <field name="collection_unitid_teim">MS 344</field>
+    <field name="series_si">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated</field>
+    <field name="heading_ssm">Series 1: Court Case Records, 1678-1778 (bulk 1752-1774), and Undated</field>
+    <field name="unitdate_start_sim">1678</field>
+    <field name="unitdate_start_sim">1752</field>
+    <field name="unitdate_start_ssm">1678</field>
+    <field name="unitdate_start_ssm">1752</field>
+    <field name="unitdate_start_si">1752</field>
+    <field name="unitdate_end_sim">1778</field>
+    <field name="unitdate_end_sim">1774</field>
+    <field name="unitdate_end_ssm">1778</field>
+    <field name="unitdate_end_ssm">1774</field>
+    <field name="unitdate_end_si">1774</field>
+    <field name="unitdate_ssm">Inclusive, 1678-1778 and Undated ; 1752-1774</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

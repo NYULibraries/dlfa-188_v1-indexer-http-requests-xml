@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg01aspace_ref25_2p3</field>
+    <field name="ead_ssi">nyhs_archives_rg01</field>
+    <field name="parent_ssi">aspace_ref12_ryn</field>
+    <field name="parent_ssm">aspace_ref12_ryn</field>
+    <field name="parent_unittitles_ssm">Series I. Society Meeting Minutes  </field>
+    <field name="parent_unittitles_teim">Series I. Society Meeting Minutes  </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society management committee records</field>
+    <field name="collection_ssm">New-York Historical Society management committee records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 1</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Minutes. Volume 2 </field>
+    <field name="unittitle_teim">Minutes. Volume 2 </field>
+    <field name="unitdate_teim">1838-1848</field>
+    <field name="ref_ssi">aspace_ref25_2p3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: RG1.2, Folder: -</field>
+    <field name="location_ssm">Folder: -</field>
+    <field name="location_si">Folder: -</field>
+    <field name="collection_teim">New-York Historical Society management committee records</field>
+    <field name="collection_unitid_teim">NYHS-RG 1</field>
+    <field name="series_sim">Series I. Society Meeting Minutes  </field>
+    <field name="series_si">Series I. Society Meeting Minutes   &gt;&gt; Minutes. Volume 2 </field>
+    <field name="heading_ssm">Minutes. Volume 2 </field>
+    <field name="unitdate_ssm">1838-1848</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

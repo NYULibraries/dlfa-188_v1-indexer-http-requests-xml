@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr100_maritime_history_collectionaspace_ref4_sbk</field>
+    <field name="ead_ssi">pr100_maritime_history_collection</field>
+    <field name="parent_ssi">aspace_ref1_rjp</field>
+    <field name="parent_ssm">aspace_ref1_rjp</field>
+    <field name="parent_unittitles_ssm">Series I. Boxed Files</field>
+    <field name="parent_unittitles_teim">Series I. Boxed Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Maritime History Collection</field>
+    <field name="collection_ssm">Maritime History Collection</field>
+    <field name="collection_unitid_ssm">PR 100</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.2: Steamships</field>
+    <field name="unittitle_teim">Subseries I.2: Steamships</field>
+    <field name="scopecontent_teim">Steamships is copmrised of steam powered vesssels as well as those powered by the combination of steam and sail.  Ships include paddle steamers, mail steamers, Coast Guard cutters, freighters and ocean liners.  Many Hudson River steamboats are represented in this sub series.  Images show ships in harbor and at sea and include several images of fires, shipwrecks and other accidents.  There are a number of photographs of steamship interiors, including the interiors of ocean liners Caledonia, Conte Di Savoia, Leviathan, Kroonland and Manhattan and steamboats Robert Fulton and Washington Irving.  IMages are arranged alphabetically by ship name with unidentified ships filed at the end of the subseries.</field>
+    <field name="ref_ssi">aspace_ref4_sbk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Maritime History Collection</field>
+    <field name="collection_unitid_teim">PR 100</field>
+    <field name="series_sim">Series I. Boxed Files</field>
+    <field name="series_si">Series I. Boxed Files &gt;&gt; Subseries I.2: Steamships</field>
+    <field name="heading_ssm">Subseries I.2: Steamships</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

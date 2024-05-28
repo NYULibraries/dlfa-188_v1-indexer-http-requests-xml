@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms612_matthias_tallmadgeaspace_ref43_u9p</field>
+    <field name="ead_ssi">ms612_matthias_tallmadge</field>
+    <field name="parent_ssi">aspace_ref1_iku</field>
+    <field name="parent_ssm">aspace_ref1_iku</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Matthias B. Tallmadge papers</field>
+    <field name="collection_ssm">Matthias B. Tallmadge papers</field>
+    <field name="collection_unitid_ssm">MS 612</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.D: Other Family and Friend Correspondence</field>
+    <field name="unittitle_teim">Subseries I.D: Other Family and Friend Correspondence</field>
+    <field name="unitdate_normal_ssm">1715/1849</field>
+    <field name="unitdate_normal_teim">1715/1849</field>
+    <field name="unitdate_normal_sim">1715/1849</field>
+    <field name="unitdate_inclusive_teim">1715-1849, undated</field>
+    <field name="scopecontent_teim">Subseries D consists of correspondence received and sent by various members of the extended family, both on the Tallmadge and Clinton sides, and friends. There is a folder of correspondence received by George Clinton and his wife, Elizabeth Clinton Tallmadge's mother, Cornelia Tappen Clinton. There are letters sent from Nathaniel Pitcher Tallmadge and a small folder of letters of introduction, both for Tallmadge and to him.</field>
+    <field name="ref_ssi">aspace_ref43_u9p</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Matthias B. Tallmadge papers</field>
+    <field name="collection_unitid_teim">MS 612</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries I.D: Other Family and Friend Correspondence</field>
+    <field name="heading_ssm">Subseries I.D: Other Family and Friend Correspondence</field>
+    <field name="unitdate_start_sim">1715</field>
+    <field name="unitdate_start_ssm">1715</field>
+    <field name="unitdate_start_si">1715</field>
+    <field name="unitdate_end_sim">1849</field>
+    <field name="unitdate_end_ssm">1849</field>
+    <field name="unitdate_end_si">1849</field>
+    <field name="unitdate_ssm">Inclusive, 1715-1849, undated</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>

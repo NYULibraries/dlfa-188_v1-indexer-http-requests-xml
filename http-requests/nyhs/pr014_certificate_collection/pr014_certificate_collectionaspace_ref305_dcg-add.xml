@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref305_dcg</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XIX: Scientific</field>
+    <field name="unittitle_teim">Series XIX: Scientific</field>
+    <field name="unitdate_inclusive_teim">1819-1945</field>
+    <field name="scopecontent_teim"> This series contains certificates of membership to societies such as the American
+Association for the Advancement of Science, the National Geographic Society, the New York Academy of
+Science, and the New York Zoological Society. </field>
+    <field name="scopecontent_teim">Award certificates from various environmental, agricultural, and horticultural societies include an award for "a superior market wagon" from the Queens County Agricultural Society, and "best 12 ears
+of sweet corn" from the Horticultural Society of Morrisania.</field>
+    <field name="scopecontent_teim">A certificate of membership in the Audubon
+Society is embellished with an engraved portrait of Audubon as well as a small image of Cedar Birds. </field>
+    <field name="scopecontent_teim">A hand-lettered certificate by Tiffany and Co. from the American Numismatic and Archaeological Society
+commemorates the retirement of Daniel Parish, Jr. Tiffany and Co. also designed the membership certificates for the American Museum of Natural History.</field>
+    <field name="scopecontent_teim">Also of note are certificates from The Literary and Philosophical Society, a scientific society founded by DeWitt Clinton and Samuel Latham Mitchell in New York in 1814, and dissolved 1834.</field>
+    <field name="ref_ssi">aspace_ref305_dcg</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series XIX: Scientific</field>
+    <field name="heading_ssm">Series XIX: Scientific</field>
+    <field name="unitdate_ssm">Inclusive, 1819-1945</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">378</field>
+  </doc>
+</add>

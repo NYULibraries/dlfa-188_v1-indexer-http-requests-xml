@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr064_john_snook_drawingsaspace_ref306_qou</field>
+    <field name="ead_ssi">pr064_john_snook_drawings</field>
+    <field name="parent_ssi">aspace_ref305_rxm</field>
+    <field name="parent_ssm">aspace_ref296_9l9</field>
+    <field name="parent_ssm">aspace_ref305_rxm</field>
+    <field name="parent_unittitles_ssm">Series II: Financial Records</field>
+    <field name="parent_unittitles_ssm">LEDGERS</field>
+    <field name="parent_unittitles_teim">Series II: Financial Records</field>
+    <field name="parent_unittitles_teim">LEDGERS</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John B. Snook architectural records collection</field>
+    <field name="collection_ssm">John B. Snook architectural records collection</field>
+    <field name="collection_unitid_ssm">PR 64</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">John B. Snook  1845-1852 1850-1869 1861-1866 1866-1882 1883-1899</field>
+    <field name="unittitle_teim">John B. Snook  1845-1852 1850-1869 1861-1866 1866-1882 1883-1899</field>
+    <field name="ref_ssi">aspace_ref306_qou</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: unknown</field>
+    <field name="location_si">Folder: unknown</field>
+    <field name="collection_teim">John B. Snook architectural records collection</field>
+    <field name="collection_unitid_teim">PR 64</field>
+    <field name="series_sim">Series II: Financial Records</field>
+    <field name="series_sim">LEDGERS</field>
+    <field name="series_si">Series II: Financial Records &gt;&gt; LEDGERS &gt;&gt; John B. Snook  1845-1852 1850-1869 1861-1866 1866-1882 1883-1899</field>
+    <field name="heading_ssm">John B. Snook  1845-1852 1850-1869 1861-1866 1866-1882 1883-1899</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">265</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref485_6g0</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Album of amateur photographs]</field>
+    <field name="unittitle_teim">[Album of amateur photographs]</field>
+    <field name="unitdate_normal_ssm">1895/1895</field>
+    <field name="unitdate_normal_teim">1895/1895</field>
+    <field name="unitdate_normal_sim">1895/1895</field>
+    <field name="unitdate_inclusive_teim">[1895]</field>
+    <field name="scopecontent_teim">Cyanotypes and gelatin silver prints of a log cabin, ships, steamboats and sailboats, river scenery, chickens, man by a fence after a large snowfall, man in shop with bicycle, general view of a town, men in an architect or engineer's office; men with musical instruments on a small stage; the same in back of extension or shed; workshop with conical smokestack; laid in is a later photo on postcard paper of a couple posing with "Chicken people" (men in bird costumes) standing in the background. See also albums 79-81, 101, 148-150, 274.</field>
+    <field name="ref_ssi">aspace_ref485_6g0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 17, Volume: 154</field>
+    <field name="location_ssm">Volume: 154</field>
+    <field name="location_si">Volume: 154</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Album of amateur photographs]</field>
+    <field name="heading_ssm">[Album of amateur photographs]</field>
+    <field name="unitdate_start_sim">1895</field>
+    <field name="unitdate_start_ssm">1895</field>
+    <field name="unitdate_start_si">1895</field>
+    <field name="unitdate_end_sim">1895</field>
+    <field name="unitdate_end_ssm">1895</field>
+    <field name="unitdate_end_si">1895</field>
+    <field name="unitdate_ssm">Inclusive, [1895]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">162</field>
+  </doc>
+</add>

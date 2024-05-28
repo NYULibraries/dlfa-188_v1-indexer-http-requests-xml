@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref889_l5o</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_ssm">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_unittitles_ssm">Subjects</field>
+    <field name="parent_unittitles_teim">Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Subjects--World War I</field>
+    <field name="unittitle_teim">Subjects--World War I</field>
+    <field name="unitdate_normal_ssm">1914/1918</field>
+    <field name="unitdate_normal_teim">1914/1918</field>
+    <field name="unitdate_normal_sim">1914/1918</field>
+    <field name="unitdate_inclusive_teim">1914-1918</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0875</field>
+    <field name="scopecontent_teim">World War I: drawings depicting battles; view of Serajevo, Canadian troops leaving Canada; Indian troops in France; British troops in France, French soldiers, Scots soldiers, parade of German troops in Berlin, military leaders from various nations, including Pershing, Beatty and others, battlefields, including trenches with soldiers and with German dead, desolate No-Man's Land, artillery, grave of Quentin Roosevelt, buried where he fell, Poincare and Joffre visiting the Somme front, dirigibles, including a wrecked Zeppelin, artillery, armored tanking moving through smoke, observation plane, bridge over the Marne, both standing and blown-up, one view with Red Cross train wreck, wounded soldiers at a hospital in Belgium, cathedral at Rheims bombed by the Germans, Wilson addressing Senate, submarines in dry dock, 3000 American soldiers ready for France, soldiers marching in Chicago, sailors training at Great Lakes, soldiers learning to use gas masks, American soldiers in London, men in life-jackets awaiting abandon ship drill, the US. Transport Leviathan, formerly the Vaterland, American soldiers back home, holding up babies, Clemenceau, Wilson and Lloyd George after signing of the treaty or Versailles, victory day celebrations in Paris, July 14, 1919, casket of the American Unknown soldier arriving on the Olympia at Washington, D.C.</field>
+    <field name="scopecontent_teim">74 items</field>
+    <field name="ref_ssi">aspace_ref889_l5o</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 85</field>
+    <field name="location_si">Box: 85</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Subjects</field>
+    <field name="series_si">Subjects &gt;&gt; Subjects--World War I</field>
+    <field name="heading_ssm">Subjects--World War I</field>
+    <field name="unitdate_start_sim">1914</field>
+    <field name="unitdate_start_ssm">1914</field>
+    <field name="unitdate_start_si">1914</field>
+    <field name="unitdate_end_sim">1918</field>
+    <field name="unitdate_end_ssm">1918</field>
+    <field name="unitdate_end_si">1918</field>
+    <field name="unitdate_ssm">Inclusive, 1914-1918</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">877</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_162fb3190f515498bf728639596cef7e</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_ssm">aspace_e39fbfcde75c7b557870ca4d6dd65648</field>
+    <field name="parent_unittitles_ssm">Series II: Business Documents</field>
+    <field name="parent_unittitles_teim">Series II: Business Documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hicks Bill Book </field>
+    <field name="unittitle_teim">Hicks Bill Book </field>
+    <field name="unitdate_inclusive_teim">1799-1805</field>
+    <field name="scopecontent_teim">This book includes a list of bills that Hicks wrote or owed, primarily between 1799 and 1805.  It is organized into columns stating by whom drawn, note or bill, by whom received, date, days to run, when due, and then a lists of months, where an amount is filled in under the month that the payment is due.</field>
+    <field name="ref_ssi">aspace_162fb3190f515498bf728639596cef7e</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 102</field>
+    <field name="location_si">Box: 102</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series II: Business Documents</field>
+    <field name="series_si">Series II: Business Documents &gt;&gt; Hicks Bill Book </field>
+    <field name="heading_ssm">Hicks Bill Book </field>
+    <field name="unitdate_ssm">Inclusive, 1799-1805</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">443</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr268_hudson_fulton_pictorialaspace_ref62_l3b</field>
+    <field name="ead_ssi">pr268_hudson_fulton_pictorial</field>
+    <field name="parent_ssi">aspace_ref61_bzv</field>
+    <field name="parent_ssm">aspace_ref44_s5x</field>
+    <field name="parent_ssm">aspace_ref61_bzv</field>
+    <field name="parent_unittitles_ssm">Series II: Flat Files</field>
+    <field name="parent_unittitles_ssm">PRINTED MATERIAL</field>
+    <field name="parent_unittitles_teim">Series II: Flat Files</field>
+    <field name="parent_unittitles_teim">PRINTED MATERIAL</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hudson-Fulton Celebration Collection</field>
+    <field name="collection_ssm">Hudson-Fulton Celebration Collection</field>
+    <field name="collection_unitid_ssm">PR 268</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Original Packaging Labels</field>
+    <field name="unittitle_teim">Original Packaging Labels</field>
+    <field name="ref_ssi">aspace_ref62_l3b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Unknown container 685 for instance of Original Packaging Labels, Folder: 40</field>
+    <field name="location_ssm">Folder: 40</field>
+    <field name="location_si">Folder: 40</field>
+    <field name="collection_teim">Hudson-Fulton Celebration Collection</field>
+    <field name="collection_unitid_teim">PR 268</field>
+    <field name="series_sim">Series II: Flat Files</field>
+    <field name="series_sim">PRINTED MATERIAL</field>
+    <field name="series_si">Series II: Flat Files &gt;&gt; PRINTED MATERIAL &gt;&gt; Original Packaging Labels</field>
+    <field name="heading_ssm">Original Packaging Labels</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">50</field>
+  </doc>
+</add>

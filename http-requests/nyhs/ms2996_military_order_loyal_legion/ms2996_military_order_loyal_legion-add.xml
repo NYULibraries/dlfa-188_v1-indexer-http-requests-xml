@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Francis Gestosani</field>
+    <field name="author_ssm">Francis Gestosani</field>
+    <field name="unittitle_teim">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="unittitle_ssm">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="unitid_teim">MS 2996</field>
+    <field name="unitid_ssm">MS 2996</field>
+    <field name="abstract_teim">The records of the Military Order of the Loyal Legion of the United States consists primarily of routine correspondence to and from officers of the Legion. There are also a few interesting papers and artifacts from the Civil War.</field>
+    <field name="abstract_ssm">The records of the Military Order of the Loyal Legion of the United States consists primarily of routine correspondence to and from officers of the Legion. There are also a few interesting papers and artifacts from the Civil War.</field>
+    <field name="unitdate_normal_ssm">1853/1930</field>
+    <field name="unitdate_normal_ssm">1889/1913</field>
+    <field name="unitdate_normal_teim">1853/1930</field>
+    <field name="unitdate_normal_teim">1889/1913</field>
+    <field name="unitdate_normal_sim">1853/1930</field>
+    <field name="unitdate_normal_sim">1889/1913</field>
+    <field name="unitdate_bulk_teim">1889-1913</field>
+    <field name="unitdate_inclusive_teim">1853-1920</field>
+    <field name="scopecontent_teim">The Loyal Legion collection spans the period from 1861 to 1920 and contains correspondence, financial materials, membership records, and a few Civil War artifacts. The majority of the correspondence concerns routine matters such as memberhip, dues, in memoriam notices for deceased members, appointments, speakers, insignia orders, and similar types of internal issues.   </field>
+    <field name="scopecontent_teim">Financial materials include account books, check books, and receipt books. </field>
+    <field name="scopecontent_teim">The collection also contains some interesting Civil War memorabilia, including a [blood-stained?] letter that passed across battle lines at Antietam, a piece of fabric from a Confederate spy balloon and a submarine cable used by the Confederates. </field>
+    <field name="bioghist_teim">The Military Order of the Loyal Legion of the United States is a patriotic veterans organization that was formed in the wake of the assassination of Abraham Lincoln on April 15, 1865.  </field>
+    <field name="bioghist_teim">It was founded in Philadelphia, by three Union officers attending a mass meeting of veterans in that city to plan for participation in the funeral arrangements for the President. These three officers -- Brevet Lt. Col. Samuel Brown Wylie Mitchell, Lt. Col. Thomas Ellwood Zell, and Captain Peter Dirck Keyser -- wanted to form an organization that could help thwart future threats to the national government.  Their model was the Society of the Cincinnati, established after the Revolutionary War. The name they chose, the Military Order of the Loyal Legion of the United States (MOLLUS), first appeared in a notice calling a meeting on May 31, 1865 at Independence Hall. </field>
+    <field name="bioghist_teim">Other states soon formed their own MOLLUS commanderies, including the New York Commandery, which was instituted on January 17, 1866, with headquarters in New York City.  </field>
+    <field name="bioghist_teim">The organization originally consisted of three classes of members. Officers who fought in the US military during and after the American Civil War were known as the "Original Companions of the First Class." The eldest direct male lineal descendants of deceased Original Companions or deceased eligible officers could be admitted as "hereditary Companions of the First Class." Companions of the Second Class consists of descendants of living Original Companions or of living individuals eligible for First class membership. The third class was comprised of civilians who gave faithful and conspicuous service to the Union during the Civil War. </field>
+    <field name="bioghist_teim">The organization still exists today, but now serves as a hereditary society (male descendants of eligible officers), rather than a functioning military order. Many Companions are nonetheless either military veterans or even on active military duty. Among other activities, Companions organize and participate in commemorative events, provide awards to deserving ROTC cadets, and assist with preservation efforts. </field>
+    <field name="bioghist_teim">Organizationally, MOLLUS is composed of a National Commandery-in-Chief and individual state Commanderies. In 2016, there were 20 state Commanderies. States without their own Commandery are placed under the jurisdiction of an existing Commandery.</field>
+    <field name="bioghist_teim">Since its inception, the MOLLUS membership has included nearly 12,000 Civil War officers. At its zenith, the organization counted practically every prominent officer among its ranks. Among them were Generals Ulysses S. Grant, William T. Sherman;Lt. Generals Philip H. Sheridan, Nelson A. Miles and John M. Schofield;Major General Winfield Scott Hancock, George B. McClellan, Rutherford B.Hayes, George Armstrong Custer, David McMurtrie Gregg and Grenville M. Dodge;Admiral David G. Farragut; Rear Admirals Bancroft Gherardi and George W.Melville. In addition to Ulysses S. Grant and Rutherford B. Hayes, Original Companions Chester A. Arthur, Benjamin Harrison and William McKinley served as Presidents of the United States.</field>
+    <field name="corpname_teim">New-York Historical Society</field>
+    <field name="corpname_ssm">New-York Historical Society</field>
+    <field name="collection_sim">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="collection_ssm">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="collection_teim">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="id">ms2996_military_order_loyal_legion</field>
+    <field name="ead_ssi">ms2996_military_order_loyal_legion</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="heading_ssm">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="unitdate_start_sim">1853</field>
+    <field name="unitdate_start_sim">1889</field>
+    <field name="unitdate_start_ssm">1853</field>
+    <field name="unitdate_start_ssm">1889</field>
+    <field name="unitdate_start_si">1889</field>
+    <field name="unitdate_end_sim">1930</field>
+    <field name="unitdate_end_sim">1913</field>
+    <field name="unitdate_end_ssm">1930</field>
+    <field name="unitdate_end_ssm">1913</field>
+    <field name="unitdate_end_si">1913</field>
+    <field name="unitdate_ssm">Inclusive, 1853-1920 ; 1889-1913</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

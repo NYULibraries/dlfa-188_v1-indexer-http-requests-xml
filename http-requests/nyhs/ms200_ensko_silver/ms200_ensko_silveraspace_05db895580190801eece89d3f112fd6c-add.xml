@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_05db895580190801eece89d3f112fd6c</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_54b6fb29fad876a426fb19f47304adf8</field>
+    <field name="parent_ssm">aspace_bbc508e612d1f4bba6232147b4bc0512</field>
+    <field name="parent_ssm">aspace_54b6fb29fad876a426fb19f47304adf8</field>
+    <field name="parent_unittitles_ssm">Series V. Sales Tickets and Invoices</field>
+    <field name="parent_unittitles_ssm">Subseries V.B. Sales Tickets by Ticket Number</field>
+    <field name="parent_unittitles_teim">Series V. Sales Tickets and Invoices</field>
+    <field name="parent_unittitles_teim">Subseries V.B. Sales Tickets by Ticket Number</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Sales tickets. 2nd run, 1958-1970. (Box 1 of 11)</field>
+    <field name="unittitle_teim">Sales tickets. 2nd run, 1958-1970. (Box 1 of 11)</field>
+    <field name="unitdate_inclusive_teim">1958</field>
+    <field name="scopecontent_teim">In this 2nd run, the ticket numbering restarts with 100, but continues chronologically with no gap from the 1st run that ended with ticket 75500 in July 1958. This box holds 2 stacks: tickets 100-999 (July 1958-Oct 1958) and 1000-1999 (Sept 1958-Dec 1958).</field>
+    <field name="ref_ssi">aspace_05db895580190801eece89d3f112fd6c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 139</field>
+    <field name="location_si">Offsite-Box: 139</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series V. Sales Tickets and Invoices</field>
+    <field name="series_sim">Subseries V.B. Sales Tickets by Ticket Number</field>
+    <field name="series_si">Series V. Sales Tickets and Invoices &gt;&gt; Subseries V.B. Sales Tickets by Ticket Number &gt;&gt; Sales tickets. 2nd run, 1958-1970. (Box 1 of 11)</field>
+    <field name="heading_ssm">Sales tickets. 2nd run, 1958-1970. (Box 1 of 11)</field>
+    <field name="unitdate_ssm">Inclusive, 1958</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">178</field>
+  </doc>
+</add>

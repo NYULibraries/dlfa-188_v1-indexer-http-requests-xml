@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref863_41a</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Sites and scenes, Washington Heights vicinity / collected by Reginold Pelham Bolton</field>
+    <field name="unittitle_teim">Sites and scenes, Washington Heights vicinity / collected by Reginold Pelham Bolton</field>
+    <field name="unitdate_normal_ssm">1910/1930</field>
+    <field name="unitdate_normal_teim">1910/1930</field>
+    <field name="unitdate_normal_sim">1910/1930</field>
+    <field name="unitdate_inclusive_teim">[1910-1930]</field>
+    <field name="scopecontent_teim">Spine title: Washington Heights, New York City; views in Inwood, Fort Tryon, Fort Washington, Washington Heights, Kingsbridge; Laurel Hill, Fort Clinton and Fort George; "Indian cave" in Inwood Hill Park; view of men working excavating Revolutionary War sites; Dyckman valley; Inwood Valley from Fort George; historic homes and sites including Jumel Mansion, Ambrose Kingsley Home (one view with cow grazing on lawn), "Melbourne," Haven estate, J.J. Audubon home, Billings residence, a castellated home that was in Villas on the Hudson (1860), Nagel homestead, including view of house after a fire, E.A. Poe cottage, Shepard Karpp House in the snow; remains of batteries; views along Broadway including intersection with St. Nicholas, American Geographical Society, American Indian Museum, apartments, Church of the Intercession; Bolton garden at 158th, including views of fences and pergola; Holyrood church at 181st; Seaman Ave., Indian village site; excavating Indian ceremonial site; "Indian caretaker and her grandchildren, Inwood Hill park"; Negro burying ground and Indian dog pits, and a view of human remain in the burying ground, 212th St. and 10th Ave.; snowy lane at 187th and Broadway; Polo Grounds; views from the water tower; small wood-frame homes on Croton St.; views along Spuyten Duyvil, and the Hudson, including views of Riverside Drive including construction, and streets from 135th to 162nd; Harlem River from 201st.; tugs "removing" Broadway swing bridge to 207th Street; Spuyten Duyvil, showing Marble Hill and the Johnson foundry; Marble Hill and U.S. ship canal; New York Central Railroad station and railroad cut; children in yard between Seaman &amp; Prescott (Payson) Ave., a military camp site; reconstructed military hut, Dyckman House Park dedication of playground at Colonial Park, Bussing farm; photographs of drawings and prints of early homes; trees, including tulip trees, historic trees; view of springs; photographers include Gottscho, Geo. Dodd, Chas. Boyer, W. L. Calver, Geo. C. Wheeler, E. Wenzel.</field>
+    <field name="ref_ssi">aspace_ref863_41a</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 38, Volume: 261</field>
+    <field name="location_ssm">Volume: 261</field>
+    <field name="location_si">Volume: 261</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Sites and scenes, Washington Heights vicinity / collected by Reginold Pelham Bolton</field>
+    <field name="heading_ssm">Sites and scenes, Washington Heights vicinity / collected by Reginold Pelham Bolton</field>
+    <field name="unitdate_start_sim">1910</field>
+    <field name="unitdate_start_ssm">1910</field>
+    <field name="unitdate_start_si">1910</field>
+    <field name="unitdate_end_sim">1930</field>
+    <field name="unitdate_end_ssm">1930</field>
+    <field name="unitdate_end_si">1930</field>
+    <field name="unitdate_ssm">Inclusive, [1910-1930]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">297</field>
+  </doc>
+</add>

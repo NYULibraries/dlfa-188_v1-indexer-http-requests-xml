@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr031_bella_landauer_business_advertisingaspace_b95417fc31d278cced5205b3977663d8</field>
+    <field name="ead_ssi">pr031_bella_landauer_business_advertising</field>
+    <field name="parent_ssi">aspace_2c1bc1d4961a922e65a532c95377a557</field>
+    <field name="parent_ssm">aspace_ref71_qx7</field>
+    <field name="parent_ssm">aspace_2c1bc1d4961a922e65a532c95377a557</field>
+    <field name="parent_unittitles_ssm">Series II: LOOSE EPHEMERA</field>
+    <field name="parent_unittitles_ssm">Subseries I: SMALL EPHEMERA</field>
+    <field name="parent_unittitles_teim">Series II: LOOSE EPHEMERA</field>
+    <field name="parent_unittitles_teim">Subseries I: SMALL EPHEMERA</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
+    <field name="collection_ssm">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
+    <field name="collection_unitid_ssm">PR 31</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Building</field>
+    <field name="unittitle_teim">Building</field>
+    <field name="scopecontent_teim">including material from BCL scrapbooks 02 B-E</field>
+    <field name="scopecontent_teim">Architects/builders/carpenters/contractors</field>
+    <field name="scopecontent_teim">Awnings/shades/shutters (see also: HOUSEHOLD, Shades and blinds)</field>
+    <field name="scopecontent_teim">Bathing/sanitary fixtures</field>
+    <field name="scopecontent_teim">Bricks</field>
+    <field name="scopecontent_teim">Cast iron (see: HARDWARE, Foundries)</field>
+    <field name="scopecontent_teim">Cement/concrete</field>
+    <field name="scopecontent_teim">Elevators</field>
+    <field name="scopecontent_teim">Fences</field>
+    <field name="scopecontent_teim">Glass/windows</field>
+    <field name="scopecontent_teim">Lumber/cabinetmakers/woodworkers</field>
+    <field name="scopecontent_teim">Marble (see also: UNDERTAKERS, Grave markers)</field>
+    <field name="scopecontent_teim">Masons/plasterers</field>
+    <field name="scopecontent_teim">Paint Manufacturers</field>
+    <field name="scopecontent_teim">Paint Merchants</field>
+    <field name="scopecontent_teim">Painters/decorators/sign painters</field>
+    <field name="ref_ssi">aspace_b95417fc31d278cced5205b3977663d8</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 11</field>
+    <field name="location_si">Offsite-Box: 11</field>
+    <field name="collection_teim">Bella C. Landauer Collection of Business and Advertising Ephemera</field>
+    <field name="collection_unitid_teim">PR 31</field>
+    <field name="series_sim">Series II: LOOSE EPHEMERA</field>
+    <field name="series_sim">Subseries I: SMALL EPHEMERA</field>
+    <field name="series_si">Series II: LOOSE EPHEMERA &gt;&gt; Subseries I: SMALL EPHEMERA &gt;&gt; Building</field>
+    <field name="heading_ssm">Building</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">319</field>
+  </doc>
+</add>

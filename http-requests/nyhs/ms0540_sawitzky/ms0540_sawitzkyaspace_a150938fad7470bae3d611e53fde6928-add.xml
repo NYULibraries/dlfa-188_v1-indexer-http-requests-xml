@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms0540_sawitzkyaspace_a150938fad7470bae3d611e53fde6928</field>
+    <field name="ead_ssi">ms0540_sawitzky</field>
+    <field name="parent_ssi">aspace_432bb9062094f253928a8528a76b6d41</field>
+    <field name="parent_ssm">aspace_432bb9062094f253928a8528a76b6d41</field>
+    <field name="parent_unittitles_ssm">Series I: Art Lectures</field>
+    <field name="parent_unittitles_teim">Series I: Art Lectures</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">William Sawitzky research notes</field>
+    <field name="collection_ssm">William Sawitzky research notes</field>
+    <field name="collection_unitid_ssm">MS 0540</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Notes for lectures</field>
+    <field name="unittitle_teim">Notes for lectures</field>
+    <field name="unitdate_inclusive_teim">1940-1942</field>
+    <field name="ref_ssi">aspace_a150938fad7470bae3d611e53fde6928</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 166, Box: 64</field>
+    <field name="location_ssm">Box: 64</field>
+    <field name="location_si">Box: 64</field>
+    <field name="collection_teim">William Sawitzky research notes</field>
+    <field name="collection_unitid_teim">MS 0540</field>
+    <field name="series_sim">Series I: Art Lectures</field>
+    <field name="series_si">Series I: Art Lectures &gt;&gt; Notes for lectures</field>
+    <field name="heading_ssm">Notes for lectures</field>
+    <field name="unitdate_ssm">Inclusive, 1940-1942</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

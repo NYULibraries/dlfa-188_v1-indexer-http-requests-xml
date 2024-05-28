@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms282_harmonie_clubaspace_ref67_50d</field>
+    <field name="ead_ssi">ms282_harmonie_club</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Harmonie Club records</field>
+    <field name="collection_ssm">Harmonie Club records</field>
+    <field name="collection_unitid_ssm">MS 282</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III: Membership Books and Candidate Registers</field>
+    <field name="unittitle_teim">Series III: Membership Books and Candidate Registers</field>
+    <field name="unitdate_inclusive_teim">1852-1995</field>
+    <field name="scopecontent_teim">The Membership Registers and Candidate Registers are composed of several bound ledgers running from the Harmonie Club's founding until after World War II. Each book is organized alphabetically using lettered tabs. Both types contain columned pages and provide each entry with a membership number, name, address, admission date, and notes. The notes sections contain various remarks pertaining to the individual.  This series also includes Membership Statistics and Rosters for that continue into the 1990's.</field>
+    <field name="ref_ssi">aspace_ref67_50d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Harmonie Club records</field>
+    <field name="collection_unitid_teim">MS 282</field>
+    <field name="series_si">Series III: Membership Books and Candidate Registers</field>
+    <field name="heading_ssm">Series III: Membership Books and Candidate Registers</field>
+    <field name="unitdate_ssm">Inclusive, 1852-1995</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">66</field>
+  </doc>
+</add>

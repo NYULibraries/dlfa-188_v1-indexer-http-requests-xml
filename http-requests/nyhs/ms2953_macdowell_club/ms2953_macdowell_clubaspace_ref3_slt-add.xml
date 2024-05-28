@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2953_macdowell_clubaspace_ref3_slt</field>
+    <field name="ead_ssi">ms2953_macdowell_club</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">MacDowell Club of New York City records</field>
+    <field name="collection_ssm">MacDowell Club of New York City records</field>
+    <field name="collection_unitid_ssm">MS 2953</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Account Books</field>
+    <field name="unittitle_teim">Series II: Account Books</field>
+    <field name="scopecontent_teim">This series includes an incomplete set of account books detailing some of the financial operations (receipts and disbursements) of the organization in the 1920's and 1930's.</field>
+    <field name="ref_ssi">aspace_ref3_slt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">MacDowell Club of New York City records</field>
+    <field name="collection_unitid_teim">MS 2953</field>
+    <field name="series_si">Series II: Account Books</field>
+    <field name="heading_ssm">Series II: Account Books</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">33</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_62f360d93436e0b0755a5de1dc7fa607</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_f201081bc10af8f8685f0982105512e5</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_f201081bc10af8f8685f0982105512e5</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Mastin, Florence Ripley (poet, 1887?–Feb. 23, 1968)</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Mastin, Florence Ripley (poet, 1887?–Feb. 23, 1968)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Florence Ripley Mastin papers</field>
+    <field name="unittitle_teim">Florence Ripley Mastin papers</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">Correspondence, holograph manuscripts, and published books produced by Miss Mastin, a well-known poet who also was a teacher at Erasmus Hall.</field>
+    <field name="ref_ssi">aspace_62f360d93436e0b0755a5de1dc7fa607</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: MS-27</field>
+    <field name="location_si">Offsite-Box: MS-27</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Mastin, Florence Ripley (poet, 1887?–Feb. 23, 1968)</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Mastin, Florence Ripley (poet, 1887?–Feb. 23, 1968) &gt;&gt; Florence Ripley Mastin papers</field>
+    <field name="heading_ssm">Florence Ripley Mastin papers</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">756</field>
+  </doc>
+</add>

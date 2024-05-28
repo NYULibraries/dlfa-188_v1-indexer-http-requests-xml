@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2430_southern_famine_reliefaspace_ref71_d8x</field>
+    <field name="ead_ssi">ms2430_southern_famine_relief</field>
+    <field name="parent_ssi">aspace_ref68_643</field>
+    <field name="parent_ssm">aspace_ref68_643</field>
+    <field name="parent_unittitles_ssm">Series III: Letter Books and Letter Register</field>
+    <field name="parent_unittitles_teim">Series III: Letter Books and Letter Register</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Southern Famine Relief Commission Records</field>
+    <field name="collection_ssm">Southern Famine Relief Commission Records</field>
+    <field name="collection_unitid_ssm">MS 2430</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Letters Received 1867 Famine Relief Commission</field>
+    <field name="unittitle_teim">Letters Received 1867 Famine Relief Commission</field>
+    <field name="unitdate_teim">1867 Feb. 13-July 26</field>
+    <field name="ref_ssi">aspace_ref71_d8x</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: [11]</field>
+    <field name="location_si">Volume: [11]</field>
+    <field name="collection_teim">Southern Famine Relief Commission Records</field>
+    <field name="collection_unitid_teim">MS 2430</field>
+    <field name="series_sim">Series III: Letter Books and Letter Register</field>
+    <field name="series_si">Series III: Letter Books and Letter Register &gt;&gt; Letters Received 1867 Famine Relief Commission</field>
+    <field name="heading_ssm">Letters Received 1867 Famine Relief Commission</field>
+    <field name="unitdate_ssm">1867 Feb. 13-July 26</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">54</field>
+  </doc>
+</add>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr151_european_printsaspace_ref15_aex</field>
+    <field name="ead_ssi">pr151_european_prints</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">European print file</field>
+    <field name="collection_ssm">European print file</field>
+    <field name="collection_unitid_ssm">PR 151</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: European History prints</field>
+    <field name="unittitle_teim">Series I: European History prints</field>
+    <field name="ref_ssi">aspace_ref15_aex</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">European print file</field>
+    <field name="collection_unitid_teim">PR 151</field>
+    <field name="series_si">Series I: European History prints</field>
+    <field name="heading_ssm">Series I: European History prints</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

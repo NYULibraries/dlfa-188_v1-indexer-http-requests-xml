@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr149_bella_landauer_writings_referenceaspace_ref128_9rl</field>
+    <field name="ead_ssi">pr149_bella_landauer_writings_reference</field>
+    <field name="parent_ssi">aspace_ref120_fq2</field>
+    <field name="parent_ssm">aspace_ref120_fq2</field>
+    <field name="parent_unittitles_ssm">Series V: Reference Works</field>
+    <field name="parent_unittitles_teim">Series V: Reference Works</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Bella C. Landauer Writings and Reference Collection</field>
+    <field name="collection_ssm">Bella C. Landauer Writings and Reference Collection</field>
+    <field name="collection_unitid_ssm">PR 149</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II: Monographs</field>
+    <field name="unittitle_teim">Subseries II: Monographs</field>
+    <field name="scopecontent_teim">Monographs are listed in alphabetical order by author. Those monographs listed below with folder numbers are boxed for safety. Those without folder numbers have few extra-illustrations and are shelved with the collection.</field>
+    <field name="ref_ssi">aspace_ref128_9rl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bella C. Landauer Writings and Reference Collection</field>
+    <field name="collection_unitid_teim">PR 149</field>
+    <field name="series_sim">Series V: Reference Works</field>
+    <field name="series_si">Series V: Reference Works &gt;&gt; Subseries II: Monographs</field>
+    <field name="heading_ssm">Subseries II: Monographs</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">94</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms444_nyc100_recordsaspace_ref230_5ls</field>
+    <field name="ead_ssi">ms444_nyc100_records</field>
+    <field name="parent_ssi">aspace_ref205_vie</field>
+    <field name="parent_ssm">aspace_ref205_vie</field>
+    <field name="parent_unittitles_ssm">Series XIV: Accounting and Finance [restricted for 75 years]</field>
+    <field name="parent_unittitles_teim">Series XIV: Accounting and Finance [restricted for 75 years]</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The New York City 100 Records</field>
+    <field name="collection_ssm">The New York City 100 Records</field>
+    <field name="collection_unitid_ssm">MS 444</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 4: Expense Activity Binder [restricted for 75 years]</field>
+    <field name="unittitle_teim">Subseries 4: Expense Activity Binder [restricted for 75 years]</field>
+    <field name="unitdate_normal_ssm">1997/1999</field>
+    <field name="unitdate_normal_teim">1997/1999</field>
+    <field name="unitdate_normal_sim">1997/1999</field>
+    <field name="unitdate_inclusive_teim">1997-1999</field>
+    <field name="scopecontent_teim">Contained within a large black binder were bills, statements, invoices, copies of checks, correspondence and other items related primarily to New York City 100 expenses.  Subseries 4 includes these documents.  Most of the material is arranged alphabetically by the name of the vendor or individual paid.  There are, in addition, two sections labeled "Expenses", which contains original expense reports, and "Chase CD's", with statements relating to CD balances (Box 12, Folder 7). Box 12, Folder 8 holds items that were not filed within the binder but contained in its front pocket. One of those items is the organization's Special Event Liability insurance policy. </field>
+    <field name="scopecontent_teim">The bulk of the items within this subseries are dated 1999 although there are some with 1998 dates and a few, 1997.</field>
+    <field name="ref_ssi">aspace_ref230_5ls</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 12</field>
+    <field name="location_si">Box: 12</field>
+    <field name="collection_teim">The New York City 100 Records</field>
+    <field name="collection_unitid_teim">MS 444</field>
+    <field name="series_sim">Series XIV: Accounting and Finance [restricted for 75 years]</field>
+    <field name="series_si">Series XIV: Accounting and Finance [restricted for 75 years] &gt;&gt; Subseries 4: Expense Activity Binder [restricted for 75 years]</field>
+    <field name="heading_ssm">Subseries 4: Expense Activity Binder [restricted for 75 years]</field>
+    <field name="unitdate_start_sim">1997</field>
+    <field name="unitdate_start_ssm">1997</field>
+    <field name="unitdate_start_si">1997</field>
+    <field name="unitdate_end_sim">1999</field>
+    <field name="unitdate_end_ssm">1999</field>
+    <field name="unitdate_end_si">1999</field>
+    <field name="unitdate_ssm">Inclusive, 1997-1999</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">186</field>
+  </doc>
+</add>

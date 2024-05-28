@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_e971f0f11e21a141d1c9d4cc2e9543d3</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_ssm">aspace_9d42df814820f203e31dbff0087accd1</field>
+    <field name="parent_unittitles_ssm">Series I: Broadway Theatrical Photography</field>
+    <field name="parent_unittitles_teim">Series I: Broadway Theatrical Photography</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries: BEN PINCHOT</field>
+    <field name="unittitle_teim">Subseries: BEN PINCHOT</field>
+    <field name="unitdate_inclusive_teim">1927-1945</field>
+    <field name="scopecontent_teim">This series consists mainly of portraits of actors and theatrical productions taken by American photographer Ben Pinchot (1890-1986). From the 1927 through the late 1940s, Pinchot became known for his dramatic nudes, and for capturing artists and performers in their element.</field>
+    <field name="ref_ssi">aspace_e971f0f11e21a141d1c9d4cc2e9543d3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series I: Broadway Theatrical Photography</field>
+    <field name="series_si">Series I: Broadway Theatrical Photography &gt;&gt; Subseries: BEN PINCHOT</field>
+    <field name="heading_ssm">Subseries: BEN PINCHOT</field>
+    <field name="unitdate_ssm">Inclusive, 1927-1945</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms23_artists_fund_societyaspace_ref21_hed</field>
+    <field name="ead_ssi">ms23_artists_fund_society</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Artists' Fund Society records</field>
+    <field name="collection_ssm">Artists' Fund Society records</field>
+    <field name="collection_unitid_ssm">MS 23</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Correspondence</field>
+    <field name="unittitle_teim">Series V: Correspondence</field>
+    <field name="scopecontent_teim">This series consists of letters received by Artists' Fund Society officers and board members arranged alphabetically by recipient. Additionally, correspondence associated with particular committees and positions is grouped at the end. Letters address a range of activities and issues, including assistance to artists in need, updates on the health of those receiving aid, notifications of deaths of members, payment of assessment fees, honorary memberships, thank you letters, resignations, nominations for membership or service on the Board of Control, and other Society business.</field>
+    <field name="ref_ssi">aspace_ref21_hed</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Artists' Fund Society records</field>
+    <field name="collection_unitid_teim">MS 23</field>
+    <field name="series_si">Series V: Correspondence</field>
+    <field name="heading_ssm">Series V: Correspondence</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">51</field>
+  </doc>
+</add>

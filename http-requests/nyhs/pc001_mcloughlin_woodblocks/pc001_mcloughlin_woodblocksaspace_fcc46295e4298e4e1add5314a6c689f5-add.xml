@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pc001_mcloughlin_woodblocksaspace_fcc46295e4298e4e1add5314a6c689f5</field>
+    <field name="ead_ssi">pc001_mcloughlin_woodblocks</field>
+    <field name="parent_ssi">aspace_e5cd778b29e92d8fb78ce1b94b7b07fd</field>
+    <field name="parent_ssm">aspace_e5cd778b29e92d8fb78ce1b94b7b07fd</field>
+    <field name="parent_unittitles_ssm">Series I. Assorted series</field>
+    <field name="parent_unittitles_teim">Series I. Assorted series</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_ssm">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_unitid_ssm">PC 001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Father's Series: Henry Brown&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Father's Series: Henry Brown
+    </field>
+    <field name="scopecontent_teim">8 woodblocks including title lettering and woodblocks no. 1-7.</field>
+    <field name="title_teim">Father's Series: Henry Brown</field>
+    <field name="title_ssm">Father's Series: Henry Brown</field>
+    <field name="ref_ssi">aspace_fcc46295e4298e4e1add5314a6c689f5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 2, Box: 1A (6)</field>
+    <field name="location_ssm">Box: 1A (6)</field>
+    <field name="location_si">Box: 1A (6)</field>
+    <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_unitid_teim">PC 001</field>
+    <field name="series_sim">Series I. Assorted series</field>
+    <field name="series_si">Series I. Assorted series &gt;&gt; 
+      &lt;em&gt;Father's Series: Henry Brown&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Father's Series: Henry Brown
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg13aspace_ref3478</field>
+    <field name="ead_ssi">timeinc_ms3009_rg13</field>
+    <field name="parent_ssi">aspace_684a02de940e651acf0fa9600b79bd1d</field>
+    <field name="parent_ssm">aspace_ref1540</field>
+    <field name="parent_ssm">aspace_684a02de940e651acf0fa9600b79bd1d</field>
+    <field name="parent_unittitles_ssm">Series I. Bio Files</field>
+    <field name="parent_unittitles_ssm">-F-</field>
+    <field name="parent_unittitles_teim">Series I. Bio Files</field>
+    <field name="parent_unittitles_teim">-F-</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Time Inc. Time Research Center Files</field>
+    <field name="collection_ssm">Time Inc. Time Research Center Files</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 13</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Flaubert, Gustave</field>
+    <field name="unittitle_teim">Flaubert, Gustave</field>
+    <field name="unitdate_teim">1935-1992</field>
+    <field name="ref_ssi">aspace_ref3478</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1225, Folder: 5-6</field>
+    <field name="location_ssm">Folder: 5-6</field>
+    <field name="location_si">Folder: 5-6</field>
+    <field name="collection_teim">Time Inc. Time Research Center Files</field>
+    <field name="collection_unitid_teim">MS 3009-RG 13</field>
+    <field name="series_sim">Series I. Bio Files</field>
+    <field name="series_sim">-F-</field>
+    <field name="series_si">Series I. Bio Files &gt;&gt; -F- &gt;&gt; Flaubert, Gustave</field>
+    <field name="heading_ssm">Flaubert, Gustave</field>
+    <field name="unitdate_ssm">1935-1992</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2014</field>
+  </doc>
+</add>

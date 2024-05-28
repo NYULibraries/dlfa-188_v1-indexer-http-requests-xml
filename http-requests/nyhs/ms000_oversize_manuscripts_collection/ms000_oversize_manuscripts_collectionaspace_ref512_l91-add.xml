@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms000_oversize_manuscripts_collectionaspace_ref512_l91</field>
+    <field name="ead_ssi">ms000_oversize_manuscripts_collection</field>
+    <field name="parent_ssi">aspace_ref9_cso</field>
+    <field name="parent_ssm">aspace_ref9_cso</field>
+    <field name="parent_unittitles_ssm">Series II. Oversize Manuscripts From Other Collections</field>
+    <field name="parent_unittitles_teim">Series II. Oversize Manuscripts From Other Collections</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oversize manuscripts collection</field>
+    <field name="collection_ssm">Oversize manuscripts collection</field>
+    <field name="collection_unitid_ssm">MS OS</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Y-AHMC Buffalo, NY] Harbor Construction, Payroll</field>
+    <field name="unittitle_teim">[Y-AHMC Buffalo, NY] Harbor Construction, Payroll</field>
+    <field name="unitdate_teim">1838-1839</field>
+    <field name="ref_ssi">aspace_ref512_l91</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: small</field>
+    <field name="location_si">oversize: small</field>
+    <field name="collection_teim">Oversize manuscripts collection</field>
+    <field name="collection_unitid_teim">MS OS</field>
+    <field name="series_sim">Series II. Oversize Manuscripts From Other Collections</field>
+    <field name="series_si">Series II. Oversize Manuscripts From Other Collections &gt;&gt; [Y-AHMC Buffalo, NY] Harbor Construction, Payroll</field>
+    <field name="heading_ssm">[Y-AHMC Buffalo, NY] Harbor Construction, Payroll</field>
+    <field name="unitdate_ssm">1838-1839</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">267</field>
+  </doc>
+</add>

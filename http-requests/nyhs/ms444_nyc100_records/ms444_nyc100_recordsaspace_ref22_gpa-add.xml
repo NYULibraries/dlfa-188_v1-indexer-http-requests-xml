@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms444_nyc100_recordsaspace_ref22_gpa</field>
+    <field name="ead_ssi">ms444_nyc100_records</field>
+    <field name="parent_ssi">aspace_ref16_ut3</field>
+    <field name="parent_ssm">aspace_ref16_ut3</field>
+    <field name="parent_unittitles_ssm">Series II: Background &amp;amp; Initial Planning (1995)</field>
+    <field name="parent_unittitles_teim">Series II: Background &amp;amp; Initial Planning (1995)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The New York City 100 Records</field>
+    <field name="collection_ssm">The New York City 100 Records</field>
+    <field name="collection_unitid_ssm">MS 444</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">f. NEH Funding Proposal</field>
+    <field name="unittitle_teim">f. NEH Funding Proposal</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_ref22_gpa</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">The New York City 100 Records</field>
+    <field name="collection_unitid_teim">MS 444</field>
+    <field name="series_sim">Series II: Background &amp;amp; Initial Planning (1995)</field>
+    <field name="series_si">Series II: Background &amp;amp; Initial Planning (1995) &gt;&gt; f. NEH Funding Proposal</field>
+    <field name="heading_ssm">f. NEH Funding Proposal</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

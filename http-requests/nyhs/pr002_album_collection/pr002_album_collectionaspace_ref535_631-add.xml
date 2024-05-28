@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref535_631</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Albums of photographs of fire-fighting Vol. 1]</field>
+    <field name="unittitle_teim">[Albums of photographs of fire-fighting Vol. 1]</field>
+    <field name="unitdate_normal_ssm">1911/1912</field>
+    <field name="unitdate_normal_teim">1911/1912</field>
+    <field name="unitdate_normal_sim">1911/1912</field>
+    <field name="unitdate_inclusive_teim">1911-1912</field>
+    <field name="scopecontent_teim">Horse-drawn fire-engines racing to fires, including engines 74, 56, Engine 76 at a fire; views of fire-fighters on the scene, including: Manhattan Soap Co. fire, W. 36th Street, April 10, 1911; a lumber yard and laundry, 52nd street near 10th Ave., June 17, 1911; Equitable Building fire scene, showing it becoming increasingly covered in ice, and firemen and officials also ice-coated; Tenement fire on W. 47th, January 13, 1912; some reproduced in Smyth Fire albums.</field>
+    <field name="ref_ssi">aspace_ref535_631</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 19, Volume: 168.1</field>
+    <field name="location_ssm">Volume: 168.1</field>
+    <field name="location_si">Volume: 168.1</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Albums of photographs of fire-fighting Vol. 1]</field>
+    <field name="heading_ssm">[Albums of photographs of fire-fighting Vol. 1]</field>
+    <field name="unitdate_start_sim">1911</field>
+    <field name="unitdate_start_ssm">1911</field>
+    <field name="unitdate_start_si">1911</field>
+    <field name="unitdate_end_sim">1912</field>
+    <field name="unitdate_end_ssm">1912</field>
+    <field name="unitdate_end_si">1912</field>
+    <field name="unitdate_ssm">Inclusive, 1911-1912</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">181</field>
+  </doc>
+</add>

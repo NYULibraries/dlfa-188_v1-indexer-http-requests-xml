@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr098_olcott_hudson_river_steamboatsaspace_ref56_uso</field>
+    <field name="ead_ssi">pr098_olcott_hudson_river_steamboats</field>
+    <field name="parent_ssi">aspace_ref47_6w6</field>
+    <field name="parent_ssm">aspace_ref47_6w6</field>
+    <field name="parent_unittitles_ssm">Series III. Oversize Materials</field>
+    <field name="parent_unittitles_teim">Series III. Oversize Materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Alfred Olcott Collection of Hudson River Steamboats</field>
+    <field name="collection_ssm">The Alfred Olcott Collection of Hudson River Steamboats</field>
+    <field name="collection_unitid_ssm">PR 98</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Photographs</field>
+    <field name="unittitle_teim">Photographs</field>
+    <field name="ref_ssi">aspace_ref56_uso</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Alfred Olcott Collection of Hudson River Steamboats</field>
+    <field name="collection_unitid_teim">PR 98</field>
+    <field name="series_sim">Series III. Oversize Materials</field>
+    <field name="series_si">Series III. Oversize Materials &gt;&gt; Photographs</field>
+    <field name="heading_ssm">Photographs</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">42</field>
+  </doc>
+</add>

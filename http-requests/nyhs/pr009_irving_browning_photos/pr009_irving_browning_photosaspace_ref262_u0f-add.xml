@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr009_irving_browning_photosaspace_ref262_u0f</field>
+    <field name="ead_ssi">pr009_irving_browning_photos</field>
+    <field name="parent_ssi">aspace_ref13_xmc</field>
+    <field name="parent_ssm">aspace_ref13_xmc</field>
+    <field name="parent_unittitles_ssm">Series I. Photographs</field>
+    <field name="parent_unittitles_teim">Series I. Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Browning photograph collection</field>
+    <field name="collection_ssm">Browning photograph collection</field>
+    <field name="collection_unitid_ssm">PR 9</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Ships, Boats and Ferries</field>
+    <field name="unittitle_teim">Ships, Boats and Ferries</field>
+    <field name="scopecontent_teim">Ships, Boats, and Ferries includes views of a variety of ferries, ferry terminals and ships in New York harbors and rivers. Well represented are Coney Island and Staten Island ferries, as well as the S.S. Leviathon. A few photographs depict a Chagres River ferry in Panama. Several photographs included in this subseries depict the Sailors' Snug Harbor home on Staten Island. Also included are a large number of mostly unidentified photographs depicting ships, boats, sailors, and shipping activity.</field>
+    <field name="ref_ssi">aspace_ref262_u0f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Browning photograph collection</field>
+    <field name="collection_unitid_teim">PR 9</field>
+    <field name="series_sim">Series I. Photographs</field>
+    <field name="series_si">Series I. Photographs &gt;&gt; Ships, Boats and Ferries</field>
+    <field name="heading_ssm">Ships, Boats and Ferries</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">242</field>
+  </doc>
+</add>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr274_ben_brown_ww2_drawingsaspace_ref45_chs</field>
+    <field name="ead_ssi">pr274_ben_brown_ww2_drawings</field>
+    <field name="parent_ssi">aspace_ref43_0xz</field>
+    <field name="parent_ssm">aspace_ref43_0xz</field>
+    <field name="parent_unittitles_ssm">Series III: Album</field>
+    <field name="parent_unittitles_teim">Series III: Album</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ben Brown World War II drawings collection</field>
+    <field name="collection_ssm">Ben Brown World War II drawings collection</field>
+    <field name="collection_unitid_ssm">PR 274</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">photographs and clippings</field>
+    <field name="unittitle_teim">photographs and clippings</field>
+    <field name="ref_ssi">aspace_ref45_chs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 4, Folder: 1-7</field>
+    <field name="location_ssm">Folder: 1-7</field>
+    <field name="location_si">Folder: 1-7</field>
+    <field name="collection_teim">Ben Brown World War II drawings collection</field>
+    <field name="collection_unitid_teim">PR 274</field>
+    <field name="series_sim">Series III: Album</field>
+    <field name="series_si">Series III: Album &gt;&gt; photographs and clippings</field>
+    <field name="heading_ssm">photographs and clippings</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

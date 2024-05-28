@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3000_boys_club_nyaspace_ref109_f7p</field>
+    <field name="ead_ssi">ms3000_boys_club_ny</field>
+    <field name="parent_ssi">aspace_ref325_g5f</field>
+    <field name="parent_ssm">aspace_ref94_w2z</field>
+    <field name="parent_ssm">aspace_ref324_h7j</field>
+    <field name="parent_ssm">aspace_ref325_g5f</field>
+    <field name="parent_unittitles_ssm">Series IV: Publications and Articles</field>
+    <field name="parent_unittitles_ssm">Subseries IV.3: Boys' Publications</field>
+    <field name="parent_unittitles_ssm">Bound Volumes</field>
+    <field name="parent_unittitles_teim">Series IV: Publications and Articles</field>
+    <field name="parent_unittitles_teim">Subseries IV.3: Boys' Publications</field>
+    <field name="parent_unittitles_teim">Bound Volumes</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Boys' Club of New York records</field>
+    <field name="collection_ssm">Boys' Club of New York records</field>
+    <field name="collection_unitid_ssm">MS 3000</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The Boys' Club Record: 1940-1941</field>
+    <field name="unittitle_teim">The Boys' Club Record: 1940-1941</field>
+    <field name="unitdate_normal_ssm">1940/1941</field>
+    <field name="unitdate_normal_teim">1940/1941</field>
+    <field name="unitdate_normal_sim">1940/1941</field>
+    <field name="unitdate_inclusive_teim">1940-1941</field>
+    <field name="ref_ssi">aspace_ref109_f7p</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 150, Volume: 15</field>
+    <field name="location_ssm">Volume: 15</field>
+    <field name="location_si">Volume: 15</field>
+    <field name="collection_teim">Boys' Club of New York records</field>
+    <field name="collection_unitid_teim">MS 3000</field>
+    <field name="series_sim">Series IV: Publications and Articles</field>
+    <field name="series_sim">Subseries IV.3: Boys' Publications</field>
+    <field name="series_sim">Bound Volumes</field>
+    <field name="series_si">Series IV: Publications and Articles &gt;&gt; Subseries IV.3: Boys' Publications &gt;&gt; Bound Volumes &gt;&gt; The Boys' Club Record: 1940-1941</field>
+    <field name="heading_ssm">The Boys' Club Record: 1940-1941</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">1941</field>
+    <field name="unitdate_end_ssm">1941</field>
+    <field name="unitdate_end_si">1941</field>
+    <field name="unitdate_ssm">Inclusive, 1940-1941</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">321</field>
+  </doc>
+</add>

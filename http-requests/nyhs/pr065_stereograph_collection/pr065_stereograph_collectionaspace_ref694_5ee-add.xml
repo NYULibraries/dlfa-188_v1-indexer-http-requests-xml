@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref694_5ee</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Vermont</field>
+    <field name="unittitle_teim">Vermont</field>
+    <field name="unitdate_inclusive_teim">[1865-1885]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0680</field>
+    <field name="scopecontent_teim">Vermont: scenery in the mountains of Vermont, including general views, rocky riversides, man fishing, small houses or mills; portrait of unidentified man holding stereo-viewer; group playing croquet at Dunmore, Brandon; Mill River Falls, with mill buildings on either side, Brandon; "Old Stone Shop" on Pearl street, built in 1807 by Horace Loomis, Burlington where he conducted his business as a hide merchant; band in masks and dunce caps, leader riding a steer, Castleton; Elm House at Danville; President Arthur's birthplace, a small house in Fairfield; group in front of a house at the Lake Pleasant Camp meeting; railroad bridge at Ludlow; Magog Lake; Addison House, Middlebury: Middlesex: Winooski Valley, and the Winooski under a covered bridge; general view of the Morrisville Fair Ground; Morrisville Falls from the island; fish pond at half-way House, Mount Mansfield; Summit House, Mount Mansfield; the Connecticut River at Newbury; Newfane: a hotel with fountain in the garden, and the Windham County courthouse; gold miners' village, Plymouth; residence of Columbus Smith, Salisbury; hotel at Waitsfield; still life views by a West Randolph photographer, including books and objects on a table, and flower arrangements; view approaching Willoughby Lake, Indian Head and Black Mountains in the distance; Woodstock: lumber boom in St. Mary River, James W. Carter's large wagon, decorated with his name and ornate pictures and decorations, high bridge under construction; Underhill Center, with Mount Mansfield in the distance; view on Lake Champlain near Whitehall; Bixby Photograph Rooms in unidentified town, probably in Vermont.</field>
+    <field name="scopecontent_teim">39 items</field>
+    <field name="ref_ssi">aspace_ref694_5ee</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 61</field>
+    <field name="location_si">Box: 61</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Vermont</field>
+    <field name="heading_ssm">Vermont</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1885]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">681</field>
+  </doc>
+</add>

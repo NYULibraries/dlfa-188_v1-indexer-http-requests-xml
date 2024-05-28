@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms1660_rufus_king_papersaspace_ref322_aoe</field>
+    <field name="ead_ssi">ms1660_rufus_king_papers</field>
+    <field name="parent_ssi">aspace_ref321_1n6</field>
+    <field name="parent_ssm">aspace_ref321_1n6</field>
+    <field name="parent_unittitles_ssm">Volume 63- Letterbook</field>
+    <field name="parent_unittitles_teim">Volume 63- Letterbook</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Rufus King papers</field>
+    <field name="collection_ssm">Rufus King papers</field>
+    <field name="collection_unitid_ssm">MS 1660</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Letterbook "A," Letters from Rufus King</field>
+    <field name="unittitle_teim">Letterbook "A," Letters from Rufus King</field>
+    <field name="unitdate_teim">1796 July 24-1798 June 30</field>
+    <field name="ref_ssi">aspace_ref322_aoe</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 63</field>
+    <field name="location_si">Volume: 63</field>
+    <field name="collection_teim">Rufus King papers</field>
+    <field name="collection_unitid_teim">MS 1660</field>
+    <field name="series_sim">Volume 63- Letterbook</field>
+    <field name="series_si">Volume 63- Letterbook &gt;&gt; Letterbook "A," Letters from Rufus King</field>
+    <field name="heading_ssm">Letterbook "A," Letters from Rufus King</field>
+    <field name="unitdate_ssm">1796 July 24-1798 June 30</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">289</field>
+  </doc>
+</add>

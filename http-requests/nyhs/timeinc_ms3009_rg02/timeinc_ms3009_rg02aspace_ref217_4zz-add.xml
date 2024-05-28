@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg02aspace_ref217_4zz</field>
+    <field name="ead_ssi">timeinc_ms3009_rg02</field>
+    <field name="parent_ssi">aspace_4d523d3b99b11af7bc621fe7fcb28271</field>
+    <field name="parent_ssm">aspace_4d523d3b99b11af7bc621fe7fcb28271</field>
+    <field name="parent_unittitles_ssm">Names B</field>
+    <field name="parent_unittitles_teim">Names B</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Time Inc. Bio Files</field>
+    <field name="collection_ssm">Time Inc. Bio Files</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Beaton, Sir Cecil</field>
+    <field name="unittitle_teim">Beaton, Sir Cecil</field>
+    <field name="ref_ssi">aspace_ref217_4zz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 299, Folder: 40-43</field>
+    <field name="location_ssm">Folder: 40-43</field>
+    <field name="location_si">Folder: 40-43</field>
+    <field name="collection_teim">Time Inc. Bio Files</field>
+    <field name="collection_unitid_teim">MS 3009-RG 2</field>
+    <field name="series_sim">Names B</field>
+    <field name="series_si">Names B &gt;&gt; Beaton, Sir Cecil</field>
+    <field name="heading_ssm">Beaton, Sir Cecil</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">233</field>
+  </doc>
+</add>

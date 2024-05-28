@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref736_6gy</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Atlas of plates, illustrating the geology of the state of Maine, accompanying the first report on the geology of that state, by Charles T. Jackson, M.D. state geologist. : Published by order of the legislature of Maine. -- [Boston :Thomas]</field>
+    <field name="unittitle_teim">Atlas of plates, illustrating the geology of the state of Maine, accompanying the first report on the geology of that state, by Charles T. Jackson, M.D. state geologist. : Published by order of the legislature of Maine. -- [Boston :Thomas]</field>
+    <field name="unitdate_normal_ssm">1837/1837</field>
+    <field name="unitdate_normal_teim">1837/1837</field>
+    <field name="unitdate_normal_sim">1837/1837</field>
+    <field name="unitdate_inclusive_teim">[1837]</field>
+    <field name="scopecontent_teim">Lithographs of scenery and geologic formations in Maine; fossil shells; stone strata, waterfalls of the River St. John, Mt. Katahdin from W. Butterfields, view down St. Croix River, Pulpit Rock, view from Eastport, West Quoddy-Head, Buck's Harbour, Mt. Desert, Cape Rosier, Camden and Kennebec Bay, Migonticook Mountains; Francis Graeter, del., Thomas Moore, Lith.; most plates hand-colored.</field>
+    <field name="ref_ssi">aspace_ref736_6gy</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 31, Volume: 227</field>
+    <field name="location_ssm">Volume: 227</field>
+    <field name="location_si">Volume: 227</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Atlas of plates, illustrating the geology of the state of Maine, accompanying the first report on the geology of that state, by Charles T. Jackson, M.D. state geologist. : Published by order of the legislature of Maine. -- [Boston :Thomas]</field>
+    <field name="heading_ssm">Atlas of plates, illustrating the geology of the state of Maine, accompanying the first report on the geology of that state, by Charles T. Jackson, M.D. state geologist. : Published by order of the legislature of Maine. -- [Boston :Thomas]</field>
+    <field name="unitdate_start_sim">1837</field>
+    <field name="unitdate_start_ssm">1837</field>
+    <field name="unitdate_start_si">1837</field>
+    <field name="unitdate_end_sim">1837</field>
+    <field name="unitdate_end_ssm">1837</field>
+    <field name="unitdate_end_si">1837</field>
+    <field name="unitdate_ssm">Inclusive, [1837]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">251</field>
+  </doc>
+</add>

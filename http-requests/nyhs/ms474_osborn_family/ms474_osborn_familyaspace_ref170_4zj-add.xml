@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms474_osborn_familyaspace_ref170_4zj</field>
+    <field name="ead_ssi">ms474_osborn_family</field>
+    <field name="parent_ssi">aspace_ref58_3vd</field>
+    <field name="parent_ssm">aspace_ref58_3vd</field>
+    <field name="parent_unittitles_ssm">Series II: Henry Fairfield Osborn papers</field>
+    <field name="parent_unittitles_teim">Series II: Henry Fairfield Osborn papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Osborn Family Papers</field>
+    <field name="collection_ssm">Osborn Family Papers</field>
+    <field name="collection_unitid_ssm">MS 474</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.1: Correspondence and related materials</field>
+    <field name="unittitle_teim">Subseries II.1: Correspondence and related materials</field>
+    <field name="ref_ssi">aspace_ref170_4zj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Osborn Family Papers</field>
+    <field name="collection_unitid_teim">MS 474</field>
+    <field name="series_sim">Series II: Henry Fairfield Osborn papers</field>
+    <field name="series_si">Series II: Henry Fairfield Osborn papers &gt;&gt; Subseries II.1: Correspondence and related materials</field>
+    <field name="heading_ssm">Subseries II.1: Correspondence and related materials</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">112</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms557_george_frederick_sewardaspace_ref33_efk</field>
+    <field name="ead_ssi">ms557_george_frederick_seward</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">George Frederick Seward Papers</field>
+    <field name="collection_ssm">George Frederick Seward Papers</field>
+    <field name="collection_unitid_ssm">MS 557</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence</field>
+    <field name="unittitle_teim">Correspondence</field>
+    <field name="unitdate_normal_ssm">1905/1905</field>
+    <field name="unitdate_normal_teim">1905/1905</field>
+    <field name="unitdate_normal_sim">1905/1905</field>
+    <field name="unitdate_inclusive_teim">Jul - Dec 1905</field>
+    <field name="ref_ssi">aspace_ref33_efk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">George Frederick Seward Papers</field>
+    <field name="collection_unitid_teim">MS 557</field>
+    <field name="series_si">Correspondence</field>
+    <field name="heading_ssm">Correspondence</field>
+    <field name="unitdate_start_sim">1905</field>
+    <field name="unitdate_start_ssm">1905</field>
+    <field name="unitdate_start_si">1905</field>
+    <field name="unitdate_end_sim">1905</field>
+    <field name="unitdate_end_ssm">1905</field>
+    <field name="unitdate_end_si">1905</field>
+    <field name="unitdate_ssm">Inclusive, Jul - Dec 1905</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

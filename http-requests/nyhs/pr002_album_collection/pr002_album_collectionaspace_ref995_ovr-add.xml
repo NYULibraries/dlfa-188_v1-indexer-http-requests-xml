@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref995_ovr</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Robert Ludlow Fowler family albums, 1916-1920s]</field>
+    <field name="unittitle_teim">[Robert Ludlow Fowler family albums, 1916-1920s]</field>
+    <field name="unitdate_normal_ssm">1919/1925</field>
+    <field name="unitdate_normal_teim">1919/1925</field>
+    <field name="unitdate_normal_sim">1919/1925</field>
+    <field name="unitdate_inclusive_teim">1919-1925</field>
+    <field name="scopecontent_teim">Fowler family snaphots, including children, babies, Godwin and other families; farm and garden scenes; Katonah Welcome Home parade, including World War I soldiers and nurses, floats, a band concert, May 31, 1919; views in Massachusetts including historic homes and buildings, and interiors; snow scenes; views in Connecticut and Rhode Island; horses; construction scenes; Rippowam School field day and play, 1923.</field>
+    <field name="ref_ssi">aspace_ref995_ovr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 52, Volume: 303.2</field>
+    <field name="location_ssm">Volume: 303.2</field>
+    <field name="location_si">Volume: 303.2</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Robert Ludlow Fowler family albums, 1916-1920s]</field>
+    <field name="heading_ssm">[Robert Ludlow Fowler family albums, 1916-1920s]</field>
+    <field name="unitdate_start_sim">1919</field>
+    <field name="unitdate_start_ssm">1919</field>
+    <field name="unitdate_start_si">1919</field>
+    <field name="unitdate_end_sim">1925</field>
+    <field name="unitdate_end_ssm">1925</field>
+    <field name="unitdate_end_si">1925</field>
+    <field name="unitdate_ssm">Inclusive, 1919-1925</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">343</field>
+  </doc>
+</add>

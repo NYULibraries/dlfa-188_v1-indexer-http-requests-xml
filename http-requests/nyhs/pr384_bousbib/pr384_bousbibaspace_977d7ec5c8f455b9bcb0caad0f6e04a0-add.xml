@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_977d7ec5c8f455b9bcb0caad0f6e04a0</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_5878ef34f7069ff3837b908a61c45ae2</field>
+    <field name="parent_ssm">aspace_5878ef34f7069ff3837b908a61c45ae2</field>
+    <field name="parent_unittitles_ssm">Series III: Photojournalism and Documentary Photography</field>
+    <field name="parent_unittitles_teim">Series III: Photojournalism and Documentary Photography</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries: STEPHEN SHAMES</field>
+    <field name="unittitle_teim">Subseries: STEPHEN SHAMES</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">This subseries consists of one color transparency of Bess Myerson.</field>
+    <field name="ref_ssi">aspace_977d7ec5c8f455b9bcb0caad0f6e04a0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series III: Photojournalism and Documentary Photography</field>
+    <field name="series_si">Series III: Photojournalism and Documentary Photography &gt;&gt; Subseries: STEPHEN SHAMES</field>
+    <field name="heading_ssm">Subseries: STEPHEN SHAMES</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">244</field>
+  </doc>
+</add>

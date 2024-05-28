@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr100_maritime_history_collectionaspace_ref439_dui</field>
+    <field name="ead_ssi">pr100_maritime_history_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Maritime History Collection</field>
+    <field name="collection_ssm">Maritime History Collection</field>
+    <field name="collection_unitid_ssm">PR 100</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II.  Medium Format Flat Files </field>
+    <field name="unittitle_teim">Series II.  Medium Format Flat Files </field>
+    <field name="scopecontent_teim">Series II contains material between the sizes of 9 by 14 and 20 by 24 inches.  Much of this series comes from clipping from illustrated newspapers and naval periodicals.</field>
+    <field name="ref_ssi">aspace_ref439_dui</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Maritime History Collection</field>
+    <field name="collection_unitid_teim">PR 100</field>
+    <field name="series_si">Series II.  Medium Format Flat Files </field>
+    <field name="heading_ssm">Series II.  Medium Format Flat Files </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">313</field>
+  </doc>
+</add>

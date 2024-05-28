@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_6474e00182c306603e6d8839a86c9c66</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_1419cb97b6dfc1309ff07433ffadfd14</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_1419cb97b6dfc1309ff07433ffadfd14</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Lott, Engelbert (d. 1779)</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Lott, Engelbert (d. 1779)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Signature of Engelbert Lott]</field>
+    <field name="unittitle_teim">[Signature of Engelbert Lott]</field>
+    <field name="unitdate_inclusive_teim">1778</field>
+    <field name="scopecontent_teim">The signature of Engelbert Lott, grandfather of Jeremiah Lott (q.v.) appears at the end of the inventory of the estate of John R. Cowenhoven (q.v.), 1778. Also present is the signature of Engelbert Lott Jr.</field>
+    <field name="ref_ssi">aspace_6474e00182c306603e6d8839a86c9c66</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-6a, Folder: Cowenhoven Family #1</field>
+    <field name="location_ssm">Folder: Cowenhoven Family #1</field>
+    <field name="location_si">Folder: Cowenhoven Family #1</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Lott, Engelbert (d. 1779)</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Lott, Engelbert (d. 1779) &gt;&gt; [Signature of Engelbert Lott]</field>
+    <field name="heading_ssm">[Signature of Engelbert Lott]</field>
+    <field name="unitdate_ssm">Inclusive, 1778</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">727</field>
+  </doc>
+</add>

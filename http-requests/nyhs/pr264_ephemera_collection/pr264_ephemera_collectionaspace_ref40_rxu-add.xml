@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr264_ephemera_collectionaspace_ref40_rxu</field>
+    <field name="ead_ssi">pr264_ephemera_collection</field>
+    <field name="parent_ssi">aspace_ref1_qne</field>
+    <field name="parent_ssm">aspace_ref1_qne</field>
+    <field name="parent_unittitles_ssm">Series I: Ephemera</field>
+    <field name="parent_unittitles_teim">Series I: Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society ephemera collection</field>
+    <field name="collection_ssm">New-York Historical Society ephemera collection</field>
+    <field name="collection_unitid_ssm">PR 264</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hotels and Restaurants - NYC Restaurants</field>
+    <field name="unittitle_teim">Hotels and Restaurants - NYC Restaurants</field>
+    <field name="unitdate_inclusive_teim">1937-2005</field>
+    <field name="scopecontent_teim">Includes: Hotel Lexington's Hawaiian Room menu (1937), gift of Dorothy Barck, 1937; Romeo Salta, mailed as correspondence with commentary (1954); Peter Luger's foil covering for chocolates (1987); plastic tab used to indicate degree beef was cooked, medium rare in this sample (1988); Serendity 3 (1988); Great American Health Bar (1991); Lexington Avenue Grill (1991); Piatti Pronti menu (1991); Keen's Chophouse (1990s?); City Bakery (1994 Lemonade Festival); Bond 45 (2005), gift of Joshua Hamerman, 2019.</field>
+    <field name="scopecontent_teim">Undated: Copacabana (highlighting Dean Martin &amp; Jerry Lewis in the Copa's revue); Leon &amp; Eddie's; Pluck U napkin; Gage &amp; Tollner tea bag tag; O'Farrell's; Palm Beach Bar at Billy Rose's Casa Manana, numbered song list for requests; Martino's; Hermitage Shoppe tea room; Artepasta; B.R Guest Restaurants (various); Jerry's; Bruno's; Mars 2112; Mom's Bagels; Official All Star Cafe; Sundance menu; Yorkville Common Pantry free meal ticket; Beanstalk; Plataforma; Lucy's napkin; Zimmerman's Hungaria souvenir photograph of 7 women at table; Turf Cafe souvenir photograph frame (no photo); Stork Club napkin; Rainbow Gourmet menu; Jewelers Restaurant &amp; Cafe I menu; Gold Rush; Le Cafe menu; Frank's; Harley Davidson New York Cafe; Hard Rock Cafe; El Tunnel menu.</field>
+    <field name="scopecontent_teim">Business cards: Mustang Sally's; Good Diner; Hasak; Hummus Place (2007); La Tour; Planet Hollywood; Bobby Van's Steakhouse; Ruby Foo's; Goldfinger's, gift of Craig Klose 2007; Dallas BBQ; Figs; McDonough's Spa; Kaspars; Official All Star Cafe; Jerry's; British Open; Plataforma; Martino's; Triple Crown ale house.</field>
+    <field name="ref_ssi">aspace_ref40_rxu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">New-York Historical Society ephemera collection</field>
+    <field name="collection_unitid_teim">PR 264</field>
+    <field name="series_sim">Series I: Ephemera</field>
+    <field name="series_si">Series I: Ephemera &gt;&gt; Hotels and Restaurants - NYC Restaurants</field>
+    <field name="heading_ssm">Hotels and Restaurants - NYC Restaurants</field>
+    <field name="unitdate_ssm">Inclusive, 1937-2005</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">57</field>
+  </doc>
+</add>

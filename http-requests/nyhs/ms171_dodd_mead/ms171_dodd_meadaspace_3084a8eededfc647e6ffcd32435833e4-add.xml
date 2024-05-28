@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms171_dodd_meadaspace_3084a8eededfc647e6ffcd32435833e4</field>
+    <field name="ead_ssi">ms171_dodd_mead</field>
+    <field name="parent_ssi">aspace_0d6e00ceabf4b6678c76f9c505b224c2</field>
+    <field name="parent_ssm">aspace_0d6e00ceabf4b6678c76f9c505b224c2</field>
+    <field name="parent_unittitles_ssm">Series II. Financial Records</field>
+    <field name="parent_unittitles_teim">Series II. Financial Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_ssm">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_ssm">MS 171</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="unittitle_teim">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="unitdate_inclusive_teim">1870s-1981</field>
+    <field name="scopecontent_teim">This subseries contains financial reports, particularly for the 1930s-1940s, inventories of stock of books and printing materials, and financial data, especially concerning book sales and royalties. The subseries features calculations of profit and loss by individual title, beginning with 1876 and ranging without gaps into the late 1950s; these annual analyses were referred to as "red books" because of the color of the binding used until 1944 (later years are on loose sheets, but retained the appellation). Also featured are inventories ranging from the 1940s to the 1970s. A number of miscellaneous financial matters close the subseries, among them royalty statements, securities transactions (investments) in the 1930s, copies of Dodd, Mead's billings for royalties, fees, and other payments due them, and other items.</field>
+    <field name="ref_ssi">aspace_3084a8eededfc647e6ffcd32435833e4</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Dodd, Mead &amp; Company records</field>
+    <field name="collection_unitid_teim">MS 171</field>
+    <field name="series_sim">Series II. Financial Records</field>
+    <field name="series_si">Series II. Financial Records &gt;&gt; Subseries II.A. Financial Reports and Related Material</field>
+    <field name="heading_ssm">Subseries II.A. Financial Reports and Related Material</field>
+    <field name="unitdate_ssm">Inclusive, 1870s-1981</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">17</field>
+  </doc>
+</add>

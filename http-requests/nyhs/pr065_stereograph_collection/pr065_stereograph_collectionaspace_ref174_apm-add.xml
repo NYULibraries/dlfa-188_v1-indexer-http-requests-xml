@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref174_apm</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Nebraska--Excursion to the 100th Meridian</field>
+    <field name="unittitle_teim">Nebraska--Excursion to the 100th Meridian</field>
+    <field name="unitdate_normal_ssm">1866/1866</field>
+    <field name="unitdate_normal_teim">1866/1866</field>
+    <field name="unitdate_normal_sim">1866/1866</field>
+    <field name="unitdate_inclusive_teim">1866</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0160</field>
+    <field name="scopecontent_teim">Thomas C. Durant, Vice President of the Union Pacific, organized the excursion to the 100th meridian for publicity and to impress potential investors who were among the 202 invited guests and their families.  Views along the Union Pacific Railroad: primarily group portraits of men and women on the excursion at various points along the way including landing at Omaha, view from a steamboat and of a steamboat; Commissioners and  Directors of the U.P.R.R., a group in front of tents at "Headquarters, Platte City, Oct. 25th, 1866, shadow of the photographer visible, guests in front of train and sign marking the 100th meridian, man (Samuel Reed, Supt. of Construction) standing amid ties that have been laid out into the distance, tracks yet to be laid; a general view of Omaha; the U.P.R.R. works in Omaha; Herndon House, Omaha; construction trains of the U.P.R.R.; Camp of Pawnee Indians on the Platte valley, showing men on horseback; men laying rails at a rate of two miles a day.</field>
+    <field name="scopecontent_teim">14 items</field>
+    <field name="ref_ssi">aspace_ref174_apm</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18</field>
+    <field name="location_si">Box: 18</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Nebraska--Excursion to the 100th Meridian</field>
+    <field name="heading_ssm">Nebraska--Excursion to the 100th Meridian</field>
+    <field name="unitdate_start_sim">1866</field>
+    <field name="unitdate_start_ssm">1866</field>
+    <field name="unitdate_start_si">1866</field>
+    <field name="unitdate_end_sim">1866</field>
+    <field name="unitdate_end_ssm">1866</field>
+    <field name="unitdate_end_si">1866</field>
+    <field name="unitdate_ssm">Inclusive, 1866</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">161</field>
+  </doc>
+</add>

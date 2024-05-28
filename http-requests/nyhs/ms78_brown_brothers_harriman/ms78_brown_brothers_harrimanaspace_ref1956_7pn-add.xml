@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms78_brown_brothers_harrimanaspace_ref1956_7pn</field>
+    <field name="ead_ssi">ms78_brown_brothers_harriman</field>
+    <field name="parent_ssi">aspace_ref614_ciu</field>
+    <field name="parent_ssm">aspace_ref614_ciu</field>
+    <field name="parent_unittitles_ssm">Series VI. Scrapbooks and Collected Material (1872-1964)</field>
+    <field name="parent_unittitles_teim">Series VI. Scrapbooks and Collected Material (1872-1964)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brown Brothers Harriman records</field>
+    <field name="collection_ssm">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_ssm">MS 78</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Tax Department scrapbook [5]: Partners H-W. Harriman, E.R.</field>
+    <field name="unittitle_teim">Tax Department scrapbook [5]: Partners H-W. Harriman, E.R.</field>
+    <field name="unitdate_normal_ssm">1941/1964</field>
+    <field name="unitdate_normal_teim">1941/1964</field>
+    <field name="unitdate_normal_sim">1941/1964</field>
+    <field name="unitdate_inclusive_teim">1941-1964</field>
+    <field name="ref_ssi">aspace_ref1956_7pn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 114, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_teim">MS 78</field>
+    <field name="series_sim">Series VI. Scrapbooks and Collected Material (1872-1964)</field>
+    <field name="series_si">Series VI. Scrapbooks and Collected Material (1872-1964) &gt;&gt; Tax Department scrapbook [5]: Partners H-W. Harriman, E.R.</field>
+    <field name="heading_ssm">Tax Department scrapbook [5]: Partners H-W. Harriman, E.R.</field>
+    <field name="unitdate_start_sim">1941</field>
+    <field name="unitdate_start_ssm">1941</field>
+    <field name="unitdate_start_si">1941</field>
+    <field name="unitdate_end_sim">1964</field>
+    <field name="unitdate_end_ssm">1964</field>
+    <field name="unitdate_end_si">1964</field>
+    <field name="unitdate_ssm">Inclusive, 1941-1964</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1837</field>
+  </doc>
+</add>

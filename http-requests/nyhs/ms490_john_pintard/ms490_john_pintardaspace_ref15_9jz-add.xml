@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms490_john_pintardaspace_ref15_9jz</field>
+    <field name="ead_ssi">ms490_john_pintard</field>
+    <field name="parent_ssi">aspace_ref12_bjj</field>
+    <field name="parent_ssm">aspace_ref12_bjj</field>
+    <field name="parent_unittitles_ssm">Series II: Papers of the Servoss Family, 1806-1925</field>
+    <field name="parent_unittitles_teim">Series II: Papers of the Servoss Family, 1806-1925</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Pintard Papers</field>
+    <field name="collection_ssm">John Pintard Papers</field>
+    <field name="collection_unitid_ssm">MS 490</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III: Legal Records</field>
+    <field name="unittitle_teim">Subseries III: Legal Records</field>
+    <field name="scopecontent_teim">The legal records of the Servoss family include documents relevant to their French spoliation claims, deeds for real estate, and other documents relevant to legal proceedings or filings.</field>
+    <field name="ref_ssi">aspace_ref15_9jz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Pintard Papers</field>
+    <field name="collection_unitid_teim">MS 490</field>
+    <field name="series_sim">Series II: Papers of the Servoss Family, 1806-1925</field>
+    <field name="series_si">Series II: Papers of the Servoss Family, 1806-1925 &gt;&gt; Subseries III: Legal Records</field>
+    <field name="heading_ssm">Subseries III: Legal Records</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">117</field>
+  </doc>
+</add>

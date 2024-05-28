@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_9e3b1a9e3c8c355dbca6fd615403294f</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_b56012ae69da2ebb7b21f1ddba60fc5f</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_b56012ae69da2ebb7b21f1ddba60fc5f</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Erasmus Hall Academy—Architect</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Erasmus Hall Academy—Architect</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Letter from William Hindley to John F. McNeill regarding supposed architect of Erasmus Hall Academy building]</field>
+    <field name="unittitle_teim">[Letter from William Hindley to John F. McNeill regarding supposed architect of Erasmus Hall Academy building]</field>
+    <field name="unitdate_inclusive_teim">1938</field>
+    <field name="scopecontent_teim">When the Historic American Buildings Survey (HABS) prepared its report on Erasmus Hall Academy, c. 1940, it attributed the structure to Major Pierre C. L'Enfant, remembered as the designer of Washington, D.C. This attribution is followed by Alan Burnham in New York Landmarks (Middletown, Conn.: Wesleyan U. Press, 1963), p. 377.
+
+The compiler of this catalogue has found no contemporary record of Major L'Enfant's role in the design of Erasmus Hall Academy. The source of this attribution may have been one William Hindley, who wrote to Dr. John F. McNeill, the school's principal, in 1938, in an effort to convince McNeill that L'Enfant was indeed the school's architect, despite the admitted absence of "a written proof from that period; or a tradition—a manuscript—document—letter . . ." The tone of Hindley's letter suggests an obsession and eccentricity that would undermine one's belief in Hindley's credibility. Yet, the closeness in time of Hindley's letter to the preparation of the HABS report indicates that this letter may have influenced the attribution. Hindley's letter can be found in: Box: RC-1, folder: Erasmus Hall Academy—History.</field>
+    <field name="ref_ssi">aspace_9e3b1a9e3c8c355dbca6fd615403294f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-1, Folder: Erasmus Hall Academy—History</field>
+    <field name="location_ssm">Folder: Erasmus Hall Academy—History</field>
+    <field name="location_si">Folder: Erasmus Hall Academy—History</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Erasmus Hall Academy—Architect</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Erasmus Hall Academy—Architect &gt;&gt; [Letter from William Hindley to John F. McNeill regarding supposed architect of Erasmus Hall Academy building]</field>
+    <field name="heading_ssm">[Letter from William Hindley to John F. McNeill regarding supposed architect of Erasmus Hall Academy building]</field>
+    <field name="unitdate_ssm">Inclusive, 1938</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">177</field>
+  </doc>
+</add>

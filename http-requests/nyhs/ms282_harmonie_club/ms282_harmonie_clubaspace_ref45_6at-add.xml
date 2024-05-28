@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms282_harmonie_clubaspace_ref45_6at</field>
+    <field name="ead_ssi">ms282_harmonie_club</field>
+    <field name="parent_ssi">aspace_ref41_c00</field>
+    <field name="parent_ssm">aspace_ref13_19i</field>
+    <field name="parent_ssm">aspace_ref41_c00</field>
+    <field name="parent_unittitles_ssm">Series I: Minutes</field>
+    <field name="parent_unittitles_ssm">Subseries 4: Other Committee and Club Minutes</field>
+    <field name="parent_unittitles_teim">Series I: Minutes</field>
+    <field name="parent_unittitles_teim">Subseries 4: Other Committee and Club Minutes</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Harmonie Club records</field>
+    <field name="collection_ssm">Harmonie Club records</field>
+    <field name="collection_unitid_ssm">MS 282</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Minutes and Records of the Thursday Evening Bowling Club of the Harmonie Club</field>
+    <field name="unittitle_teim">Minutes and Records of the Thursday Evening Bowling Club of the Harmonie Club</field>
+    <field name="unitdate_teim">1899 October - 1906</field>
+    <field name="ref_ssi">aspace_ref45_6at</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 15, Volume: 37</field>
+    <field name="location_ssm">Volume: 37</field>
+    <field name="location_si">Volume: 37</field>
+    <field name="collection_teim">Harmonie Club records</field>
+    <field name="collection_unitid_teim">MS 282</field>
+    <field name="series_sim">Series I: Minutes</field>
+    <field name="series_sim">Subseries 4: Other Committee and Club Minutes</field>
+    <field name="series_si">Series I: Minutes &gt;&gt; Subseries 4: Other Committee and Club Minutes &gt;&gt; Minutes and Records of the Thursday Evening Bowling Club of the Harmonie Club</field>
+    <field name="heading_ssm">Minutes and Records of the Thursday Evening Bowling Club of the Harmonie Club</field>
+    <field name="unitdate_ssm">1899 October - 1906</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">47</field>
+  </doc>
+</add>

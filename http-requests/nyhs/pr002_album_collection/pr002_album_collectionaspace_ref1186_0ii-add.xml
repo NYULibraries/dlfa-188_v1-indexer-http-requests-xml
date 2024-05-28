@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1186_0ii</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Lake Torpedo Boat Co. yards, Bridgeport, Connecticut and submarine construction and launching]</field>
+    <field name="unittitle_teim">[Lake Torpedo Boat Co. yards, Bridgeport, Connecticut and submarine construction and launching]</field>
+    <field name="unitdate_normal_ssm">1915/1917</field>
+    <field name="unitdate_normal_teim">1915/1917</field>
+    <field name="unitdate_normal_sim">1915/1917</field>
+    <field name="unitdate_inclusive_teim">1915-1917</field>
+    <field name="scopecontent_teim">Most views stamped in negative with Lake Torpedo Boat Co. logo; views in the L.B.T. Co. Yards, Bridgeport, Connecticut, including general views of the yard from the water, views of fill, and the yard under construction, bending blocks and furnaces, the yard under snow, interior view of the machine, and other shops, the power house, fitting our basin; views of launchings, including sponsors, the ship sliding into the water, model of the U.S.S. L-5; Miss Dorothy Elliott, sponsor of U.S.S. N-4; Mrs. George E. Bevans, sponsor of the N-5; Mrs. J.A. Kissick, sponsor of the N-6; the U.S.S.. L-5 at official trials.</field>
+    <field name="ref_ssi">aspace_ref1186_0ii</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 65, Volume: 353</field>
+    <field name="location_ssm">Volume: 353</field>
+    <field name="location_si">Volume: 353</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Lake Torpedo Boat Co. yards, Bridgeport, Connecticut and submarine construction and launching]</field>
+    <field name="heading_ssm">[Lake Torpedo Boat Co. yards, Bridgeport, Connecticut and submarine construction and launching]</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1917</field>
+    <field name="unitdate_end_ssm">1917</field>
+    <field name="unitdate_end_si">1917</field>
+    <field name="unitdate_ssm">Inclusive, 1915-1917</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">412</field>
+  </doc>
+</add>

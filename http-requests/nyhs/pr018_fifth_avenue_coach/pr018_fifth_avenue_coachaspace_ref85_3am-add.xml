@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr018_fifth_avenue_coachaspace_ref85_3am</field>
+    <field name="ead_ssi">pr018_fifth_avenue_coach</field>
+    <field name="parent_ssi">aspace_ref13_0kn</field>
+    <field name="parent_ssm">aspace_ref13_0kn</field>
+    <field name="parent_unittitles_ssm">Series I: Buses and Automotive Parts</field>
+    <field name="parent_unittitles_teim">Series I: Buses and Automotive Parts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fifth Avenue Coach Company collection</field>
+    <field name="collection_ssm">Fifth Avenue Coach Company collection</field>
+    <field name="collection_unitid_ssm">PR 18</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Miscellaneous Vehicles, Miscellaneous Automotive Parts</field>
+    <field name="unittitle_teim">Miscellaneous Vehicles, Miscellaneous Automotive Parts</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref85_3am</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 8, Folder: 52</field>
+    <field name="location_ssm">Folder: 52</field>
+    <field name="location_si">Folder: 52</field>
+    <field name="collection_teim">Fifth Avenue Coach Company collection</field>
+    <field name="collection_unitid_teim">PR 18</field>
+    <field name="series_sim">Series I: Buses and Automotive Parts</field>
+    <field name="series_si">Series I: Buses and Automotive Parts &gt;&gt; Miscellaneous Vehicles, Miscellaneous Automotive Parts</field>
+    <field name="heading_ssm">Miscellaneous Vehicles, Miscellaneous Automotive Parts</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">73</field>
+  </doc>
+</add>

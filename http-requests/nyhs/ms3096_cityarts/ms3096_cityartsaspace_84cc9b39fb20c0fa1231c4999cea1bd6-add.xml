@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3096_cityartsaspace_84cc9b39fb20c0fa1231c4999cea1bd6</field>
+    <field name="ead_ssi">ms3096_cityarts</field>
+    <field name="parent_ssi">aspace_358c1c16b72286eeed6df3b806f37d19</field>
+    <field name="parent_ssm">aspace_358c1c16b72286eeed6df3b806f37d19</field>
+    <field name="parent_unittitles_ssm">Series I. Project Binders</field>
+    <field name="parent_unittitles_teim">Series I. Project Binders</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">CITYarts Inc. records</field>
+    <field name="collection_ssm">CITYarts Inc. records</field>
+    <field name="collection_unitid_ssm">MS 3096</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Binder #1. Projects 1-5</field>
+    <field name="unittitle_teim">Binder #1. Projects 1-5</field>
+    <field name="unitdate_inclusive_teim">1969-1971</field>
+    <field name="scopecontent_teim">All 5 of these projects were done at the Alfred E. Smith Recreation Center, 80 Catherine Street, on the Lower East Side.</field>
+    <field name="scopecontent_teim">Project 1: Children's Mural, 1969
+Project 2: Halls Mural, 1969 
+Project 3: Sandcast Mural, 1969
+Project 4: Anti-Drug Abuse Mural, 1969
+Project 5: Black Woman's Mural (also referred to as Black Women of America Today), 1970-71</field>
+    <field name="ref_ssi">aspace_84cc9b39fb20c0fa1231c4999cea1bd6</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1</field>
+    <field name="location_si">Offsite-Box: 1</field>
+    <field name="collection_teim">CITYarts Inc. records</field>
+    <field name="collection_unitid_teim">MS 3096</field>
+    <field name="series_sim">Series I. Project Binders</field>
+    <field name="series_si">Series I. Project Binders &gt;&gt; Binder #1. Projects 1-5</field>
+    <field name="heading_ssm">Binder #1. Projects 1-5</field>
+    <field name="unitdate_ssm">Inclusive, 1969-1971</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

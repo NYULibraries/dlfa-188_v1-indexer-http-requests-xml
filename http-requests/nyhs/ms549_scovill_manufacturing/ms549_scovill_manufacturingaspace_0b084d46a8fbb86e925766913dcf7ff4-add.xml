@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms549_scovill_manufacturingaspace_0b084d46a8fbb86e925766913dcf7ff4</field>
+    <field name="ead_ssi">ms549_scovill_manufacturing</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Scovill Manufacturing Company invoice books</field>
+    <field name="collection_ssm">Scovill Manufacturing Company invoice books</field>
+    <field name="collection_unitid_ssm">MS 549</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Invoices paid (2,484 invoices)</field>
+    <field name="unittitle_teim">Invoices paid (2,484 invoices)</field>
+    <field name="unitdate_inclusive_teim">1880</field>
+    <field name="ref_ssi">aspace_0b084d46a8fbb86e925766913dcf7ff4</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: SM-5, Volume: 1880</field>
+    <field name="location_ssm">Volume: 1880</field>
+    <field name="location_si">Volume: 1880</field>
+    <field name="collection_teim">Scovill Manufacturing Company invoice books</field>
+    <field name="collection_unitid_teim">MS 549</field>
+    <field name="series_si">Invoices paid (2,484 invoices)</field>
+    <field name="heading_ssm">Invoices paid (2,484 invoices)</field>
+    <field name="unitdate_ssm">Inclusive, 1880</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

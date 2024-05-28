@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms319_james_hazen_hydeaspace_0716442f0249b1b5c8fcced99e884334</field>
+    <field name="ead_ssi">ms319_james_hazen_hyde</field>
+    <field name="parent_ssi">aspace_967d1685d602671c5511addd43a8d0dd</field>
+    <field name="parent_ssm">aspace_967d1685d602671c5511addd43a8d0dd</field>
+    <field name="parent_unittitles_ssm">Series VII. Henry Baldwin Hyde Memorial Books</field>
+    <field name="parent_unittitles_teim">Series VII. Henry Baldwin Hyde Memorial Books</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">James Hazen Hyde papers</field>
+    <field name="collection_ssm">James Hazen Hyde papers</field>
+    <field name="collection_unitid_ssm">MS 319</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Memorial Book, Volume II</field>
+    <field name="unittitle_teim">Memorial Book, Volume II</field>
+    <field name="unitdate_inclusive_teim">1899</field>
+    <field name="ref_ssi">aspace_0716442f0249b1b5c8fcced99e884334</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: II</field>
+    <field name="location_si">Volume: II</field>
+    <field name="collection_teim">James Hazen Hyde papers</field>
+    <field name="collection_unitid_teim">MS 319</field>
+    <field name="series_sim">Series VII. Henry Baldwin Hyde Memorial Books</field>
+    <field name="series_si">Series VII. Henry Baldwin Hyde Memorial Books &gt;&gt; Memorial Book, Volume II</field>
+    <field name="heading_ssm">Memorial Book, Volume II</field>
+    <field name="unitdate_ssm">Inclusive, 1899</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">475</field>
+  </doc>
+</add>

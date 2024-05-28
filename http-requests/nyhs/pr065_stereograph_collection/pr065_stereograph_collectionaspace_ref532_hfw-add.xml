@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref532_hfw</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Television</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Television</field>
+    <field name="unitdate_normal_ssm">1940/1962</field>
+    <field name="unitdate_normal_teim">1940/1962</field>
+    <field name="unitdate_normal_sim">1940/1962</field>
+    <field name="unitdate_inclusive_teim">1940-1962</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0518</field>
+    <field name="scopecontent_teim">Television in New York: television truck, and talent search at the New York World's Fair; R.C.A. Electronics exhibit, including television demonstration, 40, W. 49th Street; WJZ T.V. truck outside Macy's after parade, 1951; woman looking at Videcon TV camera at Chemical Exposition, 1951; views of the set of the TV program "This is Show Business showing cameras and other equipment, and advertisements hanging up behind panel members; N.B.C. color television mobile unit, a large van with camera on top at Rockefeller center outside the color TV exhibit; views inside the exhibit, including views of television camera tubes, and picture tubes; crowd watching the Dave Garaway show outside Rockefeller Center; N.B.C. Mobile unit rigged on top a car, on Fifth Avenue; various businesses advertising color TV, including a tavern, and a combination fortune telling and television repair shop; a skyscraper under construction, showing the "sidewalk superintendents'" TV receiver on Lexington Avenue, at the Western Electric Building, in window of A.T.and T. building, 195 Broadway and of the construction of the Pan Am building; Ampex TV tape recorder on exhibit at Merrill, Lynch, Pierce, Fenner, and Smith at Grand Central Station; old Al Jolson Theater, being used as a videotape center; the Avon theater, with marquee reading "Network Television Preview Theatre"; model of TV satellite "Tiros" at R.C.A. exhibition hall; N.B.C. color TV cameras outside Macy's after the parade, 1961; C.B.S. television projector at Grand Central Station, used to project broadcast Glenn space flight on screen on top of ticket windows; looking down on set of R.C.A. color TV studio, New York World's Fair, 1964.</field>
+    <field name="scopecontent_teim">47 items</field>
+    <field name="ref_ssi">aspace_ref532_hfw</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 44</field>
+    <field name="location_si">Box: 44</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Television</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Television</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">1962</field>
+    <field name="unitdate_end_ssm">1962</field>
+    <field name="unitdate_end_si">1962</field>
+    <field name="unitdate_ssm">Inclusive, 1940-1962</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">519</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms449_produce_exchangeaspace_d97ef135b80a54c9589227d246353627</field>
+    <field name="ead_ssi">ms449_produce_exchange</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Produce Exchange records</field>
+    <field name="collection_ssm">New York Produce Exchange records</field>
+    <field name="collection_unitid_ssm">MS 449</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Securities ledger (investments)</field>
+    <field name="unittitle_teim">Securities ledger (investments)</field>
+    <field name="unitdate_inclusive_teim">1948-1949</field>
+    <field name="ref_ssi">aspace_d97ef135b80a54c9589227d246353627</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: PE-120A, Volume: SN-240</field>
+    <field name="location_ssm">Volume: SN-240</field>
+    <field name="location_si">Volume: SN-240</field>
+    <field name="collection_teim">New York Produce Exchange records</field>
+    <field name="collection_unitid_teim">MS 449</field>
+    <field name="series_si">Securities ledger (investments)</field>
+    <field name="heading_ssm">Securities ledger (investments)</field>
+    <field name="unitdate_ssm">Inclusive, 1948-1949</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">241</field>
+  </doc>
+</add>

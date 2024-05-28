@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_9e42a8e59d3338fff1fd392bd08ce0e5</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_306d59040a432951afb7f2d48c76afa9</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_306d59040a432951afb7f2d48c76afa9</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">All Souls Universalist Church</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">All Souls Universalist Church</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;The Church and the Home in the Realm of Light and Air. All Souls Church and Flatbush of To-Day&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      The Church and the Home in the Realm of Light and Air. All Souls Church and Flatbush of To-Day
+    </field>
+    <field name="unitdate_inclusive_teim">1908</field>
+    <field name="scopecontent_teim">The first eight pages of this history of Flatbush are devoted to All Souls Universalist Church, Ocean and Ditmas Avenues, Brooklyn, N.Y., which sponsored the publication.</field>
+    <field name="ref_ssi">aspace_9e42a8e59d3338fff1fd392bd08ce0e5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-6a, Folder: [Flatbush of To-Day, 1908]</field>
+    <field name="location_ssm">Folder: [Flatbush of To-Day, 1908]</field>
+    <field name="location_si">Folder: [Flatbush of To-Day, 1908]</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">All Souls Universalist Church</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; All Souls Universalist Church &gt;&gt; 
+      &lt;em&gt;The Church and the Home in the Realm of Light and Air. All Souls Church and Flatbush of To-Day&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      The Church and the Home in the Realm of Light and Air. All Souls Church and Flatbush of To-Day
+    </field>
+    <field name="unitdate_ssm">Inclusive, 1908</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

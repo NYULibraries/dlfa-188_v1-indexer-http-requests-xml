@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr115_playing_cards_gamesaspace_ref96_v6q</field>
+    <field name="ead_ssi">pr115_playing_cards_games</field>
+    <field name="parent_ssi">aspace_ref78_kw1</field>
+    <field name="parent_ssm">aspace_ref78_kw1</field>
+    <field name="parent_unittitles_ssm">Series II. British Playing Cards</field>
+    <field name="parent_unittitles_teim">Series II. British Playing Cards</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Playing card and game collection</field>
+    <field name="collection_ssm">Playing card and game collection</field>
+    <field name="collection_unitid_ssm">PR 115</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Royal Playing Cards</field>
+    <field name="unittitle_teim">Royal Playing Cards</field>
+    <field name="unitdate_normal_ssm">1827/1827</field>
+    <field name="unitdate_normal_teim">1827/1827</field>
+    <field name="unitdate_normal_sim">1827/1827</field>
+    <field name="unitdate_inclusive_teim">1827</field>
+    <field name="ref_ssi">aspace_ref96_v6q</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 16</field>
+    <field name="location_ssm">Folder: 16</field>
+    <field name="location_si">Folder: 16</field>
+    <field name="collection_teim">Playing card and game collection</field>
+    <field name="collection_unitid_teim">PR 115</field>
+    <field name="series_sim">Series II. British Playing Cards</field>
+    <field name="series_si">Series II. British Playing Cards &gt;&gt; Royal Playing Cards</field>
+    <field name="heading_ssm">Royal Playing Cards</field>
+    <field name="unitdate_start_sim">1827</field>
+    <field name="unitdate_start_ssm">1827</field>
+    <field name="unitdate_start_si">1827</field>
+    <field name="unitdate_end_sim">1827</field>
+    <field name="unitdate_end_ssm">1827</field>
+    <field name="unitdate_end_si">1827</field>
+    <field name="unitdate_ssm">Inclusive, 1827</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">95</field>
+  </doc>
+</add>

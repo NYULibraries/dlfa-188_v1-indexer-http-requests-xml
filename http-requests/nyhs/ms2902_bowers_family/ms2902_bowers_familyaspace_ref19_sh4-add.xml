@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2902_bowers_familyaspace_ref19_sh4</field>
+    <field name="ead_ssi">ms2902_bowers_family</field>
+    <field name="parent_ssi">aspace_ref4_o0o</field>
+    <field name="parent_ssm">aspace_ref4_o0o</field>
+    <field name="parent_unittitles_ssm">Series II: Legal Papers</field>
+    <field name="parent_unittitles_teim">Series II: Legal Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Bowers family papers</field>
+    <field name="collection_ssm">Bowers family papers</field>
+    <field name="collection_unitid_ssm">MS 2902</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.A: Property Documents</field>
+    <field name="unittitle_teim">Subseries II.A: Property Documents</field>
+    <field name="unitdate_normal_ssm">1741/1901</field>
+    <field name="unitdate_normal_teim">1741/1901</field>
+    <field name="unitdate_normal_sim">1741/1901</field>
+    <field name="unitdate_inclusive_teim">1741-1901, undated</field>
+    <field name="scopecontent_teim">Subseries A contains documents pertaining to the Bowers family's land transactions. These documents include leases, bonds for deed, releases, various state documents, as well as a variety of real property documents. All of these documents are arranged chronologically.</field>
+    <field name="ref_ssi">aspace_ref19_sh4</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bowers family papers</field>
+    <field name="collection_unitid_teim">MS 2902</field>
+    <field name="series_sim">Series II: Legal Papers</field>
+    <field name="series_si">Series II: Legal Papers &gt;&gt; Subseries II.A: Property Documents</field>
+    <field name="heading_ssm">Subseries II.A: Property Documents</field>
+    <field name="unitdate_start_sim">1741</field>
+    <field name="unitdate_start_ssm">1741</field>
+    <field name="unitdate_start_si">1741</field>
+    <field name="unitdate_end_sim">1901</field>
+    <field name="unitdate_end_ssm">1901</field>
+    <field name="unitdate_end_si">1901</field>
+    <field name="unitdate_ssm">Inclusive, 1741-1901, undated</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">16</field>
+  </doc>
+</add>

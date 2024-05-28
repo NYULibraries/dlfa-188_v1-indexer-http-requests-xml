@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms141_william_halsey_woodaspace_ref15_fg0</field>
+    <field name="ead_ssi">ms141_william_halsey_wood</field>
+    <field name="parent_ssi">aspace_ref9_mga</field>
+    <field name="parent_ssm">aspace_ref9_mga</field>
+    <field name="parent_unittitles_ssm">Series I: Personal Papers</field>
+    <field name="parent_unittitles_teim">Series I: Personal Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">William Halsey Wood papers</field>
+    <field name="collection_ssm">William Halsey Wood papers</field>
+    <field name="collection_unitid_ssm">MS 141</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.B: Sketchbooks</field>
+    <field name="unittitle_teim">Subseries I.B: Sketchbooks</field>
+    <field name="unitdate_inclusive_teim">1875-1881</field>
+    <field name="scopecontent_teim">There are two sketchbooks. The first (1875-1876) contains rough drawings of existing buildings and hypothetical designs. The latter contains drawings from a European trip in July and August 1881. Both are reflective of Halsey Wood's design education.</field>
+    <field name="ref_ssi">aspace_ref15_fg0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">William Halsey Wood papers</field>
+    <field name="collection_unitid_teim">MS 141</field>
+    <field name="series_sim">Series I: Personal Papers</field>
+    <field name="series_si">Series I: Personal Papers &gt;&gt; Subseries I.B: Sketchbooks</field>
+    <field name="heading_ssm">Subseries I.B: Sketchbooks</field>
+    <field name="unitdate_ssm">Inclusive, 1875-1881</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

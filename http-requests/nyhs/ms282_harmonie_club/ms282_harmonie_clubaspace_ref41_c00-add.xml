@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms282_harmonie_clubaspace_ref41_c00</field>
+    <field name="ead_ssi">ms282_harmonie_club</field>
+    <field name="parent_ssi">aspace_ref13_19i</field>
+    <field name="parent_ssm">aspace_ref13_19i</field>
+    <field name="parent_unittitles_ssm">Series I: Minutes</field>
+    <field name="parent_unittitles_teim">Series I: Minutes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Harmonie Club records</field>
+    <field name="collection_ssm">Harmonie Club records</field>
+    <field name="collection_unitid_ssm">MS 282</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 4: Other Committee and Club Minutes</field>
+    <field name="unittitle_teim">Subseries 4: Other Committee and Club Minutes</field>
+    <field name="unitdate_inclusive_teim">1915-1931</field>
+    <field name="scopecontent_teim">The final subseries is comprised of all other minutes found in the Harmonie Club Collections. Most of the volumes are the records of particular committees, but only represent a short duration of their existence. Reports and recommendations made by the committees can be found throughout the previous three subseries, often glued into the ledgers. Two of the volumes are the records of clubs founded within the Harmonie Club. The Thursday Evening Bowling Club was one of many bowling clubs founded to ensure members would have exclusive rights to the alleys located inside the Harmonie Club's building on a particular night. Each club was named by the day of the week its members bowled. The Thursday Evening Bowling Clubs records include meeting minutes, membership lists, correspondence, and its own constitution. The Minutes of the Board of Governors of the North Shore Country Club is composed of typed papers inserted into a three hole binder. The Country Club was established March 13, 1914 for the benefit of the Harmonie Club members and its Board of Governors was composed of Harmonie Club officers. The minutes include budgest, expenses, renovation plans, and description of the grounds.</field>
+    <field name="ref_ssi">aspace_ref41_c00</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Harmonie Club records</field>
+    <field name="collection_unitid_teim">MS 282</field>
+    <field name="series_sim">Series I: Minutes</field>
+    <field name="series_si">Series I: Minutes &gt;&gt; Subseries 4: Other Committee and Club Minutes</field>
+    <field name="heading_ssm">Subseries 4: Other Committee and Club Minutes</field>
+    <field name="unitdate_ssm">Inclusive, 1915-1931</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">32</field>
+  </doc>
+</add>

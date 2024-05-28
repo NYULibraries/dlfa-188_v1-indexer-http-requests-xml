@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms69_william_oland_bourneaspace_ref18_gh6</field>
+    <field name="ead_ssi">ms69_william_oland_bourne</field>
+    <field name="parent_ssi">aspace_ref2_2ef</field>
+    <field name="parent_ssm">aspace_ref2_2ef</field>
+    <field name="parent_unittitles_ssm">Series II. Labor</field>
+    <field name="parent_unittitles_teim">Series II. Labor</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">William Oland Bourne papers</field>
+    <field name="collection_ssm">William Oland Bourne papers</field>
+    <field name="collection_unitid_ssm">MS 69</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Records of the "American Mining, Metallurgical and Manufacturing Company" and the "Humbolt Mining and Manufacturing Company" 
+</field>
+    <field name="unittitle_teim">Records of the "American Mining, Metallurgical and Manufacturing Company" and the "Humbolt Mining and Manufacturing Company" 
+</field>
+    <field name="unitdate_normal_ssm">1859/1860</field>
+    <field name="unitdate_normal_teim">1859/1860</field>
+    <field name="unitdate_normal_sim">1859/1860</field>
+    <field name="unitdate_inclusive_teim">1859-1860</field>
+    <field name="ref_ssi">aspace_ref18_gh6</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">William Oland Bourne papers</field>
+    <field name="collection_unitid_teim">MS 69</field>
+    <field name="series_sim">Series II. Labor</field>
+    <field name="series_si">Series II. Labor &gt;&gt; Records of the "American Mining, Metallurgical and Manufacturing Company" and the "Humbolt Mining and Manufacturing Company" 
+</field>
+    <field name="heading_ssm">Records of the "American Mining, Metallurgical and Manufacturing Company" and the "Humbolt Mining and Manufacturing Company" 
+</field>
+    <field name="unitdate_start_sim">1859</field>
+    <field name="unitdate_start_ssm">1859</field>
+    <field name="unitdate_start_si">1859</field>
+    <field name="unitdate_end_sim">1860</field>
+    <field name="unitdate_end_ssm">1860</field>
+    <field name="unitdate_end_si">1860</field>
+    <field name="unitdate_ssm">Inclusive, 1859-1860</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

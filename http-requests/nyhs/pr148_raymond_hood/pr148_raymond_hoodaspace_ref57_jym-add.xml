@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr148_raymond_hoodaspace_ref57_jym</field>
+    <field name="ead_ssi">pr148_raymond_hood</field>
+    <field name="parent_ssi">aspace_ref13_uzi</field>
+    <field name="parent_ssm">aspace_ref13_uzi</field>
+    <field name="parent_unittitles_ssm">Series I: Completed Structures</field>
+    <field name="parent_unittitles_teim">Series I: Completed Structures</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Raymond Hood Photograph Collection</field>
+    <field name="collection_ssm">Raymond Hood Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 148</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">England--London</field>
+    <field name="unittitle_teim">England--London</field>
+    <field name="ref_ssi">aspace_ref57_jym</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Raymond Hood Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 148</field>
+    <field name="series_sim">Series I: Completed Structures</field>
+    <field name="series_si">Series I: Completed Structures &gt;&gt; England--London</field>
+    <field name="heading_ssm">England--London</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">45</field>
+  </doc>
+</add>

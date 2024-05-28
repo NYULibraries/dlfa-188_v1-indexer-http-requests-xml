@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref695_67t</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Vermont--Bellows Falls</field>
+    <field name="unittitle_teim">Vermont--Bellows Falls</field>
+    <field name="unitdate_inclusive_teim">[1865-1885]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0681</field>
+    <field name="scopecontent_teim">Bellows Falls: bridge and waterfall; house, buggy, woman on porch.</field>
+    <field name="scopecontent_teim">4 items</field>
+    <field name="ref_ssi">aspace_ref695_67t</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 61</field>
+    <field name="location_si">Box: 61</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Vermont--Bellows Falls</field>
+    <field name="heading_ssm">Vermont--Bellows Falls</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1885]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">682</field>
+  </doc>
+</add>

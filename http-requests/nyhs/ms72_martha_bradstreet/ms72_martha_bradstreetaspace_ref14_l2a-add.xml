@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms72_martha_bradstreetaspace_ref14_l2a</field>
+    <field name="ead_ssi">ms72_martha_bradstreet</field>
+    <field name="parent_ssi">aspace_ref13_s1u</field>
+    <field name="parent_ssm">aspace_ref13_s1u</field>
+    <field name="parent_unittitles_ssm">Series I: Martha Bradstreet Codd Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Martha Bradstreet Codd Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Martha Bradstreet papers</field>
+    <field name="collection_ssm">Martha Bradstreet papers</field>
+    <field name="collection_unitid_ssm">MS 72</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.A. Letters received</field>
+    <field name="unittitle_teim">Subseries I.A. Letters received</field>
+    <field name="unitdate_inclusive_teim">1812-1858</field>
+    <field name="scopecontent_teim">Arranged by Sender. This is the largest group of manuscripts in the collection. The letters range in subject matter from support of Martha's court endeavors to more general wishes of good health or observations about the weather. There are more letters from men than women, some of these letters are personal in manner while others are quite impersonal. While many of the letters in this series are written to express support in Martha's court cases, and even some congratulatory remarks on testimony, others were written to set up visits or request her company. There are also letters with inquiries into health and discussions and thoughts on the weather. In addition, several letters offer advice and counsel regarding the court cases and one specifically serves as a letter of introduction to Robert Bradstreet, not a cousin, but one believed to be of potential service. Lastly, there is even an invitation to view the botanical gardens in London.</field>
+    <field name="scopecontent_teim">One noteworthy item in this series is a letter written by Martha's distant cousin, H. Stratton, to Martha. In this letter Mr. Stratton expresses his suspicions with regard to the motives behind the kindness and assistance devoted to Martha by the Bradstreets of Dublin (the same sentiments are echoed in his letter to Edward Bell which we will see below in Series III). H. Stratton writes of Irish deceit and "the necessity of great reserve &amp; caution in every transaction" and it is clear he is speaking specifically of John.</field>
+    <field name="scopecontent_teim">There are a great deal of letters written by cousin John Bradstreet to Martha documenting over a decade of their relationship, beginning as early as 1812 and dating as late as 1824. The majority of John's letters focus on Martha's case, and it is clear that he helps her obtain relevant documentation and support in both Dublin and London. He also writes to her of his own economic situation, the loan by which he is bound to his brother Simon as well as income he is expecting. At one point, in a letter dated 1817, John denies her accusation that he is seeking to support his family on her Delaware property, although it is clear that he does wish to bring his family across to America and perhaps rent some of Martha's land. He is saddened by her mistrust of him and writes several letters in May of 1817 ensuring her of his devotion to her cause and his noble intentions vis a vis his family. Although we do not have her letters that prompted such replies, it may seem that H. Stratton's letter of 1815 mentioned above may have influenced Martha's opinion or at least opened the realm of possibility for mistrust to blossom. It is clear from John's letters that Martha had children; they were mentioned several times during the course of his correspondence, although no names were mentioned.</field>
+    <field name="scopecontent_teim">The letter dated 1858, the latest in this series, was written by Thomas Bradstreet, in all likelihood "Tommy" Bradstreet, the son of cousin John and his wife Peggy Bradstreet. He wrote that based on his reading of her latest letter he believes she "still retain[s] the vigor of younger days." One can infer from this that Martha is continuing her cause as the letter further addresses an interview with a judge and conversations with a couple of lawyers.</field>
+    <field name="scopecontent_teim">The material does not provide much evidence of what was happening with Martha between 1830 and 1858.</field>
+    <field name="ref_ssi">aspace_ref14_l2a</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Martha Bradstreet papers</field>
+    <field name="collection_unitid_teim">MS 72</field>
+    <field name="series_sim">Series I: Martha Bradstreet Codd Correspondence</field>
+    <field name="series_si">Series I: Martha Bradstreet Codd Correspondence &gt;&gt; Subseries I.A. Letters received</field>
+    <field name="heading_ssm">Subseries I.A. Letters received</field>
+    <field name="unitdate_ssm">Inclusive, 1812-1858</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

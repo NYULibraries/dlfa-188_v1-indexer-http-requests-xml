@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr281_jacquelyn_ottman_lithographingaspace_ref85_o1x</field>
+    <field name="ead_ssi">pr281_jacquelyn_ottman_lithographing</field>
+    <field name="parent_ssi">aspace_ref39_lud</field>
+    <field name="parent_ssm">aspace_ref39_lud</field>
+    <field name="parent_unittitles_ssm">Series V. Cards and Prints</field>
+    <field name="parent_unittitles_teim">Series V. Cards and Prints</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jacquelyn A. Ottman Collection of J. Ottmann Lithographing Company</field>
+    <field name="collection_ssm">Jacquelyn A. Ottman Collection of J. Ottmann Lithographing Company</field>
+    <field name="collection_unitid_ssm">PR 281</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V.A   Advertising Cards</field>
+    <field name="unittitle_teim">Subseries V.A   Advertising Cards</field>
+    <field name="unitdate_inclusive_teim">circa 1884-1893</field>
+    <field name="ref_ssi">aspace_ref85_o1x</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jacquelyn A. Ottman Collection of J. Ottmann Lithographing Company</field>
+    <field name="collection_unitid_teim">PR 281</field>
+    <field name="series_sim">Series V. Cards and Prints</field>
+    <field name="series_si">Series V. Cards and Prints &gt;&gt; Subseries V.A   Advertising Cards</field>
+    <field name="heading_ssm">Subseries V.A   Advertising Cards</field>
+    <field name="unitdate_ssm">Inclusive, circa 1884-1893</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">75</field>
+  </doc>
+</add>

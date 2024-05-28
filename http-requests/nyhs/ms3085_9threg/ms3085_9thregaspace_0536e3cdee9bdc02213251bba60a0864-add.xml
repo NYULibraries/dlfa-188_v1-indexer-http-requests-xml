@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3085_9thregaspace_0536e3cdee9bdc02213251bba60a0864</field>
+    <field name="ead_ssi">ms3085_9threg</field>
+    <field name="parent_ssi">aspace_90c0a0f8a56899c188d3c8d7c602c325</field>
+    <field name="parent_ssm">aspace_90c0a0f8a56899c188d3c8d7c602c325</field>
+    <field name="parent_unittitles_ssm">Series I: Civil War Regimental Records</field>
+    <field name="parent_unittitles_teim">Series I: Civil War Regimental Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York State National Guard, 9th Regiment collection</field>
+    <field name="collection_ssm">New York State National Guard, 9th Regiment collection</field>
+    <field name="collection_unitid_ssm">MS 3085</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Company A Clothing Book</field>
+    <field name="unittitle_teim">Company A Clothing Book</field>
+    <field name="unitdate_inclusive_teim">1861-1864</field>
+    <field name="scopecontent_teim">Entries listing the company's soldier name, place of enlistment, date of entry, list of clothes issued, and monetary values of said items. Over 100 pages of entries. Records of items (including ordnance) received from the quartermaster can be found after many blank pages at the back of the volume.</field>
+    <field name="ref_ssi">aspace_0536e3cdee9bdc02213251bba60a0864</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 12, Volume: 1</field>
+    <field name="location_ssm">Volume: 1</field>
+    <field name="location_si">Volume: 1</field>
+    <field name="collection_teim">New York State National Guard, 9th Regiment collection</field>
+    <field name="collection_unitid_teim">MS 3085</field>
+    <field name="series_sim">Series I: Civil War Regimental Records</field>
+    <field name="series_si">Series I: Civil War Regimental Records &gt;&gt; Company A Clothing Book</field>
+    <field name="heading_ssm">Company A Clothing Book</field>
+    <field name="unitdate_ssm">Inclusive, 1861-1864</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

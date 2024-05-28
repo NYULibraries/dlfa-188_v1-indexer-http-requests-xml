@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr084_pach_brothers_portraitsaspace_ref149_tzk</field>
+    <field name="ead_ssi">pr084_pach_brothers_portraits</field>
+    <field name="parent_ssi">aspace_ref147_qxt</field>
+    <field name="parent_ssm">aspace_ref147_qxt</field>
+    <field name="parent_unittitles_ssm">Series III: Buildings</field>
+    <field name="parent_unittitles_teim">Series III: Buildings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Pach Brothers Portrait Photograph Collection</field>
+    <field name="collection_ssm">Pach Brothers Portrait Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 84</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Madison Square Garden</field>
+    <field name="unittitle_teim">Madison Square Garden</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref149_tzk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 9, Folder: 80</field>
+    <field name="location_ssm">Folder: 80</field>
+    <field name="location_si">Folder: 80</field>
+    <field name="collection_teim">Pach Brothers Portrait Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 84</field>
+    <field name="series_sim">Series III: Buildings</field>
+    <field name="series_si">Series III: Buildings &gt;&gt; Madison Square Garden</field>
+    <field name="heading_ssm">Madison Square Garden</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">113</field>
+  </doc>
+</add>

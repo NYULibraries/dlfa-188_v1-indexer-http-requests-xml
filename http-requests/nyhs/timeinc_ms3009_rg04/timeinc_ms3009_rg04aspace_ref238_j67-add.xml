@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg04aspace_ref238_j67</field>
+    <field name="ead_ssi">timeinc_ms3009_rg04</field>
+    <field name="parent_ssi">aspace_ref232_b99</field>
+    <field name="parent_ssm">aspace_ref232_b99</field>
+    <field name="parent_unittitles_ssm">Series III: Life International</field>
+    <field name="parent_unittitles_teim">Series III: Life International</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Time Inc. Index Cards</field>
+    <field name="collection_ssm">Time Inc. Index Cards</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 4</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III.A: &lt;em&gt;Life ABC/Car.&lt;/em&gt;</field>
+    <field name="unittitle_teim">Subseries III.A: Life ABC/Car.</field>
+    <field name="unitdate_teim">1959, 1964</field>
+    <field name="title_teim">Life ABC/Car.</field>
+    <field name="title_ssm">Life ABC/Car.</field>
+    <field name="ref_ssi">aspace_ref238_j67</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Offsite-Box: 201</field>
+    <field name="location_si">Offsite-Box: 201</field>
+    <field name="collection_teim">Time Inc. Index Cards</field>
+    <field name="collection_unitid_teim">MS 3009-RG 4</field>
+    <field name="series_sim">Series III: Life International</field>
+    <field name="series_si">Series III: Life International &gt;&gt; Subseries III.A: &lt;em&gt;Life ABC/Car.&lt;/em&gt;</field>
+    <field name="heading_ssm">Subseries III.A: Life ABC/Car.</field>
+    <field name="unitdate_ssm">1959, 1964</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">37</field>
+  </doc>
+</add>

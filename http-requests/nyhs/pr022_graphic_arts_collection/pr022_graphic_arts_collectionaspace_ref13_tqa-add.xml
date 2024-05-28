@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr022_graphic_arts_collectionaspace_ref13_tqa</field>
+    <field name="ead_ssi">pr022_graphic_arts_collection</field>
+    <field name="parent_ssi">aspace_ref12_43r</field>
+    <field name="parent_ssm">aspace_ref12_43r</field>
+    <field name="parent_unittitles_ssm">Series I. American Graphic Arts</field>
+    <field name="parent_unittitles_teim">Series I. American Graphic Arts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical graphic arts collection</field>
+    <field name="collection_ssm">New-York Historical graphic arts collection</field>
+    <field name="collection_unitid_ssm">PR 22</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Frakturs (3 flat folders)</field>
+    <field name="unittitle_teim">Frakturs (3 flat folders)</field>
+    <field name="unitdate_normal_ssm">1780/1850</field>
+    <field name="unitdate_normal_teim">1780/1850</field>
+    <field name="unitdate_normal_sim">1780/1850</field>
+    <field name="unitdate_inclusive_teim">1780-circa 1850</field>
+    <field name="ref_ssi">aspace_ref13_tqa</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Drawer: FF-1, Folder: 24-26</field>
+    <field name="location_ssm">Folder: 24-26</field>
+    <field name="location_si">Folder: 24-26</field>
+    <field name="collection_teim">New-York Historical graphic arts collection</field>
+    <field name="collection_unitid_teim">PR 22</field>
+    <field name="series_sim">Series I. American Graphic Arts</field>
+    <field name="series_si">Series I. American Graphic Arts &gt;&gt; Frakturs (3 flat folders)</field>
+    <field name="heading_ssm">Frakturs (3 flat folders)</field>
+    <field name="unitdate_start_sim">1780</field>
+    <field name="unitdate_start_ssm">1780</field>
+    <field name="unitdate_start_si">1780</field>
+    <field name="unitdate_end_sim">1850</field>
+    <field name="unitdate_end_ssm">1850</field>
+    <field name="unitdate_end_si">1850</field>
+    <field name="unitdate_ssm">Inclusive, 1780-circa 1850</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

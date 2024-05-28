@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref535_6md</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Brooklyn</field>
+    <field name="unittitle_teim">New York--NYC -- Brooklyn</field>
+    <field name="unitdate_normal_ssm">1860/1953</field>
+    <field name="unitdate_normal_teim">1860/1953</field>
+    <field name="unitdate_normal_sim">1860/1953</field>
+    <field name="unitdate_inclusive_teim">[1860-1953]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0521</field>
+    <field name="scopecontent_teim">Brooklyn: view of Brooklyn from the water; "downtown" Brooklyn, including views of Court Street, Fulton Street, City Hall, including the park and fountain, and view of children looking at fountain; businesses including banks, sewing machine companies, a grocer; homes on Clinton Avenue, including view showing snow and another showing sculptures of dogs flanking walk, and fountain; Wall Street Ferry from Montagu Street; Fulton Ferry and view from the ferry showing shipping; men on the steps of Long Island Hospital; Packer Institute; churches: Plymouth Church, including interior view showing pipe organ, First Reformed Church on Joralemon, South Congregational church, Court Street, Talmadges Tabernacle, Holy Trinity, Clinton St., Hanson Place Methodist Church, St. Paul's Church, Clinton and Carroll Sts.; Grand Army Plaza looking west; entrance to Fort Greene; Marquee of Fox Theatre advertising Stereo movie; Vitagraph Studios, E. 14th Street (later a school for girls); Fort Hamilton; steamboat under construction in Greenpoint.</field>
+    <field name="scopecontent_teim">41 items</field>
+    <field name="ref_ssi">aspace_ref535_6md</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 45</field>
+    <field name="location_si">Box: 45</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Brooklyn</field>
+    <field name="heading_ssm">New York--NYC -- Brooklyn</field>
+    <field name="unitdate_start_sim">1860</field>
+    <field name="unitdate_start_ssm">1860</field>
+    <field name="unitdate_start_si">1860</field>
+    <field name="unitdate_end_sim">1953</field>
+    <field name="unitdate_end_ssm">1953</field>
+    <field name="unitdate_end_si">1953</field>
+    <field name="unitdate_ssm">Inclusive, [1860-1953]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">522</field>
+  </doc>
+</add>

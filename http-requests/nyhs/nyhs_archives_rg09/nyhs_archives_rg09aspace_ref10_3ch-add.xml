@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg09aspace_ref10_3ch</field>
+    <field name="ead_ssi">nyhs_archives_rg09</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society membership records</field>
+    <field name="collection_ssm">New-York Historical Society membership records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 9</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Registers</field>
+    <field name="unittitle_teim">Series I. Registers</field>
+    <field name="unitdate_teim">1804-1983</field>
+    <field name="scopecontent_teim">The Registers series includes two sets of volumes that together provide an index to members and their election dates and document their active (dues-paying) status. The date range for the series as a whole is extensive, running from 1804 to 1983, though one set of volumes has gaps.</field>
+    <field name="scopecontent_teim">The first set of registers, called the Register of Members, includes two volumes, the first running from 1804-1901, the second from 1902-1982. The registers record the names of members in the chronological order of their election. The particular status (honorary, corresponding, life, etc.) is noted. Members from outside of New York state are noted as such. Addresses are included for all members beginning in 1920. Especially useful is that each volume also includes a rough alphabetical index of members, indicating the page number of the volume on which can be found the record of their election to the Society. The entries begin in 1804 with N-YHS's first meeting, though it seems likely the earliest years were recorded after the fact. </field>
+    <field name="scopecontent_teim">The second set of registers, called the Treasurer's Register, includes records indicating the actual payment of dues, or lack of payment, by members. The date range is from the early 1840s to 1983, though there are gaps, especially for the 1940s and 1950s. The volumes list members alphabetically, indicating their payments over time; each volume covers specific periods (e.g., 1890-1899). The earliest volumes take a somewhat different form but include the same basic information as the later volumes. Generally, the Treasurer's Registers include only member names and amount paid. </field>
+    <field name="ref_ssi">aspace_ref10_3ch</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society membership records</field>
+    <field name="collection_unitid_teim">NYHS-RG 9</field>
+    <field name="series_si">Series I. Registers</field>
+    <field name="heading_ssm">Series I. Registers</field>
+    <field name="unitdate_ssm">1804-1983</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

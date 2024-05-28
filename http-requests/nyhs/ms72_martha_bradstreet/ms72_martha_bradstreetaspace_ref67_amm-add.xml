@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms72_martha_bradstreetaspace_ref67_amm</field>
+    <field name="ead_ssi">ms72_martha_bradstreet</field>
+    <field name="parent_ssi">aspace_ref66_olv</field>
+    <field name="parent_ssm">aspace_ref52_01i</field>
+    <field name="parent_ssm">aspace_ref66_olv</field>
+    <field name="parent_unittitles_ssm">Series II: John Bradstreet Correspondence</field>
+    <field name="parent_unittitles_ssm">Subseries II.B. Letters sent</field>
+    <field name="parent_unittitles_teim">Series II: John Bradstreet Correspondence</field>
+    <field name="parent_unittitles_teim">Subseries II.B. Letters sent</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Martha Bradstreet papers</field>
+    <field name="collection_ssm">Martha Bradstreet papers</field>
+    <field name="collection_unitid_ssm">MS 72</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letters sent to Simon Bradstreet</field>
+    <field name="unittitle_teim">Letters sent to Simon Bradstreet</field>
+    <field name="unitdate_teim">1818</field>
+    <field name="ref_ssi">aspace_ref67_amm</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 45</field>
+    <field name="location_ssm">Folder: 45</field>
+    <field name="location_si">Folder: 45</field>
+    <field name="collection_teim">Martha Bradstreet papers</field>
+    <field name="collection_unitid_teim">MS 72</field>
+    <field name="series_sim">Series II: John Bradstreet Correspondence</field>
+    <field name="series_sim">Subseries II.B. Letters sent</field>
+    <field name="series_si">Series II: John Bradstreet Correspondence &gt;&gt; Subseries II.B. Letters sent &gt;&gt; Letters sent to Simon Bradstreet</field>
+    <field name="heading_ssm">Letters sent to Simon Bradstreet</field>
+    <field name="unitdate_ssm">1818</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">51</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref600_qju</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">West Indies, 1912</field>
+    <field name="unittitle_teim">West Indies, 1912</field>
+    <field name="unitdate_normal_ssm">1912/1912</field>
+    <field name="unitdate_normal_teim">1912/1912</field>
+    <field name="unitdate_normal_sim">1912/1912</field>
+    <field name="unitdate_inclusive_teim">1912</field>
+    <field name="scopecontent_teim">Postcard of the "Victoria Luise" of the Hambug-Amerika line and other ships and locations; photographs by Albert Eugene Gallatin of Cuba, including the Maine, Morro Castle and child in Mardi Gras costume in Havana; scenery in Puerto Rico, including touring car on dirt road, building and homes; Jamaica: scenery, including car, seashore and small thatched house; Panama: postcards of the canal, photos of locks; Venezuela: views in Caracas including soldier, women on street, George Washington statue, man on burro; Trinidad: La Brea asphalt lake, black boy with monkey and parrot, police, "coolies" from India; Barbados: black market women in Bridgetown, and street scenes; Martinique: small boats in the harbor of Fort de France, statue of Josephine, street in St. Pierre; St. Thomas: harbor, children, general view; photograph by Wm. Nielson of other people on the cruise, including women dancing on deck of boat, group on horseback; photos by Miss Madelin Knowlton of groups visiting sugar mill, markets, three girls looking out window, residents of Trinidad, Barbados; 8x10 of woman in a garden laid in.</field>
+    <field name="ref_ssi">aspace_ref600_qju</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 23, Volume: 186</field>
+    <field name="location_ssm">Volume: 186</field>
+    <field name="location_si">Volume: 186</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">West Indies, 1912</field>
+    <field name="heading_ssm">West Indies, 1912</field>
+    <field name="unitdate_start_sim">1912</field>
+    <field name="unitdate_start_ssm">1912</field>
+    <field name="unitdate_start_si">1912</field>
+    <field name="unitdate_end_sim">1912</field>
+    <field name="unitdate_end_ssm">1912</field>
+    <field name="unitdate_end_si">1912</field>
+    <field name="unitdate_ssm">Inclusive, 1912</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">205</field>
+  </doc>
+</add>

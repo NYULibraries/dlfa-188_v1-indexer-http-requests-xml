@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3050_matzaspace_ref108_srr</field>
+    <field name="ead_ssi">ms3050_matz</field>
+    <field name="parent_ssi">aspace_ref432_fwp</field>
+    <field name="parent_ssm">aspace_ref432_fwp</field>
+    <field name="parent_unittitles_ssm">Series I. Historic Preservation and quality of life issues</field>
+    <field name="parent_unittitles_teim">Series I. Historic Preservation and quality of life issues</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Joyce Matz papers</field>
+    <field name="collection_ssm">Joyce Matz papers</field>
+    <field name="collection_unitid_ssm">MS 3050</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;Upper East Side Special Security District&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      Upper East Side Special Security District
+    </field>
+    <field name="unitdate_teim">1994-1995</field>
+    <field name="scopecontent_teim">The Douglas Elliman real estate company proposed creating a privately policed--but taxpayer funded--"Special Security District" (later called SAFE, for "Security Area For the Eastside") between East 59th Street, East 96th Street, Fifth Avenue, and the East River. Mayor Giuliani approved the idea, which met considerable opposition.</field>
+    <field name="ref_ssi">aspace_ref108_srr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 15, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Joyce Matz papers</field>
+    <field name="collection_unitid_teim">MS 3050</field>
+    <field name="series_sim">Series I. Historic Preservation and quality of life issues</field>
+    <field name="series_si">Series I. Historic Preservation and quality of life issues &gt;&gt; 
+      &lt;strong&gt;Upper East Side Special Security District&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      Upper East Side Special Security District
+    </field>
+    <field name="unitdate_ssm">1994-1995</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">84</field>
+  </doc>
+</add>

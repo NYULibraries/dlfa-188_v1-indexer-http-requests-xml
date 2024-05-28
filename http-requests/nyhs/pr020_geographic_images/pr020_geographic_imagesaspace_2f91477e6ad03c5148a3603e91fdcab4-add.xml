@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_2f91477e6ad03c5148a3603e91fdcab4</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_bb990946fae39d0d3734cf1acfba70de</field>
+    <field name="parent_ssm">aspace_ref7_x99</field>
+    <field name="parent_ssm">aspace_d0933c984d7855240ffc0ca0daae9322</field>
+    <field name="parent_ssm">aspace_bb990946fae39d0d3734cf1acfba70de</field>
+    <field name="parent_unittitles_ssm">Series II: New York City Views - the Bronx</field>
+    <field name="parent_unittitles_ssm">Subseries IIB: BRONX - FLAT MATERIAL</field>
+    <field name="parent_unittitles_ssm">Bronx - Flat Material - Views</field>
+    <field name="parent_unittitles_teim">Series II: New York City Views - the Bronx</field>
+    <field name="parent_unittitles_teim">Subseries IIB: BRONX - FLAT MATERIAL</field>
+    <field name="parent_unittitles_teim">Bronx - Flat Material - Views</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">General Views - Prints</field>
+    <field name="unittitle_teim">General Views - Prints</field>
+    <field name="scopecontent_teim">includes:
+1891 auction map of lots for sale in 23rd Ward, near St. Mary's Park;</field>
+    <field name="scopecontent_teim">"A View of Phillip's Manor and the Rocks on the Hudson," from a drawing dated 1784;</field>
+    <field name="scopecontent_teim">"View of Melrose and Surroundings taken from the Ursuline Convent," 1868;</field>
+    <field name="scopecontent_teim">Mott Haven, showing Mott Iron Works;</field>
+    <field name="scopecontent_teim">1896 auction map of lots for sale at Underwood Terrace, Morris Heights, 24th ward;</field>
+    <field name="scopecontent_teim">"Historical Morrisania (Village)," 1861. Three versions, one with color;</field>
+    <field name="scopecontent_teim">"Plan of E.C. Cooper's Patent Inclined Plane Salt Works," City Island, East River, circa 1835;</field>
+    <field name="scopecontent_teim">"Fairmount Atheneum. Lewis Terrace, West Morrisania" undated;</field>
+    <field name="scopecontent_teim">"Car tracks, Cars, and Wagons on Third Avenue, Morrisania...and location of posts for proposed elevated railroad," 1881.</field>
+    <field name="ref_ssi">aspace_2f91477e6ad03c5148a3603e91fdcab4</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF452</field>
+    <field name="location_si">Folder: FF452</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series II: New York City Views - the Bronx</field>
+    <field name="series_sim">Subseries IIB: BRONX - FLAT MATERIAL</field>
+    <field name="series_sim">Bronx - Flat Material - Views</field>
+    <field name="series_si">Series II: New York City Views - the Bronx &gt;&gt; Subseries IIB: BRONX - FLAT MATERIAL &gt;&gt; Bronx - Flat Material - Views &gt;&gt; General Views - Prints</field>
+    <field name="heading_ssm">General Views - Prints</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2017</field>
+  </doc>
+</add>

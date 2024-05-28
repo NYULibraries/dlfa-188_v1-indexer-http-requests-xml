@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref719_2ff</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Foreign--World's views series</field>
+    <field name="unittitle_teim">Foreign--World's views series</field>
+    <field name="unitdate_teim">[1900]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0705</field>
+    <field name="scopecontent_teim">Views from Europe, the United States and Asia: St. Peter's in Rome, the Imperial Palace, Moscow, Sphinx, Pyramid and camel, general view of Stockholm and harbor, the Alameda of Vera Cruz, Mexico, Aztec sacrificial stone in Mexico City, Cathedral in Mexico City, Castle Garden and Statue of Liberty, Bridal Veil Falls, Yosemite, Grand Falls, Yellowstone River, Lake Erie, High Bridge in loop at Georgetown, Colorado, Mountain of the Holy Cross, Colorado, Pike's Peak and Garden of the Gods, Colo., Charles Bridge, Prague, Cliff House, San Francisco, Levee Scene on Lower Mississippi River, entrance to Emperor's palace, Berlin, Brooklyn Bridge, West Front of the White House, George Square, Glasgow, Tower of London, Eiffel Tower, Garden of Gethsemane, Jerusalem, Cathedral at Cologne.</field>
+    <field name="scopecontent_teim">25 items</field>
+    <field name="ref_ssi">aspace_ref719_2ff</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 64</field>
+    <field name="location_si">Box: 64</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Foreign--World's views series</field>
+    <field name="heading_ssm">Foreign--World's views series</field>
+    <field name="unitdate_ssm">[1900]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">706</field>
+  </doc>
+</add>

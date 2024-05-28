@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2963_george_mcanenyaspace_ref48_gn1</field>
+    <field name="ead_ssi">ms2963_george_mcaneny</field>
+    <field name="parent_ssi">aspace_ref1_t74</field>
+    <field name="parent_ssm">aspace_ref1_t74</field>
+    <field name="parent_unittitles_ssm">Series I: George McAneny</field>
+    <field name="parent_unittitles_teim">Series I: George McAneny</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">George McAneny Papers</field>
+    <field name="collection_ssm">George McAneny Papers</field>
+    <field name="collection_unitid_ssm">MS 2963</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photographs of George McAneny</field>
+    <field name="unittitle_teim">Photographs of George McAneny</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref48_gn1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: Small, Folder: McAneny OS 1</field>
+    <field name="location_ssm">Folder: McAneny OS 1</field>
+    <field name="location_si">Folder: McAneny OS 1</field>
+    <field name="collection_teim">George McAneny Papers</field>
+    <field name="collection_unitid_teim">MS 2963</field>
+    <field name="series_sim">Series I: George McAneny</field>
+    <field name="series_si">Series I: George McAneny &gt;&gt; Photographs of George McAneny</field>
+    <field name="heading_ssm">Photographs of George McAneny</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

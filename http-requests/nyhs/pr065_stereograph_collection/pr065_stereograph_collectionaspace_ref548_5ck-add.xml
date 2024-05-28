@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref548_5ck</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Bronx--Streets</field>
+    <field name="unittitle_teim">New York--NYC -- Bronx--Streets</field>
+    <field name="unitdate_inclusive_teim">1948-1961</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0534</field>
+    <field name="scopecontent_teim">Streets and scenes in the Bronx: a nickel-in-slot stereopticon viewer outside a store at 752 Allerton Avenue; Ampere Ave. east of Ohm Ave., where there is a sign advertising "Ranch homes"; car dealership and apartments at Broadway the city line; Boston Road from the 180th Street station; Fordham road, w. from 3rd. Ave. elevated station, and north from Fordham Road e. of Webster Ave.; Grand Concourse at Fordham road, showing businesses and a bank; man on bike passing through intersection of Grand Boulevard and Concourse; Willis Avenue from 149th Street Station; 174th Street: from Grand Concourse, from under Grand Concourse, east from Jerome Avenue; looking east from 174th and Clay Avenue, over construction site; looking northeast from 177th Street station, at construction site.</field>
+    <field name="scopecontent_teim">15 items</field>
+    <field name="ref_ssi">aspace_ref548_5ck</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 46</field>
+    <field name="location_si">Box: 46</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Bronx--Streets</field>
+    <field name="heading_ssm">New York--NYC -- Bronx--Streets</field>
+    <field name="unitdate_ssm">Inclusive, 1948-1961</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">535</field>
+  </doc>
+</add>

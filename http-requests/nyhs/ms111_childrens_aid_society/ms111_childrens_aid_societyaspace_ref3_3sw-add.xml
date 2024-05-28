@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref3_3sw</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III - Reports</field>
+    <field name="unittitle_teim">Series III - Reports</field>
+    <field name="unitdate_teim">1853-2006 (bulk 1853-1942)</field>
+    <field name="scopecontent_teim">Series III is divided into 6 subseries, each arranged chronologically:</field>
+    <field name="scopecontent_teim">III.1 - Annual Reports, 1854-2006</field>
+    <field name="scopecontent_teim">III.2 - Reports, Articles and Addresses for the Public and Particular Audiences, 1857-1942</field>
+    <field name="scopecontent_teim">III.3 - Reports to Supervisory Agencies and Other Organizations, 1873-1937</field>
+    <field name="scopecontent_teim">III.4 - Internal Reports, 1853-1921</field>
+    <field name="scopecontent_teim">III.5 - Reports Produced Outside the Auspices of CAS, 1895-1941</field>
+    <field name="scopecontent_teim">III.6 - Reports by the State Charities Aid Association, 1898-1906.</field>
+    <field name="scopecontent_teim">
+Scope and Content</field>
+    <field name="scopecontent_teim">The series as a whole consists of Annual Reports, and other published and unpublished reports, public addresses, and radio speeches on a wide range of topics, produced by the CAS for public audiences (subseries 1, 2), for supervisory agencies and other organizations (subseries 3), or for internal purposes (subseries 4). Subseries 5 and 6 include reports related to the work of the CAS but written by organizations and individuals writing outside the auspices of CAS. The reports span the years 1853-2006 (bulk 1853-1942). Because of the broad extent of dates and topics covered and audiences addressed, the series provides an overview of the shifting concerns of the CAS over the years. For further information about materials, please see the notes for each individual subseries. </field>
+    <field name="ref_ssi">aspace_ref3_3sw</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_si">Series III - Reports</field>
+    <field name="heading_ssm">Series III - Reports</field>
+    <field name="unitdate_ssm">1853-2006 (bulk 1853-1942)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">52</field>
+  </doc>
+</add>

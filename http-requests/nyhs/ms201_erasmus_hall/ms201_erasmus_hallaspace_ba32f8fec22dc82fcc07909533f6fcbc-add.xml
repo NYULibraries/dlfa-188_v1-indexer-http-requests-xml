@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_ba32f8fec22dc82fcc07909533f6fcbc</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_97f368d6d214a8bef15168e85d433e29</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_97f368d6d214a8bef15168e85d433e29</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Coins</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Coins</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">An English coin picked up on the Vanderveer farm in Flatbush . . .</field>
+    <field name="unittitle_teim">An English coin picked up on the Vanderveer farm in Flatbush . . .</field>
+    <field name="unitdate_inclusive_teim">1742</field>
+    <field name="scopecontent_teim">. . . which was undoubtedly dropped by the Hessian and British soldiers who were quartered in the Vanderveer homestead after the Battle of Long Island, 1776. The coin is inscribed on the obverse: "Georgius II Rex" and on the reverse: "Hibernia 1742." (Note: the Vanderveer homestead stood at 1159 Flatbush Avenue until 1911.)</field>
+    <field name="ref_ssi">aspace_ba32f8fec22dc82fcc07909533f6fcbc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-6a, Folder: Three pieces of Currency . . .</field>
+    <field name="location_ssm">Folder: Three pieces of Currency . . .</field>
+    <field name="location_si">Folder: Three pieces of Currency . . .</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Coins</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Coins &gt;&gt; An English coin picked up on the Vanderveer farm in Flatbush . . .</field>
+    <field name="heading_ssm">An English coin picked up on the Vanderveer farm in Flatbush . . .</field>
+    <field name="unitdate_ssm">Inclusive, 1742</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">98</field>
+  </doc>
+</add>

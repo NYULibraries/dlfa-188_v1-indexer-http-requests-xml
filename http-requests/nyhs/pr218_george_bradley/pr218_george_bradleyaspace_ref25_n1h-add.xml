@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr218_george_bradleyaspace_ref25_n1h</field>
+    <field name="ead_ssi">pr218_george_bradley</field>
+    <field name="parent_ssi">aspace_ref24_hxc</field>
+    <field name="parent_ssm">aspace_ref13_bez</field>
+    <field name="parent_ssm">aspace_ref24_hxc</field>
+    <field name="parent_unittitles_ssm">Series I: City Point on the James and Appomattox Rivers, Virginia</field>
+    <field name="parent_unittitles_ssm">Hospital, Army of Potomac</field>
+    <field name="parent_unittitles_teim">Series I: City Point on the James and Appomattox Rivers, Virginia</field>
+    <field name="parent_unittitles_teim">Hospital, Army of Potomac</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Colonel George W. Bradley collection of Civil War photographs</field>
+    <field name="collection_ssm">Colonel George W. Bradley collection of Civil War photographs</field>
+    <field name="collection_unitid_ssm">PR 218</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">General View</field>
+    <field name="unittitle_teim">General View</field>
+    <field name="unitdate_teim">1865 Jan.</field>
+    <field name="ref_ssi">aspace_ref25_n1h</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Colonel George W. Bradley collection of Civil War photographs</field>
+    <field name="collection_unitid_teim">PR 218</field>
+    <field name="series_sim">Series I: City Point on the James and Appomattox Rivers, Virginia</field>
+    <field name="series_sim">Hospital, Army of Potomac</field>
+    <field name="series_si">Series I: City Point on the James and Appomattox Rivers, Virginia &gt;&gt; Hospital, Army of Potomac &gt;&gt; General View</field>
+    <field name="heading_ssm">General View</field>
+    <field name="unitdate_ssm">1865 Jan.</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">13</field>
+  </doc>
+</add>

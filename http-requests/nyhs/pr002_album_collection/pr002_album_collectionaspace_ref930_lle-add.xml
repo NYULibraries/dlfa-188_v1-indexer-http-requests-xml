@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref930_lle</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The streets of old New York: Twenty-four scenes and stories originally appearing in the Antiques section of the New York Sun.</field>
+    <field name="unittitle_teim">The streets of old New York: Twenty-four scenes and stories originally appearing in the Antiques section of the New York Sun.</field>
+    <field name="unitdate_normal_ssm">1950/1950</field>
+    <field name="unitdate_normal_teim">1950/1950</field>
+    <field name="unitdate_normal_sim">1950/1950</field>
+    <field name="unitdate_inclusive_teim">[1950]</field>
+    <field name="scopecontent_teim">Issued in portfolio; title from cover; reproductions of drawings by J. Ernest Brierly of scenes, historic homes, taverns, roads, many representing the period of New Amsterdam</field>
+    <field name="ref_ssi">aspace_ref930_lle</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 43, Volume: 283</field>
+    <field name="location_ssm">Volume: 283</field>
+    <field name="location_si">Volume: 283</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">The streets of old New York: Twenty-four scenes and stories originally appearing in the Antiques section of the New York Sun.</field>
+    <field name="heading_ssm">The streets of old New York: Twenty-four scenes and stories originally appearing in the Antiques section of the New York Sun.</field>
+    <field name="unitdate_start_sim">1950</field>
+    <field name="unitdate_start_ssm">1950</field>
+    <field name="unitdate_start_si">1950</field>
+    <field name="unitdate_end_sim">1950</field>
+    <field name="unitdate_end_ssm">1950</field>
+    <field name="unitdate_end_si">1950</field>
+    <field name="unitdate_ssm">Inclusive, [1950]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">320</field>
+  </doc>
+</add>

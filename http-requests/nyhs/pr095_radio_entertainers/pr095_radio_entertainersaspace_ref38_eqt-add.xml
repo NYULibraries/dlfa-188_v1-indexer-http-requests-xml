@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr095_radio_entertainersaspace_ref38_eqt</field>
+    <field name="ead_ssi">pr095_radio_entertainers</field>
+    <field name="parent_ssi">aspace_ref10_2ka</field>
+    <field name="parent_ssm">aspace_ref10_2ka</field>
+    <field name="parent_unittitles_ssm">
+      Entertainers and Announcers, Alphabetical List
+    </field>
+    <field name="parent_unittitles_teim">
+      Entertainers and Announcers, Alphabetical List
+    </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Radio entertainers and announcers collection</field>
+    <field name="collection_ssm">Radio entertainers and announcers collection</field>
+    <field name="collection_unitid_ssm">PR 95</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Cantor, Eddie</field>
+    <field name="unittitle_teim">Cantor, Eddie</field>
+    <field name="unitdate_normal_ssm">1942/1942</field>
+    <field name="unitdate_normal_teim">1942/1942</field>
+    <field name="unitdate_normal_sim">1942/1942</field>
+    <field name="unitdate_inclusive_teim">1942-1943 Mar. 30</field>
+    <field name="ref_ssi">aspace_ref38_eqt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 2, Folder: 28</field>
+    <field name="location_ssm">Folder: 28</field>
+    <field name="location_si">Folder: 28</field>
+    <field name="collection_teim">Radio entertainers and announcers collection</field>
+    <field name="collection_unitid_teim">PR 95</field>
+    <field name="series_sim">
+      Entertainers and Announcers, Alphabetical List
+    </field>
+    <field name="series_si">
+      Entertainers and Announcers, Alphabetical List
+     &gt;&gt; Cantor, Eddie</field>
+    <field name="heading_ssm">Cantor, Eddie</field>
+    <field name="unitdate_start_sim">1942</field>
+    <field name="unitdate_start_ssm">1942</field>
+    <field name="unitdate_start_si">1942</field>
+    <field name="unitdate_end_sim">1942</field>
+    <field name="unitdate_end_ssm">1942</field>
+    <field name="unitdate_end_si">1942</field>
+    <field name="unitdate_ssm">Inclusive, 1942-1943 Mar. 30</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

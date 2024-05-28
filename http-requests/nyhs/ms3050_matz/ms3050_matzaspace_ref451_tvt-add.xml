@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3050_matzaspace_ref451_tvt</field>
+    <field name="ead_ssi">ms3050_matz</field>
+    <field name="parent_ssi">aspace_ref432_fwp</field>
+    <field name="parent_ssm">aspace_ref432_fwp</field>
+    <field name="parent_unittitles_ssm">Series I. Historic Preservation and quality of life issues</field>
+    <field name="parent_unittitles_teim">Series I. Historic Preservation and quality of life issues</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Joyce Matz papers</field>
+    <field name="collection_ssm">Joyce Matz papers</field>
+    <field name="collection_unitid_ssm">MS 3050</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;Tammany Hall&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      Tammany Hall
+    </field>
+    <field name="unitdate_teim">2009</field>
+    <field name="scopecontent_teim">Testimony and letters of support to the New York City Landmarks Preservation Commission for Tammany Hall (100 East 17th Street), which was not designated until 2013.</field>
+    <field name="ref_ssi">aspace_ref451_tvt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 15, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Joyce Matz papers</field>
+    <field name="collection_unitid_teim">MS 3050</field>
+    <field name="series_sim">Series I. Historic Preservation and quality of life issues</field>
+    <field name="series_si">Series I. Historic Preservation and quality of life issues &gt;&gt; 
+      &lt;strong&gt;Tammany Hall&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      Tammany Hall
+    </field>
+    <field name="unitdate_ssm">2009</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">79</field>
+  </doc>
+</add>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms292_shirley_hayesaspace_ref70_fk1</field>
+    <field name="ead_ssi">ms292_shirley_hayes</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Shirley Hayes papers</field>
+    <field name="collection_ssm">Shirley Hayes papers</field>
+    <field name="collection_unitid_ssm">MS 292</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II. Washington Square Park Renovation Effort</field>
+    <field name="unittitle_teim">Series II. Washington Square Park Renovation Effort</field>
+    <field name="unitdate_inclusive_teim">1958-1969</field>
+    <field name="scopecontent_teim">In this series is material relating to renovating the park after it was closed to traffic. Hayes led the movement to renovate the park. The types of materials included are maps, surveys, correspondence, drafts, and clippings.</field>
+    <field name="ref_ssi">aspace_ref70_fk1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Shirley Hayes papers</field>
+    <field name="collection_unitid_teim">MS 292</field>
+    <field name="series_si">Series II. Washington Square Park Renovation Effort</field>
+    <field name="heading_ssm">Series II. Washington Square Park Renovation Effort</field>
+    <field name="unitdate_ssm">Inclusive, 1958-1969</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">55</field>
+  </doc>
+</add>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg20aspace_ref970_pcs</field>
+    <field name="ead_ssi">nyhs_archives_rg20</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Museum Department records</field>
+    <field name="collection_ssm">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 20</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Select Collections Correspondence</field>
+    <field name="unittitle_teim">Series I. Select Collections Correspondence</field>
+    <field name="unitdate_teim">circa 1848-1992</field>
+    <field name="scopecontent_teim">The series includes materials that were compiled over time that relate to particular museum collections. The collections referenced are the Henry Abbott Collection of Egyptian Antiquities, the Nathan Jarvis Native American Collection, the John J. Audubon drawings for Birds of America, the Bryan and Durr collections of European paintings, and the Rogers groups. Other collections are referenced, especially in connection with the transfer of various non-United States objects to the Brooklyn Museum and elsewhere in 1937 and later; these files include documentation of those transfers. </field>
+    <field name="scopecontent_teim">The actual content for each subject matter varies considerably and is summarized in the container list. The Abbott, Jarvis, and Audubon files include original acquisition documents; the Bryan, Durr, and Rogers files do not. Correspondence and some legal filings in connection with the eventual deaccession of some European paintings is in the series. Arrangements for the reproduction of the Audubon drawings, especially the arrangements with American Heritage, are in the files. The Rogers group correspondence primarily consists of offers to N-YHS of statuettes by individual owners.</field>
+    <field name="ref_ssi">aspace_ref970_pcs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Museum Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 20</field>
+    <field name="series_si">Series I. Select Collections Correspondence</field>
+    <field name="heading_ssm">Series I. Select Collections Correspondence</field>
+    <field name="unitdate_ssm">circa 1848-1992</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

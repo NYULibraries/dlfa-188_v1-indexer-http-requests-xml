@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms520_ms2309_robinson_familyaspace_ref180_ylh</field>
+    <field name="ead_ssi">ms520_ms2309_robinson_family</field>
+    <field name="parent_ssi">aspace_ref177_3kp</field>
+    <field name="parent_ssm">aspace_ref176_1hb</field>
+    <field name="parent_ssm">aspace_ref177_3kp</field>
+    <field name="parent_unittitles_ssm">Series X: Lentilhon Family (1824-1897)</field>
+    <field name="parent_unittitles_ssm">Subseries 1: Eliza Smith Lentilhon, (1824-1857)</field>
+    <field name="parent_unittitles_teim">Series X: Lentilhon Family (1824-1897)</field>
+    <field name="parent_unittitles_teim">Subseries 1: Eliza Smith Lentilhon, (1824-1857)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robinson Family Papers</field>
+    <field name="collection_ssm">Robinson Family Papers</field>
+    <field name="collection_unitid_ssm">MS 520, MS 2309</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Address Book of Eliza Smith Lentilhon</field>
+    <field name="unittitle_teim">Address Book of Eliza Smith Lentilhon</field>
+    <field name="unitdate_normal_ssm">1852/1852</field>
+    <field name="unitdate_normal_teim">1852/1852</field>
+    <field name="unitdate_normal_sim">1852/1852</field>
+    <field name="unitdate_inclusive_teim">1852</field>
+    <field name="ref_ssi">aspace_ref180_ylh</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 17</field>
+    <field name="location_si">Box: 17</field>
+    <field name="collection_teim">Robinson Family Papers</field>
+    <field name="collection_unitid_teim">MS 520, MS 2309</field>
+    <field name="series_sim">Series X: Lentilhon Family (1824-1897)</field>
+    <field name="series_sim">Subseries 1: Eliza Smith Lentilhon, (1824-1857)</field>
+    <field name="series_si">Series X: Lentilhon Family (1824-1897) &gt;&gt; Subseries 1: Eliza Smith Lentilhon, (1824-1857) &gt;&gt; Address Book of Eliza Smith Lentilhon</field>
+    <field name="heading_ssm">Address Book of Eliza Smith Lentilhon</field>
+    <field name="unitdate_start_sim">1852</field>
+    <field name="unitdate_start_ssm">1852</field>
+    <field name="unitdate_start_si">1852</field>
+    <field name="unitdate_end_sim">1852</field>
+    <field name="unitdate_end_ssm">1852</field>
+    <field name="unitdate_end_si">1852</field>
+    <field name="unitdate_ssm">Inclusive, 1852</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">150</field>
+  </doc>
+</add>

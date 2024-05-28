@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref76_ocs</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref13_zkp</field>
+    <field name="parent_ssm">aspace_ref13_zkp</field>
+    <field name="parent_unittitles_ssm">Series XIII - Photographs</field>
+    <field name="parent_unittitles_teim">Series XIII - Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries XIII.2 - Photographs of City Facilities, Programs and Services, and Special Events</field>
+    <field name="unittitle_teim">Subseries XIII.2 - Photographs of City Facilities, Programs and Services, and Special Events</field>
+    <field name="unitdate_normal_ssm">1904/1955</field>
+    <field name="unitdate_normal_ssm">1908/1945</field>
+    <field name="unitdate_normal_teim">1904/1955</field>
+    <field name="unitdate_normal_teim">1908/1945</field>
+    <field name="unitdate_normal_sim">1904/1955</field>
+    <field name="unitdate_normal_sim">1908/1945</field>
+    <field name="unitdate_bulk_teim">1908-1945</field>
+    <field name="unitdate_inclusive_teim">circa 1904- circa 1955</field>
+    <field name="scopecontent_teim">This subseries consists of 3 boxes of photographs, divided into 3 sub-subseries:</field>
+    <field name="scopecontent_teim">XIII.2.A - Photographs of Industrial Schools, Lodging Houses, and Children's Clubs - contains mostly vintage photographs, one photo album, and a few reprints or photomechanical reproductions of city facilities arranged alphabetically by facility, further subdivided by photographer in cases with more images, then arranged numerically by photograph number.</field>
+    <field name="scopecontent_teim">XIII.2.B - Photographs of Unidentified CAS Facilities - contains vintage photographs of unidentified facilities, arranged alphabetically by subject.</field>
+    <field name="scopecontent_teim">XIII.2.C - Photographs of CAS Programs, Services, and Special Events - contains photographs of CAS city programs and services (dental, medical, etc.), arranged alphabetically by service, followed by 2 folders of special events.</field>
+    <field name="scopecontent_teim">Notations about the subject matter of the photographs are included to aid researchers looking for specific content (playgrounds, sewing, Christmas, etc.). Schools which later became children's clubs are described separately as clubs and schools. For a partial history of facility name and location changes, please see the note for Series IX.2: Facilities-Alphabetical. </field>
+    <field name="scopecontent_teim">Every effort has been made to accurately identify facilities and ascertain approximate dates, based on cross-referencing photographs in CAS publications, using identification numbers and visual clues on the photographs, and mining the institutional memory of the CAS as researched by Victor Remer and the processing archivist, but misidentifications remain possible.</field>
+    <field name="ref_ssi">aspace_ref76_ocs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series XIII - Photographs</field>
+    <field name="series_si">Series XIII - Photographs &gt;&gt; Subseries XIII.2 - Photographs of City Facilities, Programs and Services, and Special Events</field>
+    <field name="heading_ssm">Subseries XIII.2 - Photographs of City Facilities, Programs and Services, and Special Events</field>
+    <field name="unitdate_start_sim">1904</field>
+    <field name="unitdate_start_sim">1908</field>
+    <field name="unitdate_start_ssm">1904</field>
+    <field name="unitdate_start_ssm">1908</field>
+    <field name="unitdate_start_si">1908</field>
+    <field name="unitdate_end_sim">1955</field>
+    <field name="unitdate_end_sim">1945</field>
+    <field name="unitdate_end_ssm">1955</field>
+    <field name="unitdate_end_ssm">1945</field>
+    <field name="unitdate_end_si">1945</field>
+    <field name="unitdate_ssm">Inclusive, circa 1904- circa 1955 ; 1908-1945</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2147</field>
+  </doc>
+</add>

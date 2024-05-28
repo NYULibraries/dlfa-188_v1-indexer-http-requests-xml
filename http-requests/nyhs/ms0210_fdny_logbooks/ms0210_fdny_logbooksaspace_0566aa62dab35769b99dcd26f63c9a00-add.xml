@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms0210_fdny_logbooksaspace_0566aa62dab35769b99dcd26f63c9a00</field>
+    <field name="ead_ssi">ms0210_fdny_logbooks</field>
+    <field name="parent_ssi">aspace_8fc858bb40dde213e534e002a29d057a</field>
+    <field name="parent_ssm">aspace_8fc858bb40dde213e534e002a29d057a</field>
+    <field name="parent_unittitles_ssm">Series III: Reports</field>
+    <field name="parent_unittitles_teim">Series III: Reports</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fire Department of the City of New York Logbooks and Reports</field>
+    <field name="collection_ssm">Fire Department of the City of New York Logbooks and Reports</field>
+    <field name="collection_unitid_ssm">MS 0210</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Assignments to Duty, Manhattan </field>
+    <field name="unittitle_teim">Assignments to Duty, Manhattan </field>
+    <field name="unitdate_inclusive_teim">1907</field>
+    <field name="ref_ssi">aspace_0566aa62dab35769b99dcd26f63c9a00</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 43</field>
+    <field name="location_si">Volume: 43</field>
+    <field name="collection_teim">Fire Department of the City of New York Logbooks and Reports</field>
+    <field name="collection_unitid_teim">MS 0210</field>
+    <field name="series_sim">Series III: Reports</field>
+    <field name="series_si">Series III: Reports &gt;&gt; Assignments to Duty, Manhattan </field>
+    <field name="heading_ssm">Assignments to Duty, Manhattan </field>
+    <field name="unitdate_ssm">Inclusive, 1907</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">47</field>
+  </doc>
+</add>

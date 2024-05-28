@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1329_904</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Paul Trebilcock, A.N.A., portraits : reproductions of several recent portraits by the painter with critical estimates of his work from The New York Times and the Boston Globe</field>
+    <field name="unittitle_teim">Paul Trebilcock, A.N.A., portraits : reproductions of several recent portraits by the painter with critical estimates of his work from The New York Times and the Boston Globe</field>
+    <field name="unitdate_normal_ssm">1932/1932</field>
+    <field name="unitdate_normal_teim">1932/1932</field>
+    <field name="unitdate_normal_sim">1932/1932</field>
+    <field name="unitdate_inclusive_teim">1932</field>
+    <field name="scopecontent_teim">Issued in portfolio; title page, honors and awards, and list of portraits in letterpress; mounted reprints of artist's biography from various sources, a review of one-man show; 60 reproductions of paintings by Trebilcock, including portraits of Henry Alexander, Mrs. George Bartol, III, Dr. George C. Bennett, Albert Morris Bagley, Mr. and Mrs. Lucius Boomer, Mrs. Ernest Byfield, Mrs. Mary Ellet Cabell, Dr. and Mrs. Oliver C. Carmichael, "Chiarina" (the artist's wife), Mrs. Gordon Ferguson, Mrs. Frederic Church and Lisa, "Old London coachman," Frank E. Compton, Charles Proctor Cooper, Dr. Irving S. Cutter, William Dever, Rt. Rev. Horace W. B. Donegan, Mrs. Irving Florsheim, George Eastman, Mrs. Benjamin F. Failess, John B. Ford, Thelma, Viscountess Furness and Mrs. Reginald Vanderbilt, Dr. Edgar Goodspeed, George I. Haight, Charles Hayden, Dean Thomas F. Holgate, Dr. C.N. Johnson, Harrison Jones, John Kerbs, Mrs. Peter C. Lutkin, Dr. W. G. MacCallum, Mrs. John A. MacMillan, "Marian," Governor Albert C. Ritchie, George O. May, Horace Oakley, "Portrait of a painter," Speaker Henry T. Rainey, Rush Rhees, President Franklin D. Roosevelt, Walter Dill Scott, Col. Robert L. Scott, Jr., Mrs. Grant Simmons, Jr., May Galloway Snowden, "Mia Sposa," Col. T.A. Siqueland, Bishop George Craig Stewart, Edwin S.S. Sunderland, Wilfred Sykes, Mr. Paul Trebilcock, Pamela, daughter of Francis Henry Taylor, Stephen F. Voorhees, Mrs. Isabella Robinson Warner, "Young women," Dean Charles H. Warren.</field>
+    <field name="ref_ssi">aspace_ref1329_904</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 99, Volume: 380</field>
+    <field name="location_ssm">Volume: 380</field>
+    <field name="location_si">Volume: 380</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Paul Trebilcock, A.N.A., portraits : reproductions of several recent portraits by the painter with critical estimates of his work from The New York Times and the Boston Globe</field>
+    <field name="heading_ssm">Paul Trebilcock, A.N.A., portraits : reproductions of several recent portraits by the painter with critical estimates of his work from The New York Times and the Boston Globe</field>
+    <field name="unitdate_start_sim">1932</field>
+    <field name="unitdate_start_ssm">1932</field>
+    <field name="unitdate_start_si">1932</field>
+    <field name="unitdate_end_sim">1932</field>
+    <field name="unitdate_end_ssm">1932</field>
+    <field name="unitdate_end_si">1932</field>
+    <field name="unitdate_ssm">Inclusive, 1932</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">442</field>
+  </doc>
+</add>

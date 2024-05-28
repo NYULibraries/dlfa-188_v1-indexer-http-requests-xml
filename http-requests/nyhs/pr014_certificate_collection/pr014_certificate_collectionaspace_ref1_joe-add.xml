@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref1_joe</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Art</field>
+    <field name="unittitle_teim">Series I: Art</field>
+    <field name="unitdate_inclusive_teim">1816-1991</field>
+    <field name="scopecontent_teim">This series contains certificates of membership to museums and art related clubs and societies.
+Included are certificates of membership to the Allied Artists of America, the International Art-Union, NewYork
+Gallery of Fine Arts and the Metropolitan Museum of Art. 
+Also included is John McComb's 1816 membership certificate for the American Academy of Fine Arts; and 
+a hand lettered certificate, given to Samuel T. Shaw by the Salmagundi Club, to commemorate the
+twenty-fifth anniversary of the Shaw Purchase Prize. Certificates from the National Academy of Design
+include those given to J. Carroll Beckwith, Asher B. Durand, and Helen M. Turner.</field>
+    <field name="ref_ssi">aspace_ref1_joe</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series I: Art</field>
+    <field name="heading_ssm">Series I: Art</field>
+    <field name="unitdate_ssm">Inclusive, 1816-1991</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

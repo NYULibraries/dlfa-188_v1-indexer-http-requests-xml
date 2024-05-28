@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref365_8ke</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--NYC -- Manhattan--Schools &amp;amp; colleges</field>
+    <field name="unittitle_teim">New York--NYC -- Manhattan--Schools &amp; colleges</field>
+    <field name="unitdate_normal_ssm">1865/1961</field>
+    <field name="unitdate_normal_teim">1865/1961</field>
+    <field name="unitdate_normal_sim">1865/1961</field>
+    <field name="unitdate_inclusive_teim">[1865-1961]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0351</field>
+    <field name="scopecontent_teim">Schools and colleges: Art Student's League, W. 57th Street; Columbia University: Columbia University, Fourth Avenue, Low Library, and an aerial view of the uptown campus; Free Academy, 23rd and Lexington Avenue; Friend's Seminary, Rutherford Place and 16th;  Grace Institute, 149 W. 60th; Grammar School No. 3: boys outside the school, and in a classroom; children of the Primary department of School No. 14 assembled for morning exercises; assembly room of School No. 40; Hunter College, Lexington Avenue and 68th; looking through the gate of Rockefeller Institute from 66th and York Avenue; N.Y. School of Printing, W. 49th Street; art class at Rutger's Female Institute; St. Francis Xavier College, 30 W. 16th Street; Yeshiva College, Amsterdam and 187th, one view showing man in baseball uniform, and others watching game outside the frame of the image.</field>
+    <field name="scopecontent_teim">22 items</field>
+    <field name="ref_ssi">aspace_ref365_8ke</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 33</field>
+    <field name="location_si">Box: 33</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--NYC -- Manhattan--Schools &amp;amp; colleges</field>
+    <field name="heading_ssm">New York--NYC -- Manhattan--Schools &amp; colleges</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1961</field>
+    <field name="unitdate_end_ssm">1961</field>
+    <field name="unitdate_end_si">1961</field>
+    <field name="unitdate_ssm">Inclusive, [1865-1961]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">352</field>
+  </doc>
+</add>

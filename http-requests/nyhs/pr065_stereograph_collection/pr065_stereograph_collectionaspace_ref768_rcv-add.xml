@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref768_rcv</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Asia, Holy Land</field>
+    <field name="unittitle_teim">Asia, Holy Land</field>
+    <field name="unitdate_normal_ssm">1860/1905</field>
+    <field name="unitdate_normal_teim">1860/1905</field>
+    <field name="unitdate_normal_sim">1860/1905</field>
+    <field name="unitdate_inclusive_teim">[1860-1905]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0754 </field>
+    <field name="scopecontent_teim">Holy Land including Palestine (Israel), Lebanon, and Syria: Bethlehem; tomb of Rachel; Bethany; Cana in Galilee; Jerusalem: general views, the Wailing Wall, Garden of Gesthemane, "David's Judgement seat," Mount of Olives, pool of Gihon, tombs of Abraham and the Patriarchs, street scenes, portrait of a Jew of Jerusalem; wilderness of Engedi; Mount Carmel; Mount Tabor; Jenin; Jezreel; mosque at Hebron; valley of Kedron; Nazareth from the west; ruins of Church of St. John in Samaria; Jacob's well; Sharon; Shechem; Shiloh; Sinai: valley, palms, convent, and portrait of abbot and monks, Wady Mukatteb, with specimen of Semitic writing; travelers on camels; fountain of Jericho; site of Capernaum, ruins of synagogue; Rasheiya, looking towards Lebanon; Cedars of Lebanon; sheik's house, Mt. Lebanon; Beirut, including interior of home; interior of hotel in Damascus; Caesarea Philippi; Tiberias; Gorge of Brook Cherith and Elijah Convent.</field>
+    <field name="scopecontent_teim">73 items</field>
+    <field name="ref_ssi">aspace_ref768_rcv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 70</field>
+    <field name="location_si">Box: 70</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Asia, Holy Land</field>
+    <field name="heading_ssm">Asia, Holy Land</field>
+    <field name="unitdate_start_sim">1860</field>
+    <field name="unitdate_start_ssm">1860</field>
+    <field name="unitdate_start_si">1860</field>
+    <field name="unitdate_end_sim">1905</field>
+    <field name="unitdate_end_ssm">1905</field>
+    <field name="unitdate_end_si">1905</field>
+    <field name="unitdate_ssm">Inclusive, [1860-1905]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">755</field>
+  </doc>
+</add>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms350_king_family_papersaspace_ref27_03q</field>
+    <field name="ead_ssi">ms350_king_family_papers</field>
+    <field name="parent_ssi">aspace_ref1_0fd</field>
+    <field name="parent_ssm">aspace_ref1_0fd</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">King Family Papers</field>
+    <field name="collection_ssm">King Family Papers</field>
+    <field name="collection_unitid_ssm">MS 350</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 5: James Gore King</field>
+    <field name="unittitle_teim">Subseries 5: James Gore King</field>
+    <field name="unitdate_normal_ssm">1823/1853</field>
+    <field name="unitdate_normal_teim">1823/1853</field>
+    <field name="unitdate_normal_sim">1823/1853</field>
+    <field name="unitdate_inclusive_teim">1823-1853</field>
+    <field name="bioghist_teim">James Gore King (1791-1853) was the son of Rufus King. After graduating from Harvard and studying law, he became a banker, and in 1818 with his brother-in-law, Archibald Gracie, Jr. established in Liverpool the firm of King and Gracie. The majority of correspondence with his father, Rufus King, and his brother, Charles King.</field>
+    <field name="ref_ssi">aspace_ref27_03q</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">King Family Papers</field>
+    <field name="collection_unitid_teim">MS 350</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries 5: James Gore King</field>
+    <field name="heading_ssm">Subseries 5: James Gore King</field>
+    <field name="unitdate_start_sim">1823</field>
+    <field name="unitdate_start_ssm">1823</field>
+    <field name="unitdate_start_si">1823</field>
+    <field name="unitdate_end_sim">1853</field>
+    <field name="unitdate_end_ssm">1853</field>
+    <field name="unitdate_end_si">1853</field>
+    <field name="unitdate_ssm">Inclusive, 1823-1853</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">23</field>
+  </doc>
+</add>

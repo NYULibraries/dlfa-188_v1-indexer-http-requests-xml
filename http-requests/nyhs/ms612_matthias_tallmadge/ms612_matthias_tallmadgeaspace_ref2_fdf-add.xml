@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms612_matthias_tallmadgeaspace_ref2_fdf</field>
+    <field name="ead_ssi">ms612_matthias_tallmadge</field>
+    <field name="parent_ssi">aspace_ref1_iku</field>
+    <field name="parent_ssm">aspace_ref1_iku</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Matthias B. Tallmadge papers</field>
+    <field name="collection_ssm">Matthias B. Tallmadge papers</field>
+    <field name="collection_unitid_ssm">MS 612</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.A: Matthias B. Tallmadge Correspondence</field>
+    <field name="unittitle_teim">Subseries I.A: Matthias B. Tallmadge Correspondence</field>
+    <field name="unitdate_normal_ssm">1787/1819</field>
+    <field name="unitdate_normal_teim">1787/1819</field>
+    <field name="unitdate_normal_sim">1787/1819</field>
+    <field name="unitdate_inclusive_teim">1787-1819, undated</field>
+    <field name="scopecontent_teim">Subseries A consists of Matthias B. Tallmadge's correspondence. Overwhelmingly this subseries consists of letters Tallmadge received. There is one small folder of letters sent by him to individuals outside of his family and members of his extended family. Many of these letters are from his wife, Elizabeth Clinton Tallmadge. Of note, there are letters from George Clinton, Theodorus Bailey, Ephraim Snow, David Thomas, and Stephen Gano. Also of interest are several threats anonymously sent to Tallmadge while he sat on the bench. Two are from 1809, one of which contains an explicit threat against Tallmadge's children.</field>
+    <field name="ref_ssi">aspace_ref2_fdf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Matthias B. Tallmadge papers</field>
+    <field name="collection_unitid_teim">MS 612</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries I.A: Matthias B. Tallmadge Correspondence</field>
+    <field name="heading_ssm">Subseries I.A: Matthias B. Tallmadge Correspondence</field>
+    <field name="unitdate_start_sim">1787</field>
+    <field name="unitdate_start_ssm">1787</field>
+    <field name="unitdate_start_si">1787</field>
+    <field name="unitdate_end_sim">1819</field>
+    <field name="unitdate_end_ssm">1819</field>
+    <field name="unitdate_end_si">1819</field>
+    <field name="unitdate_ssm">Inclusive, 1787-1819, undated</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

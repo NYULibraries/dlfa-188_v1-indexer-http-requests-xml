@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr368_park_west_cameraaspace_bbf1f533230e006547b06d1020416a9a</field>
+    <field name="ead_ssi">pr368_park_west_camera</field>
+    <field name="parent_ssi">aspace_7208d25e2a0467eb3d6cb273e170f614</field>
+    <field name="parent_ssm">aspace_7208d25e2a0467eb3d6cb273e170f614</field>
+    <field name="parent_unittitles_ssm">Series II. Administrative Files</field>
+    <field name="parent_unittitles_teim">Series II. Administrative Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Park West Camera Club records</field>
+    <field name="collection_ssm">Park West Camera Club records</field>
+    <field name="collection_unitid_ssm">PR 368</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Finances</field>
+    <field name="unittitle_teim">Finances</field>
+    <field name="unitdate_inclusive_teim">1983-1988</field>
+    <field name="ref_ssi">aspace_bbf1f533230e006547b06d1020416a9a</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Park West Camera Club records</field>
+    <field name="collection_unitid_teim">PR 368</field>
+    <field name="series_sim">Series II. Administrative Files</field>
+    <field name="series_si">Series II. Administrative Files &gt;&gt; Finances</field>
+    <field name="heading_ssm">Finances</field>
+    <field name="unitdate_ssm">Inclusive, 1983-1988</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">14</field>
+  </doc>
+</add>

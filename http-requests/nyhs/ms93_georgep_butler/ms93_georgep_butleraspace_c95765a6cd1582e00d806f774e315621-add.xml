@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms93_georgep_butleraspace_c95765a6cd1582e00d806f774e315621</field>
+    <field name="ead_ssi">ms93_georgep_butler</field>
+    <field name="parent_ssi">aspace_f4aa79fe3dce355d8c337ae8eae7d503</field>
+    <field name="parent_ssm">aspace_f4aa79fe3dce355d8c337ae8eae7d503</field>
+    <field name="parent_unittitles_ssm">Series II. Financial Records</field>
+    <field name="parent_unittitles_teim">Series II. Financial Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">George P. Butler &amp; Brother records</field>
+    <field name="collection_ssm">George P. Butler &amp; Brother records</field>
+    <field name="collection_unitid_ssm">MS 93</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Vouchers (cancelled checks)</field>
+    <field name="unittitle_teim">Vouchers (cancelled checks)</field>
+    <field name="unitdate_inclusive_teim">1908-1911</field>
+    <field name="scopecontent_teim">The checks were only minimally processed by the archivist in 2020 and so most remain tied and wrapped together in original bundles. From the original notations on the wraps, it appears there are many gaps. The date ranges recorded on the bundles are: April-July 1908, December 1908, October 1909, January-April 1910, and January-March 1911. These appear to have been wrapped based on their return as paid by the bank (Fourth National Bank, New York), not on the date of the check. By March 1911, checks were being signed by Arthur W. Butler and were being drawn on an account "in liquidation."</field>
+    <field name="ref_ssi">aspace_c95765a6cd1582e00d806f774e315621</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 2</field>
+    <field name="location_si">Offsite-Box: 2</field>
+    <field name="collection_teim">George P. Butler &amp; Brother records</field>
+    <field name="collection_unitid_teim">MS 93</field>
+    <field name="series_sim">Series II. Financial Records</field>
+    <field name="series_si">Series II. Financial Records &gt;&gt; Vouchers (cancelled checks)</field>
+    <field name="heading_ssm">Vouchers (cancelled checks)</field>
+    <field name="unitdate_ssm">Inclusive, 1908-1911</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">50</field>
+  </doc>
+</add>

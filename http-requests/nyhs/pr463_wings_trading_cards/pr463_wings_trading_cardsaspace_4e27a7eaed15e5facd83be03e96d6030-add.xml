@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr463_wings_trading_cardsaspace_4e27a7eaed15e5facd83be03e96d6030</field>
+    <field name="ead_ssi">pr463_wings_trading_cards</field>
+    <field name="parent_ssi">aspace_1a92116c98ecdbdcea178618c4b6d28f</field>
+    <field name="parent_ssm">aspace_1a92116c98ecdbdcea178618c4b6d28f</field>
+    <field name="parent_unittitles_ssm">Wings "Friend or Foe" cards</field>
+    <field name="parent_unittitles_teim">Wings "Friend or Foe" cards</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_ssm">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_unitid_ssm">PR 463</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Wings "Friend or Foe" cards 141-160</field>
+    <field name="unittitle_teim">Wings "Friend or Foe" cards 141-160</field>
+    <field name="unitdate_inclusive_teim">1952</field>
+    <field name="scopecontent_teim">[Lacking 146, 147, 148, 152.]
+141. TO-2 Lockheed (U.S. Air Force)
+142. XF-92A Vultee (U.S. Air Force Jet Plane)
+143. XF 3H-1 Demon (U.S. Air Force Plane)
+144. DC 6A Douglas (U.S. Air Force)
+145. YRB-49A Flying Wing (U.S. Air Force Jet)
+146. Target Aircraft (Australian Jet) [LACKING]
+147. D.H. Sea Hornet (English Air Force) [LACKING]
+148. DH 112 Venom (English Bomber) [LACKING]
+149. XH-26 (U.S. Army Helicopter)
+150. G-80 (Italian Air Force)
+151. YB1 Blackburn (English Monoplane)
+152. XF-90 Lockheed (U.S. Air Force Fighter) [LACKING]
+153. Bristol 171 MK-3 (British Freighter)
+154. Saro-Cierva Airhorse (British Helicopter)
+155. Sikorsky H.C. MK-2 Dragonfly (British Helicopter)
+156. S.O. 1120 Ariel III (French Helicopter)
+157. Breguet Type III (French Helicopter)
+158. LZ 1A (U.S. Air Force Helicopter)
+159. G.C.A. Model 2 (U.S. Helicopter)
+160. Hiller 360 (U.S. Helicopter)</field>
+    <field name="ref_ssi">aspace_4e27a7eaed15e5facd83be03e96d6030</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_unitid_teim">PR 463</field>
+    <field name="series_sim">Wings "Friend or Foe" cards</field>
+    <field name="series_si">Wings "Friend or Foe" cards &gt;&gt; Wings "Friend or Foe" cards 141-160</field>
+    <field name="heading_ssm">Wings "Friend or Foe" cards 141-160</field>
+    <field name="unitdate_ssm">Inclusive, 1952</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">9</field>
+  </doc>
+</add>

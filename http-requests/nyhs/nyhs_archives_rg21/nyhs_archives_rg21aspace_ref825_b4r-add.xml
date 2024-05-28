@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg21aspace_ref825_b4r</field>
+    <field name="ead_ssi">nyhs_archives_rg21</field>
+    <field name="parent_ssi">aspace_ref9_sa7</field>
+    <field name="parent_ssm">aspace_ref9_sa7</field>
+    <field name="parent_unittitles_ssm">Series X. Public Service (RESTRICTED IN PART)</field>
+    <field name="parent_unittitles_teim">Series X. Public Service (RESTRICTED IN PART)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society Library Department records</field>
+    <field name="collection_ssm">New-York Historical Society Library Department records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 21</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries X.A. Visitor Sign-in Registers and Related Material</field>
+    <field name="unittitle_teim">Subseries X.A. Visitor Sign-in Registers and Related Material</field>
+    <field name="unitdate_teim">1829-2010</field>
+    <field name="scopecontent_teim">The subseries primarily includes the books or loose sheets that visitors were required to sign when using N-YHS's resources, principally in connection with access to the library's holdings. The bulk of these records date from about 1909-2010 and record both member and non-member use of the library. A few records from the nineteenth and early twentieth century, from as early as 1838, include non-member visits, but there are relatively few of these, and there are sizable gaps in the date coverage. These records hold only spare indicators of individual visits, with no details such as specific resources used. Any such detailed records that might exist are not held in the institutional archive. </field>
+    <field name="scopecontent_teim">In addition to the required sign-ins, the subseries includes a ceremonial "Register of Distinguished Visitors" that includes signatures from three events:  the 1939 opening of the renovated N-YHS building, the 1954 dinner held at the Union Club to celebrate N-YHS's 150th anniversary, and the 1957 event for the 200th anniversary of Lafayette's birth. Other registers include visitor comment books (1990-1992, 2005-2007) on the galleries and various exhibitions. The subseries does not include comment books from specific exhibitions; these can be found with the files of the pertinent exhibition, principally in the New-York Historical Society Museum Department records (NYHS-RG 20).</field>
+    <field name="scopecontent_teim">The subseries also includes various documents related to visitors and access to N-YHS resources. These include a Librarian Receipt Book in which books borrowed from the library, a member privilege in the organization's early years, were recorded (1829-1853); daily visitor counts from certain periods (1869, 1918-1937, and 1987-1990); and member and non-member admission cards (mostly undated but likely from the mid-late 1800s).</field>
+    <field name="ref_ssi">aspace_ref825_b4r</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society Library Department records</field>
+    <field name="collection_unitid_teim">NYHS-RG 21</field>
+    <field name="series_sim">Series X. Public Service (RESTRICTED IN PART)</field>
+    <field name="series_si">Series X. Public Service (RESTRICTED IN PART) &gt;&gt; Subseries X.A. Visitor Sign-in Registers and Related Material</field>
+    <field name="heading_ssm">Subseries X.A. Visitor Sign-in Registers and Related Material</field>
+    <field name="unitdate_ssm">1829-2010</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">537</field>
+  </doc>
+</add>

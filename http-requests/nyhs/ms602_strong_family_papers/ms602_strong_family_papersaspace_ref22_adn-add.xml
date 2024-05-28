@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms602_strong_family_papersaspace_ref22_adn</field>
+    <field name="ead_ssi">ms602_strong_family_papers</field>
+    <field name="parent_ssi">aspace_ref18_4pw</field>
+    <field name="parent_ssm">aspace_ref18_4pw</field>
+    <field name="parent_unittitles_ssm">Series II. George Ruggles Strong</field>
+    <field name="parent_unittitles_teim">Series II. George Ruggles Strong</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Strong Family Papers</field>
+    <field name="collection_ssm">Strong Family Papers</field>
+    <field name="collection_unitid_ssm">MS 602</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Diary-Bound-John Ruggles Strong</field>
+    <field name="unittitle_teim">Diary-Bound-John Ruggles Strong</field>
+    <field name="unitdate_teim">1909-1929</field>
+    <field name="ref_ssi">aspace_ref22_adn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Strong Family Papers</field>
+    <field name="collection_unitid_teim">MS 602</field>
+    <field name="series_sim">Series II. George Ruggles Strong</field>
+    <field name="series_si">Series II. George Ruggles Strong &gt;&gt; Diary-Bound-John Ruggles Strong</field>
+    <field name="heading_ssm">Diary-Bound-John Ruggles Strong</field>
+    <field name="unitdate_ssm">1909-1929</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">23</field>
+  </doc>
+</add>

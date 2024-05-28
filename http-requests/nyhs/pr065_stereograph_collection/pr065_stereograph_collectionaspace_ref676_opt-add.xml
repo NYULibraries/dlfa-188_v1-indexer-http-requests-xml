@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref676_opt</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">South Carolina--Aiken</field>
+    <field name="unittitle_teim">South Carolina--Aiken</field>
+    <field name="unitdate_inclusive_teim">[1860-1880]</field>
+    <field name="scopecontent_teim">PR-065-0669</field>
+    <field name="scopecontent_teim">Aiken, S.C.: plantation scenes, including African Americans working in the cotton fields, and resting in the shade with children, outside a cabin, at the well, doing laundry in a "washing camp"; African-American children playing and reading outside a  school; group of women in an ox cart; man on horseback and woman in cart; African American man leading ox cart with children and goods; African American boy in a goat cart; group outside an eating house; woman on horseback in front of a gate, another woman with croquet mallet; spanish bayonet in bloom; studio view of cotton plant.</field>
+    <field name="scopecontent_teim">23 items</field>
+    <field name="ref_ssi">aspace_ref676_opt</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 59</field>
+    <field name="location_si">Box: 59</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; South Carolina--Aiken</field>
+    <field name="heading_ssm">South Carolina--Aiken</field>
+    <field name="unitdate_ssm">Inclusive, [1860-1880]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">663</field>
+  </doc>
+</add>

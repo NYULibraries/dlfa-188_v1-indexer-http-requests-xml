@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2996_military_order_loyal_legionaspace_ref218_b28</field>
+    <field name="ead_ssi">ms2996_military_order_loyal_legion</field>
+    <field name="parent_ssi">aspace_ref214_amt</field>
+    <field name="parent_ssm">aspace_ref23_y02</field>
+    <field name="parent_ssm">aspace_ref214_amt</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">Subseries IX: Correspondence sent (Letter books)</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Subseries IX: Correspondence sent (Letter books)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="collection_ssm">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="collection_unitid_ssm">MS 2996</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Correspondence sent (Letter book)</field>
+    <field name="unittitle_teim">Correspondence sent (Letter book)</field>
+    <field name="unitdate_teim">1888 July 31-1889 October 12</field>
+    <field name="ref_ssi">aspace_ref218_b28</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 11, Volume: BV Loyal Legion 4</field>
+    <field name="location_ssm">Volume: BV Loyal Legion 4</field>
+    <field name="location_si">Volume: BV Loyal Legion 4</field>
+    <field name="collection_teim">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="collection_unitid_teim">MS 2996</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">Subseries IX: Correspondence sent (Letter books)</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries IX: Correspondence sent (Letter books) &gt;&gt; Correspondence sent (Letter book)</field>
+    <field name="heading_ssm">Correspondence sent (Letter book)</field>
+    <field name="unitdate_ssm">1888 July 31-1889 October 12</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">68</field>
+  </doc>
+</add>

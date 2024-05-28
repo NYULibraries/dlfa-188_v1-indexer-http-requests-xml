@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr041_burr_mcintoshaspace_ref42_l6d</field>
+    <field name="ead_ssi">pr041_burr_mcintosh</field>
+    <field name="parent_ssi">aspace_ref14_k6l</field>
+    <field name="parent_ssm">aspace_ref14_k6l</field>
+    <field name="parent_unittitles_ssm">Series I. 8 x 10 inch prints</field>
+    <field name="parent_unittitles_teim">Series I. 8 x 10 inch prints</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Burr McIntosh photograph collection</field>
+    <field name="collection_ssm">Burr McIntosh photograph collection</field>
+    <field name="collection_unitid_ssm">PR 41</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">SUBJECTS</field>
+    <field name="unittitle_teim">SUBJECTS</field>
+    <field name="ref_ssi">aspace_ref42_l6d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Burr McIntosh photograph collection</field>
+    <field name="collection_unitid_teim">PR 41</field>
+    <field name="series_sim">Series I. 8 x 10 inch prints</field>
+    <field name="series_si">Series I. 8 x 10 inch prints &gt;&gt; SUBJECTS</field>
+    <field name="heading_ssm">SUBJECTS</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

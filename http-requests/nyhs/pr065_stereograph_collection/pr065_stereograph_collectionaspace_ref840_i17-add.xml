@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref840_i17</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_ssm">aspace_578638867d639c66f79140ff49fbd85c</field>
+    <field name="parent_unittitles_ssm">Subjects</field>
+    <field name="parent_unittitles_teim">Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Subjects--Indians of North America</field>
+    <field name="unittitle_teim">Subjects--Indians of North America</field>
+    <field name="unitdate_inclusive_teim">[1860-1900]</field>
+    <field name="scopecontent_teim">Identifier:PR-065-0826</field>
+    <field name="scopecontent_teim">Indians of North America: most views arranged by tribe, and when tribe is not know, by location (state); tribes include: Apache, Arapahoe, Assiniboine, Bannock, Crow, Dakota, Digger, Hopi, Kiowa, Metis, Modoc, Mohave, Navaho, Nez Perce, Ojibwa, Omaha, Onondaga, Oto, Paiute Pawnee, Pima, Ponca, Pueblo, Shoshoni, Tuscarora, Ute, Washo, Winnebago; includes views of camps with teepees, pueblos, and other dwellings, including group of women sitting in front of dwelling, with loom in front of it; storage structures; portraits of individuals and groups, including people in traditional and European dress, seated outdoors and in studios; reservation scenes, including groups receiving government payments, Indian agents and interpreters, and a hospital; groups eating; platform above corn field where group guarding corn from birds sit; a burial ground with wooden mausoleums; a platform burial; Pawnee graves; a Ponca tomb that has been opened; Cheyenne and Arapahoe Indians at Fort Marion in Florida; Crows dancing; Little Crow's (leader of Minnesota Indian Massacre of 1862) scalp; individuals pictured include Old Bets, Hole-in-the-Day, Ebahomba, Peter La Cherre,  Heavy Sitter, Rain in the Face, Mariano Madino, Howling Wolf and others; a Hopi Kachina dance; people from various tribes on horseback; Metis with Red River carts; couples pictured together, including one view entitled Chippewa wedding; men smoking pipes; wild rice gathers, and other views of canoes; hunter in snowshoes; women holding children in cradleboards; Indian police at San Carlos; interpreter Julius Meyer with group of unidentified Pawnee, possibly in Washington, D.C.</field>
+    <field name="scopecontent_teim">166 items</field>
+    <field name="ref_ssi">aspace_ref840_i17</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 77</field>
+    <field name="location_si">Box: 77</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Subjects</field>
+    <field name="series_si">Subjects &gt;&gt; Subjects--Indians of North America</field>
+    <field name="heading_ssm">Subjects--Indians of North America</field>
+    <field name="unitdate_ssm">Inclusive, [1860-1900]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">828</field>
+  </doc>
+</add>

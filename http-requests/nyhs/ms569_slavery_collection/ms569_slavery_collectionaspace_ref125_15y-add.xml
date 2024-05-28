@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms569_slavery_collectionaspace_ref125_15y</field>
+    <field name="ead_ssi">ms569_slavery_collection</field>
+    <field name="parent_ssi">aspace_ref123_z2k</field>
+    <field name="parent_ssm">aspace_ref122_ii4</field>
+    <field name="parent_ssm">aspace_ref123_z2k</field>
+    <field name="parent_unittitles_ssm">Series VIII - Financial Documents, 1726-1862, and undated </field>
+    <field name="parent_unittitles_ssm">Subseries 1 - Accounts, 1736-1807, undated</field>
+    <field name="parent_unittitles_teim">Series VIII - Financial Documents, 1726-1862, and undated </field>
+    <field name="parent_unittitles_teim">Subseries 1 - Accounts, 1736-1807, undated</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Slavery Collection</field>
+    <field name="collection_ssm">Slavery Collection</field>
+    <field name="collection_unitid_ssm">MS 569</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Accounts</field>
+    <field name="unittitle_teim">Accounts</field>
+    <field name="unitdate_teim">1736-1807, undated</field>
+    <field name="ref_ssi">aspace_ref125_15y</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Slavery Collection</field>
+    <field name="collection_unitid_teim">MS 569</field>
+    <field name="series_sim">Series VIII - Financial Documents, 1726-1862, and undated </field>
+    <field name="series_sim">Subseries 1 - Accounts, 1736-1807, undated</field>
+    <field name="series_si">Series VIII - Financial Documents, 1726-1862, and undated  &gt;&gt; Subseries 1 - Accounts, 1736-1807, undated &gt;&gt; Accounts</field>
+    <field name="heading_ssm">Accounts</field>
+    <field name="unitdate_ssm">1736-1807, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">95</field>
+  </doc>
+</add>

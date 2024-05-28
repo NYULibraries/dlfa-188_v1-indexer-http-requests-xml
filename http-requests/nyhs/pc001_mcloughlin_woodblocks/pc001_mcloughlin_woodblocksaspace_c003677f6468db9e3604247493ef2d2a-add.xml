@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pc001_mcloughlin_woodblocksaspace_c003677f6468db9e3604247493ef2d2a</field>
+    <field name="ead_ssi">pc001_mcloughlin_woodblocks</field>
+    <field name="parent_ssi">aspace_c3189c72fd5be623e61948b947ebac37</field>
+    <field name="parent_ssm">aspace_c3189c72fd5be623e61948b947ebac37</field>
+    <field name="parent_unittitles_ssm">Series II. Mother Goose titles</field>
+    <field name="parent_unittitles_teim">Series II. Mother Goose titles</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_ssm">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_unitid_ssm">PC 001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Five Piggies&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Five Piggies
+    </field>
+    <field name="scopecontent_teim">4 multiple woodblocks, originally bolted, now loose; 2 broken.</field>
+    <field name="bioghist_teim">Title also known as This Little Piggy.</field>
+    <field name="title_teim">Five Piggies</field>
+    <field name="title_teim">This Little Piggy</field>
+    <field name="title_ssm">Five Piggies</field>
+    <field name="title_ssm">This Little Piggy</field>
+    <field name="ref_ssi">aspace_c003677f6468db9e3604247493ef2d2a</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 6, Box: 1D (7)</field>
+    <field name="location_ssm">Box: 1D (7)</field>
+    <field name="location_si">Box: 1D (7)</field>
+    <field name="collection_teim">McLoughlin Brothers, Inc. woodblocks</field>
+    <field name="collection_unitid_teim">PC 001</field>
+    <field name="series_sim">Series II. Mother Goose titles</field>
+    <field name="series_si">Series II. Mother Goose titles &gt;&gt; 
+      &lt;em&gt;Five Piggies&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Five Piggies
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">37</field>
+  </doc>
+</add>

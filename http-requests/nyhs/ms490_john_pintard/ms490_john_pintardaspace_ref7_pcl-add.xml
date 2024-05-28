@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms490_john_pintardaspace_ref7_pcl</field>
+    <field name="ead_ssi">ms490_john_pintard</field>
+    <field name="parent_ssi">aspace_ref6_szb</field>
+    <field name="parent_ssm">aspace_ref6_szb</field>
+    <field name="parent_unittitles_ssm">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="parent_unittitles_teim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Pintard Papers</field>
+    <field name="collection_ssm">John Pintard Papers</field>
+    <field name="collection_unitid_ssm">MS 490</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I: Correspondence </field>
+    <field name="unittitle_teim">Subseries I: Correspondence </field>
+    <field name="unitdate_teim">1784-1842</field>
+    <field name="scopecontent_teim">The correspondence of John Pintard is arranged chronologically and according to whether it was sent or received by John Pintard.</field>
+    <field name="scopecontent_teim">The correspondence of John Pintard to his daughter Eliza Noel Pintard Davidson is published in an edited and abridged four volume work:</field>
+    <field name="scopecontent_teim">PINTARD, J., &amp; BARCK, D. C. (1940). Letters from John Pintard to his daughter, Eliza Noel Pintard Davidson, 1816-1833. 4 Volumes. New York, Printed for the New-York Historical Society.</field>
+    <field name="scopecontent_teim">Vol. 1 includes a General Introduction by editor Dorothy Barck and Vol. 4 includes a detailed index. </field>
+    <field name="scopecontent_teim">This work is available digitally via the Internet Archive -</field>
+    <field name="scopecontent_teim">vol. 1: http://www.archive.org/details/lettersfromjohnp701pint
+vol. 2: http://www.archive.org/details/lettersfromjohnp712pint
+vol. 3: http://www.archive.org/details/lettersfromjohnp723pint
+vol. 4: http://www.archive.org/details/lettersfromjohnp734pint</field>
+    <field name="scopecontent_teim">Some of John Pintard's more frequent correspondents include John Wakefield Francis, Walter Livingston, DeWitt Clinton, James Henry Clinton (serving aboard U.S.S. Constellation), his son-in-law Dr. Richard Davidson of New Orleans and other members of the Davidson family, Samuel Bayard of Princeton (N.J.), Fitch Hall of Boston, Elias Boudinot, Samuel Farmar Jarvis, and his uncle Lewis Pintard. There is a large group of letters to his daughter, Eliza Noel Pintard (Mrs. Richard Davidson), of Pinckneyville, Mississippi Territory, and New Orleans, 1816-1833.</field>
+    <field name="scopecontent_teim">
+The correspondence of John Pintard is arranged chronologically and according to being sent or received by John Pintard.</field>
+    <field name="scopecontent_teim">The correspondence of John Pintard to his daughter Eliza Noel Pintard Davidson is published in an edited and abridged four volume work:</field>
+    <field name="scopecontent_teim">Pintard, J., &amp; Barck, D.C. (1940). Letters from John Pintard to his daughter, Eliza Noel Pintard Davidson, 1816-1833. 4 Volumes. New York, Printed for the New-York Historical Society.</field>
+    <field name="scopecontent_teim">Vol. 1 includes a General Introduction by editor Dorothy Barck and Vol. 4 includes a detailed index. </field>
+    <field name="scopecontent_teim">This work is available digitally via the Internet Archive</field>
+    <field name="scopecontent_teim">
+      Vol.1
+    </field>
+    <field name="scopecontent_teim">
+      Vol.2
+    </field>
+    <field name="scopecontent_teim">
+      Vol.3
+    </field>
+    <field name="scopecontent_teim">
+      Vol.4
+    </field>
+    <field name="title_teim">U.S.S. Constellation</field>
+    <field name="title_teim">Letters from John Pintard to his daughter, Eliza Noel Pintard Davidson, 1816-1833</field>
+    <field name="title_ssm">U.S.S. Constellation</field>
+    <field name="title_ssm">Letters from John Pintard to his daughter, Eliza Noel Pintard Davidson, 1816-1833</field>
+    <field name="ref_ssi">aspace_ref7_pcl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Pintard Papers</field>
+    <field name="collection_unitid_teim">MS 490</field>
+    <field name="series_sim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="series_si">Series 1: Papers of John Pintard, 1779-1851 &gt;&gt; Subseries I: Correspondence </field>
+    <field name="heading_ssm">Subseries I: Correspondence </field>
+    <field name="unitdate_ssm">1784-1842</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

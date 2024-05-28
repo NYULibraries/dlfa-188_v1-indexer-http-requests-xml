@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms439_naval_history_society_collectionaspace_ref1692_pa5</field>
+    <field name="ead_ssi">ms439_naval_history_society_collection</field>
+    <field name="parent_ssi">aspace_ref1442_aow</field>
+    <field name="parent_ssm">aspace_ref1442_aow</field>
+    <field name="parent_unittitles_ssm">Series 53. Naval History Society records (1907-1943; bulk 1909-1936)</field>
+    <field name="parent_unittitles_teim">Series 53. Naval History Society records (1907-1943; bulk 1909-1936)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Naval History Society collection</field>
+    <field name="collection_ssm">Naval History Society collection</field>
+    <field name="collection_unitid_ssm">MS 439</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III. Membership records (1910-1943)</field>
+    <field name="unittitle_teim">Subseries III. Membership records (1910-1943)</field>
+    <field name="scopecontent_teim">The membership records include lists of members in various categories (individual, life, honorary, resigned, died), signed cards noting acceptance or decline of membership, members' war service records, records of dues payments, and proxies for meetings; as well as newspaper clippings of members' obituaries. The mailing list for a proposed Marine Museum of the City of New York was probably used as a source of addresses for potential Naval History Society members. Also included is a guest book of signatures, perhaps kept at annual meetings. Additional information on membership can also be found in some of the Annual Reports (Subseries I. Administrative Records), which include lists of current members for the year; and in account books in Subseries V. Financial Records.</field>
+    <field name="scopecontent_teim">
+      Arrangement
+    </field>
+    <field name="scopecontent_teim">Correspondence sent to all members was moved to Subseries II. Correspondence, and arranged there chronologically.</field>
+    <field name="ref_ssi">aspace_ref1692_pa5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Naval History Society collection</field>
+    <field name="collection_unitid_teim">MS 439</field>
+    <field name="series_sim">Series 53. Naval History Society records (1907-1943; bulk 1909-1936)</field>
+    <field name="series_si">Series 53. Naval History Society records (1907-1943; bulk 1909-1936) &gt;&gt; Subseries III. Membership records (1910-1943)</field>
+    <field name="heading_ssm">Subseries III. Membership records (1910-1943)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1612</field>
+  </doc>
+</add>

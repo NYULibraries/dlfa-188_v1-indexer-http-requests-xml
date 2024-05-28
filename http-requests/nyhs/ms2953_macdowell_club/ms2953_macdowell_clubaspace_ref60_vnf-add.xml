@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2953_macdowell_clubaspace_ref60_vnf</field>
+    <field name="ead_ssi">ms2953_macdowell_club</field>
+    <field name="parent_ssi">aspace_ref4_7bn</field>
+    <field name="parent_ssm">aspace_ref4_7bn</field>
+    <field name="parent_unittitles_ssm">Series III: Membership lists and annual reports</field>
+    <field name="parent_unittitles_teim">Series III: Membership lists and annual reports</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">MacDowell Club of New York City records</field>
+    <field name="collection_ssm">MacDowell Club of New York City records</field>
+    <field name="collection_unitid_ssm">MS 2953</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">List of members</field>
+    <field name="unittitle_teim">List of members</field>
+    <field name="unitdate_inclusive_teim">1907, 1911-1916, 1918, 1919, 1921-1934</field>
+    <field name="scopecontent_teim">This item was in former box number 6, now enclosed with other small boxes in Box A.</field>
+    <field name="ref_ssi">aspace_ref60_vnf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: A, case: 6</field>
+    <field name="location_ssm">case: 6</field>
+    <field name="location_si">case: 6</field>
+    <field name="collection_teim">MacDowell Club of New York City records</field>
+    <field name="collection_unitid_teim">MS 2953</field>
+    <field name="series_sim">Series III: Membership lists and annual reports</field>
+    <field name="series_si">Series III: Membership lists and annual reports &gt;&gt; List of members</field>
+    <field name="heading_ssm">List of members</field>
+    <field name="unitdate_ssm">Inclusive, 1907, 1911-1916, 1918, 1919, 1921-1934</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">50</field>
+  </doc>
+</add>

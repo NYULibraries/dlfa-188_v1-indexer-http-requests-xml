@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_c6e981a3e4025843c46da7fd74f24a19</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_e29254f56bb7d56f704709067526424d</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_e29254f56bb7d56f704709067526424d</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Prensita</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Prensita</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"La Prensita," published by the Spanish Department of Erasmus Hall High School</field>
+    <field name="unittitle_teim">"La Prensita," published by the Spanish Department of Erasmus Hall High School</field>
+    <field name="unitdate_inclusive_teim">1936</field>
+    <field name="scopecontent_teim">•	Vol. 1, no. 1 (June 1936) [2 copies]
+•	Vol. 1, no. 2 (Dec. 1936) [3 copies]</field>
+    <field name="ref_ssi">aspace_c6e981a3e4025843c46da7fd74f24a19</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-4a, Folder: Spanish Dep't. Publications</field>
+    <field name="location_ssm">Folder: Spanish Dep't. Publications</field>
+    <field name="location_si">Folder: Spanish Dep't. Publications</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Prensita</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Prensita &gt;&gt; "La Prensita," published by the Spanish Department of Erasmus Hall High School</field>
+    <field name="heading_ssm">"La Prensita," published by the Spanish Department of Erasmus Hall High School</field>
+    <field name="unitdate_ssm">Inclusive, 1936</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">815</field>
+  </doc>
+</add>

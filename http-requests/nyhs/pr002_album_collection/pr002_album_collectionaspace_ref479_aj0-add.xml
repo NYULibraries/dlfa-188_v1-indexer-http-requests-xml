@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref479_aj0</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">1st. Div[ision] North Atlantic Squadron, November 1905 [and other subjects]</field>
+    <field name="unittitle_teim">1st. Div[ision] North Atlantic Squadron, November 1905 [and other subjects]</field>
+    <field name="unitdate_normal_ssm">1905/1907</field>
+    <field name="unitdate_normal_teim">1905/1907</field>
+    <field name="unitdate_normal_sim">1905/1907</field>
+    <field name="unitdate_inclusive_teim">1905-1907</field>
+    <field name="scopecontent_teim">New York waterfront, including the Battery and piers on the Hudson, Riverside Park from the water; transports [?] Cedric and Baltic, the Maine, the Missouri, Alabama, Illinois and others; group photographed at Briarcliff, Sept. 1906; group in touring car; Oyster Bay, Labor Day, 1906; views of Harlem River, the Polo Grounds, Washington Bridge, and surrounding area; Arcola, including farm scenes; Livingston Field Club Soccer match; views in Washington, D.C.; view of an amusement park or fair ground; diorama of "Great Train robbery"; views looking down on a parade for Decoration Day, 1906.</field>
+    <field name="ref_ssi">aspace_ref479_aj0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 17, Volume: 152</field>
+    <field name="location_ssm">Volume: 152</field>
+    <field name="location_si">Volume: 152</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">1st. Div[ision] North Atlantic Squadron, November 1905 [and other subjects]</field>
+    <field name="heading_ssm">1st. Div[ision] North Atlantic Squadron, November 1905 [and other subjects]</field>
+    <field name="unitdate_start_sim">1905</field>
+    <field name="unitdate_start_ssm">1905</field>
+    <field name="unitdate_start_si">1905</field>
+    <field name="unitdate_end_sim">1907</field>
+    <field name="unitdate_end_ssm">1907</field>
+    <field name="unitdate_end_si">1907</field>
+    <field name="unitdate_ssm">Inclusive, 1905-1907</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">160</field>
+  </doc>
+</add>

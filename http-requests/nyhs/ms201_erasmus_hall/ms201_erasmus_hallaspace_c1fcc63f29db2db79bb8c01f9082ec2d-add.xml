@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_c1fcc63f29db2db79bb8c01f9082ec2d</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_272a8e44412c63accaf13feea180338a</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_272a8e44412c63accaf13feea180338a</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Currier and Ives lithograph</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Currier and Ives lithograph</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"The Old Stone House, L.I., 1699"</field>
+    <field name="unittitle_teim">"The Old Stone House, L.I., 1699"</field>
+    <field name="unitdate_inclusive_teim">[1848–1856]</field>
+    <field name="scopecontent_teim">Original lithograph issued by Nathaniel G. Currier, depicting the Old Stone House at Gowanus, L. I. (now part of Brooklyn, N.Y.), built in 1699, which was the site of fighting during the Battle of Long Island.
+
+This framed lithograph had a label on the back of the frame reading "For John Lefferts." It may have been a gift of either the Lefferts or Zabriskie families.</field>
+    <field name="ref_ssi">aspace_c1fcc63f29db2db79bb8c01f9082ec2d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-13</field>
+    <field name="location_si">Offsite-Box: RC-13</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Currier and Ives lithograph</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Currier and Ives lithograph &gt;&gt; "The Old Stone House, L.I., 1699"</field>
+    <field name="heading_ssm">"The Old Stone House, L.I., 1699"</field>
+    <field name="unitdate_ssm">Inclusive, [1848–1856]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">129</field>
+  </doc>
+</add>

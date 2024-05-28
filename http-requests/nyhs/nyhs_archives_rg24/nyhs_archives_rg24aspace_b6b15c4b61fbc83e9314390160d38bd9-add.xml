@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg24aspace_b6b15c4b61fbc83e9314390160d38bd9</field>
+    <field name="ead_ssi">nyhs_archives_rg24</field>
+    <field name="parent_ssi">aspace_9ee9c195322a661e4e62bf7d2128418b</field>
+    <field name="parent_ssm">aspace_7329ee5182a1a0bbb9fca3347d8b76d6</field>
+    <field name="parent_ssm">aspace_9ee9c195322a661e4e62bf7d2128418b</field>
+    <field name="parent_unittitles_ssm">Series I. Investments</field>
+    <field name="parent_unittitles_ssm">Subseries I.A. Mortgage Investments</field>
+    <field name="parent_unittitles_teim">Series I. Investments</field>
+    <field name="parent_unittitles_teim">Subseries I.A. Mortgage Investments</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society financial records</field>
+    <field name="collection_ssm">New-York Historical Society financial records</field>
+    <field name="collection_unitid_ssm">NYHS-RG 24</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Investments/mortgage documents</field>
+    <field name="unittitle_teim">Investments/mortgage documents</field>
+    <field name="unitdate_inclusive_teim">1880s</field>
+    <field name="ref_ssi">aspace_b6b15c4b61fbc83e9314390160d38bd9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">New-York Historical Society financial records</field>
+    <field name="collection_unitid_teim">NYHS-RG 24</field>
+    <field name="series_sim">Series I. Investments</field>
+    <field name="series_sim">Subseries I.A. Mortgage Investments</field>
+    <field name="series_si">Series I. Investments &gt;&gt; Subseries I.A. Mortgage Investments &gt;&gt; Investments/mortgage documents</field>
+    <field name="heading_ssm">Investments/mortgage documents</field>
+    <field name="unitdate_ssm">Inclusive, 1880s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

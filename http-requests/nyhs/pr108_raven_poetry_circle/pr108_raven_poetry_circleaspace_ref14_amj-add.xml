@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr108_raven_poetry_circleaspace_ref14_amj</field>
+    <field name="ead_ssi">pr108_raven_poetry_circle</field>
+    <field name="parent_ssi">aspace_ref13_p7t</field>
+    <field name="parent_ssm">aspace_ref13_p7t</field>
+    <field name="parent_unittitles_ssm">Series I. Snapshots</field>
+    <field name="parent_unittitles_teim">Series I. Snapshots</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Raven Poetry Circle of Greenwich Village Collection</field>
+    <field name="collection_ssm">Raven Poetry Circle of Greenwich Village Collection</field>
+    <field name="collection_unitid_ssm">PR 108</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">PORTRAITS</field>
+    <field name="unittitle_teim">PORTRAITS</field>
+    <field name="ref_ssi">aspace_ref14_amj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Raven Poetry Circle of Greenwich Village Collection</field>
+    <field name="collection_unitid_teim">PR 108</field>
+    <field name="series_sim">Series I. Snapshots</field>
+    <field name="series_si">Series I. Snapshots &gt;&gt; PORTRAITS</field>
+    <field name="heading_ssm">PORTRAITS</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

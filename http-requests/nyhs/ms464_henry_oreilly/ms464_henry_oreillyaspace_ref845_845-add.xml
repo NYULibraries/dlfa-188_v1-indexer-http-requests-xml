@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms464_henry_oreillyaspace_ref845_845</field>
+    <field name="ead_ssi">ms464_henry_oreilly</field>
+    <field name="parent_ssi">aspace_ref844_4rz</field>
+    <field name="parent_ssm">aspace_ref844_4rz</field>
+    <field name="parent_unittitles_ssm">Series XVII: Rochester Daily Advertiser, Undated</field>
+    <field name="parent_unittitles_teim">Series XVII: Rochester Daily Advertiser, Undated</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Henry O'Reilly papers</field>
+    <field name="collection_ssm">Henry O'Reilly papers</field>
+    <field name="collection_unitid_ssm">MS 464</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Rochester Daily Advertiser&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Rochester Daily Advertiser
+    </field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="title_teim">Rochester Daily Advertiser</field>
+    <field name="title_ssm">Rochester Daily Advertiser</field>
+    <field name="ref_ssi">aspace_ref845_845</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 43, Folder: 26</field>
+    <field name="location_ssm">Folder: 26</field>
+    <field name="location_si">Folder: 26</field>
+    <field name="collection_teim">Henry O'Reilly papers</field>
+    <field name="collection_unitid_teim">MS 464</field>
+    <field name="series_sim">Series XVII: Rochester Daily Advertiser, Undated</field>
+    <field name="series_si">Series XVII: Rochester Daily Advertiser, Undated &gt;&gt; 
+      &lt;em&gt;Rochester Daily Advertiser&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Rochester Daily Advertiser
+    </field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">808</field>
+  </doc>
+</add>

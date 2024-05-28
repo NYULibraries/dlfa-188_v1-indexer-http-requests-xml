@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms000_oversize_manuscripts_collectionaspace_bf108ec0f333092f74d08bf76eeb09d8</field>
+    <field name="ead_ssi">ms000_oversize_manuscripts_collection</field>
+    <field name="parent_ssi">aspace_ref9_cso</field>
+    <field name="parent_ssm">aspace_ref9_cso</field>
+    <field name="parent_unittitles_ssm">Series II. Oversize Manuscripts From Other Collections</field>
+    <field name="parent_unittitles_teim">Series II. Oversize Manuscripts From Other Collections</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oversize manuscripts collection</field>
+    <field name="collection_ssm">Oversize manuscripts collection</field>
+    <field name="collection_unitid_ssm">MS OS</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Y-Freedman Family Papers and Other Documents (MS 231)] (2 of 2 folders)</field>
+    <field name="unittitle_teim">[Y-Freedman Family Papers and Other Documents (MS 231)] (2 of 2 folders)</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">[Purse?]
+
+For details see Guide to the Freedman Family Papers and Other Documents, 1765–1968 (bulk, 1930–1950), MS 231.</field>
+    <field name="ref_ssi">aspace_bf108ec0f333092f74d08bf76eeb09d8</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: small</field>
+    <field name="location_si">oversize: small</field>
+    <field name="collection_teim">Oversize manuscripts collection</field>
+    <field name="collection_unitid_teim">MS OS</field>
+    <field name="series_sim">Series II. Oversize Manuscripts From Other Collections</field>
+    <field name="series_si">Series II. Oversize Manuscripts From Other Collections &gt;&gt; [Y-Freedman Family Papers and Other Documents (MS 231)] (2 of 2 folders)</field>
+    <field name="heading_ssm">[Y-Freedman Family Papers and Other Documents (MS 231)] (2 of 2 folders)</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">361</field>
+  </doc>
+</add>

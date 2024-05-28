@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr122_john_rogers_photosaspace_ref140_yp0</field>
+    <field name="ead_ssi">pr122_john_rogers_photos</field>
+    <field name="parent_ssi">aspace_ref136_inc</field>
+    <field name="parent_ssm">aspace_ref135_4mx</field>
+    <field name="parent_ssm">aspace_ref136_inc</field>
+    <field name="parent_unittitles_ssm">Series III: Sculpture by Other Artists</field>
+    <field name="parent_unittitles_ssm">Collected Photographs of Sculpture</field>
+    <field name="parent_unittitles_teim">Series III: Sculpture by Other Artists</field>
+    <field name="parent_unittitles_teim">Collected Photographs of Sculpture</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Rogers Photograph Collection</field>
+    <field name="collection_ssm">John Rogers Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 122</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Photo-Gravure Co. of New York, published set of photographs of sculpture</field>
+    <field name="unittitle_teim">Photo-Gravure Co. of New York, published set of photographs of sculpture</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref140_yp0</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 119</field>
+    <field name="location_ssm">Folder: 119</field>
+    <field name="location_si">Folder: 119</field>
+    <field name="collection_teim">John Rogers Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 122</field>
+    <field name="series_sim">Series III: Sculpture by Other Artists</field>
+    <field name="series_sim">Collected Photographs of Sculpture</field>
+    <field name="series_si">Series III: Sculpture by Other Artists &gt;&gt; Collected Photographs of Sculpture &gt;&gt; Photo-Gravure Co. of New York, published set of photographs of sculpture</field>
+    <field name="heading_ssm">Photo-Gravure Co. of New York, published set of photographs of sculpture</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">122</field>
+  </doc>
+</add>

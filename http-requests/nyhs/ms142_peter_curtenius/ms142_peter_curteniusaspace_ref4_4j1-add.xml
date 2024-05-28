@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms142_peter_curteniusaspace_ref4_4j1</field>
+    <field name="ead_ssi">ms142_peter_curtenius</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Peter Curtenius papers</field>
+    <field name="collection_ssm">Peter Curtenius papers</field>
+    <field name="collection_unitid_ssm">MS 142</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Correspondence</field>
+    <field name="unittitle_teim">Series I. Correspondence</field>
+    <field name="unitdate_normal_ssm">1808/1815</field>
+    <field name="unitdate_normal_teim">1808/1815</field>
+    <field name="unitdate_normal_sim">1808/1815</field>
+    <field name="unitdate_inclusive_teim">1808-1815</field>
+    <field name="scopecontent_teim">Series I consists of letters written by Peter Curtenius (or on his behalf) or letters from various government agencies containing instructions for Curtenius in his capacity as U.S. Marshal of the District of New York. Most of the correspondence is between Curtenius and the Department of State (during James Monroe's tenure as Secretary of State), the Department of the Treasury (during Albert Gallatin's tenure as Treasury Secretary), and the Commissary General of Prisoners of War, John Mason. Much of the correspondence, particularly from the State Department and the Commissary General, is related to the status of British citizens living in New York City or British prisoners of war during the War of 1812, though the Treasury Department also issued instructions regarding civilian debtors. There is also some correspondence from the Treasury Department related to the 1810 census.</field>
+    <field name="ref_ssi">aspace_ref4_4j1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Peter Curtenius papers</field>
+    <field name="collection_unitid_teim">MS 142</field>
+    <field name="series_si">Series I. Correspondence</field>
+    <field name="heading_ssm">Series I. Correspondence</field>
+    <field name="unitdate_start_sim">1808</field>
+    <field name="unitdate_start_ssm">1808</field>
+    <field name="unitdate_start_si">1808</field>
+    <field name="unitdate_end_sim">1815</field>
+    <field name="unitdate_end_ssm">1815</field>
+    <field name="unitdate_end_si">1815</field>
+    <field name="unitdate_ssm">Inclusive, 1808-1815</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

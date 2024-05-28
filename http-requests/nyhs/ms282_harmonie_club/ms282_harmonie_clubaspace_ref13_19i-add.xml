@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms282_harmonie_clubaspace_ref13_19i</field>
+    <field name="ead_ssi">ms282_harmonie_club</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Harmonie Club records</field>
+    <field name="collection_ssm">Harmonie Club records</field>
+    <field name="collection_unitid_ssm">MS 282</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Minutes</field>
+    <field name="unittitle_teim">Series I: Minutes</field>
+    <field name="unitdate_inclusive_teim">1852-1995</field>
+    <field name="scopecontent_teim">Bound ledgers of minutes run from the Harmonie Club's founding in 1852 until 1995, with gaps from the mid-1930's to the mid-1950's. The series has been split into four subseries: General Minutes, Secretary Minutes, Board of Governors Minutes, and the final subseries contains all other committee and club minutes. The ledgers are entitled by the wording on the spine followed by anything written on the cover. In the event the cover is missing or blank, the volume is listed as the subseries name. The majority of the books have additional documents stuck in-between the pages or cover; for the most part these are directly related to the function and period encompassed in the ledger. Where necessary documents have been removed from the pages, foldered, and placed in the back cover. The minutes are handwritten until 1915, but items pasted into the books are a mix of typed and handwritten document throughout the series.</field>
+    <field name="ref_ssi">aspace_ref13_19i</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Harmonie Club records</field>
+    <field name="collection_unitid_teim">MS 282</field>
+    <field name="series_si">Series I: Minutes</field>
+    <field name="heading_ssm">Series I: Minutes</field>
+    <field name="unitdate_ssm">Inclusive, 1852-1995</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

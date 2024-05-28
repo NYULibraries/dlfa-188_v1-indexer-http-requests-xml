@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3051_ratcliffe_laplazaaspace_af81d87078c07f56c289db88a6af5385</field>
+    <field name="ead_ssi">ms3051_ratcliffe_laplaza</field>
+    <field name="parent_ssi">aspace_e372b70326023bfbc2b16be251c48e6a</field>
+    <field name="parent_ssm">aspace_e372b70326023bfbc2b16be251c48e6a</field>
+    <field name="parent_unittitles_ssm">Series II. Digital Files</field>
+    <field name="parent_unittitles_teim">Series II. Digital Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Carolyn Ratcliffe collection on La Plaza Cultural</field>
+    <field name="collection_ssm">Carolyn Ratcliffe collection on La Plaza Cultural</field>
+    <field name="collection_unitid_ssm">MS 3051</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">ZipDisks_bin_1</field>
+    <field name="unittitle_teim">ZipDisks_bin_1</field>
+    <field name="unitdate_inclusive_teim">2002 August</field>
+    <field name="scopecontent_teim">A set of 16 zip disks noted as a backup at August 2002. The back-up format is a 1-step file and requires specialized software to open. The content was not reviewed during processing. One exception to this is the 15th zip disk of the set, which includes Excel format financial data for 1999-2003 for the New 600 BC E. 9th Street Block &amp; Neighborhood Association/La Plaza. Some of those financial files have a QBB (Quick Books) file format and require specialized software.</field>
+    <field name="ref_ssi">aspace_af81d87078c07f56c289db88a6af5385</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Digital-Folder: MS3051</field>
+    <field name="location_si">Digital-Folder: MS3051</field>
+    <field name="collection_teim">Carolyn Ratcliffe collection on La Plaza Cultural</field>
+    <field name="collection_unitid_teim">MS 3051</field>
+    <field name="series_sim">Series II. Digital Files</field>
+    <field name="series_si">Series II. Digital Files &gt;&gt; ZipDisks_bin_1</field>
+    <field name="heading_ssm">ZipDisks_bin_1</field>
+    <field name="unitdate_ssm">Inclusive, 2002 August</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>

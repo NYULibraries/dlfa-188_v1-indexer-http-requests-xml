@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref363_pj7</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Stamford, 1889</field>
+    <field name="unittitle_teim">Stamford, 1889</field>
+    <field name="unitdate_normal_ssm">1889/1889</field>
+    <field name="unitdate_normal_teim">1889/1889</field>
+    <field name="unitdate_normal_sim">1889/1889</field>
+    <field name="unitdate_inclusive_teim">1889</field>
+    <field name="scopecontent_teim">Cyanotypes; views in and around Stamford, Connecticut; including a mill on River Street, the Ferguson Library, Central Park, with horses, wagons and buggies, Town Hall, Stamford Savings Bank, North Atlantic Street, rural road, and wooded glade.</field>
+    <field name="ref_ssi">aspace_ref363_pj7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 12, Volume: 113</field>
+    <field name="location_ssm">Volume: 113</field>
+    <field name="location_si">Volume: 113</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Stamford, 1889</field>
+    <field name="heading_ssm">Stamford, 1889</field>
+    <field name="unitdate_start_sim">1889</field>
+    <field name="unitdate_start_ssm">1889</field>
+    <field name="unitdate_start_si">1889</field>
+    <field name="unitdate_end_sim">1889</field>
+    <field name="unitdate_end_ssm">1889</field>
+    <field name="unitdate_end_si">1889</field>
+    <field name="unitdate_ssm">Inclusive, 1889</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">121</field>
+  </doc>
+</add>

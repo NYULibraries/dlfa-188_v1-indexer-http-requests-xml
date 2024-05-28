@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms235_frey_familyaspace_ref266_9hl</field>
+    <field name="ead_ssi">ms235_frey_family</field>
+    <field name="parent_ssi">aspace_ref264_t39</field>
+    <field name="parent_ssm">aspace_ref14_frd</field>
+    <field name="parent_ssm">aspace_ref264_t39</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence, 1793-1917, undated</field>
+    <field name="parent_unittitles_ssm">Subseries 73. Ludlow, Samuel Baldwin, 1825-1881, undated</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence, 1793-1917, undated</field>
+    <field name="parent_unittitles_teim">Subseries 73. Ludlow, Samuel Baldwin, 1825-1881, undated</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Frey Family Papers</field>
+    <field name="collection_ssm">Frey Family Papers</field>
+    <field name="collection_unitid_ssm">MS 235</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Letters sent: Ludlow, Samuel Baldwin</field>
+    <field name="unittitle_teim">Letters sent: Ludlow, Samuel Baldwin</field>
+    <field name="unitdate_normal_ssm">1846/1860</field>
+    <field name="unitdate_normal_teim">1846/1860</field>
+    <field name="unitdate_normal_sim">1846/1860</field>
+    <field name="unitdate_inclusive_teim">1846-1860</field>
+    <field name="ref_ssi">aspace_ref266_9hl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Frey Family Papers</field>
+    <field name="collection_unitid_teim">MS 235</field>
+    <field name="series_sim">Series I: Correspondence, 1793-1917, undated</field>
+    <field name="series_sim">Subseries 73. Ludlow, Samuel Baldwin, 1825-1881, undated</field>
+    <field name="series_si">Series I: Correspondence, 1793-1917, undated &gt;&gt; Subseries 73. Ludlow, Samuel Baldwin, 1825-1881, undated &gt;&gt; Letters sent: Ludlow, Samuel Baldwin</field>
+    <field name="heading_ssm">Letters sent: Ludlow, Samuel Baldwin</field>
+    <field name="unitdate_start_sim">1846</field>
+    <field name="unitdate_start_ssm">1846</field>
+    <field name="unitdate_start_si">1846</field>
+    <field name="unitdate_end_sim">1860</field>
+    <field name="unitdate_end_ssm">1860</field>
+    <field name="unitdate_end_si">1860</field>
+    <field name="unitdate_ssm">Inclusive, 1846-1860</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">191</field>
+  </doc>
+</add>

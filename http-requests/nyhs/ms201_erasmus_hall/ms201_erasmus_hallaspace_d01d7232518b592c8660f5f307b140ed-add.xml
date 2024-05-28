@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_d01d7232518b592c8660f5f307b140ed</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_029d87499e6f8034d7c0a028bf4da135</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_029d87499e6f8034d7c0a028bf4da135</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Erasmus Hall Academy—Students</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Erasmus Hall Academy—Students</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Letter to Robert A. Finlay]</field>
+    <field name="unittitle_teim">[Letter to Robert A. Finlay]</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">A letter written to "Master Robert A. Finlay, Flatbush, L.I.," who was a student at Erasmus Hall. The letter concerns letters, clothing and a toothbrush sent to him at the Academy.</field>
+    <field name="ref_ssi">aspace_d01d7232518b592c8660f5f307b140ed</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-7</field>
+    <field name="location_si">Offsite-Box: RC-7</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Erasmus Hall Academy—Students</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Erasmus Hall Academy—Students &gt;&gt; [Letter to Robert A. Finlay]</field>
+    <field name="heading_ssm">[Letter to Robert A. Finlay]</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">238</field>
+  </doc>
+</add>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms381_leverich_familyaspace_ref524_nv3</field>
+    <field name="ead_ssi">ms381_leverich_family</field>
+    <field name="parent_ssi">aspace_ref454_oz9</field>
+    <field name="parent_ssm">aspace_ref336_3oc</field>
+    <field name="parent_ssm">aspace_ref454_oz9</field>
+    <field name="parent_unittitles_ssm">Series II. Business/Financial Papers </field>
+    <field name="parent_unittitles_ssm">Subseries 2: Bills, Receipts, Invoices, Transferable Orders for Cotton, Payrolls, Charges </field>
+    <field name="parent_unittitles_teim">Series II. Business/Financial Papers </field>
+    <field name="parent_unittitles_teim">Subseries 2: Bills, Receipts, Invoices, Transferable Orders for Cotton, Payrolls, Charges </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Leverich family papers</field>
+    <field name="collection_ssm">Leverich family papers</field>
+    <field name="collection_unitid_ssm">MS 381</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Bills, Receipts, Invoices</field>
+    <field name="unittitle_teim">Bills, Receipts, Invoices</field>
+    <field name="unitdate_normal_ssm">1870/1870</field>
+    <field name="unitdate_normal_teim">1870/1870</field>
+    <field name="unitdate_normal_sim">1870/1870</field>
+    <field name="unitdate_inclusive_teim">1870 Oct.</field>
+    <field name="ref_ssi">aspace_ref524_nv3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 29, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Leverich family papers</field>
+    <field name="collection_unitid_teim">MS 381</field>
+    <field name="series_sim">Series II. Business/Financial Papers </field>
+    <field name="series_sim">Subseries 2: Bills, Receipts, Invoices, Transferable Orders for Cotton, Payrolls, Charges </field>
+    <field name="series_si">Series II. Business/Financial Papers  &gt;&gt; Subseries 2: Bills, Receipts, Invoices, Transferable Orders for Cotton, Payrolls, Charges  &gt;&gt; Bills, Receipts, Invoices</field>
+    <field name="heading_ssm">Bills, Receipts, Invoices</field>
+    <field name="unitdate_start_sim">1870</field>
+    <field name="unitdate_start_ssm">1870</field>
+    <field name="unitdate_start_si">1870</field>
+    <field name="unitdate_end_sim">1870</field>
+    <field name="unitdate_end_ssm">1870</field>
+    <field name="unitdate_end_si">1870</field>
+    <field name="unitdate_ssm">Inclusive, 1870 Oct.</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">500</field>
+  </doc>
+</add>

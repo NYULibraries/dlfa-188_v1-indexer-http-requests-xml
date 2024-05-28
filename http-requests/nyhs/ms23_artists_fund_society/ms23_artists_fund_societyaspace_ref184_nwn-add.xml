@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms23_artists_fund_societyaspace_ref184_nwn</field>
+    <field name="ead_ssi">ms23_artists_fund_society</field>
+    <field name="parent_ssi">aspace_ref27_7ev</field>
+    <field name="parent_ssm">aspace_ref27_7ev</field>
+    <field name="parent_unittitles_ssm">Series VIII: Real Estate</field>
+    <field name="parent_unittitles_teim">Series VIII: Real Estate</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Artists' Fund Society records</field>
+    <field name="collection_ssm">Artists' Fund Society records</field>
+    <field name="collection_unitid_ssm">MS 23</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Notes (Hand Written)</field>
+    <field name="unittitle_teim">Notes (Hand Written)</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref184_nwn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Artists' Fund Society records</field>
+    <field name="collection_unitid_teim">MS 23</field>
+    <field name="series_sim">Series VIII: Real Estate</field>
+    <field name="series_si">Series VIII: Real Estate &gt;&gt; Notes (Hand Written)</field>
+    <field name="heading_ssm">Notes (Hand Written)</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">144</field>
+  </doc>
+</add>

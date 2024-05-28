@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg05aspace_ref30_hpf</field>
+    <field name="ead_ssi">nyhs_archives_rg05</field>
+    <field name="parent_ssi">aspace_ref1_bf1</field>
+    <field name="parent_ssm">aspace_ref1_bf1</field>
+    <field name="parent_unittitles_ssm">Series I: Buildings</field>
+    <field name="parent_unittitles_teim">Series I: Buildings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society pictorial archive</field>
+    <field name="collection_ssm">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_ssm">NYHS-RG 5</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Thompson Homestead Memorial, East Hampton, Long Island	</field>
+    <field name="unittitle_teim">Thompson Homestead Memorial, East Hampton, Long Island	</field>
+    <field name="unitdate_normal_ssm">1942/1945</field>
+    <field name="unitdate_normal_teim">1942/1945</field>
+    <field name="unitdate_normal_sim">1942/1945</field>
+    <field name="unitdate_inclusive_teim">1942-1945</field>
+    <field name="scopecontent_teim">Includes photographs of the summer museum maintained by N-YHS from 1942-1945, including images of the 1942 dedication and reception, exterior views, and interior exhibitions.</field>
+    <field name="ref_ssi">aspace_ref30_hpf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">New-York Historical Society pictorial archive</field>
+    <field name="collection_unitid_teim">NYHS-RG 5</field>
+    <field name="series_sim">Series I: Buildings</field>
+    <field name="series_si">Series I: Buildings &gt;&gt; Thompson Homestead Memorial, East Hampton, Long Island	</field>
+    <field name="heading_ssm">Thompson Homestead Memorial, East Hampton, Long Island	</field>
+    <field name="unitdate_start_sim">1942</field>
+    <field name="unitdate_start_ssm">1942</field>
+    <field name="unitdate_start_si">1942</field>
+    <field name="unitdate_end_sim">1945</field>
+    <field name="unitdate_end_ssm">1945</field>
+    <field name="unitdate_end_si">1945</field>
+    <field name="unitdate_ssm">Inclusive, 1942-1945</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">31</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref308_dtm</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XXII: Transportation</field>
+    <field name="unittitle_teim">Series XXII: Transportation</field>
+    <field name="unitdate_inclusive_teim">1851-1985</field>
+    <field name="scopecontent_teim">This series contains certificates of membership and commemoration; licenses; and invitations related to ship, steamboat, and railroad transport. </field>
+    <field name="scopecontent_teim">One certificate of membership records dues paid to the New York Cheap Transportation Association. Two licenses are included; one to operate motor boats carrying passengers for hire, the other to operate ocean or coastwise steam and motor vessels.</field>
+    <field name="scopecontent_teim">Two certificates commemorate the opening of the New
+York and Erie Rail Road. An invitation to attend the ceremony of opening the Holland Tunnel is also included
+in this series. </field>
+    <field name="scopecontent_teim">Another certificate is a resolution passed by the Central Park, North and East River Railroad Company thanking police officials for their assistance during a strike.</field>
+    <field name="scopecontent_teim">Also of interest are two certificates of inspection for the steamers New York and Daniel Drew.</field>
+    <field name="ref_ssi">aspace_ref308_dtm</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series XXII: Transportation</field>
+    <field name="heading_ssm">Series XXII: Transportation</field>
+    <field name="unitdate_ssm">Inclusive, 1851-1985</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">426</field>
+  </doc>
+</add>

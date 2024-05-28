@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref84_xep</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="parent_ssi">aspace_ref298_0kl</field>
+    <field name="parent_ssm">aspace_ref298_0kl</field>
+    <field name="parent_unittitles_ssm">Series XII: Legal</field>
+    <field name="parent_unittitles_teim">Series XII: Legal</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Birth Certificates</field>
+    <field name="unittitle_teim">Birth Certificates</field>
+    <field name="unitdate_teim">circa 1850</field>
+    <field name="ref_ssi">aspace_ref84_xep</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_sim">Series XII: Legal</field>
+    <field name="series_si">Series XII: Legal &gt;&gt; Birth Certificates</field>
+    <field name="heading_ssm">Birth Certificates</field>
+    <field name="unitdate_ssm">circa 1850</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">198</field>
+  </doc>
+</add>

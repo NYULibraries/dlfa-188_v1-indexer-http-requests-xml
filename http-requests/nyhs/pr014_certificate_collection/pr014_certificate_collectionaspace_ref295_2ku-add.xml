@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref295_2ku</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IX: Genealogical</field>
+    <field name="unittitle_teim">Series IX: Genealogical</field>
+    <field name="unitdate_inclusive_teim">1785-1940</field>
+    <field name="scopecontent_teim">This series is comprised of membership certificates to organizations that base their
+membership on lineage. Societies include the Daughters of the American Revolution, the Society of Colonial Wars, the Society of Mayflower Descendants, the Saint Nicholas Society of the City of New York, the Society of California Pioneers, the Society of the Cincinnati and Sherwood Kindred of America. 
+Some of these certificates are printed on parchment and have original wax seals.</field>
+    <field name="ref_ssi">aspace_ref295_2ku</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series IX: Genealogical</field>
+    <field name="heading_ssm">Series IX: Genealogical</field>
+    <field name="unitdate_ssm">Inclusive, 1785-1940</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">137</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref297_ucd</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XI: Humanitarian</field>
+    <field name="unittitle_teim">Series XI: Humanitarian</field>
+    <field name="unitdate_inclusive_teim">1700-1910</field>
+    <field name="scopecontent_teim">This series contains membership certificates for the New York Society for the Prevention of Cruelty to Children, the Woman's Central Association of Relief, Cape Palmas Female Orphan Asylum Society, the Lawrence Benevolent Institution of Pennsylvania, the U.S. Sanitary Commission, the New-Jersey Society for Promoting the Abolition of Slavery.</field>
+    <field name="scopecontent_teim">Certificates for the New York Marine Society, a group formed to provide assistance to widows and children of deceased sailors, include both reproductions and originals with wax seals. There are also certificates from other maritime organizations that provided assistance to sailors and their families.</field>
+    <field name="scopecontent_teim">Of special interest is a certificate for completion of an apprenticeship at the New York House of Refuge, circa 1870.</field>
+    <field name="ref_ssi">aspace_ref297_ucd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series XI: Humanitarian</field>
+    <field name="heading_ssm">Series XI: Humanitarian</field>
+    <field name="unitdate_ssm">Inclusive, 1700-1910</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">179</field>
+  </doc>
+</add>

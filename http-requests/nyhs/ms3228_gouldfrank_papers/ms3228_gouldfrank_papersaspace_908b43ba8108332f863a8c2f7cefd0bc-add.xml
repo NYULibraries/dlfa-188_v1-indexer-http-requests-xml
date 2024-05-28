@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3228_gouldfrank_papersaspace_908b43ba8108332f863a8c2f7cefd0bc</field>
+    <field name="ead_ssi">ms3228_gouldfrank_papers</field>
+    <field name="parent_ssi">aspace_3bc41c439716fb7df937d750567fde49</field>
+    <field name="parent_ssm">aspace_3bc41c439716fb7df937d750567fde49</field>
+    <field name="parent_unittitles_ssm">Series I. Military Service Papers</field>
+    <field name="parent_unittitles_teim">Series I. Military Service Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Frank R. Gould papers</field>
+    <field name="collection_ssm">Frank R. Gould papers</field>
+    <field name="collection_unitid_ssm">MS 3228</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Personal Correspondence</field>
+    <field name="unittitle_teim">Personal Correspondence</field>
+    <field name="unitdate_inclusive_teim">1944-1945</field>
+    <field name="scopecontent_teim">Two letters to Ruth Yagendorf Gould, wife of Frank Gould, and one to his parents, written during his deployment.</field>
+    <field name="ref_ssi">aspace_908b43ba8108332f863a8c2f7cefd0bc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Frank R. Gould papers</field>
+    <field name="collection_unitid_teim">MS 3228</field>
+    <field name="series_sim">Series I. Military Service Papers</field>
+    <field name="series_si">Series I. Military Service Papers &gt;&gt; Personal Correspondence</field>
+    <field name="heading_ssm">Personal Correspondence</field>
+    <field name="unitdate_ssm">Inclusive, 1944-1945</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

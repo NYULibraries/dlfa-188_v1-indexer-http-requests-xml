@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr003_architects_engineersaspace_ref35_u0n</field>
+    <field name="ead_ssi">pr003_architects_engineers</field>
+    <field name="parent_ssi">aspace_ref34_p4z</field>
+    <field name="parent_ssm">aspace_ref34_p4z</field>
+    <field name="parent_unittitles_ssm">Bolton, Reginald Pelham, (PR 3-180)</field>
+    <field name="parent_unittitles_teim">Bolton, Reginald Pelham, (PR 3-180)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Architects &amp; Engineers collection</field>
+    <field name="collection_ssm">Architects &amp; Engineers collection</field>
+    <field name="collection_unitid_ssm">PR 3</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Nagel Farmhouse (Century House), Excavation Plan, New York, NY</field>
+    <field name="unittitle_teim">Nagel Farmhouse (Century House), Excavation Plan, New York, NY</field>
+    <field name="unitdate_teim">1906</field>
+    <field name="ref_ssi">aspace_ref35_u0n</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: PR 3-180</field>
+    <field name="location_si">Box: PR 3-180</field>
+    <field name="collection_teim">Architects &amp; Engineers collection</field>
+    <field name="collection_unitid_teim">PR 3</field>
+    <field name="series_sim">Bolton, Reginald Pelham, (PR 3-180)</field>
+    <field name="series_si">Bolton, Reginald Pelham, (PR 3-180) &gt;&gt; Nagel Farmhouse (Century House), Excavation Plan, New York, NY</field>
+    <field name="heading_ssm">Nagel Farmhouse (Century House), Excavation Plan, New York, NY</field>
+    <field name="unitdate_ssm">1906</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">26</field>
+  </doc>
+</add>

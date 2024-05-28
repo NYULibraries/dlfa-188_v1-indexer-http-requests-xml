@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr052_portrait_collectionaspace_c9a96ef9d866d5ddfa6df8739585c331</field>
+    <field name="ead_ssi">pr052_portrait_collection</field>
+    <field name="parent_ssi">aspace_4583e9367acdc37d5e653185937b8733</field>
+    <field name="parent_ssm">aspace_be250078934bc40301cc46f467a10d13</field>
+    <field name="parent_ssm">aspace_4583e9367acdc37d5e653185937b8733</field>
+    <field name="parent_unittitles_ssm">Series III. Royalty</field>
+    <field name="parent_unittitles_ssm">Subseries III.B. Royalty: Large Format</field>
+    <field name="parent_unittitles_teim">Series III. Royalty</field>
+    <field name="parent_unittitles_teim">Subseries III.B. Royalty: Large Format</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society portrait collection</field>
+    <field name="collection_unitid_ssm">PR 52</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">France</field>
+    <field name="unittitle_teim">France</field>
+    <field name="scopecontent_teim">Eugenie, Empress (1826-1920) (separate folder)
+Francis I (1494-1547)
+Louis XV (1710-1774)
+Louis XVI (1754-1793)
+Marie Antoinette, Queen (1755-1793)
+Marie Louise, Empress (1791-1847)</field>
+    <field name="ref_ssi">aspace_c9a96ef9d866d5ddfa6df8739585c331</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">drawer: Large</field>
+    <field name="location_si">drawer: Large</field>
+    <field name="collection_teim">New-York Historical Society portrait collection</field>
+    <field name="collection_unitid_teim">PR 52</field>
+    <field name="series_sim">Series III. Royalty</field>
+    <field name="series_sim">Subseries III.B. Royalty: Large Format</field>
+    <field name="series_si">Series III. Royalty &gt;&gt; Subseries III.B. Royalty: Large Format &gt;&gt; France</field>
+    <field name="heading_ssm">France</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4454</field>
+  </doc>
+</add>

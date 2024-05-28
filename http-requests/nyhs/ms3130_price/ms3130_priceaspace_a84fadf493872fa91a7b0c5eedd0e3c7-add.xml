@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3130_priceaspace_a84fadf493872fa91a7b0c5eedd0e3c7</field>
+    <field name="ead_ssi">ms3130_price</field>
+    <field name="parent_ssi">aspace_423223e248c3b405d7f1742dfdf13ef1</field>
+    <field name="parent_ssm">aspace_10f6f939d4797caa499facbca4b0472b</field>
+    <field name="parent_ssm">aspace_423223e248c3b405d7f1742dfdf13ef1</field>
+    <field name="parent_unittitles_ssm">Series V. Price personal</field>
+    <field name="parent_unittitles_ssm">Sub-series V.A. Robert Price</field>
+    <field name="parent_unittitles_teim">Series V. Price personal</field>
+    <field name="parent_unittitles_teim">Sub-series V.A. Robert Price</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Price papers</field>
+    <field name="collection_ssm">Robert Price papers</field>
+    <field name="collection_unitid_ssm">MS 3130</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bank statements, canceled checks. Citibank</field>
+    <field name="unittitle_teim">Bank statements, canceled checks. Citibank</field>
+    <field name="unitdate_inclusive_teim">2001-2003</field>
+    <field name="ref_ssi">aspace_a84fadf493872fa91a7b0c5eedd0e3c7</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 7, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Robert Price papers</field>
+    <field name="collection_unitid_teim">MS 3130</field>
+    <field name="series_sim">Series V. Price personal</field>
+    <field name="series_sim">Sub-series V.A. Robert Price</field>
+    <field name="series_si">Series V. Price personal &gt;&gt; Sub-series V.A. Robert Price &gt;&gt; Bank statements, canceled checks. Citibank</field>
+    <field name="heading_ssm">Bank statements, canceled checks. Citibank</field>
+    <field name="unitdate_ssm">Inclusive, 2001-2003</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">108</field>
+  </doc>
+</add>

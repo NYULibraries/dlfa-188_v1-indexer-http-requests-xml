@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg13aspace_d20090b560672f8861baa0895454ba18</field>
+    <field name="ead_ssi">timeinc_ms3009_rg13</field>
+    <field name="parent_ssi">aspace_ref1540</field>
+    <field name="parent_ssm">aspace_ref1540</field>
+    <field name="parent_unittitles_ssm">Series I. Bio Files</field>
+    <field name="parent_unittitles_teim">Series I. Bio Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Time Inc. Time Research Center Files</field>
+    <field name="collection_ssm">Time Inc. Time Research Center Files</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 13</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">-J-</field>
+    <field name="unittitle_teim">-J-</field>
+    <field name="ref_ssi">aspace_d20090b560672f8861baa0895454ba18</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Time Inc. Time Research Center Files</field>
+    <field name="collection_unitid_teim">MS 3009-RG 13</field>
+    <field name="series_sim">Series I. Bio Files</field>
+    <field name="series_si">Series I. Bio Files &gt;&gt; -J-</field>
+    <field name="heading_ssm">-J-</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2616</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms645_ulster_county_collectionaspace_ref200_x3r</field>
+    <field name="ead_ssi">ms645_ulster_county_collection</field>
+    <field name="parent_ssi">aspace_ref189_cee</field>
+    <field name="parent_ssm">aspace_ref189_cee</field>
+    <field name="parent_unittitles_ssm">Series IV: Ulster County Oversize (1710 - 1778)</field>
+    <field name="parent_unittitles_teim">Series IV: Ulster County Oversize (1710 - 1778)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ulster County Collection</field>
+    <field name="collection_ssm">Ulster County Collection</field>
+    <field name="collection_unitid_ssm">MS 645</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">#11, Land transaction, Patrick McKnight. 1 p.</field>
+    <field name="unittitle_teim">#11, Land transaction, Patrick McKnight. 1 p.</field>
+    <field name="unitdate_teim">1719</field>
+    <field name="ref_ssi">aspace_ref200_x3r</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8</field>
+    <field name="location_si">Box: 8</field>
+    <field name="collection_teim">Ulster County Collection</field>
+    <field name="collection_unitid_teim">MS 645</field>
+    <field name="series_sim">Series IV: Ulster County Oversize (1710 - 1778)</field>
+    <field name="series_si">Series IV: Ulster County Oversize (1710 - 1778) &gt;&gt; #11, Land transaction, Patrick McKnight. 1 p.</field>
+    <field name="heading_ssm">#11, Land transaction, Patrick McKnight. 1 p.</field>
+    <field name="unitdate_ssm">1719</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">182</field>
+  </doc>
+</add>

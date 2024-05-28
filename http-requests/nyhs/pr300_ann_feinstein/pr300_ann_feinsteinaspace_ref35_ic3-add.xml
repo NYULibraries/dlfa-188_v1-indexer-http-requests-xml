@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr300_ann_feinsteinaspace_ref35_ic3</field>
+    <field name="ead_ssi">pr300_ann_feinstein</field>
+    <field name="parent_ssi">aspace_ref34_nhy</field>
+    <field name="parent_ssm">aspace_ref1_7ld</field>
+    <field name="parent_ssm">aspace_ref34_nhy</field>
+    <field name="parent_unittitles_ssm">Series I: Fine Art Prints</field>
+    <field name="parent_unittitles_ssm">Subseries I.13: PYZOW, Susan (b. 1955)</field>
+    <field name="parent_unittitles_teim">Series I: Fine Art Prints</field>
+    <field name="parent_unittitles_teim">Subseries I.13: PYZOW, Susan (b. 1955)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ann Feinstein collection of New York City prints</field>
+    <field name="collection_ssm">Ann Feinstein collection of New York City prints</field>
+    <field name="collection_unitid_ssm">PR 300</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;7th Avenue South&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      7th Avenue South
+    </field>
+    <field name="unitdate_teim">2004</field>
+    <field name="ref_ssi">aspace_ref35_ic3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1</field>
+    <field name="location_si">Offsite-Box: 1</field>
+    <field name="collection_teim">Ann Feinstein collection of New York City prints</field>
+    <field name="collection_unitid_teim">PR 300</field>
+    <field name="series_sim">Series I: Fine Art Prints</field>
+    <field name="series_sim">Subseries I.13: PYZOW, Susan (b. 1955)</field>
+    <field name="series_si">Series I: Fine Art Prints &gt;&gt; Subseries I.13: PYZOW, Susan (b. 1955) &gt;&gt; 
+      &lt;em&gt;7th Avenue South&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      7th Avenue South
+    </field>
+    <field name="unitdate_ssm">2004</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">73</field>
+  </doc>
+</add>

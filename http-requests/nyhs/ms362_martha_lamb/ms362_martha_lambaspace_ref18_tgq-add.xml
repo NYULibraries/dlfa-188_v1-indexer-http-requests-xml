@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms362_martha_lambaspace_ref18_tgq</field>
+    <field name="ead_ssi">ms362_martha_lamb</field>
+    <field name="parent_ssi">aspace_ref17_bjy</field>
+    <field name="parent_ssm">aspace_ref17_bjy</field>
+    <field name="parent_unittitles_ssm">Series I. Magazine of American History</field>
+    <field name="parent_unittitles_teim">Series I. Magazine of American History</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Martha J. Lamb papers</field>
+    <field name="collection_ssm">Martha J. Lamb papers</field>
+    <field name="collection_unitid_ssm">MS 362</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 1. Submissions</field>
+    <field name="unittitle_teim">Subseries 1. Submissions</field>
+    <field name="unitdate_inclusive_teim">1883-1892, undated</field>
+    <field name="scopecontent_teim">Articles, "Minor Topics," documents, prints. Bulk is articles. Arranged alphabetically by contributor. Letters and envelopes that accompanied these submissions remain with them. Many have Lamb's editorial comments added (usually on envelope). Further correspondence regarding submissions (follow ups, corrections, etc.) are filed in Subseries 2. Contributors include Frederick Law Olmsted on parks and landscape gardening, historian William Leete Stone, and postmaster-general Horatio King.</field>
+    <field name="ref_ssi">aspace_ref18_tgq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Martha J. Lamb papers</field>
+    <field name="collection_unitid_teim">MS 362</field>
+    <field name="series_sim">Series I. Magazine of American History</field>
+    <field name="series_si">Series I. Magazine of American History &gt;&gt; Subseries 1. Submissions</field>
+    <field name="heading_ssm">Subseries 1. Submissions</field>
+    <field name="unitdate_ssm">Inclusive, 1883-1892, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

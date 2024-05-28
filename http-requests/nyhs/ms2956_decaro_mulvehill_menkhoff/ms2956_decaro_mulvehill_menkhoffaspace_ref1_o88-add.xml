@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2956_decaro_mulvehill_menkhoffaspace_ref1_o88</field>
+    <field name="ead_ssi">ms2956_decaro_mulvehill_menkhoff</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">de Caro, Mulvehill, and Menkhoff Family Papers</field>
+    <field name="collection_ssm">de Caro, Mulvehill, and Menkhoff Family Papers</field>
+    <field name="collection_unitid_ssm">MS 2956</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Correspondence and Family Papers</field>
+    <field name="unittitle_teim">Series I: Correspondence and Family Papers</field>
+    <field name="unitdate_normal_ssm">1890/1955</field>
+    <field name="unitdate_normal_teim">1890/1955</field>
+    <field name="unitdate_normal_sim">1890/1955</field>
+    <field name="unitdate_inclusive_teim">1890-1955</field>
+    <field name="scopecontent_teim">The bulk of this series consists of correspondence from Frank E. de Caro and his wife Beatrice Mulvehill, which are contained in the first subseries. This series also contains several assorted items related to Frank E. de Caro's parents Frank A. de Caro and Anna Menkhoff de Caro. These items are included in the second subseries.</field>
+    <field name="ref_ssi">aspace_ref1_o88</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">de Caro, Mulvehill, and Menkhoff Family Papers</field>
+    <field name="collection_unitid_teim">MS 2956</field>
+    <field name="series_si">Series I: Correspondence and Family Papers</field>
+    <field name="heading_ssm">Series I: Correspondence and Family Papers</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1955</field>
+    <field name="unitdate_end_ssm">1955</field>
+    <field name="unitdate_end_si">1955</field>
+    <field name="unitdate_ssm">Inclusive, 1890-1955</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

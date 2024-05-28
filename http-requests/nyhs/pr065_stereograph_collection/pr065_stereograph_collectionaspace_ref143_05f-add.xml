@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref143_05f</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Massachusetts--New Bedford</field>
+    <field name="unittitle_teim">Massachusetts--New Bedford</field>
+    <field name="unitdate_inclusive_teim">[1870-1889]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0129</field>
+    <field name="scopecontent_teim">New Bedford: ships moored at Center St. and other wharves, one with barrels on wharf in foreground; view on the deck of the bark Catalpa, Geo. S. Anthony, master; street views, including group of men in straw hats in front of shops, the shady sidewalk of Pleasant St., from Sycamore, looking down Centre St. toward wharf, sign for paint, oil, glass hanging from building; studio portrait of man on a bicycle.</field>
+    <field name="scopecontent_teim">8 items</field>
+    <field name="ref_ssi">aspace_ref143_05f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 16</field>
+    <field name="location_si">Box: 16</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Massachusetts--New Bedford</field>
+    <field name="heading_ssm">Massachusetts--New Bedford</field>
+    <field name="unitdate_ssm">Inclusive, [1870-1889]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">130</field>
+  </doc>
+</add>

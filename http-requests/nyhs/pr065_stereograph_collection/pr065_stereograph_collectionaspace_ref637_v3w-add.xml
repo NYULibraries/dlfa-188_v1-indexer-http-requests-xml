@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref637_v3w</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Pennsylvania--Lehigh Valley and Mauch Chunk</field>
+    <field name="unittitle_teim">Pennsylvania--Lehigh Valley and Mauch Chunk</field>
+    <field name="unitdate_inclusive_teim">[1867-1887]</field>
+    <field name="scopecontent_teim">PR-065-0623</field>
+    <field name="scopecontent_teim">Views in the Lehigh Valley, and of Mauch Chunk: general views of Mauch Chunk, including railroad and Lehigh Canal, Mount Pisgah from the depot, river and buildings including a church in the foreground; Lehigh Coal and Navigation Co.'s chutes, with boats lined up for loading under a bridge; log rafts on the Lehigh Canal, footbridge in middle ground; canal in the Mauch Chunk narrows; inclined planes to bring coal down to the canal; switch back passenger train with passengers; Mt. Pisgah Plane, looking up, and looking down, including the car, view on the summit; Mansion House, including interior view of dining room; Mt. Jefferson Plane; Panther Creek Plane, looking up, and looking down; Moore's Falls; Terrace Falls, Glen Onoko; group posing by the rapids near Mauch Chunk; in the crater of burning mines; coal mine opening; coal breaker.</field>
+    <field name="scopecontent_teim">30 items</field>
+    <field name="ref_ssi">aspace_ref637_v3w</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 55</field>
+    <field name="location_si">Box: 55</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Pennsylvania--Lehigh Valley and Mauch Chunk</field>
+    <field name="heading_ssm">Pennsylvania--Lehigh Valley and Mauch Chunk</field>
+    <field name="unitdate_ssm">Inclusive, [1867-1887]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">624</field>
+  </doc>
+</add>

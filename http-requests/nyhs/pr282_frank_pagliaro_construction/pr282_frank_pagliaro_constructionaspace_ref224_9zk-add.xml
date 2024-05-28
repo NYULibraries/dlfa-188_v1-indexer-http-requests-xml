@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr282_frank_pagliaro_constructionaspace_ref224_9zk</field>
+    <field name="ead_ssi">pr282_frank_pagliaro_construction</field>
+    <field name="parent_ssi">aspace_ref109_7ka</field>
+    <field name="parent_ssm">aspace_ref3_jgu</field>
+    <field name="parent_ssm">aspace_ref109_7ka</field>
+    <field name="parent_unittitles_ssm">Series IV: Pennsylvania Construction Sites</field>
+    <field name="parent_unittitles_ssm">Subseries I: Philadelphia</field>
+    <field name="parent_unittitles_teim">Series IV: Pennsylvania Construction Sites</field>
+    <field name="parent_unittitles_teim">Subseries I: Philadelphia</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Frank Pagliaro Construction Records Collection</field>
+    <field name="collection_ssm">Frank Pagliaro Construction Records Collection</field>
+    <field name="collection_unitid_ssm">PR 282</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bartrum Village Project: Progress Photographs - Negatives</field>
+    <field name="unittitle_teim">Bartrum Village Project: Progress Photographs - Negatives</field>
+    <field name="unitdate_normal_ssm">1941/1941</field>
+    <field name="unitdate_normal_teim">1941/1941</field>
+    <field name="unitdate_normal_sim">1941/1941</field>
+    <field name="unitdate_inclusive_teim">1941</field>
+    <field name="ref_ssi">aspace_ref224_9zk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 72</field>
+    <field name="location_ssm">Folder: 72</field>
+    <field name="location_si">Folder: 72</field>
+    <field name="collection_teim">Frank Pagliaro Construction Records Collection</field>
+    <field name="collection_unitid_teim">PR 282</field>
+    <field name="series_sim">Series IV: Pennsylvania Construction Sites</field>
+    <field name="series_sim">Subseries I: Philadelphia</field>
+    <field name="series_si">Series IV: Pennsylvania Construction Sites &gt;&gt; Subseries I: Philadelphia &gt;&gt; Bartrum Village Project: Progress Photographs - Negatives</field>
+    <field name="heading_ssm">Bartrum Village Project: Progress Photographs - Negatives</field>
+    <field name="unitdate_start_sim">1941</field>
+    <field name="unitdate_start_ssm">1941</field>
+    <field name="unitdate_start_si">1941</field>
+    <field name="unitdate_end_sim">1941</field>
+    <field name="unitdate_end_ssm">1941</field>
+    <field name="unitdate_end_si">1941</field>
+    <field name="unitdate_ssm">Inclusive, 1941</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">120</field>
+  </doc>
+</add>

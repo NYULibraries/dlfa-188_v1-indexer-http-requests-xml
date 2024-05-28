@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms692_richard_grant_whiteaspace_ref2_dsn</field>
+    <field name="ead_ssi">ms692_richard_grant_white</field>
+    <field name="parent_ssi">aspace_ref1_tlf</field>
+    <field name="parent_ssm">aspace_ref1_tlf</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Richard Grant White papers</field>
+    <field name="collection_ssm">Richard Grant White papers</field>
+    <field name="collection_unitid_ssm">MS 692</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.A: Correspondence Received by Richard Grant White</field>
+    <field name="unittitle_teim">Subseries I.A: Correspondence Received by Richard Grant White</field>
+    <field name="unitdate_normal_ssm">1847/1891</field>
+    <field name="unitdate_normal_teim">1847/1891</field>
+    <field name="unitdate_normal_sim">1847/1891</field>
+    <field name="unitdate_inclusive_teim">1847-1891, undated</field>
+    <field name="scopecontent_teim">The bulk of the correspondence in this section was received in the 1870s and 1880s and reads as something of a Who's Who within the literary and academic communities. Included within this subseries are letters from: Thomas Bailey Aldrich (American poet, novelist, travel writer, and editor); Robert Browning (English poet and playwright); William Cullen Bryant (American poet, journalist and editor of the New York Evening Post); William George Clark (English Classical and Shakespearian scholar); Clarence Cook (American author and art critic); Howard Crosby (American scholar, preacher, and professor); George William Curtis (American writer and public speaker); Charles Dalrymple (Scottish politician); Charles Dickens (English author); Morgan Dix (American religious author); Alexander Dyce (Scottish editor and literary historian); Edward Everett (American politician and educator; Horace Howard Furness (American Shakespearean scholar); Richard Watson Gilder (American poet and editor); Edwin Lawrence Godkin (American journalist and newspaper editor); Percy Greg (English writer);  James Orchard Halliwell (English Shakespearian scholar); Julian Hawthorne (American writer and journalist); Thomas Wentworth Higginson (American minister, author, abolitionist, and soldier); Oliver Wendell Holmes (American author); William Dean Howells (American author and literary critic); Daniel Huntington (American artist); Alfred H. Huth (English author and bibliophile); Richard Holt Hutton (English writer and theologian); Clement Mansfield (Shakespearian scholar); Ellen Kean (English actress); James Russell Lowell (American poet, critic, editor, and diplomat); John Morley (English statesman, writer, and newspaper editor); Charles Eliot Norton (American author and social critic); Frederick Law Olmsted (American journalist, social critic, public administrator, and landscape designer); Frederick William Seward (Assistant Secretary of State during the Civil War); William H. Seward (President Abraham Lincoln's Secretary of State); Howard Staunton (English chess master); Edmund Clarence Stedman (American poet, critic, and essayist); Leslie Stephen (English author, critic, and mountaineer); Calvert Vaux (architect and landscape designer); and W. Aldis Wright (English writer and editor). The letters are organized first by the sender's last name and then chronologically.</field>
+    <field name="ref_ssi">aspace_ref2_dsn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Richard Grant White papers</field>
+    <field name="collection_unitid_teim">MS 692</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries I.A: Correspondence Received by Richard Grant White</field>
+    <field name="heading_ssm">Subseries I.A: Correspondence Received by Richard Grant White</field>
+    <field name="unitdate_start_sim">1847</field>
+    <field name="unitdate_start_ssm">1847</field>
+    <field name="unitdate_start_si">1847</field>
+    <field name="unitdate_end_sim">1891</field>
+    <field name="unitdate_end_ssm">1891</field>
+    <field name="unitdate_end_si">1891</field>
+    <field name="unitdate_ssm">Inclusive, 1847-1891, undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

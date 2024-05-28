@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2962_ludington_familyaspace_ref51_142</field>
+    <field name="ead_ssi">ms2962_ludington_family</field>
+    <field name="parent_ssi">aspace_ref6_m76</field>
+    <field name="parent_ssm">aspace_ref6_m76</field>
+    <field name="parent_unittitles_ssm">Series II: Correspondence and journals</field>
+    <field name="parent_unittitles_teim">Series II: Correspondence and journals</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ludington Family Papers</field>
+    <field name="collection_ssm">Ludington Family Papers</field>
+    <field name="collection_unitid_ssm">MS 2962</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Journal of Charles Luddington</field>
+    <field name="unittitle_teim">Journal of Charles Luddington</field>
+    <field name="unitdate_teim">1842-1847</field>
+    <field name="ref_ssi">aspace_ref51_142</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: BV Ludington 4, Folder: unknown container</field>
+    <field name="location_ssm">Folder: unknown container</field>
+    <field name="location_si">Folder: unknown container</field>
+    <field name="collection_teim">Ludington Family Papers</field>
+    <field name="collection_unitid_teim">MS 2962</field>
+    <field name="series_sim">Series II: Correspondence and journals</field>
+    <field name="series_si">Series II: Correspondence and journals &gt;&gt; Journal of Charles Luddington</field>
+    <field name="heading_ssm">Journal of Charles Luddington</field>
+    <field name="unitdate_ssm">1842-1847</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">30</field>
+  </doc>
+</add>

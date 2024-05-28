@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr463_wings_trading_cardsaspace_49cf3ab5b1f2d71fad1ba960fec1c00d</field>
+    <field name="ead_ssi">pr463_wings_trading_cards</field>
+    <field name="parent_ssi">aspace_1a92116c98ecdbdcea178618c4b6d28f</field>
+    <field name="parent_ssm">aspace_1a92116c98ecdbdcea178618c4b6d28f</field>
+    <field name="parent_unittitles_ssm">Wings "Friend or Foe" cards</field>
+    <field name="parent_unittitles_teim">Wings "Friend or Foe" cards</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_ssm">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_unitid_ssm">PR 463</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Wings "Friend or Foe" cards 021-040</field>
+    <field name="unittitle_teim">Wings "Friend or Foe" cards 021-040</field>
+    <field name="unitdate_inclusive_teim">1952</field>
+    <field name="scopecontent_teim">[Lacking 033.]
+021. L-17 Navion (U.S. Air Force Liaison Civil Private Plane)
+022. F3D Skyknight (U.S. Navy Jet All-Weather Fighter)
+023. A M Mauler (U.S. Navy Attack Plane)
+024. B-36 (U.S. Air Force Strategic Bomber)
+025. F8F Bearcat (U.S. Navy Fighter)
+026. F-80 Shooting Star (U.S. Air Force Fighter-Bomber)
+027. Sea Attacker (British Navy Jet Fighter)
+028. F6F Hellcat (U.S. Navy Fighter)
+029. P2V Neptune (U.S. Navy Patrol Bomber)
+030. AVRO Jetliner (Canadian Civil Jet Transport) [missing lower right corner]
+031. C-121 Constellation (U.S. Air Force Transport)
+032. C-74 Globemaster 1 (U.S. Air Force Strategic Transport)
+033. F-84F (U.S. Air Force Jet Fighter-Bomber) [LACKING]
+034. F4U Corsair (U.S. Navy and Marine Corps Fighter)
+035. Firefly (British Navy Fighter)
+036. C-125 Raider (U.S. Air Force Assault Transport)
+037. C-46 Commando (U.S. Navy R5C)
+038. PE-2 (Russian Attack Bomber)
+039. AF Guardian (U.S. Navy Attack Plane)
+040. C-82 Packet (U.S. Air Force Transport)</field>
+    <field name="ref_ssi">aspace_49cf3ab5b1f2d71fad1ba960fec1c00d</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Wings "Friend or Foe" military aircraft trading cards</field>
+    <field name="collection_unitid_teim">PR 463</field>
+    <field name="series_sim">Wings "Friend or Foe" cards</field>
+    <field name="series_si">Wings "Friend or Foe" cards &gt;&gt; Wings "Friend or Foe" cards 021-040</field>
+    <field name="heading_ssm">Wings "Friend or Foe" cards 021-040</field>
+    <field name="unitdate_ssm">Inclusive, 1952</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

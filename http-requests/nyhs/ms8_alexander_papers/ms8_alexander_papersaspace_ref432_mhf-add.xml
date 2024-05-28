@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms8_alexander_papersaspace_ref432_mhf</field>
+    <field name="ead_ssi">ms8_alexander_papers</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Alexander papers</field>
+    <field name="collection_ssm">Alexander papers</field>
+    <field name="collection_unitid_ssm">MS 8</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 10: Colony/State of New York</field>
+    <field name="unittitle_teim">Series 10: Colony/State of New York</field>
+    <field name="unitdate_inclusive_teim">1683-1785</field>
+    <field name="scopecontent_teim">Series 10 consists of papers relating to the colony/state of New York, including drafts of legislation, petitions, material regarding the establishment of the New York - Connecticut boundary (the "Oblong" or "Equivalent Lands") and material regarding the establishment of the New York - New Jersey boundary.</field>
+    <field name="ref_ssi">aspace_ref432_mhf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Alexander papers</field>
+    <field name="collection_unitid_teim">MS 8</field>
+    <field name="series_si">Series 10: Colony/State of New York</field>
+    <field name="heading_ssm">Series 10: Colony/State of New York</field>
+    <field name="unitdate_ssm">Inclusive, 1683-1785</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">412</field>
+  </doc>
+</add>

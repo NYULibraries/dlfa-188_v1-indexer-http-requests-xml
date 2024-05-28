@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">timeinc_ms3009_rg06aspace_ref3_bya</field>
+    <field name="ead_ssi">timeinc_ms3009_rg06</field>
+    <field name="parent_ssi">aspace_ref2_kh7</field>
+    <field name="parent_ssm">aspace_ref2_kh7</field>
+    <field name="parent_unittitles_ssm">Series I.A. Editor-in-Chief Hedley Donovan Files</field>
+    <field name="parent_unittitles_teim">Series I.A. Editor-in-Chief Hedley Donovan Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Time Inc. Corporate Editorial Records</field>
+    <field name="collection_ssm">Time Inc. Corporate Editorial Records</field>
+    <field name="collection_unitid_ssm">MS 3009-RG 6</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.A.1. Appointment Books</field>
+    <field name="unittitle_teim">Subseries I.A.1. Appointment Books</field>
+    <field name="unitdate_inclusive_teim">1959-1978</field>
+    <field name="scopecontent_teim">The Appointment Books document Donovan Hedley's schedule, professional and personal, and many of the years contain multiple books. As some are marked "T. Lanz," these are probably the books of his schedule kept by his executive secretary Gertrude "Trudi" Lanz. Some are marked with "Mrs. Donovan" indicating they are his wife Dorothy Donovan's schedule. Books similar in appearance to the marked books are tentatively attributed to her. A few of the books from 1973 were removed from a tax audit accordion folder that also contained expense reports.</field>
+    <field name="ref_ssi">aspace_ref3_bya</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Time Inc. Corporate Editorial Records</field>
+    <field name="collection_unitid_teim">MS 3009-RG 6</field>
+    <field name="series_sim">Series I.A. Editor-in-Chief Hedley Donovan Files</field>
+    <field name="series_si">Series I.A. Editor-in-Chief Hedley Donovan Files &gt;&gt; Subseries I.A.1. Appointment Books</field>
+    <field name="heading_ssm">Subseries I.A.1. Appointment Books</field>
+    <field name="unitdate_ssm">Inclusive, 1959-1978</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

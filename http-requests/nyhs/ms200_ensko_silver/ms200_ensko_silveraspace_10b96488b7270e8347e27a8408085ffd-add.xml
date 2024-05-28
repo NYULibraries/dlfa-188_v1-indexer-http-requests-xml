@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_10b96488b7270e8347e27a8408085ffd</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_bbc508e612d1f4bba6232147b4bc0512</field>
+    <field name="parent_ssm">aspace_bbc508e612d1f4bba6232147b4bc0512</field>
+    <field name="parent_unittitles_ssm">Series V. Sales Tickets and Invoices</field>
+    <field name="parent_unittitles_teim">Series V. Sales Tickets and Invoices</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V.A. Sales Tickets by Client</field>
+    <field name="unittitle_teim">Subseries V.A. Sales Tickets by Client</field>
+    <field name="unitdate_inclusive_teim">1946-1970</field>
+    <field name="scopecontent_teim">The subseries includes copies of sales tickets bound in alphabetical order by client by year. A major client, New York Racing Association (NYRA), seems to appear for the first time in 1958. For some years, NYRA tickets were bound separately; in other years they are simply filed with the other letter N clients.</field>
+    <field name="scopecontent_teim">There are a total of 314 booklets of tickets and is a complete run from 1946 to 1969. 1970 is missing one of its three booklets. The breakdown by year is: 1946 (6 booklets), 1947  (11), 1948 (12), 1949 (12), 1950 (14), 1951 (14), 1952 (10), 1953 (11), 1954 (15), 1955 (17), 1956 (16), 1957 (16), 1958 (14), 1959 (12), 1960 (20), 1961 (17), 1962 (24), 1963 (19), 1964 (14), 1965 (11), 1966 (9), 1967 (7), 1968 (7), 1969 (4), and 1970 (3).</field>
+    <field name="ref_ssi">aspace_10b96488b7270e8347e27a8408085ffd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series V. Sales Tickets and Invoices</field>
+    <field name="series_si">Series V. Sales Tickets and Invoices &gt;&gt; Subseries V.A. Sales Tickets by Client</field>
+    <field name="heading_ssm">Subseries V.A. Sales Tickets by Client</field>
+    <field name="unitdate_ssm">Inclusive, 1946-1970</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">133</field>
+  </doc>
+</add>

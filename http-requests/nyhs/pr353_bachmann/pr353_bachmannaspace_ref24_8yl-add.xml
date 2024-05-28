@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr353_bachmannaspace_ref24_8yl</field>
+    <field name="ead_ssi">pr353_bachmann</field>
+    <field name="parent_ssi">aspace_ref38_nxa</field>
+    <field name="parent_ssm">aspace_ref38_nxa</field>
+    <field name="parent_unittitles_ssm">Series I: Views of New York</field>
+    <field name="parent_unittitles_teim">Series I: Views of New York</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Collection of John Bachmann Prints</field>
+    <field name="collection_ssm">Collection of John Bachmann Prints</field>
+    <field name="collection_unitid_ssm">PR 353</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Birds Eye View of the Central Park, New York</field>
+    <field name="unittitle_teim">Birds Eye View of the Central Park, New York</field>
+    <field name="unitdate_teim">1865</field>
+    <field name="scopecontent_teim">Copy 2.  J. Bachmann, artist. J. Bien, lithographer. Published by Bachmann.</field>
+    <field name="ref_ssi">aspace_ref24_8yl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF2</field>
+    <field name="location_si">Folder: FF2</field>
+    <field name="collection_teim">Collection of John Bachmann Prints</field>
+    <field name="collection_unitid_teim">PR 353</field>
+    <field name="series_sim">Series I: Views of New York</field>
+    <field name="series_si">Series I: Views of New York &gt;&gt; Birds Eye View of the Central Park, New York</field>
+    <field name="heading_ssm">Birds Eye View of the Central Park, New York</field>
+    <field name="unitdate_ssm">1865</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">11</field>
+  </doc>
+</add>

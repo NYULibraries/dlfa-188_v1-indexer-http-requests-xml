@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr381_schepisi_garfinkelaspace_08f4ff814b3cbe20403e0f1a7e052f93</field>
+    <field name="ead_ssi">pr381_schepisi_garfinkel</field>
+    <field name="parent_ssi">aspace_db6fe639f21e08b276a776baa37c96b1</field>
+    <field name="parent_ssm">aspace_db6fe639f21e08b276a776baa37c96b1</field>
+    <field name="parent_unittitles_ssm">Series I: Black Star Agency photographs</field>
+    <field name="parent_unittitles_teim">Series I: Black Star Agency photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_ssm">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 381</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Portraits A-B</field>
+    <field name="unittitle_teim">Portraits A-B</field>
+    <field name="unitdate_inclusive_teim">1975-1983</field>
+    <field name="scopecontent_teim">Woody Allen</field>
+    <field name="scopecontent_teim">Ann-Margret</field>
+    <field name="scopecontent_teim">Julie Anderson</field>
+    <field name="scopecontent_teim">Yuri Andropov</field>
+    <field name="scopecontent_teim">Yasser Arafat</field>
+    <field name="scopecontent_teim">Desi Arnaz Jr.</field>
+    <field name="scopecontent_teim">Brigitte Bardot</field>
+    <field name="scopecontent_teim">Mikhail Baryshnikov</field>
+    <field name="scopecontent_teim">Patricia Bellwood</field>
+    <field name="scopecontent_teim">Candace Bergen</field>
+    <field name="scopecontent_teim">Marlon Brando</field>
+    <field name="scopecontent_teim">Jerry Brown</field>
+    <field name="ref_ssi">aspace_08f4ff814b3cbe20403e0f1a7e052f93</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Holly Schepisi and Paul Garfinkel collection of photographs</field>
+    <field name="collection_unitid_teim">PR 381</field>
+    <field name="series_sim">Series I: Black Star Agency photographs</field>
+    <field name="series_si">Series I: Black Star Agency photographs &gt;&gt; Portraits A-B</field>
+    <field name="heading_ssm">Portraits A-B</field>
+    <field name="unitdate_ssm">Inclusive, 1975-1983</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_ref2710_ixn</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_ref2649_w3z</field>
+    <field name="parent_ssm">aspace_ref1_qcn</field>
+    <field name="parent_ssm">aspace_ref2649_w3z</field>
+    <field name="parent_unittitles_ssm">Series VII: Foreign Views</field>
+    <field name="parent_unittitles_ssm">Subseries VIIA: FOREIGN VIEWS - BOXED MATERIAL</field>
+    <field name="parent_unittitles_teim">Series VII: Foreign Views</field>
+    <field name="parent_unittitles_teim">Subseries VIIA: FOREIGN VIEWS - BOXED MATERIAL</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Panama</field>
+    <field name="unittitle_teim">Panama</field>
+    <field name="ref_ssi">aspace_ref2710_ixn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 13</field>
+    <field name="location_ssm">Folder: 13</field>
+    <field name="location_si">Folder: 13</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series VII: Foreign Views</field>
+    <field name="series_sim">Subseries VIIA: FOREIGN VIEWS - BOXED MATERIAL</field>
+    <field name="series_si">Series VII: Foreign Views &gt;&gt; Subseries VIIA: FOREIGN VIEWS - BOXED MATERIAL &gt;&gt; Panama</field>
+    <field name="heading_ssm">Panama</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2985</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3033_horticulturalaspace_ref194_ocn</field>
+    <field name="ead_ssi">ms3033_horticultural</field>
+    <field name="parent_ssi">aspace_ref162_bqs</field>
+    <field name="parent_ssm">aspace_ref160_htp</field>
+    <field name="parent_ssm">aspace_ref162_bqs</field>
+    <field name="parent_unittitles_ssm">Series V. Photographs</field>
+    <field name="parent_unittitles_ssm">Subseries V.A. Events</field>
+    <field name="parent_unittitles_teim">Series V. Photographs</field>
+    <field name="parent_unittitles_teim">Subseries V.A. Events</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Horticultural Society of New York records</field>
+    <field name="collection_ssm">Horticultural Society of New York records</field>
+    <field name="collection_unitid_ssm">MS 3033</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Press events</field>
+    <field name="unittitle_teim">Press events</field>
+    <field name="unitdate_teim">1994</field>
+    <field name="ref_ssi">aspace_ref194_ocn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 2, Folder: 16</field>
+    <field name="location_ssm">Folder: 16</field>
+    <field name="location_si">Folder: 16</field>
+    <field name="collection_teim">Horticultural Society of New York records</field>
+    <field name="collection_unitid_teim">MS 3033</field>
+    <field name="series_sim">Series V. Photographs</field>
+    <field name="series_sim">Subseries V.A. Events</field>
+    <field name="series_si">Series V. Photographs &gt;&gt; Subseries V.A. Events &gt;&gt; Press events</field>
+    <field name="heading_ssm">Press events</field>
+    <field name="unitdate_ssm">1994</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">566</field>
+  </doc>
+</add>

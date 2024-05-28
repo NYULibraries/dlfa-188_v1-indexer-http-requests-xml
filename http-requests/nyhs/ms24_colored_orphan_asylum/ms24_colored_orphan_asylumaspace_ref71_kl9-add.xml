@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms24_colored_orphan_asylumaspace_ref71_kl9</field>
+    <field name="ead_ssi">ms24_colored_orphan_asylum</field>
+    <field name="parent_ssi">aspace_ref16_yuv</field>
+    <field name="parent_ssm">aspace_ref16_yuv</field>
+    <field name="parent_unittitles_ssm">Series VIII. Building Committee</field>
+    <field name="parent_unittitles_teim">Series VIII. Building Committee</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Association for the Benefit of Colored Orphans records</field>
+    <field name="collection_ssm">Association for the Benefit of Colored Orphans records</field>
+    <field name="collection_unitid_ssm">MS 24</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Riverdale Property: Reports, Minutes, Correspondence </field>
+    <field name="unittitle_teim">Riverdale Property: Reports, Minutes, Correspondence </field>
+    <field name="unitdate_normal_ssm">1905/1907</field>
+    <field name="unitdate_normal_teim">1905/1907</field>
+    <field name="unitdate_normal_sim">1905/1907</field>
+    <field name="unitdate_inclusive_teim">1905 - 1907</field>
+    <field name="ref_ssi">aspace_ref71_kl9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 41</field>
+    <field name="location_si">Volume: 41</field>
+    <field name="collection_teim">Association for the Benefit of Colored Orphans records</field>
+    <field name="collection_unitid_teim">MS 24</field>
+    <field name="series_sim">Series VIII. Building Committee</field>
+    <field name="series_si">Series VIII. Building Committee &gt;&gt; Riverdale Property: Reports, Minutes, Correspondence </field>
+    <field name="heading_ssm">Riverdale Property: Reports, Minutes, Correspondence </field>
+    <field name="unitdate_start_sim">1905</field>
+    <field name="unitdate_start_ssm">1905</field>
+    <field name="unitdate_start_si">1905</field>
+    <field name="unitdate_end_sim">1907</field>
+    <field name="unitdate_end_ssm">1907</field>
+    <field name="unitdate_end_si">1907</field>
+    <field name="unitdate_ssm">Inclusive, 1905 - 1907</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">51</field>
+  </doc>
+</add>

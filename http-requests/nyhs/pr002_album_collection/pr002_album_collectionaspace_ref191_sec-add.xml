@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref191_sec</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Album of photographs of a tour of Civil War Battlefields and other historic sites]</field>
+    <field name="unittitle_teim">[Album of photographs of a tour of Civil War Battlefields and other historic sites]</field>
+    <field name="unitdate_normal_ssm">1923/1928</field>
+    <field name="unitdate_normal_teim">1923/1928</field>
+    <field name="unitdate_normal_sim">1923/1928</field>
+    <field name="unitdate_inclusive_teim">1923, 1928</field>
+    <field name="scopecontent_teim">"School friends" on trip: Wm. Chatfield, Wm. Grady, Louis W. Marks, Eugene Nifenecker, Claude Leland, and Hazen Chatfield, many of whom are educators; group at Ft. McHenry, Baltimore, 1923; group starting out; with Col. Proctor at Fredericksburg; Lawrence Washington Farm; Chancellorsville; Germania Ford; Spotteswood Farm; Spottsylvania; Jefferson's home, Monticello; Cedar Mt. Battlefield; Aldie; Point of Rocks bridge; B&amp;O canal and R.R.; site of Washington's Crossing of the Delaware; Valley Forge; Brandywine; views include monuments.</field>
+    <field name="ref_ssi">aspace_ref191_sec</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 5, Volume: 59</field>
+    <field name="location_ssm">Volume: 59</field>
+    <field name="location_si">Volume: 59</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Album of photographs of a tour of Civil War Battlefields and other historic sites]</field>
+    <field name="heading_ssm">[Album of photographs of a tour of Civil War Battlefields and other historic sites]</field>
+    <field name="unitdate_start_sim">1923</field>
+    <field name="unitdate_start_ssm">1923</field>
+    <field name="unitdate_start_si">1923</field>
+    <field name="unitdate_end_sim">1928</field>
+    <field name="unitdate_end_ssm">1928</field>
+    <field name="unitdate_end_si">1928</field>
+    <field name="unitdate_ssm">Inclusive, 1923, 1928</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">62</field>
+  </doc>
+</add>

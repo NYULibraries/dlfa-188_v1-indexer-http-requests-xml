@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr277_ny_chamber_commerceaspace_ref45_hrs</field>
+    <field name="ead_ssi">pr277_ny_chamber_commerce</field>
+    <field name="parent_ssi">aspace_ref41_l4f</field>
+    <field name="parent_ssm">aspace_ref40_q8j</field>
+    <field name="parent_ssm">aspace_ref41_l4f</field>
+    <field name="parent_unittitles_ssm">Series III: Images</field>
+    <field name="parent_unittitles_ssm">PHOTOGRAPHS</field>
+    <field name="parent_unittitles_teim">Series III: Images</field>
+    <field name="parent_unittitles_teim">PHOTOGRAPHS</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Chamber of Commerce collection</field>
+    <field name="collection_ssm">New York Chamber of Commerce collection</field>
+    <field name="collection_unitid_ssm">PR 277</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Events - Misc. Ceremonies at the Sub-Treasury Building</field>
+    <field name="unittitle_teim">Events - Misc. Ceremonies at the Sub-Treasury Building</field>
+    <field name="unitdate_teim">1883, 1939</field>
+    <field name="ref_ssi">aspace_ref45_hrs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF-8</field>
+    <field name="location_si">Folder: FF-8</field>
+    <field name="collection_teim">New York Chamber of Commerce collection</field>
+    <field name="collection_unitid_teim">PR 277</field>
+    <field name="series_sim">Series III: Images</field>
+    <field name="series_sim">PHOTOGRAPHS</field>
+    <field name="series_si">Series III: Images &gt;&gt; PHOTOGRAPHS &gt;&gt; Events - Misc. Ceremonies at the Sub-Treasury Building</field>
+    <field name="heading_ssm">Events - Misc. Ceremonies at the Sub-Treasury Building</field>
+    <field name="unitdate_ssm">1883, 1939</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">30</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr264_ephemera_collectionaspace_ref8_m1n</field>
+    <field name="ead_ssi">pr264_ephemera_collection</field>
+    <field name="parent_ssi">aspace_ref1_qne</field>
+    <field name="parent_ssm">aspace_ref1_qne</field>
+    <field name="parent_unittitles_ssm">Series I: Ephemera</field>
+    <field name="parent_unittitles_teim">Series I: Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society ephemera collection</field>
+    <field name="collection_ssm">New-York Historical Society ephemera collection</field>
+    <field name="collection_unitid_ssm">PR 264</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Art - Exhibitions, auction galleries, etc.</field>
+    <field name="unittitle_teim">Art - Exhibitions, auction galleries, etc.</field>
+    <field name="unitdate_inclusive_teim">1800s?-2008</field>
+    <field name="scopecontent_teim">The folder holds: one handbill for Romain-Barillier in Paris, card in French, undated, likely 1800s; remainder of items are gallery announcement cards from the 20th century: Kennedy &amp; Company exhibition of "Little Old New York (circa 1940s); New York County exhibition announcement for "A Celebration of Three Hundred Years of Liberty" (1983); Linda Cummings (1997); Swann Photo Review Benefit Auction (1999), Photographic Literature &amp; Photographs auction (2001), booksigning for Jay Maisel (2001); The Project and Salon 94 receptions (2007); Sepia reception for Vivan Sundaram, poster of "Trash" (2008); safe-T-Gallery reception for Anders Goldfarb (2008); and Higher Pictures opening for Scott Peterman ans Holly Hinman (2008).</field>
+    <field name="ref_ssi">aspace_ref8_m1n</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">New-York Historical Society ephemera collection</field>
+    <field name="collection_unitid_teim">PR 264</field>
+    <field name="series_sim">Series I: Ephemera</field>
+    <field name="series_si">Series I: Ephemera &gt;&gt; Art - Exhibitions, auction galleries, etc.</field>
+    <field name="heading_ssm">Art - Exhibitions, auction galleries, etc.</field>
+    <field name="unitdate_ssm">Inclusive, 1800s?-2008</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

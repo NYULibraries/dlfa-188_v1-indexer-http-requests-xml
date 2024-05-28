@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref727_sgk</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Album of engravings of 19th century and earlier personalities]</field>
+    <field name="unittitle_teim">[Album of engravings of 19th century and earlier personalities]</field>
+    <field name="unitdate_normal_ssm">1860/1860</field>
+    <field name="unitdate_normal_teim">1860/1860</field>
+    <field name="unitdate_normal_sim">1860/1860</field>
+    <field name="unitdate_inclusive_teim">[1860]</field>
+    <field name="scopecontent_teim">Portrait engravings, primarily by John Sartain, many for the Eclectic Magazine; includes portraits of European monarchs and aristrocrats, including both contemporary and historic figures; British and American authors including Shakespeare and his contemporaries, Walter Scott and his literary friends, the Brownings, American legal and political figures, Louis Agassiz and other scientists and educators, a self-portrait of Sartain, and an engraving of the donor after a daguerreotype by Root; A Midsummer's Night Dream, after Landseer, and historic scenes, such as the Death of General Wofle at Quebec, 1759.</field>
+    <field name="ref_ssi">aspace_ref727_sgk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 31, Volume: 225</field>
+    <field name="location_ssm">Volume: 225</field>
+    <field name="location_si">Volume: 225</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Album of engravings of 19th century and earlier personalities]</field>
+    <field name="heading_ssm">[Album of engravings of 19th century and earlier personalities]</field>
+    <field name="unitdate_start_sim">1860</field>
+    <field name="unitdate_start_ssm">1860</field>
+    <field name="unitdate_start_si">1860</field>
+    <field name="unitdate_end_sim">1860</field>
+    <field name="unitdate_end_ssm">1860</field>
+    <field name="unitdate_end_si">1860</field>
+    <field name="unitdate_ssm">Inclusive, [1860]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">247</field>
+  </doc>
+</add>

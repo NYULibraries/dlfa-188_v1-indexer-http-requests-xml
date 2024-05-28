@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms201_erasmus_hallaspace_0685dc1b269660c5054de1dd3a9c2d8c</field>
+    <field name="ead_ssi">ms201_erasmus_hall</field>
+    <field name="parent_ssi">aspace_ea1e01b69d3c25a1ba03eea6e57ad2f5</field>
+    <field name="parent_ssm">aspace_278d792d0517001826ed5bd78007a174</field>
+    <field name="parent_ssm">aspace_ea1e01b69d3c25a1ba03eea6e57ad2f5</field>
+    <field name="parent_unittitles_ssm">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_ssm">Hall, Mary E. (pioneer in school libraries)</field>
+    <field name="parent_unittitles_teim">"Archives of Erasmus Hall High School"</field>
+    <field name="parent_unittitles_teim">Hall, Mary E. (pioneer in school libraries)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall records</field>
+    <field name="collection_ssm">Erasmus Hall records</field>
+    <field name="collection_unitid_ssm">MS 201</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Correspondence, etc.]</field>
+    <field name="unittitle_teim">[Correspondence, etc.]</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">Some correspondence from Miss Hall to Mary A. Kingsbury, with other information relating to Miss Hall.</field>
+    <field name="ref_ssi">aspace_0685dc1b269660c5054de1dd3a9c2d8c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: RC-5a, Folder: Kingsbury, Mary A.</field>
+    <field name="location_ssm">Folder: Kingsbury, Mary A.</field>
+    <field name="location_si">Folder: Kingsbury, Mary A.</field>
+    <field name="collection_teim">Erasmus Hall records</field>
+    <field name="collection_unitid_teim">MS 201</field>
+    <field name="series_sim">"Archives of Erasmus Hall High School"</field>
+    <field name="series_sim">Hall, Mary E. (pioneer in school libraries)</field>
+    <field name="series_si">"Archives of Erasmus Hall High School" &gt;&gt; Hall, Mary E. (pioneer in school libraries) &gt;&gt; [Correspondence, etc.]</field>
+    <field name="heading_ssm">[Correspondence, etc.]</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">665</field>
+  </doc>
+</add>

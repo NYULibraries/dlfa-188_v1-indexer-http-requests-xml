@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">nyhs_archives_rg02aspace_ref1408_9sj</field>
+    <field name="ead_ssi">nyhs_archives_rg02</field>
+    <field name="parent_ssi">aspace_ref1403_3n8</field>
+    <field name="parent_ssm">aspace_ref1403_3n8</field>
+    <field name="parent_unittitles_ssm">Series II. Letterpress Copybooks</field>
+    <field name="parent_unittitles_teim">Series II. Letterpress Copybooks</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society general correspondence</field>
+    <field name="collection_ssm">New-York Historical Society general correspondence</field>
+    <field name="collection_unitid_ssm">NYHS-RG 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letter Book.</field>
+    <field name="unittitle_teim">Letter Book.</field>
+    <field name="unitdate_teim">1888-1907</field>
+    <field name="scopecontent_teim">Frequent correspondents include William R. Huntington, William B. Isham, Frank B. Kelly, and Lewis S. Patrick.</field>
+    <field name="scopecontent_teim">
+      
+        Date ranges by page number
+1888 April-December:  1-40
+1889: 41-86
+1890: 87-93
+1891: 94-107
+1892: 108-122
+1893: 123-128
+1894: 129
+1895: 130-133
+1896: 134-137
+1897: 138-141
+1898: 142-146
+1899: 148-178
+1900: 178-197
+1901: 198-226
+1902: 227-313
+1903: 313-479
+1904: 480-558
+1905: 559-626
+1906: 627-677
+1907 January-April: 677-692
+
+      
+    </field>
+    <field name="scopecontent_teim">The associated register for letters A-G from the letterpress book is detached and stored in a folder in the box with the volume.</field>
+    <field name="ref_ssi">aspace_ref1408_9sj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 69, Volume: 1</field>
+    <field name="location_ssm">Volume: 1</field>
+    <field name="location_si">Volume: 1</field>
+    <field name="collection_teim">New-York Historical Society general correspondence</field>
+    <field name="collection_unitid_teim">NYHS-RG 2</field>
+    <field name="series_sim">Series II. Letterpress Copybooks</field>
+    <field name="series_si">Series II. Letterpress Copybooks &gt;&gt; Letter Book.</field>
+    <field name="heading_ssm">Letter Book.</field>
+    <field name="unitdate_ssm">1888-1907</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">148</field>
+  </doc>
+</add>

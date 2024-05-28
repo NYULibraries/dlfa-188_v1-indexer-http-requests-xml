@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms23_artists_fund_societyaspace_ref73_i2f</field>
+    <field name="ead_ssi">ms23_artists_fund_society</field>
+    <field name="parent_ssi">aspace_ref17_u0z</field>
+    <field name="parent_ssm">aspace_ref17_u0z</field>
+    <field name="parent_unittitles_ssm">Series III: Minutes</field>
+    <field name="parent_unittitles_teim">Series III: Minutes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Artists' Fund Society records</field>
+    <field name="collection_ssm">Artists' Fund Society records</field>
+    <field name="collection_unitid_ssm">MS 23</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Minutes</field>
+    <field name="unittitle_teim">Minutes</field>
+    <field name="unitdate_teim">1897 April 20-1922 March 12</field>
+    <field name="ref_ssi">aspace_ref73_i2f</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Volume: 5</field>
+    <field name="location_si">Volume: 5</field>
+    <field name="collection_teim">Artists' Fund Society records</field>
+    <field name="collection_unitid_teim">MS 23</field>
+    <field name="series_sim">Series III: Minutes</field>
+    <field name="series_si">Series III: Minutes &gt;&gt; Minutes</field>
+    <field name="heading_ssm">Minutes</field>
+    <field name="unitdate_ssm">1897 April 20-1922 March 12</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms93_georgep_butleraspace_59e21914ed8e74c0d4d5b92f70b42b7b</field>
+    <field name="ead_ssi">ms93_georgep_butler</field>
+    <field name="parent_ssi">aspace_f4aa79fe3dce355d8c337ae8eae7d503</field>
+    <field name="parent_ssm">aspace_f4aa79fe3dce355d8c337ae8eae7d503</field>
+    <field name="parent_unittitles_ssm">Series II. Financial Records</field>
+    <field name="parent_unittitles_teim">Series II. Financial Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">George P. Butler &amp; Brother records</field>
+    <field name="collection_ssm">George P. Butler &amp; Brother records</field>
+    <field name="collection_unitid_ssm">MS 93</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Trial balances. July 31, 1907-April 30, 1910</field>
+    <field name="unittitle_teim">Trial balances. July 31, 1907-April 30, 1910</field>
+    <field name="unitdate_inclusive_teim">1907-1910</field>
+    <field name="scopecontent_teim">The volume is embossed as "trial balance #6," but the pages of contents are headed as either "trial balance #8" or "special ledger #4." The balances are as of the end of each month, not daily.</field>
+    <field name="ref_ssi">aspace_59e21914ed8e74c0d4d5b92f70b42b7b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: GB-1, Volume: SN-1</field>
+    <field name="location_ssm">Volume: SN-1</field>
+    <field name="location_si">Volume: SN-1</field>
+    <field name="collection_teim">George P. Butler &amp; Brother records</field>
+    <field name="collection_unitid_teim">MS 93</field>
+    <field name="series_sim">Series II. Financial Records</field>
+    <field name="series_si">Series II. Financial Records &gt;&gt; Trial balances. July 31, 1907-April 30, 1910</field>
+    <field name="heading_ssm">Trial balances. July 31, 1907-April 30, 1910</field>
+    <field name="unitdate_ssm">Inclusive, 1907-1910</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

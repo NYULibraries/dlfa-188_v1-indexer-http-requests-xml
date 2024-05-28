@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr001_john_albokaspace_ref107_3cq</field>
+    <field name="ead_ssi">pr001_john_albok</field>
+    <field name="parent_ssi">aspace_ref91_f0k</field>
+    <field name="parent_ssm">aspace_ref91_f0k</field>
+    <field name="parent_unittitles_ssm">Series II. Negatives</field>
+    <field name="parent_unittitles_teim">Series II. Negatives</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Albok photograph collection</field>
+    <field name="collection_ssm">John Albok photograph collection</field>
+    <field name="collection_unitid_ssm">PR 1</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">World's Fair</field>
+    <field name="unittitle_teim">World's Fair</field>
+    <field name="ref_ssi">aspace_ref107_3cq</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Albok photograph collection</field>
+    <field name="collection_unitid_teim">PR 1</field>
+    <field name="series_sim">Series II. Negatives</field>
+    <field name="series_si">Series II. Negatives &gt;&gt; World's Fair</field>
+    <field name="heading_ssm">World's Fair</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">63</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms490_john_pintardaspace_ref117_zh3</field>
+    <field name="ead_ssi">ms490_john_pintard</field>
+    <field name="parent_ssi">aspace_ref41_1yc</field>
+    <field name="parent_ssm">aspace_ref6_szb</field>
+    <field name="parent_ssm">aspace_ref41_1yc</field>
+    <field name="parent_unittitles_ssm">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="parent_unittitles_ssm">Subseries IV: Legal Records</field>
+    <field name="parent_unittitles_teim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="parent_unittitles_teim">Subseries IV: Legal Records</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Pintard Papers</field>
+    <field name="collection_ssm">John Pintard Papers</field>
+    <field name="collection_unitid_ssm">MS 490</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Legal Records</field>
+    <field name="unittitle_teim">Legal Records</field>
+    <field name="unitdate_teim">1793-1836</field>
+    <field name="ref_ssi">aspace_ref117_zh3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">John Pintard Papers</field>
+    <field name="collection_unitid_teim">MS 490</field>
+    <field name="series_sim">Series 1: Papers of John Pintard, 1779-1851</field>
+    <field name="series_sim">Subseries IV: Legal Records</field>
+    <field name="series_si">Series 1: Papers of John Pintard, 1779-1851 &gt;&gt; Subseries IV: Legal Records &gt;&gt; Legal Records</field>
+    <field name="heading_ssm">Legal Records</field>
+    <field name="unitdate_ssm">1793-1836</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">71</field>
+  </doc>
+</add>

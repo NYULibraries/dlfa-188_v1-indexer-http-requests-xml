@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms94_butler_laingaspace_ref44_wmb</field>
+    <field name="ead_ssi">ms94_butler_laing</field>
+    <field name="parent_ssi">aspace_ref15_jv3</field>
+    <field name="parent_ssm">aspace_ref15_jv3</field>
+    <field name="parent_unittitles_ssm">Series III: Mary Hunt Butler Reeves</field>
+    <field name="parent_unittitles_teim">Series III: Mary Hunt Butler Reeves</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Butler-Laing Family papers</field>
+    <field name="collection_ssm">Butler-Laing Family papers</field>
+    <field name="collection_unitid_ssm">MS 94</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Mary Hunt Butler Reeves, Correspondence from Frank Butler</field>
+    <field name="unittitle_teim">Mary Hunt Butler Reeves, Correspondence from Frank Butler</field>
+    <field name="unitdate_teim">1864-1865</field>
+    <field name="ref_ssi">aspace_ref44_wmb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Butler-Laing Family papers</field>
+    <field name="collection_unitid_teim">MS 94</field>
+    <field name="series_sim">Series III: Mary Hunt Butler Reeves</field>
+    <field name="series_si">Series III: Mary Hunt Butler Reeves &gt;&gt; Mary Hunt Butler Reeves, Correspondence from Frank Butler</field>
+    <field name="heading_ssm">Mary Hunt Butler Reeves, Correspondence from Frank Butler</field>
+    <field name="unitdate_ssm">1864-1865</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">18</field>
+  </doc>
+</add>

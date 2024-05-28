@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref724_gbu</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Views of the province of Santiago de Cuba / Captain James G. Harbord, 11th U.S.Cavalry</field>
+    <field name="unittitle_teim">Views of the province of Santiago de Cuba / Captain James G. Harbord, 11th U.S.Cavalry</field>
+    <field name="unitdate_normal_ssm">1899/1901</field>
+    <field name="unitdate_normal_teim">1899/1901</field>
+    <field name="unitdate_normal_sim">1899/1901</field>
+    <field name="unitdate_inclusive_teim">[1899]-1901</field>
+    <field name="scopecontent_teim">Views in Cuba, including the transport Wright at dock, government wharf, ice plant, Nautical club, ladies bath, steam launch "Santiago", Yellow fever hospital, Orphelin's' Asylum, Hospital Civil, old Spanish Tower, Plaza de Dolores, stone cutting engine, Cathedral, waterworks, exhibit of photographs labeled "Buffalo Exhibit," probably the Pan American Exposition at Buffalo, harbor and other piers, railroad station, jail, including man whitewashing columns, officers' hospital, interior view of courtroom, group of men on patio, Afro-Cubans with cart, "a typical cabin," a church, Arsenal, San Carlos Club including interior, offices, dos Bocas, train in the countryside, Cayo Toro, Spanish fort, tents to the right, Santa Ursula battery, Sta. Ines Fort, Cay Ratones; photographs by L. LaMarque. See also album #223.</field>
+    <field name="ref_ssi">aspace_ref724_gbu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 49, Volume: 224</field>
+    <field name="location_ssm">Volume: 224</field>
+    <field name="location_si">Volume: 224</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">Views of the province of Santiago de Cuba / Captain James G. Harbord, 11th U.S.Cavalry</field>
+    <field name="heading_ssm">Views of the province of Santiago de Cuba / Captain James G. Harbord, 11th U.S.Cavalry</field>
+    <field name="unitdate_start_sim">1899</field>
+    <field name="unitdate_start_ssm">1899</field>
+    <field name="unitdate_start_si">1899</field>
+    <field name="unitdate_end_sim">1901</field>
+    <field name="unitdate_end_ssm">1901</field>
+    <field name="unitdate_end_si">1901</field>
+    <field name="unitdate_ssm">Inclusive, [1899]-1901</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">246</field>
+  </doc>
+</add>

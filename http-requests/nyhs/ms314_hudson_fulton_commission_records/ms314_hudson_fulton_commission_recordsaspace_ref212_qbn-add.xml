@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms314_hudson_fulton_commission_recordsaspace_ref212_qbn</field>
+    <field name="ead_ssi">ms314_hudson_fulton_commission_records</field>
+    <field name="parent_ssi">aspace_ref138_1jw</field>
+    <field name="parent_ssm">aspace_ref138_1jw</field>
+    <field name="parent_unittitles_ssm">Series II: Financial Documents</field>
+    <field name="parent_unittitles_teim">Series II: Financial Documents</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Hudson-Fulton Celebration Commission records</field>
+    <field name="collection_ssm">Hudson-Fulton Celebration Commission records</field>
+    <field name="collection_unitid_ssm">MS 314</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.D. Payment Vouchers</field>
+    <field name="unittitle_teim">Subseries II.D. Payment Vouchers</field>
+    <field name="scopecontent_teim">The vouchers in this subseries document the financial transactions between the Commission and other individuals and companies. The funding source for the various vouchers is noted by the folder title. In addition, this subseries contains schedules for the various vouchers, which act as indexes for the series. The documents are arranged by voucher number.</field>
+    <field name="ref_ssi">aspace_ref212_qbn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Hudson-Fulton Celebration Commission records</field>
+    <field name="collection_unitid_teim">MS 314</field>
+    <field name="series_sim">Series II: Financial Documents</field>
+    <field name="series_si">Series II: Financial Documents &gt;&gt; Subseries II.D. Payment Vouchers</field>
+    <field name="heading_ssm">Subseries II.D. Payment Vouchers</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">193</field>
+  </doc>
+</add>

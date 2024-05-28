@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_857fc49ddb464c7e2576f246009e756c</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_fb030ab74d0c584e0de10afe96d0e2c1</field>
+    <field name="parent_ssm">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_ssm">aspace_fb030ab74d0c584e0de10afe96d0e2c1</field>
+    <field name="parent_unittitles_ssm">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries III.B. Stock Books and Other Inventories</field>
+    <field name="parent_unittitles_teim">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries III.B. Stock Books and Other Inventories</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Stock Books</field>
+    <field name="unittitle_teim">Stock Books</field>
+    <field name="unitdate_inclusive_teim">1932-1970</field>
+    <field name="scopecontent_teim">Includes six volumes that appear to be a complete run from July 1, 1932 to March 31, 1970 of objects purchased by Robert Ensko Inc., source and cost, with other data.</field>
+    <field name="ref_ssi">aspace_857fc49ddb464c7e2576f246009e756c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 73</field>
+    <field name="location_si">Offsite-Box: 73</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series III. Inventories and Financial Records</field>
+    <field name="series_sim">Subseries III.B. Stock Books and Other Inventories</field>
+    <field name="series_si">Series III. Inventories and Financial Records &gt;&gt; Subseries III.B. Stock Books and Other Inventories &gt;&gt; Stock Books</field>
+    <field name="heading_ssm">Stock Books</field>
+    <field name="unitdate_ssm">Inclusive, 1932-1970</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">80</field>
+  </doc>
+</add>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr104_theatrical_portrait_collectionaspace_f71795cbfed295adf4f8b891d222b707</field>
+    <field name="ead_ssi">pr104_theatrical_portrait_collection</field>
+    <field name="parent_ssi">aspace_696a5e9cf86ccaba2a245dfdb65abb4d</field>
+    <field name="parent_ssm">aspace_96e4688cd5744e2ae90b54fa4d4725ee</field>
+    <field name="parent_ssm">aspace_696a5e9cf86ccaba2a245dfdb65abb4d</field>
+    <field name="parent_unittitles_ssm">Series I. Individuals</field>
+    <field name="parent_unittitles_ssm">Subseries I.B. Individuals (medium format)</field>
+    <field name="parent_unittitles_teim">Series I. Individuals</field>
+    <field name="parent_unittitles_teim">Subseries I.B. Individuals (medium format)</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_ssm">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_ssm">PR 104</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Individuals (medium) "C"</field>
+    <field name="unittitle_teim">Individuals (medium) "C"</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">Calve, Emma
+Campanini, Cleofonte
+Carey, Eleanor
+Caron, Rose
+Carter, Helen E. H.
+Caruso, Enrico
+Cary, Annie Louise
+Celeste, Madame (Celine)
+Cheatham, Kitty
+Child, Edmund Bramhill (2 images)
+Christy, Edwin Pearce
+Coghlan, Rose (3 images)
+Collier, William
+Cook, Augustus
+Cooke, George Frederick
+Coquelin, Constant (2 images)
+Cornell, Katharine
+Crane, William H.
+Crosman, Henrietta
+Cushman, Pauline</field>
+    <field name="ref_ssi">aspace_f71795cbfed295adf4f8b891d222b707</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">drawer: Medium</field>
+    <field name="location_si">drawer: Medium</field>
+    <field name="collection_teim">New-York Historical Society theatrical portrait collection</field>
+    <field name="collection_unitid_teim">PR 104</field>
+    <field name="series_sim">Series I. Individuals</field>
+    <field name="series_sim">Subseries I.B. Individuals (medium format)</field>
+    <field name="series_si">Series I. Individuals &gt;&gt; Subseries I.B. Individuals (medium format) &gt;&gt; Individuals (medium) "C"</field>
+    <field name="heading_ssm">Individuals (medium) "C"</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">53</field>
+  </doc>
+</add>

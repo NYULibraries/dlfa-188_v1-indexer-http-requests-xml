@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr248_eugene_gordonaspace_ref69_ttz</field>
+    <field name="ead_ssi">pr248_eugene_gordon</field>
+    <field name="parent_ssi">aspace_ref5_dwb</field>
+    <field name="parent_ssm">aspace_ref5_dwb</field>
+    <field name="parent_unittitles_ssm">Series V: Subjects</field>
+    <field name="parent_unittitles_teim">Series V: Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Eugene Gordon photographs</field>
+    <field name="collection_ssm">Eugene Gordon photographs</field>
+    <field name="collection_unitid_ssm">PR 248</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Construction</field>
+    <field name="unittitle_teim">Construction</field>
+    <field name="unitdate_normal_ssm">1985/1990</field>
+    <field name="unitdate_normal_teim">1985/1990</field>
+    <field name="unitdate_normal_sim">1985/1990</field>
+    <field name="unitdate_inclusive_teim">1985-1990</field>
+    <field name="ref_ssi">aspace_ref69_ttz</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 51</field>
+    <field name="location_ssm">Folder: 51</field>
+    <field name="location_si">Folder: 51</field>
+    <field name="collection_teim">Eugene Gordon photographs</field>
+    <field name="collection_unitid_teim">PR 248</field>
+    <field name="series_sim">Series V: Subjects</field>
+    <field name="series_si">Series V: Subjects &gt;&gt; Construction</field>
+    <field name="heading_ssm">Construction</field>
+    <field name="unitdate_start_sim">1985</field>
+    <field name="unitdate_start_ssm">1985</field>
+    <field name="unitdate_start_si">1985</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, 1985-1990</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">62</field>
+  </doc>
+</add>

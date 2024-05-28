@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr024_george_hall_sonaspace_ref1026_8a9</field>
+    <field name="ead_ssi">pr024_george_hall_son</field>
+    <field name="parent_ssi">aspace_ref1025_vi3</field>
+    <field name="parent_ssm">aspace_ref844_m0i</field>
+    <field name="parent_ssm">aspace_ref1021_2xx</field>
+    <field name="parent_ssm">aspace_ref1025_vi3</field>
+    <field name="parent_unittitles_ssm">Series V: Negatives</field>
+    <field name="parent_unittitles_ssm">14 x 17 inches</field>
+    <field name="parent_unittitles_ssm">Manhattan</field>
+    <field name="parent_unittitles_teim">Series V: Negatives</field>
+    <field name="parent_unittitles_teim">14 x 17 inches</field>
+    <field name="parent_unittitles_teim">Manhattan</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">George P. Hall &amp; Son Photograph Collection</field>
+    <field name="collection_ssm">George P. Hall &amp; Son Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 24</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Bellevue Hospital</field>
+    <field name="unittitle_teim">Bellevue Hospital</field>
+    <field name="unitdate_normal_ssm">1909/1909</field>
+    <field name="unitdate_normal_teim">1909/1909</field>
+    <field name="unitdate_normal_sim">1909/1909</field>
+    <field name="unitdate_inclusive_teim">1909</field>
+    <field name="ref_ssi">aspace_ref1026_8a9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 46</field>
+    <field name="location_si">Box: 46</field>
+    <field name="collection_teim">George P. Hall &amp; Son Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 24</field>
+    <field name="series_sim">Series V: Negatives</field>
+    <field name="series_sim">14 x 17 inches</field>
+    <field name="series_sim">Manhattan</field>
+    <field name="series_si">Series V: Negatives &gt;&gt; 14 x 17 inches &gt;&gt; Manhattan &gt;&gt; Bellevue Hospital</field>
+    <field name="heading_ssm">Bellevue Hospital</field>
+    <field name="unitdate_start_sim">1909</field>
+    <field name="unitdate_start_ssm">1909</field>
+    <field name="unitdate_start_si">1909</field>
+    <field name="unitdate_end_sim">1909</field>
+    <field name="unitdate_end_ssm">1909</field>
+    <field name="unitdate_end_si">1909</field>
+    <field name="unitdate_ssm">Inclusive, 1909</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1010</field>
+  </doc>
+</add>

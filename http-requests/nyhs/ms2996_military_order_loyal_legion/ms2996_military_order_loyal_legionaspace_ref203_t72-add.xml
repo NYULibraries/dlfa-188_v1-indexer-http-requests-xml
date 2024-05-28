@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2996_military_order_loyal_legionaspace_ref203_t72</field>
+    <field name="ead_ssi">ms2996_military_order_loyal_legion</field>
+    <field name="parent_ssi">aspace_ref23_y02</field>
+    <field name="parent_ssm">aspace_ref23_y02</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="collection_ssm">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="collection_unitid_ssm">MS 2996</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V: Correspondence received by the Chancellor</field>
+    <field name="unittitle_teim">Subseries V: Correspondence received by the Chancellor</field>
+    <field name="unitdate_teim">1907-1913</field>
+    <field name="ref_ssi">aspace_ref203_t72</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Military Order of the Loyal Legion of the United States, New York Commandery Records</field>
+    <field name="collection_unitid_teim">MS 2996</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Subseries V: Correspondence received by the Chancellor</field>
+    <field name="heading_ssm">Subseries V: Correspondence received by the Chancellor</field>
+    <field name="unitdate_ssm">1907-1913</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">47</field>
+  </doc>
+</add>

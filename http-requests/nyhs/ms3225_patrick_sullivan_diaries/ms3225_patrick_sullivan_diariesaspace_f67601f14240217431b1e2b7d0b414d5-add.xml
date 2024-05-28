@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3225_patrick_sullivan_diariesaspace_f67601f14240217431b1e2b7d0b414d5</field>
+    <field name="ead_ssi">ms3225_patrick_sullivan_diaries</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Patrick Joseph Sullivan Diaries</field>
+    <field name="collection_ssm">Patrick Joseph Sullivan Diaries</field>
+    <field name="collection_unitid_ssm">MS 3225</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Diaries</field>
+    <field name="unittitle_teim">Diaries</field>
+    <field name="unitdate_inclusive_teim">1939-1941</field>
+    <field name="ref_ssi">aspace_f67601f14240217431b1e2b7d0b414d5</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 2, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Patrick Joseph Sullivan Diaries</field>
+    <field name="collection_unitid_teim">MS 3225</field>
+    <field name="series_si">Diaries</field>
+    <field name="heading_ssm">Diaries</field>
+    <field name="unitdate_ssm">Inclusive, 1939-1941</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

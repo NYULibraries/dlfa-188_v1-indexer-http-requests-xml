@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2902_bowers_familyaspace_ref65_itr</field>
+    <field name="ead_ssi">ms2902_bowers_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Bowers family papers</field>
+    <field name="collection_ssm">Bowers family papers</field>
+    <field name="collection_unitid_ssm">MS 2902</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII: Genealogy Research</field>
+    <field name="unittitle_teim">Series VII: Genealogy Research</field>
+    <field name="unitdate_teim">1912, undated</field>
+    <field name="scopecontent_teim">This series consists of genealogical research. Most if not all of this research was initiated by Roy Campbell Smith. Notably in the first folder there are several documents from the Navy Department that prove Smith is descended from the Pomeroy family.</field>
+    <field name="ref_ssi">aspace_ref65_itr</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bowers family papers</field>
+    <field name="collection_unitid_teim">MS 2902</field>
+    <field name="series_si">Series VII: Genealogy Research</field>
+    <field name="heading_ssm">Series VII: Genealogy Research</field>
+    <field name="unitdate_ssm">1912, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">75</field>
+  </doc>
+</add>

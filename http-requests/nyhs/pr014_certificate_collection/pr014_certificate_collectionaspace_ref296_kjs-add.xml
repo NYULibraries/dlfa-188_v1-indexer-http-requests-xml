@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref296_kjs</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series X: Historical</field>
+    <field name="unittitle_teim">Series X: Historical</field>
+    <field name="unitdate_inclusive_teim">1823-1980</field>
+    <field name="scopecontent_teim">This series is comprised mainly of certificates of membership and acknowledgements of
+financial contributions to organizations focused on commemorating various aspects of American history.</field>
+    <field name="scopecontent_teim">Membership certificates include those to the American Antiquarian Society, the American Historical Association, the Massachusetts Historical Society, and the New-York Historical Society. New-York Historical Society membership certificates are illustrated with an image of the arrival of Henry Hudson, engraved by Asher B. Durand. Blank New-York Historical Society fellow and patron certificates include an original drawing of the certificate by its designer, E. D. French. Also included are certificates from the New Hampshire
+Historical Society, the American Flag House and Betsy Ross Memorial Association, and a number of
+presidential societies. The American Bank Note Company printed the certificates of membership for the
+Roosevelt Memorial Association and the Alexander Hamilton National Memorial Association.</field>
+    <field name="scopecontent_teim">
+Acknowledgements of contributions include those to the Washington National Monument, the Bunker Hill
+Monument Association, and the National Lincoln Monument in Illinois, as well as a certificate acknowledging a donation to provide a pedestal for the Statue of
+Liberty.</field>
+    <field name="ref_ssi">aspace_ref296_kjs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series X: Historical</field>
+    <field name="heading_ssm">Series X: Historical</field>
+    <field name="unitdate_ssm">Inclusive, 1823-1980</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">161</field>
+  </doc>
+</add>

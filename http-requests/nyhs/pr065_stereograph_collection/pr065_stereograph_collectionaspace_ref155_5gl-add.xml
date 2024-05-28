@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref155_5gl</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Michigan--Mining</field>
+    <field name="unittitle_teim">Michigan--Mining</field>
+    <field name="unitdate_normal_ssm">1865/1900</field>
+    <field name="unitdate_normal_teim">1865/1900</field>
+    <field name="unitdate_normal_sim">1865/1900</field>
+    <field name="unitdate_inclusive_teim">1865-1900</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0141</field>
+    <field name="scopecontent_teim">Mining, smelting and related activities in various Michigan locations including iron and copper mines along Lake Superior, the Deer Lake Furnace, Calumet: copper mines, smelters, machine shops and houses, and a group of miners, some with lamps on hats, some smoking pipes; Escanaba: ore awaiting shipment at a wharf; Hancock: top of incline (railroad), shaft houses, blacksmith shops; Hecla: mine and railroad; Houghton: shaft houses, the elevated railroad and rock breaker, Lewis &amp; Co.'s Store, Offices of Franklin and Pewabic Copper Companies, South Pewabic stamps and blacksmith's shop, Colombian stamp mill, a street view; Marquett: men loading iron ore into a horse cart, and interior views of machinery in rolling mills, view of the harbor including sailing vessels and a sidewheel steamer moored at wharves, and building beyond; Michigammee: interior view of mining Doctor's drug store; Negaunee:  men hauling ore in a horse cart, Jackson Mine.</field>
+    <field name="scopecontent_teim">45 items</field>
+    <field name="ref_ssi">aspace_ref155_5gl</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 17</field>
+    <field name="location_si">Box: 17</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; Michigan--Mining</field>
+    <field name="heading_ssm">Michigan--Mining</field>
+    <field name="unitdate_start_sim">1865</field>
+    <field name="unitdate_start_ssm">1865</field>
+    <field name="unitdate_start_si">1865</field>
+    <field name="unitdate_end_sim">1900</field>
+    <field name="unitdate_end_ssm">1900</field>
+    <field name="unitdate_end_si">1900</field>
+    <field name="unitdate_ssm">Inclusive, 1865-1900</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">142</field>
+  </doc>
+</add>

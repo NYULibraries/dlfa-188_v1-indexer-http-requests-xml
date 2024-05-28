@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref67_4pg</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref11_8wt</field>
+    <field name="parent_ssm">aspace_ref11_8wt</field>
+    <field name="parent_unittitles_ssm">Series XI - Records of the Children's Emigration, Placing-Out, and Foster Home Programs</field>
+    <field name="parent_unittitles_teim">Series XI - Records of the Children's Emigration, Placing-Out, and Foster Home Programs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries X1.5 - Disbound ring binders and lists created by Foster Home Department</field>
+    <field name="unittitle_teim">Subseries X1.5 - Disbound ring binders and lists created by Foster Home Department</field>
+    <field name="unitdate_normal_ssm">1917/1939</field>
+    <field name="unitdate_normal_ssm">1929/1939</field>
+    <field name="unitdate_normal_teim">1917/1939</field>
+    <field name="unitdate_normal_teim">1929/1939</field>
+    <field name="unitdate_normal_sim">1917/1939</field>
+    <field name="unitdate_normal_sim">1929/1939</field>
+    <field name="unitdate_bulk_teim">1929-1939</field>
+    <field name="unitdate_inclusive_teim">1917-1939</field>
+    <field name="scopecontent_teim">This subseries consists of 2 boxes of disbound ring binders and lists created by the Foster Home Department, listing children placed out 1917-1939 (bulk 1929-1939). The material in this subseries is RESTRICTED. Researchers whose primary interest is tracing family history will be put in contact with a designated Children's Aid Society specialist who will interview the potential researcher to determine what he or she may consult and will then supervise the reader's use of the appropriate material. Guidelines currently in place for family history research at CAS, as determined by legal restrictions on the accessibility of adoption and foster care records, will be followed.</field>
+    <field name="ref_ssi">aspace_ref67_4pg</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series XI - Records of the Children's Emigration, Placing-Out, and Foster Home Programs</field>
+    <field name="series_si">Series XI - Records of the Children's Emigration, Placing-Out, and Foster Home Programs &gt;&gt; Subseries X1.5 - Disbound ring binders and lists created by Foster Home Department</field>
+    <field name="heading_ssm">Subseries X1.5 - Disbound ring binders and lists created by Foster Home Department</field>
+    <field name="unitdate_start_sim">1917</field>
+    <field name="unitdate_start_sim">1929</field>
+    <field name="unitdate_start_ssm">1917</field>
+    <field name="unitdate_start_ssm">1929</field>
+    <field name="unitdate_start_si">1929</field>
+    <field name="unitdate_end_sim">1939</field>
+    <field name="unitdate_end_ssm">1939</field>
+    <field name="unitdate_end_si">1939</field>
+    <field name="unitdate_ssm">Inclusive, 1917-1939 ; 1929-1939</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2026</field>
+  </doc>
+</add>

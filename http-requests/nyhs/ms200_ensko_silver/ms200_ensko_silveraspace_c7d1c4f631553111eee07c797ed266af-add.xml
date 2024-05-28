@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms200_ensko_silveraspace_c7d1c4f631553111eee07c797ed266af</field>
+    <field name="ead_ssi">ms200_ensko_silver</field>
+    <field name="parent_ssi">aspace_f19e642464e5ff29b4dce73e44f6e014</field>
+    <field name="parent_ssm">aspace_3489685cfcd8d30ed43b9a7f9198e523</field>
+    <field name="parent_ssm">aspace_f19e642464e5ff29b4dce73e44f6e014</field>
+    <field name="parent_unittitles_ssm">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_ssm">Subseries III.A. Bill Payment Files</field>
+    <field name="parent_unittitles_teim">Series III. Inventories and Financial Records</field>
+    <field name="parent_unittitles_teim">Subseries III.A. Bill Payment Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Ensko Inc. records</field>
+    <field name="collection_ssm">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_ssm">MS 200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Miscellaneous</field>
+    <field name="unittitle_teim">Miscellaneous</field>
+    <field name="unitdate_inclusive_teim">1960-1970</field>
+    <field name="scopecontent_teim">Generally appears to include various pending transactions from around 1969-70, that is just after the death of Stephen G.C. Ensko. Includes invoices, A-Z (1969-70) from, among others I. Freeman &amp; Son, H. Sigal Inc., and Wakely &amp; Wheeler; orders from New York Racing Association and related invoices to Ensko (1970); letters regarding resolutions of outstanding credits to clients; and pending matters at Ensko's death, 1960-70.</field>
+    <field name="ref_ssi">aspace_c7d1c4f631553111eee07c797ed266af</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 42</field>
+    <field name="location_si">Offsite-Box: 42</field>
+    <field name="collection_teim">Robert Ensko Inc. records</field>
+    <field name="collection_unitid_teim">MS 200</field>
+    <field name="series_sim">Series III. Inventories and Financial Records</field>
+    <field name="series_sim">Subseries III.A. Bill Payment Files</field>
+    <field name="series_si">Series III. Inventories and Financial Records &gt;&gt; Subseries III.A. Bill Payment Files &gt;&gt; Miscellaneous</field>
+    <field name="heading_ssm">Miscellaneous</field>
+    <field name="unitdate_ssm">Inclusive, 1960-1970</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">73</field>
+  </doc>
+</add>

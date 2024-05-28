@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3016_henry_walteraspace_ref365_wc2</field>
+    <field name="ead_ssi">ms3016_henry_walter</field>
+    <field name="parent_ssi">aspace_ref336_n05</field>
+    <field name="parent_ssm">aspace_ref336_n05</field>
+    <field name="parent_unittitles_ssm">Series V. Print Matter</field>
+    <field name="parent_unittitles_teim">Series V. Print Matter</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Henry Walter papers</field>
+    <field name="collection_ssm">Henry Walter papers</field>
+    <field name="collection_unitid_ssm">MS 3016</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Print Matter (#86-96)</field>
+    <field name="unittitle_teim">Print Matter (#86-96)</field>
+    <field name="unitdate_inclusive_teim">1976</field>
+    <field name="scopecontent_teim">* New York Life Insurance Company's annual report for 1976;
+* (Souvenir?) program for the play, The Belle of Amherst with Julie Harris; 
+* Operation Sail 1976 booklet; 
+* Tall Ships '76 souvenir program; 
+* Checklist booklet for the exhibition The Tulip &amp; the Rose: Seeds of Queens History at the Queens Museum; 
+* Booklet The U.S. Customs House on Bowling Green by Brendan Gill; 
+* Five booklets in the Black Perspectives on the Bicentennial series published by the National Urban League.</field>
+    <field name="ref_ssi">aspace_ref365_wc2</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 26, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Henry Walter papers</field>
+    <field name="collection_unitid_teim">MS 3016</field>
+    <field name="series_sim">Series V. Print Matter</field>
+    <field name="series_si">Series V. Print Matter &gt;&gt; Print Matter (#86-96)</field>
+    <field name="heading_ssm">Print Matter (#86-96)</field>
+    <field name="unitdate_ssm">Inclusive, 1976</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">245</field>
+  </doc>
+</add>

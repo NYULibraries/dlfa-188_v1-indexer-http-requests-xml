@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr058_printmaker_fileaspace_ref1366_oju</field>
+    <field name="ead_ssi">pr058_printmaker_file</field>
+    <field name="parent_ssi">aspace_ref16_gvf</field>
+    <field name="parent_ssm">aspace_ref16_gvf</field>
+    <field name="parent_unittitles_ssm">Series I: Prints 16 x 20" and smaller</field>
+    <field name="parent_unittitles_teim">Series I: Prints 16 x 20" and smaller</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Printmaker File</field>
+    <field name="collection_ssm">Printmaker File</field>
+    <field name="collection_unitid_ssm">PR 58</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Ehrgott, Forbriger &amp;amp; Co. (fl. 1860-1869)</field>
+    <field name="unittitle_teim">Ehrgott, Forbriger &amp; Co. (fl. 1860-1869)</field>
+    <field name="bioghist_teim">Ehrgott, Forbriger &amp; Co. was founded in 1856 by Peter E. Ehrgott and Adolphus F.Forbriger in Cincinatti, Ohio. Ehrgott and Forbriger introduced the first steam press west of New York City in 1868. Their lithographic firm published a series of portraits of Civil War military and naval officers.  These portraits are notable for the fact that though the face of each individual is accurate and based on a photograph, many share the same, or very similar backgrounds, with identical bodies, horses, landscapes, etc. Seventeen of these Civil War portraits are included in this subseries.</field>
+    <field name="ref_ssi">aspace_ref1366_oju</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Printmaker File</field>
+    <field name="collection_unitid_teim">PR 58</field>
+    <field name="series_sim">Series I: Prints 16 x 20" and smaller</field>
+    <field name="series_si">Series I: Prints 16 x 20" and smaller &gt;&gt; Ehrgott, Forbriger &amp;amp; Co. (fl. 1860-1869)</field>
+    <field name="heading_ssm">Ehrgott, Forbriger &amp; Co. (fl. 1860-1869)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">127</field>
+  </doc>
+</add>

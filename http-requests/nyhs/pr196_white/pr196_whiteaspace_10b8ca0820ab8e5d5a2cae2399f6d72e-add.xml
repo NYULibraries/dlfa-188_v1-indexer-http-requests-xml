@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr196_whiteaspace_10b8ca0820ab8e5d5a2cae2399f6d72e</field>
+    <field name="ead_ssi">pr196_white</field>
+    <field name="parent_ssi">aspace_0ed00eaf4b4072b57e822ccd3a33fd65</field>
+    <field name="parent_ssm">aspace_0ed00eaf4b4072b57e822ccd3a33fd65</field>
+    <field name="parent_unittitles_ssm">Hudson River</field>
+    <field name="parent_unittitles_teim">Hudson River</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lewis F. White photographs</field>
+    <field name="collection_ssm">Lewis F. White photographs</field>
+    <field name="collection_unitid_ssm">PR 196</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hudson River Docks</field>
+    <field name="unittitle_teim">Hudson River Docks</field>
+    <field name="unitdate_inclusive_teim">1952</field>
+    <field name="ref_ssi">aspace_10b8ca0820ab8e5d5a2cae2399f6d72e</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">Lewis F. White photographs</field>
+    <field name="collection_unitid_teim">PR 196</field>
+    <field name="series_sim">Hudson River</field>
+    <field name="series_si">Hudson River &gt;&gt; Hudson River Docks</field>
+    <field name="heading_ssm">Hudson River Docks</field>
+    <field name="unitdate_ssm">Inclusive, 1952</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref300_cfc</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XIV: Memorial</field>
+    <field name="unittitle_teim">Series XIV: Memorial</field>
+    <field name="unitdate_inclusive_teim">1872-1931</field>
+    <field name="scopecontent_teim">This series is comprised of certificates from clubs and organizations honoring deceased members. These include certificates in memory of William de Groot from the Empire State Society, James C. Russell from the Coffee Exchange of the City of New York, and Edward L. Phalon from the John Bruning Bowling Club. </field>
+    <field name="scopecontent_teim">Two certificates were printed to
+honor fallen Civil War soldiers, including one printed by Currier and Ives. Also included are certificates in
+memory of James P. Harper and John McEntee Bowman.</field>
+    <field name="scopecontent_teim">Of special note is a memorial for Horace Greeley from the American Institute. This certificate is elaborately hand-lettered and includes an albumen portrait.</field>
+    <field name="ref_ssi">aspace_ref300_cfc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series XIV: Memorial</field>
+    <field name="heading_ssm">Series XIV: Memorial</field>
+    <field name="unitdate_ssm">Inclusive, 1872-1931</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">235</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr100_maritime_history_collectionaspace_ref492_dgo</field>
+    <field name="ead_ssi">pr100_maritime_history_collection</field>
+    <field name="parent_ssi">aspace_ref464_1v3</field>
+    <field name="parent_ssm">aspace_ref439_dui</field>
+    <field name="parent_ssm">aspace_ref464_1v3</field>
+    <field name="parent_unittitles_ssm">Series II.  Medium Format Flat Files </field>
+    <field name="parent_unittitles_ssm">Subseries II.3: Naval Vessles</field>
+    <field name="parent_unittitles_teim">Series II.  Medium Format Flat Files </field>
+    <field name="parent_unittitles_teim">Subseries II.3: Naval Vessles</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Maritime History Collection</field>
+    <field name="collection_ssm">Maritime History Collection</field>
+    <field name="collection_unitid_ssm">PR 100</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">O</field>
+    <field name="unittitle_teim">O</field>
+    <field name="scopecontent_teim">This file contains clippings from periodicals, photographs and the Nathaniel Currier lithograph U.S. Ship of the Line Ohio</field>
+    <field name="ref_ssi">aspace_ref492_dgo</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Flat File, Folder: FF 32</field>
+    <field name="location_ssm">Folder: FF 32</field>
+    <field name="location_si">Folder: FF 32</field>
+    <field name="collection_teim">Maritime History Collection</field>
+    <field name="collection_unitid_teim">PR 100</field>
+    <field name="series_sim">Series II.  Medium Format Flat Files </field>
+    <field name="series_sim">Subseries II.3: Naval Vessles</field>
+    <field name="series_si">Series II.  Medium Format Flat Files  &gt;&gt; Subseries II.3: Naval Vessles &gt;&gt; O</field>
+    <field name="heading_ssm">O</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">348</field>
+  </doc>
+</add>

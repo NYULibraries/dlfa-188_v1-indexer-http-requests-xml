@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms365_leonard_larsenaspace_ref50_mhv</field>
+    <field name="ead_ssi">ms365_leonard_larsen</field>
+    <field name="parent_ssi">aspace_ref13_hru</field>
+    <field name="parent_ssm">aspace_ref13_hru</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence Between Leonard and Helen Larsen, 1942-1945</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence Between Leonard and Helen Larsen, 1942-1945</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Leonard Larsen Papers</field>
+    <field name="collection_ssm">Leonard Larsen Papers</field>
+    <field name="collection_unitid_ssm">MS 365</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Letters from Leonard to Helen Larsen</field>
+    <field name="unittitle_teim">Letters from Leonard to Helen Larsen</field>
+    <field name="unitdate_teim">1945 September</field>
+    <field name="ref_ssi">aspace_ref50_mhv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Leonard Larsen Papers</field>
+    <field name="collection_unitid_teim">MS 365</field>
+    <field name="series_sim">Series I: Correspondence Between Leonard and Helen Larsen, 1942-1945</field>
+    <field name="series_si">Series I: Correspondence Between Leonard and Helen Larsen, 1942-1945 &gt;&gt; Letters from Leonard to Helen Larsen</field>
+    <field name="heading_ssm">Letters from Leonard to Helen Larsen</field>
+    <field name="unitdate_ssm">1945 September</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">38</field>
+  </doc>
+</add>

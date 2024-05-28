@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms23_artists_fund_societyaspace_ref194_ixv</field>
+    <field name="ead_ssi">ms23_artists_fund_society</field>
+    <field name="parent_ssi">aspace_ref8_4d5</field>
+    <field name="parent_ssm">aspace_ref8_4d5</field>
+    <field name="parent_unittitles_ssm">Series I: Alexander C. Morgan Papers</field>
+    <field name="parent_unittitles_teim">Series I: Alexander C. Morgan Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Artists' Fund Society records</field>
+    <field name="collection_ssm">Artists' Fund Society records</field>
+    <field name="collection_unitid_ssm">MS 23</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Subseries A: Correspondence</field>
+    <field name="unittitle_teim">Subseries A: Correspondence</field>
+    <field name="scopecontent_teim">Correspondence is arranged alphabetically by correspondent. Letters consist largely of requests for assistance and thank you letters. Letters requesting assistance describe conditions of poverty, disability, illness, and old age, and are written by the artists themselves, as well as by family members, friends and charitable organizations on their behalf. Correspondents include John Ward Dunsmore, Secretary of the Artists' Fund Society, and William Merritt Post, Treasurer of the Artists' Fund Society.</field>
+    <field name="ref_ssi">aspace_ref194_ixv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Artists' Fund Society records</field>
+    <field name="collection_unitid_teim">MS 23</field>
+    <field name="series_sim">Series I: Alexander C. Morgan Papers</field>
+    <field name="series_si">Series I: Alexander C. Morgan Papers &gt;&gt; Subseries A: Correspondence</field>
+    <field name="heading_ssm">Subseries A: Correspondence</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

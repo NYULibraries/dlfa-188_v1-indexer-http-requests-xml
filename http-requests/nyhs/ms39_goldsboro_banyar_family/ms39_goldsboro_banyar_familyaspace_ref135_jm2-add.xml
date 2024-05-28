@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms39_goldsboro_banyar_familyaspace_ref135_jm2</field>
+    <field name="ead_ssi">ms39_goldsboro_banyar_family</field>
+    <field name="parent_ssi">aspace_ref388_jj5</field>
+    <field name="parent_ssm">aspace_ref388_jj5</field>
+    <field name="parent_unittitles_ssm">Series I: Goldsboro Banyar</field>
+    <field name="parent_unittitles_teim">Series I: Goldsboro Banyar</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Goldsboro Banyar and Banyar Family papers</field>
+    <field name="collection_ssm">Goldsboro Banyar and Banyar Family papers</field>
+    <field name="collection_unitid_ssm">MS 39</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.2: Colonial administration accounts</field>
+    <field name="unittitle_teim">Subseries I.2: Colonial administration accounts</field>
+    <field name="scopecontent_teim">This subseries includes account books and loose accounts and receipts of court fees, monies relating to land transactions, and military expenses.  Also included is an exchange note for 100 pounds sterling to recruit members of the Five Nations of Indians for a war against Canada, and a license and receipt for the purchase of land from Native Americans.</field>
+    <field name="ref_ssi">aspace_ref135_jm2</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Goldsboro Banyar and Banyar Family papers</field>
+    <field name="collection_unitid_teim">MS 39</field>
+    <field name="series_sim">Series I: Goldsboro Banyar</field>
+    <field name="series_si">Series I: Goldsboro Banyar &gt;&gt; Subseries I.2: Colonial administration accounts</field>
+    <field name="heading_ssm">Subseries I.2: Colonial administration accounts</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">23</field>
+  </doc>
+</add>

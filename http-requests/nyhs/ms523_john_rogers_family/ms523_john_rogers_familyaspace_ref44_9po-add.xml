@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms523_john_rogers_familyaspace_ref44_9po</field>
+    <field name="ead_ssi">ms523_john_rogers_family</field>
+    <field name="parent_ssi">aspace_ref14_bkn</field>
+    <field name="parent_ssm">aspace_ref14_bkn</field>
+    <field name="parent_unittitles_ssm">Series I: Papers of John Rogers, Jr.</field>
+    <field name="parent_unittitles_teim">Series I: Papers of John Rogers, Jr.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Rogers Family Papers</field>
+    <field name="collection_ssm">Rogers Family Papers</field>
+    <field name="collection_unitid_ssm">MS 523</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III: Business Papers</field>
+    <field name="unittitle_teim">Subseries III: Business Papers</field>
+    <field name="unitdate_normal_ssm">1916/1936</field>
+    <field name="unitdate_normal_teim">1916/1936</field>
+    <field name="unitdate_normal_sim">1916/1936</field>
+    <field name="unitdate_inclusive_teim">1848-1971</field>
+    <field name="scopecontent_teim">This subseries is comprised of John Rogers, Jr.'s patents of the Rogers Groups, ledger books, bills, business correspondence, papers and articles written about his Groups, and ephemera of past exhibitions of his statues. Business papers and documents include communication about upcoming exhibitions of his works, contracts of sale or donation to the Corcoran Gallery, the Metropolitan Museum of Art and many other lesser known institutions, and a draft notice for the army addressed to John Rogers, Jr. just months before the end of the Civil War in 1865. The writings on John Rogers' Groups contain a lecture by Frank Adams and a collection of poems by admirer Elizabeth Schip. These materials are arranged chronologically.</field>
+    <field name="ref_ssi">aspace_ref44_9po</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Rogers Family Papers</field>
+    <field name="collection_unitid_teim">MS 523</field>
+    <field name="series_sim">Series I: Papers of John Rogers, Jr.</field>
+    <field name="series_si">Series I: Papers of John Rogers, Jr. &gt;&gt; Subseries III: Business Papers</field>
+    <field name="heading_ssm">Subseries III: Business Papers</field>
+    <field name="unitdate_start_sim">1916</field>
+    <field name="unitdate_start_ssm">1916</field>
+    <field name="unitdate_start_si">1916</field>
+    <field name="unitdate_end_sim">1936</field>
+    <field name="unitdate_end_ssm">1936</field>
+    <field name="unitdate_end_si">1936</field>
+    <field name="unitdate_ssm">Inclusive, 1848-1971</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

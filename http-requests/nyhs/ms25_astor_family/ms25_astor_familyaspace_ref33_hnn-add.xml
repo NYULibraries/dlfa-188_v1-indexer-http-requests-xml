@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms25_astor_familyaspace_ref33_hnn</field>
+    <field name="ead_ssi">ms25_astor_family</field>
+    <field name="parent_ssi">aspace_ref2_hqa</field>
+    <field name="parent_ssm">aspace_ref2_hqa</field>
+    <field name="parent_unittitles_ssm">Series II: Letterbooks, Daybooks, Rent Rolls, Journals, and Ledgers</field>
+    <field name="parent_unittitles_teim">Series II: Letterbooks, Daybooks, Rent Rolls, Journals, and Ledgers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Astor family papers</field>
+    <field name="collection_ssm">Astor family papers</field>
+    <field name="collection_unitid_ssm">MS 25</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.8: Abner Bartlett</field>
+    <field name="unittitle_teim">Subseries II.8: Abner Bartlett</field>
+    <field name="unitdate_teim">1890-1894</field>
+    <field name="ref_ssi">aspace_ref33_hnn</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Astor family papers</field>
+    <field name="collection_unitid_teim">MS 25</field>
+    <field name="series_sim">Series II: Letterbooks, Daybooks, Rent Rolls, Journals, and Ledgers</field>
+    <field name="series_si">Series II: Letterbooks, Daybooks, Rent Rolls, Journals, and Ledgers &gt;&gt; Subseries II.8: Abner Bartlett</field>
+    <field name="heading_ssm">Subseries II.8: Abner Bartlett</field>
+    <field name="unitdate_ssm">1890-1894</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">472</field>
+  </doc>
+</add>

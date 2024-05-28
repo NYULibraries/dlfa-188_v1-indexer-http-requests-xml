@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr258_here_is_new_yorkaspace_ref19_myo</field>
+    <field name="ead_ssi">pr258_here_is_new_york</field>
+    <field name="parent_ssi">aspace_ref16_2s8</field>
+    <field name="parent_ssm">aspace_ref16_2s8</field>
+    <field name="parent_unittitles_ssm">Series I: here is new york Images</field>
+    <field name="parent_unittitles_teim">Series I: here is new york Images</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Here is New York collection</field>
+    <field name="collection_ssm">Here is New York collection</field>
+    <field name="collection_unitid_ssm">PR 258</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II: Printed Images</field>
+    <field name="unittitle_teim">Subseries II: Printed Images</field>
+    <field name="scopecontent_teim">This subseries contains printed image sets that were displayed at the original Prince Street location and at the Corcoran Gallery exhibition in Washington, D.C. The Corcoran set was partially composed of images that had been displayed in the Chicago exhibition earlier in 2002. There is some duplication of images between and within the print sets. </field>
+    <field name="scopecontent_teim">The images were not framed for exhibition; instead they were clipped to wires that were strung across the walls and ceiling, with image numbers but without captions or photographer information. See the Hanging Instructions video in Production Dept. files and gallery images in Exhibition Documentation and Staff Photographs for a sense of how the prints were exhibited. The images were printed on Epson paper using Epson printers. The set used for the Corcoran exhibit was primarily created using pigmented inks and higher-quality paper ("Archival Matte Paper"). </field>
+    <field name="scopecontent_teim">There are 2,123 prints, arranged by exhibition location, image number, and release status. (When the collection was donated to N-YHS in 2004, all photographers were contacted and asked to sign an additional release. Printed images were then sorted by photographers who signed this release and those who did not respond.) See Printed Images Database for image numbers, photographers, and box location.</field>
+    <field name="scopecontent_teim">This subseries also contains the original image number tags used in the Prince Street exhibition. </field>
+    <field name="ref_ssi">aspace_ref19_myo</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Here is New York collection</field>
+    <field name="collection_unitid_teim">PR 258</field>
+    <field name="series_sim">Series I: here is new york Images</field>
+    <field name="series_si">Series I: here is new york Images &gt;&gt; Subseries II: Printed Images</field>
+    <field name="heading_ssm">Subseries II: Printed Images</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

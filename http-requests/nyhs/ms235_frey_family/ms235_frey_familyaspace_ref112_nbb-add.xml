@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms235_frey_familyaspace_ref112_nbb</field>
+    <field name="ead_ssi">ms235_frey_family</field>
+    <field name="parent_ssi">aspace_ref14_frd</field>
+    <field name="parent_ssm">aspace_ref14_frd</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence, 1793-1917, undated</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence, 1793-1917, undated</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Frey Family Papers</field>
+    <field name="collection_ssm">Frey Family Papers</field>
+    <field name="collection_unitid_ssm">MS 235</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Subseries 32. Frey, Helen, [1878]-1882, undated</field>
+    <field name="unittitle_teim">Subseries 32. Frey, Helen, [1878]-1882, undated</field>
+    <field name="scopecontent_teim">Childhood letters about the farm, family.</field>
+    <field name="ref_ssi">aspace_ref112_nbb</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Frey Family Papers</field>
+    <field name="collection_unitid_teim">MS 235</field>
+    <field name="series_sim">Series I: Correspondence, 1793-1917, undated</field>
+    <field name="series_si">Series I: Correspondence, 1793-1917, undated &gt;&gt; Subseries 32. Frey, Helen, [1878]-1882, undated</field>
+    <field name="heading_ssm">Subseries 32. Frey, Helen, [1878]-1882, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">73</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref203_l13</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New Mexico</field>
+    <field name="unittitle_teim">New Mexico</field>
+    <field name="unitdate_inclusive_teim">[1872-1899]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0189</field>
+    <field name="scopecontent_teim">New Mexico: "Frontier Ruffians" outside a saloon at the terminus of the A.T. &amp; S.F. R.R., 140 miles S.W. of Albuquerque, view also includes a woman and four children; farmyard, possibly in N.M.; wagon in Cimarron Canyon; ox team on a street, made by an East Las Vegas photographer; Apache Pass, between Las Vegas and Sante Fe; general view, Grant; views in N.M. on the Denver and Rio Grande Railroad, including crossing bridges, and the Grand Canyon of the Rio Grande; view on the San Juan River.</field>
+    <field name="scopecontent_teim">9 items</field>
+    <field name="ref_ssi">aspace_ref203_l13</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 21</field>
+    <field name="location_si">Box: 21</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New Mexico</field>
+    <field name="heading_ssm">New Mexico</field>
+    <field name="unitdate_ssm">Inclusive, [1872-1899]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">190</field>
+  </doc>
+</add>

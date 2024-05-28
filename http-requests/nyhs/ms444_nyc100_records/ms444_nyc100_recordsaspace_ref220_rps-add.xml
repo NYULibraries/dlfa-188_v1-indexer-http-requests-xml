@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms444_nyc100_recordsaspace_ref220_rps</field>
+    <field name="ead_ssi">ms444_nyc100_records</field>
+    <field name="parent_ssi">aspace_ref205_vie</field>
+    <field name="parent_ssm">aspace_ref205_vie</field>
+    <field name="parent_unittitles_ssm">Series XIV: Accounting and Finance [restricted for 75 years]</field>
+    <field name="parent_unittitles_teim">Series XIV: Accounting and Finance [restricted for 75 years]</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The New York City 100 Records</field>
+    <field name="collection_ssm">The New York City 100 Records</field>
+    <field name="collection_unitid_ssm">MS 444</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 2: "New York City 100 Acct # 1229900" Binder [restricted for 75 years]</field>
+    <field name="unittitle_teim">Subseries 2: "New York City 100 Acct # 1229900" Binder [restricted for 75 years]</field>
+    <field name="unitdate_normal_ssm">1998/1999</field>
+    <field name="unitdate_normal_teim">1998/1999</field>
+    <field name="unitdate_normal_sim">1998/1999</field>
+    <field name="unitdate_inclusive_teim">1998-1999</field>
+    <field name="scopecontent_teim">The binder represented by this subseries is divided into categories and contains copies of New-York Historical Society financial documents concerning invoices paid. Examples of the categories are Advertising, Consultants, Equipment Lease, Printing, Supplies and Website.  Within Box 11, Folder 8 are two copies of an invoice from the CPA firm – Berson &amp; Corrado –responsible for the New York City 100's accounting and tax services.  These invoices were not filed within any category, but were loosely contained in the binder.</field>
+    <field name="ref_ssi">aspace_ref220_rps</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 11</field>
+    <field name="location_si">Box: 11</field>
+    <field name="collection_teim">The New York City 100 Records</field>
+    <field name="collection_unitid_teim">MS 444</field>
+    <field name="series_sim">Series XIV: Accounting and Finance [restricted for 75 years]</field>
+    <field name="series_si">Series XIV: Accounting and Finance [restricted for 75 years] &gt;&gt; Subseries 2: "New York City 100 Acct # 1229900" Binder [restricted for 75 years]</field>
+    <field name="heading_ssm">Subseries 2: "New York City 100 Acct # 1229900" Binder [restricted for 75 years]</field>
+    <field name="unitdate_start_sim">1998</field>
+    <field name="unitdate_start_ssm">1998</field>
+    <field name="unitdate_start_si">1998</field>
+    <field name="unitdate_end_sim">1999</field>
+    <field name="unitdate_end_ssm">1999</field>
+    <field name="unitdate_end_si">1999</field>
+    <field name="unitdate_ssm">Inclusive, 1998-1999</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">179</field>
+  </doc>
+</add>

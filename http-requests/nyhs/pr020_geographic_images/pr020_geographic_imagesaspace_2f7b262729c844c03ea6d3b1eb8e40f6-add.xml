@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr020_geographic_imagesaspace_2f7b262729c844c03ea6d3b1eb8e40f6</field>
+    <field name="ead_ssi">pr020_geographic_images</field>
+    <field name="parent_ssi">aspace_1d6b2a72e456b738f3345367f057ac4e</field>
+    <field name="parent_ssm">aspace_ref7_x99</field>
+    <field name="parent_ssm">aspace_d0933c984d7855240ffc0ca0daae9322</field>
+    <field name="parent_ssm">aspace_1d6b2a72e456b738f3345367f057ac4e</field>
+    <field name="parent_unittitles_ssm">Series II: New York City Views - the Bronx</field>
+    <field name="parent_unittitles_ssm">Subseries IIB: BRONX - FLAT MATERIAL</field>
+    <field name="parent_unittitles_ssm">Bronx - Flat Material - Buildings</field>
+    <field name="parent_unittitles_teim">Series II: New York City Views - the Bronx</field>
+    <field name="parent_unittitles_teim">Subseries IIB: BRONX - FLAT MATERIAL</field>
+    <field name="parent_unittitles_teim">Bronx - Flat Material - Buildings</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_ssm">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_ssm">PR 20</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Churches</field>
+    <field name="unittitle_teim">Churches</field>
+    <field name="scopecontent_teim">St. Ann's Protestant Episcopal Church, St. Ann's Avenue ca. 1873;</field>
+    <field name="scopecontent_teim">St. Edmund's Church, 176th Street;</field>
+    <field name="scopecontent_teim">St. Paul's Chapel, St. Ann's Parish, Morrisania;</field>
+    <field name="scopecontent_teim">St. Peter's Church, Westchester Avenue 1879-80;</field>
+    <field name="scopecontent_teim">Ursuline Convent, East Morrisania;</field>
+    <field name="scopecontent_teim">West Farms Reformed Church, Boston Road 1898</field>
+    <field name="ref_ssi">aspace_2f7b262729c844c03ea6d3b1eb8e40f6</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: FF455</field>
+    <field name="location_si">Folder: FF455</field>
+    <field name="collection_teim">New-York Historical Society collection of geographic images</field>
+    <field name="collection_unitid_teim">PR 20</field>
+    <field name="series_sim">Series II: New York City Views - the Bronx</field>
+    <field name="series_sim">Subseries IIB: BRONX - FLAT MATERIAL</field>
+    <field name="series_sim">Bronx - Flat Material - Buildings</field>
+    <field name="series_si">Series II: New York City Views - the Bronx &gt;&gt; Subseries IIB: BRONX - FLAT MATERIAL &gt;&gt; Bronx - Flat Material - Buildings &gt;&gt; Churches</field>
+    <field name="heading_ssm">Churches</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2022</field>
+  </doc>
+</add>

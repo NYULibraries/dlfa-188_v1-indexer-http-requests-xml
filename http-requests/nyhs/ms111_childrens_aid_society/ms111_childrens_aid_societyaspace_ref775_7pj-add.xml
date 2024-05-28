@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms111_childrens_aid_societyaspace_ref775_7pj</field>
+    <field name="ead_ssi">ms111_childrens_aid_society</field>
+    <field name="parent_ssi">aspace_ref8_3xf</field>
+    <field name="parent_ssm">aspace_ref8_3xf</field>
+    <field name="parent_unittitles_ssm">Series VIII - Real Estate Records</field>
+    <field name="parent_unittitles_teim">Series VIII - Real Estate Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Children's Aid Society records</field>
+    <field name="collection_ssm">Children's Aid Society records</field>
+    <field name="collection_unitid_ssm">MS 111</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Deeds to Bowdoin Farm</field>
+    <field name="unittitle_teim">Deeds to Bowdoin Farm</field>
+    <field name="unitdate_teim">1928, 1941, 1959, 1960, 1962</field>
+    <field name="ref_ssi">aspace_ref775_7pj</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 38, Folder: 35</field>
+    <field name="location_ssm">Folder: 35</field>
+    <field name="location_si">Folder: 35</field>
+    <field name="collection_teim">Children's Aid Society records</field>
+    <field name="collection_unitid_teim">MS 111</field>
+    <field name="series_sim">Series VIII - Real Estate Records</field>
+    <field name="series_si">Series VIII - Real Estate Records &gt;&gt; Deeds to Bowdoin Farm</field>
+    <field name="heading_ssm">Deeds to Bowdoin Farm</field>
+    <field name="unitdate_ssm">1928, 1941, 1959, 1960, 1962</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1396</field>
+  </doc>
+</add>

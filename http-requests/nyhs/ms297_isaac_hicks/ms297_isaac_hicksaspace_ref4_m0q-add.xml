@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_ref4_m0q</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Correspondence</field>
+    <field name="unittitle_teim">Series I: Correspondence</field>
+    <field name="unitdate_normal_ssm">1791/1806</field>
+    <field name="unitdate_normal_teim">1791/1806</field>
+    <field name="unitdate_normal_sim">1791/1806</field>
+    <field name="unitdate_inclusive_teim">1791-1806</field>
+    <field name="scopecontent_teim">This series contains correspondence between Isaac Hicks; Alsop &amp; Hicks; or Hicks &amp; Doughty and their clients. Main topics include payment for goods provided, payment of debt to Alsop &amp; Hicks, and requests for third parties to be paid; as well as requests for goods.  Interspersed throughout this series are a number of loose invoices or records of debts and credits.</field>
+    <field name="scopecontent_teim">Recurring correspondents include, but are not limited to, Thomas Jenkins &amp; Sons; Gardner &amp; Swain; Daniel Paddock; and multiple individuals with the surname "Coffin".  Some of the correspondence are to these individuals as clients, and other as captains of the many ships that Hicks used to transport the goods that he sold.  </field>
+    <field name="scopecontent_teim">The series includes correspondence predominantly from the east coast of the United States, especially Hudson, New York; Newport, Rhode Island; Savannah, Georgia; New Bedford, Massachusetts; Boston, Massachusetts; Philadelphia, Pennsylvania; Baltimore, Maryland; and Nantucket, Massachusetts.  There is also correspondence from Europe and the Carribbean, especially London, England; Liverpool, England; Derry, Ireland; Dublin, Ireland; Cork, Ireland; the West Indies, and Amsterdam, Netherlands.</field>
+    <field name="scopecontent_teim">While most of the correspondence relates to business matters such as the shipping of goods, prices for goods, and the sale of goods, among other things, other topics are also included in the correspondence.  However, there is also correspondence about social, political, and economic issues.  These include how European wars impact the global market, changing political ideologies in Great Britain and Ireland, piracy, and the changing global economy.</field>
+    <field name="scopecontent_teim">Interspersed throughout the series are letters in French, Spanish, and Dutch.  While some are mentioned, most are not.  </field>
+    <field name="scopecontent_teim">Correspondent names and ship names are noted when they appear three times or more within a folder.</field>
+    <field name="ref_ssi">aspace_ref4_m0q</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_si">Series I: Correspondence</field>
+    <field name="heading_ssm">Series I: Correspondence</field>
+    <field name="unitdate_start_sim">1791</field>
+    <field name="unitdate_start_ssm">1791</field>
+    <field name="unitdate_start_si">1791</field>
+    <field name="unitdate_end_sim">1806</field>
+    <field name="unitdate_end_ssm">1806</field>
+    <field name="unitdate_end_si">1806</field>
+    <field name="unitdate_ssm">Inclusive, 1791-1806</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

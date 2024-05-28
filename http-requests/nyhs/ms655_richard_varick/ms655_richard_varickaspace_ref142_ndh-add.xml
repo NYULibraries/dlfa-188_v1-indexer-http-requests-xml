@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms655_richard_varickaspace_ref142_ndh</field>
+    <field name="ead_ssi">ms655_richard_varick</field>
+    <field name="parent_ssi">aspace_ref141_7kx</field>
+    <field name="parent_ssm">aspace_ref141_7kx</field>
+    <field name="parent_unittitles_ssm">Series VI: Genealogies</field>
+    <field name="parent_unittitles_teim">Series VI: Genealogies</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Richard Varick Papers</field>
+    <field name="collection_ssm">Richard Varick Papers</field>
+    <field name="collection_unitid_ssm">MS 655</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Genealogy of Berthoff and Varick families</field>
+    <field name="unittitle_teim">Genealogy of Berthoff and Varick families</field>
+    <field name="unitdate_teim">1780</field>
+    <field name="ref_ssi">aspace_ref142_ndh</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Richard Varick Papers</field>
+    <field name="collection_unitid_teim">MS 655</field>
+    <field name="series_sim">Series VI: Genealogies</field>
+    <field name="series_si">Series VI: Genealogies &gt;&gt; Genealogy of Berthoff and Varick families</field>
+    <field name="heading_ssm">Genealogy of Berthoff and Varick families</field>
+    <field name="unitdate_ssm">1780</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">121</field>
+  </doc>
+</add>

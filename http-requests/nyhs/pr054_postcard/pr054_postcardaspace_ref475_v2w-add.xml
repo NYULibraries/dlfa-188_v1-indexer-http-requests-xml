@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr054_postcardaspace_ref475_v2w</field>
+    <field name="ead_ssi">pr054_postcard</field>
+    <field name="parent_ssi">aspace_ref6_r6e</field>
+    <field name="parent_ssm">aspace_ref6_r6e</field>
+    <field name="parent_unittitles_ssm">Series I. Geographic Locations | United States (except New York)</field>
+    <field name="parent_unittitles_teim">Series I. Geographic Locations | United States (except New York)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_ssm">PR 54</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;Rhode Island&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      Rhode Island
+    </field>
+    <field name="scopecontent_teim">A-B
+Block Island
+C-G
+H-N
+Narragansett Pier</field>
+    <field name="scopecontent_teim">Newport
+Beaches
+Buildings
+Churches
+Historic Houses
+Hurricane, 1938
+Old Stone Mill
+Parks
+Residences
+General</field>
+    <field name="scopecontent_teim">O-P</field>
+    <field name="scopecontent_teim">Providence
+Athenaeum
+Brown University
+Churches
+Libraries
+Parks
+State House
+Streets and Avenues
+General</field>
+    <field name="scopecontent_teim">Q-T
+U-Z
+Watch Hill
+Westerly
+General</field>
+    <field name="ref_ssi">aspace_ref475_v2w</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 77</field>
+    <field name="location_si">Box: 77</field>
+    <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_teim">PR 54</field>
+    <field name="series_sim">Series I. Geographic Locations | United States (except New York)</field>
+    <field name="series_si">Series I. Geographic Locations | United States (except New York) &gt;&gt; 
+      &lt;strong&gt;Rhode Island&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      Rhode Island
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">106</field>
+  </doc>
+</add>

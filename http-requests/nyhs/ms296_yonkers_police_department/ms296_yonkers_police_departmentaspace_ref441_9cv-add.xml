@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms296_yonkers_police_departmentaspace_ref441_9cv</field>
+    <field name="ead_ssi">ms296_yonkers_police_department</field>
+    <field name="parent_ssi">aspace_ref4_cy6</field>
+    <field name="parent_ssm">aspace_ref4_cy6</field>
+    <field name="parent_unittitles_ssm">Series II: Minute Books and Force Book</field>
+    <field name="parent_unittitles_teim">Series II: Minute Books and Force Book</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Yonkers Police Department records</field>
+    <field name="collection_ssm">Yonkers Police Department records</field>
+    <field name="collection_unitid_ssm">MS 296</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">YPD Force Book</field>
+    <field name="unittitle_teim">YPD Force Book</field>
+    <field name="unitdate_teim">circa 1880's - 1904</field>
+    <field name="ref_ssi">aspace_ref441_9cv</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">offsite-volume: 406</field>
+    <field name="location_si">offsite-volume: 406</field>
+    <field name="collection_teim">Yonkers Police Department records</field>
+    <field name="collection_unitid_teim">MS 296</field>
+    <field name="series_sim">Series II: Minute Books and Force Book</field>
+    <field name="series_si">Series II: Minute Books and Force Book &gt;&gt; YPD Force Book</field>
+    <field name="heading_ssm">YPD Force Book</field>
+    <field name="unitdate_ssm">circa 1880's - 1904</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">410</field>
+  </doc>
+</add>

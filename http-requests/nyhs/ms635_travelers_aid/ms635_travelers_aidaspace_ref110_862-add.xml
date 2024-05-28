@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms635_travelers_aidaspace_ref110_862</field>
+    <field name="ead_ssi">ms635_travelers_aid</field>
+    <field name="parent_ssi">aspace_ref107_hgp</field>
+    <field name="parent_ssm">aspace_ref107_hgp</field>
+    <field name="parent_unittitles_ssm">Series IV: Public Relations</field>
+    <field name="parent_unittitles_teim">Series IV: Public Relations</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Travelers Aid Society of New York records</field>
+    <field name="collection_ssm">Travelers Aid Society of New York records</field>
+    <field name="collection_unitid_ssm">MS 635</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Publicity Release Forms</field>
+    <field name="unittitle_teim">Publicity Release Forms</field>
+    <field name="unitdate_inclusive_teim">1970-1972</field>
+    <field name="ref_ssi">aspace_ref110_862</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 6, Folder: 17</field>
+    <field name="location_ssm">Folder: 17</field>
+    <field name="location_si">Folder: 17</field>
+    <field name="collection_teim">Travelers Aid Society of New York records</field>
+    <field name="collection_unitid_teim">MS 635</field>
+    <field name="series_sim">Series IV: Public Relations</field>
+    <field name="series_si">Series IV: Public Relations &gt;&gt; Publicity Release Forms</field>
+    <field name="heading_ssm">Publicity Release Forms</field>
+    <field name="unitdate_ssm">Inclusive, 1970-1972</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">88</field>
+  </doc>
+</add>

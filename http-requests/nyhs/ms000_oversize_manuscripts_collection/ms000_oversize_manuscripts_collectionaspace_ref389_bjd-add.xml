@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms000_oversize_manuscripts_collectionaspace_ref389_bjd</field>
+    <field name="ead_ssi">ms000_oversize_manuscripts_collection</field>
+    <field name="parent_ssi">aspace_ref6_a5t</field>
+    <field name="parent_ssm">aspace_ref6_a5t</field>
+    <field name="parent_unittitles_ssm">Series I. Individual Oversize Manuscripts</field>
+    <field name="parent_unittitles_teim">Series I. Individual Oversize Manuscripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oversize manuscripts collection</field>
+    <field name="collection_ssm">Oversize manuscripts collection</field>
+    <field name="collection_unitid_ssm">MS OS</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Y-1651, January] Land Grant - Peter Stuyvesant to Manuel de Spangie, a free negro</field>
+    <field name="unittitle_teim">[Y-1651, January] Land Grant - Peter Stuyvesant to Manuel de Spangie, a free negro</field>
+    <field name="unitdate_teim">1651 January 18</field>
+    <field name="ref_ssi">aspace_ref389_bjd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">oversize: small, Folder: Y-1651, January (Stuyvesant)</field>
+    <field name="location_ssm">Folder: Y-1651, January (Stuyvesant)</field>
+    <field name="location_si">Folder: Y-1651, January (Stuyvesant)</field>
+    <field name="collection_teim">Oversize manuscripts collection</field>
+    <field name="collection_unitid_teim">MS OS</field>
+    <field name="series_sim">Series I. Individual Oversize Manuscripts</field>
+    <field name="series_si">Series I. Individual Oversize Manuscripts &gt;&gt; [Y-1651, January] Land Grant - Peter Stuyvesant to Manuel de Spangie, a free negro</field>
+    <field name="heading_ssm">[Y-1651, January] Land Grant - Peter Stuyvesant to Manuel de Spangie, a free negro</field>
+    <field name="unitdate_ssm">1651 January 18</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

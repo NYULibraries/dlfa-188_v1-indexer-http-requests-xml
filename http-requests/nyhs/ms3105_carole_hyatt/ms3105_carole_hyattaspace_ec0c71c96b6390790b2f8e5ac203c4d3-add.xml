@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3105_carole_hyattaspace_ec0c71c96b6390790b2f8e5ac203c4d3</field>
+    <field name="ead_ssi">ms3105_carole_hyatt</field>
+    <field name="parent_ssi">aspace_7ffb2b95399d715bd5aee3049e6561eb</field>
+    <field name="parent_ssm">aspace_7ffb2b95399d715bd5aee3049e6561eb</field>
+    <field name="parent_unittitles_ssm">Series III. Audiotapes</field>
+    <field name="parent_unittitles_teim">Series III. Audiotapes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Carole Hyatt papers</field>
+    <field name="collection_ssm">Carole Hyatt papers</field>
+    <field name="collection_unitid_ssm">MS 3105</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries III.A. Audiotapes, Digitized</field>
+    <field name="unittitle_teim">Subseries III.A. Audiotapes, Digitized</field>
+    <field name="unitdate_inclusive_teim">1975-2003, undated</field>
+    <field name="scopecontent_teim">This subseries includes 457 audiotapes in the collection that have been digitized and are available to be listened to on-site at New-York Historical Society. In digital form, these amounted to 914 digital files totaling 1.09 terabytes. The container list identifies all digitized audiotapes, with information taken from the labels on the tapes (that is, no tapes were listened to to determine content). </field>
+    <field name="scopecontent_teim">The title used in the container list is the interviewee name or other core identifying information as found on the tape label and as used to name the related digital files. Generally each tape includes only one interviewee but where multiple names appear, those are included also in the title. Variant forms and spellings of names were common, both from side to side of a tape and among multiple tapes used for an interviewee. Variants were also found between the tapes and related paper documents in the collection. The processing archivist noted some of these variant names, especially where it seemed they might impede discovery. But surely not all variants were noted, nor was any attempt made to reconcile them or determine a single "correct" name to use. Accordingly, users should keep in mind the potential for name variants and be cautious in relying exclusively on keyword searches. </field>
+    <field name="scopecontent_teim">Because it is expected that patrons will only have access to the digital files, not to the physical tapes themselves, all additional information found on the label was transcribed into a note at the file level; these transcriptions are identified in the note within "quotation marks." Information not in quotation marks was supplied by the archivist in an effort to help patrons navigate the material, especially in terms of relating the digital files they will be using to the original tape.</field>
+    <field name="scopecontent_teim">All the tapes are represented in digital form by two files, one for side A and one for side B. This is emphasized in the container list title with the reference to "1 tape/2 files." Some interviews required two or more tapes; when this was clearly identifiable during processing it was noted in the title by such references as "2 tapes/4 files." When the possible connection between tapes was uncertain, the potential connection is referred to in a note at the tape level.</field>
+    <field name="scopecontent_teim">Both sides of all tapes were digitized without regard to, or even knowledge of, whether the second side had content. Accordingly, the second digital file associated with a tape may be, and likely often will be, blank. It is unknown if Hyatt did this consistently, but the labels on the tapes are commonly noted as to whether the second side (Side B) had content and to what extent (e.g., 1/8, full side, etc.). The use of multiple tapes is often indicated by labels referencing side 3, side 4, etc. The presence of such leading indicators was noted by the archivist in the container list. On the other hand, many tapes are labeled on one side only, with nothing noted on Side B. It seems likely that these were indicators that Side B was blank. However, the archivist did not want to imply this, as it might not be the case, and so no reference is made in the notes to the absence of a label on Side B.</field>
+    <field name="scopecontent_teim">Very few of the tapes were labeled to indicate which book or project they related to. However, indexes in the paper files provide this information for some of the tapes. These indexes are found in Series II (folder title "Miscellaneous Lists and Notes about Tapes," Box 9, folder 20). These indexes were used as the source for some of the notes added to the container list by the processing archivist.</field>
+    <field name="ref_ssi">aspace_ec0c71c96b6390790b2f8e5ac203c4d3</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Carole Hyatt papers</field>
+    <field name="collection_unitid_teim">MS 3105</field>
+    <field name="series_sim">Series III. Audiotapes</field>
+    <field name="series_si">Series III. Audiotapes &gt;&gt; Subseries III.A. Audiotapes, Digitized</field>
+    <field name="heading_ssm">Subseries III.A. Audiotapes, Digitized</field>
+    <field name="unitdate_ssm">Inclusive, 1975-2003, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">105</field>
+  </doc>
+</add>

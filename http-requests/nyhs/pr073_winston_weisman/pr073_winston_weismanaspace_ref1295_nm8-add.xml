@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr073_winston_weismanaspace_ref1295_nm8</field>
+    <field name="ead_ssi">pr073_winston_weisman</field>
+    <field name="parent_ssi">aspace_ref1284_csc</field>
+    <field name="parent_ssm">aspace_ref1284_csc</field>
+    <field name="parent_unittitles_ssm">Series III Card Files</field>
+    <field name="parent_unittitles_teim">Series III Card Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Winston Weisman Soho Historic District collection</field>
+    <field name="collection_ssm">Winston Weisman Soho Historic District collection</field>
+    <field name="collection_unitid_ssm">PR 73</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">INTERNATIONAL CITIES</field>
+    <field name="unittitle_teim">INTERNATIONAL CITIES</field>
+    <field name="ref_ssi">aspace_ref1295_nm8</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Winston Weisman Soho Historic District collection</field>
+    <field name="collection_unitid_teim">PR 73</field>
+    <field name="series_sim">Series III Card Files</field>
+    <field name="series_si">Series III Card Files &gt;&gt; INTERNATIONAL CITIES</field>
+    <field name="heading_ssm">INTERNATIONAL CITIES</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">733</field>
+  </doc>
+</add>

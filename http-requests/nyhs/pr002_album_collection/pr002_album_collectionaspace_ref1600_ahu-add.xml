@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1600_ahu</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The Pepsi-Cola Spectacular</field>
+    <field name="unittitle_teim">The Pepsi-Cola Spectacular</field>
+    <field name="unitdate_teim">circa 1955</field>
+    <field name="scopecontent_teim">Album documenting the creation and installation of the Pepsi Cola "spectacular" electric sign in Times Square, featuring a 120 foot waterfall that pumped 50,000 gallons of water a minute.  The sign was designed by Doug Leigh and constructed by Artkraft Strauss Sign Corp.</field>
+    <field name="ref_ssi">aspace_ref1600_ahu</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 404, Volume: 472</field>
+    <field name="location_ssm">Volume: 472</field>
+    <field name="location_si">Volume: 472</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">The Pepsi-Cola Spectacular</field>
+    <field name="heading_ssm">The Pepsi-Cola Spectacular</field>
+    <field name="unitdate_ssm">circa 1955</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">539</field>
+  </doc>
+</add>

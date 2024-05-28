@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms297_isaac_hicksaspace_ref8_qn9</field>
+    <field name="ead_ssi">ms297_isaac_hicks</field>
+    <field name="parent_ssi">aspace_ref5_heu</field>
+    <field name="parent_ssm">aspace_ref4_m0q</field>
+    <field name="parent_ssm">aspace_ref5_heu</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_ssm">
+      Letters: 1791-1793
+    </field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">
+      Letters: 1791-1793
+    </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Isaac Hicks papers</field>
+    <field name="collection_ssm">Isaac Hicks papers</field>
+    <field name="collection_unitid_ssm">MS 297</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Letters: H-K</field>
+    <field name="unittitle_teim">Letters: H-K</field>
+    <field name="unitdate_normal_ssm">1792/1792</field>
+    <field name="unitdate_normal_teim">1792/1792</field>
+    <field name="unitdate_normal_sim">1792/1792</field>
+    <field name="unitdate_inclusive_teim">1792</field>
+    <field name="scopecontent_teim">This folder contains correspondence to Alsop &amp; Hicks from their clients, including Thomas Jenkins &amp; Sons, Jonathan Jenkins, John Jauncey, and George Kelly.  The correspondence primarily discusses the shipment and sale of dry goods, and the settling of accounts.  Some letters include the request to deliver funds to Hicks's old partners, James &amp; Richard Loines, as well as George Kelly informing Hicks that Hicks's goods came too late in the season and so they will be held until the next season instead of being sold upon arrival.</field>
+    <field name="scopecontent_teim">Ships Mentioned:Experiment, Thomas</field>
+    <field name="ref_ssi">aspace_ref8_qn9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Isaac Hicks papers</field>
+    <field name="collection_unitid_teim">MS 297</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_sim">
+      Letters: 1791-1793
+    </field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; 
+      Letters: 1791-1793
+     &gt;&gt; Letters: H-K</field>
+    <field name="heading_ssm">Letters: H-K</field>
+    <field name="unitdate_start_sim">1792</field>
+    <field name="unitdate_start_ssm">1792</field>
+    <field name="unitdate_start_si">1792</field>
+    <field name="unitdate_end_sim">1792</field>
+    <field name="unitdate_end_ssm">1792</field>
+    <field name="unitdate_end_si">1792</field>
+    <field name="unitdate_ssm">Inclusive, 1792</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

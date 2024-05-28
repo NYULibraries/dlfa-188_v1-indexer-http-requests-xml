@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms444_nyc100_recordsaspace_ref152_8vc</field>
+    <field name="ead_ssi">ms444_nyc100_records</field>
+    <field name="parent_ssi">aspace_ref147_fzk</field>
+    <field name="parent_ssm">aspace_ref134_bzv</field>
+    <field name="parent_ssm">aspace_ref147_fzk</field>
+    <field name="parent_unittitles_ssm">Series IX: Program Roster, 1999</field>
+    <field name="parent_unittitles_ssm">Subseries 3: New York City 100 Pop-Up Book</field>
+    <field name="parent_unittitles_teim">Series IX: Program Roster, 1999</field>
+    <field name="parent_unittitles_teim">Subseries 3: New York City 100 Pop-Up Book</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The New York City 100 Records</field>
+    <field name="collection_ssm">The New York City 100 Records</field>
+    <field name="collection_unitid_ssm">MS 444</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">e. Press Clippings</field>
+    <field name="unittitle_teim">e. Press Clippings</field>
+    <field name="unitdate_normal_ssm">1999/2000</field>
+    <field name="unitdate_normal_teim">1999/2000</field>
+    <field name="unitdate_normal_sim">1999/2000</field>
+    <field name="unitdate_inclusive_teim">1999-2000</field>
+    <field name="ref_ssi">aspace_ref152_8vc</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">The New York City 100 Records</field>
+    <field name="collection_unitid_teim">MS 444</field>
+    <field name="series_sim">Series IX: Program Roster, 1999</field>
+    <field name="series_sim">Subseries 3: New York City 100 Pop-Up Book</field>
+    <field name="series_si">Series IX: Program Roster, 1999 &gt;&gt; Subseries 3: New York City 100 Pop-Up Book &gt;&gt; e. Press Clippings</field>
+    <field name="heading_ssm">e. Press Clippings</field>
+    <field name="unitdate_start_sim">1999</field>
+    <field name="unitdate_start_ssm">1999</field>
+    <field name="unitdate_start_si">1999</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 1999-2000</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">118</field>
+  </doc>
+</add>

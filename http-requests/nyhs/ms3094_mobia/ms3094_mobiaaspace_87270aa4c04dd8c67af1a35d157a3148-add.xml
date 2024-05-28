@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms3094_mobiaaspace_87270aa4c04dd8c67af1a35d157a3148</field>
+    <field name="ead_ssi">ms3094_mobia</field>
+    <field name="parent_ssi">aspace_bad2f2d4c454809ee7dc3199985964e6</field>
+    <field name="parent_ssm">aspace_bad2f2d4c454809ee7dc3199985964e6</field>
+    <field name="parent_unittitles_ssm">Series I. Administrative Files</field>
+    <field name="parent_unittitles_teim">Series I. Administrative Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Museum of Biblical Art records</field>
+    <field name="collection_ssm">Museum of Biblical Art records</field>
+    <field name="collection_unitid_ssm">MS 3094</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Miscellaneous (4 folders)</field>
+    <field name="unittitle_teim">Miscellaneous (4 folders)</field>
+    <field name="unitdate_inclusive_teim">1998-2015</field>
+    <field name="ref_ssi">aspace_87270aa4c04dd8c67af1a35d157a3148</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 12, Folder: 4-7</field>
+    <field name="location_ssm">Folder: 4-7</field>
+    <field name="location_si">Folder: 4-7</field>
+    <field name="collection_teim">Museum of Biblical Art records</field>
+    <field name="collection_unitid_teim">MS 3094</field>
+    <field name="series_sim">Series I. Administrative Files</field>
+    <field name="series_si">Series I. Administrative Files &gt;&gt; Miscellaneous (4 folders)</field>
+    <field name="heading_ssm">Miscellaneous (4 folders)</field>
+    <field name="unitdate_ssm">Inclusive, 1998-2015</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">27</field>
+  </doc>
+</add>

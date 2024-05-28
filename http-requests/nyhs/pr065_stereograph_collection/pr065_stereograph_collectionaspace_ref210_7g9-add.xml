@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr065_stereograph_collectionaspace_ref210_7g9</field>
+    <field name="ead_ssi">pr065_stereograph_collection</field>
+    <field name="parent_ssi">aspace_ref11_nv3</field>
+    <field name="parent_ssm">aspace_ref11_nv3</field>
+    <field name="parent_unittitles_ssm">Geographic</field>
+    <field name="parent_unittitles_teim">Geographic</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_ssm">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_ssm">PR 65</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York--Albany</field>
+    <field name="unittitle_teim">New York--Albany</field>
+    <field name="unitdate_inclusive_teim">[1860-1909]</field>
+    <field name="scopecontent_teim">Identifier: PR-065-0196</field>
+    <field name="scopecontent_teim">Albany, N.Y.: the old and new capitol buildings, with interior views of the New, and an image of the architectural model for the new capitol; street views: Broadway looking north, pedestrians in foreground, buildings draped with bunting and a banner mourning the death of Pres. Lincoln, looking up State Street; steamboat moored at People's Line dock; Hospital; Presbyterian Church, including interior view; general view showing industrial buildings and a bridge; row of homes; interior view of Green House at Van Rensellaers; the penitentiary; looking across the Hudson, possibly toward Albany from the east; railroad bridge; man with taxidermied cougars, Free Museum; Steamboat at dock, from the Hudson; men in buggy pulled by mule in the Park; Buffalo Bill parade, 1902, showing stagecoach, cavalry and Indians; Fulton's steamboat, the Clermont, at Albany during the Hudson and Fulton Celebration, 1909; a view of a canal in the vicinity of Albany, probably the Erie Canal near its outlet to the Hudson River.</field>
+    <field name="scopecontent_teim">43 items</field>
+    <field name="ref_ssi">aspace_ref210_7g9</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 22</field>
+    <field name="location_si">Box: 22</field>
+    <field name="collection_teim">New-York Historical Society collection of stereographs</field>
+    <field name="collection_unitid_teim">PR 65</field>
+    <field name="series_sim">Geographic</field>
+    <field name="series_si">Geographic &gt;&gt; New York--Albany</field>
+    <field name="heading_ssm">New York--Albany</field>
+    <field name="unitdate_ssm">Inclusive, [1860-1909]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">197</field>
+  </doc>
+</add>

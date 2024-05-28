@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr014_certificate_collectionaspace_ref292_ahs</field>
+    <field name="ead_ssi">pr014_certificate_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New-York Historical Society collection of certificates</field>
+    <field name="collection_ssm">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_ssm">PR 014</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VI: Financial</field>
+    <field name="unittitle_teim">Series VI: Financial</field>
+    <field name="unitdate_inclusive_teim">1840-1941</field>
+    <field name="scopecontent_teim">This series contains bank notes, stocks and other financial documents. Bank notes
+include those for the Hungarian Fund and an uncut sheet of four bank notes from The Farmers Bank. New
+York stocks include stock in the Brooklyn Union Elevated Railroad, the Coney Island and Brooklyn Railroad
+Company, the New York Pier and Warehouse Company, the Brooklyn-Manhattan Transit Corporation and
+the Bennett Combined Automatic, and Manual Organ Company of New York. Many of these certificates are
+illustrated.</field>
+    <field name="scopecontent_teim">Other financial documents include Confederate States of America coupon bonds, used to raise capital for the war effort; a copy, probably printed as an advertisement, of a life insurance policy for Robert E. Lee, issued
+by the State Mutual Life Insurance Company; and bonds issued by the City of New Orleans.</field>
+    <field name="ref_ssi">aspace_ref292_ahs</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New-York Historical Society collection of certificates</field>
+    <field name="collection_unitid_teim">PR 014</field>
+    <field name="series_si">Series VI: Financial</field>
+    <field name="heading_ssm">Series VI: Financial</field>
+    <field name="unitdate_ssm">Inclusive, 1840-1941</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">85</field>
+  </doc>
+</add>

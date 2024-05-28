@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr064_john_snook_drawingsaspace_b63bf54b2f139834da9be886cb0d8ba1</field>
+    <field name="ead_ssi">pr064_john_snook_drawings</field>
+    <field name="parent_ssi">aspace_a719810d9947d5e4033cfaf35e5ef754</field>
+    <field name="parent_ssm">aspace_b709d3069a3ab69effb16dafef104cd3</field>
+    <field name="parent_ssm">aspace_a719810d9947d5e4033cfaf35e5ef754</field>
+    <field name="parent_unittitles_ssm">Series III: Printed Material from Snook's Library</field>
+    <field name="parent_unittitles_ssm">Books in French</field>
+    <field name="parent_unittitles_teim">Series III: Printed Material from Snook's Library</field>
+    <field name="parent_unittitles_teim">Books in French</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John B. Snook architectural records collection</field>
+    <field name="collection_ssm">John B. Snook architectural records collection</field>
+    <field name="collection_unitid_ssm">PR 64</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Traite de Construction Appliquee a L'Architecture Civile, by J.A. Borgnis </field>
+    <field name="unittitle_teim">Traite de Construction Appliquee a L'Architecture Civile, by J.A. Borgnis </field>
+    <field name="unitdate_inclusive_teim">1840</field>
+    <field name="ref_ssi">aspace_b63bf54b2f139834da9be886cb0d8ba1</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 47</field>
+    <field name="location_si">Offsite-Box: 47</field>
+    <field name="collection_teim">John B. Snook architectural records collection</field>
+    <field name="collection_unitid_teim">PR 64</field>
+    <field name="series_sim">Series III: Printed Material from Snook's Library</field>
+    <field name="series_sim">Books in French</field>
+    <field name="series_si">Series III: Printed Material from Snook's Library &gt;&gt; Books in French &gt;&gt; Traite de Construction Appliquee a L'Architecture Civile, by J.A. Borgnis </field>
+    <field name="heading_ssm">Traite de Construction Appliquee a L'Architecture Civile, by J.A. Borgnis </field>
+    <field name="unitdate_ssm">Inclusive, 1840</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">307</field>
+  </doc>
+</add>

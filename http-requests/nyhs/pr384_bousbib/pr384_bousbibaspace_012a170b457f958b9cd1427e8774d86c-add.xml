@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr384_bousbibaspace_012a170b457f958b9cd1427e8774d86c</field>
+    <field name="ead_ssi">pr384_bousbib</field>
+    <field name="parent_ssi">aspace_86c254638271f37f4b0267dad1025121</field>
+    <field name="parent_ssm">aspace_86c254638271f37f4b0267dad1025121</field>
+    <field name="parent_unittitles_ssm">Series II: Hollywood Studio Photography</field>
+    <field name="parent_unittitles_teim">Series II: Hollywood Studio Photography</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_ssm">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_ssm">PR 384</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries: BERT LONGWORTH</field>
+    <field name="unittitle_teim">Subseries: BERT LONGWORTH</field>
+    <field name="unitdate_inclusive_teim">1933-1946</field>
+    <field name="scopecontent_teim">This subseries contains photographs by Bert Longworth (1893-1964), a Hollywood stills photographer who worked at MGM, Paramount,  Warner Bros., capturing film stars in Busby Berkeley's musicals, off-set publicity photos, and portraits.</field>
+    <field name="scopecontent_teim">Among the subjects included in this subseries are Ralph Bellamy, Rudy Vallee, Irene Manning, James Stewart, Rosalind Russell, and Joe E. Brown.</field>
+    <field name="ref_ssi">aspace_012a170b457f958b9cd1427e8774d86c</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ari and Helene Bousbib collection of photographs</field>
+    <field name="collection_unitid_teim">PR 384</field>
+    <field name="series_sim">Series II: Hollywood Studio Photography</field>
+    <field name="series_si">Series II: Hollywood Studio Photography &gt;&gt; Subseries: BERT LONGWORTH</field>
+    <field name="heading_ssm">Subseries: BERT LONGWORTH</field>
+    <field name="unitdate_ssm">Inclusive, 1933-1946</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">133</field>
+  </doc>
+</add>

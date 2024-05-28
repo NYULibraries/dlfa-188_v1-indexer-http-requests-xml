@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref902_w86</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[E.B. Child album]</field>
+    <field name="unittitle_teim">[E.B. Child album]</field>
+    <field name="unitdate_normal_ssm">1890/1909</field>
+    <field name="unitdate_normal_teim">1890/1909</field>
+    <field name="unitdate_normal_sim">1890/1909</field>
+    <field name="unitdate_inclusive_teim">[1890-1909]</field>
+    <field name="scopecontent_teim">Includes images printed in both gelatin silver and cyanotype, and includes early Kodak views; farm views including winter scenes, men digging a trench, corn field, boy and goat, man with apples, fields, man in false beard with wheelbarrow; street views include a parade, homes, including backyard scenes, man with ponies, carriages; beach scenes and Clason Point Baths, gospel streetcar, and tent meeting, churches; interior views including a Christmas tree; portraits include women with tennis rackes, man with cat, men and women in graduation costume, men in costume or false beards, etc. emoting for the camera; many of the photographs are faded; small. See also album #79-81,101, 149, 154.</field>
+    <field name="ref_ssi">aspace_ref902_w86</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 41, Volume: 274</field>
+    <field name="location_ssm">Volume: 274</field>
+    <field name="location_si">Volume: 274</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[E.B. Child album]</field>
+    <field name="heading_ssm">[E.B. Child album]</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1909</field>
+    <field name="unitdate_end_ssm">1909</field>
+    <field name="unitdate_end_si">1909</field>
+    <field name="unitdate_ssm">Inclusive, [1890-1909]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">310</field>
+  </doc>
+</add>

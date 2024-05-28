@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms8_alexander_papersaspace_ref16_pls</field>
+    <field name="ead_ssi">ms8_alexander_papers</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Alexander papers</field>
+    <field name="collection_ssm">Alexander papers</field>
+    <field name="collection_unitid_ssm">MS 8</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: James Alexander</field>
+    <field name="unittitle_teim">Series 1: James Alexander</field>
+    <field name="unitdate_inclusive_teim">1686-1764</field>
+    <field name="scopecontent_teim">Series 1 consists primarily of correspondence of James Alexander and papers relating to his merchant business. Letters sent by James Alexander (mostly retained copies) are arranged alphabetically by recipient, except in cases where the recipient is unknown. In those cases, the letters are arranged chronologically. Letters received by James Alexander are arranged chronologically. Letters that were unaddressed, but which are docketed in James Alexander's handwriting, are for purposes of this arrangement considered as being addressed to him, and are in Series 1. Letters addressed to groups of persons which specifically include James Alexander are also in Series 1. Retained copies of letters written by James Alexander to more than one recipient are arranged chronologically in this series. One hand-sewn letter book contains letters regarding the "Oblong" or "Equivalent Lands" along the New York - Connecticut border. This item is foldered separately in this series. </field>
+    <field name="scopecontent_teim">Frequent correspondents to James Alexander include Charles Clinton, Cadwallader Colden, John Coxe, Daniel Donaldson Dunstar, a Mr. Dunstar, probably Charles Dunstar, Andrew Johnston, Gilbert, Henry and Robert Livingston, a Mr. Lyell, probably Fenwick Lyell, James Lyne, Robert Hunter Morris, Joseph Murray, David Ogden, Rodrigo Pacheco, John Stevens, and William Watson. </field>
+    <field name="scopecontent_teim">Most of the correspondence has to do with land titles and surveys in New Jersey. Correspondence with Cadwallader Colden concerns an area of the New York -Connecticut border (the "Oblong" or "Equivalent Lands"). Letters to and from Robert Hunter Morris, Joseph Murray and David Ogden pertain primarily to legal matters and specific court cases. Rodrigo Pacheco, a London merchant, frequently shipped goods to, and received goods from, James Alexander. John Stevens corresponded with James Alexander regarding the lease of mines in New Jersey. </field>
+    <field name="ref_ssi">aspace_ref16_pls</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Alexander papers</field>
+    <field name="collection_unitid_teim">MS 8</field>
+    <field name="series_si">Series 1: James Alexander</field>
+    <field name="heading_ssm">Series 1: James Alexander</field>
+    <field name="unitdate_ssm">Inclusive, 1686-1764</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

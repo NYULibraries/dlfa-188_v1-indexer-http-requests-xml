@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms2902_bowers_familyaspace_ref105_1qp</field>
+    <field name="ead_ssi">ms2902_bowers_family</field>
+    <field name="parent_ssi">aspace_ref19_sh4</field>
+    <field name="parent_ssm">aspace_ref4_o0o</field>
+    <field name="parent_ssm">aspace_ref19_sh4</field>
+    <field name="parent_unittitles_ssm">Series II: Legal Papers</field>
+    <field name="parent_unittitles_ssm">Subseries II.A: Property Documents</field>
+    <field name="parent_unittitles_teim">Series II: Legal Papers</field>
+    <field name="parent_unittitles_teim">Subseries II.A: Property Documents</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bowers family papers</field>
+    <field name="collection_ssm">Bowers family papers</field>
+    <field name="collection_unitid_ssm">MS 2902</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Indentures</field>
+    <field name="unittitle_teim">Indentures</field>
+    <field name="unitdate_normal_ssm">1800/1803</field>
+    <field name="unitdate_normal_teim">1800/1803</field>
+    <field name="unitdate_normal_sim">1800/1803</field>
+    <field name="unitdate_inclusive_teim">1800-1803</field>
+    <field name="ref_ssi">aspace_ref105_1qp</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Bowers family papers</field>
+    <field name="collection_unitid_teim">MS 2902</field>
+    <field name="series_sim">Series II: Legal Papers</field>
+    <field name="series_sim">Subseries II.A: Property Documents</field>
+    <field name="series_si">Series II: Legal Papers &gt;&gt; Subseries II.A: Property Documents &gt;&gt; Indentures</field>
+    <field name="heading_ssm">Indentures</field>
+    <field name="unitdate_start_sim">1800</field>
+    <field name="unitdate_start_ssm">1800</field>
+    <field name="unitdate_start_si">1800</field>
+    <field name="unitdate_end_sim">1803</field>
+    <field name="unitdate_end_ssm">1803</field>
+    <field name="unitdate_end_si">1803</field>
+    <field name="unitdate_ssm">Inclusive, 1800-1803</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">22</field>
+  </doc>
+</add>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms235_frey_familyaspace_ref215_0qk</field>
+    <field name="ead_ssi">ms235_frey_family</field>
+    <field name="parent_ssi">aspace_ref214_28n</field>
+    <field name="parent_ssm">aspace_ref14_frd</field>
+    <field name="parent_ssm">aspace_ref214_28n</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence, 1793-1917, undated</field>
+    <field name="parent_unittitles_ssm">Subseries 57. Ives, Jane, 1873-1877, undated</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence, 1793-1917, undated</field>
+    <field name="parent_unittitles_teim">Subseries 57. Ives, Jane, 1873-1877, undated</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Frey Family Papers</field>
+    <field name="collection_ssm">Frey Family Papers</field>
+    <field name="collection_unitid_ssm">MS 235</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Letters sent: Ives, Jane</field>
+    <field name="unittitle_teim">Letters sent: Ives, Jane</field>
+    <field name="unitdate_normal_ssm">1873/1877</field>
+    <field name="unitdate_normal_teim">1873/1877</field>
+    <field name="unitdate_normal_sim">1873/1877</field>
+    <field name="unitdate_inclusive_teim">1873-1877</field>
+    <field name="ref_ssi">aspace_ref215_0qk</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Frey Family Papers</field>
+    <field name="collection_unitid_teim">MS 235</field>
+    <field name="series_sim">Series I: Correspondence, 1793-1917, undated</field>
+    <field name="series_sim">Subseries 57. Ives, Jane, 1873-1877, undated</field>
+    <field name="series_si">Series I: Correspondence, 1793-1917, undated &gt;&gt; Subseries 57. Ives, Jane, 1873-1877, undated &gt;&gt; Letters sent: Ives, Jane</field>
+    <field name="heading_ssm">Letters sent: Ives, Jane</field>
+    <field name="unitdate_start_sim">1873</field>
+    <field name="unitdate_start_ssm">1873</field>
+    <field name="unitdate_start_si">1873</field>
+    <field name="unitdate_end_sim">1877</field>
+    <field name="unitdate_end_ssm">1877</field>
+    <field name="unitdate_end_si">1877</field>
+    <field name="unitdate_ssm">Inclusive, 1873-1877</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">154</field>
+  </doc>
+</add>

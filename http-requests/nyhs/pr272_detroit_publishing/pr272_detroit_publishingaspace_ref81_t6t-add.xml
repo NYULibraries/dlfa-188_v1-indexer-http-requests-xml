@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr272_detroit_publishingaspace_ref81_t6t</field>
+    <field name="ead_ssi">pr272_detroit_publishing</field>
+    <field name="parent_ssi">aspace_ref79_338</field>
+    <field name="parent_ssm">aspace_ref38_h9f</field>
+    <field name="parent_ssm">aspace_ref79_338</field>
+    <field name="parent_unittitles_ssm">Series II: 7 x 9 Inch Prints</field>
+    <field name="parent_unittitles_ssm">Subseries II: Foreign Views</field>
+    <field name="parent_unittitles_teim">Series II: 7 x 9 Inch Prints</field>
+    <field name="parent_unittitles_teim">Subseries II: Foreign Views</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Detroit Publishing Company collection</field>
+    <field name="collection_ssm">Detroit Publishing Company collection</field>
+    <field name="collection_unitid_ssm">PR 272</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Canada</field>
+    <field name="unittitle_teim">Canada</field>
+    <field name="ref_ssi">aspace_ref81_t6t</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 64</field>
+    <field name="location_ssm">Folder: 64</field>
+    <field name="location_si">Folder: 64</field>
+    <field name="collection_teim">Detroit Publishing Company collection</field>
+    <field name="collection_unitid_teim">PR 272</field>
+    <field name="series_sim">Series II: 7 x 9 Inch Prints</field>
+    <field name="series_sim">Subseries II: Foreign Views</field>
+    <field name="series_si">Series II: 7 x 9 Inch Prints &gt;&gt; Subseries II: Foreign Views &gt;&gt; Canada</field>
+    <field name="heading_ssm">Canada</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">70</field>
+  </doc>
+</add>

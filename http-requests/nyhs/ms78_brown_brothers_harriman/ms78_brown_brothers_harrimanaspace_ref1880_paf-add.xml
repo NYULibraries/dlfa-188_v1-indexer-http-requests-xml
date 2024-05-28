@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ms78_brown_brothers_harrimanaspace_ref1880_paf</field>
+    <field name="ead_ssi">ms78_brown_brothers_harriman</field>
+    <field name="parent_ssi">aspace_ref1556_oow</field>
+    <field name="parent_ssm">aspace_ref613_ciw</field>
+    <field name="parent_ssm">aspace_ref1661_998</field>
+    <field name="parent_ssm">aspace_ref1556_oow</field>
+    <field name="parent_unittitles_ssm">Series V. Partners' Papers (1859-1966)</field>
+    <field name="parent_unittitles_ssm">Subseries C. Thatcher M. Brown Papers (1890-1966)</field>
+    <field name="parent_unittitles_ssm">Subseries C.iii. Financial Records (1891-1955)</field>
+    <field name="parent_unittitles_teim">Series V. Partners' Papers (1859-1966)</field>
+    <field name="parent_unittitles_teim">Subseries C. Thatcher M. Brown Papers (1890-1966)</field>
+    <field name="parent_unittitles_teim">Subseries C.iii. Financial Records (1891-1955)</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brown Brothers Harriman records</field>
+    <field name="collection_ssm">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_ssm">MS 78</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Checkbooks (1916-1917, 1920, 1936-1954), cancelled checks (1947-1954)</field>
+    <field name="unittitle_teim">Checkbooks (1916-1917, 1920, 1936-1954), cancelled checks (1947-1954)</field>
+    <field name="unitdate_normal_ssm">1916/1954</field>
+    <field name="unitdate_normal_teim">1916/1954</field>
+    <field name="unitdate_normal_sim">1916/1954</field>
+    <field name="unitdate_inclusive_teim">1916-1954</field>
+    <field name="ref_ssi">aspace_ref1880_paf</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 110</field>
+    <field name="location_si">Offsite-Box: 110</field>
+    <field name="collection_teim">Brown Brothers Harriman records</field>
+    <field name="collection_unitid_teim">MS 78</field>
+    <field name="series_sim">Series V. Partners' Papers (1859-1966)</field>
+    <field name="series_sim">Subseries C. Thatcher M. Brown Papers (1890-1966)</field>
+    <field name="series_sim">Subseries C.iii. Financial Records (1891-1955)</field>
+    <field name="series_si">Series V. Partners' Papers (1859-1966) &gt;&gt; Subseries C. Thatcher M. Brown Papers (1890-1966) &gt;&gt; Subseries C.iii. Financial Records (1891-1955) &gt;&gt; Checkbooks (1916-1917, 1920, 1936-1954), cancelled checks (1947-1954)</field>
+    <field name="heading_ssm">Checkbooks (1916-1917, 1920, 1936-1954), cancelled checks (1947-1954)</field>
+    <field name="unitdate_start_sim">1916</field>
+    <field name="unitdate_start_ssm">1916</field>
+    <field name="unitdate_start_si">1916</field>
+    <field name="unitdate_end_sim">1954</field>
+    <field name="unitdate_end_ssm">1954</field>
+    <field name="unitdate_end_si">1954</field>
+    <field name="unitdate_ssm">Inclusive, 1916-1954</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1794</field>
+  </doc>
+</add>

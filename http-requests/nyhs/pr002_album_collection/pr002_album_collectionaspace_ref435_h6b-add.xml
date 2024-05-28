@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref435_h6b</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Townsend Family album]</field>
+    <field name="unittitle_teim">[Townsend Family album]</field>
+    <field name="unitdate_normal_ssm">1875/1875</field>
+    <field name="unitdate_normal_teim">1875/1875</field>
+    <field name="unitdate_normal_sim">1875/1875</field>
+    <field name="unitdate_inclusive_teim">[1875]</field>
+    <field name="scopecontent_teim">Cabinet card portraits; includes portraits of Van Rensselear, Townsend, Barber, Van Vechten, Martin, Hoffman, Evans, McClennal, Lefferts, Pierson, Talcott, Mann, Randolph families, and others. See also album #51, 136, 268, 272, 273.</field>
+    <field name="ref_ssi">aspace_ref435_h6b</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 15, Volume: 137</field>
+    <field name="location_ssm">Volume: 137</field>
+    <field name="location_si">Volume: 137</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Townsend Family album]</field>
+    <field name="heading_ssm">[Townsend Family album]</field>
+    <field name="unitdate_start_sim">1875</field>
+    <field name="unitdate_start_ssm">1875</field>
+    <field name="unitdate_start_si">1875</field>
+    <field name="unitdate_end_sim">1875</field>
+    <field name="unitdate_end_ssm">1875</field>
+    <field name="unitdate_end_si">1875</field>
+    <field name="unitdate_ssm">Inclusive, [1875]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">145</field>
+  </doc>
+</add>

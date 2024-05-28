@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr048_alexander_hatosaspace_ref26_bnd</field>
+    <field name="ead_ssi">pr048_alexander_hatos</field>
+    <field name="parent_ssi">aspace_ref25_0r8</field>
+    <field name="parent_ssm">aspace_ref25_0r8</field>
+    <field name="parent_unittitles_ssm">Series II: Negatives</field>
+    <field name="parent_unittitles_teim">Series II: Negatives</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alexander Hatos Photograph Collection</field>
+    <field name="collection_ssm">Alexander Hatos Photograph Collection</field>
+    <field name="collection_unitid_ssm">PR 48</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Pennsylvania Station negatives</field>
+    <field name="unittitle_teim">Pennsylvania Station negatives</field>
+    <field name="unitdate_teim">1959</field>
+    <field name="ref_ssi">aspace_ref26_bnd</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 2, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">Alexander Hatos Photograph Collection</field>
+    <field name="collection_unitid_teim">PR 48</field>
+    <field name="series_sim">Series II: Negatives</field>
+    <field name="series_si">Series II: Negatives &gt;&gt; Pennsylvania Station negatives</field>
+    <field name="heading_ssm">Pennsylvania Station negatives</field>
+    <field name="unitdate_ssm">1959</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

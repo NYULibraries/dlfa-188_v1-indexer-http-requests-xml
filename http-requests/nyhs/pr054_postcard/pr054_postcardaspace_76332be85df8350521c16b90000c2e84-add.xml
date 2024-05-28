@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr054_postcardaspace_76332be85df8350521c16b90000c2e84</field>
+    <field name="ead_ssi">pr054_postcard</field>
+    <field name="parent_ssi">aspace_ref8_kng</field>
+    <field name="parent_ssm">aspace_ref8_kng</field>
+    <field name="parent_unittitles_ssm">Series IV. Subjects</field>
+    <field name="parent_unittitles_teim">Series IV. Subjects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_ssm">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_ssm">PR 54</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;strong&gt;Portraits | Military&lt;/strong&gt;
+    </field>
+    <field name="unittitle_teim">
+      Portraits | Military
+    </field>
+    <field name="scopecontent_teim">French
+Scottish
+British</field>
+    <field name="ref_ssi">aspace_76332be85df8350521c16b90000c2e84</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 92</field>
+    <field name="location_si">Box: 92</field>
+    <field name="collection_teim">New-York Historical Society postcard collection [graphic]</field>
+    <field name="collection_unitid_teim">PR 54</field>
+    <field name="series_sim">Series IV. Subjects</field>
+    <field name="series_si">Series IV. Subjects &gt;&gt; 
+      &lt;strong&gt;Portraits | Military&lt;/strong&gt;
+    </field>
+    <field name="heading_ssm">
+      Portraits | Military
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">442</field>
+  </doc>
+</add>

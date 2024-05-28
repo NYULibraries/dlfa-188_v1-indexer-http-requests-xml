@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">pr002_album_collectionaspace_ref1296_39m</field>
+    <field name="ead_ssi">pr002_album_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New-York Historical Society collection of albums</field>
+    <field name="collection_ssm">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_ssm">PR 2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Album of cabinet cards of firemen]</field>
+    <field name="unittitle_teim">[Album of cabinet cards of firemen]</field>
+    <field name="unitdate_normal_ssm">1892/1892</field>
+    <field name="unitdate_normal_teim">1892/1892</field>
+    <field name="unitdate_normal_sim">1892/1892</field>
+    <field name="unitdate_inclusive_teim">[1892]</field>
+    <field name="scopecontent_teim">Most of the firemen are identified; firemen are in uniform, and numbered caps show that they come from a variety of companies including 16, 17, 18,22, 31, etc.; photographers include John Wood, J.K. Cole, Hersey, Dana, Prof. Ehrlich, O'Neil, De Young, H.N. Vaupel, Schwentner, Spamer and Spier, Falk, Fredricks, Tanquerey, Wilkie, Sarony, Naegeli, Schaidner, Frank of New York, U.S. Portrait Co. of Brooklyn, and Weyrich &amp; Maurer of Hillsboro, Ohio.</field>
+    <field name="ref_ssi">aspace_ref1296_39m</field>
+    <field name="repository_ssi">nyhs</field>
+    <field name="repository_sim">nyhs</field>
+    <field name="repository_ssm">nyhs</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Offsite-Box: 92, Volume: 370</field>
+    <field name="location_ssm">Volume: 370</field>
+    <field name="location_si">Volume: 370</field>
+    <field name="collection_teim">New-York Historical Society collection of albums</field>
+    <field name="collection_unitid_teim">PR 2</field>
+    <field name="series_si">[Album of cabinet cards of firemen]</field>
+    <field name="heading_ssm">[Album of cabinet cards of firemen]</field>
+    <field name="unitdate_start_sim">1892</field>
+    <field name="unitdate_start_ssm">1892</field>
+    <field name="unitdate_start_si">1892</field>
+    <field name="unitdate_end_sim">1892</field>
+    <field name="unitdate_end_ssm">1892</field>
+    <field name="unitdate_end_si">1892</field>
+    <field name="unitdate_ssm">Inclusive, [1892]</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">430</field>
+  </doc>
+</add>
