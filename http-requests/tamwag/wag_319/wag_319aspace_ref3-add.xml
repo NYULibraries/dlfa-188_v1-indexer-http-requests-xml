@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_319aspace_ref3</field>
+    <field name="ead_ssi">wag_319</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New York Taxi Workers Alliance Records</field>
+    <field name="collection_ssm">New York Taxi Workers Alliance Records</field>
+    <field name="collection_unitid_ssm">WAG.319</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Legal</field>
+    <field name="unittitle_teim">Series II: Legal</field>
+    <field name="unitdate_normal_ssm">1995/2010</field>
+    <field name="unitdate_normal_teim">1995/2010</field>
+    <field name="unitdate_normal_sim">1995/2010</field>
+    <field name="unitdate_inclusive_teim">1995-2010</field>
+    <field name="scopecontent_teim">This series primarily documents the internal activities of the NYTWA and one of the main services it provides to its members. It contains three types of legal documentation: advocacy cases for individual drivers, larger court, and legal research about topics including immigrant rights, traffic laws, and legal processes. The larger court cases were generally brought against the TLC as well as taxi garages and brokers. The research files attempt to navigate and understand the complicated rules and regulations placed on drivers from the Taxi and Limousine Commission (TLC), the Department of Motor Vehicles (DMV), and the city of New York. </field>
+    <field name="scopecontent_teim">The advocacy cases represent much of the daily work of the NYTWA. Many members find out about and join the organization after seeking their legal help and advice. The office hours of the organization correspond with the schedule of drivers who experience a shift change around 5:00 am and 5:00 pm. Much of this time is spent speaking with drivers about appeals cases and fighting traffic tickets. These individual advocacy cases will be restricted until 2026 for privacy reasons.</field>
+    <field name="ref_ssi">aspace_ref3</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New York Taxi Workers Alliance Records</field>
+    <field name="collection_unitid_teim">WAG.319</field>
+    <field name="series_si">Series II: Legal</field>
+    <field name="heading_ssm">Series II: Legal</field>
+    <field name="unitdate_start_sim">1995</field>
+    <field name="unitdate_start_ssm">1995</field>
+    <field name="unitdate_start_si">1995</field>
+    <field name="unitdate_end_sim">2010</field>
+    <field name="unitdate_end_ssm">2010</field>
+    <field name="unitdate_end_si">2010</field>
+    <field name="unitdate_ssm">Inclusive, 1995-2010</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">196</field>
+  </doc>
+</add>

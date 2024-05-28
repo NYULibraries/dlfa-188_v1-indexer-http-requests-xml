@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_025_003aspace_ref3257</field>
+    <field name="ead_ssi">wag_025_003</field>
+    <field name="parent_ssi">aspace_ref3256</field>
+    <field name="parent_ssm">aspace_ref3256</field>
+    <field name="parent_unittitles_ssm">Series III: Officers and Staff Members</field>
+    <field name="parent_unittitles_teim">Series III: Officers and Staff Members</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jewish Labor Committee Records, Part III</field>
+    <field name="collection_ssm">Jewish Labor Committee Records, Part III</field>
+    <field name="collection_unitid_ssm">WAG.025.003/repositories/2/resources/1291</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Lasar Epstein</field>
+    <field name="unittitle_teim">Subseries A: Lasar Epstein</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/292054</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/292054</field>
+    <field name="unitdate_normal_ssm">1952/1970</field>
+    <field name="unitdate_normal_teim">1952/1970</field>
+    <field name="unitdate_normal_sim">1952/1970</field>
+    <field name="unitdate_inclusive_teim">1952-1970</field>
+    <field name="scopecontent_teim">The papers of Lasar Epstein are largely concerned with aid to overseas refugees and the JLC's attempts to assist Jewish families in locating their relatives in the aftermath of World War II.</field>
+    <field name="bioghist_teim">Lasar Epstein worked in China for twenty years as a representative of the Jewish Labor Bund. During World War II, he coordinated the distribution of aid to European Jews who took refuge in Shanghai. After the war, he moved his family to the United States, where he would join the JLC staff.</field>
+    <field name="ref_ssi">aspace_ref3257</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jewish Labor Committee Records, Part III</field>
+    <field name="collection_unitid_teim">WAG.025.003/repositories/2/resources/1291</field>
+    <field name="series_sim">Series III: Officers and Staff Members</field>
+    <field name="series_si">Series III: Officers and Staff Members &gt;&gt; Subseries A: Lasar Epstein</field>
+    <field name="heading_ssm">Subseries A: Lasar Epstein</field>
+    <field name="unitdate_start_sim">1952</field>
+    <field name="unitdate_start_ssm">1952</field>
+    <field name="unitdate_start_si">1952</field>
+    <field name="unitdate_end_sim">1970</field>
+    <field name="unitdate_end_ssm">1970</field>
+    <field name="unitdate_end_si">1970</field>
+    <field name="unitdate_ssm">Inclusive, 1952-1970</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">2779</field>
+  </doc>
+</add>

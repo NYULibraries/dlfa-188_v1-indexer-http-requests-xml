@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_006aspace_ref1018</field>
+    <field name="ead_ssi">wag_006</field>
+    <field name="parent_ssi">aspace_ref983</field>
+    <field name="parent_ssm">aspace_ref983</field>
+    <field name="parent_unittitles_ssm">Series IV: Affiliates, 1937-1950</field>
+    <field name="parent_unittitles_teim">Series IV: Affiliates, 1937-1950</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">United Automobile Workers of America, District 65 Records</field>
+    <field name="collection_ssm">United Automobile Workers of America, District 65 Records</field>
+    <field name="collection_unitid_ssm">WAG.006</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV:B: Local 121 (Gas, Coke, Chemical), 1937-1950</field>
+    <field name="unittitle_teim">Subseries IV:B: Local 121 (Gas, Coke, Chemical), 1937-1950</field>
+    <field name="ref_ssi">aspace_ref1018</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">United Automobile Workers of America, District 65 Records</field>
+    <field name="collection_unitid_teim">WAG.006</field>
+    <field name="series_sim">Series IV: Affiliates, 1937-1950</field>
+    <field name="series_si">Series IV: Affiliates, 1937-1950 &gt;&gt; Subseries IV:B: Local 121 (Gas, Coke, Chemical), 1937-1950</field>
+    <field name="heading_ssm">Subseries IV:B: Local 121 (Gas, Coke, Chemical), 1937-1950</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1001</field>
+  </doc>
+</add>

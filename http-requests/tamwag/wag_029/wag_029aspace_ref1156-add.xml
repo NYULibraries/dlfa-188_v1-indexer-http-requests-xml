@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_029aspace_ref1156</field>
+    <field name="ead_ssi">wag_029</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Committee for Occupational Safety and Health (NYCOSH) Records</field>
+    <field name="collection_ssm">New York Committee for Occupational Safety and Health (NYCOSH) Records</field>
+    <field name="collection_unitid_ssm">WAG.029</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV: Archived Websites</field>
+    <field name="unittitle_teim">Series IV: Archived Websites</field>
+    <field name="unitid_teim">cuid8012</field>
+    <field name="unitid_ssm">cuid8012</field>
+    <field name="unitdate_normal_ssm">2007-09-24/2007-09-24</field>
+    <field name="unitdate_normal_teim">2007-09-24/2007-09-24</field>
+    <field name="unitdate_normal_sim">2007-09-24/2007-09-24</field>
+    <field name="unitdate_teim">September 2007-ongoing</field>
+    <field name="scopecontent_teim">New York Committee for Occupational Safety and Health (NYCOSH), founded in 1980, is a non-profit coalition of 200 local unions and more than 400 individual workers, physicians, lawyers and other health and safety activists dedicated to the right of worker safety on the job. NYCOSH operates throughout New York City, Long Island and the Lower Hudson Valley. The website gives information and assistance for those injured on the job and other training and safety resources. This series also includes the Twitter feed for NYCOSH, which highlights news on workers health and safety from New York State.</field>
+    <field name="scopecontent_teim">Also includes the website for the, NY Healthy Nail Salon Coalition, which was founded by organizations Adhikaar and the New York Committee for Occupational Safety and Health (NYCOSH) in 2014. The Coalition works to combat wage theft, health and safety violations, and other abuses in the nail salon industry. The Coalition eliminated the tipped sub-minimum wage for nail salon workers in 2019. They work through organizing, campaigns, and training. The website contains news and press releases from the Coalition, action campaigns, information on the Nail Salon Minimum Standards Council Act, and other resources. </field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of https://nycosh.org/ in order to remain within the collection scope and data constraints. </field>
+    <field name="appraisal_teim">The collection was expanded to include th NYCOSH Twitter feed.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">New York Committee for Occupational Safety and Health Archived Website: September 2007-ongoing</field>
+    <field name="dao_teim">New York Committee for Occupational Safety and Health (NYCOSH) Twitter Archived Website: January 2021-ongoing</field>
+    <field name="dao_teim">NY Healthy Nail Salon Coalition Archived Website: April 2022-ongoing</field>
+    <field name="dao_ssm">New York Committee for Occupational Safety and Health Archived Website: September 2007-ongoing</field>
+    <field name="dao_ssm">New York Committee for Occupational Safety and Health (NYCOSH) Twitter Archived Website: January 2021-ongoing</field>
+    <field name="dao_ssm">NY Healthy Nail Salon Coalition Archived Website: April 2022-ongoing</field>
+    <field name="ref_ssi">aspace_ref1156</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York Committee for Occupational Safety and Health (NYCOSH) Records</field>
+    <field name="collection_unitid_teim">WAG.029</field>
+    <field name="series_si">Series IV: Archived Websites</field>
+    <field name="heading_ssm">Series IV: Archived Websites</field>
+    <field name="unitdate_ssm">September 2007-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">338</field>
+  </doc>
+</add>

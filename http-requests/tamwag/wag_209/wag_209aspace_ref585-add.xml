@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_209aspace_ref585</field>
+    <field name="ead_ssi">wag_209</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">American Guild of Musical Artists Records</field>
+    <field name="collection_ssm">American Guild of Musical Artists Records</field>
+    <field name="collection_unitid_ssm">WAG.209</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Archived Websites</field>
+    <field name="unittitle_teim">Series V: Archived Websites</field>
+    <field name="unitdate_normal_ssm">2007-09-23/2007-09-23</field>
+    <field name="unitdate_normal_teim">2007-09-23/2007-09-23</field>
+    <field name="unitdate_normal_sim">2007-09-23/2007-09-23</field>
+    <field name="unitdate_teim">September 2007-ongoing</field>
+    <field name="scopecontent_teim">The American Guild of Musical Artists, AFL-CIO (AGMA), founded in 1936, is an American labor union that represents 8,000 current and retired opera singers, ballet and other dancers, opera directors, backstage production personnel at opera and dance companies, and figure skaters. AGMA is a branch of Associated Actors and Artistes of America. Earliest crawls of the website date from 2007, but the site is not naviagable until circa 2009. This iteration of the website contained news, contracts, audition information, board members, image galleries, and signatory institutions. In circa 2017-2018, the website went through a major redeisgn and included much content about the union, and included digitized copies of their publication AGMAzine, explainers for new members, polices on sexual harassement, visa consultation services, auditions listings, agreements and contracts, elections, news and event listings, and information on meetings and board members.</field>
+    <field name="scopecontent_teim">AGMA Funds is a site that hosts informational resources about health and retirement benefits available to members of the American Guild of Musical Artists. It features FAQs and enrollment forms for a variety of benefit plans including health, dental, retirement, and pensions. The site also includes external links to Aetna resources and administrative information for plan administrators.</field>
+    <field name="scopecontent_teim">The AGMA Relief Fund provides resources to American Guild of Musical Artists (AGMA) members in need, specifically surrounding the loss of work and money due to performance sector COVID-19 related closures. The website includes donation information, eligibility and application process, testimonials from recipients of the fund, and a newsletter.</field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of musicalartists.org, agmarelief.org, and agmafunds.org in order to remain within the collection scope and data constraints.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">American Guild of Musical Artists (AGMA) Archived Website: September 2007-ongoing</field>
+    <field name="dao_teim">AGMA Funds Archived Website: April-October 2019</field>
+    <field name="dao_teim">AGMA Relief Fund Archived Website: April 2020-ongoing</field>
+    <field name="dao_ssm">American Guild of Musical Artists (AGMA) Archived Website: September 2007-ongoing</field>
+    <field name="dao_ssm">AGMA Funds Archived Website: April-October 2019</field>
+    <field name="dao_ssm">AGMA Relief Fund Archived Website: April 2020-ongoing</field>
+    <field name="ref_ssi">aspace_ref585</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">American Guild of Musical Artists Records</field>
+    <field name="collection_unitid_teim">WAG.209</field>
+    <field name="series_si">Series V: Archived Websites</field>
+    <field name="heading_ssm">Series V: Archived Websites</field>
+    <field name="unitdate_ssm">September 2007-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">561</field>
+  </doc>
+</add>

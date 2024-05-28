@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_319aspace_ref4</field>
+    <field name="ead_ssi">wag_319</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New York Taxi Workers Alliance Records</field>
+    <field name="collection_ssm">New York Taxi Workers Alliance Records</field>
+    <field name="collection_unitid_ssm">WAG.319</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III: Administrative</field>
+    <field name="unittitle_teim">Series III: Administrative</field>
+    <field name="unitdate_normal_ssm">1972/2012</field>
+    <field name="unitdate_normal_ssm">1998/2010</field>
+    <field name="unitdate_normal_teim">1972/2012</field>
+    <field name="unitdate_normal_teim">1998/2010</field>
+    <field name="unitdate_normal_sim">1972/2012</field>
+    <field name="unitdate_normal_sim">1998/2010</field>
+    <field name="unitdate_bulk_teim">1998-2010</field>
+    <field name="unitdate_inclusive_teim">1972-2012</field>
+    <field name="scopecontent_teim">This series represents the administrative work of the NYTWA and the industry research that does not directly relate to campaigns. The series is grouped in four major categories: clippings, financial documents, related organizations, and publications. </field>
+    <field name="scopecontent_teim">The clippings are one of the only ways this collectiond documents the outcome of the NYTWA campaign and advocacy efforts. They contain many minor New York City newspaper such as the Queens Chronicle as well as now defunct newspapers such as the The New York Sun. The clippings also include print outs of online news agencies and blogs. They document the public attitude toward the taxi industry, the technology changes throughout the 2000s, and human interest stories about cab drivers. The clippings often come from publicatiosn geared toward specific ethnic groups, including India Daily and New India Times. </field>
+    <field name="scopecontent_teim">The financial documents are all reating to grant funding from foundations. They contain applications, correspondence, and research that document the ways the NYTWA supported their staff and daily activities and new projects. The folders relating to organizations document outreach to related groups and project partnerships. Lasly, this series contains runs of publications relating to the industry. Of particular note the NYTWA's own newsletter Shift Change. Other publications are produced by competing groups in the taxi industry, including the Taxi Insider newspaper, published by the fleet owner operated Committee for Taxi Safety. </field>
+    <field name="ref_ssi">aspace_ref4</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New York Taxi Workers Alliance Records</field>
+    <field name="collection_unitid_teim">WAG.319</field>
+    <field name="series_si">Series III: Administrative</field>
+    <field name="heading_ssm">Series III: Administrative</field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_sim">1998</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_ssm">1998</field>
+    <field name="unitdate_start_si">1998</field>
+    <field name="unitdate_end_sim">2012</field>
+    <field name="unitdate_end_sim">2010</field>
+    <field name="unitdate_end_ssm">2012</field>
+    <field name="unitdate_end_ssm">2010</field>
+    <field name="unitdate_end_si">2010</field>
+    <field name="unitdate_ssm">Inclusive, 1972-2012 ; 1998-2010</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">262</field>
+  </doc>
+</add>

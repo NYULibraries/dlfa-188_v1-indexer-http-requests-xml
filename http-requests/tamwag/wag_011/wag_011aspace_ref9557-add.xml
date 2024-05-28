@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_011aspace_ref9557</field>
+    <field name="ead_ssi">wag_011</field>
+    <field name="parent_ssi">aspace_ref7194</field>
+    <field name="parent_ssm">aspace_ref7194</field>
+    <field name="parent_unittitles_ssm">Series VI: Claims</field>
+    <field name="parent_unittitles_teim">Series VI: Claims</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Actors' Equity Association Records</field>
+    <field name="collection_ssm">Actors' Equity Association Records</field>
+    <field name="collection_unitid_ssm">WAG.011/repositories/2/resources/1275</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">&lt;em&gt;Western Waters&lt;/em&gt;Company: salary claims</field>
+    <field name="unittitle_teim">Western WatersCompany: salary claims</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/273174</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/273174</field>
+    <field name="unitdate_normal_ssm">1937/1937</field>
+    <field name="unitdate_normal_teim">1937/1937</field>
+    <field name="unitdate_normal_sim">1937/1937</field>
+    <field name="unitdate_inclusive_teim">1937</field>
+    <field name="title_teim">Western Waters</field>
+    <field name="title_ssm">Western Waters</field>
+    <field name="ref_ssi">aspace_ref9557</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 323, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Actors' Equity Association Records</field>
+    <field name="collection_unitid_teim">WAG.011/repositories/2/resources/1275</field>
+    <field name="series_sim">Series VI: Claims</field>
+    <field name="series_si">Series VI: Claims &gt;&gt; &lt;em&gt;Western Waters&lt;/em&gt;Company: salary claims</field>
+    <field name="heading_ssm">Western WatersCompany: salary claims</field>
+    <field name="unitdate_start_sim">1937</field>
+    <field name="unitdate_start_ssm">1937</field>
+    <field name="unitdate_start_si">1937</field>
+    <field name="unitdate_end_sim">1937</field>
+    <field name="unitdate_end_ssm">1937</field>
+    <field name="unitdate_end_si">1937</field>
+    <field name="unitdate_ssm">Inclusive, 1937</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">9582</field>
+  </doc>
+</add>

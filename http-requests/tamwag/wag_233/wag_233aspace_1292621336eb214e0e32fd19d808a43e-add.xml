@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_233aspace_1292621336eb214e0e32fd19d808a43e</field>
+    <field name="ead_ssi">wag_233</field>
+    <field name="parent_ssi">aspace_a6aa7183e4aa242486543f51909a3d44</field>
+    <field name="parent_ssm">aspace_a6aa7183e4aa242486543f51909a3d44</field>
+    <field name="parent_unittitles_ssm">Series II: Office records</field>
+    <field name="parent_unittitles_teim">Series II: Office records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Janet Greene Papers on the Harry Van Arsdale Labor History Project</field>
+    <field name="collection_ssm">Janet Greene Papers on the Harry Van Arsdale Labor History Project</field>
+    <field name="collection_unitid_ssm">WAG.233</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Rubin, Don - World Trade Center</field>
+    <field name="unittitle_teim">Rubin, Don - World Trade Center</field>
+    <field name="unitid_teim">cuid34956</field>
+    <field name="unitid_ssm">cuid34956</field>
+    <field name="unitdate_normal_ssm">1984/2002</field>
+    <field name="unitdate_normal_teim">1984/2002</field>
+    <field name="unitdate_normal_sim">1984/2002</field>
+    <field name="unitdate_inclusive_teim">1984-2002</field>
+    <field name="dao_teim">Rubin, Don - World Trade Center: 1996, 1999</field>
+    <field name="dao_ssm">Rubin, Don - World Trade Center: 1996, 1999</field>
+    <field name="ref_ssi">aspace_1292621336eb214e0e32fd19d808a43e</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: TW_WAG_233_ER_7</field>
+    <field name="location_ssm">E-records: TW_WAG_233_ER_7</field>
+    <field name="location_si">E-records: TW_WAG_233_ER_7</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Janet Greene Papers on the Harry Van Arsdale Labor History Project</field>
+    <field name="collection_unitid_teim">WAG.233</field>
+    <field name="series_sim">Series II: Office records</field>
+    <field name="series_si">Series II: Office records &gt;&gt; Rubin, Don - World Trade Center</field>
+    <field name="heading_ssm">Rubin, Don - World Trade Center</field>
+    <field name="unitdate_start_sim">1984</field>
+    <field name="unitdate_start_ssm">1984</field>
+    <field name="unitdate_start_si">1984</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 1984-2002</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

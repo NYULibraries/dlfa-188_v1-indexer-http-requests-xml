@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_087aspace_ref548</field>
+    <field name="ead_ssi">wag_087</field>
+    <field name="parent_ssi">aspace_ref856</field>
+    <field name="parent_ssm">aspace_ref47</field>
+    <field name="parent_ssm">aspace_ref856</field>
+    <field name="parent_unittitles_ssm">Series II: Union Democracy Cases</field>
+    <field name="parent_unittitles_ssm">Subseries C: Maritime</field>
+    <field name="parent_unittitles_teim">Series II: Union Democracy Cases</field>
+    <field name="parent_unittitles_teim">Subseries C: Maritime</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Burton Hall Papers</field>
+    <field name="collection_ssm">Burton Hall Papers</field>
+    <field name="collection_unitid_ssm">WAG.087</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">International Longshoremen's Association (ILA)</field>
+    <field name="unittitle_teim">International Longshoremen's Association (ILA)</field>
+    <field name="ref_ssi">aspace_ref548</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Burton Hall Papers</field>
+    <field name="collection_unitid_teim">WAG.087</field>
+    <field name="series_sim">Series II: Union Democracy Cases</field>
+    <field name="series_sim">Subseries C: Maritime</field>
+    <field name="series_si">Series II: Union Democracy Cases &gt;&gt; Subseries C: Maritime &gt;&gt; International Longshoremen's Association (ILA)</field>
+    <field name="heading_ssm">International Longshoremen's Association (ILA)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">513</field>
+  </doc>
+</add>

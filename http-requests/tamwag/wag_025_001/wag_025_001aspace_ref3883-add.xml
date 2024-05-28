@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_025_001aspace_ref3883</field>
+    <field name="ead_ssi">wag_025_001</field>
+    <field name="parent_ssi">aspace_ref3882</field>
+    <field name="parent_ssm">aspace_ref4036</field>
+    <field name="parent_ssm">aspace_ref3882</field>
+    <field name="parent_unittitles_ssm">Series V: Supplement</field>
+    <field name="parent_unittitles_ssm">Subseries V:A: JLC Publications</field>
+    <field name="parent_unittitles_teim">Series V: Supplement</field>
+    <field name="parent_unittitles_teim">Subseries V:A: JLC Publications</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jewish Labor Committee Records, Part I</field>
+    <field name="collection_ssm">Jewish Labor Committee Records, Part I</field>
+    <field name="collection_unitid_ssm">WAG.025.001/repositories/2/resources/1289</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub Subseries V:A:1: Periodicals (arranged chronologically within each title)</field>
+    <field name="unittitle_teim">Sub Subseries V:A:1: Periodicals (arranged chronologically within each title)</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/286429</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/286429</field>
+    <field name="ref_ssi">aspace_ref3883</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jewish Labor Committee Records, Part I</field>
+    <field name="collection_unitid_teim">WAG.025.001/repositories/2/resources/1289</field>
+    <field name="series_sim">Series V: Supplement</field>
+    <field name="series_sim">Subseries V:A: JLC Publications</field>
+    <field name="series_si">Series V: Supplement &gt;&gt; Subseries V:A: JLC Publications &gt;&gt; Sub Subseries V:A:1: Periodicals (arranged chronologically within each title)</field>
+    <field name="heading_ssm">Sub Subseries V:A:1: Periodicals (arranged chronologically within each title)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1949</field>
+  </doc>
+</add>

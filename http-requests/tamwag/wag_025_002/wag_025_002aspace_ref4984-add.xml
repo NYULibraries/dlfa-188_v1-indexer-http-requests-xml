@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_025_002aspace_ref4984</field>
+    <field name="ead_ssi">wag_025_002</field>
+    <field name="parent_ssi">aspace_ref2763</field>
+    <field name="parent_ssm">aspace_ref2763</field>
+    <field name="parent_unittitles_ssm">Series IV: Immigration, Resettlement and Refugee Aid</field>
+    <field name="parent_unittitles_teim">Series IV: Immigration, Resettlement and Refugee Aid</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jewish Labor Committee Records, Part II</field>
+    <field name="collection_ssm">Jewish Labor Committee Records, Part II</field>
+    <field name="collection_unitid_ssm">WAG.025.002/repositories/2/resources/1290</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV:B: German-Austrian Reparations Files</field>
+    <field name="unittitle_teim">Subseries IV:B: German-Austrian Reparations Files</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/289008</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/289008</field>
+    <field name="ref_ssi">aspace_ref4984</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jewish Labor Committee Records, Part II</field>
+    <field name="collection_unitid_teim">WAG.025.002/repositories/2/resources/1290</field>
+    <field name="series_sim">Series IV: Immigration, Resettlement and Refugee Aid</field>
+    <field name="series_si">Series IV: Immigration, Resettlement and Refugee Aid &gt;&gt; Subseries IV:B: German-Austrian Reparations Files</field>
+    <field name="heading_ssm">Subseries IV:B: German-Austrian Reparations Files</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2505</field>
+  </doc>
+</add>

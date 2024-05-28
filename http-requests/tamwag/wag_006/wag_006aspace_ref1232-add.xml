@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_006aspace_ref1232</field>
+    <field name="ead_ssi">wag_006</field>
+    <field name="parent_ssi">aspace_ref1229</field>
+    <field name="parent_ssm">aspace_ref1182</field>
+    <field name="parent_ssm">aspace_ref1229</field>
+    <field name="parent_unittitles_ssm">Series VII: Shop Files, 1937-1971 (Box 68 - 154)</field>
+    <field name="parent_unittitles_ssm">
+      ADM-AMERICAN D
+    </field>
+    <field name="parent_unittitles_teim">Series VII: Shop Files, 1937-1971 (Box 68 - 154)</field>
+    <field name="parent_unittitles_teim">
+      ADM-AMERICAN D
+    </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">United Automobile Workers of America, District 65 Records</field>
+    <field name="collection_ssm">United Automobile Workers of America, District 65 Records</field>
+    <field name="collection_unitid_ssm">WAG.006</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Advance Fabrics Gov't Supplies</field>
+    <field name="unittitle_teim">Advance Fabrics Gov't Supplies</field>
+    <field name="unitdate_normal_ssm">1958/1964</field>
+    <field name="unitdate_normal_teim">1958/1964</field>
+    <field name="unitdate_normal_sim">1958/1964</field>
+    <field name="unitdate_inclusive_teim">1958-1964</field>
+    <field name="ref_ssi">aspace_ref1232</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 70, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">United Automobile Workers of America, District 65 Records</field>
+    <field name="collection_unitid_teim">WAG.006</field>
+    <field name="series_sim">Series VII: Shop Files, 1937-1971 (Box 68 - 154)</field>
+    <field name="series_sim">
+      ADM-AMERICAN D
+    </field>
+    <field name="series_si">Series VII: Shop Files, 1937-1971 (Box 68 - 154) &gt;&gt; 
+      ADM-AMERICAN D
+     &gt;&gt; Advance Fabrics Gov't Supplies</field>
+    <field name="heading_ssm">Advance Fabrics Gov't Supplies</field>
+    <field name="unitdate_start_sim">1958</field>
+    <field name="unitdate_start_ssm">1958</field>
+    <field name="unitdate_start_si">1958</field>
+    <field name="unitdate_end_sim">1964</field>
+    <field name="unitdate_end_ssm">1964</field>
+    <field name="unitdate_end_si">1964</field>
+    <field name="unitdate_ssm">Inclusive, 1958-1964</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1214</field>
+  </doc>
+</add>

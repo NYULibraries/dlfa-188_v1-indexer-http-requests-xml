@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_031aspace_ref2979</field>
+    <field name="ead_ssi">wag_031</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York State AFL-CIO Records</field>
+    <field name="collection_ssm">New York State AFL-CIO Records</field>
+    <field name="collection_unitid_ssm">WAG.031/repositories/2/resources/1297</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Archived Websites</field>
+    <field name="unittitle_teim">Archived Websites</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/303654</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/303654</field>
+    <field name="unitdate_teim">September 2007-ongoing</field>
+    <field name="scopecontent_teim">The New York State AFL-CIO, in 1958, is the federation of labor unions in New York State affiliated with the AFL-CIO (American Federation of Labor-Congress of Industrial Organizations). The website contains information on their legislative action campaigns, press releases, regional and state news, endorsements, council members and other councils, and event listings. Crawling of the website began in 2007.</field>
+    <field name="scopecontent_teim">Also includes Union Strong, the podcast of the New York State AFL-CIO. It is published biweekly and focuses on issues facing union members and how being in a union benefits workers.</field>
+    <field name="scopecontent_teim">The YouTube channel for the New York State AFL-CIO, dates back to 2007. Includes videos from their podcast Union Strong, convention speeches, and political action and endorsement videos. </field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of nysaflcio.org and podbean.com in order to remain within the collection scope and data constraints. Facebook was blocked.</field>
+    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored with the permission of the content owner. </field>
+    <field name="appraisal_teim">Flipbook documents were captured, but unable to be played back in browser.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">New York State AFL-CIO Archived Website: September 24, 2007-ongoing</field>
+    <field name="dao_teim">New York State AFL-CIO Union Strong Podcast Archived Website: April 2020-ongoing</field>
+    <field name="dao_teim">New York State AFL-CIO YouTube Channel Archived Website: May 2022-March 2023</field>
+    <field name="dao_teim">New York State AFL-CIO YouTube Channel Archived Website: October 2023-ongoing</field>
+    <field name="dao_ssm">New York State AFL-CIO Archived Website: September 24, 2007-ongoing</field>
+    <field name="dao_ssm">New York State AFL-CIO Union Strong Podcast Archived Website: April 2020-ongoing</field>
+    <field name="dao_ssm">New York State AFL-CIO YouTube Channel Archived Website: May 2022-March 2023</field>
+    <field name="dao_ssm">New York State AFL-CIO YouTube Channel Archived Website: October 2023-ongoing</field>
+    <field name="ref_ssi">aspace_ref2979</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York State AFL-CIO Records</field>
+    <field name="collection_unitid_teim">WAG.031/repositories/2/resources/1297</field>
+    <field name="series_si">Archived Websites</field>
+    <field name="heading_ssm">Archived Websites</field>
+    <field name="unitdate_ssm">September 2007-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2968</field>
+  </doc>
+</add>

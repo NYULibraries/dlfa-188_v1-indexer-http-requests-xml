@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_178aspace_ref25</field>
+    <field name="ead_ssi">wag_178</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Screen Actors Guild, New York Branch Records</field>
+    <field name="collection_ssm">Screen Actors Guild, New York Branch Records</field>
+    <field name="collection_unitid_ssm">WAG.178</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV: National Board of Directors</field>
+    <field name="unittitle_teim">Series IV: National Board of Directors</field>
+    <field name="unitdate_normal_ssm">1965/1974</field>
+    <field name="unitdate_normal_teim">1965/1974</field>
+    <field name="unitdate_normal_sim">1965/1974</field>
+    <field name="unitdate_inclusive_teim">1965-1974</field>
+    <field name="scopecontent_teim">The minutes for the following dates are missing: Dec. 1965; Jan. — May 1966 and Oct.14, 1966; Jan. Z3, Feb.13 and Dec. 18, 1967; Jan. 6 and Oct. 13, 1969; June 28, 1971; and Nov. 1973—Oct. 1974.</field>
+    <field name="ref_ssi">aspace_ref25</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Screen Actors Guild, New York Branch Records</field>
+    <field name="collection_unitid_teim">WAG.178</field>
+    <field name="series_si">Series IV: National Board of Directors</field>
+    <field name="heading_ssm">Series IV: National Board of Directors</field>
+    <field name="unitdate_start_sim">1965</field>
+    <field name="unitdate_start_ssm">1965</field>
+    <field name="unitdate_start_si">1965</field>
+    <field name="unitdate_end_sim">1974</field>
+    <field name="unitdate_end_ssm">1974</field>
+    <field name="unitdate_end_si">1974</field>
+    <field name="unitdate_ssm">Inclusive, 1965-1974</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">53</field>
+  </doc>
+</add>

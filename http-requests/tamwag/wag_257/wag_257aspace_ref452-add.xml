@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_257aspace_ref452</field>
+    <field name="ead_ssi">wag_257</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series I: New York City, Regional Theatres and Touring Productions/Companies</field>
+    <field name="parent_unittitles_teim">Series I: New York City, Regional Theatres and Touring Productions/Companies</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Actors' Equity Association Theatrical Programs</field>
+    <field name="collection_ssm">Actors' Equity Association Theatrical Programs</field>
+    <field name="collection_unitid_ssm">WAG.257</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Dark of the Moon&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Dark of the Moon
+    </field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="title_teim">Dark of the Moon</field>
+    <field name="title_ssm">Dark of the Moon</field>
+    <field name="ref_ssi">aspace_ref452</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, Folder: 21</field>
+    <field name="location_ssm">Folder: 21</field>
+    <field name="location_si">Folder: 21</field>
+    <field name="collection_teim">Actors' Equity Association Theatrical Programs</field>
+    <field name="collection_unitid_teim">WAG.257</field>
+    <field name="series_sim">Series I: New York City, Regional Theatres and Touring Productions/Companies</field>
+    <field name="series_si">Series I: New York City, Regional Theatres and Touring Productions/Companies &gt;&gt; 
+      &lt;em&gt;Dark of the Moon&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Dark of the Moon
+    </field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">440</field>
+  </doc>
+</add>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_196aspace_ref372</field>
+    <field name="ead_ssi">wag_196</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Building Trades Employers Association Records</field>
+    <field name="collection_ssm">Building Trades Employers Association Records</field>
+    <field name="collection_unitid_ssm">WAG.196</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III: Mediations and Arbitrations: 2013 Accession</field>
+    <field name="unittitle_teim">Series III: Mediations and Arbitrations: 2013 Accession</field>
+    <field name="unitid_teim">2013.024</field>
+    <field name="unitid_ssm">2013.024</field>
+    <field name="unitdate_normal_ssm">1989/2011</field>
+    <field name="unitdate_normal_ssm">2000/2011</field>
+    <field name="unitdate_normal_teim">1989/2011</field>
+    <field name="unitdate_normal_teim">2000/2011</field>
+    <field name="unitdate_normal_sim">1989/2011</field>
+    <field name="unitdate_normal_sim">2000/2011</field>
+    <field name="unitdate_bulk_teim">2000-2011</field>
+    <field name="unitdate_inclusive_teim">1989-2011</field>
+    <field name="scopecontent_teim">Series 3 was added to the collection in 2013 and contains mediation and arbitration files created between 1989 and 2011. The boxes labeled "Arbitrations" contain bound transcprits, many of which are accompanied by three ring binders of official evidence. Mediation files are less formal and contain a wide range of documentation including, court papers, correspondence, and evidence relating to each suit. Please note that boxes labeled "Mediation" may also contain arbitrations as many disputes initially intended to be resolved as mediations ultimately ended in arbitration.</field>
+    <field name="ref_ssi">aspace_ref372</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Building Trades Employers Association Records</field>
+    <field name="collection_unitid_teim">WAG.196</field>
+    <field name="series_si">Series III: Mediations and Arbitrations: 2013 Accession</field>
+    <field name="heading_ssm">Series III: Mediations and Arbitrations: 2013 Accession</field>
+    <field name="unitdate_start_sim">1989</field>
+    <field name="unitdate_start_sim">2000</field>
+    <field name="unitdate_start_ssm">1989</field>
+    <field name="unitdate_start_ssm">2000</field>
+    <field name="unitdate_start_si">2000</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, 1989-2011 ; 2000-2011</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">345</field>
+  </doc>
+</add>

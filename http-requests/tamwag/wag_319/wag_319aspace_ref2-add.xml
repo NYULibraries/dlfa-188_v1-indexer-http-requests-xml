@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_319aspace_ref2</field>
+    <field name="ead_ssi">wag_319</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">New York Taxi Workers Alliance Records</field>
+    <field name="collection_ssm">New York Taxi Workers Alliance Records</field>
+    <field name="collection_unitid_ssm">WAG.319</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Campaigns</field>
+    <field name="unittitle_teim">Series I: Campaigns</field>
+    <field name="unitdate_normal_ssm">1994/2010</field>
+    <field name="unitdate_normal_teim">1994/2010</field>
+    <field name="unitdate_normal_sim">1994/2010</field>
+    <field name="unitdate_inclusive_teim">1994-2010</field>
+    <field name="scopecontent_teim">This series documents the public facing activities of the union and its efforts to raise awareness about and change laws regarding driver working conditions. The series begins with organizing efforts of the Lease Driver Committee and the 1998 strikes that solidified the NYTWA as an organizing body. Materials that document these campaigns include New York City Council outreach, flyers and distribution materials for drivers and the general public, bills and legislation, internal workplans, industry research and clippings, and driver surveys.</field>
+    <field name="scopecontent_teim">Without collective bargaining, these campaigns show the many ways that the NYTWA advocated for change in the industry. The NYTWA focus their legislative and advocacy campaigns on immigrant rights, a living wage for drivers, the exploitative practices of fleet garages and brokers, and health and safety. Major campaigns include (in chronological order) City Council Bill 472, 9/11 impact studies and aid efforts, Fuel Surcharge, Economic Justice, Stop GPS, and the Taxi Driver Protection Act. </field>
+    <field name="scopecontent_teim">Economic Justice is a term the NYTWA used to describe campaigns in the mid-2000s that relate to raising the wage of taxi drivers through fare raises and lowering the cost of daily or weekly cab leasing. Campaigns relating to 9/11 use member surveys to document the effects of the event on driver income and treatment. These surveys and other research was used to advocate for Federal Emeregency Management Agency (FEMA) funds as well as housing rent assistance from the Bridge Fund. Stop GPS is the most well represented campaign in this series and spans 2004-2008. Stop GPS fought against malfunctioning credit card machines, the loss of 5% on fares from credit card use, and GPS tracking. </field>
+    <field name="scopecontent_teim">Health campaigns are interspersed throughout this series as new initiatives took place at different times throughout the union's tenure. Other minor campaigns advocate for drivers that have been injured or killed while driving, Ford Crown Victoria safety, the Queens Boulevard TLC Office Campaign, peace rallies, efforts to democratize TLC courts, immigrant rights, and taxi cab accessibility. Photographs at the end of this series document most of these campaigns. </field>
+    <field name="ref_ssi">aspace_ref2</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">New York Taxi Workers Alliance Records</field>
+    <field name="collection_unitid_teim">WAG.319</field>
+    <field name="series_si">Series I: Campaigns</field>
+    <field name="heading_ssm">Series I: Campaigns</field>
+    <field name="unitdate_start_sim">1994</field>
+    <field name="unitdate_start_ssm">1994</field>
+    <field name="unitdate_start_si">1994</field>
+    <field name="unitdate_end_sim">2010</field>
+    <field name="unitdate_end_ssm">2010</field>
+    <field name="unitdate_end_si">2010</field>
+    <field name="unitdate_ssm">Inclusive, 1994-2010</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

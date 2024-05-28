@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_003aspace_ref1202</field>
+    <field name="ead_ssi">wag_003</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Social Service Employees Union Records</field>
+    <field name="collection_ssm">Social Service Employees Union Records</field>
+    <field name="collection_unitid_ssm">WAG.003</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VI: Archived Websites</field>
+    <field name="unittitle_teim">Series VI: Archived Websites</field>
+    <field name="unitdate_normal_ssm">2007-09-24/2007-09-24</field>
+    <field name="unitdate_normal_teim">2007-09-24/2007-09-24</field>
+    <field name="unitdate_normal_sim">2007-09-24/2007-09-24</field>
+    <field name="unitdate_teim">September 2007-ongoing</field>
+    <field name="scopecontent_teim">Founded in 1965, Social Service Employees Union Local 371 is part of District Council 37 of the American Federation of State, County and Municipal Employees AFL-CIO (AFSCME), which represents workers employed by New York City in social service professions. The website contains information on benefits and grievance filing, and their current and past contracts. The production website contains information on events; a photo gallery; forms for grievances, applications, claims, courses, and annuity; benefits services; and information on grievances, legal services, membership, negotiations, political action, and committees. Also includes the website for the Charles Ensley Scholarship Foundation. The series also includes the Youtube channel from the union, with videos from the union president, podcast recordings, videos from rallies, and other videos related to COVID-19.</field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of youtube.com/channel/UCVI-MPhzZdmk4GhDcqNFsfg, sseu371.org, charlesensley.sseu371.org, mightyunionproduction.club, and mightyunion.org in order to remain within the collection scope and data constraints.</field>
+    <field name="appraisal_teim">In 2023, YouTube URLs were changed to better capture the videos on the channel.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">Social Service Employees Union Local 371 Archived Website: September 2007-March 2019</field>
+    <field name="dao_teim">Social Service Employees Union Local 371 Archived Website: March 2019-ongoing</field>
+    <field name="dao_teim">Charles Ensley Scholarship Foundation Archived Website: November 2018-November 2019</field>
+    <field name="dao_teim">Social Service Employees Union Local 371 Archived Website: October 2019-ongoing</field>
+    <field name="dao_teim">Social Service Employees Union Youtube Channel Archived Website: April 2020-April 2023</field>
+    <field name="dao_teim">Social Service Employees Union YouTube Channel Archived Website: October 2023-ongoing</field>
+    <field name="dao_ssm">Social Service Employees Union Local 371 Archived Website: September 2007-March 2019</field>
+    <field name="dao_ssm">Social Service Employees Union Local 371 Archived Website: March 2019-ongoing</field>
+    <field name="dao_ssm">Charles Ensley Scholarship Foundation Archived Website: November 2018-November 2019</field>
+    <field name="dao_ssm">Social Service Employees Union Local 371 Archived Website: October 2019-ongoing</field>
+    <field name="dao_ssm">Social Service Employees Union Youtube Channel Archived Website: April 2020-April 2023</field>
+    <field name="dao_ssm">Social Service Employees Union YouTube Channel Archived Website: October 2023-ongoing</field>
+    <field name="ref_ssi">aspace_ref1202</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Social Service Employees Union Records</field>
+    <field name="collection_unitid_teim">WAG.003</field>
+    <field name="series_si">Series VI: Archived Websites</field>
+    <field name="heading_ssm">Series VI: Archived Websites</field>
+    <field name="unitdate_ssm">September 2007-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1178</field>
+  </doc>
+</add>

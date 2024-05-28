@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_178aspace_ref24</field>
+    <field name="ead_ssi">wag_178</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Screen Actors Guild, New York Branch Records</field>
+    <field name="collection_ssm">Screen Actors Guild, New York Branch Records</field>
+    <field name="collection_unitid_ssm">WAG.178</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III: New York Directors of the National Board: Executive Committee</field>
+    <field name="unittitle_teim">Series III: New York Directors of the National Board: Executive Committee</field>
+    <field name="unitdate_normal_ssm">1966/1977</field>
+    <field name="unitdate_normal_teim">1966/1977</field>
+    <field name="unitdate_normal_sim">1966/1977</field>
+    <field name="unitdate_inclusive_teim">1966-1977</field>
+    <field name="scopecontent_teim">Minutes of the Executive Committee are usually brief, 1 to 2 pages long. Outside of lists of new Signatories, there are few attachments to Executive Committee minutes until Nov. 1972, when the number of other attachments, usually letters or memoranda, begins to increase. This series of minutes ends with the minutes of May 22, 1976 and the list of New Signatories Approved by the New York Executive Committee at their meeting January 10, 1977.
+There are three gaps in this series of minutes: October 1973-September 1974; January-May 1976; and June 1976~January 1977. Information about the management of the New York office can be found here including: expenditures, personnel requirements and assessments, pay and benefit policies, public relations, records
+management, automation (copiers, computers) and other administrative or fiscal matters of the New York Guild office.</field>
+    <field name="ref_ssi">aspace_ref24</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Screen Actors Guild, New York Branch Records</field>
+    <field name="collection_unitid_teim">WAG.178</field>
+    <field name="series_si">Series III: New York Directors of the National Board: Executive Committee</field>
+    <field name="heading_ssm">Series III: New York Directors of the National Board: Executive Committee</field>
+    <field name="unitdate_start_sim">1966</field>
+    <field name="unitdate_start_ssm">1966</field>
+    <field name="unitdate_start_si">1966</field>
+    <field name="unitdate_end_sim">1977</field>
+    <field name="unitdate_end_ssm">1977</field>
+    <field name="unitdate_end_si">1977</field>
+    <field name="unitdate_ssm">Inclusive, 1966-1977</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">42</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_042aspace_ref26</field>
+    <field name="ead_ssi">wag_042</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">International Brotherhood of Painters and Allied Trades, Local 490 Records</field>
+    <field name="collection_ssm">International Brotherhood of Painters and Allied Trades, Local 490 Records</field>
+    <field name="collection_unitid_ssm">WAG.042</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Records</field>
+    <field name="unittitle_teim">Series I: Records</field>
+    <field name="unitdate_normal_ssm">1905/1962</field>
+    <field name="unitdate_normal_teim">1905/1962</field>
+    <field name="unitdate_normal_sim">1905/1962</field>
+    <field name="unitdate_inclusive_teim">1905-1962</field>
+    <field name="scopecontent_teim">This series contains the records of the Paperhangers union. The majority of this series is made up of ledgers, minute books, and financial records of the union, dating from 1800s to the middle of the century. Other types of material in the series include materials related to their Annual Eastern Seaboard Conference, flyers, correspondence, election materials, membership materials, and other ephemera. The series documents not only the day to day maintenance of the union, but also documents the union's support of other causes, including raising money for the State of Israel, and protesting in solidarity with other unions.</field>
+    <field name="ref_ssi">aspace_ref26</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">International Brotherhood of Painters and Allied Trades, Local 490 Records</field>
+    <field name="collection_unitid_teim">WAG.042</field>
+    <field name="series_si">Series I: Records</field>
+    <field name="heading_ssm">Series I: Records</field>
+    <field name="unitdate_start_sim">1905</field>
+    <field name="unitdate_start_ssm">1905</field>
+    <field name="unitdate_start_si">1905</field>
+    <field name="unitdate_end_sim">1962</field>
+    <field name="unitdate_end_ssm">1962</field>
+    <field name="unitdate_end_si">1962</field>
+    <field name="unitdate_ssm">Inclusive, 1905-1962</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

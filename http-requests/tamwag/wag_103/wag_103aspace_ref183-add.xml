@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_103aspace_ref183</field>
+    <field name="ead_ssi">wag_103</field>
+    <field name="parent_ssi">aspace_ref21</field>
+    <field name="parent_ssm">aspace_ref21</field>
+    <field name="parent_unittitles_ssm">Contract Negotiations Records:1964-1970</field>
+    <field name="parent_unittitles_teim">Contract Negotiations Records:1964-1970</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Metro Area Postal Union Records</field>
+    <field name="collection_ssm">New York Metro Area Postal Union Records</field>
+    <field name="collection_unitid_ssm">WAG.103</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Related publication-Post Office Department, New York Region: Employee-Management Negotiations Procedures and Techniques July 1964</field>
+    <field name="unittitle_teim">Related publication-Post Office Department, New York Region: Employee-Management Negotiations Procedures and Techniques July 1964</field>
+    <field name="unitdate_normal_ssm">1964/1964</field>
+    <field name="unitdate_normal_teim">1964/1964</field>
+    <field name="unitdate_normal_sim">1964/1964</field>
+    <field name="unitdate_inclusive_teim">July 1964</field>
+    <field name="ref_ssi">aspace_ref183</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10</field>
+    <field name="location_si">Box: 10</field>
+    <field name="collection_teim">New York Metro Area Postal Union Records</field>
+    <field name="collection_unitid_teim">WAG.103</field>
+    <field name="series_sim">Contract Negotiations Records:1964-1970</field>
+    <field name="series_si">Contract Negotiations Records:1964-1970 &gt;&gt; Related publication-Post Office Department, New York Region: Employee-Management Negotiations Procedures and Techniques July 1964</field>
+    <field name="heading_ssm">Related publication-Post Office Department, New York Region: Employee-Management Negotiations Procedures and Techniques July 1964</field>
+    <field name="unitdate_start_sim">1964</field>
+    <field name="unitdate_start_ssm">1964</field>
+    <field name="unitdate_start_si">1964</field>
+    <field name="unitdate_end_sim">1964</field>
+    <field name="unitdate_end_ssm">1964</field>
+    <field name="unitdate_end_si">1964</field>
+    <field name="unitdate_ssm">Inclusive, July 1964</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">102</field>
+  </doc>
+</add>

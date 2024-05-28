@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_103aspace_ref227</field>
+    <field name="ead_ssi">wag_103</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Metro Area Postal Union Records</field>
+    <field name="collection_ssm">New York Metro Area Postal Union Records</field>
+    <field name="collection_unitid_ssm">WAG.103</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Archived Websites</field>
+    <field name="unittitle_teim">Archived Websites</field>
+    <field name="unitdate_normal_ssm">2009-12-03/2009-12-03</field>
+    <field name="unitdate_normal_teim">2009-12-03/2009-12-03</field>
+    <field name="unitdate_normal_sim">2009-12-03/2009-12-03</field>
+    <field name="unitdate_teim">December 2009-ongoing</field>
+    <field name="scopecontent_teim">The New York Metro Area Postal Union (American Postal Workers Union, Local 10) represents clerks, motor vehicle staff, maintenance workers and mail-handlers in the greater New York City area. In 1973 the union changed its name to the New York Metro Area Postal Union, from the Postal Union of Manhattan-Bronx Clerks, the new name reflecting the inclusion of the New York Bulk and Foreign Mail Center and the North Jersey Facility in the local's bargaining unit. The first capture of the website was in 2009, calling for US senators to vote no on Senate Bill S1507 and support for Federal Employees Retirement System. In 2013, the website went through a redesign and focused on steward election results and news from the American Postal Workers Union. In 2016, the website went through the most recent redesign. The website contains news and event listings, their health plan, issues of their newsletter Union Mail, agreements, and other materials.</field>
+    <field name="scopecontent_teim">The Facebook page for the New York Metro Area Postal Union contains videos from union president Johnathan Smith and posts related to the COVID-19 pandemic, calls for Postmaster General Louis DeJoy to resign,  event listings, mail-in voting, weather alerts, and other events.</field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of nymetro.org, facebook.com/2014nymetro, web-extract.constantcontact.com in order to remain within the collection scope and data constraints.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="phystech_teim">From March 2021 to as of this writing (September 2021) Facebook was unsuccessfully captured. </field>
+    <field name="dao_teim">New York Metro Area Postal Union Archived Website: December 2009-ongoing</field>
+    <field name="dao_teim">New York Metro Area Postal Union Facebook Archived Website: September 2020-ongoing</field>
+    <field name="dao_ssm">New York Metro Area Postal Union Archived Website: December 2009-ongoing</field>
+    <field name="dao_ssm">New York Metro Area Postal Union Facebook Archived Website: September 2020-ongoing</field>
+    <field name="ref_ssi">aspace_ref227</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records</field>
+    <field name="location_si">Box: Electronic Records</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York Metro Area Postal Union Records</field>
+    <field name="collection_unitid_teim">WAG.103</field>
+    <field name="series_si">Archived Websites</field>
+    <field name="heading_ssm">Archived Websites</field>
+    <field name="unitdate_ssm">December 2009-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">216</field>
+  </doc>
+</add>

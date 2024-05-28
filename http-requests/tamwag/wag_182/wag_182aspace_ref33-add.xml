@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_182aspace_ref33</field>
+    <field name="ead_ssi">wag_182</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Inventory</field>
+    <field name="parent_unittitles_teim">Inventory</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Gary Stevenson Papers</field>
+    <field name="collection_ssm">Gary Stevenson Papers</field>
+    <field name="collection_unitid_ssm">WAG.182</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Flyers, Leaflets, Pamphlets, Publications, and Ephemera from the International Brotherhood of Teamsters and Other Labor Organizations </field>
+    <field name="unittitle_teim">Flyers, Leaflets, Pamphlets, Publications, and Ephemera from the International Brotherhood of Teamsters and Other Labor Organizations </field>
+    <field name="ref_ssi">aspace_ref33</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_si">Box: 2</field>
+    <field name="collection_teim">Gary Stevenson Papers</field>
+    <field name="collection_unitid_teim">WAG.182</field>
+    <field name="series_sim">Inventory</field>
+    <field name="series_si">Inventory &gt;&gt; Flyers, Leaflets, Pamphlets, Publications, and Ephemera from the International Brotherhood of Teamsters and Other Labor Organizations </field>
+    <field name="heading_ssm">Flyers, Leaflets, Pamphlets, Publications, and Ephemera from the International Brotherhood of Teamsters and Other Labor Organizations </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">32</field>
+  </doc>
+</add>

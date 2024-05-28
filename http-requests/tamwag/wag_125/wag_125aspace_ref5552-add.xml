@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_125aspace_ref5552</field>
+    <field name="ead_ssi">wag_125</field>
+    <field name="parent_ssi">aspace_ref4124</field>
+    <field name="parent_ssm">aspace_ref4124</field>
+    <field name="parent_unittitles_ssm">Series V: Shop Files</field>
+    <field name="parent_unittitles_teim">Series V: Shop Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Newspaper Guild of New York Records</field>
+    <field name="collection_ssm">Newspaper Guild of New York Records</field>
+    <field name="collection_unitid_ssm">WAG.125/repositories/2/resources/1387</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V:B: &lt;em&gt;New York Daily News&lt;/em&gt; Shop Files</field>
+    <field name="unittitle_teim">Subseries V:B: New York Daily News Shop Files</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/336690</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/336690</field>
+    <field name="ref_ssi">aspace_ref5552</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Newspaper Guild of New York Records</field>
+    <field name="collection_unitid_teim">WAG.125/repositories/2/resources/1387</field>
+    <field name="series_sim">Series V: Shop Files</field>
+    <field name="series_si">Series V: Shop Files &gt;&gt; Subseries V:B: &lt;em&gt;New York Daily News&lt;/em&gt; Shop Files</field>
+    <field name="heading_ssm">Subseries V:B: New York Daily News Shop Files</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5531</field>
+  </doc>
+</add>

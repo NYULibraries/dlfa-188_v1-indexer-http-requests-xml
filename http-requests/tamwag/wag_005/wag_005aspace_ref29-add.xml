@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_005aspace_ref29</field>
+    <field name="ead_ssi">wag_005</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series I: General Files, 1978-1981.</field>
+    <field name="parent_unittitles_teim">Series I: General Files, 1978-1981.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Michael Tatham collection on the United Taxi Workers Organizing Committee</field>
+    <field name="collection_ssm">Michael Tatham collection on the United Taxi Workers Organizing Committee</field>
+    <field name="collection_unitid_ssm">WAG.005</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;United Taxi Workers Organizing Committee Newsletter&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      United Taxi Workers Organizing Committee Newsletter
+    </field>
+    <field name="unitdate_teim">Jan 1980-Aug 1980</field>
+    <field name="title_teim">United Taxi Workers Organizing Committee Newsletter</field>
+    <field name="title_ssm">United Taxi Workers Organizing Committee Newsletter</field>
+    <field name="ref_ssi">aspace_ref29</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 16</field>
+    <field name="location_ssm">Folder: 16</field>
+    <field name="location_si">Folder: 16</field>
+    <field name="collection_teim">Michael Tatham collection on the United Taxi Workers Organizing Committee</field>
+    <field name="collection_unitid_teim">WAG.005</field>
+    <field name="series_sim">Series I: General Files, 1978-1981.</field>
+    <field name="series_si">Series I: General Files, 1978-1981. &gt;&gt; 
+      &lt;em&gt;United Taxi Workers Organizing Committee Newsletter&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      United Taxi Workers Organizing Committee Newsletter
+    </field>
+    <field name="unitdate_ssm">Jan 1980-Aug 1980</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">17</field>
+  </doc>
+</add>

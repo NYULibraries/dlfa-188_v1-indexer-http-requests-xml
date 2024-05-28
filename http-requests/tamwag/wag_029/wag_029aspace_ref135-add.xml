@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_029aspace_ref135</field>
+    <field name="ead_ssi">wag_029</field>
+    <field name="parent_ssi">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_unittitles_ssm">Series I: Management</field>
+    <field name="parent_unittitles_teim">Series I: Management</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Committee for Occupational Safety and Health (NYCOSH) Records</field>
+    <field name="collection_ssm">New York Committee for Occupational Safety and Health (NYCOSH) Records</field>
+    <field name="collection_unitid_ssm">WAG.029</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">North Carolina Occupational Safety and Health Project (NCOSH)</field>
+    <field name="unittitle_teim">North Carolina Occupational Safety and Health Project (NCOSH)</field>
+    <field name="unitid_teim">cuid7750</field>
+    <field name="unitid_ssm">cuid7750</field>
+    <field name="ref_ssi">aspace_ref135</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 23</field>
+    <field name="location_ssm">Folder: 23</field>
+    <field name="location_si">Folder: 23</field>
+    <field name="collection_teim">New York Committee for Occupational Safety and Health (NYCOSH) Records</field>
+    <field name="collection_unitid_teim">WAG.029</field>
+    <field name="series_sim">Series I: Management</field>
+    <field name="series_si">Series I: Management &gt;&gt; North Carolina Occupational Safety and Health Project (NCOSH)</field>
+    <field name="heading_ssm">North Carolina Occupational Safety and Health Project (NCOSH)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">128</field>
+  </doc>
+</add>

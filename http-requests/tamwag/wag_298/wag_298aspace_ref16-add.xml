@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_298aspace_ref16</field>
+    <field name="ead_ssi">wag_298</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">American Federation of State, County, and Municipal Employees (AFSCME), District Council 1707 Records</field>
+    <field name="collection_ssm">American Federation of State, County, and Municipal Employees (AFSCME), District Council 1707 Records</field>
+    <field name="collection_unitid_ssm">WAG.298</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Meetings</field>
+    <field name="unittitle_teim">Series I: Meetings</field>
+    <field name="unitdate_normal_ssm">1960/2005</field>
+    <field name="unitdate_normal_teim">1960/2005</field>
+    <field name="unitdate_normal_sim">1960/2005</field>
+    <field name="unitdate_inclusive_teim">1960-2005</field>
+    <field name="scopecontent_teim">This series includes material relating to meetings of Local 1707/DC 1707's Executive Board and Delegate Assembly. Executive Board meetings files include reports, activity reports from various officers, staff, and locals, financial records, event flyers, memoranda, constitutions, notes of various board members, schedules, and correspondence. Meetings files often contain minutes for the previous board meeting, and sometimes drafts or copies of minutes for the current meeting. Early Executive Board meetings files (1960s-1970s) are primarily minutes and drafts of minutes with a small amount of supporting documents (agendas, membership reports, attendance sheets). Up to 1973 the Executive Board files usually include material from meetings of the Joint City Council, apparently an early form of the Delegate Assembly.</field>
+    <field name="scopecontent_teim">Early Delegate Assembly meetings files (1981-1986) consist mostly of minutes and drafts of minutes. Meetings files include agendas, activity reports from various officers, staff and locals, drafts and copies of minutes, (including those of previous meetings), financial statements, event flyers, and attendance sheets.This series contains material pertaining to the administrative functions of Local 1707/DC 1707, its departments, locals, committees and chapters. General administrative material includes correspondence and memoranda, financial records and reports, and items that document Coucil elections, Executive Board, organizing, staff meetings, committees, and other areas. Locals and Retirees Chapter files contain similar material, as well as some trustee board and other meetings files, and records of funds for various locals.
+General Administrative files are arranged alphabetically by subject; locals follow, arranged by local number. Retirees Chapter material follows locals.
+DC 1707 locals are: Local 95 Head Start Employees, Local 107 National Membership and Fund Raising Employees, Local 205 Day Care Employees, Local 215 Social Service Employees, Local 253 Education Employees, Local 389 Home Care Employees, Local 1881 Association of Professional Personnel (Development Corporation for Israel).</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">American Federation of State, County, and Municipal Employees (AFSCME), District Council 1707 Records</field>
+    <field name="collection_unitid_teim">WAG.298</field>
+    <field name="series_si">Series I: Meetings</field>
+    <field name="heading_ssm">Series I: Meetings</field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">2005</field>
+    <field name="unitdate_end_ssm">2005</field>
+    <field name="unitdate_end_si">2005</field>
+    <field name="unitdate_ssm">Inclusive, 1960-2005</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

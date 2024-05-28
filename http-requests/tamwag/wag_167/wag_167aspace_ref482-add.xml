@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_167aspace_ref482</field>
+    <field name="ead_ssi">wag_167</field>
+    <field name="parent_ssi">aspace_ref60</field>
+    <field name="parent_ssm">aspace_ref60</field>
+    <field name="parent_unittitles_ssm">Series II: Administrative Records</field>
+    <field name="parent_unittitles_teim">Series II: Administrative Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Building Congress Records</field>
+    <field name="collection_ssm">New York Building Congress Records</field>
+    <field name="collection_unitid_ssm">WAG.167/repositories/2/resources/1427</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Nominating Committee</field>
+    <field name="unittitle_teim">Nominating Committee</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/343148</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/343148</field>
+    <field name="unitdate_normal_ssm">1999/1999</field>
+    <field name="unitdate_normal_teim">1999/1999</field>
+    <field name="unitdate_normal_sim">1999/1999</field>
+    <field name="unitdate_inclusive_teim">1999</field>
+    <field name="ref_ssi">aspace_ref482</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 42</field>
+    <field name="location_ssm">Folder: 42</field>
+    <field name="location_si">Folder: 42</field>
+    <field name="collection_teim">New York Building Congress Records</field>
+    <field name="collection_unitid_teim">WAG.167/repositories/2/resources/1427</field>
+    <field name="series_sim">Series II: Administrative Records</field>
+    <field name="series_si">Series II: Administrative Records &gt;&gt; Nominating Committee</field>
+    <field name="heading_ssm">Nominating Committee</field>
+    <field name="unitdate_start_sim">1999</field>
+    <field name="unitdate_start_ssm">1999</field>
+    <field name="unitdate_start_si">1999</field>
+    <field name="unitdate_end_sim">1999</field>
+    <field name="unitdate_end_ssm">1999</field>
+    <field name="unitdate_end_si">1999</field>
+    <field name="unitdate_ssm">Inclusive, 1999</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">469</field>
+  </doc>
+</add>

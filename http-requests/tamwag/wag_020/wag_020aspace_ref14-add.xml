@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_020aspace_ref14</field>
+    <field name="ead_ssi">wag_020</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Betsy Wade Papers</field>
+    <field name="collection_ssm">Betsy Wade Papers</field>
+    <field name="collection_unitid_ssm">WAG.020</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Coalition of Labor Women</field>
+    <field name="unittitle_teim">Series I. Coalition of Labor Women</field>
+    <field name="unitdate_normal_ssm">1972/1982</field>
+    <field name="unitdate_normal_teim">1972/1982</field>
+    <field name="unitdate_normal_sim">1972/1982</field>
+    <field name="unitdate_inclusive_teim">1972-1982</field>
+    <field name="scopecontent_teim">This series consists of correspondence between Wade and other leaders of the Coalition of Labor Union Women (CLUW), including Marjorie Stern, Pat Strandt and Luella Hansberry, as well as material relating to CLUW conferences and conventions. Administrative materials relating to the New York City Chapter of CLUW, including by-laws, election materials, newsletters, reports, resolutions and statements are also present. Also included are clippings and subject files documenting CLUW's efforts on behalf of working women, including material on the Equal Rights Amendment (1980), the Senatorial campaign of Bella Abzug (1976) and Mary Anne Krupsak's campaign for Lieutenant Governor of New York (1974).</field>
+    <field name="ref_ssi">aspace_ref14</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Betsy Wade Papers</field>
+    <field name="collection_unitid_teim">WAG.020</field>
+    <field name="series_si">Series I. Coalition of Labor Women</field>
+    <field name="heading_ssm">Series I. Coalition of Labor Women</field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_si">1972</field>
+    <field name="unitdate_end_sim">1982</field>
+    <field name="unitdate_end_ssm">1982</field>
+    <field name="unitdate_end_si">1982</field>
+    <field name="unitdate_ssm">Inclusive, 1972-1982</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

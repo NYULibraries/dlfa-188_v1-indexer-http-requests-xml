@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_167aspace_ref562</field>
+    <field name="ead_ssi">wag_167</field>
+    <field name="parent_ssi">aspace_ref531</field>
+    <field name="parent_ssm">aspace_ref531</field>
+    <field name="parent_unittitles_ssm">Series III: General Files</field>
+    <field name="parent_unittitles_teim">Series III: General Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Building Congress Records</field>
+    <field name="collection_ssm">New York Building Congress Records</field>
+    <field name="collection_unitid_ssm">WAG.167/repositories/2/resources/1427</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Biographical: T</field>
+    <field name="unittitle_teim">Biographical: T</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/343227</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/343227</field>
+    <field name="unitdate_teim">Various</field>
+    <field name="ref_ssi">aspace_ref562</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">New York Building Congress Records</field>
+    <field name="collection_unitid_teim">WAG.167/repositories/2/resources/1427</field>
+    <field name="series_sim">Series III: General Files</field>
+    <field name="series_si">Series III: General Files &gt;&gt; Biographical: T</field>
+    <field name="heading_ssm">Biographical: T</field>
+    <field name="unitdate_ssm">Various</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">548</field>
+  </doc>
+</add>

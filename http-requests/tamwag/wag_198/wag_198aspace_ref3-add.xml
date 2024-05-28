@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_198aspace_ref3</field>
+    <field name="ead_ssi">wag_198</field>
+    <field name="parent_ssi">aspace_fd40db1ea7e654290b798127ea0d2fdb</field>
+    <field name="parent_ssm">aspace_fd40db1ea7e654290b798127ea0d2fdb</field>
+    <field name="parent_unittitles_ssm">Series II: Special Events, Projects, and Publications</field>
+    <field name="parent_unittitles_teim">Series II: Special Events, Projects, and Publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Labor History Association Records</field>
+    <field name="collection_ssm">New York Labor History Association Records</field>
+    <field name="collection_unitid_ssm">WAG.198</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Archived Website</field>
+    <field name="unittitle_teim">Archived Website</field>
+    <field name="unitdate_teim">May 1, 2009-ongoing</field>
+    <field name="scopecontent_teim">The website includes news and event listings, labor history resources, and prize winners.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">New York Labor History Association</field>
+    <field name="dao_ssm">New York Labor History Association</field>
+    <field name="ref_ssi">aspace_ref3</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York Labor History Association Records</field>
+    <field name="collection_unitid_teim">WAG.198</field>
+    <field name="series_sim">Series II: Special Events, Projects, and Publications</field>
+    <field name="series_si">Series II: Special Events, Projects, and Publications &gt;&gt; Archived Website</field>
+    <field name="heading_ssm">Archived Website</field>
+    <field name="unitdate_ssm">May 1, 2009-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">40</field>
+  </doc>
+</add>

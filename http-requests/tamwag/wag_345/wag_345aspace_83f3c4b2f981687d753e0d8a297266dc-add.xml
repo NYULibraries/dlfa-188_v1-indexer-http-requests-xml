@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_345aspace_83f3c4b2f981687d753e0d8a297266dc</field>
+    <field name="ead_ssi">wag_345</field>
+    <field name="parent_ssi">aspace_cd4ed7dacbd87e0d7fcfb012ae50c949</field>
+    <field name="parent_ssm">aspace_cd4ed7dacbd87e0d7fcfb012ae50c949</field>
+    <field name="parent_unittitles_ssm">Series I: Labor unions and organizations</field>
+    <field name="parent_unittitles_teim">Series I: Labor unions and organizations</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Collection of Labor Movement Serials</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Collection of Labor Movement Serials</field>
+    <field name="collection_unitid_ssm">WAG.345</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.I: Labor Coalitions and Organizations</field>
+    <field name="unittitle_teim">Subseries I.I: Labor Coalitions and Organizations</field>
+    <field name="unitdate_normal_ssm">1890/2012</field>
+    <field name="unitdate_normal_teim">1890/2012</field>
+    <field name="unitdate_normal_sim">1890/2012</field>
+    <field name="unitdate_inclusive_teim">1890-2012</field>
+    <field name="scopecontent_teim">This series collects uncataloged serials and newsletters published by a variety of labor coalitions, advocacy groups, research institutions, professional associations, and political organizations. Formed around common interest groups, a full range of labor causes are detailed in bulletins, newspapers, and circulars: the rights of women in the workplace (various publications issued by the Coalition of Labor Union Women and New York Women's Trade Union); benefit and pension updates for workers (Employee Benefits Digest; Labor News for Working Families; Westchester 60 Plus); and activism around unemployment and working conditions (newsletters issued by Jobs With Justice; Rhode Island Workers Association Organizing Center; and the Trade Union League). Issuing organizations range from large coalitions (Jewish Labor Committee; New York City Central Labor Council; Philadelphia Workers' Organizing Committee) to smaller bodies and rank and file groups providing information for workers exposed to asbestos (Abestos Update).</field>
+    <field name="ref_ssi">aspace_83f3c4b2f981687d753e0d8a297266dc</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Collection of Labor Movement Serials</field>
+    <field name="collection_unitid_teim">WAG.345</field>
+    <field name="series_sim">Series I: Labor unions and organizations</field>
+    <field name="series_si">Series I: Labor unions and organizations &gt;&gt; Subseries I.I: Labor Coalitions and Organizations</field>
+    <field name="heading_ssm">Subseries I.I: Labor Coalitions and Organizations</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">2012</field>
+    <field name="unitdate_end_ssm">2012</field>
+    <field name="unitdate_end_si">2012</field>
+    <field name="unitdate_ssm">Inclusive, 1890-2012</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">887</field>
+  </doc>
+</add>

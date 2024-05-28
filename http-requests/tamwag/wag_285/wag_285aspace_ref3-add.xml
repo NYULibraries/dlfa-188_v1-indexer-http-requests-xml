@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_285aspace_ref3</field>
+    <field name="ead_ssi">wag_285</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">United Automobile Workers of America, Local 2110, New York University Graduate Student Organizing Committee (GSOC) Records</field>
+    <field name="collection_ssm">United Automobile Workers of America, Local 2110, New York University Graduate Student Organizing Committee (GSOC) Records</field>
+    <field name="collection_unitid_ssm">WAG.285</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Archived Websites</field>
+    <field name="unittitle_teim">Series II: Archived Websites</field>
+    <field name="unitid_teim">cuid9044</field>
+    <field name="unitid_ssm">cuid9044</field>
+    <field name="unitdate_normal_ssm">2009-03-21/2009-03-21</field>
+    <field name="unitdate_normal_teim">2009-03-21/2009-03-21</field>
+    <field name="unitdate_normal_sim">2009-03-21/2009-03-21</field>
+    <field name="unitdate_teim">March 2009-ongoing</field>
+    <field name="scopecontent_teim">The Graduate Student Organizing Committee (GSOC-UAW Local 2110) is the union for graduate employees at New York University (NYU) and the Polytechnic Institute of New York University. This includes teaching assistants, research assistants, and graduate assistants. The Polytechnic Institute organizes science and engineering graduate students. The union was established in 1998 and negotiated their first contract with NYU in 2002. In 2004, the National Labor Relations Board reversed the Brown University decision, declaring private universities are not required to bargain with graduate employees and leading to NYU not negotiating a new contract. Capture of the website began in 2009, which contained information on the history of GSOC, their contract, press converage, press releases, member information, and action campaigns. Capture of  http://www.makingabetternyu.org/ began in 2013, containing information about the union and its Polytechnic Institute (later Tandon) affiliate (SET-UAW), campaigns, news, healthcare petition, and event listings. Over time, the website has been updated to include their current contract, bargaining information, solidarity statements and resolutions, caucuses, and documentation on the union's response to the COVID-19 pandemic and demands to NYU administration to support graduate student workers. </field>
+    <field name="scopecontent_teim">This series also includes the websites for the New York University Academic Workers for a Democratic Union the social justice caucus of GSOC. https://collectiveactiongetsthegoods.tumblr.com/ contained their principles, 2014 bargaining report, statements of solidarity with other striking graduate students unions, bargaining updates, information on elections and strikes in 2014-2015, and news from the union. https://nyuawdu.wordpress.com/ was captured starting in 2020, when GSOC began bargaining for a new contract. The website contains their bargaining platform, bargaining committee members, updates, and fliers.</field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of 
+https://www.makingabetternyu.org/ and https://nyuawdu.wordpress.com/ in order to remain within the collection scope and data constraints.</field>
+    <field name="appraisal_teim">Scope was expanded to include Google documents.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">Graduate Student Organizing Committee (GSOC-UAW) Local 2110 Archived Website: October 2013-ongoing</field>
+    <field name="dao_teim">Graduate Student Organizing Committee (GSOC), UAW Local 2110 Archived Website: March 2009-February 2016</field>
+    <field name="dao_teim">GSOC COVID 19 Live Document &amp; Updates Archived Website: April 2020</field>
+    <field name="dao_teim">A Just Response to the COVID-19 Crisis Petition Archived Website: June 2020</field>
+    <field name="dao_teim">New York University Academic Workers for a Democratic Union Archived Website: June 2020-ongoing</field>
+    <field name="dao_teim">New York University Academic Workers for a Democratic Union Archived Website: November 2019-June 2020</field>
+    <field name="dao_teim">NYU Can Afford It Report Archived Website: June 2020</field>
+    <field name="dao_teim">GSOC and IEC-NYU Joint Statement Calling for Termination of NYU-NYPD Ties Archived Website: July 2020</field>
+    <field name="dao_teim">GSOC Contract Proposals Table of Contents Archived Website: July 2020-ongoing</field>
+    <field name="dao_teim">GSOC's Principles and Best Practices Archived Website: October 2020-September 2021</field>
+    <field name="dao_teim">Onboarding for New GSOC Organizers Archived Website: October 2020-February 2021</field>
+    <field name="dao_teim">NYU Graduate Student Organizing Committee Twitter Archived Website: October 2013-ongoing</field>
+    <field name="dao_teim">Open Letter on Grad Worker Back Pay Archived Website: March 2022</field>
+    <field name="dao_ssm">Graduate Student Organizing Committee (GSOC-UAW) Local 2110 Archived Website: October 2013-ongoing</field>
+    <field name="dao_ssm">Graduate Student Organizing Committee (GSOC), UAW Local 2110 Archived Website: March 2009-February 2016</field>
+    <field name="dao_ssm">GSOC COVID 19 Live Document &amp; Updates Archived Website: April 2020</field>
+    <field name="dao_ssm">A Just Response to the COVID-19 Crisis Petition Archived Website: June 2020</field>
+    <field name="dao_ssm">New York University Academic Workers for a Democratic Union Archived Website: June 2020-ongoing</field>
+    <field name="dao_ssm">New York University Academic Workers for a Democratic Union Archived Website: November 2019-June 2020</field>
+    <field name="dao_ssm">NYU Can Afford It Report Archived Website: June 2020</field>
+    <field name="dao_ssm">GSOC and IEC-NYU Joint Statement Calling for Termination of NYU-NYPD Ties Archived Website: July 2020</field>
+    <field name="dao_ssm">GSOC Contract Proposals Table of Contents Archived Website: July 2020-ongoing</field>
+    <field name="dao_ssm">GSOC's Principles and Best Practices Archived Website: October 2020-September 2021</field>
+    <field name="dao_ssm">Onboarding for New GSOC Organizers Archived Website: October 2020-February 2021</field>
+    <field name="dao_ssm">NYU Graduate Student Organizing Committee Twitter Archived Website: October 2013-ongoing</field>
+    <field name="dao_ssm">Open Letter on Grad Worker Back Pay Archived Website: March 2022</field>
+    <field name="ref_ssi">aspace_ref3</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">United Automobile Workers of America, Local 2110, New York University Graduate Student Organizing Committee (GSOC) Records</field>
+    <field name="collection_unitid_teim">WAG.285</field>
+    <field name="series_si">Series II: Archived Websites</field>
+    <field name="heading_ssm">Series II: Archived Websites</field>
+    <field name="unitdate_ssm">March 2009-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">39</field>
+  </doc>
+</add>

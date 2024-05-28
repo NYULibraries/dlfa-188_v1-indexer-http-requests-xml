@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_319aspace_ref552</field>
+    <field name="ead_ssi">wag_319</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Taxi Workers Alliance Records</field>
+    <field name="collection_ssm">New York Taxi Workers Alliance Records</field>
+    <field name="collection_unitid_ssm">WAG.319</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV: Archived Websites</field>
+    <field name="unittitle_teim">Series IV: Archived Websites</field>
+    <field name="unitdate_normal_ssm">2009-08-14/2009-08-14</field>
+    <field name="unitdate_normal_teim">2009-08-14/2009-08-14</field>
+    <field name="unitdate_normal_sim">2009-08-14/2009-08-14</field>
+    <field name="unitdate_teim">August 2009-ongoing</field>
+    <field name="scopecontent_teim">This series contains the website for The New York Taxi Workers Alliance (NYTWA). Crawling of the website began in 2009. From 2009 to early 2013, content of the website was collected, but the formatting was not successfully captured. During that time NYTWA focused on campaigns related to protections against credit card surcharges, accessible taxi dispatching, increase of the jet fuel tax, health insurance for taxicab drivers, the Taxi Driver Protection Act, fare overcharging, lease caps to for medallions, yellow cab raises 17% in 2012, black car drivers strike, illegal pick-ups, and drivers relief and aid due to Hurricane Sandy at the end of 2012. In 2013, their website underwent a redesign. They focused on campaigns related to lease caps compliance, health and wellness, traffic rights, court rights, airport rights, the Owner Must Drive Rule, and repealing the MTA Tax. In 2015-2016, NYTWA worked on campaigns related to ride sharing apps to protect full time work for drivers, fair licensing standards and penalities, due process at the OATH Taxi courts, wheel-chair accessible vehicle (WAV) training, and road infrastructure change. In 2017-2018, the website contained actions and statements related to President Trump's Muslim travel ban, #DeleteUber campaign, full-time job protections, congestion pricing exemptions, racial justice and civil rights iniatives, and suicide amongst taxi workers. In 2019 underwent another redesign, mostly just focusing on action alerts and news related to strikes and lawsuits against Lyft, Uber and other ride-sharing apps; debt forgiveness campaign; and for hire vehicle (FHV) cap. In Spring 2020, taxi workers were considered essential workers during the COVID-19 pandemic and the website included resource guides, information on unemployment insurance, financial assistance, health and safety, housing assistance, medallion debt forgiveness, remote learning, food assistance and other resources. The website also includes information ongoing litigation related to wage theft, unemployment insurance, drivers illegalling being "logged off" Lyft, and FHV cap. Other campaigns include raises for drivers by ride-share apps, license suspension class action law suit, and other policy proposals. The Twitter feed documents NYTWA's strikes against Uber over company's refusal to raise wages in 2022.</field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of nytwa.org in order to remain within the collection scope and data constraints. </field>
+    <field name="appraisal_teim">Crawls were also expanded to include Google Documents, Squarespace, and Twitter hosts.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">New York Taxi Workers Alliance Archived Website: August 2009-ongoing</field>
+    <field name="dao_teim">New York Taxi Workers Alliance Twitter Archived Website: May 2011-ongoing</field>
+    <field name="dao_ssm">New York Taxi Workers Alliance Archived Website: August 2009-ongoing</field>
+    <field name="dao_ssm">New York Taxi Workers Alliance Twitter Archived Website: May 2011-ongoing</field>
+    <field name="ref_ssi">aspace_ref552</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York Taxi Workers Alliance Records</field>
+    <field name="collection_unitid_teim">WAG.319</field>
+    <field name="series_si">Series IV: Archived Websites</field>
+    <field name="heading_ssm">Series IV: Archived Websites</field>
+    <field name="unitdate_ssm">August 2009-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">484</field>
+  </doc>
+</add>

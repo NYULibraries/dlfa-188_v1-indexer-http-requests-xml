@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_167aspace_ref1134</field>
+    <field name="ead_ssi">wag_167</field>
+    <field name="parent_ssi">aspace_ref980</field>
+    <field name="parent_ssm">aspace_ref980</field>
+    <field name="parent_unittitles_ssm">Series IV: Events</field>
+    <field name="parent_unittitles_teim">Series IV: Events</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York Building Congress Records</field>
+    <field name="collection_ssm">New York Building Congress Records</field>
+    <field name="collection_unitid_ssm">WAG.167/repositories/2/resources/1427</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Luncheon: Construction Industry</field>
+    <field name="unittitle_teim">Luncheon: Construction Industry</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/343798</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/343798</field>
+    <field name="unitdate_normal_ssm">1995/1995</field>
+    <field name="unitdate_normal_teim">1995/1995</field>
+    <field name="unitdate_normal_sim">1995/1995</field>
+    <field name="unitdate_inclusive_teim">1995</field>
+    <field name="ref_ssi">aspace_ref1134</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 20, Folder: 24</field>
+    <field name="location_ssm">Folder: 24</field>
+    <field name="location_si">Folder: 24</field>
+    <field name="collection_teim">New York Building Congress Records</field>
+    <field name="collection_unitid_teim">WAG.167/repositories/2/resources/1427</field>
+    <field name="series_sim">Series IV: Events</field>
+    <field name="series_si">Series IV: Events &gt;&gt; Luncheon: Construction Industry</field>
+    <field name="heading_ssm">Luncheon: Construction Industry</field>
+    <field name="unitdate_start_sim">1995</field>
+    <field name="unitdate_start_ssm">1995</field>
+    <field name="unitdate_start_si">1995</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, 1995</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1119</field>
+  </doc>
+</add>

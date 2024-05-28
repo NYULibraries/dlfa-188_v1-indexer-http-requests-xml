@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_234aspace_ref1249</field>
+    <field name="ead_ssi">wag_234</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I: Records of TWU Local 100 (New York City), 1931-1978.</field>
+    <field name="parent_unittitles_teim">Series I: Records of TWU Local 100 (New York City), 1931-1978.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Transport Workers Union of America: Locals Records</field>
+    <field name="collection_ssm">Transport Workers Union of America: Locals Records</field>
+    <field name="collection_unitid_ssm">WAG.234/repositories/2/resources/1489</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Section 20</field>
+    <field name="unittitle_teim">Section 20</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/353165</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/353165</field>
+    <field name="unitdate_normal_ssm">1937/1949</field>
+    <field name="unitdate_normal_teim">1937/1949</field>
+    <field name="unitdate_normal_sim">1937/1949</field>
+    <field name="unitdate_inclusive_teim">1937-1949</field>
+    <field name="ref_ssi">aspace_ref1249</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 41, Folder: 19</field>
+    <field name="location_ssm">Folder: 19</field>
+    <field name="location_si">Folder: 19</field>
+    <field name="collection_teim">Transport Workers Union of America: Locals Records</field>
+    <field name="collection_unitid_teim">WAG.234/repositories/2/resources/1489</field>
+    <field name="series_sim">Series I: Records of TWU Local 100 (New York City), 1931-1978.</field>
+    <field name="series_si">Series I: Records of TWU Local 100 (New York City), 1931-1978. &gt;&gt; Section 20</field>
+    <field name="heading_ssm">Section 20</field>
+    <field name="unitdate_start_sim">1937</field>
+    <field name="unitdate_start_ssm">1937</field>
+    <field name="unitdate_start_si">1937</field>
+    <field name="unitdate_end_sim">1949</field>
+    <field name="unitdate_end_ssm">1949</field>
+    <field name="unitdate_end_si">1949</field>
+    <field name="unitdate_ssm">Inclusive, 1937-1949</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1238</field>
+  </doc>
+</add>

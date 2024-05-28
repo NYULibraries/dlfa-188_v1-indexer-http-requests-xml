@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_110aspace_ref115</field>
+    <field name="ead_ssi">wag_110</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Associated Actors and Artistes of America Records</field>
+    <field name="collection_ssm">Associated Actors and Artistes of America Records</field>
+    <field name="collection_unitid_ssm">WAG.110</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII: Affiliates</field>
+    <field name="unittitle_teim">Series VII: Affiliates</field>
+    <field name="unitdate_normal_ssm">1909/1993</field>
+    <field name="unitdate_normal_teim">1909/1993</field>
+    <field name="unitdate_normal_sim">1909/1993</field>
+    <field name="unitdate_inclusive_teim">1909-1993</field>
+    <field name="scopecontent_teim">Comprises almost two-thirds of the processed materials, and is nearly equally divided between records of American Guild of Variety Artists (AGVA) affiliates, which principally concerns ongoing allegations and investigations of corrupt practices (1940s-1970s), and files pertaining to other affiliates, including smaller and/or more ephemeral groups such as the American Federation of Artists (Charter Revocation, 1939-42), the Burlesque Artists Association, Chorus Equity Association, Grand Opera Choral Alliance, Motion Picture Players/Screen Players Union, Screen Extras Guild, the Television Authority (1949-52), the White Rats Actors Union, and several ethnically-based affiliates, including the Hebrew Actors Union, Hungarian Actors and Artists Association, Italian Actors Union, Polish Actors Union, Puerto Rican Artists and Technicians Association, and the Yiddish Playwrights League.</field>
+    <field name="ref_ssi">aspace_ref115</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Associated Actors and Artistes of America Records</field>
+    <field name="collection_unitid_teim">WAG.110</field>
+    <field name="series_si">Series VII: Affiliates</field>
+    <field name="heading_ssm">Series VII: Affiliates</field>
+    <field name="unitdate_start_sim">1909</field>
+    <field name="unitdate_start_ssm">1909</field>
+    <field name="unitdate_start_si">1909</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, 1909-1993</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">131</field>
+  </doc>
+</add>

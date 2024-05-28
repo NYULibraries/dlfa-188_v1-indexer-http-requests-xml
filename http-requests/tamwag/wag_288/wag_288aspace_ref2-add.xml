@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_288aspace_ref2</field>
+    <field name="ead_ssi">wag_288</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Madeline Lee Gilford Papers</field>
+    <field name="collection_ssm">Madeline Lee Gilford Papers</field>
+    <field name="collection_unitid_ssm">WAG.288</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Subject Files</field>
+    <field name="unittitle_teim">Series I: Subject Files</field>
+    <field name="unitdate_normal_ssm">1940/2005</field>
+    <field name="unitdate_normal_teim">1940/2005</field>
+    <field name="unitdate_normal_sim">1940/2005</field>
+    <field name="unitdate_inclusive_teim">1940-2005</field>
+    <field name="scopecontent_teim">Series I contains correspondence, clippings, photographs, scripts, and speeches documenting Gilford's career and social activism.  A significant portion of the collection relates to 170 Years of Show Business.  The series includes transcripts of Gilford's testimony before HUAC and correspondence from the American Federation of Television and Radio Artists (AFTRA) regarding the failure or refusal of its members to answer questions posed by HUAC.  Other notable items include correspondence from Woody Guthrie, E. Y. (Edgar Yipsel) Harburg, and Arthur Miller.  Photographs include over forty scenes from Attic Playshop, a children's television program produced by Gilford in the 1950s; publicity shots of Madeline Gilford, Jack Gilford, and John Randolph; the 1940 cast of Meet the People; and Robert Meeropol circa 1970s.</field>
+    <field name="ref_ssi">aspace_ref2</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Madeline Lee Gilford Papers</field>
+    <field name="collection_unitid_teim">WAG.288</field>
+    <field name="series_si">Series I: Subject Files</field>
+    <field name="heading_ssm">Series I: Subject Files</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">2005</field>
+    <field name="unitdate_end_ssm">2005</field>
+    <field name="unitdate_end_si">2005</field>
+    <field name="unitdate_ssm">Inclusive, 1940-2005</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

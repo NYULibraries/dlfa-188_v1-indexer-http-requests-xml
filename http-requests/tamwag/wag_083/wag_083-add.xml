@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="unittitle_teim">Mordecai Barles Papers</field>
+    <field name="unittitle_ssm">Mordecai Barles Papers</field>
+    <field name="unitid_teim">WAG.083</field>
+    <field name="unitid_ssm">WAG.083</field>
+    <field name="unitdate_normal_ssm">1890/1920</field>
+    <field name="unitdate_normal_teim">1890/1920</field>
+    <field name="unitdate_normal_sim">1890/1920</field>
+    <field name="unitdate_inclusive_teim">circa 1890s-1920s</field>
+    <field name="scopecontent_teim">Documents related to Poale Zion and Pocketbook Makers, Local 1.</field>
+    <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="corpname_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="persname_teim">Barles, Mordecai</field>
+    <field name="persname_ssm">Barles, Mordecai</field>
+    <field name="collection_sim">Mordecai Barles Papers</field>
+    <field name="collection_ssm">Mordecai Barles Papers</field>
+    <field name="collection_teim">Mordecai Barles Papers</field>
+    <field name="id">wag_083</field>
+    <field name="ead_ssi">wag_083</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Barles, Mordecai</field>
+    <field name="name_teim">Barles, Mordecai</field>
+    <field name="heading_ssm">Mordecai Barles Papers</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1920</field>
+    <field name="unitdate_end_ssm">1920</field>
+    <field name="unitdate_end_si">1920</field>
+    <field name="unitdate_ssm">Inclusive, circa 1890s-1920s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

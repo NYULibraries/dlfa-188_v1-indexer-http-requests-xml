@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_165aspace_ref323</field>
+    <field name="ead_ssi">wag_165</field>
+    <field name="parent_ssi">aspace_ref319</field>
+    <field name="parent_ssm">aspace_ref319</field>
+    <field name="parent_unittitles_ssm">Series IV: Videotapes (VHS and Access DVDs)</field>
+    <field name="parent_unittitles_teim">Series IV: Videotapes (VHS and Access DVDs)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Marvin J. Miller and Theresa (Terry) Miller Papers</field>
+    <field name="collection_ssm">Marvin J. Miller and Theresa (Terry) Miller Papers</field>
+    <field name="collection_unitid_ssm">WAG.165</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Marvin Miller: Nation Forum</field>
+    <field name="unittitle_teim">Marvin Miller: Nation Forum</field>
+    <field name="unitdate_normal_ssm">1995/1995</field>
+    <field name="unitdate_normal_teim">1995/1995</field>
+    <field name="unitdate_normal_sim">1995/1995</field>
+    <field name="unitdate_inclusive_teim">May 1, 1995</field>
+    <field name="ref_ssi">aspace_ref323</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 16, DVD: 25</field>
+    <field name="location_ssm">DVD: 25</field>
+    <field name="location_ssm">Box: Shared Tamiment 033</field>
+    <field name="location_si">Box: Shared Tamiment 033</field>
+    <field name="collection_teim">Marvin J. Miller and Theresa (Terry) Miller Papers</field>
+    <field name="collection_unitid_teim">WAG.165</field>
+    <field name="series_sim">Series IV: Videotapes (VHS and Access DVDs)</field>
+    <field name="series_si">Series IV: Videotapes (VHS and Access DVDs) &gt;&gt; Marvin Miller: Nation Forum</field>
+    <field name="heading_ssm">Marvin Miller: Nation Forum</field>
+    <field name="unitdate_start_sim">1995</field>
+    <field name="unitdate_start_ssm">1995</field>
+    <field name="unitdate_start_si">1995</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, May 1, 1995</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">279</field>
+  </doc>
+</add>

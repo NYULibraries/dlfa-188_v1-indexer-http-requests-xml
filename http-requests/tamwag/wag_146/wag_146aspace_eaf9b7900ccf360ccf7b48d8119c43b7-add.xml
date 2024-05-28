@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_146aspace_eaf9b7900ccf360ccf7b48d8119c43b7</field>
+    <field name="ead_ssi">wag_146</field>
+    <field name="parent_ssi">aspace_a42461a896fbfd97198e24ea3e60aa90</field>
+    <field name="parent_ssm">aspace_a42461a896fbfd97198e24ea3e60aa90</field>
+    <field name="parent_unittitles_ssm">Series I. National Maritime Union</field>
+    <field name="parent_unittitles_teim">Series I. National Maritime Union</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Gladstone Papers</field>
+    <field name="collection_ssm">John Gladstone Papers</field>
+    <field name="collection_unitid_ssm">WAG.146</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photographs</field>
+    <field name="unittitle_teim">Photographs</field>
+    <field name="unitdate_inclusive_teim">circa 1930-1950, 1985</field>
+    <field name="ref_ssi">aspace_eaf9b7900ccf360ccf7b48d8119c43b7</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_ssm">Box: 3, Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">John Gladstone Papers</field>
+    <field name="collection_unitid_teim">WAG.146</field>
+    <field name="series_sim">Series I. National Maritime Union</field>
+    <field name="series_si">Series I. National Maritime Union &gt;&gt; Photographs</field>
+    <field name="heading_ssm">Photographs</field>
+    <field name="unitdate_ssm">Inclusive, circa 1930-1950, 1985</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

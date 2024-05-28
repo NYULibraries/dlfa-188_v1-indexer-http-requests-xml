@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_124aspace_ref6947</field>
+    <field name="ead_ssi">wag_124</field>
+    <field name="parent_ssi">aspace_ref6792</field>
+    <field name="parent_ssm">aspace_ref6791</field>
+    <field name="parent_ssm">aspace_ref6792</field>
+    <field name="parent_unittitles_ssm">Series IX: CWA Administration</field>
+    <field name="parent_unittitles_ssm">Subseries IX:A: Personnel, 1947-1985</field>
+    <field name="parent_unittitles_teim">Series IX: CWA Administration</field>
+    <field name="parent_unittitles_teim">Subseries IX:A: Personnel, 1947-1985</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Communications Workers of America Records</field>
+    <field name="collection_ssm">Communications Workers of America Records</field>
+    <field name="collection_unitid_ssm">WAG.124/repositories/2/resources/1385</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Resume: James E. Irvine</field>
+    <field name="unittitle_teim">Resume: James E. Irvine</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/323457</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/323457</field>
+    <field name="unitdate_normal_ssm">1919/1989</field>
+    <field name="unitdate_normal_teim">1919/1989</field>
+    <field name="unitdate_normal_sim">1919/1989</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref6947</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 259, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Communications Workers of America Records</field>
+    <field name="collection_unitid_teim">WAG.124/repositories/2/resources/1385</field>
+    <field name="series_sim">Series IX: CWA Administration</field>
+    <field name="series_sim">Subseries IX:A: Personnel, 1947-1985</field>
+    <field name="series_si">Series IX: CWA Administration &gt;&gt; Subseries IX:A: Personnel, 1947-1985 &gt;&gt; Resume: James E. Irvine</field>
+    <field name="heading_ssm">Resume: James E. Irvine</field>
+    <field name="unitdate_start_sim">1919</field>
+    <field name="unitdate_start_ssm">1919</field>
+    <field name="unitdate_start_si">1919</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">6895</field>
+  </doc>
+</add>

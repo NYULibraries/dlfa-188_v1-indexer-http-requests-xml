@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_110aspace_ref77</field>
+    <field name="ead_ssi">wag_110</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Associated Actors and Artistes of America Records</field>
+    <field name="collection_ssm">Associated Actors and Artistes of America Records</field>
+    <field name="collection_unitid_ssm">WAG.110</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Community Activities</field>
+    <field name="unittitle_teim">Series V: Community Activities</field>
+    <field name="unitdate_normal_ssm">1930/1962</field>
+    <field name="unitdate_normal_teim">1930/1962</field>
+    <field name="unitdate_normal_sim">1930/1962</field>
+    <field name="unitdate_inclusive_teim">1930-1962</field>
+    <field name="scopecontent_teim">Contains files on various organizations that the Four A's allied itself with or otherwise engaged. The material on the Federal Theater Project contains one letter from Hallie Flanagan. There is substantial material on the World's Fair and the contemporaneous San Francisco Exposition.</field>
+    <field name="ref_ssi">aspace_ref77</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Associated Actors and Artistes of America Records</field>
+    <field name="collection_unitid_teim">WAG.110</field>
+    <field name="series_si">Series V: Community Activities</field>
+    <field name="heading_ssm">Series V: Community Activities</field>
+    <field name="unitdate_start_sim">1930</field>
+    <field name="unitdate_start_ssm">1930</field>
+    <field name="unitdate_start_si">1930</field>
+    <field name="unitdate_end_sim">1962</field>
+    <field name="unitdate_end_ssm">1962</field>
+    <field name="unitdate_end_si">1962</field>
+    <field name="unitdate_ssm">Inclusive, 1930-1962</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">93</field>
+  </doc>
+</add>

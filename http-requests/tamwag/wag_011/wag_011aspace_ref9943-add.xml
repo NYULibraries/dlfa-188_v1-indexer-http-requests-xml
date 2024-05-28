@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_011aspace_ref9943</field>
+    <field name="ead_ssi">wag_011</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Actors' Equity Association Records</field>
+    <field name="collection_ssm">Actors' Equity Association Records</field>
+    <field name="collection_unitid_ssm">WAG.011/repositories/2/resources/1275</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series X: Photographs, Video, and Ephemera</field>
+    <field name="unittitle_teim">Series X: Photographs, Video, and Ephemera</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/273535</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/273535</field>
+    <field name="unitdate_normal_ssm">1913/1991</field>
+    <field name="unitdate_normal_teim">1913/1991</field>
+    <field name="unitdate_normal_sim">1913/1991</field>
+    <field name="unitdate_inclusive_teim">1913-1991</field>
+    <field name="scopecontent_teim">Consists of photographs of Actors' Equity Association members and events, clippings, invitations, publications, playbills, musical scores, piano practice books, scripts, and pins.</field>
+    <field name="ref_ssi">aspace_ref9943</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Actors' Equity Association Records</field>
+    <field name="collection_unitid_teim">WAG.011/repositories/2/resources/1275</field>
+    <field name="series_si">Series X: Photographs, Video, and Ephemera</field>
+    <field name="heading_ssm">Series X: Photographs, Video, and Ephemera</field>
+    <field name="unitdate_start_sim">1913</field>
+    <field name="unitdate_start_ssm">1913</field>
+    <field name="unitdate_start_si">1913</field>
+    <field name="unitdate_end_sim">1991</field>
+    <field name="unitdate_end_ssm">1991</field>
+    <field name="unitdate_end_si">1991</field>
+    <field name="unitdate_ssm">Inclusive, 1913-1991</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">9948</field>
+  </doc>
+</add>

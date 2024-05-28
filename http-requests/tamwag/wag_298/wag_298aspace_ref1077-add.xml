@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">wag_298aspace_ref1077</field>
+    <field name="ead_ssi">wag_298</field>
+    <field name="parent_ssi">aspace_ref951</field>
+    <field name="parent_ssm">aspace_ref951</field>
+    <field name="parent_unittitles_ssm">Series IV: Officers and Staff-Administrative Files</field>
+    <field name="parent_unittitles_teim">Series IV: Officers and Staff-Administrative Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">American Federation of State, County, and Municipal Employees (AFSCME), District Council 1707 Records</field>
+    <field name="collection_ssm">American Federation of State, County, and Municipal Employees (AFSCME), District Council 1707 Records</field>
+    <field name="collection_unitid_ssm">WAG.298</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV:E: Richard Morton, 1971-1984.</field>
+    <field name="unittitle_teim">Subseries IV:E: Richard Morton, 1971-1984.</field>
+    <field name="scopecontent_teim">One file of administrative material. Morton was Executive Director of Local 1707/DC 1707 from 1970 to 1984.</field>
+    <field name="ref_ssi">aspace_ref1077</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">American Federation of State, County, and Municipal Employees (AFSCME), District Council 1707 Records</field>
+    <field name="collection_unitid_teim">WAG.298</field>
+    <field name="series_sim">Series IV: Officers and Staff-Administrative Files</field>
+    <field name="series_si">Series IV: Officers and Staff-Administrative Files &gt;&gt; Subseries IV:E: Richard Morton, 1971-1984.</field>
+    <field name="heading_ssm">Subseries IV:E: Richard Morton, 1971-1984.</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1062</field>
+  </doc>
+</add>
