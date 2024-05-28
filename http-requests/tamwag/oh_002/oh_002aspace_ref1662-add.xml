@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref1662</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1623</field>
+    <field name="parent_ssm">aspace_ref1623</field>
+    <field name="parent_unittitles_ssm">Restricted Interviews in Oral History of the American Left</field>
+    <field name="parent_unittitles_teim">Restricted Interviews in Oral History of the American Left</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Charlotte Stern</field>
+    <field name="unittitle_teim">Charlotte Stern</field>
+    <field name="unitid_teim">cuid1620</field>
+    <field name="unitid_ssm">cuid1620</field>
+    <field name="unitdate_normal_ssm">1976/1976</field>
+    <field name="unitdate_normal_teim">1976/1976</field>
+    <field name="unitdate_normal_sim">1976/1976</field>
+    <field name="unitdate_inclusive_teim">1976</field>
+    <field name="ref_ssi">aspace_ref1662</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Series 7</field>
+    <field name="location_ssm">Box: 90, audiocassette: 7A-7M</field>
+    <field name="location_ssm">audiocassette: 7A-7M</field>
+    <field name="location_ssm">Box: 91, audiocassette: 1A, 1B, 2, 3A, 3B, 4B, 4D, 5B, 6</field>
+    <field name="location_ssm">audiocassette: 1A, 1B, 2, 3A, 3B, 4B, 4D, 5B, 6</field>
+    <field name="location_si">audiocassette: 1A, 1B, 2, 3A, 3B, 4B, 4D, 5B, 6</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Restricted Interviews in Oral History of the American Left</field>
+    <field name="series_si">Restricted Interviews in Oral History of the American Left &gt;&gt; Charlotte Stern</field>
+    <field name="heading_ssm">Charlotte Stern</field>
+    <field name="unitdate_start_sim">1976</field>
+    <field name="unitdate_start_ssm">1976</field>
+    <field name="unitdate_start_si">1976</field>
+    <field name="unitdate_end_sim">1976</field>
+    <field name="unitdate_end_ssm">1976</field>
+    <field name="unitdate_end_si">1976</field>
+    <field name="unitdate_ssm">Inclusive, 1976</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">585</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_031aspace_ref93</field>
+    <field name="ead_ssi">oh_031</field>
+    <field name="parent_ssi">aspace_ref70</field>
+    <field name="parent_ssm">aspace_ref70</field>
+    <field name="parent_unittitles_ssm">Oral Histories</field>
+    <field name="parent_unittitles_teim">Oral Histories</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Playhouse Alumni Oral History Collection</field>
+    <field name="collection_ssm">Tamiment Playhouse Alumni Oral History Collection</field>
+    <field name="collection_unitid_ssm">OH.031</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Garrett, Betty</field>
+    <field name="unittitle_teim">Garrett, Betty</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref93</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Cassette: 22</field>
+    <field name="location_ssm">Cassette: 22</field>
+    <field name="location_ssm">Box: 3, CD: Garrett 1-2</field>
+    <field name="location_ssm">CD: Garrett 1-2</field>
+    <field name="location_ssm">Box: 1, Folder: 21</field>
+    <field name="location_ssm">Folder: 21</field>
+    <field name="location_si">Folder: 21</field>
+    <field name="collection_teim">Tamiment Playhouse Alumni Oral History Collection</field>
+    <field name="collection_unitid_teim">OH.031</field>
+    <field name="series_sim">Oral Histories</field>
+    <field name="series_si">Oral Histories &gt;&gt; Garrett, Betty</field>
+    <field name="heading_ssm">Garrett, Betty</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">23</field>
+  </doc>
+</add>

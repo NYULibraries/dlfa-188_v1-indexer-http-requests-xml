@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref1621</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Tamiment Institute Tapes</field>
+    <field name="unittitle_teim">Tamiment Institute Tapes</field>
+    <field name="unitdate_normal_ssm">1955/1965</field>
+    <field name="unitdate_normal_teim">1955/1965</field>
+    <field name="unitdate_normal_sim">1955/1965</field>
+    <field name="unitdate_inclusive_teim">circa 1955-1965</field>
+    <field name="scopecontent_teim">This series contains a collection of tapes held by the Tamiment Institute that predated the establishment of the Oral History of the American Left. These tapes include recordings of meetings, speeches, panel discussions, and interviews recorded during the 1950s-1960s.</field>
+    <field name="ref_ssi">aspace_ref1621</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_si">Tamiment Institute Tapes</field>
+    <field name="heading_ssm">Tamiment Institute Tapes</field>
+    <field name="unitdate_start_sim">1955</field>
+    <field name="unitdate_start_ssm">1955</field>
+    <field name="unitdate_start_si">1955</field>
+    <field name="unitdate_end_sim">1965</field>
+    <field name="unitdate_end_ssm">1965</field>
+    <field name="unitdate_end_si">1965</field>
+    <field name="unitdate_ssm">Inclusive, circa 1955-1965</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">554</field>
+  </doc>
+</add>

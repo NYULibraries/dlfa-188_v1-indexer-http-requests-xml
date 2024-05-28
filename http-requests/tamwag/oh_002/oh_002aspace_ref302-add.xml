@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref302</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1602</field>
+    <field name="parent_ssm">aspace_ref1602</field>
+    <field name="parent_unittitles_ssm">Oral History of the American Left Main Series</field>
+    <field name="parent_unittitles_teim">Oral History of the American Left Main Series</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Rose Kryzak</field>
+    <field name="unittitle_teim">Rose Kryzak</field>
+    <field name="unitid_teim">cuid1362</field>
+    <field name="unitid_ssm">cuid1362</field>
+    <field name="unitdate_normal_ssm">1982/1982</field>
+    <field name="unitdate_normal_teim">1982/1982</field>
+    <field name="unitdate_normal_sim">1982/1982</field>
+    <field name="unitdate_inclusive_teim">Jan 4, 1982</field>
+    <field name="scopecontent_teim">Kryzak describes growing up in New York City, her life as a Communist Party member from 1933, her trip to Soviet Union and impressions of it, the Communist Party and women's issues, and the McCarthy period.</field>
+    <field name="scopecontent_teim">Interview by Ruth F. Prago.</field>
+    <field name="dao_teim">Rose Kryzak</field>
+    <field name="dao_ssm">Rose Kryzak</field>
+    <field name="ref_ssi">aspace_ref302</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 54</field>
+    <field name="location_ssm">Folder: 54</field>
+    <field name="location_ssm">Box: 19, CD: Kryzak 1</field>
+    <field name="location_ssm">CD: Kryzak 1</field>
+    <field name="location_ssm">Box: 5, Cassette: 141</field>
+    <field name="location_ssm">Cassette: 141</field>
+    <field name="location_si">Cassette: 141</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Oral History of the American Left Main Series</field>
+    <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Rose Kryzak</field>
+    <field name="heading_ssm">Rose Kryzak</field>
+    <field name="unitdate_start_sim">1982</field>
+    <field name="unitdate_start_ssm">1982</field>
+    <field name="unitdate_start_si">1982</field>
+    <field name="unitdate_end_sim">1982</field>
+    <field name="unitdate_end_ssm">1982</field>
+    <field name="unitdate_end_si">1982</field>
+    <field name="unitdate_ssm">Inclusive, Jan 4, 1982</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">201</field>
+  </doc>
+</add>

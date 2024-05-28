@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_031aspace_ref157</field>
+    <field name="ead_ssi">oh_031</field>
+    <field name="parent_ssi">aspace_ref135</field>
+    <field name="parent_ssm">aspace_ref135</field>
+    <field name="parent_unittitles_ssm">Audio Recordings of Performances</field>
+    <field name="parent_unittitles_teim">Audio Recordings of Performances</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Playhouse Alumni Oral History Collection</field>
+    <field name="collection_ssm">Tamiment Playhouse Alumni Oral History Collection</field>
+    <field name="collection_unitid_ssm">OH.031</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Third show, &lt;em&gt;Silver Screen&lt;/em&gt;</field>
+    <field name="unittitle_teim">Third show, Silver Screen</field>
+    <field name="unitdate_normal_ssm">1960/1960</field>
+    <field name="unitdate_normal_teim">1960/1960</field>
+    <field name="unitdate_normal_sim">1960/1960</field>
+    <field name="unitdate_inclusive_teim">Jul 16, 1960</field>
+    <field name="ref_ssi">aspace_ref157</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Quarter_Inch_Audio_Reel: 21</field>
+    <field name="location_ssm">Quarter_Inch_Audio_Reel: 21</field>
+    <field name="location_si">Quarter_Inch_Audio_Reel: 21</field>
+    <field name="collection_teim">Tamiment Playhouse Alumni Oral History Collection</field>
+    <field name="collection_unitid_teim">OH.031</field>
+    <field name="series_sim">Audio Recordings of Performances</field>
+    <field name="series_si">Audio Recordings of Performances &gt;&gt; Third show, &lt;em&gt;Silver Screen&lt;/em&gt;</field>
+    <field name="heading_ssm">Third show, Silver Screen</field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">1960</field>
+    <field name="unitdate_end_ssm">1960</field>
+    <field name="unitdate_end_si">1960</field>
+    <field name="unitdate_ssm">Inclusive, Jul 16, 1960</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">89</field>
+  </doc>
+</add>

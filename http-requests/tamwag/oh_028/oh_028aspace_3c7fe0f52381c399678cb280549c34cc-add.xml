@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_028aspace_3c7fe0f52381c399678cb280549c34cc</field>
+    <field name="ead_ssi">oh_028</field>
+    <field name="parent_ssi">aspace_00950826f913fc8079fa5aa0c1478e97</field>
+    <field name="parent_ssm">aspace_00950826f913fc8079fa5aa0c1478e97</field>
+    <field name="parent_unittitles_ssm">Series I. Meeting Recordings</field>
+    <field name="parent_unittitles_teim">Series I. Meeting Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York City Taxi Drivers' Union, Local 3036 Audio Recordings</field>
+    <field name="collection_ssm">New York City Taxi Drivers' Union, Local 3036 Audio Recordings</field>
+    <field name="collection_unitid_ssm">OH.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Chair and Committee Meeting</field>
+    <field name="unittitle_teim">Chair and Committee Meeting</field>
+    <field name="unitdate_normal_ssm">1981-06-29/1981-06-29</field>
+    <field name="unitdate_normal_teim">1981-06-29/1981-06-29</field>
+    <field name="unitdate_normal_sim">1981-06-29/1981-06-29</field>
+    <field name="unitdate_teim">June 29, 1981</field>
+    <field name="ref_ssi">aspace_3c7fe0f52381c399678cb280549c34cc</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, audiocassette: 028_0034</field>
+    <field name="location_ssm">audiocassette: 028_0034</field>
+    <field name="location_si">audiocassette: 028_0034</field>
+    <field name="collection_teim">New York City Taxi Drivers' Union, Local 3036 Audio Recordings</field>
+    <field name="collection_unitid_teim">OH.028</field>
+    <field name="series_sim">Series I. Meeting Recordings</field>
+    <field name="series_si">Series I. Meeting Recordings &gt;&gt; Chair and Committee Meeting</field>
+    <field name="heading_ssm">Chair and Committee Meeting</field>
+    <field name="unitdate_ssm">June 29, 1981</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">131</field>
+  </doc>
+</add>

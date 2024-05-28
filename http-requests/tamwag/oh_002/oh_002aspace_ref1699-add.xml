@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref1699</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1621</field>
+    <field name="parent_ssm">aspace_ref1621</field>
+    <field name="parent_unittitles_ssm">Tamiment Institute Tapes</field>
+    <field name="parent_unittitles_teim">Tamiment Institute Tapes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Judge Jacob Panken</field>
+    <field name="unittitle_teim">Judge Jacob Panken</field>
+    <field name="unitid_teim">cuid1607</field>
+    <field name="unitid_ssm">cuid1607</field>
+    <field name="unitdate_normal_ssm">1960-06-21/1960-06-21</field>
+    <field name="unitdate_normal_teim">1960-06-21/1960-06-21</field>
+    <field name="unitdate_normal_sim">1960-06-21/1960-06-21</field>
+    <field name="unitdate_teim">Jun 21, 1960</field>
+    <field name="scopecontent_teim">Recording regarding Meyer London.</field>
+    <field name="ref_ssi">aspace_ref1699</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 42</field>
+    <field name="location_ssm">Box: 83, audiocassette: 2</field>
+    <field name="location_ssm">audiocassette: 2</field>
+    <field name="location_ssm">Box: 89, audiocassette: 2</field>
+    <field name="location_si">audiocassette: 2</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Tamiment Institute Tapes</field>
+    <field name="series_si">Tamiment Institute Tapes &gt;&gt; Judge Jacob Panken</field>
+    <field name="heading_ssm">Judge Jacob Panken</field>
+    <field name="unitdate_ssm">Jun 21, 1960</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">556</field>
+  </doc>
+</add>

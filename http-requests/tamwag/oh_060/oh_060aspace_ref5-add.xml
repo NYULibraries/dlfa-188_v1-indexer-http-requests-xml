@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_060aspace_ref5</field>
+    <field name="ead_ssi">oh_060</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Colin Davis Waterfront Workers Oral History Collection</field>
+    <field name="collection_ssm">Colin Davis Waterfront Workers Oral History Collection</field>
+    <field name="collection_unitid_ssm">OH.060</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Joe Bloomberg</field>
+    <field name="unittitle_teim">Joe Bloomberg</field>
+    <field name="unitdate_normal_ssm">1996/1996</field>
+    <field name="unitdate_normal_teim">1996/1996</field>
+    <field name="unitdate_normal_sim">1996/1996</field>
+    <field name="unitdate_inclusive_teim">Aug 5, 1996</field>
+    <field name="ref_ssi">aspace_ref5</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, CD: Bloomberg 1-2</field>
+    <field name="location_ssm">CD: Bloomberg 1-2</field>
+    <field name="location_ssm">Box: Shared Tamiment 103, Cassette: 2</field>
+    <field name="location_ssm">Cassette: 2</field>
+    <field name="location_si">Cassette: 2</field>
+    <field name="collection_teim">Colin Davis Waterfront Workers Oral History Collection</field>
+    <field name="collection_unitid_teim">OH.060</field>
+    <field name="series_si">Joe Bloomberg</field>
+    <field name="heading_ssm">Joe Bloomberg</field>
+    <field name="unitdate_start_sim">1996</field>
+    <field name="unitdate_start_ssm">1996</field>
+    <field name="unitdate_start_si">1996</field>
+    <field name="unitdate_end_sim">1996</field>
+    <field name="unitdate_end_ssm">1996</field>
+    <field name="unitdate_end_si">1996</field>
+    <field name="unitdate_ssm">Inclusive, Aug 5, 1996</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

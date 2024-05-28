@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_036aspace_ref25</field>
+    <field name="ead_ssi">oh_036</field>
+    <field name="parent_ssi">aspace_ref48</field>
+    <field name="parent_ssm">aspace_ref48</field>
+    <field name="parent_unittitles_ssm">If I Had a Hammer</field>
+    <field name="parent_unittitles_teim">If I Had a Hammer</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Maurice Isserman Oral History Interviews</field>
+    <field name="collection_ssm">Maurice Isserman Oral History Interviews</field>
+    <field name="collection_unitid_ssm">OH.036</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Joni Rabinowitz</field>
+    <field name="unittitle_teim">Joni Rabinowitz</field>
+    <field name="unitid_teim">cuid137</field>
+    <field name="unitid_ssm">cuid137</field>
+    <field name="unitdate_normal_ssm">1983/1983</field>
+    <field name="unitdate_normal_teim">1983/1983</field>
+    <field name="unitdate_normal_sim">1983/1983</field>
+    <field name="unitdate_inclusive_teim">Jul 15, 1983</field>
+    <field name="ref_ssi">aspace_ref25</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Cassette: 25</field>
+    <field name="location_ssm">Cassette: 25</field>
+    <field name="location_ssm">Box: 3, CD: 25</field>
+    <field name="location_ssm">CD: 25</field>
+    <field name="location_si">CD: 25</field>
+    <field name="collection_teim">Maurice Isserman Oral History Interviews</field>
+    <field name="collection_unitid_teim">OH.036</field>
+    <field name="series_sim">If I Had a Hammer</field>
+    <field name="series_si">If I Had a Hammer &gt;&gt; Joni Rabinowitz</field>
+    <field name="heading_ssm">Joni Rabinowitz</field>
+    <field name="unitdate_start_sim">1983</field>
+    <field name="unitdate_start_ssm">1983</field>
+    <field name="unitdate_start_si">1983</field>
+    <field name="unitdate_end_sim">1983</field>
+    <field name="unitdate_end_ssm">1983</field>
+    <field name="unitdate_end_si">1983</field>
+    <field name="unitdate_ssm">Inclusive, Jul 15, 1983</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">25</field>
+  </doc>
+</add>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref230</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1602</field>
+    <field name="parent_ssm">aspace_ref1602</field>
+    <field name="parent_unittitles_ssm">Oral History of the American Left Main Series</field>
+    <field name="parent_unittitles_teim">Oral History of the American Left Main Series</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Nina Goldstein</field>
+    <field name="unittitle_teim">Nina Goldstein</field>
+    <field name="unitid_teim">cuid1304</field>
+    <field name="unitid_ssm">cuid1304</field>
+    <field name="unitdate_normal_ssm">1980/1980</field>
+    <field name="unitdate_normal_teim">1980/1980</field>
+    <field name="unitdate_normal_sim">1980/1980</field>
+    <field name="unitdate_inclusive_teim">Mar 19, 1980</field>
+    <field name="scopecontent_teim">Interview documents Goldstein's early life in Russia and Canada, her work and political life in Brownsville and East Flatbush, Brooklyn during the 1920s-1930s, and the activities of the Communist Party. The interview also covers theMorgen Freiheit, the International Workers Order, Russian War Relief and aid to Israel during the 1940s, and the Jewish cultural movement in Miami Beach.</field>
+    <field name="scopecontent_teim">Interview by Bea Lemisch.</field>
+    <field name="title_teim">Morgen Freiheit</field>
+    <field name="title_ssm">Morgen Freiheit</field>
+    <field name="dao_teim">Nina Goldstein</field>
+    <field name="dao_ssm">Nina Goldstein</field>
+    <field name="ref_ssi">aspace_ref230</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 42</field>
+    <field name="location_ssm">Folder: 42</field>
+    <field name="location_ssm">Box: 4, Cassette: 107 A-D</field>
+    <field name="location_ssm">Cassette: 107 A-D</field>
+    <field name="location_ssm">Box: 17, CD: N. Goldstein 1-4</field>
+    <field name="location_ssm">CD: N. Goldstein 1-4</field>
+    <field name="location_si">CD: N. Goldstein 1-4</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Oral History of the American Left Main Series</field>
+    <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Nina Goldstein</field>
+    <field name="heading_ssm">Nina Goldstein</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, Mar 19, 1980</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">142</field>
+  </doc>
+</add>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref224</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1602</field>
+    <field name="parent_ssm">aspace_ref1602</field>
+    <field name="parent_unittitles_ssm">Oral History of the American Left Main Series</field>
+    <field name="parent_unittitles_teim">Oral History of the American Left Main Series</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Itche Goldberg</field>
+    <field name="unittitle_teim">Itche Goldberg</field>
+    <field name="unitid_teim">cuid1300</field>
+    <field name="unitid_ssm">cuid1300</field>
+    <field name="unitdate_normal_ssm">1982/1982</field>
+    <field name="unitdate_normal_teim">1982/1982</field>
+    <field name="unitdate_normal_sim">1982/1982</field>
+    <field name="unitdate_inclusive_teim">Jun 5, 1982</field>
+    <field name="scopecontent_teim">Interview covers Goldberg's role as editor of Yiddishe Kultur, his early literary influences, an analysis of the development of Yiddish literature, political and introspective approaches to literature, and literary criticism. Goldberg also discusses the future of the Yiddish language and literature.</field>
+    <field name="scopecontent_teim">Interview by Paul Buhle.</field>
+    <field name="title_teim">Yiddishe Kultur</field>
+    <field name="title_ssm">Yiddishe Kultur</field>
+    <field name="dao_teim">Itche Goldberg</field>
+    <field name="dao_ssm">Itche Goldberg</field>
+    <field name="ref_ssi">aspace_ref224</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 40</field>
+    <field name="location_ssm">Folder: 40</field>
+    <field name="location_ssm">Box: 17, CD: Goldberg 1</field>
+    <field name="location_ssm">CD: Goldberg 1</field>
+    <field name="location_ssm">Box: 4, Cassette: 104</field>
+    <field name="location_ssm">Cassette: 104</field>
+    <field name="location_si">Cassette: 104</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Oral History of the American Left Main Series</field>
+    <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Itche Goldberg</field>
+    <field name="heading_ssm">Itche Goldberg</field>
+    <field name="unitdate_start_sim">1982</field>
+    <field name="unitdate_start_ssm">1982</field>
+    <field name="unitdate_start_si">1982</field>
+    <field name="unitdate_end_sim">1982</field>
+    <field name="unitdate_end_ssm">1982</field>
+    <field name="unitdate_end_si">1982</field>
+    <field name="unitdate_ssm">Inclusive, Jun 5, 1982</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">138</field>
+  </doc>
+</add>

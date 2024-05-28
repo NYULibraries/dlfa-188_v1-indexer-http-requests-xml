@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_001aspace_ref387</field>
+    <field name="ead_ssi">oh_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New Yorkers at Work Oral History Collection</field>
+    <field name="collection_ssm">New Yorkers at Work Oral History Collection</field>
+    <field name="collection_unitid_ssm">OH.001/repositories/2/resources/384</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hyman Teitelbaun</field>
+    <field name="unittitle_teim">Hyman Teitelbaun</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/40217</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/40217</field>
+    <field name="unitdate_normal_ssm">1982/1982</field>
+    <field name="unitdate_normal_teim">1982/1982</field>
+    <field name="unitdate_normal_sim">1982/1982</field>
+    <field name="unitdate_inclusive_teim">May 12, 1982</field>
+    <field name="scopecontent_teim">Master cassettes in box 28, user cassettes in box 38.</field>
+    <field name="ref_ssi">aspace_ref387</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">CD: OH-01-172 / OH-01-173 / OH-01-174 / OH-01-175</field>
+    <field name="location_ssm">Box: 28, audiocassette: 122A, 112B</field>
+    <field name="location_ssm">audiocassette: 122A, 112B</field>
+    <field name="location_ssm">Box: 38, audiocassette: 122A, 122B</field>
+    <field name="location_ssm">audiocassette: 122A, 122B</field>
+    <field name="location_si">audiocassette: 122A, 122B</field>
+    <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
+    <field name="collection_unitid_teim">OH.001/repositories/2/resources/384</field>
+    <field name="series_si">Hyman Teitelbaun</field>
+    <field name="heading_ssm">Hyman Teitelbaun</field>
+    <field name="unitdate_start_sim">1982</field>
+    <field name="unitdate_start_ssm">1982</field>
+    <field name="unitdate_start_si">1982</field>
+    <field name="unitdate_end_sim">1982</field>
+    <field name="unitdate_end_ssm">1982</field>
+    <field name="unitdate_end_si">1982</field>
+    <field name="unitdate_ssm">Inclusive, May 12, 1982</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">238</field>
+  </doc>
+</add>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref75</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1602</field>
+    <field name="parent_ssm">aspace_ref1602</field>
+    <field name="parent_unittitles_ssm">Oral History of the American Left Main Series</field>
+    <field name="parent_unittitles_teim">Oral History of the American Left Main Series</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Harry Brier</field>
+    <field name="unittitle_teim">Harry Brier</field>
+    <field name="unitid_teim">cuid1206</field>
+    <field name="unitid_ssm">cuid1206</field>
+    <field name="unitdate_normal_ssm">1983/1983</field>
+    <field name="unitdate_normal_teim">1983/1983</field>
+    <field name="unitdate_normal_sim">1983/1983</field>
+    <field name="unitdate_inclusive_teim">Aug 26, 1983</field>
+    <field name="scopecontent_teim">Brier discusses life in the East End of London during the 1920s-1930s, the Jewish character of Communism, anti-fascist activities in London during the 1920-1930s, his immigration to Los Angeles, and union activities, from the 1940s to the time of the interview. </field>
+    <field name="scopecontent_teim">Interview by Paul Buhle.</field>
+    <field name="dao_teim">Harry Brier</field>
+    <field name="dao_ssm">Harry Brier</field>
+    <field name="ref_ssi">aspace_ref75</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Cassette: 30</field>
+    <field name="location_ssm">Cassette: 30</field>
+    <field name="location_ssm">Box: 12, CD: Brier 1</field>
+    <field name="location_ssm">CD: Brier 1</field>
+    <field name="location_si">CD: Brier 1</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Oral History of the American Left Main Series</field>
+    <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Harry Brier</field>
+    <field name="heading_ssm">Harry Brier</field>
+    <field name="unitdate_start_sim">1983</field>
+    <field name="unitdate_start_ssm">1983</field>
+    <field name="unitdate_start_si">1983</field>
+    <field name="unitdate_end_sim">1983</field>
+    <field name="unitdate_end_ssm">1983</field>
+    <field name="unitdate_end_si">1983</field>
+    <field name="unitdate_ssm">Inclusive, Aug 26, 1983</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">45</field>
+  </doc>
+</add>

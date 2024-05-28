@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref90</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1602</field>
+    <field name="parent_ssm">aspace_ref1602</field>
+    <field name="parent_unittitles_ssm">Oral History of the American Left Main Series</field>
+    <field name="parent_unittitles_teim">Oral History of the American Left Main Series</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Fanny and Herman Cantor</field>
+    <field name="unittitle_teim">Fanny and Herman Cantor</field>
+    <field name="unitid_teim">cuid1217</field>
+    <field name="unitid_ssm">cuid1217</field>
+    <field name="unitdate_normal_ssm">1979/1979</field>
+    <field name="unitdate_normal_teim">1979/1979</field>
+    <field name="unitdate_normal_sim">1979/1979</field>
+    <field name="unitdate_inclusive_teim">Jan 11, 1979</field>
+    <field name="scopecontent_teim">Interview covers immigration to US from Russia and development of social consciousness, growing up in Hell's Kitchen in New York, radicalism and cooperativism during the 1920s-1930s, and reflections on younger radicals and current events at the time of the interview. </field>
+    <field name="scopecontent_teim">Interview by Milton Cantor.</field>
+    <field name="phystech_teim">Duration: 63 minutes</field>
+    <field name="dao_teim">Fanny and Herman Cantor</field>
+    <field name="dao_ssm">Fanny and Herman Cantor</field>
+    <field name="ref_ssi">aspace_ref90</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13, CD: Cantor 1</field>
+    <field name="location_ssm">CD: Cantor 1</field>
+    <field name="location_ssm">Box: 2, Cassette: 37</field>
+    <field name="location_ssm">Cassette: 37</field>
+    <field name="location_si">Cassette: 37</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Oral History of the American Left Main Series</field>
+    <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Fanny and Herman Cantor</field>
+    <field name="heading_ssm">Fanny and Herman Cantor</field>
+    <field name="unitdate_start_sim">1979</field>
+    <field name="unitdate_start_ssm">1979</field>
+    <field name="unitdate_start_si">1979</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, Jan 11, 1979</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">56</field>
+  </doc>
+</add>

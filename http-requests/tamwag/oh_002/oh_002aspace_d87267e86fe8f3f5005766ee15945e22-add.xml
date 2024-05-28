@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_d87267e86fe8f3f5005766ee15945e22</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1618</field>
+    <field name="parent_ssm">aspace_ref1609</field>
+    <field name="parent_ssm">aspace_ref1618</field>
+    <field name="parent_unittitles_ssm">Filmmakers' Tapes and Transcripts</field>
+    <field name="parent_unittitles_ssm">Peekskill Work in Progress</field>
+    <field name="parent_unittitles_teim">Filmmakers' Tapes and Transcripts</field>
+    <field name="parent_unittitles_teim">Peekskill Work in Progress</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ward, Doug</field>
+    <field name="unittitle_teim">Ward, Doug</field>
+    <field name="unitid_teim">cuid1052</field>
+    <field name="unitid_ssm">cuid1052</field>
+    <field name="unitdate_normal_ssm">1979-01-16/1979-01-16</field>
+    <field name="unitdate_normal_teim">1979-01-16/1979-01-16</field>
+    <field name="unitdate_normal_sim">1979-01-16/1979-01-16</field>
+    <field name="unitdate_teim">January 16, 1979</field>
+    <field name="phystech_teim">Origial Format: 1/8" Audiocassette, Duration: 20 min.</field>
+    <field name="dao_teim">Ward, Doug</field>
+    <field name="dao_ssm">Ward, Doug</field>
+    <field name="ref_ssi">aspace_d87267e86fe8f3f5005766ee15945e22</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 30, CD: cuid1052</field>
+    <field name="location_ssm">CD: cuid1052</field>
+    <field name="location_ssm">Box: 85, audiocassette: 34</field>
+    <field name="location_ssm">audiocassette: 34</field>
+    <field name="location_si">audiocassette: 34</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Filmmakers' Tapes and Transcripts</field>
+    <field name="series_sim">Peekskill Work in Progress</field>
+    <field name="series_si">Filmmakers' Tapes and Transcripts &gt;&gt; Peekskill Work in Progress &gt;&gt; Ward, Doug</field>
+    <field name="heading_ssm">Ward, Doug</field>
+    <field name="unitdate_ssm">January 16, 1979</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">474</field>
+  </doc>
+</add>

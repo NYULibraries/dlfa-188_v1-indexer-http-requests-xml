@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref137</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1602</field>
+    <field name="parent_ssm">aspace_ref1602</field>
+    <field name="parent_unittitles_ssm">Oral History of the American Left Main Series</field>
+    <field name="parent_unittitles_teim">Oral History of the American Left Main Series</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Sam Davis</field>
+    <field name="unittitle_teim">Sam Davis</field>
+    <field name="unitid_teim">cuid1247</field>
+    <field name="unitid_ssm">cuid1247</field>
+    <field name="unitdate_normal_ssm">1980/1980</field>
+    <field name="unitdate_normal_teim">1980/1980</field>
+    <field name="unitdate_normal_sim">1980/1980</field>
+    <field name="unitdate_inclusive_teim">Nov 15, 1980</field>
+    <field name="scopecontent_teim">Topics discussed include the role of Jewish Left in New Haven, Connecticut since the 1920s, the nature of the Jewish community, the split of Socialists and Communists in the 1920s, the Yiddishe Kultur Farband choir, separation of Morgen Freiheit from the Communist Party, and cultural activities in the YKUF/Jewish Currents circle. </field>
+    <field name="scopecontent_teim">Interview by Paul Buhle.</field>
+    <field name="phystech_teim">Duration: 16 minutes; Preservation Note: Due to its condition, one of the audiocassettes could not be digitized.</field>
+    <field name="title_teim">Morgen Freiheit</field>
+    <field name="title_teim">Jewish Currents</field>
+    <field name="title_ssm">Morgen Freiheit</field>
+    <field name="title_ssm">Jewish Currents</field>
+    <field name="dao_teim">Sam Davis</field>
+    <field name="dao_ssm">Sam Davis</field>
+    <field name="ref_ssi">aspace_ref137</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14, CD: Davis 1-2</field>
+    <field name="location_ssm">CD: Davis 1-2</field>
+    <field name="location_ssm">Box: 2, Cassette: 61 A-B</field>
+    <field name="location_ssm">Cassette: 61 A-B</field>
+    <field name="location_si">Cassette: 61 A-B</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Oral History of the American Left Main Series</field>
+    <field name="series_si">Oral History of the American Left Main Series &gt;&gt; Sam Davis</field>
+    <field name="heading_ssm">Sam Davis</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, Nov 15, 1980</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">86</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_028aspace_cf52ed65e3d417fa5b737a1c685f313b</field>
+    <field name="ead_ssi">oh_028</field>
+    <field name="parent_ssi">aspace_a4706d46fafd9d59acf8efdab5d97876</field>
+    <field name="parent_ssm">aspace_a4706d46fafd9d59acf8efdab5d97876</field>
+    <field name="parent_unittitles_ssm">Series II. Radio Shows</field>
+    <field name="parent_unittitles_teim">Series II. Radio Shows</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York City Taxi Drivers' Union, Local 3036 Audio Recordings</field>
+    <field name="collection_ssm">New York City Taxi Drivers' Union, Local 3036 Audio Recordings</field>
+    <field name="collection_unitid_ssm">OH.028</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Barry Gray Show&lt;/em&gt;, WMCA</field>
+    <field name="unittitle_teim">Barry Gray Show, WMCA</field>
+    <field name="unitdate_normal_ssm">1971-03-04/1971-03-05</field>
+    <field name="unitdate_normal_teim">1971-03-04/1971-03-05</field>
+    <field name="unitdate_normal_sim">1971-03-04/1971-03-05</field>
+    <field name="unitdate_inclusive_teim">March 4-5, 1971</field>
+    <field name="ref_ssi">aspace_cf52ed65e3d417fa5b737a1c685f313b</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Quarter_Inch_Audio_Reel: 028_0241, 028_0242</field>
+    <field name="location_ssm">Quarter_Inch_Audio_Reel: 028_0241, 028_0242</field>
+    <field name="location_si">Quarter_Inch_Audio_Reel: 028_0241, 028_0242</field>
+    <field name="collection_teim">New York City Taxi Drivers' Union, Local 3036 Audio Recordings</field>
+    <field name="collection_unitid_teim">OH.028</field>
+    <field name="series_sim">Series II. Radio Shows</field>
+    <field name="series_si">Series II. Radio Shows &gt;&gt; &lt;em&gt;Barry Gray Show&lt;/em&gt;, WMCA</field>
+    <field name="heading_ssm">Barry Gray Show, WMCA</field>
+    <field name="unitdate_ssm">Inclusive, March 4-5, 1971</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">190</field>
+  </doc>
+</add>

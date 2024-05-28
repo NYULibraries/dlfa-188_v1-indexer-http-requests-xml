@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_014aspace_ref16</field>
+    <field name="ead_ssi">oh_014</field>
+    <field name="parent_ssi">aspace_ref408</field>
+    <field name="parent_ssm">aspace_ref408</field>
+    <field name="parent_unittitles_ssm">New York City Immigrant Labor History Project</field>
+    <field name="parent_unittitles_teim">New York City Immigrant Labor History Project</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York City Immigrant Labor History Project Oral History Collection</field>
+    <field name="collection_ssm">New York City Immigrant Labor History Project Oral History Collection</field>
+    <field name="collection_unitid_ssm">OH.014</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bolton, Ethel</field>
+    <field name="unittitle_teim">Bolton, Ethel</field>
+    <field name="unitdate_normal_ssm">1974/1974</field>
+    <field name="unitdate_normal_teim">1974/1974</field>
+    <field name="unitdate_normal_sim">1974/1974</field>
+    <field name="unitdate_inclusive_teim">1974 May 9 and June 10</field>
+    <field name="scopecontent_teim">This interview was conducted by Scott Weir on May 9 and June 10, 1974 at the Florence Nightingale Nursing Home in the East Harlem neighborhood of Manhattan, New York. This interview covers Ethel Bolton's childhood in England; her immigration to the United States (US) in 1901; and her life and work in New Jersey and New York. Topics regarding Bolton's childhood in England include her mother's death when Bolton was five years old; the subsequent immigration of her father and older siblings to the US while she remained in England with her grandfather; and her father's second marriage in the US. Bolton describes her father's work as a printer, noting that he held various jobs at newspaper companies from the Reynolds's Weekly Newspaper in London, England to the New York Daily News and the Wall Street Journal in New York. She explains that he was an active member of Typographical #6 of the International Typographical Union and was involved in various strikes which led to his family having to ration their food. Bolton describes her relationship with her stepmother and her difficult personality.</field>
+    <field name="scopecontent_teim">Bolton explains that she married Joe Bolton in 1922 after an extended courtship due to her desire to remain single. She recounts adopting his teenage children after their marriage. She discusses the age difference between her and husband, the fact that he expected her to follow rules he set for her, and the fact that she made a point of following his rules except in voting. She briefly recounts working as a caretaker for young children before working as a switchboard operator at two advertising agencies, the Geland Sumner Company and the Kudner Agency. At Kudner, she describes her work in the checking department, reviewing advertisements from multiple states. She notes that the companies she worked for treated her extremely well, giving her bonuses at the end of the month, hosting holiday parties, and paying for retirement parties. She describes some of the jobs her husband held, which included a position at the Dictaphone Company; executive secretary at an unspecified advertising club; and a managerial position at the Empire State Building. Other topics include her sister's missionary work in Africa; parts of her husband's history; her faith and involvement with the Church of Truth at Carnegie Hall in the Midtown neighborhood of Manhattan.</field>
+    <field name="bioghist_teim">Ethel Bolton was born on August 27, 1893 in New Malden, England.  Under the care of a stewardess, she immigrated to the United States in 1901.  She graduated from grammar school in Elizabeth, New Jersey.  She worked as a caretaker for young children and as a switchboard operator and in other capacities at advertising agencies.  She married in 1922.</field>
+    <field name="corpname_teim">International Typographical Union. No. 6 (New York, N.Y.)</field>
+    <field name="corpname_ssm">International Typographical Union. No. 6 (New York, N.Y.)</field>
+    <field name="subject_teim">English -- New York (State) -- New York -- Interviews.</field>
+    <field name="subject_teim">Advertising agencies -- New York (State) -- New York</field>
+    <field name="subject_teim">English -- New York (State) -- New York -- Interviews.</field>
+    <field name="subject_teim">Advertising agencies -- New York (State) -- New York</field>
+    <field name="subject_ssm">English -- New York (State) -- New York -- Interviews.</field>
+    <field name="subject_ssm">Advertising agencies -- New York (State) -- New York</field>
+    <field name="dao_teim">Bolton, Ethel: 1974 May 9 and June 10</field>
+    <field name="dao_ssm">Bolton, Ethel: 1974 May 9 and June 10</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, reel: 16a</field>
+    <field name="location_ssm">reel: 16a</field>
+    <field name="location_ssm">Box: 6, reel: 16b - 16e</field>
+    <field name="location_ssm">reel: 16b - 16e</field>
+    <field name="location_si">reel: 16b - 16e</field>
+    <field name="name_sim">International Typographical Union. No. 6 (New York, N.Y.)</field>
+    <field name="name_teim">International Typographical Union. No. 6 (New York, N.Y.)</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="subject_sim">English -- New York (State) -- New York -- Interviews.</field>
+    <field name="subject_sim">Advertising agencies -- New York (State) -- New York</field>
+    <field name="collection_teim">New York City Immigrant Labor History Project Oral History Collection</field>
+    <field name="collection_unitid_teim">OH.014</field>
+    <field name="series_sim">New York City Immigrant Labor History Project</field>
+    <field name="series_si">New York City Immigrant Labor History Project &gt;&gt; Bolton, Ethel</field>
+    <field name="heading_ssm">Bolton, Ethel</field>
+    <field name="unitdate_start_sim">1974</field>
+    <field name="unitdate_start_ssm">1974</field>
+    <field name="unitdate_start_si">1974</field>
+    <field name="unitdate_end_sim">1974</field>
+    <field name="unitdate_end_ssm">1974</field>
+    <field name="unitdate_end_si">1974</field>
+    <field name="unitdate_ssm">Inclusive, 1974 May 9 and June 10</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_002aspace_ref1615</field>
+    <field name="ead_ssi">oh_002</field>
+    <field name="parent_ssi">aspace_ref1609</field>
+    <field name="parent_ssm">aspace_ref1609</field>
+    <field name="parent_unittitles_ssm">Filmmakers' Tapes and Transcripts</field>
+    <field name="parent_unittitles_teim">Filmmakers' Tapes and Transcripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oral History of the American Left Collection</field>
+    <field name="collection_ssm">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_ssm">OH.002</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Free Voice of Labor&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Free Voice of Labor
+    </field>
+    <field name="unitid_teim">cuid1598</field>
+    <field name="unitid_ssm">cuid1598</field>
+    <field name="unitdate_normal_ssm">1976/1979</field>
+    <field name="unitdate_normal_teim">1976/1979</field>
+    <field name="unitdate_normal_sim">1976/1979</field>
+    <field name="unitdate_inclusive_teim">1976-1979</field>
+    <field name="scopecontent_teim">Interviews supporting the documentary Free Voice of Labor by Joel Sucher and Steve Fischler of Pacific Street Films regarding the Yiddish-language anarchist newspaper Freie Arbeter Stimme (Free Voice of Labor), published from the 1880s-1970s.</field>
+    <field name="title_teim">Free Voice of Labor</field>
+    <field name="title_teim">Free Voice of Labor</field>
+    <field name="title_teim">Freie Arbeter Stimme</field>
+    <field name="title_ssm">Free Voice of Labor</field>
+    <field name="title_ssm">Free Voice of Labor</field>
+    <field name="title_ssm">Freie Arbeter Stimme</field>
+    <field name="ref_ssi">aspace_ref1615</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Oral History of the American Left Collection</field>
+    <field name="collection_unitid_teim">OH.002</field>
+    <field name="series_sim">Filmmakers' Tapes and Transcripts</field>
+    <field name="series_si">Filmmakers' Tapes and Transcripts &gt;&gt; 
+      &lt;em&gt;Free Voice of Labor&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Free Voice of Labor
+    </field>
+    <field name="unitdate_start_sim">1976</field>
+    <field name="unitdate_start_ssm">1976</field>
+    <field name="unitdate_start_si">1976</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, 1976-1979</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">450</field>
+  </doc>
+</add>

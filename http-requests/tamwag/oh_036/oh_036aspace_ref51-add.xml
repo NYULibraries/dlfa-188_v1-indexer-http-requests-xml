@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_036aspace_ref51</field>
+    <field name="ead_ssi">oh_036</field>
+    <field name="parent_ssi">aspace_ref53</field>
+    <field name="parent_ssm">aspace_ref53</field>
+    <field name="parent_unittitles_ssm">Interview Transcripts</field>
+    <field name="parent_unittitles_teim">Interview Transcripts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Maurice Isserman Oral History Interviews</field>
+    <field name="collection_ssm">Maurice Isserman Oral History Interviews</field>
+    <field name="collection_unitid_ssm">OH.036</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Interview Transcripts - Preservation Masters</field>
+    <field name="unittitle_teim">Interview Transcripts - Preservation Masters</field>
+    <field name="unitid_teim">cuid33680</field>
+    <field name="unitid_ssm">cuid33680</field>
+    <field name="ref_ssi">aspace_ref51</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Maurice Isserman Oral History Interviews</field>
+    <field name="collection_unitid_teim">OH.036</field>
+    <field name="series_sim">Interview Transcripts</field>
+    <field name="series_si">Interview Transcripts &gt;&gt; Interview Transcripts - Preservation Masters</field>
+    <field name="heading_ssm">Interview Transcripts - Preservation Masters</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>

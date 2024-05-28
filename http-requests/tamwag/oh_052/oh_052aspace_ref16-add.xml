@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_052aspace_ref16</field>
+    <field name="ead_ssi">oh_052</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I: Interviews Relating to Rapp-Coudert Committee Investigations and Blacklisting</field>
+    <field name="parent_unittitles_teim">Series I: Interviews Relating to Rapp-Coudert Committee Investigations and Blacklisting</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Frederic Ewen Audiotape and Videotape Collection</field>
+    <field name="collection_ssm">Frederic Ewen Audiotape and Videotape Collection</field>
+    <field name="collection_unitid_ssm">OH.052</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series A: Audiocassette tapes.</field>
+    <field name="unittitle_teim">Sub-series A: Audiocassette tapes.</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Frederic Ewen Audiotape and Videotape Collection</field>
+    <field name="collection_unitid_teim">OH.052</field>
+    <field name="series_sim">Series I: Interviews Relating to Rapp-Coudert Committee Investigations and Blacklisting</field>
+    <field name="series_si">Series I: Interviews Relating to Rapp-Coudert Committee Investigations and Blacklisting &gt;&gt; Sub-series A: Audiocassette tapes.</field>
+    <field name="heading_ssm">Sub-series A: Audiocassette tapes.</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

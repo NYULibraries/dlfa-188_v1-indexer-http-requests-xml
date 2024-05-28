@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_014aspace_ref145</field>
+    <field name="ead_ssi">oh_014</field>
+    <field name="parent_ssi">aspace_ref408</field>
+    <field name="parent_ssm">aspace_ref408</field>
+    <field name="parent_unittitles_ssm">New York City Immigrant Labor History Project</field>
+    <field name="parent_unittitles_teim">New York City Immigrant Labor History Project</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York City Immigrant Labor History Project Oral History Collection</field>
+    <field name="collection_ssm">New York City Immigrant Labor History Project Oral History Collection</field>
+    <field name="collection_unitid_ssm">OH.014</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Nachamkin, Rubin</field>
+    <field name="unittitle_teim">Nachamkin, Rubin</field>
+    <field name="unitdate_normal_ssm">1975/1975</field>
+    <field name="unitdate_normal_teim">1975/1975</field>
+    <field name="unitdate_normal_sim">1975/1975</field>
+    <field name="unitdate_inclusive_teim">1975 March 4 and March 24</field>
+    <field name="scopecontent_teim">The interview with Rubin Nachamkin was conducted at the Workmen's Circle Home for the Aged in the Bronx, New York by John Jentz on March 4 and March 24, 1975.  Main topics include Nachamkin's early life in Minsk, Russia; his immigration to the United States (US); his life in New York, New York; and his work in the garment industry.  He discusses his life in Minsk, including his father working as a tailor; becoming a shoemaker; and living in religiously segregated neighborhoods, but conducting business with people of different religions.  He recalls his immigration to the US, including running away from his town in order to avoid being drafted into the Russian Army; hiding in Moscow and Saint Petersburg before he left Russia; immigrating with his fiancée; and sailing to the US from Antwerp, Belgium.  Nachamkin specifically describes the ship on which he traveled, including the bunks being three people high; the food tasting bad; and the relatively low cost of travel.</field>
+    <field name="scopecontent_teim">Nachamkin discusses his life in New York City, including marrying in 1910; living on Henry Street in the Lower East Side neighborhood of Manhattan; moving to the Harlem neighborhood of Manhattan; having a daughter who was employed as a school principal; and having two sons who worked in business. He discusses his work in the garment industry, including finding work through window advertisements; being familiar with the machinery in the US because he had used the same in Russia; and enjoying piecework because he was a fast worker and would make more money.  He discusses joining the International Ladies' Garment Workers' Union (ILGWU) Local 1 after the 1910 cloakmakers' strike and working for shops organized by the ILGWU Local 117 when work with ILGWU Local 1 was slow.</field>
+    <field name="bioghist_teim">Rubin Nachamkin was born in Minsk, Russia in 1886.  He worked as a cutter in the shoe industry.  He immigrated to the United States in 1905 in order to avoid joining the Russian Army.  He married in 1910.  Nachamkin worked as an operator in the garment industry making cloaks and was a member of the International Ladies' Garment Workers' Union Locals 1 and 117.</field>
+    <field name="corpname_teim">International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)</field>
+    <field name="corpname_teim">International Ladies' Garment Workers' Union. Local 117 (New York, N.Y.)</field>
+    <field name="corpname_ssm">International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)</field>
+    <field name="corpname_ssm">International Ladies' Garment Workers' Union. Local 117 (New York, N.Y.)</field>
+    <field name="dao_teim">Nachamkin, Rubin: 1975 March 4 and March 24</field>
+    <field name="dao_ssm">Nachamkin, Rubin: 1975 March 4 and March 24</field>
+    <field name="ref_ssi">aspace_ref145</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 43, reel: 145a - 145c</field>
+    <field name="location_ssm">reel: 145a - 145c</field>
+    <field name="location_si">reel: 145a - 145c</field>
+    <field name="name_sim">International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)</field>
+    <field name="name_sim">International Ladies' Garment Workers' Union. Local 117 (New York, N.Y.)</field>
+    <field name="name_teim">International Ladies' Garment Workers' Union. Local 1 (New York, N.Y.)</field>
+    <field name="name_teim">International Ladies' Garment Workers' Union. Local 117 (New York, N.Y.)</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York City Immigrant Labor History Project Oral History Collection</field>
+    <field name="collection_unitid_teim">OH.014</field>
+    <field name="series_sim">New York City Immigrant Labor History Project</field>
+    <field name="series_si">New York City Immigrant Labor History Project &gt;&gt; Nachamkin, Rubin</field>
+    <field name="heading_ssm">Nachamkin, Rubin</field>
+    <field name="unitdate_start_sim">1975</field>
+    <field name="unitdate_start_ssm">1975</field>
+    <field name="unitdate_start_si">1975</field>
+    <field name="unitdate_end_sim">1975</field>
+    <field name="unitdate_end_ssm">1975</field>
+    <field name="unitdate_end_si">1975</field>
+    <field name="unitdate_ssm">Inclusive, 1975 March 4 and March 24</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">144</field>
+  </doc>
+</add>

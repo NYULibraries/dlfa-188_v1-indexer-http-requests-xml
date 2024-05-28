@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">oh_001aspace_ref352</field>
+    <field name="ead_ssi">oh_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New Yorkers at Work Oral History Collection</field>
+    <field name="collection_ssm">New Yorkers at Work Oral History Collection</field>
+    <field name="collection_unitid_ssm">OH.001/repositories/2/resources/384</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Miriam (and Max) Schwadron</field>
+    <field name="unittitle_teim">Miriam (and Max) Schwadron</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/40196</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/40196</field>
+    <field name="unitdate_normal_ssm">1986/1986</field>
+    <field name="unitdate_normal_teim">1986/1986</field>
+    <field name="unitdate_normal_sim">1986/1986</field>
+    <field name="unitdate_inclusive_teim">April 30, 1986</field>
+    <field name="scopecontent_teim">As of fall 2023, one master cassette identified (108A, in box 27) and two user cassettes indentified (108B, 108C, in box 37).</field>
+    <field name="ref_ssi">aspace_ref352</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">CD: OH-01-170 / OH-01-171</field>
+    <field name="location_ssm">Box: 27, audiocassette: 108A</field>
+    <field name="location_ssm">audiocassette: 108A</field>
+    <field name="location_ssm">Box: 37, audiocassette: 108B, 108C</field>
+    <field name="location_ssm">audiocassette: 108B, 108C</field>
+    <field name="location_si">audiocassette: 108B, 108C</field>
+    <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
+    <field name="collection_unitid_teim">OH.001/repositories/2/resources/384</field>
+    <field name="series_si">Miriam (and Max) Schwadron</field>
+    <field name="heading_ssm">Miriam (and Max) Schwadron</field>
+    <field name="unitdate_start_sim">1986</field>
+    <field name="unitdate_start_ssm">1986</field>
+    <field name="unitdate_start_si">1986</field>
+    <field name="unitdate_end_sim">1986</field>
+    <field name="unitdate_end_ssm">1986</field>
+    <field name="unitdate_end_si">1986</field>
+    <field name="unitdate_ssm">Inclusive, April 30, 1986</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">217</field>
+  </doc>
+</add>
