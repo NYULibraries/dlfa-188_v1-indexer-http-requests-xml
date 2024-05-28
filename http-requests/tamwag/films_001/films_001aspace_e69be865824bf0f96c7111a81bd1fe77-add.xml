@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_001aspace_e69be865824bf0f96c7111a81bd1fe77</field>
+    <field name="ead_ssi">films_001</field>
+    <field name="parent_ssi">aspace_b27460c1d54b2fe560e6fae9484e2d1e</field>
+    <field name="parent_ssm">aspace_4bad25c243db7d8fd8050e451ecce1ef</field>
+    <field name="parent_ssm">aspace_b27460c1d54b2fe560e6fae9484e2d1e</field>
+    <field name="parent_unittitles_ssm">Series I. Transport Workers Union of America Films</field>
+    <field name="parent_unittitles_ssm">Subseries I.A. Films</field>
+    <field name="parent_unittitles_teim">Series I. Transport Workers Union of America Films</field>
+    <field name="parent_unittitles_teim">Subseries I.A. Films</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_ssm">FILMS.001/repositories/2/resources/352</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Joseph Curran on &lt;em&gt;Meet the Press&lt;/em&gt;</field>
+    <field name="unittitle_teim">Joseph Curran on Meet the Press</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/988015</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/988015</field>
+    <field name="unitdate_normal_ssm">1950/1960</field>
+    <field name="unitdate_normal_teim">1950/1960</field>
+    <field name="unitdate_normal_sim">1950/1960</field>
+    <field name="unitdate_inclusive_teim">circa 1950s</field>
+    <field name="scopecontent_teim">Interview with Joseph Curran of the National Maritime Union on a program in the "Meet the Press" series broadcast on NBC. The reporters focus on Curran's position on the AFL-CIO resolution to cut ties with the International Brotherhood of Teamsters and International Longshoremen's Association, and his involvement in organizing a "Transportation Conference" on the waterfront that includes his union, the Teamsters and the Longshoremen's Unions. Moderator of the program is Ned Brooks, and the four questioning reporters are, left to right: Clark Mollenhof of the Des Moines Register and Tribune, May Craig of the Portland, Maine Press-Herald, William Hines of the Washington Evening Star, and Lawrence Spivak.</field>
+    <field name="ref_ssi">aspace_e69be865824bf0f96c7111a81bd1fe77</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Film_Canister: c223, 16mm_film_reels: 001_0765</field>
+    <field name="location_ssm">16mm_film_reels: 001_0765</field>
+    <field name="location_si">16mm_film_reels: 001_0765</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_teim">FILMS.001/repositories/2/resources/352</field>
+    <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+    <field name="series_sim">Subseries I.A. Films</field>
+    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; Joseph Curran on &lt;em&gt;Meet the Press&lt;/em&gt;</field>
+    <field name="heading_ssm">Joseph Curran on Meet the Press</field>
+    <field name="unitdate_start_sim">1950</field>
+    <field name="unitdate_start_ssm">1950</field>
+    <field name="unitdate_start_si">1950</field>
+    <field name="unitdate_end_sim">1960</field>
+    <field name="unitdate_end_ssm">1960</field>
+    <field name="unitdate_end_si">1960</field>
+    <field name="unitdate_ssm">Inclusive, circa 1950s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>

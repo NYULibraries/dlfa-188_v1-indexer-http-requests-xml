@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_001aspace_6bb64036eaf14c1dc1d7f1fabc6c3575</field>
+    <field name="ead_ssi">films_001</field>
+    <field name="parent_ssi">aspace_b27460c1d54b2fe560e6fae9484e2d1e</field>
+    <field name="parent_ssm">aspace_4bad25c243db7d8fd8050e451ecce1ef</field>
+    <field name="parent_ssm">aspace_b27460c1d54b2fe560e6fae9484e2d1e</field>
+    <field name="parent_unittitles_ssm">Series I. Transport Workers Union of America Films</field>
+    <field name="parent_unittitles_ssm">Subseries I.A. Films</field>
+    <field name="parent_unittitles_teim">Series I. Transport Workers Union of America Films</field>
+    <field name="parent_unittitles_teim">Subseries I.A. Films</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_ssm">FILMS.001/repositories/2/resources/352</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Trims</field>
+    <field name="unittitle_teim">Trims</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/988381</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/988381</field>
+    <field name="unitdate_normal_ssm">1930/1980</field>
+    <field name="unitdate_normal_teim">1930/1980</field>
+    <field name="unitdate_normal_sim">1930/1980</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="scopecontent_teim">Trims including: IBC Meeting; Josie Lynch; street scenes; shop worker; bus operations; MacMahon interview. These may be trims from the film The Best is Yet to Come.</field>
+    <field name="ref_ssi">aspace_6bb64036eaf14c1dc1d7f1fabc6c3575</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Film_Canister: c236, 16mm_film_reels: 001_0034, 001_0035, 001_0036, 001_0037, 001_0038, 001_0039, 001_0040, 001_0041, 001_0042</field>
+    <field name="location_ssm">16mm_film_reels: 001_0034, 001_0035, 001_0036, 001_0037, 001_0038, 001_0039, 001_0040, 001_0041, 001_0042</field>
+    <field name="location_ssm">Film_Canister: c236, 16mm_film_reels: 001_0043, 001_0044, 001_0045, 001_0046, 001_0047, 001_0048, 001_0049, 001_0050, 001_0051, 001_0052</field>
+    <field name="location_ssm">16mm_film_reels: 001_0043, 001_0044, 001_0045, 001_0046, 001_0047, 001_0048, 001_0049, 001_0050, 001_0051, 001_0052</field>
+    <field name="location_si">16mm_film_reels: 001_0043, 001_0044, 001_0045, 001_0046, 001_0047, 001_0048, 001_0049, 001_0050, 001_0051, 001_0052</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_teim">FILMS.001/repositories/2/resources/352</field>
+    <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+    <field name="series_sim">Subseries I.A. Films</field>
+    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; Trims</field>
+    <field name="heading_ssm">Trims</field>
+    <field name="unitdate_start_sim">1930</field>
+    <field name="unitdate_start_ssm">1930</field>
+    <field name="unitdate_start_si">1930</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">371</field>
+  </doc>
+</add>

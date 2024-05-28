@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_002aspace_05c6e7ceb967c16a6900cbdfb9fe5459</field>
+    <field name="ead_ssi">films_002</field>
+    <field name="parent_ssi">aspace_01eb0caab4705fed7fc6ccfb954b7351</field>
+    <field name="parent_ssm">aspace_01eb0caab4705fed7fc6ccfb954b7351</field>
+    <field name="parent_unittitles_ssm">Series II. Planet Without a Visa</field>
+    <field name="parent_unittitles_teim">Series II. Planet Without a Visa</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Loeb Weiss Film Collection</field>
+    <field name="collection_ssm">David Loeb Weiss Film Collection</field>
+    <field name="collection_unitid_ssm">FILMS.002/repositories/2/resources/353</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">LDT-R1 'Traitor' Cannon </field>
+    <field name="unittitle_teim">LDT-R1 'Traitor' Cannon </field>
+    <field name="unitid_teim">cuid209</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/736492</field>
+    <field name="unitid_ssm">cuid209</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/736492</field>
+    <field name="unitdate_normal_ssm">1920/1990</field>
+    <field name="unitdate_normal_teim">1920/1990</field>
+    <field name="unitdate_normal_sim">1920/1990</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="phystech_teim">Duration: 9 min. 22 sec., Color, Silent; Preservation note: "B-wind double-perf color reversal. Ektachrome EF stock with 1972 date code. Slight edgewave; soundtrack is not available."</field>
+    <field name="dao_teim">LDT-R1 'Traitor' Cannon</field>
+    <field name="dao_ssm">LDT-R1 'Traitor' Cannon</field>
+    <field name="ref_ssi">aspace_05c6e7ceb967c16a6900cbdfb9fe5459</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 27, 16mm_film_reels: 1</field>
+    <field name="location_ssm">16mm_film_reels: 1</field>
+    <field name="location_si">16mm_film_reels: 1</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">David Loeb Weiss Film Collection</field>
+    <field name="collection_unitid_teim">FILMS.002/repositories/2/resources/353</field>
+    <field name="series_sim">Series II. Planet Without a Visa</field>
+    <field name="series_si">Series II. Planet Without a Visa &gt;&gt; LDT-R1 'Traitor' Cannon </field>
+    <field name="heading_ssm">LDT-R1 'Traitor' Cannon </field>
+    <field name="unitdate_start_sim">1920</field>
+    <field name="unitdate_start_ssm">1920</field>
+    <field name="unitdate_start_si">1920</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

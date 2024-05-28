@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_002aspace_91f3bd8cf2260c36627281d39e741f62</field>
+    <field name="ead_ssi">films_002</field>
+    <field name="parent_ssi">aspace_fdaa8de307d7c692ec210eb3260729d6</field>
+    <field name="parent_ssm">aspace_fdaa8de307d7c692ec210eb3260729d6</field>
+    <field name="parent_unittitles_ssm">Series I. Farewell, Etaoin Shrdlu</field>
+    <field name="parent_unittitles_teim">Series I. Farewell, Etaoin Shrdlu</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Loeb Weiss Film Collection</field>
+    <field name="collection_ssm">David Loeb Weiss Film Collection</field>
+    <field name="collection_unitid_ssm">FILMS.002/repositories/2/resources/353</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Digital scan</field>
+    <field name="unittitle_teim">Digital scan</field>
+    <field name="unitid_teim">cuid43075</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/989267</field>
+    <field name="unitid_ssm">cuid43075</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/989267</field>
+    <field name="unitdate_normal_ssm">1980/1980</field>
+    <field name="unitdate_normal_teim">1980/1980</field>
+    <field name="unitdate_normal_sim">1980/1980</field>
+    <field name="unitdate_teim">1980</field>
+    <field name="scopecontent_teim">This digital copy of the film was created with duplicate negatives and optical track negatives by vendor BB Optics as part of a National Film Preservation Foundation grant project. The Museum of Modern Art lent the original negative A- and B-rolls and optical track negatives to NYU for this project.</field>
+    <field name="dao_teim">Digital scan</field>
+    <field name="dao_ssm">Digital scan</field>
+    <field name="ref_ssi">aspace_91f3bd8cf2260c36627281d39e741f62</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">David Loeb Weiss Film Collection</field>
+    <field name="collection_unitid_teim">FILMS.002/repositories/2/resources/353</field>
+    <field name="series_sim">Series I. Farewell, Etaoin Shrdlu</field>
+    <field name="series_si">Series I. Farewell, Etaoin Shrdlu &gt;&gt; Digital scan</field>
+    <field name="heading_ssm">Digital scan</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">1980</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

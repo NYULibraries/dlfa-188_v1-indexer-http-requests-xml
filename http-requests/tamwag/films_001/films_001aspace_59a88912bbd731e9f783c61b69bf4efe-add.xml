@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_001aspace_59a88912bbd731e9f783c61b69bf4efe</field>
+    <field name="ead_ssi">films_001</field>
+    <field name="parent_ssi">aspace_b27460c1d54b2fe560e6fae9484e2d1e</field>
+    <field name="parent_ssm">aspace_4bad25c243db7d8fd8050e451ecce1ef</field>
+    <field name="parent_ssm">aspace_b27460c1d54b2fe560e6fae9484e2d1e</field>
+    <field name="parent_unittitles_ssm">Series I. Transport Workers Union of America Films</field>
+    <field name="parent_unittitles_ssm">Subseries I.A. Films</field>
+    <field name="parent_unittitles_teim">Series I. Transport Workers Union of America Films</field>
+    <field name="parent_unittitles_teim">Subseries I.A. Films</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_ssm">FILMS.001/repositories/2/resources/352</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Footage of Industrial Equipment</field>
+    <field name="unittitle_teim">Footage of Industrial Equipment</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/988325</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/988325</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="scopecontent_teim">Control rooms, turbines, interiors and exteriors of industrial buildings.</field>
+    <field name="ref_ssi">aspace_59a88912bbd731e9f783c61b69bf4efe</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Film_Canister: c110, 16mm_film_reels: 001_0351</field>
+    <field name="location_ssm">16mm_film_reels: 001_0351</field>
+    <field name="location_si">16mm_film_reels: 001_0351</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_teim">FILMS.001/repositories/2/resources/352</field>
+    <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+    <field name="series_sim">Subseries I.A. Films</field>
+    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; Footage of Industrial Equipment</field>
+    <field name="heading_ssm">Footage of Industrial Equipment</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">361</field>
+  </doc>
+</add>

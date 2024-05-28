@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_013aspace_ref4</field>
+    <field name="ead_ssi">films_013</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Carl Aldo Marzani Films</field>
+    <field name="collection_ssm">Carl Aldo Marzani Films</field>
+    <field name="collection_unitid_ssm">FILMS.013</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">A People's Convention</field>
+    <field name="unittitle_teim">A People's Convention</field>
+    <field name="dao_teim">A People's Convention</field>
+    <field name="dao_ssm">A People's Convention</field>
+    <field name="ref_ssi">aspace_ref4</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, 16mm_film_reels: 1</field>
+    <field name="location_ssm">16mm_film_reels: 1</field>
+    <field name="location_ssm">Box: Shared Tamiment 118</field>
+    <field name="location_ssm">Box: Shared Tamiment 121</field>
+    <field name="location_si">Box: Shared Tamiment 121</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Carl Aldo Marzani Films</field>
+    <field name="collection_unitid_teim">FILMS.013</field>
+    <field name="series_si">A People's Convention</field>
+    <field name="heading_ssm">A People's Convention</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

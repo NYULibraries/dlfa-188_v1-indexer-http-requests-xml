@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_014aspace_ref15</field>
+    <field name="ead_ssi">films_014</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series III: DVDs.</field>
+    <field name="parent_unittitles_teim">Series III: DVDs.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">"With the Abraham Lincoln Brigade in Spain" Film.</field>
+    <field name="collection_ssm">"With the Abraham Lincoln Brigade in Spain" Film.</field>
+    <field name="collection_unitid_ssm">FILMS.014</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">["With the Abraham Lincoln Brigade in Spain"] [NTSC] [Reference Screening Copy 3].</field>
+    <field name="unittitle_teim">["With the Abraham Lincoln Brigade in Spain"] [NTSC] [Reference Screening Copy 3].</field>
+    <field name="unitid_teim">cuid7564</field>
+    <field name="unitid_ssm">cuid7564</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref15</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Tamiment 119, DVD: 4</field>
+    <field name="location_ssm">DVD: 4</field>
+    <field name="location_si">DVD: 4</field>
+    <field name="collection_teim">"With the Abraham Lincoln Brigade in Spain" Film.</field>
+    <field name="collection_unitid_teim">FILMS.014</field>
+    <field name="series_sim">Series III: DVDs.</field>
+    <field name="series_si">Series III: DVDs. &gt;&gt; ["With the Abraham Lincoln Brigade in Spain"] [NTSC] [Reference Screening Copy 3].</field>
+    <field name="heading_ssm">["With the Abraham Lincoln Brigade in Spain"] [NTSC] [Reference Screening Copy 3].</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

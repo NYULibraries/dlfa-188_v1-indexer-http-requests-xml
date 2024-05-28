@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_001aspace_d2f20297acd42463cc6e44928c260ccb</field>
+    <field name="ead_ssi">films_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_ssm">FILMS.001/repositories/2/resources/352</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III. Tamiment Library Event Recordings</field>
+    <field name="unittitle_teim">Series III. Tamiment Library Event Recordings</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/987280</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/987280</field>
+    <field name="unitdate_normal_ssm">1979/2003</field>
+    <field name="unitdate_normal_teim">1979/2003</field>
+    <field name="unitdate_normal_sim">1979/2003</field>
+    <field name="unitdate_inclusive_teim">1979-2003</field>
+    <field name="scopecontent_teim">Series III. Tamiment Library Event Recordings (1979-2003) contains videos of events organized by Tamiment Library. These events include receptions for written publications by authors including Ron Jacobs, Zellig Harris, Paul LeBlanc, Frank Lovell, Scott McLemee, Alan Wald, JoAnn Wypijewski, and Jeremy Brecher; symposiums and discussions on the topics of poverty during the Clinton administration, being openly gay at work, academic labor, Trotskyism in the United States, and the Spanish Civil War, among others; and memorials for Phil Foner, Frank Lovell, Myra Tanner Weiss, and Cedric Belfrage. This series also includes flyers for the recorded events, and one poster for "Between Classes: A Conference on Academic Labor."</field>
+    <field name="ref_ssi">aspace_d2f20297acd42463cc6e44928c260ccb</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_teim">FILMS.001/repositories/2/resources/352</field>
+    <field name="series_si">Series III. Tamiment Library Event Recordings</field>
+    <field name="heading_ssm">Series III. Tamiment Library Event Recordings</field>
+    <field name="unitdate_start_sim">1979</field>
+    <field name="unitdate_start_ssm">1979</field>
+    <field name="unitdate_start_si">1979</field>
+    <field name="unitdate_end_sim">2003</field>
+    <field name="unitdate_end_ssm">2003</field>
+    <field name="unitdate_end_si">2003</field>
+    <field name="unitdate_ssm">Inclusive, 1979-2003</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">697</field>
+  </doc>
+</add>

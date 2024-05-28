@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_002aspace_63d8004392f7cb1c86d6e9cdf1c525b1</field>
+    <field name="ead_ssi">films_002</field>
+    <field name="parent_ssi">aspace_432ad0933ecca4bd4db2b415a1b796e3</field>
+    <field name="parent_ssm">aspace_fdaa8de307d7c692ec210eb3260729d6</field>
+    <field name="parent_ssm">aspace_432ad0933ecca4bd4db2b415a1b796e3</field>
+    <field name="parent_unittitles_ssm">Series I. Farewell, Etaoin Shrdlu</field>
+    <field name="parent_unittitles_ssm">Preservation elements</field>
+    <field name="parent_unittitles_teim">Series I. Farewell, Etaoin Shrdlu</field>
+    <field name="parent_unittitles_teim">Preservation elements</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Loeb Weiss Film Collection</field>
+    <field name="collection_ssm">David Loeb Weiss Film Collection</field>
+    <field name="collection_unitid_ssm">FILMS.002/repositories/2/resources/353</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Sound check print</field>
+    <field name="unittitle_teim">Sound check print</field>
+    <field name="unitid_teim">cuid43071</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/989092</field>
+    <field name="unitid_ssm">cuid43071</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/989092</field>
+    <field name="ref_ssi">aspace_63d8004392f7cb1c86d6e9cdf1c525b1</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Film_Canister: 002_0005, 16mm_film_reels: 002_0005</field>
+    <field name="location_ssm">16mm_film_reels: 002_0005</field>
+    <field name="location_si">16mm_film_reels: 002_0005</field>
+    <field name="collection_teim">David Loeb Weiss Film Collection</field>
+    <field name="collection_unitid_teim">FILMS.002/repositories/2/resources/353</field>
+    <field name="series_sim">Series I. Farewell, Etaoin Shrdlu</field>
+    <field name="series_sim">Preservation elements</field>
+    <field name="series_si">Series I. Farewell, Etaoin Shrdlu &gt;&gt; Preservation elements &gt;&gt; Sound check print</field>
+    <field name="heading_ssm">Sound check print</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

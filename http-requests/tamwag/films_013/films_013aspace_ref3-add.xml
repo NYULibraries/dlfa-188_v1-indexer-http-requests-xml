@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_013aspace_ref3</field>
+    <field name="ead_ssi">films_013</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Carl Aldo Marzani Films</field>
+    <field name="collection_ssm">Carl Aldo Marzani Films</field>
+    <field name="collection_unitid_ssm">FILMS.013</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Deadline for Action</field>
+    <field name="unittitle_teim">Deadline for Action</field>
+    <field name="dao_teim">Deadline for Action</field>
+    <field name="dao_ssm">Deadline for Action</field>
+    <field name="ref_ssi">aspace_ref3</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, reel: 5</field>
+    <field name="location_ssm">reel: 5</field>
+    <field name="location_ssm">Box: 5 - Tamiment VHS Access/Screening Copies, Cassette: 31142050300626</field>
+    <field name="location_ssm">Cassette: 31142050300626</field>
+    <field name="location_si">Cassette: 31142050300626</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Carl Aldo Marzani Films</field>
+    <field name="collection_unitid_teim">FILMS.013</field>
+    <field name="series_si">Deadline for Action</field>
+    <field name="heading_ssm">Deadline for Action</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_001aspace_2eb195868a27e6cd1cde07c203d3d29e</field>
+    <field name="ead_ssi">films_001</field>
+    <field name="parent_ssi">aspace_b27460c1d54b2fe560e6fae9484e2d1e</field>
+    <field name="parent_ssm">aspace_4bad25c243db7d8fd8050e451ecce1ef</field>
+    <field name="parent_ssm">aspace_b27460c1d54b2fe560e6fae9484e2d1e</field>
+    <field name="parent_unittitles_ssm">Series I. Transport Workers Union of America Films</field>
+    <field name="parent_unittitles_ssm">Subseries I.A. Films</field>
+    <field name="parent_unittitles_teim">Series I. Transport Workers Union of America Films</field>
+    <field name="parent_unittitles_teim">Subseries I.A. Films</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_ssm">FILMS.001/repositories/2/resources/352</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Press Conference on NYCTA Collective Bargaining</field>
+    <field name="unittitle_teim">Press Conference on NYCTA Collective Bargaining</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/988124</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/988124</field>
+    <field name="unitdate_normal_ssm">1959/1959</field>
+    <field name="unitdate_normal_teim">1959/1959</field>
+    <field name="unitdate_normal_sim">1959/1959</field>
+    <field name="unitdate_teim">circa 1959</field>
+    <field name="scopecontent_teim">Press conference by Michael Quill; he announces a deadlock in collective bargaining between the New York City Transit Authority and Transport Workers Union.</field>
+    <field name="ref_ssi">aspace_2eb195868a27e6cd1cde07c203d3d29e</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Film_Canister: c115, 16mm_film_reels: 001_0239, 001_0240</field>
+    <field name="location_ssm">16mm_film_reels: 001_0239, 001_0240</field>
+    <field name="location_si">16mm_film_reels: 001_0239, 001_0240</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_teim">FILMS.001/repositories/2/resources/352</field>
+    <field name="series_sim">Series I. Transport Workers Union of America Films</field>
+    <field name="series_sim">Subseries I.A. Films</field>
+    <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; Press Conference on NYCTA Collective Bargaining</field>
+    <field name="heading_ssm">Press Conference on NYCTA Collective Bargaining</field>
+    <field name="unitdate_start_sim">1959</field>
+    <field name="unitdate_start_ssm">1959</field>
+    <field name="unitdate_start_si">1959</field>
+    <field name="unitdate_end_sim">1959</field>
+    <field name="unitdate_end_ssm">1959</field>
+    <field name="unitdate_end_si">1959</field>
+    <field name="unitdate_ssm">circa 1959</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">224</field>
+  </doc>
+</add>

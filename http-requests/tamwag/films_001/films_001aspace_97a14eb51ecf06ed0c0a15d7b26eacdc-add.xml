@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">films_001aspace_97a14eb51ecf06ed0c0a15d7b26eacdc</field>
+    <field name="ead_ssi">films_001</field>
+    <field name="parent_ssi">aspace_8f246a802d91ccb1c6166265af0699fd</field>
+    <field name="parent_ssm">aspace_8f246a802d91ccb1c6166265af0699fd</field>
+    <field name="parent_unittitles_ssm">Series II. Films on Organized Labor and the Political Left</field>
+    <field name="parent_unittitles_teim">Series II. Films on Organized Labor and the Political Left</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_ssm">FILMS.001/repositories/2/resources/352</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;The House I Live In&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      The House I Live In
+    </field>
+    <field name="unitid_teim">/repositories/2/archival_objects/987979</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/987979</field>
+    <field name="unitdate_normal_ssm">1940/1950</field>
+    <field name="unitdate_normal_teim">1940/1950</field>
+    <field name="unitdate_normal_sim">1940/1950</field>
+    <field name="unitdate_inclusive_teim">circa 1940s</field>
+    <field name="scopecontent_teim">A dramatised short film opposing religious and ethnic prejudice as "un-American." Stars Frank Sinatra as himself. Distributed by Young America Films, NYC and written by Albert Maltz.</field>
+    <field name="ref_ssi">aspace_97a14eb51ecf06ed0c0a15d7b26eacdc</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Film_Canister: c186, 16mm_film_reels: 001_0212</field>
+    <field name="location_ssm">16mm_film_reels: 001_0212</field>
+    <field name="location_si">16mm_film_reels: 001_0212</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
+    <field name="collection_unitid_teim">FILMS.001/repositories/2/resources/352</field>
+    <field name="series_sim">Series II. Films on Organized Labor and the Political Left</field>
+    <field name="series_si">Series II. Films on Organized Labor and the Political Left &gt;&gt; 
+      &lt;em&gt;The House I Live In&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      The House I Live In
+    </field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">1950</field>
+    <field name="unitdate_end_ssm">1950</field>
+    <field name="unitdate_end_si">1950</field>
+    <field name="unitdate_ssm">Inclusive, circa 1940s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">625</field>
+  </doc>
+</add>
