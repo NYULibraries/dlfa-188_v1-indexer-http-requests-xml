@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">1993_001aspace_ref1_jhw</field>
+    <field name="ead_ssi">1993_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_ssm">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_unitid_ssm">1993.001</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Oral histories</field>
+    <field name="unittitle_teim">Series 1: Oral histories</field>
+    <field name="unitdate_normal_ssm">1992/1993</field>
+    <field name="unitdate_normal_teim">1992/1993</field>
+    <field name="unitdate_normal_sim">1992/1993</field>
+    <field name="unitdate_inclusive_teim">1992-1993</field>
+    <field name="scopecontent_teim">This series includes oral history interviews on original and duplicate audio cassettes, along with transcripts of the interviews with Barbara Norris, Mildred Pearson, Kenny Post and Cheryl Wagner, Dolores Rivera, Luis E. Nieves Rosa, and William Sandoval with Rita Rodriguez. Summaries of all of the interviews written by the project coordinators and photographs of some of the interviewees are also included. </field>
+    <field name="scopecontent_teim">Some of the interviewees also donated materials for the exhibition. These materials are described in Series 3: Donated Materials, 1945-1996, of this finding aid.</field>
+    <field name="ref_ssi">aspace_ref1_jhw</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_unitid_teim">1993.001</field>
+    <field name="series_si">Series 1: Oral histories</field>
+    <field name="heading_ssm">Series 1: Oral histories</field>
+    <field name="unitdate_start_sim">1992</field>
+    <field name="unitdate_start_ssm">1992</field>
+    <field name="unitdate_start_si">1992</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, 1992-1993</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

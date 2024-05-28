@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0065aspace_ref102</field>
+    <field name="ead_ssi">bcms_0065</field>
+    <field name="parent_ssi">aspace_ref68</field>
+    <field name="parent_ssm">aspace_ref68</field>
+    <field name="parent_unittitles_ssm">Series 2: Non-Brooklyn Baseball Items</field>
+    <field name="parent_unittitles_teim">Series 2: Non-Brooklyn Baseball Items</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Stanley Person Baseball Collection</field>
+    <field name="collection_ssm">Stanley Person Baseball Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0065</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 2.4: Prints and Photographs</field>
+    <field name="unittitle_teim">Sub-series 2.4: Prints and Photographs</field>
+    <field name="ref_ssi">aspace_ref102</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Stanley Person Baseball Collection</field>
+    <field name="collection_unitid_teim">BCMS.0065</field>
+    <field name="series_sim">Series 2: Non-Brooklyn Baseball Items</field>
+    <field name="series_si">Series 2: Non-Brooklyn Baseball Items &gt;&gt; Sub-series 2.4: Prints and Photographs</field>
+    <field name="heading_ssm">Sub-series 2.4: Prints and Photographs</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">60</field>
+  </doc>
+</add>

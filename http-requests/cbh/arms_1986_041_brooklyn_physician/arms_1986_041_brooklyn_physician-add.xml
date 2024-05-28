@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Nicholas Pavlik</field>
+    <field name="author_ssm">Nicholas Pavlik</field>
+    <field name="unittitle_teim">Brooklyn physician's account book</field>
+    <field name="unittitle_ssm">Brooklyn physician's account book</field>
+    <field name="unitid_teim">1986.041</field>
+    <field name="unitid_ssm">1986.041</field>
+    <field name="abstract_teim">Account book of an unidentified Brooklyn physician, dating from 1874.</field>
+    <field name="abstract_ssm">Account book of an unidentified Brooklyn physician, dating from 1874.</field>
+    <field name="unitdate_normal_ssm">1874/1874</field>
+    <field name="unitdate_normal_teim">1874/1874</field>
+    <field name="unitdate_normal_sim">1874/1874</field>
+    <field name="unitdate_inclusive_teim">1874</field>
+    <field name="acqinfo_teim">Source and date of acquisition unknown.  Formally accessioned in 1986.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Accounts</field>
+    <field name="genreform_teim">Account books</field>
+    <field name="genreform_ssm">Accounts</field>
+    <field name="genreform_ssm">Account books</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_teim">Medicine |x Practice |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Physicians |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Medicine -- Practice -- New York (State) -- Kings County</field>
+    <field name="subject_teim">Physicians -- New York (State) -- Kings County</field>
+    <field name="subject_ssm">Medicine |x Practice |z New York (State) |z Kings County</field>
+    <field name="subject_ssm">Physicians |z New York (State) |z Kings County</field>
+    <field name="collection_sim">Brooklyn physician's account book</field>
+    <field name="collection_ssm">Brooklyn physician's account book</field>
+    <field name="collection_teim">Brooklyn physician's account book</field>
+    <field name="id">arms_1986_041_brooklyn_physician</field>
+    <field name="ead_ssi">arms_1986_041_brooklyn_physician</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_sim">Medicine -- Practice -- New York (State) -- Kings County</field>
+    <field name="subject_sim">Physicians -- New York (State) -- Kings County</field>
+    <field name="material_type_sim">Accounts</field>
+    <field name="material_type_sim">Account books</field>
+    <field name="material_type_ssm">Accounts</field>
+    <field name="material_type_ssm">Account books</field>
+    <field name="heading_ssm">Brooklyn physician's account book</field>
+    <field name="unitdate_start_sim">1874</field>
+    <field name="unitdate_start_ssm">1874</field>
+    <field name="unitdate_start_si">1874</field>
+    <field name="unitdate_end_sim">1874</field>
+    <field name="unitdate_end_ssm">1874</field>
+    <field name="unitdate_end_si">1874</field>
+    <field name="unitdate_ssm">Inclusive, 1874</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

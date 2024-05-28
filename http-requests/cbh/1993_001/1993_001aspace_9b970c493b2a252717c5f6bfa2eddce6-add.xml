@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">1993_001aspace_9b970c493b2a252717c5f6bfa2eddce6</field>
+    <field name="ead_ssi">1993_001</field>
+    <field name="parent_ssi">aspace_e50dec7c7c3af6799b4d8343a7085c9c</field>
+    <field name="parent_ssm">aspace_e50dec7c7c3af6799b4d8343a7085c9c</field>
+    <field name="parent_unittitles_ssm">Series 3: Donated materials</field>
+    <field name="parent_unittitles_teim">Series 3: Donated materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_ssm">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_unitid_ssm">1993.001</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 3.8: Alan Haber papers</field>
+    <field name="unittitle_teim">Sub-series 3.8: Alan Haber papers</field>
+    <field name="unitdate_normal_ssm">1988/1993</field>
+    <field name="unitdate_normal_teim">1988/1993</field>
+    <field name="unitdate_normal_sim">1988/1993</field>
+    <field name="unitdate_inclusive_teim">1988-1993</field>
+    <field name="scopecontent_teim">Sub-series 3.8: Alan Haber papers, 1988-1993, includes materials related to the life of Alan J. Haber: correspondence, photographs, and an obituary. The photographs depict Haber in Israel and his name on an AIDS quilt patch sponsored by the NYC Landmarks Preservation Commission. The correspondence is photocopied letters from Haber to "Jackie." Also included is a VHS tape with "To Alan with love from Jackie" on the label.</field>
+    <field name="bioghist_teim">Alan J. Haber grew up in Brooklyn and attended Hunter College. Haber worked in communications and was spokesman for the New York City Landmarks Preservation Commission. He was diagnosed with AIDS in 1988. He left Brooklyn to live in Jerusalem, Israel in 1988 and returned in 1989. He died in 1991.</field>
+    <field name="ref_ssi">aspace_9b970c493b2a252717c5f6bfa2eddce6</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_unitid_teim">1993.001</field>
+    <field name="series_sim">Series 3: Donated materials</field>
+    <field name="series_si">Series 3: Donated materials &gt;&gt; Sub-series 3.8: Alan Haber papers</field>
+    <field name="heading_ssm">Sub-series 3.8: Alan Haber papers</field>
+    <field name="unitdate_start_sim">1988</field>
+    <field name="unitdate_start_ssm">1988</field>
+    <field name="unitdate_start_si">1988</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, 1988-1993</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">141</field>
+  </doc>
+</add>

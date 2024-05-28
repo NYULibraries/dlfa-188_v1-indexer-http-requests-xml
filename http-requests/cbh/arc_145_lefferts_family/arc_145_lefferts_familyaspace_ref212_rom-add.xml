@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_145_lefferts_familyaspace_ref212_rom</field>
+    <field name="ead_ssi">arc_145_lefferts_family</field>
+    <field name="parent_ssi">aspace_ref95_n0e</field>
+    <field name="parent_ssm">aspace_ref73_40q</field>
+    <field name="parent_ssm">aspace_ref95_n0e</field>
+    <field name="parent_unittitles_ssm">Series 6: Graphic Materials</field>
+    <field name="parent_unittitles_ssm">Sub-Series 2: Brooklyn and New York City Graphic Materials</field>
+    <field name="parent_unittitles_teim">Series 6: Graphic Materials</field>
+    <field name="parent_unittitles_teim">Sub-Series 2: Brooklyn and New York City Graphic Materials</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lefferts family papers</field>
+    <field name="collection_ssm">Lefferts family papers</field>
+    <field name="collection_unitid_ssm">ARC.145</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Brooklyn in Winter" (Francis Guy)</field>
+    <field name="unittitle_teim">"Brooklyn in Winter" (Francis Guy)</field>
+    <field name="unitdate_normal_ssm">1800/1820</field>
+    <field name="unitdate_normal_teim">1800/1820</field>
+    <field name="unitdate_normal_sim">1800/1820</field>
+    <field name="unitdate_inclusive_teim">circa 1800s</field>
+    <field name="ref_ssi">aspace_ref212_rom</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Mold 2, item: 1</field>
+    <field name="location_ssm">item: 1</field>
+    <field name="location_si">item: 1</field>
+    <field name="collection_teim">Lefferts family papers</field>
+    <field name="collection_unitid_teim">ARC.145</field>
+    <field name="series_sim">Series 6: Graphic Materials</field>
+    <field name="series_sim">Sub-Series 2: Brooklyn and New York City Graphic Materials</field>
+    <field name="series_si">Series 6: Graphic Materials &gt;&gt; Sub-Series 2: Brooklyn and New York City Graphic Materials &gt;&gt; "Brooklyn in Winter" (Francis Guy)</field>
+    <field name="heading_ssm">"Brooklyn in Winter" (Francis Guy)</field>
+    <field name="unitdate_start_sim">1800</field>
+    <field name="unitdate_start_ssm">1800</field>
+    <field name="unitdate_start_si">1800</field>
+    <field name="unitdate_end_sim">1820</field>
+    <field name="unitdate_end_ssm">1820</field>
+    <field name="unitdate_end_si">1820</field>
+    <field name="unitdate_ssm">Inclusive, circa 1800s</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">111</field>
+  </doc>
+</add>

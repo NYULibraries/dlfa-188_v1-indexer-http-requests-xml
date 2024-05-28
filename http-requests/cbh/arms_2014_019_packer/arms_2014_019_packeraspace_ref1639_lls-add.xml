@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2014_019_packeraspace_ref1639_lls</field>
+    <field name="ead_ssi">arms_2014_019_packer</field>
+    <field name="parent_ssi">aspace_ref1604_ocv</field>
+    <field name="parent_ssm">aspace_ref1604_ocv</field>
+    <field name="parent_unittitles_ssm">Series 7: Financial records and Annual Reports</field>
+    <field name="parent_unittitles_teim">Series 7: Financial records and Annual Reports</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Packer Collegiate Institute records</field>
+    <field name="collection_ssm">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_ssm">2014.019</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 7.2: Financial records</field>
+    <field name="unittitle_teim">Sub-series 7.2: Financial records</field>
+    <field name="unitdate_normal_ssm">1845/1994</field>
+    <field name="unitdate_normal_teim">1845/1994</field>
+    <field name="unitdate_normal_sim">1845/1994</field>
+    <field name="unitdate_inclusive_teim">1845-1994</field>
+    <field name="scopecontent_teim">The sub-series contains assorted financial records, dating from 1845 to 1994. It contains fundraising and administrative budget materials, including ledgers for the Mrs. Packer Memorial Window Fund, 1906-1909; Treasurer's Reports, 1912-22; and the Administrative Budget, 1922-1934. It includes typewritten and bound minutes of Packer's Committee on Finance, 1951-1968; and an itemized valuation of the Institute's stock holdings as of February 2, 1955, which summarizes the division of the school's $938,761.00 market investment, the bulk of which was committed to government bonds, public utilities, and chemical stocks. Other materials include a cash ledger, 1892-1904; the ledger for the Memorial Window fund, 1905-1906; the Backus Memorial Fund account book, 1908-1909; a plea for funds letter signed collectively by the board of trustees, 1917; Packer alumni pledge cards, 1917; an Endowment fund ledger, 1917-1921; check stubs, 1926-1932; and Centennial Fund documents, 1945-1961. The series also contains student tuition bills, 1866-1916.</field>
+    <field name="scopecontent_teim">Related records can be found in Series 12: Development Office, Fund Raising, and Alumni records.</field>
+    <field name="ref_ssi">aspace_ref1639_lls</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_teim">2014.019</field>
+    <field name="series_sim">Series 7: Financial records and Annual Reports</field>
+    <field name="series_si">Series 7: Financial records and Annual Reports &gt;&gt; Sub-series 7.2: Financial records</field>
+    <field name="heading_ssm">Sub-series 7.2: Financial records</field>
+    <field name="unitdate_start_sim">1845</field>
+    <field name="unitdate_start_ssm">1845</field>
+    <field name="unitdate_start_si">1845</field>
+    <field name="unitdate_end_sim">1994</field>
+    <field name="unitdate_end_ssm">1994</field>
+    <field name="unitdate_end_si">1994</field>
+    <field name="unitdate_ssm">Inclusive, 1845-1994</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1553</field>
+  </doc>
+</add>

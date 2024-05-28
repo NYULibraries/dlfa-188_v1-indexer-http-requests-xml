@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_109_first_unitarianaspace_ref24_1im</field>
+    <field name="ead_ssi">arc_109_first_unitarian</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_ssm">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.109</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 5: Unitarian Movement Files.</field>
+    <field name="unittitle_teim">Series 5: Unitarian Movement Files.</field>
+    <field name="unitdate_normal_ssm">1850/1975</field>
+    <field name="unitdate_normal_ssm">1850/1945</field>
+    <field name="unitdate_normal_teim">1850/1975</field>
+    <field name="unitdate_normal_teim">1850/1945</field>
+    <field name="unitdate_normal_sim">1850/1975</field>
+    <field name="unitdate_normal_sim">1850/1945</field>
+    <field name="unitdate_bulk_teim">1850-1945</field>
+    <field name="unitdate_inclusive_teim">1850-1975</field>
+    <field name="scopecontent_teim">The Unitarian Movement Files contain the general files kept by the Church on its involvement with the Unitarian movement across America, primarily through the American Unitarian Association (AUA), and in other parts of the world. The AUA material concerns Unitarian outreach, publicity, and social-service. There is one folder related to the congregation's sister church in Transylvania. For more on the Church's efforts abroad, see the John H. Lathrop Files for papers on Czechoslovakia, Hungary, Transylvania, and the Philippines.</field>
+    <field name="ref_ssi">aspace_ref24_1im</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.109</field>
+    <field name="series_si">Series 5: Unitarian Movement Files.</field>
+    <field name="heading_ssm">Series 5: Unitarian Movement Files.</field>
+    <field name="unitdate_start_sim">1850</field>
+    <field name="unitdate_start_ssm">1850</field>
+    <field name="unitdate_start_si">1850</field>
+    <field name="unitdate_end_sim">1975</field>
+    <field name="unitdate_end_sim">1945</field>
+    <field name="unitdate_end_ssm">1975</field>
+    <field name="unitdate_end_ssm">1945</field>
+    <field name="unitdate_end_si">1945</field>
+    <field name="unitdate_ssm">Inclusive, 1850-1975 ; 1850-1945</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">275</field>
+  </doc>
+</add>

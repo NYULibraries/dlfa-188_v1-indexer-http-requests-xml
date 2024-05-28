@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref96</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Flatbush Life</field>
+    <field name="unittitle_teim">Flatbush Life</field>
+    <field name="unitdate_normal_ssm">1959/1999</field>
+    <field name="unitdate_normal_teim">1959/1999</field>
+    <field name="unitdate_normal_sim">1959/1999</field>
+    <field name="unitdate_inclusive_teim">1959-1999</field>
+    <field name="scopecontent_teim">Largely focusing on the neighborhood of Flatbush, Flatbush Life provides local news coverage of business, politics, education, community events, clubs and organizations, arts, culture, sports, religion, and entertainment. Birth announcements and wedding announcements do not appear in early issues of the paper but occasional appear in later issues. A section devoted to obituaries regularly appears in early issues but not in later issues. Early issues of the paper also contain a section called "Bowling Life" covering league activity at neighborhood alleys. Numerous advertisements for bowling lanes and equipment providers also appear. A section called "Glenwood Observer," covering the news of that neighborhood, also regularly appears in early issues of the paper. A column entitled "Who's Who in East Flatbush" provides profiles and photographs of local residents. Advertisements and photographs appear throughout.</field>
+    <field name="ref_ssi">aspace_ref96</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">bin: 17</field>
+    <field name="location_ssm">bin: 25</field>
+    <field name="location_ssm">bin: 26</field>
+    <field name="location_ssm">bin: 27</field>
+    <field name="location_si">bin: 27</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Flatbush Life</field>
+    <field name="heading_ssm">Flatbush Life</field>
+    <field name="unitdate_start_sim">1959</field>
+    <field name="unitdate_start_ssm">1959</field>
+    <field name="unitdate_start_si">1959</field>
+    <field name="unitdate_end_sim">1999</field>
+    <field name="unitdate_end_ssm">1999</field>
+    <field name="unitdate_end_si">1999</field>
+    <field name="unitdate_ssm">Inclusive, 1959-1999</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">44</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_046_kalmusaspace_ref7_1i9</field>
+    <field name="ead_ssi">arc_046_kalmus</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Harry Kalmus papers and photographs</field>
+    <field name="collection_ssm">Harry Kalmus papers and photographs</field>
+    <field name="collection_unitid_ssm">ARC.046</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Papers</field>
+    <field name="unittitle_teim">Series 1: Papers</field>
+    <field name="unitdate_normal_ssm">1938/1987</field>
+    <field name="unitdate_normal_teim">1938/1987</field>
+    <field name="unitdate_normal_sim">1938/1987</field>
+    <field name="unitdate_inclusive_teim">1938-1987</field>
+    <field name="scopecontent_teim">This series contains an autograph book, correspondence, and printed materials belonging to Harry Kalmus. The autograph book dates from Kalmus's graduation from Yeshivah Toras Chaim in the late 1930s and includes the signatures of his classmates. Correspondence in the collection consists of letters to Kalmus from East New York childhood friends commending a series of photographs he took in the 1970s, titled "Vermont Street Memorabilia." Printed material describes his freelance work, particularly his role as a freelance photographer for local businesses and corporations; notices of Kalmus's death are also included.</field>
+    <field name="ref_ssi">aspace_ref7_1i9</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: A0132</field>
+    <field name="location_si">Box: A0132</field>
+    <field name="collection_teim">Harry Kalmus papers and photographs</field>
+    <field name="collection_unitid_teim">ARC.046</field>
+    <field name="series_si">Series 1: Papers</field>
+    <field name="heading_ssm">Series 1: Papers</field>
+    <field name="unitdate_start_sim">1938</field>
+    <field name="unitdate_start_ssm">1938</field>
+    <field name="unitdate_start_si">1938</field>
+    <field name="unitdate_end_sim">1987</field>
+    <field name="unitdate_end_ssm">1987</field>
+    <field name="unitdate_end_si">1987</field>
+    <field name="unitdate_ssm">Inclusive, 1938-1987</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

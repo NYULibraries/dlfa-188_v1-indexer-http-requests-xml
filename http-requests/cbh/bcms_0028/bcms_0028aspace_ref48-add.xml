@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref48</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Brooklyn Life</field>
+    <field name="unittitle_teim">Brooklyn Life</field>
+    <field name="unitdate_normal_ssm">1890/1931</field>
+    <field name="unitdate_normal_teim">1890/1931</field>
+    <field name="unitdate_normal_sim">1890/1931</field>
+    <field name="unitdate_inclusive_teim">1890-1931</field>
+    <field name="scopecontent_teim">Brooklyn Life magazine provides Brooklyn-wide news coverage of society, club life, theater, and politics. Some wedding announcements for prominent Brooklynites appear and, in later issues, a section devoted to death announcements appears. There are no birth announcements. Early issues of the paper are heavily illustrated and contain numerous proverbs, epigrams, aphorisms, and poems. Local club news covers the sports of cricket, badminton, tennis, and lacrosse. Often times entire issues are devoted to a single subject, such as: Bicycling, Easter, Horse Shows, Outings, Education, and St. Valentine's Day. Issues commonly include numerous photographs of life in Brooklyn. At the beginning of the 20th century a "Military" section appears in the paper, as does a "Motoring" section. Photographs of stage productions appear regularly in the paper. The names and addresses of "Automobile Owners of Brooklyn and Long Island" also appear regularly after the turn of the century. Advertisements appear throughout.</field>
+    <field name="ref_ssi">aspace_ref48</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Case: Morgue microfilm drawers</field>
+    <field name="location_si">Case: Morgue microfilm drawers</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Brooklyn Life</field>
+    <field name="heading_ssm">Brooklyn Life</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1931</field>
+    <field name="unitdate_end_ssm">1931</field>
+    <field name="unitdate_end_si">1931</field>
+    <field name="unitdate_ssm">Inclusive, 1890-1931</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

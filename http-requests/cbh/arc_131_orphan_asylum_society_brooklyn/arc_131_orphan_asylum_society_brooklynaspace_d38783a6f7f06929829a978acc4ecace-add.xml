@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_131_orphan_asylum_society_brooklynaspace_d38783a6f7f06929829a978acc4ecace</field>
+    <field name="ead_ssi">arc_131_orphan_asylum_society_brooklyn</field>
+    <field name="parent_ssi">aspace_ed2ca5b8a374db68b6f359a42f42d6ef</field>
+    <field name="parent_ssm">aspace_ed2ca5b8a374db68b6f359a42f42d6ef</field>
+    <field name="parent_unittitles_ssm">Series 1: Annual reports and manuals</field>
+    <field name="parent_unittitles_teim">Series 1: Annual reports and manuals</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Orphan Asylum Society of the City of Brooklyn records</field>
+    <field name="collection_ssm">Orphan Asylum Society of the City of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.131</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bound volume of manuals</field>
+    <field name="unittitle_teim">Bound volume of manuals</field>
+    <field name="unitdate_normal_ssm">1834/1885</field>
+    <field name="unitdate_normal_teim">1834/1885</field>
+    <field name="unitdate_normal_sim">1834/1885</field>
+    <field name="unitdate_inclusive_teim">1834-1885</field>
+    <field name="ref_ssi">aspace_d38783a6f7f06929829a978acc4ecace</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, volume: 1</field>
+    <field name="location_ssm">volume: 1</field>
+    <field name="location_si">volume: 1</field>
+    <field name="collection_teim">Orphan Asylum Society of the City of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.131</field>
+    <field name="series_sim">Series 1: Annual reports and manuals</field>
+    <field name="series_si">Series 1: Annual reports and manuals &gt;&gt; Bound volume of manuals</field>
+    <field name="heading_ssm">Bound volume of manuals</field>
+    <field name="unitdate_start_sim">1834</field>
+    <field name="unitdate_start_ssm">1834</field>
+    <field name="unitdate_start_si">1834</field>
+    <field name="unitdate_end_sim">1885</field>
+    <field name="unitdate_end_ssm">1885</field>
+    <field name="unitdate_end_si">1885</field>
+    <field name="unitdate_ssm">Inclusive, 1834-1885</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">33</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0031aspace_ref365</field>
+    <field name="ead_ssi">bcms_0031</field>
+    <field name="parent_ssi">aspace_ref28</field>
+    <field name="parent_ssm">aspace_ref28</field>
+    <field name="parent_unittitles_ssm">Berkeley Institute</field>
+    <field name="parent_unittitles_teim">Berkeley Institute</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Yearbook Collection</field>
+    <field name="collection_ssm">Brooklyn Yearbook Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0031</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Berkeleydian [literary magazine]</field>
+    <field name="unittitle_teim">Berkeleydian [literary magazine]</field>
+    <field name="unitdate_normal_ssm">1910-11/1911-06</field>
+    <field name="unitdate_normal_teim">1910-11/1911-06</field>
+    <field name="unitdate_normal_sim">1910-11/1911-06</field>
+    <field name="unitdate_inclusive_teim">November 1910 - June 1911</field>
+    <field name="scopecontent_teim">Monthly issues in this time span, bound together in one volume.</field>
+    <field name="ref_ssi">aspace_ref365</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">cabinet: 3C shelves</field>
+    <field name="location_si">cabinet: 3C shelves</field>
+    <field name="collection_teim">Brooklyn Yearbook Collection</field>
+    <field name="collection_unitid_teim">BCMS.0031</field>
+    <field name="series_sim">Berkeley Institute</field>
+    <field name="series_si">Berkeley Institute &gt;&gt; Berkeleydian [literary magazine]</field>
+    <field name="heading_ssm">Berkeleydian [literary magazine]</field>
+    <field name="unitdate_ssm">Inclusive, November 1910 - June 1911</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">23</field>
+  </doc>
+</add>

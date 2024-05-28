@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2012_002_bhfamaspace_3d4a7683a716e6b73126da27d11e22e3</field>
+    <field name="ead_ssi">arms_2012_002_bhfam</field>
+    <field name="parent_ssi">aspace_ref122_v1v</field>
+    <field name="parent_ssm">aspace_ref122_v1v</field>
+    <field name="parent_unittitles_ssm">Series 1: Administrative and financial records</field>
+    <field name="parent_unittitles_teim">Series 1: Administrative and financial records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Home for Aged Men records</field>
+    <field name="collection_ssm">Brooklyn Home for Aged Men records</field>
+    <field name="collection_unitid_ssm">2012.002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">List of founders</field>
+    <field name="unittitle_teim">List of founders</field>
+    <field name="unitdate_normal_ssm">1844/2011</field>
+    <field name="unitdate_normal_teim">1844/2011</field>
+    <field name="unitdate_normal_sim">1844/2011</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="phystech_teim">Access to digital materials is available onsite at the Othmer Library. Requests to access digital materials must be made at least 2 days in advance by emailing library@brooklynhistory.org.</field>
+    <field name="ref_ssi">aspace_3d4a7683a716e6b73126da27d11e22e3</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Disk: digital files</field>
+    <field name="location_si">Disk: digital files</field>
+    <field name="collection_teim">Brooklyn Home for Aged Men records</field>
+    <field name="collection_unitid_teim">2012.002</field>
+    <field name="series_sim">Series 1: Administrative and financial records</field>
+    <field name="series_si">Series 1: Administrative and financial records &gt;&gt; List of founders</field>
+    <field name="heading_ssm">List of founders</field>
+    <field name="unitdate_start_sim">1844</field>
+    <field name="unitdate_start_ssm">1844</field>
+    <field name="unitdate_start_si">1844</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">36</field>
+  </doc>
+</add>

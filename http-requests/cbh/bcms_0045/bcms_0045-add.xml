@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Diana Bowers-Smith, Archivist with the assistance of Kreya Jackson, Librarian and Brooklyn Collection volunteer</field>
+    <field name="author_ssm">Diana Bowers-Smith, Archivist with the assistance of Kreya Jackson, Librarian and Brooklyn Collection volunteer</field>
+    <field name="unittitle_teim">Montauk Club collection</field>
+    <field name="unittitle_ssm">Montauk Club collection</field>
+    <field name="unitid_teim">BCMS.0045</field>
+    <field name="unitid_ssm">BCMS.0045</field>
+    <field name="abstract_teim">Records, photographs, and ephemera from the Montauk Club, a social club in Park Slope, Brooklyn founded in 1889 and still in operation today.</field>
+    <field name="abstract_ssm">Records, photographs, and ephemera from the Montauk Club, a social club in Park Slope, Brooklyn founded in 1889 and still in operation today.</field>
+    <field name="unitdate_normal_ssm">1889/2016</field>
+    <field name="unitdate_normal_teim">1889/2016</field>
+    <field name="unitdate_normal_sim">1889/2016</field>
+    <field name="unitdate_inclusive_teim">1889-2016</field>
+    <field name="scopecontent_teim">While this collection does not constitute a comprehensive record of the Montauk Club's activities, it chronicles events spanning the club's entire history, including documents pertaining to the club's administration, membership, and events as well as a small number of photographs and bound volumes. The early event materials are particularly noteworthy; many of the event programs and menus are elaborately and lavishly decorated.</field>
+    <field name="bioghist_teim">The Montauk Club was founded in 1889 in Park Slope, an affluent neighborhood in what was then the independent city of Brooklyn. Though there were many other upper-class social clubs in Brooklyn at the time, the Montauk Club quickly became one of the most desirable memberships. Among the 25 charter members was Alfred Chapin, then mayor of Brooklyn, as well as future mayor David Boody and Lieutenant Governor Timothy Woodruff. Charles A. Moore was the club's first president.</field>
+    <field name="bioghist_teim"> Soon after incorporating, the club selected a site for their clubhouse and commissioned the architect Francis H. Kimball to build it. Kimball designed an opulent structure in Venetian Gothic style which still stands today on the corner of 8th Avenue and Lincoln Place. The building was completed in 1891. The Landmarks Commission designated it as an individual landmark in 1966.</field>
+    <field name="bioghist_teim"> The club has hosted many events and famous persons. In 1892, a dinner was held for former President Grover Cleveland. In 1895, an estimated 5,000 people attended a reception for Governor (soon to be President) McKinley. For 35 years starting in 1892, the club hosted annual birthday dinners for Chauncey Depew, an attorney and politician who was very well-known at the time. These celebrations became nearly as famous as the man himself, and were reported on nationally and internationally.</field>
+    <field name="bioghist_teim"> In 1934, during the Great Depression, the club's financial situation became so dire that the board voted to dissolve. Two dissenting votes, and opposition from the membership, reversed the decision and the club survived. Later in the twentieth century, membership and revenue once again declined as social clubs fell out of favor. In the mid-1990s, the club sold its upper floors for development into condominiums, while retaining the first and second floors. The sale allowed the Montauk Club to remain in its original building, and it is still open and functioning in that building today.</field>
+    <field name="acqinfo_teim">The bulk of this collection was donated by the Montauk Club in April 2016. Additional materials were later donated by Mary Brennan and Dylan Yeats. Lisa Finstrom and Tim Sanford gave materials to the club in 2006 which the club later added to this collection.</field>
+    <field name="phystech_teim">If digital surrogates exist, they should be used in place of the originals whenever possible.</field>
+    <field name="corpname_teim">Brooklyn Collection</field>
+    <field name="corpname_ssm">Brooklyn Collection</field>
+    <field name="genreform_teim">Menus</field>
+    <field name="genreform_ssm">Menus</field>
+    <field name="geogname_teim">Park Slope (New York, N.Y.)</field>
+    <field name="geogname_teim">Park Slope Historic District (New York, N.Y.)</field>
+    <field name="geogname_ssm">Park Slope (New York, N.Y.)</field>
+    <field name="geogname_ssm">Park Slope Historic District (New York, N.Y.)</field>
+    <field name="subject_teim">Clubs</field>
+    <field name="subject_teim">Clubs</field>
+    <field name="subject_ssm">Clubs</field>
+    <field name="collection_sim">Montauk Club collection</field>
+    <field name="collection_ssm">Montauk Club collection</field>
+    <field name="collection_teim">Montauk Club collection</field>
+    <field name="id">bcms_0045</field>
+    <field name="ead_ssi">bcms_0045</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Park Slope (New York, N.Y.)</field>
+    <field name="place_sim">Park Slope Historic District (New York, N.Y.)</field>
+    <field name="subject_sim">Clubs</field>
+    <field name="material_type_sim">Menus</field>
+    <field name="material_type_ssm">Menus</field>
+    <field name="heading_ssm">Montauk Club collection</field>
+    <field name="unitdate_start_sim">1889</field>
+    <field name="unitdate_start_ssm">1889</field>
+    <field name="unitdate_start_si">1889</field>
+    <field name="unitdate_end_sim">2016</field>
+    <field name="unitdate_end_ssm">2016</field>
+    <field name="unitdate_end_si">2016</field>
+    <field name="unitdate_ssm">Inclusive, 1889-2016</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

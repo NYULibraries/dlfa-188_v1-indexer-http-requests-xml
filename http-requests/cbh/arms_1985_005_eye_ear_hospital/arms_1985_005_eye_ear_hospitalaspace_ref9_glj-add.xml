@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1985_005_eye_ear_hospitalaspace_ref9_glj</field>
+    <field name="ead_ssi">arms_1985_005_eye_ear_hospital</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn Eye and Ear Hospital records</field>
+    <field name="collection_ssm">Brooklyn Eye and Ear Hospital records</field>
+    <field name="collection_unitid_ssm">1985.005</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Medical Staff</field>
+    <field name="unittitle_teim">Series 2: Medical Staff</field>
+    <field name="unitdate_normal_ssm">1926/1976</field>
+    <field name="unitdate_normal_teim">1926/1976</field>
+    <field name="unitdate_normal_sim">1926/1976</field>
+    <field name="unitdate_inclusive_teim">1926-1976</field>
+    <field name="scopecontent_teim">This series contains six bound volumes and two four-ring binders containing minutes of the annual, regular, and special meetings of the Hospital's Board of Surgeons, which functioned as the governing body for the Hospital's medical staff.  In the first two volumes, which cover the period 1926 to 1940, the Board of Surgeons is referred to under its previous name, the Medical Board.  The minutes span the entire date range covered by the series and detail the items deliberated upon at each of the Board's meetings, as well as the Board's decisions regarding various aspects of the Hospital's medical operations.</field>
+    <field name="scopecontent_teim">Prominent issues covered in the minutes include the formation of Board committees and auxiliaries; committee recommendations and reports; nominations and appointments of individuals to medical positions; resignations of Board and medical staff members; the management of the Hospital's education initiatives, including its intern and residency programs; the conduct and duties of medical staff and interns; employee salaries; results of clinical trials; acquisition of medical equipment; guidelines and regulations for medical and surgical procedures; the application of various medical drugs, instruments, and practices; medical staff rotations and operative schedules; actions taken by the Board to comply with industry regulations and professional standards; participation among Board members in various professional organizations; and the honoring of deceased Board and medical staff members.  Supplementary items relevant to the Board's activities are also included in the volumes and binders, including correspondence, resolutions, full committee and departmental reports, and rules and regulations for medical staff and interns.</field>
+    <field name="scopecontent_teim">The series also contains eight four-ring binders of minutes from meetings of several of the Board's committees throughout the period 1970 to 1975.  The committee minutes expound upon the Board minutes of the same period, and offer more specific information on the duties performed by members of the Hospital's medical staff, the governance of the medical staff, the interrelation of the Hospital's medical departments, medical and patient statistics, the disorders and diseases treated by the Hospital, and the applications of medical treatments and surgical procedures.  Most of the binders consolidate the minutes of several committees and are organized alphabetically by committee name; however, one binder exclusively contains the minutes of the Committee on Infections, while two binders solely contain the minutes of the Opthalmic Committee.  The Ophtalmic committee is also represented by an additional folder of material dating from 1964 to 1974.</field>
+    <field name="scopecontent_teim">Finally, the series also contains one four-ring binder of minutes from meetings of medical deptartment heads during the period 1969 to 1975, and two copies, bound and unbound, of a medical staff manual adopted by the Board of Surgeons in 1971.</field>
+    <field name="ref_ssi">aspace_ref9_glj</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn Eye and Ear Hospital records</field>
+    <field name="collection_unitid_teim">1985.005</field>
+    <field name="series_si">Series 2: Medical Staff</field>
+    <field name="heading_ssm">Series 2: Medical Staff</field>
+    <field name="unitdate_start_sim">1926</field>
+    <field name="unitdate_start_ssm">1926</field>
+    <field name="unitdate_start_si">1926</field>
+    <field name="unitdate_end_sim">1976</field>
+    <field name="unitdate_end_ssm">1976</field>
+    <field name="unitdate_end_si">1976</field>
+    <field name="unitdate_ssm">Inclusive, 1926-1976</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

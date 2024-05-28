@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cbhm_0006aspace_c512ede1d057cd282e7b552109ef60e0</field>
+    <field name="ead_ssi">cbhm_0006</field>
+    <field name="parent_ssi">aspace_ca70b8c74995df594cb2fa66b32c5e16</field>
+    <field name="parent_ssm">aspace_ca70b8c74995df594cb2fa66b32c5e16</field>
+    <field name="parent_unittitles_ssm">Series 2: Individual schools</field>
+    <field name="parent_unittitles_teim">Series 2: Individual schools</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn schools collection</field>
+    <field name="collection_ssm">Brooklyn schools collection</field>
+    <field name="collection_unitid_ssm">CBHM.0006</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">P.S. 45</field>
+    <field name="unittitle_teim">P.S. 45</field>
+    <field name="ref_ssi">aspace_c512ede1d057cd282e7b552109ef60e0</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn schools collection</field>
+    <field name="collection_unitid_teim">CBHM.0006</field>
+    <field name="series_sim">Series 2: Individual schools</field>
+    <field name="series_si">Series 2: Individual schools &gt;&gt; P.S. 45</field>
+    <field name="heading_ssm">P.S. 45</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">559</field>
+  </doc>
+</add>

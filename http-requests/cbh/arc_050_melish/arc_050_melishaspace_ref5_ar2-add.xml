@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_050_melishaspace_ref5_ar2</field>
+    <field name="ead_ssi">arc_050_melish</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Howard Melish, William Howard Melish and Protestant Episcopal Church of the Holy Trinity collection</field>
+    <field name="collection_ssm">John Howard Melish, William Howard Melish and Protestant Episcopal Church of the Holy Trinity collection</field>
+    <field name="collection_unitid_ssm">ARC.050</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 5: William Howard Melish Clippings, Ephemera, Correspondence, Notes.</field>
+    <field name="unittitle_teim">Series 5: William Howard Melish Clippings, Ephemera, Correspondence, Notes.</field>
+    <field name="unitdate_normal_ssm">1935/1958</field>
+    <field name="unitdate_normal_teim">1935/1958</field>
+    <field name="unitdate_normal_sim">1935/1958</field>
+    <field name="unitdate_inclusive_teim">1935-1958</field>
+    <field name="scopecontent_teim">This series is comprised of the clippings files maintained by William Howard Melish. The bulk of the files include clippings from newspapers such as the Brooklyn Eagle, New York Times, and The Churchman, and some of the clippings are in Russian. However, Melish's clippings files also contained correspondence, notes, and other material. </field>
+    <field name="scopecontent_teim">Broadly stated, the series concerns two overarching subjects: the relationship of the United States with the Soviet Union and related fears about the threats of Communism, and the controversy and legal troubles faced by the Melishes because of their active involvement in these issues. The clippings concern many subjects within these categories, including the domestic and foreign events triggering the Melishes' activities, support received from various people and factions, the church and legal debates over the possibility of removing the Melishes from their positions, and church leadership succession. </field>
+    <field name="scopecontent_teim">The correspondence includes exchanges between the Melishes; between William Howard Melish and Rev. Joseph F. Fletcher of the Episcopal Theological School in Cambridge, Massachusetts in the early 1950s; and with others outside the congregation on various secular matters. Folders from the late 1950s include William Howard Melish's typewritten notes on the developments of the case. Church bulletin pamphlets, political cartoons, and articles/letters containing the opinions of several rabbis are also included in this series.</field>
+    <field name="ref_ssi">aspace_ref5_ar2</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Howard Melish, William Howard Melish and Protestant Episcopal Church of the Holy Trinity collection</field>
+    <field name="collection_unitid_teim">ARC.050</field>
+    <field name="series_si">Series 5: William Howard Melish Clippings, Ephemera, Correspondence, Notes.</field>
+    <field name="heading_ssm">Series 5: William Howard Melish Clippings, Ephemera, Correspondence, Notes.</field>
+    <field name="unitdate_start_sim">1935</field>
+    <field name="unitdate_start_ssm">1935</field>
+    <field name="unitdate_start_si">1935</field>
+    <field name="unitdate_end_sim">1958</field>
+    <field name="unitdate_end_ssm">1958</field>
+    <field name="unitdate_end_si">1958</field>
+    <field name="unitdate_ssm">Inclusive, 1935-1958</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

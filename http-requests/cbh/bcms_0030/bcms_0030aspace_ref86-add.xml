@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0030aspace_ref86</field>
+    <field name="ead_ssi">bcms_0030</field>
+    <field name="parent_ssi">aspace_ref85</field>
+    <field name="parent_ssm">aspace_ref85</field>
+    <field name="parent_unittitles_ssm">James Madison High School</field>
+    <field name="parent_unittitles_teim">James Madison High School</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Madison Highway&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Madison Highway
+    </field>
+    <field name="unitdate_inclusive_teim">October 1958 - May 1961</field>
+    <field name="ref_ssi">aspace_ref86</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6 - restricted</field>
+    <field name="location_si">Box: 6 - restricted</field>
+    <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_teim">BCMS.0030</field>
+    <field name="series_sim">James Madison High School</field>
+    <field name="series_si">James Madison High School &gt;&gt; 
+      &lt;em&gt;Madison Highway&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Madison Highway
+    </field>
+    <field name="unitdate_ssm">Inclusive, October 1958 - May 1961</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">57</field>
+  </doc>
+</add>

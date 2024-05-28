@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0061aspace_ref119</field>
+    <field name="ead_ssi">bcms_0061</field>
+    <field name="parent_ssi">aspace_ref115</field>
+    <field name="parent_ssm">aspace_ref115</field>
+    <field name="parent_unittitles_ssm">Series V: Certificates, Orders and Programs</field>
+    <field name="parent_unittitles_teim">Series V: Certificates, Orders and Programs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Raymond V. Ingersoll Collection</field>
+    <field name="collection_ssm">Raymond V. Ingersoll Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0061</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Certificates, Orders and Programs</field>
+    <field name="unittitle_teim">Certificates, Orders and Programs</field>
+    <field name="ref_ssi">aspace_ref119</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Raymond V. Ingersoll Collection</field>
+    <field name="collection_unitid_teim">BCMS.0061</field>
+    <field name="series_sim">Series V: Certificates, Orders and Programs</field>
+    <field name="series_si">Series V: Certificates, Orders and Programs &gt;&gt; Certificates, Orders and Programs</field>
+    <field name="heading_ssm">Certificates, Orders and Programs</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">61</field>
+  </doc>
+</add>

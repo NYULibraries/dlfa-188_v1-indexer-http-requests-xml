@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0047aspace_ref165</field>
+    <field name="ead_ssi">bcms_0047</field>
+    <field name="parent_ssi">aspace_ref158</field>
+    <field name="parent_ssm">aspace_ref158</field>
+    <field name="parent_unittitles_ssm">Reel 32</field>
+    <field name="parent_unittitles_teim">Reel 32</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Kings County Historic Records Microfilm Collection</field>
+    <field name="collection_ssm">Kings County Historic Records Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0047</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New Utrecht 212 and 217, Road Records</field>
+    <field name="unittitle_teim">New Utrecht 212 and 217, Road Records</field>
+    <field name="unitdate_teim">circa 1700-1860</field>
+    <field name="ref_ssi">aspace_ref165</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">reel: 32</field>
+    <field name="location_si">reel: 32</field>
+    <field name="collection_teim">Kings County Historic Records Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0047</field>
+    <field name="series_sim">Reel 32</field>
+    <field name="series_si">Reel 32 &gt;&gt; New Utrecht 212 and 217, Road Records</field>
+    <field name="heading_ssm">New Utrecht 212 and 217, Road Records</field>
+    <field name="unitdate_ssm">circa 1700-1860</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">145</field>
+  </doc>
+</add>

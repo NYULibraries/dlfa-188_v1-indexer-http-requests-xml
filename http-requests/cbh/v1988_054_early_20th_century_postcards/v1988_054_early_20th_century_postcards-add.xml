@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Patricia Glowinski</field>
+    <field name="author_ssm">Patricia Glowinski</field>
+    <field name="unittitle_teim">Early 20th century Brooklyn postcard collection</field>
+    <field name="unittitle_ssm">Early 20th century Brooklyn postcard collection</field>
+    <field name="unitid_teim">V1988.054</field>
+    <field name="unitid_ssm">V1988.054</field>
+    <field name="abstract_teim">The Early 20th century Brooklyn postcard collection is comprised of 63 picture and photographic postcards, dating from circa 1900 to 1949, depicting various scenes in Brooklyn. The postcards are both in color and black-and-white. Some of the postcards retain their original postage stamps and include correspondence from the sender. Images of bridges, schools, churches, houses, monuments, hotels, and Prospect Park, among others, are included.</field>
+    <field name="abstract_ssm">The Early 20th century Brooklyn postcard collection is comprised of 63 picture and photographic postcards, dating from circa 1900 to 1949, depicting various scenes in Brooklyn. The postcards are both in color and black-and-white. Some of the postcards retain their original postage stamps and include correspondence from the sender. Images of bridges, schools, churches, houses, monuments, hotels, and Prospect Park, among others, are included.</field>
+    <field name="unitdate_normal_ssm">1890/1959</field>
+    <field name="unitdate_normal_teim">1890/1959</field>
+    <field name="unitdate_normal_sim">1890/1959</field>
+    <field name="unitdate_inclusive_teim">circa 1900 to 1949</field>
+    <field name="scopecontent_teim">The Early 20th century Brooklyn postcard collection is comprised of 63 picture and photographic postcards, dating from circa 1900 to 1949, depicting various scenes in Brooklyn. The postcards are both in color and black-and-white. Some of the postcards retain their original postage stamps and include correspondence from the sender. Images of bridges, schools, churches, houses, monuments, hotels, and Prospect Park, among others, are included.</field>
+    <field name="acqinfo_teim">The collection was purchased by the Brooklyn Historical Society, date unknown. The collection was formally accessioned in 1988.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Picture postcards</field>
+    <field name="genreform_teim">Photographic postcards</field>
+    <field name="genreform_ssm">Picture postcards</field>
+    <field name="genreform_ssm">Photographic postcards</field>
+    <field name="geogname_teim">Prospect Park (New York, N.Y.)</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</field>
+    <field name="geogname_ssm">Prospect Park (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</field>
+    <field name="collection_sim">Early 20th century Brooklyn postcard collection</field>
+    <field name="collection_ssm">Early 20th century Brooklyn postcard collection</field>
+    <field name="collection_teim">Early 20th century Brooklyn postcard collection</field>
+    <field name="id">v1988_054_early_20th_century_postcards</field>
+    <field name="ead_ssi">v1988_054_early_20th_century_postcards</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Prospect Park (New York, N.Y.)</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.) -- Buildings, structures, etc. -- Pictorial works</field>
+    <field name="material_type_sim">Picture postcards</field>
+    <field name="material_type_sim">Photographic postcards</field>
+    <field name="material_type_ssm">Picture postcards</field>
+    <field name="material_type_ssm">Photographic postcards</field>
+    <field name="heading_ssm">Early 20th century Brooklyn postcard collection</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1959</field>
+    <field name="unitdate_end_ssm">1959</field>
+    <field name="unitdate_end_si">1959</field>
+    <field name="unitdate_ssm">Inclusive, circa 1900 to 1949</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

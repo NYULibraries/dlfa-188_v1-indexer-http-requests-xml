@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0062aspace_ref81</field>
+    <field name="ead_ssi">bcms_0062</field>
+    <field name="parent_ssi">aspace_ref17</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref17</field>
+    <field name="parent_unittitles_ssm">Series 1: ExxonMobil/Roux Associates, Inc.</field>
+    <field name="parent_unittitles_ssm">Subseries 1.5: SPDES/Long Island Well Permits</field>
+    <field name="parent_unittitles_teim">Series 1: ExxonMobil/Roux Associates, Inc.</field>
+    <field name="parent_unittitles_teim">Subseries 1.5: SPDES/Long Island Well Permits</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Greenpoint Petroleum Remediation Project (GPRP) records</field>
+    <field name="collection_ssm">Greenpoint Petroleum Remediation Project (GPRP) records</field>
+    <field name="collection_unitid_ssm">BCMS.0062</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bound Reports 1 &amp;amp; 2: SPDES Permit Applications</field>
+    <field name="unittitle_teim">Bound Reports 1 &amp; 2: SPDES Permit Applications</field>
+    <field name="unitdate_teim">May 2007</field>
+    <field name="ref_ssi">aspace_ref81</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7</field>
+    <field name="location_si">Box: 7</field>
+    <field name="collection_teim">Greenpoint Petroleum Remediation Project (GPRP) records</field>
+    <field name="collection_unitid_teim">BCMS.0062</field>
+    <field name="series_sim">Series 1: ExxonMobil/Roux Associates, Inc.</field>
+    <field name="series_sim">Subseries 1.5: SPDES/Long Island Well Permits</field>
+    <field name="series_si">Series 1: ExxonMobil/Roux Associates, Inc. &gt;&gt; Subseries 1.5: SPDES/Long Island Well Permits &gt;&gt; Bound Reports 1 &amp;amp; 2: SPDES Permit Applications</field>
+    <field name="heading_ssm">Bound Reports 1 &amp; 2: SPDES Permit Applications</field>
+    <field name="unitdate_ssm">May 2007</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

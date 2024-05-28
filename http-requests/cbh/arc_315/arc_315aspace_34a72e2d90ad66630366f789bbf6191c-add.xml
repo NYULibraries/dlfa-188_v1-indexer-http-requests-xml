@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_315aspace_34a72e2d90ad66630366f789bbf6191c</field>
+    <field name="ead_ssi">arc_315</field>
+    <field name="parent_ssi">aspace_d5001e723bab206806b84a47199a2ede</field>
+    <field name="parent_ssm">aspace_d5001e723bab206806b84a47199a2ede</field>
+    <field name="parent_unittitles_ssm">Series 1: New York City and Long Island</field>
+    <field name="parent_unittitles_teim">Series 1: New York City and Long Island</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Historical Society vertical files</field>
+    <field name="collection_ssm">Brooklyn Historical Society vertical files</field>
+    <field name="collection_unitid_ssm">ARC.315</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Parks -- Central Park</field>
+    <field name="unittitle_teim">Parks -- Central Park</field>
+    <field name="ref_ssi">aspace_34a72e2d90ad66630366f789bbf6191c</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Drawer: 1</field>
+    <field name="location_si">Drawer: 1</field>
+    <field name="collection_teim">Brooklyn Historical Society vertical files</field>
+    <field name="collection_unitid_teim">ARC.315</field>
+    <field name="series_sim">Series 1: New York City and Long Island</field>
+    <field name="series_si">Series 1: New York City and Long Island &gt;&gt; Parks -- Central Park</field>
+    <field name="heading_ssm">Parks -- Central Park</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">67</field>
+  </doc>
+</add>

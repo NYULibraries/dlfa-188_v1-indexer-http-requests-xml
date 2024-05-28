@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2008_023_order_of_amaranthaspace_ref11_s4j</field>
+    <field name="ead_ssi">arms_2008_023_order_of_amaranth</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Order of the Amaranth Brooklyn Court No. 4 records</field>
+    <field name="collection_ssm">Order of the Amaranth Brooklyn Court No. 4 records</field>
+    <field name="collection_unitid_ssm">2008.023</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Minutes</field>
+    <field name="unittitle_teim">Series 3: Minutes</field>
+    <field name="unitdate_normal_ssm">1897/1941</field>
+    <field name="unitdate_normal_teim">1897/1941</field>
+    <field name="unitdate_normal_sim">1897/1941</field>
+    <field name="unitdate_inclusive_teim">1897-1941</field>
+    <field name="scopecontent_teim">This series contains the officially recorded minutes of the regularly held meetings of Brooklyn Court No. 4 as compiled by the Court officers over the period spanning 1897 to 1941. The minutes have either been recorded in bound volumes or on loose-leaf sheets of paper.</field>
+    <field name="ref_ssi">aspace_ref11_s4j</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Order of the Amaranth Brooklyn Court No. 4 records</field>
+    <field name="collection_unitid_teim">2008.023</field>
+    <field name="series_si">Series 3: Minutes</field>
+    <field name="heading_ssm">Series 3: Minutes</field>
+    <field name="unitdate_start_sim">1897</field>
+    <field name="unitdate_start_ssm">1897</field>
+    <field name="unitdate_start_si">1897</field>
+    <field name="unitdate_end_sim">1941</field>
+    <field name="unitdate_end_ssm">1941</field>
+    <field name="unitdate_end_si">1941</field>
+    <field name="unitdate_ssm">Inclusive, 1897-1941</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

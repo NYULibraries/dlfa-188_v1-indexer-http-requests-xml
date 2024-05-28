@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_109_first_unitarianaspace_ref359_uau</field>
+    <field name="ead_ssi">arc_109_first_unitarian</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_ssm">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.109</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 11: Financial Records.</field>
+    <field name="unittitle_teim">Series 11: Financial Records.</field>
+    <field name="unitdate_normal_ssm">1833/1956</field>
+    <field name="unitdate_normal_teim">1833/1956</field>
+    <field name="unitdate_normal_sim">1833/1956</field>
+    <field name="unitdate_inclusive_teim">1833-1956</field>
+    <field name="scopecontent_teim">The Financial Records series holds many of the Church's records regarding collecting and disbursing funds for its operations as well as for Willow Place Chapel, the Sunday School, Missionary Fund, and other programs. General financial statements of the Congregation are within this series. The series includes records of disbursements from the Charity Fund, Friendship Fund, and Minister's Discretionary Fund (the Charity Fund was used to make payments to congregants in need until 1923 when it was replaced by the Friendship Fund. The Friendship Fund was closed in 1940 and its purpose subsumed into the Minister's Discretionary Fund, which was also used for such payments prior to 1940.) In addition to the records of the Treasurer, budgets, investments, and fund raising, this series also contains ledgers on subscriber dues and pew rentals, including a book of the original deeds to the pews. Records on the receipts of the Church and ledgers of Offerings to the Church are another source of lists of pews renters and subscribers. The Church's investments include mortgages, so there is some information on individual residential mortgages including amounts, debtors, and properties.</field>
+    <field name="scopecontent_teim">The Housekeeping Scribe's Chronicle is a record of expenses for club meetings and events and thus doubles as a resource of menus and club member rolls.</field>
+    <field name="ref_ssi">aspace_ref359_uau</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.109</field>
+    <field name="series_si">Series 11: Financial Records.</field>
+    <field name="heading_ssm">Series 11: Financial Records.</field>
+    <field name="unitdate_start_sim">1833</field>
+    <field name="unitdate_start_ssm">1833</field>
+    <field name="unitdate_start_si">1833</field>
+    <field name="unitdate_end_sim">1956</field>
+    <field name="unitdate_end_ssm">1956</field>
+    <field name="unitdate_end_si">1956</field>
+    <field name="unitdate_ssm">Inclusive, 1833-1956</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">474</field>
+  </doc>
+</add>

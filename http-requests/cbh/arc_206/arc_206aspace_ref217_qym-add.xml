@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_206aspace_ref217_qym</field>
+    <field name="ead_ssi">arc_206</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Autograph Manuscript collection</field>
+    <field name="collection_ssm">Autograph Manuscript collection</field>
+    <field name="collection_unitid_ssm">ARC.206</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Stuyvesant, Peter</field>
+    <field name="unittitle_teim">Stuyvesant, Peter</field>
+    <field name="unitid_teim">1974.054</field>
+    <field name="unitid_ssm">1974.054</field>
+    <field name="unitdate_normal_ssm">1656/1656</field>
+    <field name="unitdate_normal_teim">1656/1656</field>
+    <field name="unitdate_normal_sim">1656/1656</field>
+    <field name="unitdate_inclusive_teim">1656</field>
+    <field name="ref_ssi">aspace_ref217_qym</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 94</field>
+    <field name="location_ssm">Folder: 94</field>
+    <field name="location_si">Folder: 94</field>
+    <field name="collection_teim">Autograph Manuscript collection</field>
+    <field name="collection_unitid_teim">ARC.206</field>
+    <field name="series_si">Stuyvesant, Peter</field>
+    <field name="heading_ssm">Stuyvesant, Peter</field>
+    <field name="unitdate_start_sim">1656</field>
+    <field name="unitdate_start_ssm">1656</field>
+    <field name="unitdate_start_si">1656</field>
+    <field name="unitdate_end_sim">1656</field>
+    <field name="unitdate_end_ssm">1656</field>
+    <field name="unitdate_end_si">1656</field>
+    <field name="unitdate_ssm">Inclusive, 1656</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="sort_ii">97</field>
+  </doc>
+</add>

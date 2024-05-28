@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_263_pierrepont_familyaspace_ref162_2lr</field>
+    <field name="ead_ssi">arc_263_pierrepont_family</field>
+    <field name="parent_ssi">aspace_ref102_cm1</field>
+    <field name="parent_ssm">aspace_ref102_cm1</field>
+    <field name="parent_unittitles_ssm">Series 4: Pierrepont Stores</field>
+    <field name="parent_unittitles_teim">Series 4: Pierrepont Stores</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Pierrepont family papers</field>
+    <field name="collection_ssm">Pierrepont family papers</field>
+    <field name="collection_unitid_ssm">ARC.263</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 6: Order Books</field>
+    <field name="unittitle_teim">Sub-series 6: Order Books</field>
+    <field name="unitdate_normal_ssm">1856/1888</field>
+    <field name="unitdate_normal_teim">1856/1888</field>
+    <field name="unitdate_normal_sim">1856/1888</field>
+    <field name="unitdate_inclusive_teim">1856-1888</field>
+    <field name="scopecontent_teim">Each of fifteen order books lists the date of order, the date of the ship's arrival, cargo, client, account number, duty paid, and where or to whom the cargo was sent and when.  Entries sometimes included further instructions for the handling of cargo.  These volumes are most interesting in the fact that they allow for the tracing of a shipment from its arrival at the docks to its departure from the Pierrepont Stores, even listing the lighter that transported the cargo around the docks.</field>
+    <field name="ref_ssi">aspace_ref162_2lr</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Pierrepont family papers</field>
+    <field name="collection_unitid_teim">ARC.263</field>
+    <field name="series_sim">Series 4: Pierrepont Stores</field>
+    <field name="series_si">Series 4: Pierrepont Stores &gt;&gt; Sub-series 6: Order Books</field>
+    <field name="heading_ssm">Sub-series 6: Order Books</field>
+    <field name="unitdate_start_sim">1856</field>
+    <field name="unitdate_start_ssm">1856</field>
+    <field name="unitdate_start_si">1856</field>
+    <field name="unitdate_end_sim">1888</field>
+    <field name="unitdate_end_ssm">1888</field>
+    <field name="unitdate_end_si">1888</field>
+    <field name="unitdate_ssm">Inclusive, 1856-1888</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">97</field>
+  </doc>
+</add>

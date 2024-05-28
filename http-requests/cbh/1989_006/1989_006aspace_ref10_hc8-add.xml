@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">1989_006aspace_ref10_hc8</field>
+    <field name="ead_ssi">1989_006</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">James A. Kelly collection of Brooklyn firefighting records</field>
+    <field name="collection_ssm">James A. Kelly collection of Brooklyn firefighting records</field>
+    <field name="collection_unitid_ssm">1989.006</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Brooklyn Volunteer Fire Department, Eastern and Western Districts</field>
+    <field name="unittitle_teim">Series 3: Brooklyn Volunteer Fire Department, Eastern and Western Districts</field>
+    <field name="unitdate_normal_ssm">1854/1938</field>
+    <field name="unitdate_normal_teim">1854/1938</field>
+    <field name="unitdate_normal_sim">1854/1938</field>
+    <field name="unitdate_inclusive_teim">1854-1938</field>
+    <field name="scopecontent_teim">The series contains materials relating to both the Eastern and Western Districts from 1854 to 1938. Included are materials regarding the Firemen's Association, the Benevolent Fund, and the Brooklyn Fire Department. Of special note are the roll of applicants for pensions and the benefits roll, which list the name and address of the recipients, the amount given in pension or relief, and the date of disbursement.</field>
+    <field name="ref_ssi">aspace_ref10_hc8</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">James A. Kelly collection of Brooklyn firefighting records</field>
+    <field name="collection_unitid_teim">1989.006</field>
+    <field name="series_si">Series 3: Brooklyn Volunteer Fire Department, Eastern and Western Districts</field>
+    <field name="heading_ssm">Series 3: Brooklyn Volunteer Fire Department, Eastern and Western Districts</field>
+    <field name="unitdate_start_sim">1854</field>
+    <field name="unitdate_start_ssm">1854</field>
+    <field name="unitdate_start_si">1854</field>
+    <field name="unitdate_end_sim">1938</field>
+    <field name="unitdate_end_ssm">1938</field>
+    <field name="unitdate_end_si">1938</field>
+    <field name="unitdate_ssm">Inclusive, 1854-1938</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">293</field>
+  </doc>
+</add>

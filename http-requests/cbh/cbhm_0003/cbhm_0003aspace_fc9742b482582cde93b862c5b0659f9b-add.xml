@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cbhm_0003aspace_fc9742b482582cde93b862c5b0659f9b</field>
+    <field name="ead_ssi">cbhm_0003</field>
+    <field name="parent_ssi">aspace_4adbeb67133f2fdfe0e1a227be41b6f6</field>
+    <field name="parent_ssm">aspace_4adbeb67133f2fdfe0e1a227be41b6f6</field>
+    <field name="parent_unittitles_ssm">Series 3: Exhibits and Ephemera </field>
+    <field name="parent_unittitles_teim">Series 3: Exhibits and Ephemera </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">George Aptecker Collection</field>
+    <field name="collection_ssm">George Aptecker Collection</field>
+    <field name="collection_unitid_ssm">CBHM.0003</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Invoices</field>
+    <field name="unittitle_teim">Invoices</field>
+    <field name="unitdate_normal_ssm">1961/1971</field>
+    <field name="unitdate_normal_teim">1961/1971</field>
+    <field name="unitdate_normal_sim">1961/1971</field>
+    <field name="unitdate_inclusive_teim">1961-1971</field>
+    <field name="ref_ssi">aspace_fc9742b482582cde93b862c5b0659f9b</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 16</field>
+    <field name="location_ssm">Folder: 16</field>
+    <field name="location_si">Folder: 16</field>
+    <field name="collection_teim">George Aptecker Collection</field>
+    <field name="collection_unitid_teim">CBHM.0003</field>
+    <field name="series_sim">Series 3: Exhibits and Ephemera </field>
+    <field name="series_si">Series 3: Exhibits and Ephemera  &gt;&gt; Invoices</field>
+    <field name="heading_ssm">Invoices</field>
+    <field name="unitdate_start_sim">1961</field>
+    <field name="unitdate_start_ssm">1961</field>
+    <field name="unitdate_start_si">1961</field>
+    <field name="unitdate_end_sim">1971</field>
+    <field name="unitdate_end_ssm">1971</field>
+    <field name="unitdate_end_si">1971</field>
+    <field name="unitdate_ssm">Inclusive, 1961-1971</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">34</field>
+  </doc>
+</add>

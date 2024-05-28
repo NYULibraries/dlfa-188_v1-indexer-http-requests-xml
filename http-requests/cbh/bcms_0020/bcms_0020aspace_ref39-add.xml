@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0020aspace_ref39</field>
+    <field name="ead_ssi">bcms_0020</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Susan B. Anthony</field>
+    <field name="parent_unittitles_teim">Susan B. Anthony</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Laura C. Holloway Letters</field>
+    <field name="collection_ssm">Laura C. Holloway Letters</field>
+    <field name="collection_unitid_ssm">BCMS.0020</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Again asks LCH to give paper on women in journalism</field>
+    <field name="unittitle_teim">Again asks LCH to give paper on women in journalism</field>
+    <field name="unitdate_normal_ssm">1888/1888</field>
+    <field name="unitdate_normal_teim">1888/1888</field>
+    <field name="unitdate_normal_sim">1888/1888</field>
+    <field name="unitdate_teim">February 5, 1888</field>
+    <field name="ref_ssi">aspace_ref39</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Laura C. Holloway Letters</field>
+    <field name="collection_unitid_teim">BCMS.0020</field>
+    <field name="series_sim">Susan B. Anthony</field>
+    <field name="series_si">Susan B. Anthony &gt;&gt; Again asks LCH to give paper on women in journalism</field>
+    <field name="heading_ssm">Again asks LCH to give paper on women in journalism</field>
+    <field name="unitdate_start_sim">1888</field>
+    <field name="unitdate_start_ssm">1888</field>
+    <field name="unitdate_start_si">1888</field>
+    <field name="unitdate_end_sim">1888</field>
+    <field name="unitdate_end_ssm">1888</field>
+    <field name="unitdate_end_si">1888</field>
+    <field name="unitdate_ssm">February 5, 1888</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

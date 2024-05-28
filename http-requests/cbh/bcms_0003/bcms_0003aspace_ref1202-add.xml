@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0003aspace_ref1202</field>
+    <field name="ead_ssi">bcms_0003</field>
+    <field name="parent_ssi">aspace_ref611</field>
+    <field name="parent_ssm">aspace_ref611</field>
+    <field name="parent_unittitles_ssm">Williamsburg</field>
+    <field name="parent_unittitles_teim">Williamsburg</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn periodical illustrations</field>
+    <field name="collection_ssm">Brooklyn periodical illustrations</field>
+    <field name="collection_unitid_ssm">BCMS.0003</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">John C. Cool's in Williamsburg [German language]. &lt;em&gt;Frank Leslie's Illustrierte Zeitung&lt;/em&gt;,</field>
+    <field name="unittitle_teim">John C. Cool's in Williamsburg [German language]. Frank Leslie's Illustrierte Zeitung,</field>
+    <field name="unitdate_normal_ssm">1859/1859</field>
+    <field name="unitdate_normal_teim">1859/1859</field>
+    <field name="unitdate_normal_sim">1859/1859</field>
+    <field name="unitdate_teim">1859</field>
+    <field name="ref_ssi">aspace_ref1202</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6</field>
+    <field name="location_si">Box: 6</field>
+    <field name="collection_teim">Brooklyn periodical illustrations</field>
+    <field name="collection_unitid_teim">BCMS.0003</field>
+    <field name="series_sim">Williamsburg</field>
+    <field name="series_si">Williamsburg &gt;&gt; John C. Cool's in Williamsburg [German language]. &lt;em&gt;Frank Leslie's Illustrierte Zeitung&lt;/em&gt;,</field>
+    <field name="heading_ssm">John C. Cool's in Williamsburg [German language]. Frank Leslie's Illustrierte Zeitung,</field>
+    <field name="unitdate_start_sim">1859</field>
+    <field name="unitdate_start_ssm">1859</field>
+    <field name="unitdate_start_si">1859</field>
+    <field name="unitdate_end_sim">1859</field>
+    <field name="unitdate_end_ssm">1859</field>
+    <field name="unitdate_end_si">1859</field>
+    <field name="unitdate_ssm">1859</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1180</field>
+  </doc>
+</add>

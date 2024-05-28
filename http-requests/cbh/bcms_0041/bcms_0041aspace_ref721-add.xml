@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0041aspace_ref721</field>
+    <field name="ead_ssi">bcms_0041</field>
+    <field name="parent_ssi">aspace_ref720</field>
+    <field name="parent_ssm">aspace_ref720</field>
+    <field name="parent_unittitles_ssm">Haverly's</field>
+    <field name="parent_unittitles_teim">Haverly's</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_ssm">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0041</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Sharps And Flats [2 copies]</field>
+    <field name="unittitle_teim">Sharps And Flats [2 copies]</field>
+    <field name="unitdate_teim">December 19, [1881]</field>
+    <field name="ref_ssi">aspace_ref721</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_teim">BCMS.0041</field>
+    <field name="series_sim">Haverly's</field>
+    <field name="series_si">Haverly's &gt;&gt; Sharps And Flats [2 copies]</field>
+    <field name="heading_ssm">Sharps And Flats [2 copies]</field>
+    <field name="unitdate_ssm">December 19, [1881]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">386</field>
+  </doc>
+</add>

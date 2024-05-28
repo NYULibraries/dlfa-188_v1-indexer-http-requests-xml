@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0067aspace_ref112</field>
+    <field name="ead_ssi">bcms_0067</field>
+    <field name="parent_ssi">aspace_ref60</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref60</field>
+    <field name="parent_unittitles_ssm">Series I: Books</field>
+    <field name="parent_unittitles_ssm">Subseries IV: Holocaust Industry</field>
+    <field name="parent_unittitles_teim">Series I: Books</field>
+    <field name="parent_unittitles_teim">Subseries IV: Holocaust Industry</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Norman Finkelstein Collection</field>
+    <field name="collection_ssm">Norman Finkelstein Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0067</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Holocaust Victim Assets Litigation, Vol II</field>
+    <field name="unittitle_teim">Holocaust Victim Assets Litigation, Vol II</field>
+    <field name="unitdate_teim">2000</field>
+    <field name="ref_ssi">aspace_ref112</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Norman Finkelstein Collection</field>
+    <field name="collection_unitid_teim">BCMS.0067</field>
+    <field name="series_sim">Series I: Books</field>
+    <field name="series_sim">Subseries IV: Holocaust Industry</field>
+    <field name="series_si">Series I: Books &gt;&gt; Subseries IV: Holocaust Industry &gt;&gt; Holocaust Victim Assets Litigation, Vol II</field>
+    <field name="heading_ssm">Holocaust Victim Assets Litigation, Vol II</field>
+    <field name="unitdate_ssm">2000</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">85</field>
+  </doc>
+</add>

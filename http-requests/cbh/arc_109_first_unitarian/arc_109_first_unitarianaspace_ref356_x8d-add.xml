@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_109_first_unitarianaspace_ref356_x8d</field>
+    <field name="ead_ssi">arc_109_first_unitarian</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_ssm">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.109</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 8: Registers.</field>
+    <field name="unittitle_teim">Series 8: Registers.</field>
+    <field name="unitdate_normal_ssm">1841/1930</field>
+    <field name="unitdate_normal_teim">1841/1930</field>
+    <field name="unitdate_normal_sim">1841/1930</field>
+    <field name="unitdate_inclusive_teim">1841-1930</field>
+    <field name="scopecontent_teim">The registers in this series track the christenings, marriages, and funerals carried out by the Congregation. Willow Place Chapel had its own functions separate from the Church of the Saviour and kept its own registers which can also be found in this series. The Willow Place Chapel registers also contain substantive commentary on the families making up that portion of the Congregation, including notes on employment, illness, marital problems, and other issues. Some registers also contain additional information on the Sunday School and charity loans. For additional records of christenings, marriages, deaths, and member rolls of the Church, one should check the reports of the Ministers to the Trustees in Trustee Records, the "History" folders within the Subject Files, and lists of parishioners kept by John H. Lathrop in the John H. Lathrop Files.</field>
+    <field name="ref_ssi">aspace_ref356_x8d</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.109</field>
+    <field name="series_si">Series 8: Registers.</field>
+    <field name="heading_ssm">Series 8: Registers.</field>
+    <field name="unitdate_start_sim">1841</field>
+    <field name="unitdate_start_ssm">1841</field>
+    <field name="unitdate_start_si">1841</field>
+    <field name="unitdate_end_sim">1930</field>
+    <field name="unitdate_end_ssm">1930</field>
+    <field name="unitdate_end_si">1930</field>
+    <field name="unitdate_ssm">Inclusive, 1841-1930</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">320</field>
+  </doc>
+</add>

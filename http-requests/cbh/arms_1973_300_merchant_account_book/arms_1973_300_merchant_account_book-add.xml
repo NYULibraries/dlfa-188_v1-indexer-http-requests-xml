@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">Merchant account book</field>
+    <field name="unittitle_ssm">Merchant account book</field>
+    <field name="unitid_teim">1973.300</field>
+    <field name="unitid_ssm">1973.300</field>
+    <field name="abstract_teim">Account book, housed in a single handwritten volume, dated 1813 to 1815. The creator of the account book is unidentified. It documents transactions for the sale of common goods such as foodstuffs, textiles, clothing, hardware, and livestock feed, presumably from a general store or a similar merchant business. Each page is marked with the date of the transaction and the name Huntington, which presumably refers to the town of Huntington, New York, located on Long Island.</field>
+    <field name="abstract_ssm">Account book, housed in a single handwritten volume, dated 1813 to 1815. The creator of the account book is unidentified. It documents transactions for the sale of common goods such as foodstuffs, textiles, clothing, hardware, and livestock feed, presumably from a general store or a similar merchant business. Each page is marked with the date of the transaction and the name Huntington, which presumably refers to the town of Huntington, New York, located on Long Island.</field>
+    <field name="unitdate_normal_ssm">1813/1815</field>
+    <field name="unitdate_normal_teim">1813/1815</field>
+    <field name="unitdate_normal_sim">1813/1815</field>
+    <field name="unitdate_inclusive_teim">1813-1815</field>
+    <field name="acqinfo_teim">Source and date of acquisition unknown.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Account books</field>
+    <field name="genreform_ssm">Account books</field>
+    <field name="geogname_teim">Long Island (N.Y.)</field>
+    <field name="geogname_teim">Huntington (N.Y.)</field>
+    <field name="geogname_ssm">Long Island (N.Y.)</field>
+    <field name="geogname_ssm">Huntington (N.Y.)</field>
+    <field name="subject_teim">Merchants</field>
+    <field name="subject_teim">Consumer goods |z United States</field>
+    <field name="subject_teim">Merchants</field>
+    <field name="subject_teim">Consumer goods -- United States</field>
+    <field name="subject_ssm">Merchants</field>
+    <field name="subject_ssm">Consumer goods |z United States</field>
+    <field name="collection_sim">Merchant account book</field>
+    <field name="collection_ssm">Merchant account book</field>
+    <field name="collection_teim">Merchant account book</field>
+    <field name="id">arms_1973_300_merchant_account_book</field>
+    <field name="ead_ssi">arms_1973_300_merchant_account_book</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Long Island (N.Y.)</field>
+    <field name="place_sim">Huntington (N.Y.)</field>
+    <field name="subject_sim">Merchants</field>
+    <field name="subject_sim">Consumer goods -- United States</field>
+    <field name="material_type_sim">Account books</field>
+    <field name="material_type_ssm">Account books</field>
+    <field name="heading_ssm">Merchant account book</field>
+    <field name="unitdate_start_sim">1813</field>
+    <field name="unitdate_start_ssm">1813</field>
+    <field name="unitdate_start_si">1813</field>
+    <field name="unitdate_end_sim">1815</field>
+    <field name="unitdate_end_ssm">1815</field>
+    <field name="unitdate_end_si">1815</field>
+    <field name="unitdate_ssm">Inclusive, 1813-1815</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

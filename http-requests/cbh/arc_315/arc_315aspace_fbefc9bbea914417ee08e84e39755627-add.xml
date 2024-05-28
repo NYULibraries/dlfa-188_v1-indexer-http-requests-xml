@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_315aspace_fbefc9bbea914417ee08e84e39755627</field>
+    <field name="ead_ssi">arc_315</field>
+    <field name="parent_ssi">aspace_70adc3e2b7e4b3a6f4cb1fea3c9b4400</field>
+    <field name="parent_ssm">aspace_70adc3e2b7e4b3a6f4cb1fea3c9b4400</field>
+    <field name="parent_unittitles_ssm">Series 2: Biographical</field>
+    <field name="parent_unittitles_teim">Series 2: Biographical</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Historical Society vertical files</field>
+    <field name="collection_ssm">Brooklyn Historical Society vertical files</field>
+    <field name="collection_unitid_ssm">ARC.315</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Colson family</field>
+    <field name="unittitle_teim">Colson family</field>
+    <field name="unitdate_normal_ssm">2018/2018</field>
+    <field name="unitdate_normal_teim">2018/2018</field>
+    <field name="unitdate_normal_sim">2018/2018</field>
+    <field name="unitdate_teim">2018</field>
+    <field name="ref_ssi">aspace_fbefc9bbea914417ee08e84e39755627</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Drawer: 10</field>
+    <field name="location_si">Drawer: 10</field>
+    <field name="collection_teim">Brooklyn Historical Society vertical files</field>
+    <field name="collection_unitid_teim">ARC.315</field>
+    <field name="series_sim">Series 2: Biographical</field>
+    <field name="series_si">Series 2: Biographical &gt;&gt; Colson family</field>
+    <field name="heading_ssm">Colson family</field>
+    <field name="unitdate_start_sim">2018</field>
+    <field name="unitdate_start_ssm">2018</field>
+    <field name="unitdate_start_si">2018</field>
+    <field name="unitdate_end_sim">2018</field>
+    <field name="unitdate_end_ssm">2018</field>
+    <field name="unitdate_end_si">2018</field>
+    <field name="unitdate_ssm">2018</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">101</field>
+  </doc>
+</add>

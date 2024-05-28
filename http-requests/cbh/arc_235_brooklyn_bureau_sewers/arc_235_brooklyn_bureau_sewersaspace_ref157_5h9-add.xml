@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_235_brooklyn_bureau_sewersaspace_ref157_5h9</field>
+    <field name="ead_ssi">arc_235_brooklyn_bureau_sewers</field>
+    <field name="parent_ssi">aspace_ref4_1uq</field>
+    <field name="parent_ssm">aspace_ref1_uya</field>
+    <field name="parent_ssm">aspace_ref4_1uq</field>
+    <field name="parent_unittitles_ssm">Series 1: Assessment Binders</field>
+    <field name="parent_unittitles_ssm">Sub-series 3: Post-Consolidation</field>
+    <field name="parent_unittitles_teim">Series 1: Assessment Binders</field>
+    <field name="parent_unittitles_teim">Sub-series 3: Post-Consolidation</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_ssm">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_ssm">ARC.235</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bedford - Williamsburg Binders 582 - 648</field>
+    <field name="unittitle_teim">Bedford - Williamsburg Binders 582 - 648</field>
+    <field name="unitdate_normal_ssm">1909/1910</field>
+    <field name="unitdate_normal_teim">1909/1910</field>
+    <field name="unitdate_normal_sim">1909/1910</field>
+    <field name="unitdate_inclusive_teim">1909-1910</field>
+    <field name="ref_ssi">aspace_ref157_5h9</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 47, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_teim">ARC.235</field>
+    <field name="series_sim">Series 1: Assessment Binders</field>
+    <field name="series_sim">Sub-series 3: Post-Consolidation</field>
+    <field name="series_si">Series 1: Assessment Binders &gt;&gt; Sub-series 3: Post-Consolidation &gt;&gt; Bedford - Williamsburg Binders 582 - 648</field>
+    <field name="heading_ssm">Bedford - Williamsburg Binders 582 - 648</field>
+    <field name="unitdate_start_sim">1909</field>
+    <field name="unitdate_start_ssm">1909</field>
+    <field name="unitdate_start_si">1909</field>
+    <field name="unitdate_end_sim">1910</field>
+    <field name="unitdate_end_ssm">1910</field>
+    <field name="unitdate_end_si">1910</field>
+    <field name="unitdate_ssm">Inclusive, 1909-1910</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">61</field>
+  </doc>
+</add>

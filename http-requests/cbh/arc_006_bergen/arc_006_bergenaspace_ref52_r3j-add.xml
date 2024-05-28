@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_006_bergenaspace_ref52_r3j</field>
+    <field name="ead_ssi">arc_006_bergen</field>
+    <field name="parent_ssi">aspace_ref636_ztw</field>
+    <field name="parent_ssm">aspace_ref636_ztw</field>
+    <field name="parent_unittitles_ssm">Group 1: Teunis G. Bergen papers</field>
+    <field name="parent_unittitles_teim">Group 1: Teunis G. Bergen papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_ssm">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_ssm">ARC.006</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Genealogical research</field>
+    <field name="unittitle_teim">Series 3: Genealogical research</field>
+    <field name="unitdate_normal_ssm">1858/1880</field>
+    <field name="unitdate_normal_teim">1858/1880</field>
+    <field name="unitdate_normal_sim">1858/1880</field>
+    <field name="unitdate_inclusive_teim">1858-1880</field>
+    <field name="scopecontent_teim">Genealogical research primarily consists of the research materials compiled by Bergen to write his book, The Bergen Family: Or the Descendents of Hans Hansen Bergen, One of the Early Settlers of New York and Brooklyn, L.I.  Correspondence in this collection consists of responses of Bergen extended family members concerning birth, marriage, and death dates.  The miscellaneous folders contain research materials from a variety of sources and includes what appear to be drafts of his book.  The folders titled with geographic place names consist of research materials pertaining to branches of the Bergen family in relation to the areas in which they settled.  Also included are items related to the genealogy of other prominent Brooklyn families.  The Coats of Arms folder contains coats of arms of the Schenck, Van der Veer, Lott, Cowenhoven, Voorhies, and Van Duyn families.  The Schenck family correspondence consists of letters to Bergen from members of the Schenck family of Brooklyn requesting information on their family's genealogy.  These letters highlight Bergen's role in his community as an expert on local history and genealogy.</field>
+    <field name="ref_ssi">aspace_ref52_r3j</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_teim">ARC.006</field>
+    <field name="series_sim">Group 1: Teunis G. Bergen papers</field>
+    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 3: Genealogical research</field>
+    <field name="heading_ssm">Series 3: Genealogical research</field>
+    <field name="unitdate_start_sim">1858</field>
+    <field name="unitdate_start_ssm">1858</field>
+    <field name="unitdate_start_si">1858</field>
+    <field name="unitdate_end_sim">1880</field>
+    <field name="unitdate_end_ssm">1880</field>
+    <field name="unitdate_end_si">1880</field>
+    <field name="unitdate_ssm">Inclusive, 1858-1880</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">96</field>
+  </doc>
+</add>

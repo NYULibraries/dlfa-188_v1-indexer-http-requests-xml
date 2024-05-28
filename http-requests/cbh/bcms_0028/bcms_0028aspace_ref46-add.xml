@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref46</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Brooklyn Heights Press</field>
+    <field name="unittitle_teim">Brooklyn Heights Press</field>
+    <field name="unitdate_normal_ssm">1939/1999</field>
+    <field name="unitdate_normal_teim">1939/1999</field>
+    <field name="unitdate_normal_sim">1939/1999</field>
+    <field name="unitdate_inclusive_teim">1939-1999</field>
+    <field name="scopecontent_teim">Largely focusing on the Brooklyn Heights area, the Brooklyn Heights Press provides local news coverage of business, politics, education, community events, arts, culture, religion, and entertainment. There is no dedicated obituary section, though death notices for prominent Brooklynites regularly appear. Wedding announcements occasionally appear, as do engagement announcements. News of happenings and events at various neighborhood clubs, organizations, and associations also appears regularly. A column written by a local pastor called "On the Spiritual Side" is regularly published, as are excerpts from the sermons of Brooklyn Heights clergymen. Later issues contain mainly arts and culture news, including coverage of lectures, theater performances, and art shows. In later issues, too, the name of the paper changes to Brooklyn Heights Press and Cobble Hill News.</field>
+    <field name="ref_ssi">aspace_ref46</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">bin: 13</field>
+    <field name="location_ssm">bin: 36</field>
+    <field name="location_si">bin: 36</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Brooklyn Heights Press</field>
+    <field name="heading_ssm">Brooklyn Heights Press</field>
+    <field name="unitdate_start_sim">1939</field>
+    <field name="unitdate_start_ssm">1939</field>
+    <field name="unitdate_start_si">1939</field>
+    <field name="unitdate_end_sim">1999</field>
+    <field name="unitdate_end_ssm">1999</field>
+    <field name="unitdate_end_si">1999</field>
+    <field name="unitdate_ssm">Inclusive, 1939-1999</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

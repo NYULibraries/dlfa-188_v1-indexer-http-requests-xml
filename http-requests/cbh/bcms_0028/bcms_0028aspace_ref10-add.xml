@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref10</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Bay Ridge Courier</field>
+    <field name="unittitle_teim">Bay Ridge Courier</field>
+    <field name="unitdate_normal_ssm">1985/1993</field>
+    <field name="unitdate_normal_teim">1985/1993</field>
+    <field name="unitdate_normal_sim">1985/1993</field>
+    <field name="unitdate_inclusive_teim">1985-1993</field>
+    <field name="scopecontent_teim">Largely focusing on the communities of Sheepshead Bay, Bay Ridge, and Bensonhurst, the Bay Ridge Courier provides local news coverage in business, schools, arts and leisure, sports, churches, and politics. Birth announcements, wedding announcements, and death notices rarely appear in the pages of the newspaper. There is no formal obituary section. The Bay Ridge Courier includes numerous profiles of local businesses and business leaders. Photographs appear throughout, as do advertisements for local businesses.</field>
+    <field name="ref_ssi">aspace_ref10</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">bin: 5</field>
+    <field name="location_si">bin: 5</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Bay Ridge Courier</field>
+    <field name="heading_ssm">Bay Ridge Courier</field>
+    <field name="unitdate_start_sim">1985</field>
+    <field name="unitdate_start_ssm">1985</field>
+    <field name="unitdate_start_si">1985</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, 1985-1993</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">2011_021aspace_3aada1a48002bb6c6ad6a9450ec2812f</field>
+    <field name="ead_ssi">2011_021</field>
+    <field name="parent_ssi">aspace_b51a8f572eda17a756bd56cab793d838</field>
+    <field name="parent_ssm">aspace_57bc2d679d3ffc45645beedbfff8912a</field>
+    <field name="parent_ssm">aspace_b51a8f572eda17a756bd56cab793d838</field>
+    <field name="parent_unittitles_ssm">Series 4: Membership and Registers</field>
+    <field name="parent_unittitles_ssm">Sub-series 4.3: First Baptist Church in Pierrepont Street</field>
+    <field name="parent_unittitles_teim">Series 4: Membership and Registers</field>
+    <field name="parent_unittitles_teim">Sub-series 4.3: First Baptist Church in Pierrepont Street</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">First Baptist Church in Pierrepont Street records</field>
+    <field name="collection_ssm">First Baptist Church in Pierrepont Street records</field>
+    <field name="collection_unitid_ssm">2011.021</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Directories</field>
+    <field name="unittitle_teim">Directories</field>
+    <field name="unitdate_normal_ssm">1926/1940</field>
+    <field name="unitdate_normal_teim">1926/1940</field>
+    <field name="unitdate_normal_sim">1926/1940</field>
+    <field name="unitdate_inclusive_teim">1926-1940</field>
+    <field name="ref_ssi">aspace_3aada1a48002bb6c6ad6a9450ec2812f</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 28, Folder: 1-5</field>
+    <field name="location_ssm">Folder: 1-5</field>
+    <field name="location_si">Folder: 1-5</field>
+    <field name="collection_teim">First Baptist Church in Pierrepont Street records</field>
+    <field name="collection_unitid_teim">2011.021</field>
+    <field name="series_sim">Series 4: Membership and Registers</field>
+    <field name="series_sim">Sub-series 4.3: First Baptist Church in Pierrepont Street</field>
+    <field name="series_si">Series 4: Membership and Registers &gt;&gt; Sub-series 4.3: First Baptist Church in Pierrepont Street &gt;&gt; Directories</field>
+    <field name="heading_ssm">Directories</field>
+    <field name="unitdate_start_sim">1926</field>
+    <field name="unitdate_start_ssm">1926</field>
+    <field name="unitdate_start_si">1926</field>
+    <field name="unitdate_end_sim">1940</field>
+    <field name="unitdate_end_ssm">1940</field>
+    <field name="unitdate_end_si">1940</field>
+    <field name="unitdate_ssm">Inclusive, 1926-1940</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">173</field>
+  </doc>
+</add>

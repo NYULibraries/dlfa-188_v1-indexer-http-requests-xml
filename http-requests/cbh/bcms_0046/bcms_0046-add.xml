@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Alla Roylance, Senior Librarian</field>
+    <field name="author_ssm">Alla Roylance, Senior Librarian</field>
+    <field name="unittitle_teim">Birth Records of Catherine Ling, Midwife</field>
+    <field name="unittitle_ssm">Birth Records of Catherine Ling, Midwife</field>
+    <field name="unitid_teim">BCMS.0046</field>
+    <field name="unitid_ssm">BCMS.0046</field>
+    <field name="abstract_teim">A register of children delivered primarily in Brooklyn, New York by Catherine Ling, a midwife.</field>
+    <field name="abstract_ssm">A register of children delivered primarily in Brooklyn, New York by Catherine Ling, a midwife.</field>
+    <field name="unitdate_normal_ssm">1908/1927</field>
+    <field name="unitdate_normal_teim">1908/1927</field>
+    <field name="unitdate_normal_sim">1908/1927</field>
+    <field name="unitdate_inclusive_teim">1908-1927</field>
+    <field name="scopecontent_teim">This collection consists of the handwritten birth register and typewritten professional permit of a Brooklyn midwife, Catherine Ling. The register is a canvas-bound volume with leather corners; about one tenth of the pages are filled with records of home births in Brooklyn (and some in Manhattan) delivered by midwife Catherine Ling.</field>
+    <field name="scopecontent_teim"> Each record contains the name of a newborn, the day and date of birth, home address, names of the parents, their addresses, ages, places of birth and occupations as well as total number of living children in the household. Most records also contain a birth certificate number which appears in the ledger as an "R.h." Some records contain additional information, such as the race of the child, mother's maiden names, unusual health conditions, midwife's fees, and the name of the doctor who issued the birth certificate.</field>
+    <field name="scopecontent_teim"> The collection also includes an undated professional permit issued to midwife Catherine Ling by the Department of Health of the City of New York, Bureau of Child Hygiene.</field>
+    <field name="acqinfo_teim">This collection was donated to the Brooklyn Collection by a friend of the Ling family, John M. Witthohn, in 2015.</field>
+    <field name="corpname_teim">Brooklyn Collection</field>
+    <field name="corpname_ssm">Brooklyn Collection</field>
+    <field name="genreform_teim">Registers of births, etc.</field>
+    <field name="genreform_ssm">Registers of births, etc.</field>
+    <field name="occupation_teim">Midwives</field>
+    <field name="occupation_teim">Midwives--Certification</field>
+    <field name="occupation_ssm">Midwives</field>
+    <field name="occupation_ssm">Midwives--Certification</field>
+    <field name="collection_sim">Birth Records of Catherine Ling, Midwife</field>
+    <field name="collection_ssm">Birth Records of Catherine Ling, Midwife</field>
+    <field name="collection_teim">Birth Records of Catherine Ling, Midwife</field>
+    <field name="id">bcms_0046</field>
+    <field name="ead_ssi">bcms_0046</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="subject_sim">Midwives</field>
+    <field name="subject_sim">Midwives--Certification</field>
+    <field name="subject_teim">Midwives</field>
+    <field name="subject_teim">Midwives--Certification</field>
+    <field name="material_type_sim">Registers of births, etc.</field>
+    <field name="material_type_ssm">Registers of births, etc.</field>
+    <field name="heading_ssm">Birth Records of Catherine Ling, Midwife</field>
+    <field name="unitdate_start_sim">1908</field>
+    <field name="unitdate_start_ssm">1908</field>
+    <field name="unitdate_start_si">1908</field>
+    <field name="unitdate_end_sim">1927</field>
+    <field name="unitdate_end_ssm">1927</field>
+    <field name="unitdate_end_si">1927</field>
+    <field name="unitdate_ssm">Inclusive, 1908-1927</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0017aspace_ref123</field>
+    <field name="ead_ssi">bcms_0017</field>
+    <field name="parent_ssi">aspace_ref121</field>
+    <field name="parent_ssm">aspace_ref121</field>
+    <field name="parent_unittitles_ssm">Series IX: Legislative Material</field>
+    <field name="parent_unittitles_teim">Series IX: Legislative Material</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Emanuel Celler Collection</field>
+    <field name="collection_ssm">Emanuel Celler Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0017</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Emanuel Celler Federal Building</field>
+    <field name="unittitle_teim">Emanuel Celler Federal Building</field>
+    <field name="unitdate_teim">1972</field>
+    <field name="ref_ssi">aspace_ref123</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 48</field>
+    <field name="location_ssm">Folder: 48</field>
+    <field name="location_si">Folder: 48</field>
+    <field name="collection_teim">Emanuel Celler Collection</field>
+    <field name="collection_unitid_teim">BCMS.0017</field>
+    <field name="series_sim">Series IX: Legislative Material</field>
+    <field name="series_si">Series IX: Legislative Material &gt;&gt; Emanuel Celler Federal Building</field>
+    <field name="heading_ssm">Emanuel Celler Federal Building</field>
+    <field name="unitdate_ssm">1972</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">81</field>
+  </doc>
+</add>

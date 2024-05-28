@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0086aspace_c4b74ee2faf9c02d6961139f4aed9eec</field>
+    <field name="ead_ssi">bcms_0086</field>
+    <field name="parent_ssi">aspace_ea80fc807d29a3c4bb506441ac2f43e8</field>
+    <field name="parent_ssm">aspace_ea80fc807d29a3c4bb506441ac2f43e8</field>
+    <field name="parent_unittitles_ssm">Documents and ephemera</field>
+    <field name="parent_unittitles_teim">Documents and ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mitchell Family collection</field>
+    <field name="collection_ssm">Mitchell Family collection</field>
+    <field name="collection_unitid_ssm">BCMS.0086</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Materials relating to the death of Arthur Mitchell</field>
+    <field name="unittitle_teim">Materials relating to the death of Arthur Mitchell</field>
+    <field name="unitdate_normal_ssm">1940-01/1940-01</field>
+    <field name="unitdate_normal_teim">1940-01/1940-01</field>
+    <field name="unitdate_normal_sim">1940-01/1940-01</field>
+    <field name="unitdate_teim">1940 January</field>
+    <field name="scopecontent_teim">Condolence letter, life insurance policy and funeral receipts.</field>
+    <field name="ref_ssi">aspace_c4b74ee2faf9c02d6961139f4aed9eec</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Mitchell Family collection</field>
+    <field name="collection_unitid_teim">BCMS.0086</field>
+    <field name="series_sim">Documents and ephemera</field>
+    <field name="series_si">Documents and ephemera &gt;&gt; Materials relating to the death of Arthur Mitchell</field>
+    <field name="heading_ssm">Materials relating to the death of Arthur Mitchell</field>
+    <field name="unitdate_ssm">1940 January</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

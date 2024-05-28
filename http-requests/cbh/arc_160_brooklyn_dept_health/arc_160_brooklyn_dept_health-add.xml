@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">City of Brooklyn, Department of Health vital statistics</field>
+    <field name="unittitle_ssm">City of Brooklyn, Department of Health vital statistics</field>
+    <field name="unitid_teim">ARC.160</field>
+    <field name="unitid_ssm">ARC.160</field>
+    <field name="abstract_teim">The City of Brooklyn, Department of Health vital statistics collection measures 1 linear foot and spans the dates 1873 to 1897. The collection consists of bound volumes of weekly vital statistics reports compiled and published by the Department of Health for each year covered in the date span. The reports list the number of deaths for each week, the causes of those deaths, the number of deaths in each voting ward, and general demographic information about the deceased (including gender, ethnicity/nationality, age, etc). The reports do not list the names of the deceased.</field>
+    <field name="abstract_ssm">The City of Brooklyn, Department of Health vital statistics collection measures 1 linear foot and spans the dates 1873 to 1897. The collection consists of bound volumes of weekly vital statistics reports compiled and published by the Department of Health for each year covered in the date span. The reports list the number of deaths for each week, the causes of those deaths, the number of deaths in each voting ward, and general demographic information about the deceased (including gender, ethnicity/nationality, age, etc). The reports do not list the names of the deceased.</field>
+    <field name="unitdate_normal_ssm">1873/1897</field>
+    <field name="unitdate_normal_teim">1873/1897</field>
+    <field name="unitdate_normal_sim">1873/1897</field>
+    <field name="unitdate_inclusive_teim">1873-1897</field>
+    <field name="scopecontent_teim">The City of Brooklyn, Department of Health vital statistics collection measures 1 linear foot and spans the dates 1873 to 1897. The collection consists of bound volumes of weekly vital statistics reports compiled and published by the Department of Health for each year covered in the date span. The reports list the number of deaths for each week, the causes of those deaths, the number of deaths in each voting ward, and general demographic information about the deceased (including gender, ethnicity/nationality, age, etc). The reports do not list the names of the deceased.</field>
+    <field name="bioghist_teim">The amended charter of the City of Brooklyn, written in 1873, mandated the formation of a department of health. The head of this department was called the Health Commissioner. The Health Commissioner's duties included the removal and burial of the dead, operation and maintenance of ambulance services, the registration of births, marriages and deaths, the registration and maintenance of vital statistics, and the regulation of sanitary standards in city buildings. In times of emergency, such as the outbreak of a dangerous disease in the city, extrordianry powers could be conferred upon the Health Commissioner to address the crisis.</field>
+    <field name="acqinfo_teim">The source and date of acquisition for this collection are unknown.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_teim">Brooklyn (New York, N.Y.). Dept. of Health</field>
+    <field name="corpname_teim">Brooklyn (New York, N.Y.). Dept. of Health</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn (New York, N.Y.). Dept. of Health</field>
+    <field name="corpname_ssm">Brooklyn (New York, N.Y.). Dept. of Health</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_teim">Vital statistics |z New York (State) |z New York</field>
+    <field name="subject_teim">Vital statistics |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Vital statistics -- New York (State) -- New York</field>
+    <field name="subject_teim">Vital statistics -- New York (State) -- Kings County</field>
+    <field name="subject_ssm">Vital statistics |z New York (State) |z New York</field>
+    <field name="subject_ssm">Vital statistics |z New York (State) |z Kings County</field>
+    <field name="collection_sim">City of Brooklyn, Department of Health vital statistics</field>
+    <field name="collection_ssm">City of Brooklyn, Department of Health vital statistics</field>
+    <field name="collection_teim">City of Brooklyn, Department of Health vital statistics</field>
+    <field name="id">arc_160_brooklyn_dept_health</field>
+    <field name="ead_ssi">arc_160_brooklyn_dept_health</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Brooklyn (New York, N.Y.). Dept. of Health</field>
+    <field name="name_teim">Brooklyn (New York, N.Y.). Dept. of Health</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_sim">Vital statistics -- New York (State) -- New York</field>
+    <field name="subject_sim">Vital statistics -- New York (State) -- Kings County</field>
+    <field name="heading_ssm">City of Brooklyn, Department of Health vital statistics</field>
+    <field name="unitdate_start_sim">1873</field>
+    <field name="unitdate_start_ssm">1873</field>
+    <field name="unitdate_start_si">1873</field>
+    <field name="unitdate_end_sim">1897</field>
+    <field name="unitdate_end_ssm">1897</field>
+    <field name="unitdate_end_si">1897</field>
+    <field name="unitdate_ssm">Inclusive, 1873-1897</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

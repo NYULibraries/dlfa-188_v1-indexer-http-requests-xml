@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0080aspace_48e3a79daa93c7d57f9f85886ff6f5a9</field>
+    <field name="ead_ssi">bcms_0080</field>
+    <field name="parent_ssi">aspace_894912b0b6c1ed586e165b4f72adfaca</field>
+    <field name="parent_ssm">aspace_894912b0b6c1ed586e165b4f72adfaca</field>
+    <field name="parent_unittitles_ssm">Irving Kasper ephemera</field>
+    <field name="parent_unittitles_teim">Irving Kasper ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Kasper Family Collection</field>
+    <field name="collection_ssm">Kasper Family Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0080</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Photographic print of group of WWII veterans</field>
+    <field name="unittitle_teim">Photographic print of group of WWII veterans</field>
+    <field name="ref_ssi">aspace_48e3a79daa93c7d57f9f85886ff6f5a9</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Kasper Family Collection</field>
+    <field name="collection_unitid_teim">BCMS.0080</field>
+    <field name="series_sim">Irving Kasper ephemera</field>
+    <field name="series_si">Irving Kasper ephemera &gt;&gt; Photographic print of group of WWII veterans</field>
+    <field name="heading_ssm">Photographic print of group of WWII veterans</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

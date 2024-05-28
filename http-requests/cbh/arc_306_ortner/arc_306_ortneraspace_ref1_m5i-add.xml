@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_306_ortneraspace_ref1_m5i</field>
+    <field name="ead_ssi">arc_306_ortner</field>
+    <field name="parent_ssi">aspace_ref426_682</field>
+    <field name="parent_ssm">aspace_ref426_682</field>
+    <field name="parent_unittitles_ssm">Series 1: Evelyn G. Ortner personal papers</field>
+    <field name="parent_unittitles_teim">Series 1: Evelyn G. Ortner personal papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Everett and Evelyn Ortner papers and photographs</field>
+    <field name="collection_ssm">Everett and Evelyn Ortner papers and photographs</field>
+    <field name="collection_unitid_ssm">ARC.306</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 1.2: Interior Design</field>
+    <field name="unittitle_teim">Sub-series 1.2: Interior Design</field>
+    <field name="unitdate_normal_ssm">1959/1993</field>
+    <field name="unitdate_normal_teim">1959/1993</field>
+    <field name="unitdate_normal_sim">1959/1993</field>
+    <field name="unitdate_inclusive_teim">1959-1993</field>
+    <field name="scopecontent_teim">The sub-series contains records relating to EGO's career as an interior designer, dating from 1959 to 1993. It includes design plans, business correspondence, clippings, photographs, and samples of fabric, tile, and wood. </field>
+    <field name="scopecontent_teim">She authored two decorating columns, one titled "The Decorating Workshop" in the Brooklyn Heights Press from 1961 to 1962, and one titled "Decorating Your Home" in the Homeowners How To Handbook from 1976 to 1980. Clippings and typescripts of these articles are available in the sub-series.</field>
+    <field name="scopecontent_teim">Of note are files relating to the design of apartments at 116 Central Park South and 45 Gramercy Park North, and one box of fabric, tile, and wood samples for the apartment at 45 Gramercy Park North.</field>
+    <field name="ref_ssi">aspace_ref1_m5i</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Everett and Evelyn Ortner papers and photographs</field>
+    <field name="collection_unitid_teim">ARC.306</field>
+    <field name="series_sim">Series 1: Evelyn G. Ortner personal papers</field>
+    <field name="series_si">Series 1: Evelyn G. Ortner personal papers &gt;&gt; Sub-series 1.2: Interior Design</field>
+    <field name="heading_ssm">Sub-series 1.2: Interior Design</field>
+    <field name="unitdate_start_sim">1959</field>
+    <field name="unitdate_start_ssm">1959</field>
+    <field name="unitdate_start_si">1959</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, 1959-1993</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">9</field>
+  </doc>
+</add>

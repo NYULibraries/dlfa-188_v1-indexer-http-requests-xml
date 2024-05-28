@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_147_fraternal_organizationsaspace_e43db2df1806ed0d516f59a67aef9229</field>
+    <field name="ead_ssi">arc_147_fraternal_organizations</field>
+    <field name="parent_ssi">aspace_c979baa2525bee37db52a2dac2d3cb53</field>
+    <field name="parent_ssm">aspace_c979baa2525bee37db52a2dac2d3cb53</field>
+    <field name="parent_unittitles_ssm">Series 1: Ancient Arabic Order of the Nobles of the Mystic Shrine</field>
+    <field name="parent_unittitles_teim">Series 1: Ancient Arabic Order of the Nobles of the Mystic Shrine</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fraternal organizations of Brooklyn collection</field>
+    <field name="collection_ssm">Fraternal organizations of Brooklyn collection</field>
+    <field name="collection_unitid_ssm">ARC.147</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Kismet Temple</field>
+    <field name="unittitle_teim">Kismet Temple</field>
+    <field name="unitdate_normal_ssm">1937/1939</field>
+    <field name="unitdate_normal_teim">1937/1939</field>
+    <field name="unitdate_normal_sim">1937/1939</field>
+    <field name="unitdate_inclusive_teim">1937-1939</field>
+    <field name="scopecontent_teim">Ceremonial programs, trustees' reports, annual meeting program.</field>
+    <field name="ref_ssi">aspace_e43db2df1806ed0d516f59a67aef9229</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Fraternal organizations of Brooklyn collection</field>
+    <field name="collection_unitid_teim">ARC.147</field>
+    <field name="series_sim">Series 1: Ancient Arabic Order of the Nobles of the Mystic Shrine</field>
+    <field name="series_si">Series 1: Ancient Arabic Order of the Nobles of the Mystic Shrine &gt;&gt; Kismet Temple</field>
+    <field name="heading_ssm">Kismet Temple</field>
+    <field name="unitdate_start_sim">1937</field>
+    <field name="unitdate_start_ssm">1937</field>
+    <field name="unitdate_start_si">1937</field>
+    <field name="unitdate_end_sim">1939</field>
+    <field name="unitdate_end_ssm">1939</field>
+    <field name="unitdate_end_si">1939</field>
+    <field name="unitdate_ssm">Inclusive, 1937-1939</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

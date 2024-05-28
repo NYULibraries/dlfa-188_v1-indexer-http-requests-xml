@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0003aspace_ref55</field>
+    <field name="ead_ssi">bcms_0003</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Architecture</field>
+    <field name="parent_unittitles_teim">Architecture</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn periodical illustrations</field>
+    <field name="collection_ssm">Brooklyn periodical illustrations</field>
+    <field name="collection_unitid_ssm">BCMS.0003</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">The Brooklyn Institute of Arts &amp;amp; Sciences; Corridor of Antique Sculpture, First Floor; Hall of Renaissance Sculpture, Third Floor; McKim, Mead &amp;amp; White</field>
+    <field name="unittitle_teim">The Brooklyn Institute of Arts &amp; Sciences; Corridor of Antique Sculpture, First Floor; Hall of Renaissance Sculpture, Third Floor; McKim, Mead &amp; White</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref55</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Brooklyn periodical illustrations</field>
+    <field name="collection_unitid_teim">BCMS.0003</field>
+    <field name="series_sim">Architecture</field>
+    <field name="series_si">Architecture &gt;&gt; The Brooklyn Institute of Arts &amp;amp; Sciences; Corridor of Antique Sculpture, First Floor; Hall of Renaissance Sculpture, Third Floor; McKim, Mead &amp;amp; White</field>
+    <field name="heading_ssm">The Brooklyn Institute of Arts &amp; Sciences; Corridor of Antique Sculpture, First Floor; Hall of Renaissance Sculpture, Third Floor; McKim, Mead &amp; White</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">21</field>
+  </doc>
+</add>

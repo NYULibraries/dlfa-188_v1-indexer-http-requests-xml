@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2012_004_toedteberg_bookplatesaspace_ref26_ldl</field>
+    <field name="ead_ssi">arms_2012_004_toedteberg_bookplates</field>
+    <field name="parent_ssi">aspace_ref10_dt8</field>
+    <field name="parent_ssm">aspace_ref10_dt8</field>
+    <field name="parent_unittitles_ssm">Series 1: Engravers of Bookplates</field>
+    <field name="parent_unittitles_teim">Series 1: Engravers of Bookplates</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Emma Toedteberg bookplate collection</field>
+    <field name="collection_ssm">Emma Toedteberg bookplate collection</field>
+    <field name="collection_unitid_ssm">2012.004</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 1: Edwin Davis French</field>
+    <field name="unittitle_teim">Subseries 1: Edwin Davis French</field>
+    <field name="unitdate_teim">circa 1870s-1906</field>
+    <field name="scopecontent_teim">The illustrated bookplate of Emma Toedteberg is featured in the French collection. Also, in Box 2, in the folder for the bookplate of Harvey Cushing, there is a presentation bookplate inscribed in pencil "with compliments of
+E.D. French to Miss Emma Toedteberg." Includes illustrated bookplates.  A sample of French plates in the collection: American Institute of Electrical Engineers, Long Island Historical Society, Storrs fund, Club of Odd Volumes, Helen Elvira Brainerd.</field>
+    <field name="bioghist_teim">Bookplates designed and engraved by Edwin Davis French (1851-1906), who engraved the personal bookplate of Emma Toedteberg.  Born in New England, French attended Brown University for one year before finding work as an engraver of silverware for the Whiting Company in Massachussetts.  In 1876, French relocated to New York City and studied at the Art Students' League, where he later served as President.  He was introduced to the art of bookplates by his sister-in-law, Helen Elvira Brainerd, who organized a collection of American and European ex-libris for the library of Columbia University.  In addition to the over 200 bookplates French engraved and designed for collectors and institutions, French designed plates for his personal collection of international language books, with an emphasis on Volapuk, a constructed language devised in 1879 by a German priest.  Among French's work are bookplates for St. Paul's Chapel, on Lower Broadway in Manhattan; Fraunces' Tavern, a Revolutionary War eatery and museum; and the New York Police Department's Central Booking, known as 'The Tombs."</field>
+    <field name="bioghist_teim">
+      Sources:
+    </field>
+    <field name="bioghist_teim">The Autobiography of Edwin Davis French (1901)</field>
+    <field name="bioghist_teim">Edwin Davis French, A Memorial (1906) by Mary Brainerd French</field>
+    <field name="ref_ssi">aspace_ref26_ldl</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 1 - 4</field>
+    <field name="location_si">Box: 1 - 4</field>
+    <field name="collection_teim">Emma Toedteberg bookplate collection</field>
+    <field name="collection_unitid_teim">2012.004</field>
+    <field name="series_sim">Series 1: Engravers of Bookplates</field>
+    <field name="series_si">Series 1: Engravers of Bookplates &gt;&gt; Subseries 1: Edwin Davis French</field>
+    <field name="heading_ssm">Subseries 1: Edwin Davis French</field>
+    <field name="unitdate_ssm">circa 1870s-1906</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

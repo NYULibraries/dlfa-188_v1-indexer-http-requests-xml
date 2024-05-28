@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cbhm_0002aspace_1cc6e19042a5715789cf7417025435f7</field>
+    <field name="ead_ssi">cbhm_0002</field>
+    <field name="parent_ssi">aspace_b42f559a0f39876c2dacd28f5a49266a</field>
+    <field name="parent_ssm">aspace_8dd01cba1bda0a52ce0f725ad08f1d24</field>
+    <field name="parent_ssm">aspace_b42f559a0f39876c2dacd28f5a49266a</field>
+    <field name="parent_unittitles_ssm">Series 6: Folk Made</field>
+    <field name="parent_unittitles_ssm">Sub-series 6.2: Audiovisual</field>
+    <field name="parent_unittitles_teim">Series 6: Folk Made</field>
+    <field name="parent_unittitles_teim">Sub-series 6.2: Audiovisual</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Arts Council Folk Arts collection</field>
+    <field name="collection_ssm">Brooklyn Arts Council Folk Arts collection</field>
+    <field name="collection_unitid_ssm">CBHM.0002</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photographs and Slides</field>
+    <field name="unittitle_teim">Photographs and Slides</field>
+    <field name="unitdate_normal_ssm">1991/2004</field>
+    <field name="unitdate_normal_teim">1991/2004</field>
+    <field name="unitdate_normal_sim">1991/2004</field>
+    <field name="unitdate_inclusive_teim">circa 1991-2004</field>
+    <field name="ref_ssi">aspace_1cc6e19042a5715789cf7417025435f7</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 63, Binder: 1</field>
+    <field name="location_ssm">Binder: 1</field>
+    <field name="location_si">Binder: 1</field>
+    <field name="collection_teim">Brooklyn Arts Council Folk Arts collection</field>
+    <field name="collection_unitid_teim">CBHM.0002</field>
+    <field name="series_sim">Series 6: Folk Made</field>
+    <field name="series_sim">Sub-series 6.2: Audiovisual</field>
+    <field name="series_si">Series 6: Folk Made &gt;&gt; Sub-series 6.2: Audiovisual &gt;&gt; Photographs and Slides</field>
+    <field name="heading_ssm">Photographs and Slides</field>
+    <field name="unitdate_start_sim">1991</field>
+    <field name="unitdate_start_ssm">1991</field>
+    <field name="unitdate_start_si">1991</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, circa 1991-2004</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">782</field>
+  </doc>
+</add>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2014_020_joan_millmanaspace_ref3_s3f</field>
+    <field name="ead_ssi">arms_2014_020_joan_millman</field>
+    <field name="parent_ssi">aspace_ref2_d2y</field>
+    <field name="parent_ssm">aspace_ref2_d2y</field>
+    <field name="parent_unittitles_ssm">Series 1: Brooklyn Bridge Park</field>
+    <field name="parent_unittitles_teim">Series 1: Brooklyn Bridge Park</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Joan L. Millman papers</field>
+    <field name="collection_ssm">Joan L. Millman papers</field>
+    <field name="collection_unitid_ssm">2014.020</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 1.1: Chronological files</field>
+    <field name="unittitle_teim">Sub-series 1.1: Chronological files</field>
+    <field name="unitdate_normal_ssm">1997/2011</field>
+    <field name="unitdate_normal_teim">1997/2011</field>
+    <field name="unitdate_normal_sim">1997/2011</field>
+    <field name="unitdate_inclusive_teim">1997-2011</field>
+    <field name="scopecontent_teim">This sub-series contains Brooklyn Bridge Park files which were organized chronologically by Millman's staff, dating from 1997 to 2011. The files include reports, redevelopment plans, legislative documents, correspondence, meeting files, publications, and clippings.</field>
+    <field name="scopecontent_teim">A number of organizations are represented in the files, including the Brooklyn Bridge Park Coalition, the Old Brooklyn Waterfront Alliance, the Downtwon Brooklyn Waterfront Development Corporation, Empire State Development, the Fulton Ferry Landing Association, Two Trees Development Association, the DUMBO Neighborhood Association, the Brooklyn Heights Association, the Brooklyn Bridge Park Defense Fund, and the Brooklyn Bridge Park Conservancy.</field>
+    <field name="scopecontent_teim">The files are mostly concerned with the planning and funding of the park, including the concerns of local residents regarding the use private-owned residential housing within Brooklyn Bridge Park to fund the park's operations.</field>
+    <field name="scopecontent_teim">Some files of note include an agreement between Two Trees Development Association with the New York State Office of Parks, Recreation and Historic Preservation (1999), the by-laws of the Brooklyn Bridge Park Corporation (2010), a New York Hotel Trades Council (AFL-CIO) labor peace report (2011), reports on alternatives to housing for the funding of Brooklyn Bridge Park (2011), and files on the historic Tobacco Warehouse (2011).</field>
+    <field name="ref_ssi">aspace_ref3_s3f</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Joan L. Millman papers</field>
+    <field name="collection_unitid_teim">2014.020</field>
+    <field name="series_sim">Series 1: Brooklyn Bridge Park</field>
+    <field name="series_si">Series 1: Brooklyn Bridge Park &gt;&gt; Sub-series 1.1: Chronological files</field>
+    <field name="heading_ssm">Sub-series 1.1: Chronological files</field>
+    <field name="unitdate_start_sim">1997</field>
+    <field name="unitdate_start_ssm">1997</field>
+    <field name="unitdate_start_si">1997</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, 1997-2011</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

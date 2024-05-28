@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">2011_021aspace_7f7b8d7411eb31d0b647a79f7c7f7743</field>
+    <field name="ead_ssi">2011_021</field>
+    <field name="parent_ssi">aspace_03d73925af3ffe6d05aef790b801bccf</field>
+    <field name="parent_ssm">aspace_03d73925af3ffe6d05aef790b801bccf</field>
+    <field name="parent_unittitles_ssm">Series 3: Minutes and Financial Records</field>
+    <field name="parent_unittitles_teim">Series 3: Minutes and Financial Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">First Baptist Church in Pierrepont Street records</field>
+    <field name="collection_ssm">First Baptist Church in Pierrepont Street records</field>
+    <field name="collection_unitid_ssm">2011.021</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 3.1: First Baptist Church</field>
+    <field name="unittitle_teim">Sub-series 3.1: First Baptist Church</field>
+    <field name="ref_ssi">aspace_7f7b8d7411eb31d0b647a79f7c7f7743</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">First Baptist Church in Pierrepont Street records</field>
+    <field name="collection_unitid_teim">2011.021</field>
+    <field name="series_sim">Series 3: Minutes and Financial Records</field>
+    <field name="series_si">Series 3: Minutes and Financial Records &gt;&gt; Sub-series 3.1: First Baptist Church</field>
+    <field name="heading_ssm">Sub-series 3.1: First Baptist Church</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">113</field>
+  </doc>
+</add>

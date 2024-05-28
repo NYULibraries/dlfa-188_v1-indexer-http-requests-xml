@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_046_kalmusaspace_0dbc0aa8d7f0c365adc8ec45aceecaed</field>
+    <field name="ead_ssi">arc_046_kalmus</field>
+    <field name="parent_ssi">aspace_73cd7726c5d19539d372acbc0d97435f</field>
+    <field name="parent_ssm">aspace_ref8_wqw</field>
+    <field name="parent_ssm">aspace_73cd7726c5d19539d372acbc0d97435f</field>
+    <field name="parent_unittitles_ssm">Series 2: Photographs</field>
+    <field name="parent_unittitles_ssm">Digitized photographs</field>
+    <field name="parent_unittitles_teim">Series 2: Photographs</field>
+    <field name="parent_unittitles_teim">Digitized photographs</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Harry Kalmus papers and photographs</field>
+    <field name="collection_ssm">Harry Kalmus papers and photographs</field>
+    <field name="collection_unitid_ssm">ARC.046</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Negatives</field>
+    <field name="unittitle_teim">Negatives</field>
+    <field name="ref_ssi">aspace_0dbc0aa8d7f0c365adc8ec45aceecaed</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Harry Kalmus papers and photographs</field>
+    <field name="collection_unitid_teim">ARC.046</field>
+    <field name="series_sim">Series 2: Photographs</field>
+    <field name="series_sim">Digitized photographs</field>
+    <field name="series_si">Series 2: Photographs &gt;&gt; Digitized photographs &gt;&gt; Negatives</field>
+    <field name="heading_ssm">Negatives</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">11</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_154_stuart_boothaspace_ref10_prm</field>
+    <field name="ead_ssi">arc_154_stuart_booth</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Charles Stuart Booth family papers and photographs</field>
+    <field name="collection_ssm">Charles Stuart Booth family papers and photographs</field>
+    <field name="collection_unitid_ssm">ARC.154</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Papers</field>
+    <field name="unittitle_teim">Series 1: Papers</field>
+    <field name="unitdate_normal_ssm">1828/1886</field>
+    <field name="unitdate_normal_teim">1828/1886</field>
+    <field name="unitdate_normal_sim">1828/1886</field>
+    <field name="unitdate_inclusive_teim">1828-1886</field>
+    <field name="scopecontent_teim">This series contains 13 journals written by Charles Stuart Booth; letters to and from his son, Horace Booth; and additional items relating to other members of the Booth family.</field>
+    <field name="scopecontent_teim">The journals cover Charles Stuart Booth's shifts as a privately employed night watchman during the years 1828 to 1862, with occasional gaps.  The territory Booth oversaw was located in lower Manhattan and covered Cedar, Pearl, Fletcher, and Wall Streets, as well as Maiden Lane.  The entries in Booth's journals are of varying length, depending on the night's events.  In each entry, Booth details the time he began his work (usually 8:00 P.M.), weather conditions, notable events or occurrences that happened during his shift (fires were common), and the time he ended his shift (usually 7:00 A.M.).  There are also accounts of the occasional odd event, suspicious person, and need for police assistance.</field>
+    <field name="scopecontent_teim">Most letters to Horace Booth were written by his sister, Lila, while he was serving as an engineer in the 8th Regiment of the Union Army during the Civil War.  The letters, dating from 1861 to 1863, concern Lila's domestic life in Williamsburgh and her wishes for Horace's health and safety while serving in the army.  Lila also occasionally touches upon events that garnered local or national attention: in her letter dated July 8, 1861, she details the Williamsburgh community's celebration of Independence Day, while in her letter dated August 2, 1863, she comments upon the infamous New York City draft riots and expresses concern that there will be another riot if a new draft is called.   A few letters to Horace are also written by friends and his brother, Tom, and one letter is from his father.  Horace enlisted in the army in 1861 without consulting his father, but the letter attests to his father's approval and good wishes.  Additional letters are written by Horace and are addressed to his sister, Phoebe, and her husband, Hiram K. Lockwood.</field>
+    <field name="scopecontent_teim">Additional items in this series include a small envelope of visiting cards, the marriage book of Phoebe Booth and Hiram K. Lockwood, a letter from D.A. Lockwood to C.M. Studwell, a promissory note to a William C. Booth, an obituary of Colonel William H. Lockwood, and some brief notes on the Booth and Lockwood families from Harry B. Squires, the donor of this collection.</field>
+    <field name="ref_ssi">aspace_ref10_prm</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Charles Stuart Booth family papers and photographs</field>
+    <field name="collection_unitid_teim">ARC.154</field>
+    <field name="series_si">Series 1: Papers</field>
+    <field name="heading_ssm">Series 1: Papers</field>
+    <field name="unitdate_start_sim">1828</field>
+    <field name="unitdate_start_ssm">1828</field>
+    <field name="unitdate_start_si">1828</field>
+    <field name="unitdate_end_sim">1886</field>
+    <field name="unitdate_end_ssm">1886</field>
+    <field name="unitdate_end_si">1886</field>
+    <field name="unitdate_ssm">Inclusive, 1828-1886</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

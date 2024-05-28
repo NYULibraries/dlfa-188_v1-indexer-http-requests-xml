@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2014_019_packeraspace_ref8450_rxb</field>
+    <field name="ead_ssi">arms_2014_019_packer</field>
+    <field name="parent_ssi">aspace_ref8447_3hc</field>
+    <field name="parent_ssm">aspace_ref8447_3hc</field>
+    <field name="parent_unittitles_ssm">Series 19: Instructional materials</field>
+    <field name="parent_unittitles_teim">Series 19: Instructional materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Packer Collegiate Institute records</field>
+    <field name="collection_ssm">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_ssm">2014.019</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 19.1: Glass Lantern Slides</field>
+    <field name="unittitle_teim">Sub-series 19.1: Glass Lantern Slides</field>
+    <field name="unitdate_normal_ssm">1880/1909</field>
+    <field name="unitdate_normal_teim">1880/1909</field>
+    <field name="unitdate_normal_sim">1880/1909</field>
+    <field name="unitdate_inclusive_teim">1880s–1900s</field>
+    <field name="scopecontent_teim">The sub-series consists of glass lantern slides, dating from circa 1880s to the early 1900s. The lantern slides depict assorted locations and attractions taken at various times of the year in and around the United States (Niagara Falls; Yosemite Park; Old Faithful; Bee Hive Geyser, WY; a glacial fjord in Maine; a grain elevator in Illinois; a United State Navy warship; Luray Caverns, Virginia; Continental Divide and Grand Canyon, Colorado), Africa (DeBeers mine in South Africa; a caravan in Biskra, Algeria), Ireland (a peat bog in Killarney), and Australia (Tasmanian Forest).</field>
+    <field name="ref_ssi">aspace_ref8450_rxb</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_teim">2014.019</field>
+    <field name="series_sim">Series 19: Instructional materials</field>
+    <field name="series_si">Series 19: Instructional materials &gt;&gt; Sub-series 19.1: Glass Lantern Slides</field>
+    <field name="heading_ssm">Sub-series 19.1: Glass Lantern Slides</field>
+    <field name="unitdate_start_sim">1880</field>
+    <field name="unitdate_start_ssm">1880</field>
+    <field name="unitdate_start_si">1880</field>
+    <field name="unitdate_end_sim">1909</field>
+    <field name="unitdate_end_ssm">1909</field>
+    <field name="unitdate_end_si">1909</field>
+    <field name="unitdate_ssm">Inclusive, 1880s–1900s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">7828</field>
+  </doc>
+</add>

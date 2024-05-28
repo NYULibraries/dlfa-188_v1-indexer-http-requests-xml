@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2014_019_packeraspace_ref113_ltx</field>
+    <field name="ead_ssi">arms_2014_019_packer</field>
+    <field name="parent_ssi">aspace_ref81_ju9</field>
+    <field name="parent_ssm">aspace_ref81_ju9</field>
+    <field name="parent_unittitles_ssm">Series 3: Student administrative records</field>
+    <field name="parent_unittitles_teim">Series 3: Student administrative records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Packer Collegiate Institute records</field>
+    <field name="collection_ssm">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_ssm">2014.019</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 3.2: Secondary and Junior College Transcripts</field>
+    <field name="unittitle_teim">Sub-series 3.2: Secondary and Junior College Transcripts</field>
+    <field name="unitdate_normal_ssm">1922/1967</field>
+    <field name="unitdate_normal_teim">1922/1967</field>
+    <field name="unitdate_normal_sim">1922/1967</field>
+    <field name="unitdate_inclusive_teim">1922-1967</field>
+    <field name="scopecontent_teim">This sub-series contains the transcripts from the Packer Collegiate Institute Secondary School and Junior College, dating from 1922 to 1967. The transcripts include some or all of the following information: Student grades, dates entered and left Packer, date of birth, home address, parent's name(s), standardized test scores, extra-curricular activities, religious affiliation, and photographs. While most of the transcripts indicate if they are from either the Secondary School or the Junior College, there are some that remain ambiguous. There are records that contain information from both the Secondary School and the Junior College, and occasionally even Elementary School. Some transcripts show both maiden and married name if the student's status changed while attending the school. In most cases, the record is filed by maiden name. However, there are a few records where the maiden name was crossed out and replaced by the married name, in which case it is filed by the married name.</field>
+    <field name="ref_ssi">aspace_ref113_ltx</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_teim">2014.019</field>
+    <field name="series_sim">Series 3: Student administrative records</field>
+    <field name="series_si">Series 3: Student administrative records &gt;&gt; Sub-series 3.2: Secondary and Junior College Transcripts</field>
+    <field name="heading_ssm">Sub-series 3.2: Secondary and Junior College Transcripts</field>
+    <field name="unitdate_start_sim">1922</field>
+    <field name="unitdate_start_ssm">1922</field>
+    <field name="unitdate_start_si">1922</field>
+    <field name="unitdate_end_sim">1967</field>
+    <field name="unitdate_end_ssm">1967</field>
+    <field name="unitdate_end_si">1967</field>
+    <field name="unitdate_ssm">Inclusive, 1922-1967</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">92</field>
+  </doc>
+</add>

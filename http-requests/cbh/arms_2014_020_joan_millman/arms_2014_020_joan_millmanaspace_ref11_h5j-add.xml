@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2014_020_joan_millmanaspace_ref11_h5j</field>
+    <field name="ead_ssi">arms_2014_020_joan_millman</field>
+    <field name="parent_ssi">aspace_ref2_d2y</field>
+    <field name="parent_ssm">aspace_ref2_d2y</field>
+    <field name="parent_unittitles_ssm">Series 1: Brooklyn Bridge Park</field>
+    <field name="parent_unittitles_teim">Series 1: Brooklyn Bridge Park</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Joan L. Millman papers</field>
+    <field name="collection_ssm">Joan L. Millman papers</field>
+    <field name="collection_unitid_ssm">2014.020</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 1.2: Subject files</field>
+    <field name="unittitle_teim">Sub-series 1.2: Subject files</field>
+    <field name="unitdate_normal_ssm">1990/2012</field>
+    <field name="unitdate_normal_ssm">1997/2011</field>
+    <field name="unitdate_normal_teim">1990/2012</field>
+    <field name="unitdate_normal_teim">1997/2011</field>
+    <field name="unitdate_normal_sim">1990/2012</field>
+    <field name="unitdate_normal_sim">1997/2011</field>
+    <field name="unitdate_bulk_teim">1997-2011</field>
+    <field name="unitdate_inclusive_teim">1990-2012</field>
+    <field name="scopecontent_teim">The sub-series consists of subject files relating to Brooklyn Bridge Park, dating from 1990 to 2012. It includes correspondence, reports, legislative files, publications, and clippings. The files document the park's development and the public opposition to the use of private residential housing within Brooklyn Bridge Park to pay for its operation costs.</field>
+    <field name="scopecontent_teim">Some files of note include a 1991 report on redeveloping piers on Brooklyn's waterfront, a traffic study sent by Two Trees Development Corporation to Millman (located in the Correspondence, 1997-1998 file), correspondence with New York State and local politicians regarding park related legislation, and a series of financial and housing reports.</field>
+    <field name="ref_ssi">aspace_ref11_h5j</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Joan L. Millman papers</field>
+    <field name="collection_unitid_teim">2014.020</field>
+    <field name="series_sim">Series 1: Brooklyn Bridge Park</field>
+    <field name="series_si">Series 1: Brooklyn Bridge Park &gt;&gt; Sub-series 1.2: Subject files</field>
+    <field name="heading_ssm">Sub-series 1.2: Subject files</field>
+    <field name="unitdate_start_sim">1990</field>
+    <field name="unitdate_start_sim">1997</field>
+    <field name="unitdate_start_ssm">1990</field>
+    <field name="unitdate_start_ssm">1997</field>
+    <field name="unitdate_start_si">1997</field>
+    <field name="unitdate_end_sim">2012</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2012</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, 1990-2012 ; 1997-2011</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

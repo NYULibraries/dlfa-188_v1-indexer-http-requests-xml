@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_145_lefferts_familyaspace_ref1_k3i</field>
+    <field name="ead_ssi">arc_145_lefferts_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lefferts family papers</field>
+    <field name="collection_ssm">Lefferts family papers</field>
+    <field name="collection_unitid_ssm">ARC.145</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Lefferts Family</field>
+    <field name="unittitle_teim">Series 1: Lefferts Family</field>
+    <field name="unitdate_normal_ssm">1661/1925</field>
+    <field name="unitdate_normal_teim">1661/1925</field>
+    <field name="unitdate_normal_sim">1661/1925</field>
+    <field name="unitdate_inclusive_teim">1661-1925</field>
+    <field name="scopecontent_teim">The Lefferts Family series contains personal and business documents created by or in regards to members of the Lefferts family and families closely related to the Lefferts through marriage or business. These related families include the Cortelyou, Vanderbilt, Lott, Smith, Nostrand, Ditmars, Vecht and Remsen families of Brooklyn. Many of the prominent Lefferts family members are included in this series. Date spans of the lives of each figure have been provided where possible so as not to confuse the figures with other family members with the same name.</field>
+    <field name="scopecontent_teim">These documents include some of the early land grants and indentures maintained by the Lefferts family. Among these are the original land grant from Peter Stuyvesant to Pieter Janse Hagewout in 1661 and the records of his great-grandson, Peter Lefferts. Among Peter's files is an account of items and expenses for his funeral. Among the papers of his wife, Femmetie Hegeman, is the deed and land grant from Peter Stuyvesant to Adriaen Hegeman. Part of this land eventually passed to Femmetie and would become part of the Lefferts farm after her marriage to Peter. The papers of Peter's father, John Lefferts (1719-1776), includes an inventory of his estate taken in 1778 and provides an account of items the Lefferts had closest to the burning down of the Lefferts home in 1776. The files on Gertrude Lefferts Vanderbilt include accounts of her experiences on the family farm during the 1863 Draft Riots including aiding and sheltering black Americans who had fled from Manhattan. These files also include a manuscript titled "Incidents in the home life during the War of the Revolution" containing recollections of the family's oral history in regards to the Battle of Long Island. A folder on John Cortelyou (1772-1855) includes many documents on his care after he was declared "A Lunatic". John Lefferts was appointed to oversee Cortelyou's estate.</field>
+    <field name="scopecontent_teim">The series also includes some business and legal records related to the Lefferts family and other historic Brooklyn families. This includes some slave bills and indentures, land transfers, estate claims by members of the Ditmars and Vechte families, and the title for the Remsen family farm. An account book of Jacobus Lefferts is also within this series. Jacobus Lefferts was a wealthy farmer in the town of New Utrecht and the account book includes the names of over 60 persons with whom he dealt, mostly also in New Utrecht. For additional documents regarding businesses owned and operated by the Lefferts or documents on the operation of the Lefferts farm, see Series 2: Lefferts Businesses.</field>
+    <field name="ref_ssi">aspace_ref1_k3i</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lefferts family papers</field>
+    <field name="collection_unitid_teim">ARC.145</field>
+    <field name="series_si">Series 1: Lefferts Family</field>
+    <field name="heading_ssm">Series 1: Lefferts Family</field>
+    <field name="unitdate_start_sim">1661</field>
+    <field name="unitdate_start_ssm">1661</field>
+    <field name="unitdate_start_si">1661</field>
+    <field name="unitdate_end_sim">1925</field>
+    <field name="unitdate_end_ssm">1925</field>
+    <field name="unitdate_end_si">1925</field>
+    <field name="unitdate_ssm">Inclusive, 1661-1925</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

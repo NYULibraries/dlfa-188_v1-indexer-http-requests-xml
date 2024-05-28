@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">Fort Totten collection</field>
+    <field name="unittitle_ssm">Fort Totten collection</field>
+    <field name="unitid_teim">1977.327</field>
+    <field name="unitid_ssm">1977.327</field>
+    <field name="abstract_teim">The Fort Totten collection contains histories and evaluations of the Fort dating from the 1950s and 1960s; a list of fortifications and sea coast defenses from 1851; and site analyses and development proposals for the site of the fort.</field>
+    <field name="abstract_ssm">The Fort Totten collection contains histories and evaluations of the Fort dating from the 1950s and 1960s; a list of fortifications and sea coast defenses from 1851; and site analyses and development proposals for the site of the fort.</field>
+    <field name="unitdate_normal_ssm">1851/1968</field>
+    <field name="unitdate_normal_ssm">1955/1968</field>
+    <field name="unitdate_normal_teim">1851/1968</field>
+    <field name="unitdate_normal_teim">1955/1968</field>
+    <field name="unitdate_normal_sim">1851/1968</field>
+    <field name="unitdate_normal_sim">1955/1968</field>
+    <field name="unitdate_bulk_teim">1955-1968</field>
+    <field name="unitdate_inclusive_teim">1851-1968</field>
+    <field name="scopecontent_teim">The Fort Totten collection spans the period 1851 to 1968 (bulk, 1955 to 1968) and measures 0.25 linear feet. The collection contains histories and evaluations of the Fort dating from the 1950s and 1960s; a list of fortifications and sea coast defenses from 1851; and site analyses and development proposals for the site of the fort.</field>
+    <field name="bioghist_teim">Fort Totten was constructed as a defense for New York City during the Civil War but never saw battle. It was used as a depot for recruits, a camping ground for volunteer units en route combat areas, and also contained hospital facilities. In later years, Fort Totten became the home to the Army Corps of Engineers, the Coast Guard, the U.S. Army Medical Equipment Development Laboratory, and the Army Defense Command. In 1995, Fort Totten was one of the many military bases that were decommissioned.</field>
+    <field name="acqinfo_teim">Source and date of acquisition unknown. The collection was formally accessioned in 1977.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="geogname_teim">New York (N.Y.)</field>
+    <field name="geogname_teim">Fort Totten (N.Y.)</field>
+    <field name="geogname_ssm">New York (N.Y.)</field>
+    <field name="geogname_ssm">Fort Totten (N.Y.)</field>
+    <field name="subject_teim">Fortification -- New York (State) -- New York</field>
+    <field name="subject_teim">Fortification -- New York (State) -- New York</field>
+    <field name="subject_ssm">Fortification -- New York (State) -- New York</field>
+    <field name="collection_sim">Fort Totten collection</field>
+    <field name="collection_ssm">Fort Totten collection</field>
+    <field name="collection_teim">Fort Totten collection</field>
+    <field name="id">arms_1977_327_fort_totten</field>
+    <field name="ead_ssi">arms_1977_327_fort_totten</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">New York (N.Y.)</field>
+    <field name="place_sim">Fort Totten (N.Y.)</field>
+    <field name="subject_sim">Fortification -- New York (State) -- New York</field>
+    <field name="heading_ssm">Fort Totten collection</field>
+    <field name="unitdate_start_sim">1851</field>
+    <field name="unitdate_start_sim">1955</field>
+    <field name="unitdate_start_ssm">1851</field>
+    <field name="unitdate_start_ssm">1955</field>
+    <field name="unitdate_start_si">1955</field>
+    <field name="unitdate_end_sim">1968</field>
+    <field name="unitdate_end_ssm">1968</field>
+    <field name="unitdate_end_si">1968</field>
+    <field name="unitdate_ssm">Inclusive, 1851-1968 ; 1955-1968</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

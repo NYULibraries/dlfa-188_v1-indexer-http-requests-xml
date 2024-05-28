@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_247_brooklyn_scrapbooksaspace_cfe8d953f51f788d85524ac3a1586080</field>
+    <field name="ead_ssi">arc_247_brooklyn_scrapbooks</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn scrapbooks collection</field>
+    <field name="collection_ssm">Brooklyn scrapbooks collection</field>
+    <field name="collection_unitid_ssm">ARC.247</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">[Clippings]</field>
+    <field name="unittitle_teim">[Clippings]</field>
+    <field name="unitdate_normal_ssm">1850/1890</field>
+    <field name="unitdate_normal_teim">1850/1890</field>
+    <field name="unitdate_normal_sim">1850/1890</field>
+    <field name="unitdate_inclusive_teim">circa 1850s-1880s</field>
+    <field name="persname_teim">Brewster, Laura M.</field>
+    <field name="persname_teim">Brewster, Laura M.</field>
+    <field name="persname_ssm">Brewster, Laura M.</field>
+    <field name="persname_ssm">Brewster, Laura M.</field>
+    <field name="ref_ssi">aspace_cfe8d953f51f788d85524ac3a1586080</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_si">Box: 2</field>
+    <field name="name_sim">Brewster, Laura M.</field>
+    <field name="name_teim">Brewster, Laura M.</field>
+    <field name="collection_teim">Brooklyn scrapbooks collection</field>
+    <field name="collection_unitid_teim">ARC.247</field>
+    <field name="series_si">[Clippings]</field>
+    <field name="heading_ssm">[Clippings]</field>
+    <field name="unitdate_start_sim">1850</field>
+    <field name="unitdate_start_ssm">1850</field>
+    <field name="unitdate_start_si">1850</field>
+    <field name="unitdate_end_sim">1890</field>
+    <field name="unitdate_end_ssm">1890</field>
+    <field name="unitdate_end_si">1890</field>
+    <field name="unitdate_ssm">Inclusive, circa 1850s-1880s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

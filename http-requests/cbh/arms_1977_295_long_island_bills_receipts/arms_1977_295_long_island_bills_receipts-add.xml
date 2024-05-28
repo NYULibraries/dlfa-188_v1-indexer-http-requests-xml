@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">Long Island bills and receipts collection</field>
+    <field name="unittitle_ssm">Long Island bills and receipts collection</field>
+    <field name="unitid_teim">1977.295</field>
+    <field name="unitid_ssm">1977.295</field>
+    <field name="abstract_teim">The Long Island bills and receipts collection spans the period 1794 to 1886 and consists of twenty-nine bills and receipts from various places on Long Island (including Queens County) for textiles, dry goods, household goods, and horse and smithy goods and services.</field>
+    <field name="abstract_ssm">The Long Island bills and receipts collection spans the period 1794 to 1886 and consists of twenty-nine bills and receipts from various places on Long Island (including Queens County) for textiles, dry goods, household goods, and horse and smithy goods and services.</field>
+    <field name="unitdate_normal_ssm">1794/1886</field>
+    <field name="unitdate_normal_teim">1794/1886</field>
+    <field name="unitdate_normal_sim">1794/1886</field>
+    <field name="unitdate_inclusive_teim">1794-1886</field>
+    <field name="scopecontent_teim">The Long Island bills and receipts collection spans the period 1794 to 1886 and consists of twenty-nine bills and receipts from various places on Long Island (including Queens County) for textiles, dry goods, household goods, and horse and smithy goods and services.</field>
+    <field name="acqinfo_teim">Gift of Peter L. Van Santvoord, 1966.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Bills of exchange</field>
+    <field name="genreform_teim">Receipts (financial records)</field>
+    <field name="genreform_ssm">Bills of exchange</field>
+    <field name="genreform_ssm">Receipts (financial records)</field>
+    <field name="geogname_teim">Long Island (N.Y.)</field>
+    <field name="geogname_teim">Queens County (N.Y.)</field>
+    <field name="geogname_ssm">Long Island (N.Y.)</field>
+    <field name="geogname_ssm">Queens County (N.Y.)</field>
+    <field name="collection_sim">Long Island bills and receipts collection</field>
+    <field name="collection_ssm">Long Island bills and receipts collection</field>
+    <field name="collection_teim">Long Island bills and receipts collection</field>
+    <field name="id">arms_1977_295_long_island_bills_receipts</field>
+    <field name="ead_ssi">arms_1977_295_long_island_bills_receipts</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Long Island (N.Y.)</field>
+    <field name="place_sim">Queens County (N.Y.)</field>
+    <field name="material_type_sim">Bills of exchange</field>
+    <field name="material_type_sim">Receipts (financial records)</field>
+    <field name="material_type_ssm">Bills of exchange</field>
+    <field name="material_type_ssm">Receipts (financial records)</field>
+    <field name="heading_ssm">Long Island bills and receipts collection</field>
+    <field name="unitdate_start_sim">1794</field>
+    <field name="unitdate_start_ssm">1794</field>
+    <field name="unitdate_start_si">1794</field>
+    <field name="unitdate_end_sim">1886</field>
+    <field name="unitdate_end_ssm">1886</field>
+    <field name="unitdate_end_si">1886</field>
+    <field name="unitdate_ssm">Inclusive, 1794-1886</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

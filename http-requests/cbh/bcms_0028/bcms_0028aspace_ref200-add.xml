@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref200</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Nordisk Tidende</field>
+    <field name="unittitle_teim">Nordisk Tidende</field>
+    <field name="unitdate_normal_ssm">1956/1997</field>
+    <field name="unitdate_normal_teim">1956/1997</field>
+    <field name="unitdate_normal_sim">1956/1997</field>
+    <field name="unitdate_inclusive_teim">1956-1997</field>
+    <field name="scopecontent_teim">Largely focusing on the neighborhood of Bay Ridge, Nordisk Tidende provides local news coverage of business, politics, education, community events, clubs and organizations, arts, culture, religion, sports, and entertainment. Articles in early issues of the paper are primarily written in Norwegian, with later issues being equally split between English and Norwegian. National, international, and local news is all covered. Wedding and engagement announcements occasionally appear. Obituaries do not appear in the paper. Poems and recipes are regularly published as are profiles of local businesses. Advertisements and photographs appear throughout.</field>
+    <field name="ref_ssi">aspace_ref200</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">bin: 29</field>
+    <field name="location_ssm">bin: 30</field>
+    <field name="location_si">bin: 30</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Nordisk Tidende</field>
+    <field name="heading_ssm">Nordisk Tidende</field>
+    <field name="unitdate_start_sim">1956</field>
+    <field name="unitdate_start_ssm">1956</field>
+    <field name="unitdate_start_si">1956</field>
+    <field name="unitdate_end_sim">1997</field>
+    <field name="unitdate_end_ssm">1997</field>
+    <field name="unitdate_end_si">1997</field>
+    <field name="unitdate_ssm">Inclusive, 1956-1997</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">Norwegian</field>
+    <field name="language_ssm">Norwegian</field>
+    <field name="sort_ii">72</field>
+  </doc>
+</add>

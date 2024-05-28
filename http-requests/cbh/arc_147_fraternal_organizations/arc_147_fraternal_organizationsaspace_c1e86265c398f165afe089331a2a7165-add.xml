@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_147_fraternal_organizationsaspace_c1e86265c398f165afe089331a2a7165</field>
+    <field name="ead_ssi">arc_147_fraternal_organizations</field>
+    <field name="parent_ssi">aspace_a46a76dfe4ba7f4456370f9786a448bb</field>
+    <field name="parent_ssm">aspace_a46a76dfe4ba7f4456370f9786a448bb</field>
+    <field name="parent_unittitles_ssm">Series 2: Benevolent and Protective Order of Elks</field>
+    <field name="parent_unittitles_teim">Series 2: Benevolent and Protective Order of Elks</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fraternal organizations of Brooklyn collection</field>
+    <field name="collection_ssm">Fraternal organizations of Brooklyn collection</field>
+    <field name="collection_unitid_ssm">ARC.147</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Brooklyn Lodge No. 22</field>
+    <field name="unittitle_teim">Brooklyn Lodge No. 22</field>
+    <field name="unitdate_normal_ssm">1904/1930</field>
+    <field name="unitdate_normal_teim">1904/1930</field>
+    <field name="unitdate_normal_sim">1904/1930</field>
+    <field name="unitdate_inclusive_teim">1904, 1916, 1918, 1930</field>
+    <field name="scopecontent_teim">Roster, memorial service, and flyers.</field>
+    <field name="ref_ssi">aspace_c1e86265c398f165afe089331a2a7165</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Fraternal organizations of Brooklyn collection</field>
+    <field name="collection_unitid_teim">ARC.147</field>
+    <field name="series_sim">Series 2: Benevolent and Protective Order of Elks</field>
+    <field name="series_si">Series 2: Benevolent and Protective Order of Elks &gt;&gt; Brooklyn Lodge No. 22</field>
+    <field name="heading_ssm">Brooklyn Lodge No. 22</field>
+    <field name="unitdate_start_sim">1904</field>
+    <field name="unitdate_start_ssm">1904</field>
+    <field name="unitdate_start_si">1904</field>
+    <field name="unitdate_end_sim">1930</field>
+    <field name="unitdate_end_ssm">1930</field>
+    <field name="unitdate_end_si">1930</field>
+    <field name="unitdate_ssm">Inclusive, 1904, 1916, 1918, 1930</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

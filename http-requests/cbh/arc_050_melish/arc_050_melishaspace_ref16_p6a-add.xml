@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_050_melishaspace_ref16_p6a</field>
+    <field name="ead_ssi">arc_050_melish</field>
+    <field name="parent_ssi">aspace_ref1_yyr</field>
+    <field name="parent_ssm">aspace_ref1_yyr</field>
+    <field name="parent_unittitles_ssm">Series 1: Church of the Holy Trinity Materials.</field>
+    <field name="parent_unittitles_teim">Series 1: Church of the Holy Trinity Materials.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Howard Melish, William Howard Melish and Protestant Episcopal Church of the Holy Trinity collection</field>
+    <field name="collection_ssm">John Howard Melish, William Howard Melish and Protestant Episcopal Church of the Holy Trinity collection</field>
+    <field name="collection_unitid_ssm">ARC.050</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Fundraising.</field>
+    <field name="unittitle_teim">Fundraising.</field>
+    <field name="unitdate_normal_ssm">1948/1957</field>
+    <field name="unitdate_normal_teim">1948/1957</field>
+    <field name="unitdate_normal_sim">1948/1957</field>
+    <field name="unitdate_inclusive_teim">1948-1957</field>
+    <field name="ref_ssi">aspace_ref16_p6a</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">John Howard Melish, William Howard Melish and Protestant Episcopal Church of the Holy Trinity collection</field>
+    <field name="collection_unitid_teim">ARC.050</field>
+    <field name="series_sim">Series 1: Church of the Holy Trinity Materials.</field>
+    <field name="series_si">Series 1: Church of the Holy Trinity Materials. &gt;&gt; Fundraising.</field>
+    <field name="heading_ssm">Fundraising.</field>
+    <field name="unitdate_start_sim">1948</field>
+    <field name="unitdate_start_ssm">1948</field>
+    <field name="unitdate_start_si">1948</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, 1948-1957</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

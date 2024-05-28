@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0013aspace_ref39</field>
+    <field name="ead_ssi">bcms_0013</field>
+    <field name="parent_ssi">aspace_ref27</field>
+    <field name="parent_ssm">aspace_ref27</field>
+    <field name="parent_unittitles_ssm">Series IV: Sheet Music</field>
+    <field name="parent_unittitles_teim">Series IV: Sheet Music</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bernard Green Collection</field>
+    <field name="collection_ssm">Bernard Green Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0013</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Sheet music for two songs by Bernard Green</field>
+    <field name="unittitle_teim">Sheet music for two songs by Bernard Green</field>
+    <field name="ref_ssi">aspace_ref39</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Bernard Green Collection</field>
+    <field name="collection_unitid_teim">BCMS.0013</field>
+    <field name="series_sim">Series IV: Sheet Music</field>
+    <field name="series_si">Series IV: Sheet Music &gt;&gt; Sheet music for two songs by Bernard Green</field>
+    <field name="heading_ssm">Sheet music for two songs by Bernard Green</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">17</field>
+  </doc>
+</add>

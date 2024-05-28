@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_129_brooklyn_bureau_community_serviceaspace_ref132_fvh</field>
+    <field name="ead_ssi">arc_129_brooklyn_bureau_community_service</field>
+    <field name="parent_ssi">aspace_ref13_m9d</field>
+    <field name="parent_ssm">aspace_ref13_m9d</field>
+    <field name="parent_unittitles_ssm">Series 3: Sheltering Arms Nursery records</field>
+    <field name="parent_unittitles_teim">Series 3: Sheltering Arms Nursery records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Bureau of Community Service records</field>
+    <field name="collection_ssm">Brooklyn Bureau of Community Service records</field>
+    <field name="collection_unitid_ssm">ARC.129</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Admissions ledger</field>
+    <field name="unittitle_teim">Admissions ledger</field>
+    <field name="unitdate_normal_ssm">1873/1891</field>
+    <field name="unitdate_normal_teim">1873/1891</field>
+    <field name="unitdate_normal_sim">1873/1891</field>
+    <field name="unitdate_inclusive_teim">1873-1891</field>
+    <field name="ref_ssi">aspace_ref132_fvh</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 24</field>
+    <field name="location_si">Box: 24</field>
+    <field name="collection_teim">Brooklyn Bureau of Community Service records</field>
+    <field name="collection_unitid_teim">ARC.129</field>
+    <field name="series_sim">Series 3: Sheltering Arms Nursery records</field>
+    <field name="series_si">Series 3: Sheltering Arms Nursery records &gt;&gt; Admissions ledger</field>
+    <field name="heading_ssm">Admissions ledger</field>
+    <field name="unitdate_start_sim">1873</field>
+    <field name="unitdate_start_ssm">1873</field>
+    <field name="unitdate_start_si">1873</field>
+    <field name="unitdate_end_sim">1891</field>
+    <field name="unitdate_end_ssm">1891</field>
+    <field name="unitdate_end_si">1891</field>
+    <field name="unitdate_ssm">Inclusive, 1873-1891</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">139</field>
+  </doc>
+</add>

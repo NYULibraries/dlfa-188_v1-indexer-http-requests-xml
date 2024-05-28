@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">2012_005aspace_11a17bd047f952f7626defe929d7fe04</field>
+    <field name="ead_ssi">2012_005</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Van Pelt family collection</field>
+    <field name="collection_ssm">Van Pelt family collection</field>
+    <field name="collection_unitid_ssm">2012.005</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Real Estate records</field>
+    <field name="unittitle_teim">Series 1: Real Estate records</field>
+    <field name="unitdate_normal_ssm">1879/1941</field>
+    <field name="unitdate_normal_teim">1879/1941</field>
+    <field name="unitdate_normal_sim">1879/1941</field>
+    <field name="unitdate_inclusive_teim">1879-1941</field>
+    <field name="scopecontent_teim">This series is comprised of real estate records including legal documents, bills, correspondence, and receipts of John Greenwood and the estate and relatvies of John V. Van Pelt. The documents provide insight into the tenants, and the structures and repairs made on individual buildings owned by the Van Pelt estate. The property holdings represented in this collection include many Brooklyn neighborhoods from Bensonhurst to Williamsburgh, as well as properties in Jamaica, Queens. The locations of properties may not be immediately clear from street names.</field>
+    <field name="ref_ssi">aspace_11a17bd047f952f7626defe929d7fe04</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Van Pelt family collection</field>
+    <field name="collection_unitid_teim">2012.005</field>
+    <field name="series_si">Series 1: Real Estate records</field>
+    <field name="heading_ssm">Series 1: Real Estate records</field>
+    <field name="unitdate_start_sim">1879</field>
+    <field name="unitdate_start_ssm">1879</field>
+    <field name="unitdate_start_si">1879</field>
+    <field name="unitdate_end_sim">1941</field>
+    <field name="unitdate_end_ssm">1941</field>
+    <field name="unitdate_end_si">1941</field>
+    <field name="unitdate_ssm">Inclusive, 1879-1941</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

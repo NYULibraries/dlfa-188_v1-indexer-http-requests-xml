@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_174_brooklyn_newslettersaspace_02b4ec1a700bc7e71ff2c4871e5b9d10</field>
+    <field name="ead_ssi">arc_174_brooklyn_newsletters</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn newsletter collection</field>
+    <field name="collection_ssm">Brooklyn newsletter collection</field>
+    <field name="collection_unitid_ssm">ARC.174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Italian American Review</field>
+    <field name="unittitle_teim">Italian American Review</field>
+    <field name="unitdate_normal_ssm">1965/1977</field>
+    <field name="unitdate_normal_teim">1965/1977</field>
+    <field name="unitdate_normal_sim">1965/1977</field>
+    <field name="unitdate_inclusive_teim">1965-1977</field>
+    <field name="scopecontent_teim">Published by the Italian Historical Society, Brooklyn.</field>
+    <field name="ref_ssi">aspace_02b4ec1a700bc7e71ff2c4871e5b9d10</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3</field>
+    <field name="location_si">Box: 3</field>
+    <field name="collection_teim">Brooklyn newsletter collection</field>
+    <field name="collection_unitid_teim">ARC.174</field>
+    <field name="series_si">Italian American Review</field>
+    <field name="heading_ssm">Italian American Review</field>
+    <field name="unitdate_start_sim">1965</field>
+    <field name="unitdate_start_ssm">1965</field>
+    <field name="unitdate_start_si">1965</field>
+    <field name="unitdate_end_sim">1977</field>
+    <field name="unitdate_end_ssm">1977</field>
+    <field name="unitdate_end_si">1977</field>
+    <field name="unitdate_ssm">Inclusive, 1965-1977</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">51</field>
+  </doc>
+</add>

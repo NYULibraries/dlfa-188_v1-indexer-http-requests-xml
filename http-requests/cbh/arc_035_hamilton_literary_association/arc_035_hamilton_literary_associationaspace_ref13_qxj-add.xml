@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_035_hamilton_literary_associationaspace_ref13_qxj</field>
+    <field name="ead_ssi">arc_035_hamilton_literary_association</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hamilton Literary Association and Hamilton Club records</field>
+    <field name="collection_ssm">Hamilton Literary Association and Hamilton Club records</field>
+    <field name="collection_unitid_ssm">ARC.035</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Hamilton Club</field>
+    <field name="unittitle_teim">Series 2: Hamilton Club</field>
+    <field name="unitdate_normal_ssm">1882/1931</field>
+    <field name="unitdate_normal_teim">1882/1931</field>
+    <field name="unitdate_normal_sim">1882/1931</field>
+    <field name="unitdate_inclusive_teim">1882-1931</field>
+    <field name="scopecontent_teim">Materials pertaining to the Hamilton Club include an 1882 pamphlet of suggestions for the formation of the club, including sample certificates of incorporation, constitutions, and bylaws from other social clubs; bylaws and member lists for the period 1882 to 1915, though not all years are represented; minutes of the Council for the period 1883 to 1886; and minutes of the Board of Directors and the annual meeting, as well as income and expenditure statements and balance sheets, for the period 1915 to 1931.  Also included are four bound printed volumes containing various texts written by or about Alexander Hamilton, published by the Hamilton Club in the years 1865 and 1866.</field>
+    <field name="ref_ssi">aspace_ref13_qxj</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Hamilton Literary Association and Hamilton Club records</field>
+    <field name="collection_unitid_teim">ARC.035</field>
+    <field name="series_si">Series 2: Hamilton Club</field>
+    <field name="heading_ssm">Series 2: Hamilton Club</field>
+    <field name="unitdate_start_sim">1882</field>
+    <field name="unitdate_start_ssm">1882</field>
+    <field name="unitdate_start_si">1882</field>
+    <field name="unitdate_end_sim">1931</field>
+    <field name="unitdate_end_ssm">1931</field>
+    <field name="unitdate_end_si">1931</field>
+    <field name="unitdate_ssm">Inclusive, 1882-1931</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

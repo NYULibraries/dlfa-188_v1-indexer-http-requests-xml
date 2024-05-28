@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0030aspace_ref46</field>
+    <field name="ead_ssi">bcms_0030</field>
+    <field name="parent_ssi">aspace_ref45</field>
+    <field name="parent_ssm">aspace_ref45</field>
+    <field name="parent_unittitles_ssm">Brooklyn Technical High School</field>
+    <field name="parent_unittitles_teim">Brooklyn Technical High School</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Survey&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Survey
+    </field>
+    <field name="unitdate_normal_ssm">1958-09/1964-04</field>
+    <field name="unitdate_normal_teim">1958-09/1964-04</field>
+    <field name="unitdate_normal_sim">1958-09/1964-04</field>
+    <field name="unitdate_inclusive_teim">September 1958 - April 1964</field>
+    <field name="scopecontent_teim">44 issues</field>
+    <field name="phystech_teim">Paper is in poor condition. Researchers should use the digital surrogates.</field>
+    <field name="ref_ssi">aspace_ref46</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6 - restricted</field>
+    <field name="location_si">Box: 6 - restricted</field>
+    <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_teim">BCMS.0030</field>
+    <field name="series_sim">Brooklyn Technical High School</field>
+    <field name="series_si">Brooklyn Technical High School &gt;&gt; 
+      &lt;em&gt;Survey&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Survey
+    </field>
+    <field name="unitdate_ssm">Inclusive, September 1958 - April 1964</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

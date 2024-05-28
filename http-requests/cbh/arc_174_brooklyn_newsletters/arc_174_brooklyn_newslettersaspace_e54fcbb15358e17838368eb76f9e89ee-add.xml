@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_174_brooklyn_newslettersaspace_e54fcbb15358e17838368eb76f9e89ee</field>
+    <field name="ead_ssi">arc_174_brooklyn_newsletters</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn newsletter collection</field>
+    <field name="collection_ssm">Brooklyn newsletter collection</field>
+    <field name="collection_unitid_ssm">ARC.174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The New York Navy Yard Shipworker</field>
+    <field name="unittitle_teim">The New York Navy Yard Shipworker</field>
+    <field name="unitdate_normal_ssm">1941/1966</field>
+    <field name="unitdate_normal_teim">1941/1966</field>
+    <field name="unitdate_normal_sim">1941/1966</field>
+    <field name="unitdate_inclusive_teim">1941-1966</field>
+    <field name="scopecontent_teim">"Official publication of the New York Navy Yard, Brooklyn, New York [Brooklyn Navy Yard]. Distributed free to all Yard employees."</field>
+    <field name="scopecontent_teim">Hard copy issues Vol. III No. 33 (1944) and Vol. IV No. 17 (1945)</field>
+    <field name="scopecontent_teim">Microfilm 1941-1966</field>
+    <field name="ref_ssi">aspace_e54fcbb15358e17838368eb76f9e89ee</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: Hard copies</field>
+    <field name="location_ssm">Folder: Hard copies</field>
+    <field name="location_ssm">reel: 1, reel: 1941-1946</field>
+    <field name="location_ssm">reel: 1941-1946</field>
+    <field name="location_ssm">reel: 2, reel: 1947-1953</field>
+    <field name="location_ssm">reel: 1947-1953</field>
+    <field name="location_ssm">reel: 3, reel: 1954-1959</field>
+    <field name="location_ssm">reel: 1954-1959</field>
+    <field name="location_ssm">reel: 4, reel: 1960-1966</field>
+    <field name="location_ssm">reel: 1960-1966</field>
+    <field name="location_si">reel: 1960-1966</field>
+    <field name="collection_teim">Brooklyn newsletter collection</field>
+    <field name="collection_unitid_teim">ARC.174</field>
+    <field name="series_si">The New York Navy Yard Shipworker</field>
+    <field name="heading_ssm">The New York Navy Yard Shipworker</field>
+    <field name="unitdate_start_sim">1941</field>
+    <field name="unitdate_start_ssm">1941</field>
+    <field name="unitdate_start_si">1941</field>
+    <field name="unitdate_end_sim">1966</field>
+    <field name="unitdate_end_ssm">1966</field>
+    <field name="unitdate_end_si">1966</field>
+    <field name="unitdate_ssm">Inclusive, 1941-1966</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">66</field>
+  </doc>
+</add>

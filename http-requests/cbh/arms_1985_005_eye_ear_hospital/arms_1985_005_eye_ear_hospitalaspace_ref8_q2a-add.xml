@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1985_005_eye_ear_hospitalaspace_ref8_q2a</field>
+    <field name="ead_ssi">arms_1985_005_eye_ear_hospital</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn Eye and Ear Hospital records</field>
+    <field name="collection_ssm">Brooklyn Eye and Ear Hospital records</field>
+    <field name="collection_unitid_ssm">1985.005</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Board of Directors</field>
+    <field name="unittitle_teim">Series 1: Board of Directors</field>
+    <field name="unitdate_normal_ssm">1868/1976</field>
+    <field name="unitdate_normal_teim">1868/1976</field>
+    <field name="unitdate_normal_sim">1868/1976</field>
+    <field name="unitdate_inclusive_teim">1868-1976</field>
+    <field name="scopecontent_teim">This series contains seven bound volumes and two three-ring binders of minutes from annual and regular meetings of the Hospital's Board of Directors throughout the entirety of the series date range.  The minutes offer a detailed overview of the activities that transpired at each meeting, including the presentation of various reports, adoption of recommendations, passing of motions, formation of committees, and appointment of board and committee members.</field>
+    <field name="scopecontent_teim">Predominant subjects recorded in the minutes include the state of the Hospital's finances, detailing income, expenses, funds, and financial campaigns; the management of the Hospital's real estate and mortgages; the activities of the Hospital's Medical Board (later called the Board of Surgeons), largely relating to the appointment of medical staff members; relations between the Board and Hospital employees, often concerning employee salaries; the types of medical services offered by the Hospital; statistics on clinic visits, hospital admissions, and occupancy rates; the condition of various facilities and equipment; the activities and recommendations of the Board's several committees; and the Board's response to the death or resignation of Board members.  Minutes dating from the 1930s onward increasingly illuminate the actions taken by the Board in response to the Hospital's financial difficulties, including the attempt to solidify a merger with other medical institutions.  </field>
+    <field name="scopecontent_teim">The volumes and binders also include occasional supplementary items relating to the issues discussed by the Board, including correspondence, newspaper clippings, corporate resolutions and trust agreements, full reports of various committees, and brochures related to financial campaigns.  The very first volume, covering the period 1868 to 1915, also includes the Hospital's act of incorporation, while the second volume, covering the period 1916 to 1929, includes the Hospital's constitution and bylaws.</field>
+    <field name="scopecontent_teim">The series also includes two four-ring binders containing internal renditions of the Hospital's annual reports, as well as treasurer and superintendent's reports, dating from 1916 to 1929.  Annual and treasurer's reports concern the state of the Hospital's finances and are supplemented by comparisons of receipts and expenses, while superintendent's reports relate to patient and medical statistics and are supplemented by comparisons of clinic, hospital, and dispensary work.</field>
+    <field name="scopecontent_teim">An additional folder contains minutes and reports of the Board's Executive Committee, dating from 1919 to 1929.  The minutes and reports largely concern the Hospital's finances and real estate, as well as the Hospital's consolidation with the Williamsburgh Hospital.  A small portion of the folder is also comprised of minutes and reports of the Board's Building and Plans Committees, which largely detail proposed improvements to the Hospital's floor layouts, equipment, and furnishings, as well as the plans for the Hospital's new building on Greene Avenue.  The folder also includes correspondence, reports of inspections conducted by the New York City Department of Public Welfare and the New York State Board of Charities, committee resolutions, trust agreements, and documents related to changes in the Board's constitution and bylaws.</field>
+    <field name="scopecontent_teim">Finally, the series includes a folder housing a copy of the Board's published annual report from 1930, a history and prospectus of the Hospital from 1913, and two copies of the book A Hospital's First Century, written by Board member Harry W. Baehr in commemoration of the Hospital's centennial in 1968.</field>
+    <field name="ref_ssi">aspace_ref8_q2a</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn Eye and Ear Hospital records</field>
+    <field name="collection_unitid_teim">1985.005</field>
+    <field name="series_si">Series 1: Board of Directors</field>
+    <field name="heading_ssm">Series 1: Board of Directors</field>
+    <field name="unitdate_start_sim">1868</field>
+    <field name="unitdate_start_ssm">1868</field>
+    <field name="unitdate_start_si">1868</field>
+    <field name="unitdate_end_sim">1976</field>
+    <field name="unitdate_end_ssm">1976</field>
+    <field name="unitdate_end_si">1976</field>
+    <field name="unitdate_ssm">Inclusive, 1868-1976</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

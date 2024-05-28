@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2014_019_packeraspace_ref2613_cda</field>
+    <field name="ead_ssi">arms_2014_019_packer</field>
+    <field name="parent_ssi">aspace_ref2604_new</field>
+    <field name="parent_ssm">aspace_ref4460_lvr</field>
+    <field name="parent_ssm">aspace_ref2604_new</field>
+    <field name="parent_unittitles_ssm">Series 14: Architectural records</field>
+    <field name="parent_unittitles_ssm">Sub-series 14.2: Playground design</field>
+    <field name="parent_unittitles_teim">Series 14: Architectural records</field>
+    <field name="parent_unittitles_teim">Sub-series 14.2: Playground design</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Packer Collegiate Institute records</field>
+    <field name="collection_ssm">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_ssm">2014.019</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Playground equipment</field>
+    <field name="unittitle_teim">Playground equipment</field>
+    <field name="unitdate_normal_ssm">1992/1994</field>
+    <field name="unitdate_normal_teim">1992/1994</field>
+    <field name="unitdate_normal_sim">1992/1994</field>
+    <field name="unitdate_inclusive_teim">1992-1994</field>
+    <field name="ref_ssi">aspace_ref2613_cda</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 378, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_teim">2014.019</field>
+    <field name="series_sim">Series 14: Architectural records</field>
+    <field name="series_sim">Sub-series 14.2: Playground design</field>
+    <field name="series_si">Series 14: Architectural records &gt;&gt; Sub-series 14.2: Playground design &gt;&gt; Playground equipment</field>
+    <field name="heading_ssm">Playground equipment</field>
+    <field name="unitdate_start_sim">1992</field>
+    <field name="unitdate_start_ssm">1992</field>
+    <field name="unitdate_start_si">1992</field>
+    <field name="unitdate_end_sim">1994</field>
+    <field name="unitdate_end_ssm">1994</field>
+    <field name="unitdate_end_si">1994</field>
+    <field name="unitdate_ssm">Inclusive, 1992-1994</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4180</field>
+  </doc>
+</add>

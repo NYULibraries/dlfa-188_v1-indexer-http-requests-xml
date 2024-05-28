@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2009_011_lapcaspace_ref11_to0</field>
+    <field name="ead_ssi">arms_2009_011_lapc</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_ssm">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_unitid_ssm">2009.011</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Parish Newsletters</field>
+    <field name="unittitle_teim">Series 2: Parish Newsletters</field>
+    <field name="unitdate_normal_ssm">1957/1991</field>
+    <field name="unitdate_normal_teim">1957/1991</field>
+    <field name="unitdate_normal_sim">1957/1991</field>
+    <field name="unitdate_inclusive_teim">1957-1991</field>
+    <field name="scopecontent_teim">Series includes newsletters concerning parish activities and other matters of interest to the LAPC congregation. </field>
+    <field name="scopecontent_teim">Prior to the date range of this series, this type of information was generally found in the Lafayette Record (Series 3).</field>
+    <field name="ref_ssi">aspace_ref11_to0</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_unitid_teim">2009.011</field>
+    <field name="series_si">Series 2: Parish Newsletters</field>
+    <field name="heading_ssm">Series 2: Parish Newsletters</field>
+    <field name="unitdate_start_sim">1957</field>
+    <field name="unitdate_start_ssm">1957</field>
+    <field name="unitdate_start_si">1957</field>
+    <field name="unitdate_end_sim">1991</field>
+    <field name="unitdate_end_ssm">1991</field>
+    <field name="unitdate_end_si">1991</field>
+    <field name="unitdate_ssm">Inclusive, 1957-1991</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">13</field>
+  </doc>
+</add>

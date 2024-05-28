@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1994_013_cranstonaspace_ref15_y4s</field>
+    <field name="ead_ssi">arms_1994_013_cranston</field>
+    <field name="parent_ssi">aspace_ref1_pwv</field>
+    <field name="parent_ssm">aspace_ref1_pwv</field>
+    <field name="parent_unittitles_ssm">Series 1: Manuscript Materials</field>
+    <field name="parent_unittitles_teim">Series 1: Manuscript Materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Cranston family papers and photographs</field>
+    <field name="collection_ssm">Cranston family papers and photographs</field>
+    <field name="collection_unitid_ssm">1994.013</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 3: Other Family Members Papers</field>
+    <field name="unittitle_teim">Sub-series 3: Other Family Members Papers</field>
+    <field name="unitdate_normal_ssm">1851/1912</field>
+    <field name="unitdate_normal_teim">1851/1912</field>
+    <field name="unitdate_normal_sim">1851/1912</field>
+    <field name="unitdate_inclusive_teim">1851-1912</field>
+    <field name="scopecontent_teim">Other Family Members Papers, dated 1851 to 1912, includes correspondence and ephemera belonging to Ella Cranston (daughter of Alfred and Elizabeth Petford Cranston), clippings of marriage and anniversary announcements, and ephemera from the Morehouse family. This sub-series also contains one folder of material pertaining to the Oliver and Bellows families, relatives through Alfred Cranston's mother, Susan Ann Oliver. These items primarily relate to the funeral arrangements and interment in Green-Wood Cemetery of Sarah Ann Oliver Bellows, a cousin of the Cranstons.</field>
+    <field name="ref_ssi">aspace_ref15_y4s</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Cranston family papers and photographs</field>
+    <field name="collection_unitid_teim">1994.013</field>
+    <field name="series_sim">Series 1: Manuscript Materials</field>
+    <field name="series_si">Series 1: Manuscript Materials &gt;&gt; Sub-series 3: Other Family Members Papers</field>
+    <field name="heading_ssm">Sub-series 3: Other Family Members Papers</field>
+    <field name="unitdate_start_sim">1851</field>
+    <field name="unitdate_start_ssm">1851</field>
+    <field name="unitdate_start_si">1851</field>
+    <field name="unitdate_end_sim">1912</field>
+    <field name="unitdate_end_ssm">1912</field>
+    <field name="unitdate_end_si">1912</field>
+    <field name="unitdate_ssm">Inclusive, 1851-1912</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

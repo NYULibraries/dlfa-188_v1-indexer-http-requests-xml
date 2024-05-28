@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_109_first_unitarianaspace_ref2_4a1</field>
+    <field name="ead_ssi">arc_109_first_unitarian</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_ssm">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.109</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Subject Files.</field>
+    <field name="unittitle_teim">Series 2: Subject Files.</field>
+    <field name="unitdate_normal_ssm">1790/1980</field>
+    <field name="unitdate_normal_teim">1790/1980</field>
+    <field name="unitdate_normal_sim">1790/1980</field>
+    <field name="unitdate_inclusive_teim">1790-1980</field>
+    <field name="scopecontent_teim">The Subject Files series collects the files kept by the Church covering its various interests and activities.</field>
+    <field name="scopecontent_teim">Of particular note are the "History" files which contain documents related to the early formation of the Congregation. These files include correspondence between the founders, resolutions and other actions of Trustees, early lists of subscribers, By-Laws, and early bills and accounts. The documents address the incorporation of the Congregation, the acquisition of land and the building of the Church of the Saviour, ministers, music, and other major matters of the congregation. Documents related to the early formation of the 2nd Congregation can also be found among these "History" folders. Some other documents related to the early and foundational years of the church can be found in the folders on By-Laws, Covenants and Statements of Faith, and Special Services. Also of interest are documents on the Church's work with children and youth including various clubs and very early documents regarding the Church's Sunday School. There is also club work here regarding psychiatric social work and counseling made available to parishioners during the tenure of John H. Lathrop. Researchers interested in the Low family should also note one file regarding the family with documents mostly unrelated to the church dating back to 1790.</field>
+    <field name="scopecontent_teim">Subject Files also holds published directories of the Church which have Parish lists, club reports with member rolls, updated by-laws and other information on the Church. Some of these directories have been annotated, particularly in the Parish membership lists. Other family-oriented documents include the Bequests, Memorials, Special Services, and membership files.</field>
+    <field name="ref_ssi">aspace_ref2_4a1</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.109</field>
+    <field name="series_si">Series 2: Subject Files.</field>
+    <field name="heading_ssm">Series 2: Subject Files.</field>
+    <field name="unitdate_start_sim">1790</field>
+    <field name="unitdate_start_ssm">1790</field>
+    <field name="unitdate_start_si">1790</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, 1790-1980</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">22</field>
+  </doc>
+</add>

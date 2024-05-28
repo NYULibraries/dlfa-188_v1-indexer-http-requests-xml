@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0003aspace_ref221</field>
+    <field name="ead_ssi">bcms_0003</field>
+    <field name="parent_ssi">aspace_ref208</field>
+    <field name="parent_ssm">aspace_ref208</field>
+    <field name="parent_unittitles_ssm">Beecher, Henry Ward</field>
+    <field name="parent_unittitles_teim">Beecher, Henry Ward</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn periodical illustrations</field>
+    <field name="collection_ssm">Brooklyn periodical illustrations</field>
+    <field name="collection_unitid_ssm">BCMS.0003</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Beecher's Churches. &lt;em&gt;Harper's Weekly&lt;/em&gt;</field>
+    <field name="unittitle_teim">Beecher's Churches. Harper's Weekly</field>
+    <field name="unitdate_normal_ssm">1866-08-11/1866-08-11</field>
+    <field name="unitdate_normal_teim">1866-08-11/1866-08-11</field>
+    <field name="unitdate_normal_sim">1866-08-11/1866-08-11</field>
+    <field name="unitdate_teim">August 11, 1866</field>
+    <field name="ref_ssi">aspace_ref221</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_si">Box: 2</field>
+    <field name="collection_teim">Brooklyn periodical illustrations</field>
+    <field name="collection_unitid_teim">BCMS.0003</field>
+    <field name="series_sim">Beecher, Henry Ward</field>
+    <field name="series_si">Beecher, Henry Ward &gt;&gt; Beecher's Churches. &lt;em&gt;Harper's Weekly&lt;/em&gt;</field>
+    <field name="heading_ssm">Beecher's Churches. Harper's Weekly</field>
+    <field name="unitdate_ssm">August 11, 1866</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">184</field>
+  </doc>
+</add>

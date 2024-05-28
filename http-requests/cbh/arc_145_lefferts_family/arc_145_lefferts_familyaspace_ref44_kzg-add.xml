@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_145_lefferts_familyaspace_ref44_kzg</field>
+    <field name="ead_ssi">arc_145_lefferts_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lefferts family papers</field>
+    <field name="collection_ssm">Lefferts family papers</field>
+    <field name="collection_unitid_ssm">ARC.145</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Lefferts House and Ephemera</field>
+    <field name="unittitle_teim">Series 3: Lefferts House and Ephemera</field>
+    <field name="unitdate_normal_ssm">1728/1938</field>
+    <field name="unitdate_normal_teim">1728/1938</field>
+    <field name="unitdate_normal_sim">1728/1938</field>
+    <field name="unitdate_inclusive_teim">1728-1938</field>
+    <field name="scopecontent_teim">The Lefferts House and Ephemera series consists of materials which are specifically related to the upkeep and functioning of the Lefferts Historic House Museum, items accumulated by the museum with no immediately clear connection to Lefferts family members, and other ephemera from the collection.</field>
+    <field name="scopecontent_teim">The Household Goods Inventories give accounts of furniture, textiles, and other three dimensional objects which were part of the Lefferts house prior to its move to Prospect Park. The "General Small Items" and "Manuscripts and Poems" are all items which were between the pages of Lefferts books or mixed in with other Lefferts documents without credit to their source. This series also holds some items connected to the Lefferts outside of the Lefferts Historic House Museum. The brochure on "Brookwood" refers to once Virginia home of Mary Gray Lefferts and the report from the Lefferts Manor Association refers to association of the landmarked area within the Prospect-Lefferts Gardens neighborhood of Brooklyn. This series also includes some hand-written recipes used by Cornelia Stuyvesant. More recipes can be found in the cookbooks in the Books and Scrapbooks series.</field>
+    <field name="ref_ssi">aspace_ref44_kzg</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lefferts family papers</field>
+    <field name="collection_unitid_teim">ARC.145</field>
+    <field name="series_si">Series 3: Lefferts House and Ephemera</field>
+    <field name="heading_ssm">Series 3: Lefferts House and Ephemera</field>
+    <field name="unitdate_start_sim">1728</field>
+    <field name="unitdate_start_ssm">1728</field>
+    <field name="unitdate_start_si">1728</field>
+    <field name="unitdate_end_sim">1938</field>
+    <field name="unitdate_end_ssm">1938</field>
+    <field name="unitdate_end_si">1938</field>
+    <field name="unitdate_ssm">Inclusive, 1728-1938</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">39</field>
+  </doc>
+</add>

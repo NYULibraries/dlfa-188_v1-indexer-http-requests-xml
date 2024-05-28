@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_145_lefferts_familyaspace_ref94_g1k</field>
+    <field name="ead_ssi">arc_145_lefferts_family</field>
+    <field name="parent_ssi">aspace_ref73_40q</field>
+    <field name="parent_ssm">aspace_ref73_40q</field>
+    <field name="parent_unittitles_ssm">Series 6: Graphic Materials</field>
+    <field name="parent_unittitles_teim">Series 6: Graphic Materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lefferts family papers</field>
+    <field name="collection_ssm">Lefferts family papers</field>
+    <field name="collection_unitid_ssm">ARC.145</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-Series 1: Lefferts Graphic Materials</field>
+    <field name="unittitle_teim">Sub-Series 1: Lefferts Graphic Materials</field>
+    <field name="unitdate_normal_ssm">1850/1979</field>
+    <field name="unitdate_normal_teim">1850/1979</field>
+    <field name="unitdate_normal_sim">1850/1979</field>
+    <field name="unitdate_inclusive_teim">circa 1850s-1970s</field>
+    <field name="scopecontent_teim">Sub-Series 1: Lefferts Graphic Materials contains the images that are created by, depicting, or related to the Lefferts family and the Lefferts house. Individuals have been identified where possible, but many are yet to be identified. Among the figures who have been identified are Eliza Lefferts Cooke, Louise Lefferts Downs, John Lefferts (1785-1829), James Lefferts (1855-1911) and Jacobus Lefferts (1757-1799). The sub-series also includes two photo albums with photographs of Lefferts family members. In addition to the historic Lefferts house, this sub-series also contains images of the houses of Rem Lefferts, the Lefferts Vanderbilts, the Fanning branch of the Lefferts family in Sterling, Illinois, and the Virginia home of Mary Gray Lefferts.</field>
+    <field name="ref_ssi">aspace_ref94_g1k</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lefferts family papers</field>
+    <field name="collection_unitid_teim">ARC.145</field>
+    <field name="series_sim">Series 6: Graphic Materials</field>
+    <field name="series_si">Series 6: Graphic Materials &gt;&gt; Sub-Series 1: Lefferts Graphic Materials</field>
+    <field name="heading_ssm">Sub-Series 1: Lefferts Graphic Materials</field>
+    <field name="unitdate_start_sim">1850</field>
+    <field name="unitdate_start_ssm">1850</field>
+    <field name="unitdate_start_si">1850</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, circa 1850s-1970s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">75</field>
+  </doc>
+</add>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0031aspace_ref40</field>
+    <field name="ead_ssi">bcms_0031</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn Yearbook Collection</field>
+    <field name="collection_ssm">Brooklyn Yearbook Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0031</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Brooklyn College</field>
+    <field name="unittitle_teim">Brooklyn College</field>
+    <field name="ref_ssi">aspace_ref40</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn Yearbook Collection</field>
+    <field name="collection_unitid_teim">BCMS.0031</field>
+    <field name="series_si">Brooklyn College</field>
+    <field name="heading_ssm">Brooklyn College</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">54</field>
+  </doc>
+</add>

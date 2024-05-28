@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0041aspace_ref1745</field>
+    <field name="ead_ssi">bcms_0041</field>
+    <field name="parent_ssi">aspace_ref1744</field>
+    <field name="parent_ssm">aspace_ref1744</field>
+    <field name="parent_unittitles_ssm">Winthrop</field>
+    <field name="parent_unittitles_teim">Winthrop</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_ssm">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0041</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Fury</field>
+    <field name="unittitle_teim">Fury</field>
+    <field name="unitdate_teim">September 27-October 3, [c. 1936]</field>
+    <field name="ref_ssi">aspace_ref1745</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3</field>
+    <field name="location_si">Box: 3</field>
+    <field name="collection_teim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_teim">BCMS.0041</field>
+    <field name="series_sim">Winthrop</field>
+    <field name="series_si">Winthrop &gt;&gt; Fury</field>
+    <field name="heading_ssm">Fury</field>
+    <field name="unitdate_ssm">September 27-October 3, [c. 1936]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">922</field>
+  </doc>
+</add>

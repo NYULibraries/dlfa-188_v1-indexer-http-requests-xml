@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_006_bergenaspace_ref745_b58</field>
+    <field name="ead_ssi">arc_006_bergen</field>
+    <field name="parent_ssi">aspace_ref636_ztw</field>
+    <field name="parent_ssm">aspace_ref636_ztw</field>
+    <field name="parent_unittitles_ssm">Group 1: Teunis G. Bergen papers</field>
+    <field name="parent_unittitles_teim">Group 1: Teunis G. Bergen papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_ssm">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_ssm">ARC.006</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 5: Kings County Board of Supervisors</field>
+    <field name="unittitle_teim">Series 5: Kings County Board of Supervisors</field>
+    <field name="unitdate_normal_ssm">1836/1863</field>
+    <field name="unitdate_normal_teim">1836/1863</field>
+    <field name="unitdate_normal_sim">1836/1863</field>
+    <field name="unitdate_inclusive_teim">1836-1863</field>
+    <field name="scopecontent_teim">Kings County Board of Supervisors comprises documents produced by Bergen during his tenure representing the town of New Utrecht on the Kings County Board of Supervisors.  The papers in this series consist of handwritten drafts of laws and ordinances, petitions, requests to the New York State Legislature, and meeting minutes.  These documents provide a glimpse into Bergen's role as Supervisor of New Utrecht, as well as some of the political, social, and legal issues of concern during his tenure on the Board.</field>
+    <field name="ref_ssi">aspace_ref745_b58</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_teim">ARC.006</field>
+    <field name="series_sim">Group 1: Teunis G. Bergen papers</field>
+    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 5: Kings County Board of Supervisors</field>
+    <field name="heading_ssm">Series 5: Kings County Board of Supervisors</field>
+    <field name="unitdate_start_sim">1836</field>
+    <field name="unitdate_start_ssm">1836</field>
+    <field name="unitdate_start_si">1836</field>
+    <field name="unitdate_end_sim">1863</field>
+    <field name="unitdate_end_ssm">1863</field>
+    <field name="unitdate_end_si">1863</field>
+    <field name="unitdate_ssm">Inclusive, 1836-1863</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">168</field>
+  </doc>
+</add>

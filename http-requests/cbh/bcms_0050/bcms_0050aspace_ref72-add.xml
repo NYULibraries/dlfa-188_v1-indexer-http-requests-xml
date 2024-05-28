@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0050aspace_ref72</field>
+    <field name="ead_ssi">bcms_0050</field>
+    <field name="parent_ssi">aspace_ref40</field>
+    <field name="parent_ssm">aspace_ref40</field>
+    <field name="parent_unittitles_ssm">Series 4: Correspondence</field>
+    <field name="parent_unittitles_teim">Series 4: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Martha Gayle Collection</field>
+    <field name="collection_ssm">Martha Gayle Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0050</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Parnell, Daisy</field>
+    <field name="unittitle_teim">Parnell, Daisy</field>
+    <field name="unitdate_teim">1981 February-May</field>
+    <field name="ref_ssi">aspace_ref72</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Martha Gayle Collection</field>
+    <field name="collection_unitid_teim">BCMS.0050</field>
+    <field name="series_sim">Series 4: Correspondence</field>
+    <field name="series_si">Series 4: Correspondence &gt;&gt; Parnell, Daisy</field>
+    <field name="heading_ssm">Parnell, Daisy</field>
+    <field name="unitdate_ssm">1981 February-May</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>

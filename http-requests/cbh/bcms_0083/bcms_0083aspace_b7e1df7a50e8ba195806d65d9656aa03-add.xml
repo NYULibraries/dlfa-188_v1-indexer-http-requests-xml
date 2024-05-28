@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0083aspace_b7e1df7a50e8ba195806d65d9656aa03</field>
+    <field name="ead_ssi">bcms_0083</field>
+    <field name="parent_ssi">aspace_e34463a351672a804d2d659e69915bee</field>
+    <field name="parent_ssm">aspace_601bbcb9c4b4ee9ff34218152d31ea02</field>
+    <field name="parent_ssm">aspace_e34463a351672a804d2d659e69915bee</field>
+    <field name="parent_unittitles_ssm">Series 1: Irene Wilson papers</field>
+    <field name="parent_unittitles_ssm">Sub-series 1.1: Subject Files</field>
+    <field name="parent_unittitles_teim">Series 1: Irene Wilson papers</field>
+    <field name="parent_unittitles_teim">Sub-series 1.1: Subject Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Park Slope Civic Council (PSCC) records</field>
+    <field name="collection_ssm">Park Slope Civic Council (PSCC) records</field>
+    <field name="collection_unitid_ssm">BCMS.0083</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">History of Brooklyn - Demand for Park, Donald Simeon</field>
+    <field name="unittitle_teim">History of Brooklyn - Demand for Park, Donald Simeon</field>
+    <field name="unitdate_normal_ssm">1957/1977</field>
+    <field name="unitdate_normal_teim">1957/1977</field>
+    <field name="unitdate_normal_sim">1957/1977</field>
+    <field name="unitdate_inclusive_teim">circa 1967</field>
+    <field name="ref_ssi">aspace_b7e1df7a50e8ba195806d65d9656aa03</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 24</field>
+    <field name="location_ssm">Folder: 24</field>
+    <field name="location_si">Folder: 24</field>
+    <field name="collection_teim">Park Slope Civic Council (PSCC) records</field>
+    <field name="collection_unitid_teim">BCMS.0083</field>
+    <field name="series_sim">Series 1: Irene Wilson papers</field>
+    <field name="series_sim">Sub-series 1.1: Subject Files</field>
+    <field name="series_si">Series 1: Irene Wilson papers &gt;&gt; Sub-series 1.1: Subject Files &gt;&gt; History of Brooklyn - Demand for Park, Donald Simeon</field>
+    <field name="heading_ssm">History of Brooklyn - Demand for Park, Donald Simeon</field>
+    <field name="unitdate_start_sim">1957</field>
+    <field name="unitdate_start_ssm">1957</field>
+    <field name="unitdate_start_si">1957</field>
+    <field name="unitdate_end_sim">1977</field>
+    <field name="unitdate_end_ssm">1977</field>
+    <field name="unitdate_end_si">1977</field>
+    <field name="unitdate_ssm">Inclusive, circa 1967</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">51</field>
+  </doc>
+</add>

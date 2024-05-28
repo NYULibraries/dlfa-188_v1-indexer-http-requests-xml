@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0041aspace_ref50</field>
+    <field name="ead_ssi">bcms_0041</field>
+    <field name="parent_ssi">aspace_ref23</field>
+    <field name="parent_ssm">aspace_ref23</field>
+    <field name="parent_unittitles_ssm">Alhambra</field>
+    <field name="parent_unittitles_teim">Alhambra</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_ssm">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0041</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">N.T.G And His Radio Pals</field>
+    <field name="unittitle_teim">N.T.G And His Radio Pals</field>
+    <field name="unitdate_teim">October 19, [no year]</field>
+    <field name="ref_ssi">aspace_ref50</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_teim">BCMS.0041</field>
+    <field name="series_sim">Alhambra</field>
+    <field name="series_si">Alhambra &gt;&gt; N.T.G And His Radio Pals</field>
+    <field name="heading_ssm">N.T.G And His Radio Pals</field>
+    <field name="unitdate_ssm">October 19, [no year]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">23</field>
+  </doc>
+</add>

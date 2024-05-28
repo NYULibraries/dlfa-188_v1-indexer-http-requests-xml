@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_104_wenmanaspace_ref21_rtb</field>
+    <field name="ead_ssi">arc_104_wenman</field>
+    <field name="parent_ssi">aspace_ref11_wln</field>
+    <field name="parent_ssm">aspace_ref11_wln</field>
+    <field name="parent_unittitles_ssm">Series 2: Fish business records</field>
+    <field name="parent_unittitles_teim">Series 2: Fish business records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Charles Henry Wenman papers</field>
+    <field name="collection_ssm">Charles Henry Wenman papers</field>
+    <field name="collection_unitid_ssm">ARC.104</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 2: Telautograph Corporation</field>
+    <field name="unittitle_teim">Sub-series 2: Telautograph Corporation</field>
+    <field name="unitdate_normal_ssm">1915/1926</field>
+    <field name="unitdate_normal_teim">1915/1926</field>
+    <field name="unitdate_normal_sim">1915/1926</field>
+    <field name="unitdate_inclusive_teim">1915-1926</field>
+    <field name="scopecontent_teim">Sub-series 2 concerns the Telautograph Corporation, 1915-1926, a venture concerning the use of the telegraph system to reproduce handwritten messages. This sub-series includes balance statements, progress reports, stockholder statements, correspondence, and stockholder notices.</field>
+    <field name="ref_ssi">aspace_ref21_rtb</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Charles Henry Wenman papers</field>
+    <field name="collection_unitid_teim">ARC.104</field>
+    <field name="series_sim">Series 2: Fish business records</field>
+    <field name="series_si">Series 2: Fish business records &gt;&gt; Sub-series 2: Telautograph Corporation</field>
+    <field name="heading_ssm">Sub-series 2: Telautograph Corporation</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1926</field>
+    <field name="unitdate_end_ssm">1926</field>
+    <field name="unitdate_end_si">1926</field>
+    <field name="unitdate_ssm">Inclusive, 1915-1926</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

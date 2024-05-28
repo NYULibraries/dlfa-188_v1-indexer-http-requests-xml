@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">1974_003aspace_d73f530b90b8e30d1aaac5d95a11d28f</field>
+    <field name="ead_ssi">1974_003</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Long Island Early Manuscripts collection</field>
+    <field name="collection_ssm">Long Island Early Manuscripts collection</field>
+    <field name="collection_unitid_ssm">1974.003</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Petition for the construction of a Turnpike</field>
+    <field name="unittitle_teim">Petition for the construction of a Turnpike</field>
+    <field name="unitdate_normal_ssm">1750/1850</field>
+    <field name="unitdate_normal_teim">1750/1850</field>
+    <field name="unitdate_normal_sim">1750/1850</field>
+    <field name="unitdate_inclusive_teim">circa 1800</field>
+    <field name="ref_ssi">aspace_d73f530b90b8e30d1aaac5d95a11d28f</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Long Island Early Manuscripts collection</field>
+    <field name="collection_unitid_teim">1974.003</field>
+    <field name="series_si">Petition for the construction of a Turnpike</field>
+    <field name="heading_ssm">Petition for the construction of a Turnpike</field>
+    <field name="unitdate_start_sim">1750</field>
+    <field name="unitdate_start_ssm">1750</field>
+    <field name="unitdate_start_si">1750</field>
+    <field name="unitdate_end_sim">1850</field>
+    <field name="unitdate_end_ssm">1850</field>
+    <field name="unitdate_end_si">1850</field>
+    <field name="unitdate_ssm">Inclusive, circa 1800</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

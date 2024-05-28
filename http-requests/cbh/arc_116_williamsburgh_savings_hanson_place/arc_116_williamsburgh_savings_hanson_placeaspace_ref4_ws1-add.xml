@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_116_williamsburgh_savings_hanson_placeaspace_ref4_ws1</field>
+    <field name="ead_ssi">arc_116_williamsburgh_savings_hanson_place</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Williamsburgh Savings Bank Building photographs and architectural drawings</field>
+    <field name="collection_ssm">Williamsburgh Savings Bank Building photographs and architectural drawings</field>
+    <field name="collection_unitid_ssm">ARC.116</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Architectural drawings</field>
+    <field name="unittitle_teim">Series 2: Architectural drawings</field>
+    <field name="unitdate_normal_ssm">1910/2001</field>
+    <field name="unitdate_normal_ssm">1927/1929</field>
+    <field name="unitdate_normal_teim">1910/2001</field>
+    <field name="unitdate_normal_teim">1927/1929</field>
+    <field name="unitdate_normal_sim">1910/2001</field>
+    <field name="unitdate_normal_sim">1927/1929</field>
+    <field name="unitdate_bulk_teim">1927-1929</field>
+    <field name="unitdate_inclusive_teim">1910-2001</field>
+    <field name="scopecontent_teim">This series consists of approximately 200 architectural drawings and plans for the design and construction of One Hanson Place. The architectural drawings include ground plans, elevations, architectural drawings, technical drawings pertaining to plumbing layouts, mechanical drawings, vault plans, electrical and lighting layouts, and supporting design documents.</field>
+    <field name="scopecontent_teim">A detailed preliminary inventory of architectural drawings, completed in 2007, is available at Brooklyn Historical Society's Othmer Library.</field>
+    <field name="ref_ssi">aspace_ref4_ws1</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Folder: Flat File</field>
+    <field name="location_si">Folder: Flat File</field>
+    <field name="collection_teim">Williamsburgh Savings Bank Building photographs and architectural drawings</field>
+    <field name="collection_unitid_teim">ARC.116</field>
+    <field name="series_si">Series 2: Architectural drawings</field>
+    <field name="heading_ssm">Series 2: Architectural drawings</field>
+    <field name="unitdate_start_sim">1910</field>
+    <field name="unitdate_start_sim">1927</field>
+    <field name="unitdate_start_ssm">1910</field>
+    <field name="unitdate_start_ssm">1927</field>
+    <field name="unitdate_start_si">1927</field>
+    <field name="unitdate_end_sim">2001</field>
+    <field name="unitdate_end_sim">1929</field>
+    <field name="unitdate_end_ssm">2001</field>
+    <field name="unitdate_end_ssm">1929</field>
+    <field name="unitdate_end_si">1929</field>
+    <field name="unitdate_ssm">Inclusive, 1910-2001 ; 1927-1929</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">16</field>
+  </doc>
+</add>

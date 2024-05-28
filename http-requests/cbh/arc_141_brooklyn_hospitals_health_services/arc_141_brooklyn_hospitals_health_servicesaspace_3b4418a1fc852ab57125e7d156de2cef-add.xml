@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_141_brooklyn_hospitals_health_servicesaspace_3b4418a1fc852ab57125e7d156de2cef</field>
+    <field name="ead_ssi">arc_141_brooklyn_hospitals_health_services</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn hospitals and health services organizations collection</field>
+    <field name="collection_ssm">Brooklyn hospitals and health services organizations collection</field>
+    <field name="collection_unitid_ssm">ARC.141</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Brooklyn Nursery and Infants' Hospital</field>
+    <field name="unittitle_teim">Brooklyn Nursery and Infants' Hospital</field>
+    <field name="unitdate_normal_ssm">1872/1914</field>
+    <field name="unitdate_normal_teim">1872/1914</field>
+    <field name="unitdate_normal_sim">1872/1914</field>
+    <field name="unitdate_inclusive_teim">1872-1914</field>
+    <field name="bioghist_teim">Originally called The Brooklyn Nursery.</field>
+    <field name="ref_ssi">aspace_3b4418a1fc852ab57125e7d156de2cef</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 8-10</field>
+    <field name="location_ssm">Folder: 8-10</field>
+    <field name="location_si">Folder: 8-10</field>
+    <field name="collection_teim">Brooklyn hospitals and health services organizations collection</field>
+    <field name="collection_unitid_teim">ARC.141</field>
+    <field name="series_si">Brooklyn Nursery and Infants' Hospital</field>
+    <field name="heading_ssm">Brooklyn Nursery and Infants' Hospital</field>
+    <field name="unitdate_start_sim">1872</field>
+    <field name="unitdate_start_ssm">1872</field>
+    <field name="unitdate_start_si">1872</field>
+    <field name="unitdate_end_sim">1914</field>
+    <field name="unitdate_end_ssm">1914</field>
+    <field name="unitdate_end_si">1914</field>
+    <field name="unitdate_ssm">Inclusive, 1872-1914</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">18</field>
+  </doc>
+</add>

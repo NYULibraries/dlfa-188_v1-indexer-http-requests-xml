@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0030aspace_4ee2ada456829a4e1b1dc94c6387a050</field>
+    <field name="ead_ssi">bcms_0030</field>
+    <field name="parent_ssi">aspace_ref24</field>
+    <field name="parent_ssm">aspace_ref24</field>
+    <field name="parent_unittitles_ssm">Bishop Ford Central High School</field>
+    <field name="parent_unittitles_teim">Bishop Ford Central High School</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0030</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">&lt;em&gt;High Point&lt;/em&gt;, Vol. 2, No. 2</field>
+    <field name="unittitle_teim">High Point, Vol. 2, No. 2</field>
+    <field name="unitdate_normal_ssm">1964-05/1964-05</field>
+    <field name="unitdate_normal_teim">1964-05/1964-05</field>
+    <field name="unitdate_normal_sim">1964-05/1964-05</field>
+    <field name="unitdate_teim">May 1964</field>
+    <field name="ref_ssi">aspace_4ee2ada456829a4e1b1dc94c6387a050</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_teim">BCMS.0030</field>
+    <field name="series_sim">Bishop Ford Central High School</field>
+    <field name="series_si">Bishop Ford Central High School &gt;&gt; &lt;em&gt;High Point&lt;/em&gt;, Vol. 2, No. 2</field>
+    <field name="heading_ssm">High Point, Vol. 2, No. 2</field>
+    <field name="unitdate_ssm">May 1964</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">13</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_104_wenmanaspace_ref35_ke6</field>
+    <field name="ead_ssi">arc_104_wenman</field>
+    <field name="parent_ssi">aspace_ref13_tlz</field>
+    <field name="parent_ssm">aspace_ref13_tlz</field>
+    <field name="parent_unittitles_ssm">Series 4: Wenman legal and real estate papers</field>
+    <field name="parent_unittitles_teim">Series 4: Wenman legal and real estate papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Charles Henry Wenman papers</field>
+    <field name="collection_ssm">Charles Henry Wenman papers</field>
+    <field name="collection_unitid_ssm">ARC.104</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 3: Real estate</field>
+    <field name="unittitle_teim">Sub-series 3: Real estate</field>
+    <field name="unitdate_teim">1914</field>
+    <field name="scopecontent_teim">Sub-series 3, Real estate, 1914, includes correspondence and building specifications of property owned by Wenman at Academy and Webster Streets in Long Island City, New York.</field>
+    <field name="ref_ssi">aspace_ref35_ke6</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Charles Henry Wenman papers</field>
+    <field name="collection_unitid_teim">ARC.104</field>
+    <field name="series_sim">Series 4: Wenman legal and real estate papers</field>
+    <field name="series_si">Series 4: Wenman legal and real estate papers &gt;&gt; Sub-series 3: Real estate</field>
+    <field name="heading_ssm">Sub-series 3: Real estate</field>
+    <field name="unitdate_ssm">1914</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

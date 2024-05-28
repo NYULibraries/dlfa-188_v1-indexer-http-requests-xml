@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">2013_008aspace_ref2_spg</field>
+    <field name="ead_ssi">2013_008</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Schlagel and Wolf family papers</field>
+    <field name="collection_ssm">Schlagel and Wolf family papers</field>
+    <field name="collection_unitid_ssm">2013.008</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Mildred Wolf Drucker papers</field>
+    <field name="unittitle_teim">Series 1: Mildred Wolf Drucker papers</field>
+    <field name="unitdate_normal_ssm">1914/1980</field>
+    <field name="unitdate_normal_ssm">1919/1959</field>
+    <field name="unitdate_normal_teim">1914/1980</field>
+    <field name="unitdate_normal_teim">1919/1959</field>
+    <field name="unitdate_normal_sim">1914/1980</field>
+    <field name="unitdate_normal_sim">1919/1959</field>
+    <field name="unitdate_bulk_teim">1919-1959</field>
+    <field name="unitdate_inclusive_teim">1914-1980s</field>
+    <field name="scopecontent_teim">Contains papers regarding the estate of Alexander Wolf, including business correspondence and canceled checks from Wolf's Shoes. Also contains the following items from the Wolf Shoe Store: two pairs of metal shoe trees, one wooden shoe stretcher, cobbler tools, and one metal bracket labeled "Home Shoe Shiner." There is also a ledger book containing accounts for rental properties at 1007 and 1009 Flushing Avenue (circa 1928-1939). The papers also include receipts and correspondence regarding general expenses (fuel, Con Ed, telephone) and maintenance for a home at 1508 Sheepshead Court (circa 1950s), as well as miscellaneous material regarding a home at 3310 Shore Parkway (sold 1959). This series also includes information, application forms, practice tests, a study book for civil service stenographer/typist positions (circa 1950s) and correspondence regarding payment for secretarial work.</field>
+    <field name="ref_ssi">aspace_ref2_spg</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Schlagel and Wolf family papers</field>
+    <field name="collection_unitid_teim">2013.008</field>
+    <field name="series_si">Series 1: Mildred Wolf Drucker papers</field>
+    <field name="heading_ssm">Series 1: Mildred Wolf Drucker papers</field>
+    <field name="unitdate_start_sim">1914</field>
+    <field name="unitdate_start_sim">1919</field>
+    <field name="unitdate_start_ssm">1914</field>
+    <field name="unitdate_start_ssm">1919</field>
+    <field name="unitdate_start_si">1919</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_sim">1959</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_ssm">1959</field>
+    <field name="unitdate_end_si">1959</field>
+    <field name="unitdate_ssm">Inclusive, 1914-1980s ; 1919-1959</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

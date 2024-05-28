@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_006_bergenaspace_ref641_ih1</field>
+    <field name="ead_ssi">arc_006_bergen</field>
+    <field name="parent_ssi">aspace_ref636_ztw</field>
+    <field name="parent_ssm">aspace_ref636_ztw</field>
+    <field name="parent_unittitles_ssm">Group 1: Teunis G. Bergen papers</field>
+    <field name="parent_unittitles_teim">Group 1: Teunis G. Bergen papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_ssm">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_ssm">ARC.006</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 7: Surveying records</field>
+    <field name="unittitle_teim">Series 7: Surveying records</field>
+    <field name="unitdate_normal_ssm">1704/1877</field>
+    <field name="unitdate_normal_teim">1704/1877</field>
+    <field name="unitdate_normal_sim">1704/1877</field>
+    <field name="unitdate_inclusive_teim">1704-1877</field>
+    <field name="scopecontent_teim">Surveying records is organized into seven subseries and documents the various duties carried out by Teunis G. Bergen as a surveyor.  The series is comprised primarily of maps and surveys of land owned by residents of Brooklyn and its environs, as well as roads and streets in the area, providing a glimpse into the evolution of Brooklyn's geography and physical infrastructure in the mid-to-late 19th century.  Also included are drafts of legal documents, including deeds and legal land descriptions; building specifications of houses in Brooklyn; notes and calculations recorded by Bergen in the course of his surveying work; and title searches undertaken by Bergen to support his surveying work.  The series is organized into seven subseries: Bound surveys; Drafts of legal documents; Field notes and calculations; Maps and surveys; Map tracings and land descriptions; Specifications of houses; and Title searches.  Subseries 1 is comprised of five bound and numbered volumes, arranged in numerical order.  Subseries 2, 3, 5, 6, and 7 are arranged alphabetically according to the personal name of a propert owner or the property's name.  Subseries 4 is organized alphabetically by neighborhood name, and thereafter by the property owner's name.</field>
+    <field name="ref_ssi">aspace_ref641_ih1</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_teim">ARC.006</field>
+    <field name="series_sim">Group 1: Teunis G. Bergen papers</field>
+    <field name="series_si">Group 1: Teunis G. Bergen papers &gt;&gt; Series 7: Surveying records</field>
+    <field name="heading_ssm">Series 7: Surveying records</field>
+    <field name="unitdate_start_sim">1704</field>
+    <field name="unitdate_start_ssm">1704</field>
+    <field name="unitdate_start_si">1704</field>
+    <field name="unitdate_end_sim">1877</field>
+    <field name="unitdate_end_ssm">1877</field>
+    <field name="unitdate_end_si">1877</field>
+    <field name="unitdate_ssm">Inclusive, 1704-1877</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">256</field>
+  </doc>
+</add>

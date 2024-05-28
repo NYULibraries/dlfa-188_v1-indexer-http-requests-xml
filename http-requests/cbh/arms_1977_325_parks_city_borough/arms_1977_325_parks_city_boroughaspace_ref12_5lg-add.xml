@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1977_325_parks_city_boroughaspace_ref12_5lg</field>
+    <field name="ead_ssi">arms_1977_325_parks_city_borough</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Department of Parks, City and Borough of Brooklyn records</field>
+    <field name="collection_ssm">Department of Parks, City and Borough of Brooklyn records</field>
+    <field name="collection_unitid_ssm">1977.325</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Finances</field>
+    <field name="unittitle_teim">Series 3: Finances</field>
+    <field name="unitdate_normal_ssm">1856/1945</field>
+    <field name="unitdate_normal_ssm">1870/1910</field>
+    <field name="unitdate_normal_teim">1856/1945</field>
+    <field name="unitdate_normal_teim">1870/1910</field>
+    <field name="unitdate_normal_sim">1856/1945</field>
+    <field name="unitdate_normal_sim">1870/1910</field>
+    <field name="unitdate_bulk_teim">1870-1910</field>
+    <field name="unitdate_inclusive_teim">1856-1945</field>
+    <field name="scopecontent_teim">This series consists of materials relating to financial concerns of the Department of Parks, the Brooklyn Parks Commission, and New York City Parks Department. Materials represented in this series include accounts, bank records, receipts, financial statements, vouchers, assessments, and correspondence.</field>
+    <field name="ref_ssi">aspace_ref12_5lg</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Department of Parks, City and Borough of Brooklyn records</field>
+    <field name="collection_unitid_teim">1977.325</field>
+    <field name="series_si">Series 3: Finances</field>
+    <field name="heading_ssm">Series 3: Finances</field>
+    <field name="unitdate_start_sim">1856</field>
+    <field name="unitdate_start_sim">1870</field>
+    <field name="unitdate_start_ssm">1856</field>
+    <field name="unitdate_start_ssm">1870</field>
+    <field name="unitdate_start_si">1870</field>
+    <field name="unitdate_end_sim">1945</field>
+    <field name="unitdate_end_sim">1910</field>
+    <field name="unitdate_end_ssm">1945</field>
+    <field name="unitdate_end_ssm">1910</field>
+    <field name="unitdate_end_si">1910</field>
+    <field name="unitdate_ssm">Inclusive, 1856-1945 ; 1870-1910</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

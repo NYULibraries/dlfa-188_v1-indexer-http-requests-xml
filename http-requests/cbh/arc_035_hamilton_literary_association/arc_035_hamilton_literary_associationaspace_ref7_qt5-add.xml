@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_035_hamilton_literary_associationaspace_ref7_qt5</field>
+    <field name="ead_ssi">arc_035_hamilton_literary_association</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hamilton Literary Association and Hamilton Club records</field>
+    <field name="collection_ssm">Hamilton Literary Association and Hamilton Club records</field>
+    <field name="collection_unitid_ssm">ARC.035</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Hamilton Literary Association</field>
+    <field name="unittitle_teim">Series 1: Hamilton Literary Association</field>
+    <field name="unitdate_normal_ssm">1835/1874</field>
+    <field name="unitdate_normal_teim">1835/1874</field>
+    <field name="unitdate_normal_sim">1835/1874</field>
+    <field name="unitdate_inclusive_teim">1835-1874</field>
+    <field name="scopecontent_teim">This series contains materials pertaining to the Hamilton Literary Association.  Items consist of an undated constitution, a pamphlet conveying the constitution and bylaws for the year 1859, minutes of the Executive Committee for the years 1842 to 1862, attendance dues and records for the period 1837 to 1843, two ledgers documenting member dues and payments for the period 1843 to 1872, and Association minutes from 1835 to 1874, though there are gaps during the years 1844 to 1848.</field>
+    <field name="ref_ssi">aspace_ref7_qt5</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Hamilton Literary Association and Hamilton Club records</field>
+    <field name="collection_unitid_teim">ARC.035</field>
+    <field name="series_si">Series 1: Hamilton Literary Association</field>
+    <field name="heading_ssm">Series 1: Hamilton Literary Association</field>
+    <field name="unitdate_start_sim">1835</field>
+    <field name="unitdate_start_ssm">1835</field>
+    <field name="unitdate_start_si">1835</field>
+    <field name="unitdate_end_sim">1874</field>
+    <field name="unitdate_end_ssm">1874</field>
+    <field name="unitdate_end_si">1874</field>
+    <field name="unitdate_ssm">Inclusive, 1835-1874</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

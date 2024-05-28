@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_206aspace_ref2_ho0</field>
+    <field name="ead_ssi">arc_206</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Autograph Manuscript collection</field>
+    <field name="collection_ssm">Autograph Manuscript collection</field>
+    <field name="collection_unitid_ssm">ARC.206</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Arnold, Benedict</field>
+    <field name="unittitle_teim">Arnold, Benedict</field>
+    <field name="unitid_teim">1974.001 folder 2</field>
+    <field name="unitid_ssm">1974.001 folder 2</field>
+    <field name="unitdate_normal_ssm">1754/1780</field>
+    <field name="unitdate_normal_teim">1754/1780</field>
+    <field name="unitdate_normal_sim">1754/1780</field>
+    <field name="unitdate_inclusive_teim">1754, 1772, 1775, 1780 </field>
+    <field name="scopecontent_teim">1754 letter from Hannah Arnold, at Norwich, to her son Benedict, at Canterbury, with parental advice;  1775 letter from Adj. General Horatio Gates to Colonel Benedict Arnold, at Watertown, re: Arnold's departure from Cambridge and his 'plan', mentions General Schuyler and General George Washington;  1780 letter from Benedict Arnold, at "Head Quarters Robinsons House," addressed to "Madam", re: food stores and the need for a house maid, mentions Mrs. Arnold.</field>
+    <field name="ref_ssi">aspace_ref2_ho0</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_ssm">Box: OS-35</field>
+    <field name="location_si">Box: OS-35</field>
+    <field name="collection_teim">Autograph Manuscript collection</field>
+    <field name="collection_unitid_teim">ARC.206</field>
+    <field name="series_si">Arnold, Benedict</field>
+    <field name="heading_ssm">Arnold, Benedict</field>
+    <field name="unitdate_start_sim">1754</field>
+    <field name="unitdate_start_ssm">1754</field>
+    <field name="unitdate_start_si">1754</field>
+    <field name="unitdate_end_sim">1780</field>
+    <field name="unitdate_end_ssm">1780</field>
+    <field name="unitdate_end_si">1780</field>
+    <field name="unitdate_ssm">Inclusive, 1754, 1772, 1775, 1780 </field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

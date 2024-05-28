@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">1993_001aspace_2ba96b473032a5495cd7a17a78d671c0</field>
+    <field name="ead_ssi">1993_001</field>
+    <field name="parent_ssi">aspace_ref1_jhw</field>
+    <field name="parent_ssm">aspace_ref1_jhw</field>
+    <field name="parent_unittitles_ssm">Series 1: Oral histories</field>
+    <field name="parent_unittitles_teim">Series 1: Oral histories</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_ssm">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_unitid_ssm">1993.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[Photographs of interviewees]</field>
+    <field name="unittitle_teim">[Photographs of interviewees]</field>
+    <field name="unitdate_normal_ssm">1983/2003</field>
+    <field name="unitdate_normal_teim">1983/2003</field>
+    <field name="unitdate_normal_sim">1983/2003</field>
+    <field name="unitdate_inclusive_teim">circa 1993</field>
+    <field name="ref_ssi">aspace_2ba96b473032a5495cd7a17a78d671c0</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10, Folder: 19</field>
+    <field name="location_ssm">Folder: 19</field>
+    <field name="location_si">Folder: 19</field>
+    <field name="collection_teim">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_unitid_teim">1993.001</field>
+    <field name="series_sim">Series 1: Oral histories</field>
+    <field name="series_si">Series 1: Oral histories &gt;&gt; [Photographs of interviewees]</field>
+    <field name="heading_ssm">[Photographs of interviewees]</field>
+    <field name="unitdate_start_sim">1983</field>
+    <field name="unitdate_start_ssm">1983</field>
+    <field name="unitdate_start_si">1983</field>
+    <field name="unitdate_end_sim">2003</field>
+    <field name="unitdate_end_ssm">2003</field>
+    <field name="unitdate_end_si">2003</field>
+    <field name="unitdate_ssm">Inclusive, circa 1993</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">30</field>
+  </doc>
+</add>

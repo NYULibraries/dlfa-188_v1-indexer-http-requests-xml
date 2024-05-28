@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0031aspace_ref242</field>
+    <field name="ead_ssi">bcms_0031</field>
+    <field name="parent_ssi">aspace_ref66</field>
+    <field name="parent_ssm">aspace_ref66</field>
+    <field name="parent_unittitles_ssm">East New York Vocational School</field>
+    <field name="parent_unittitles_teim">East New York Vocational School</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Yearbook Collection</field>
+    <field name="collection_ssm">Brooklyn Yearbook Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0031</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Crossroads</field>
+    <field name="unittitle_teim">Crossroads</field>
+    <field name="unitdate_normal_ssm">1944/1964</field>
+    <field name="unitdate_normal_teim">1944/1964</field>
+    <field name="unitdate_normal_sim">1944/1964</field>
+    <field name="unitdate_inclusive_teim">1944-1964</field>
+    <field name="scopecontent_teim">June 1944, January 1945, January 1946, January 1947, January 1948, June 1948, January 1949, January 1950, January 1951, June 1951, January 1952, June 1952, June 1953, June 1954, June 1955, June 1956, June 1957, June 1958, June 1959, June 1960, June 1961, June 1962, June 1963, June 1964</field>
+    <field name="ref_ssi">aspace_ref242</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">cabinet: 3C shelves</field>
+    <field name="location_si">cabinet: 3C shelves</field>
+    <field name="collection_teim">Brooklyn Yearbook Collection</field>
+    <field name="collection_unitid_teim">BCMS.0031</field>
+    <field name="series_sim">East New York Vocational School</field>
+    <field name="series_si">East New York Vocational School &gt;&gt; Crossroads</field>
+    <field name="heading_ssm">Crossroads</field>
+    <field name="unitdate_start_sim">1944</field>
+    <field name="unitdate_start_ssm">1944</field>
+    <field name="unitdate_start_si">1944</field>
+    <field name="unitdate_end_sim">1964</field>
+    <field name="unitdate_end_ssm">1964</field>
+    <field name="unitdate_end_si">1964</field>
+    <field name="unitdate_ssm">Inclusive, 1944-1964</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">96</field>
+  </doc>
+</add>

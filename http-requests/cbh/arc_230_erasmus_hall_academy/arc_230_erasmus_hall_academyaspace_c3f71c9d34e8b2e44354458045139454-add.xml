@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_230_erasmus_hall_academyaspace_c3f71c9d34e8b2e44354458045139454</field>
+    <field name="ead_ssi">arc_230_erasmus_hall_academy</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Erasmus Hall collection</field>
+    <field name="collection_ssm">Erasmus Hall collection</field>
+    <field name="collection_unitid_ssm">ARC.230</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Erasmus Hall Academy</field>
+    <field name="unittitle_teim">Series 1: Erasmus Hall Academy</field>
+    <field name="unitdate_normal_ssm">1786/1896</field>
+    <field name="unitdate_normal_teim">1786/1896</field>
+    <field name="unitdate_normal_sim">1786/1896</field>
+    <field name="unitdate_inclusive_teim">1786-1896</field>
+    <field name="ref_ssi">aspace_c3f71c9d34e8b2e44354458045139454</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Erasmus Hall collection</field>
+    <field name="collection_unitid_teim">ARC.230</field>
+    <field name="series_si">Series 1: Erasmus Hall Academy</field>
+    <field name="heading_ssm">Series 1: Erasmus Hall Academy</field>
+    <field name="unitdate_start_sim">1786</field>
+    <field name="unitdate_start_ssm">1786</field>
+    <field name="unitdate_start_si">1786</field>
+    <field name="unitdate_end_sim">1896</field>
+    <field name="unitdate_end_ssm">1896</field>
+    <field name="unitdate_end_si">1896</field>
+    <field name="unitdate_ssm">Inclusive, 1786-1896</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

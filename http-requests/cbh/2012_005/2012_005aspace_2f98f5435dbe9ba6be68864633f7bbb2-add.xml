@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">2012_005aspace_2f98f5435dbe9ba6be68864633f7bbb2</field>
+    <field name="ead_ssi">2012_005</field>
+    <field name="parent_ssi">aspace_11a17bd047f952f7626defe929d7fe04</field>
+    <field name="parent_ssm">aspace_11a17bd047f952f7626defe929d7fe04</field>
+    <field name="parent_unittitles_ssm">Series 1: Real Estate records</field>
+    <field name="parent_unittitles_teim">Series 1: Real Estate records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Van Pelt family collection</field>
+    <field name="collection_ssm">Van Pelt family collection</field>
+    <field name="collection_unitid_ssm">2012.005</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Matawan Township Property Receipts and Correspondence</field>
+    <field name="unittitle_teim">Matawan Township Property Receipts and Correspondence</field>
+    <field name="unitdate_normal_ssm">1933/1941</field>
+    <field name="unitdate_normal_teim">1933/1941</field>
+    <field name="unitdate_normal_sim">1933/1941</field>
+    <field name="unitdate_inclusive_teim">1933-1941</field>
+    <field name="ref_ssi">aspace_2f98f5435dbe9ba6be68864633f7bbb2</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 13</field>
+    <field name="location_ssm">Folder: 13</field>
+    <field name="location_si">Folder: 13</field>
+    <field name="collection_teim">Van Pelt family collection</field>
+    <field name="collection_unitid_teim">2012.005</field>
+    <field name="series_sim">Series 1: Real Estate records</field>
+    <field name="series_si">Series 1: Real Estate records &gt;&gt; Matawan Township Property Receipts and Correspondence</field>
+    <field name="heading_ssm">Matawan Township Property Receipts and Correspondence</field>
+    <field name="unitdate_start_sim">1933</field>
+    <field name="unitdate_start_ssm">1933</field>
+    <field name="unitdate_start_si">1933</field>
+    <field name="unitdate_end_sim">1941</field>
+    <field name="unitdate_end_ssm">1941</field>
+    <field name="unitdate_end_si">1941</field>
+    <field name="unitdate_ssm">Inclusive, 1933-1941</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">34</field>
+  </doc>
+</add>

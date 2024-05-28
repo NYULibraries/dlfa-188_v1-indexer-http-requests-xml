@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_138_brooklyn_institute_arts_sciencesaspace_81b88aac4819c2eddd8b42ab02b293b0</field>
+    <field name="ead_ssi">arc_138_brooklyn_institute_arts_sciences</field>
+    <field name="parent_ssi">aspace_7aa515a444587f988d8aef06aeaf0e94</field>
+    <field name="parent_ssm">aspace_7aa515a444587f988d8aef06aeaf0e94</field>
+    <field name="parent_unittitles_ssm">Brooklyn Academy of Music</field>
+    <field name="parent_unittitles_teim">Brooklyn Academy of Music</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
+    <field name="collection_ssm">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
+    <field name="collection_unitid_ssm">ARC.138</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Programs and ephemera</field>
+    <field name="unittitle_teim">Programs and ephemera</field>
+    <field name="ref_ssi">aspace_81b88aac4819c2eddd8b42ab02b293b0</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
+    <field name="collection_unitid_teim">ARC.138</field>
+    <field name="series_sim">Brooklyn Academy of Music</field>
+    <field name="series_si">Brooklyn Academy of Music &gt;&gt; Programs and ephemera</field>
+    <field name="heading_ssm">Programs and ephemera</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">62</field>
+  </doc>
+</add>

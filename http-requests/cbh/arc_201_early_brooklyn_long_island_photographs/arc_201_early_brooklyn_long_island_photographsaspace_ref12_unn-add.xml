@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_201_early_brooklyn_long_island_photographsaspace_ref12_unn</field>
+    <field name="ead_ssi">arc_201_early_brooklyn_long_island_photographs</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Early Brooklyn and Long Island photograph collection</field>
+    <field name="collection_ssm">Early Brooklyn and Long Island photograph collection</field>
+    <field name="collection_unitid_ssm">ARC.201</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: George Bradford Brainerd photographs</field>
+    <field name="unittitle_teim">Series 1: George Bradford Brainerd photographs</field>
+    <field name="unitdate_normal_ssm">1870/1880</field>
+    <field name="unitdate_normal_teim">1870/1880</field>
+    <field name="unitdate_normal_sim">1870/1880</field>
+    <field name="unitdate_inclusive_teim">circa 1870 to 1880</field>
+    <field name="scopecontent_teim">This series consists of (roughly) 300 black-and-white photographic prints taken by George Bradford Brainerd (1845-1887). The photographs were taken from circa 1870 to 1880 and depict both the built environment (historic houses, churches, mills, reservoirs, and railroad stations, among others) and the natural environment (harbors, bays, creeks, and ponds, among others). The majority of photographs show locations and town on Long Island, primarily in Suffolk County, though there are some views of locations in Brooklyn. Views of towns in the series include (but are not limited to) Shelter Island, N.Y., Sag Harbor, N.Y., Port Jefferson, N.Y., Hempstead, N.Y., Southold, N.Y., Southampton, N.Y., and Huntington, N.Y.</field>
+    <field name="ref_ssi">aspace_ref12_unn</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Early Brooklyn and Long Island photograph collection</field>
+    <field name="collection_unitid_teim">ARC.201</field>
+    <field name="series_si">Series 1: George Bradford Brainerd photographs</field>
+    <field name="heading_ssm">Series 1: George Bradford Brainerd photographs</field>
+    <field name="unitdate_start_sim">1870</field>
+    <field name="unitdate_start_ssm">1870</field>
+    <field name="unitdate_start_si">1870</field>
+    <field name="unitdate_end_sim">1880</field>
+    <field name="unitdate_end_ssm">1880</field>
+    <field name="unitdate_end_si">1880</field>
+    <field name="unitdate_ssm">Inclusive, circa 1870 to 1880</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

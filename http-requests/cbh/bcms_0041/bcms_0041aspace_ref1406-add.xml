@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0041aspace_ref1406</field>
+    <field name="ead_ssi">bcms_0041</field>
+    <field name="parent_ssi">aspace_ref1401</field>
+    <field name="parent_ssm">aspace_ref1401</field>
+    <field name="parent_unittitles_ssm">Park Theatre</field>
+    <field name="parent_unittitles_teim">Park Theatre</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_ssm">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0041</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Jim The Penman</field>
+    <field name="unittitle_teim">Jim The Penman</field>
+    <field name="unitdate_teim">September 19, 1887</field>
+    <field name="ref_ssi">aspace_ref1406</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_si">Box: 2</field>
+    <field name="collection_teim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_teim">BCMS.0041</field>
+    <field name="series_sim">Park Theatre</field>
+    <field name="series_si">Park Theatre &gt;&gt; Jim The Penman</field>
+    <field name="heading_ssm">Jim The Penman</field>
+    <field name="unitdate_ssm">September 19, 1887</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">732</field>
+  </doc>
+</add>

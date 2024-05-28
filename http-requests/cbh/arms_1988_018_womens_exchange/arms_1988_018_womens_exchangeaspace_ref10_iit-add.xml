@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1988_018_womens_exchangeaspace_ref10_iit</field>
+    <field name="ead_ssi">arms_1988_018_womens_exchange</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Women's Exchange of Brooklyn records</field>
+    <field name="collection_ssm">Women's Exchange of Brooklyn records</field>
+    <field name="collection_unitid_ssm">1988.018</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Finances, reports, and legal documents</field>
+    <field name="unittitle_teim">Series 2: Finances, reports, and legal documents</field>
+    <field name="unitdate_normal_ssm">1863/1964</field>
+    <field name="unitdate_normal_teim">1863/1964</field>
+    <field name="unitdate_normal_sim">1863/1964</field>
+    <field name="unitdate_inclusive_teim">1863-1964</field>
+    <field name="scopecontent_teim">This series consists of financial documentation, annual reports and audits, and legal documents. Of particular note are the receipts and expenditures reports that outline the monthly expenses and income of the Women's Exchange. Also included in this series is a constitution that describes the mission of the Women's Exchange and a 1958 rules booklet that governed its actions.</field>
+    <field name="ref_ssi">aspace_ref10_iit</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Women's Exchange of Brooklyn records</field>
+    <field name="collection_unitid_teim">1988.018</field>
+    <field name="series_si">Series 2: Finances, reports, and legal documents</field>
+    <field name="heading_ssm">Series 2: Finances, reports, and legal documents</field>
+    <field name="unitdate_start_sim">1863</field>
+    <field name="unitdate_start_ssm">1863</field>
+    <field name="unitdate_start_si">1863</field>
+    <field name="unitdate_end_sim">1964</field>
+    <field name="unitdate_end_ssm">1964</field>
+    <field name="unitdate_end_si">1964</field>
+    <field name="unitdate_ssm">Inclusive, 1863-1964</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

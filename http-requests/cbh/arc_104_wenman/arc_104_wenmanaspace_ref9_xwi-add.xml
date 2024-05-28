@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_104_wenmanaspace_ref9_xwi</field>
+    <field name="ead_ssi">arc_104_wenman</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Charles Henry Wenman papers</field>
+    <field name="collection_ssm">Charles Henry Wenman papers</field>
+    <field name="collection_unitid_ssm">ARC.104</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Personal correspondence</field>
+    <field name="unittitle_teim">Series 1: Personal correspondence</field>
+    <field name="unitdate_normal_ssm">1899/1950</field>
+    <field name="unitdate_normal_ssm">1915/1940</field>
+    <field name="unitdate_normal_teim">1899/1950</field>
+    <field name="unitdate_normal_teim">1915/1940</field>
+    <field name="unitdate_normal_sim">1899/1950</field>
+    <field name="unitdate_normal_sim">1915/1940</field>
+    <field name="unitdate_bulk_teim">1915-1940</field>
+    <field name="unitdate_inclusive_teim">1899-1950</field>
+    <field name="scopecontent_teim">This series contains over 2,000 letters written mostly to Charles Wenman from his extended family members. Of particular interest are letters to and from the Hilfers, Wenman's relatives in Australia on his mother's side. Kathleen Hilfers kept up a correspondence with Charles from 1918-1949, relating events in the Outback of Australia, where she lived, as well as genealogical ties between English, Australian, and American relatives.</field>
+    <field name="scopecontent_teim">The series also contains correspondence to and from various Fish family members. Of particular interest is an obituary written by Wenman following the death of Edward Harriman in 1909. Stuyvesant Fish's response to Wenman's obituary and to the death of Harriman, his one time friend turned foe, can also be found in folder 8. Upon the death of Stuyvesant in 1923, Wenman inherited $5,000. Wenman was also invited to the marriage of Marion Fish Gray on September 12, 1907, and inherited money from her estate as well. Throughout the family correspondence, the picture of Wenman's personal and family life can be seen. An avid gift-giver to his family members, Wenman kept in close contact with relatives, particularly nieces, nephews, and cousins. The correspondence chronicles the ups and downs of a family through war, hardships, arguments, and happy moments. Some non-family related letters deal with Wenman's membership in the Saint Nicholas Society, the Australian Eucalyptus Chemical Company, and Wenman's protest against the American Association Favoring Reconsideration of War Debt.</field>
+    <field name="ref_ssi">aspace_ref9_xwi</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Charles Henry Wenman papers</field>
+    <field name="collection_unitid_teim">ARC.104</field>
+    <field name="series_si">Series 1: Personal correspondence</field>
+    <field name="heading_ssm">Series 1: Personal correspondence</field>
+    <field name="unitdate_start_sim">1899</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1899</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1950</field>
+    <field name="unitdate_end_sim">1940</field>
+    <field name="unitdate_end_ssm">1950</field>
+    <field name="unitdate_end_ssm">1940</field>
+    <field name="unitdate_end_si">1940</field>
+    <field name="unitdate_ssm">Inclusive, 1899-1950 ; 1915-1940</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

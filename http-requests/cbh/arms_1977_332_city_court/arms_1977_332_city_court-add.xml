@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">Brooklyn City Court records</field>
+    <field name="unittitle_ssm">Brooklyn City Court records</field>
+    <field name="unitid_teim">1977.332</field>
+    <field name="unitid_ssm">1977.332</field>
+    <field name="abstract_teim">The records consist of two unbound ledgers containing handwritten lists of decisions issued by the Brooklyn City Court from 1893 to 1894, and notations on motions, witnesses and decisions in cases before Joseph A. Burr of the Kings County Supreme Court in 1905.</field>
+    <field name="abstract_ssm">The records consist of two unbound ledgers containing handwritten lists of decisions issued by the Brooklyn City Court from 1893 to 1894, and notations on motions, witnesses and decisions in cases before Joseph A. Burr of the Kings County Supreme Court in 1905.</field>
+    <field name="unitdate_normal_ssm">1893/1905</field>
+    <field name="unitdate_normal_teim">1893/1905</field>
+    <field name="unitdate_normal_sim">1893/1905</field>
+    <field name="unitdate_inclusive_teim">1893-1905</field>
+    <field name="scopecontent_teim">The records consist of two unbound ledgers containing handwritten lists of decisions issued by the Brooklyn City Court from 1893 to 1894, and notations on motions, witnesses and decisions in cases before Joseph A. Burr of the Kings County Supreme Court in 1905.</field>
+    <field name="acqinfo_teim">Source and date of acquisition unknown. The records were formally accessioned in 1977.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_teim">New York (State). City Court (Brooklyn)</field>
+    <field name="corpname_teim">Kings County (N.Y.). Supreme Court</field>
+    <field name="corpname_teim">Kings County (N.Y.). Supreme Court</field>
+    <field name="corpname_teim">New York (State). City Court (Brooklyn)</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">New York (State). City Court (Brooklyn)</field>
+    <field name="corpname_ssm">Kings County (N.Y.). Supreme Court</field>
+    <field name="corpname_ssm">Kings County (N.Y.). Supreme Court</field>
+    <field name="corpname_ssm">New York (State). City Court (Brooklyn)</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_teim">Court records -- New York (State) -- Kings County</field>
+    <field name="subject_teim">Legal documents -- New York (State) -- Kings County</field>
+    <field name="subject_teim">Court records -- New York (State) -- Kings County</field>
+    <field name="subject_teim">Legal documents -- New York (State) -- Kings County</field>
+    <field name="subject_ssm">Court records -- New York (State) -- Kings County</field>
+    <field name="subject_ssm">Legal documents -- New York (State) -- Kings County</field>
+    <field name="collection_sim">Brooklyn City Court records</field>
+    <field name="collection_ssm">Brooklyn City Court records</field>
+    <field name="collection_teim">Brooklyn City Court records</field>
+    <field name="id">arms_1977_332_city_court</field>
+    <field name="ead_ssi">arms_1977_332_city_court</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">New York (State). City Court (Brooklyn)</field>
+    <field name="name_sim">Kings County (N.Y.). Supreme Court</field>
+    <field name="name_teim">New York (State). City Court (Brooklyn)</field>
+    <field name="name_teim">Kings County (N.Y.). Supreme Court</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_sim">Court records -- New York (State) -- Kings County</field>
+    <field name="subject_sim">Legal documents -- New York (State) -- Kings County</field>
+    <field name="heading_ssm">Brooklyn City Court records</field>
+    <field name="unitdate_start_sim">1893</field>
+    <field name="unitdate_start_ssm">1893</field>
+    <field name="unitdate_start_si">1893</field>
+    <field name="unitdate_end_sim">1905</field>
+    <field name="unitdate_end_ssm">1905</field>
+    <field name="unitdate_end_si">1905</field>
+    <field name="unitdate_ssm">Inclusive, 1893-1905</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

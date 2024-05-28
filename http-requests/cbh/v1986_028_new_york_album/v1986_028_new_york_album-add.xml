@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Patricia Glowinski</field>
+    <field name="author_ssm">Patricia Glowinski</field>
+    <field name="unittitle_teim">New York Album viewbook</field>
+    <field name="unittitle_ssm">&lt;em&gt;New York Album &lt;/em&gt;viewbook</field>
+    <field name="unitid_teim">V1986.028</field>
+    <field name="unitid_ssm">V1986.028</field>
+    <field name="abstract_teim">The New York Album viewbook was printed circa 1890 and consists of 22 pages of black-and-white non-photographic prints of drawings depicting historic buildings, structures, and monuments located throughout New York City. The viewbook contains only a few scenes of Brooklyn, though images of the Brooklyn Bridge and the entrances to the Brooklyn Bridge are well-represented in the viewbook.</field>
+    <field name="abstract_ssm">The New York Album viewbook was printed circa 1890 and consists of 22 pages of black-and-white non-photographic prints of drawings depicting historic buildings, structures, and monuments located throughout New York City. The viewbook contains only a few scenes of Brooklyn, though images of the Brooklyn Bridge and the entrances to the Brooklyn Bridge are well-represented in the viewbook.</field>
+    <field name="unitdate_normal_ssm">1880/1900</field>
+    <field name="unitdate_normal_teim">1880/1900</field>
+    <field name="unitdate_normal_sim">1880/1900</field>
+    <field name="unitdate_inclusive_teim">circa 1890</field>
+    <field name="scopecontent_teim">The New York Album viewbook was printed circa 1890 and consists of 22 pages of black-and-white non-photographic prints of drawings depicting historic buildings, structures, and monuments located throughout New York City. The viewbook contains only a few scenes of Brooklyn, though images of the Brooklyn Bridge and the entrances to the Brooklyn Bridge are well-represented in the viewbook. The viewbook has its original hardcover and its pages measure 6.75 x 7.5. The binding is broken and all of the pages are now loose. Digital versions of the images from the viewbook pertaining to Brooklyn are available via the image database located in the library. It is not known who created or printed the viewbook.</field>
+    <field name="acqinfo_teim">Gift of J. Bennett Nolan, date unknown.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Viewbooks</field>
+    <field name="genreform_ssm">Viewbooks</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</field>
+    <field name="geogname_teim">New York (N.Y.) |x Buildings, structures, etc. |v Pictorial works</field>
+    <field name="geogname_teim">Brooklyn Bridge (New York, N.Y.) |v Pictorial works</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.) |x Buildings, structures, etc. |v Pictorial works</field>
+    <field name="geogname_ssm">New York (N.Y.) |x Buildings, structures, etc. |v Pictorial works</field>
+    <field name="geogname_ssm">Brooklyn Bridge (New York, N.Y.) |v Pictorial works</field>
+    <field name="collection_sim">New York Album viewbook</field>
+    <field name="collection_ssm">New York Album viewbook</field>
+    <field name="collection_teim">New York Album viewbook</field>
+    <field name="id">v1986_028_new_york_album</field>
+    <field name="ead_ssi">v1986_028_new_york_album</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.) -- Buildings, structures, etc. -- Pictorial works</field>
+    <field name="place_sim">New York (N.Y.) -- Buildings, structures, etc. -- Pictorial works</field>
+    <field name="place_sim">Brooklyn Bridge (New York, N.Y.) -- Pictorial works</field>
+    <field name="material_type_sim">Viewbooks</field>
+    <field name="material_type_ssm">Viewbooks</field>
+    <field name="heading_ssm">New York Album viewbook</field>
+    <field name="unitdate_start_sim">1880</field>
+    <field name="unitdate_start_ssm">1880</field>
+    <field name="unitdate_start_si">1880</field>
+    <field name="unitdate_end_sim">1900</field>
+    <field name="unitdate_end_ssm">1900</field>
+    <field name="unitdate_end_si">1900</field>
+    <field name="unitdate_ssm">Inclusive, circa 1890</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

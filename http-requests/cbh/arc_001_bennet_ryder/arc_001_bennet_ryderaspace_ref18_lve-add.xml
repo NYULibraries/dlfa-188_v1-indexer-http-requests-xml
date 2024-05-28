@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_001_bennet_ryderaspace_ref18_lve</field>
+    <field name="ead_ssi">arc_001_bennet_ryder</field>
+    <field name="parent_ssi">aspace_ref13_qks</field>
+    <field name="parent_ssm">aspace_ref13_qks</field>
+    <field name="parent_unittitles_ssm">Series 1: Bennet and Ryder Papers</field>
+    <field name="parent_unittitles_teim">Series 1: Bennet and Ryder Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bennet and Ryder families collection</field>
+    <field name="collection_ssm">Bennet and Ryder families collection</field>
+    <field name="collection_unitid_ssm">ARC.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cornelius W. Bennet- Map of Bennet Farm.</field>
+    <field name="unittitle_teim">Cornelius W. Bennet- Map of Bennet Farm.</field>
+    <field name="unitdate_normal_ssm">1834/1834</field>
+    <field name="unitdate_normal_teim">1834/1834</field>
+    <field name="unitdate_normal_sim">1834/1834</field>
+    <field name="unitdate_inclusive_teim">1834</field>
+    <field name="ref_ssi">aspace_ref18_lve</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: S1:3</field>
+    <field name="location_ssm">Folder: S1:3</field>
+    <field name="location_si">Folder: S1:3</field>
+    <field name="collection_teim">Bennet and Ryder families collection</field>
+    <field name="collection_unitid_teim">ARC.001</field>
+    <field name="series_sim">Series 1: Bennet and Ryder Papers</field>
+    <field name="series_si">Series 1: Bennet and Ryder Papers &gt;&gt; Cornelius W. Bennet- Map of Bennet Farm.</field>
+    <field name="heading_ssm">Cornelius W. Bennet- Map of Bennet Farm.</field>
+    <field name="unitdate_start_sim">1834</field>
+    <field name="unitdate_start_ssm">1834</field>
+    <field name="unitdate_start_si">1834</field>
+    <field name="unitdate_end_sim">1834</field>
+    <field name="unitdate_end_ssm">1834</field>
+    <field name="unitdate_end_si">1834</field>
+    <field name="unitdate_ssm">Inclusive, 1834</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

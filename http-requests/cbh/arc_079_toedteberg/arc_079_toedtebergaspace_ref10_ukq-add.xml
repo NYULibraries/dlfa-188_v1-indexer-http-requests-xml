@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_079_toedtebergaspace_ref10_ukq</field>
+    <field name="ead_ssi">arc_079_toedteberg</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Emma Toedteberg collection</field>
+    <field name="collection_ssm">Emma Toedteberg collection</field>
+    <field name="collection_unitid_ssm">ARC.079</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: European travel scrapbooks</field>
+    <field name="unittitle_teim">Series 3: European travel scrapbooks</field>
+    <field name="unitid_teim">SCRAP.2009.04</field>
+    <field name="unitid_ssm">SCRAP.2009.04</field>
+    <field name="unitdate_normal_ssm">1886/1913</field>
+    <field name="unitdate_normal_teim">1886/1913</field>
+    <field name="unitdate_normal_sim">1886/1913</field>
+    <field name="unitdate_inclusive_teim">1886-1913</field>
+    <field name="scopecontent_teim">This series consists of scrapbooks compiled by Emma Toedteberg to commemorate two of her European voyages, with each voyage represented by two scrapbook volumes. The first, in which she accompanied her father, took place from June to September of 1886 and contains printed material from landmarks and cities she visited. Destinations from this voyage include England, Germany, Switzerland, Belgium, and Holland. The second voyage occured in 1913, and was documented by Emma Toedteberg with postcards. Locales represented in the postcard books are England, Belgium, France, Switzerland, and Italy.</field>
+    <field name="ref_ssi">aspace_ref10_ukq</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Emma Toedteberg collection</field>
+    <field name="collection_unitid_teim">ARC.079</field>
+    <field name="series_si">Series 3: European travel scrapbooks</field>
+    <field name="heading_ssm">Series 3: European travel scrapbooks</field>
+    <field name="unitdate_start_sim">1886</field>
+    <field name="unitdate_start_ssm">1886</field>
+    <field name="unitdate_start_si">1886</field>
+    <field name="unitdate_end_sim">1913</field>
+    <field name="unitdate_end_ssm">1913</field>
+    <field name="unitdate_end_si">1913</field>
+    <field name="unitdate_ssm">Inclusive, 1886-1913</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

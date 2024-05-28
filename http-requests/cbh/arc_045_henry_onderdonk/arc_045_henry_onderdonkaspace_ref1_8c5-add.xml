@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_045_henry_onderdonkaspace_ref1_8c5</field>
+    <field name="ead_ssi">arc_045_henry_onderdonk</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Henry Onderdonk papers</field>
+    <field name="collection_ssm">Henry Onderdonk papers</field>
+    <field name="collection_unitid_ssm">ARC.045</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Historical Manuscripts and Notes</field>
+    <field name="unittitle_teim">Series 1: Historical Manuscripts and Notes</field>
+    <field name="unitdate_normal_ssm">1762/1884</field>
+    <field name="unitdate_normal_teim">1762/1884</field>
+    <field name="unitdate_normal_sim">1762/1884</field>
+    <field name="unitdate_inclusive_teim">1762-1884</field>
+    <field name="scopecontent_teim">The bulk of Historical Manuscripts and Notes includes Onderdonk's transcriptions, abstracts, and notes from various church and local government records, private journals, and newspapers. The series includes a small number of print versions of Onderdonk's works and of manuscripts of Onderdonk's own writing. Most of the documents in the series concern towns in nineteenth-century Queens County (which included present-day Nassau County), but towns in Suffolk County are also represented. The series also holds material on towns in Kings County, though to a lesser extent than other Long Island locales.</field>
+    <field name="scopecontent_teim">Many of the documents in the series have a topical focus, with the principal subjects concerning the American Revolution, Quakers (or Friends), and agriculture, including animal husbandry. These documents include transcriptions of Revolutionary-era correspondence to Major John Kissam of the Queens militia and of Quaker John Bowne's journal of imprisonment and account book. Documents concerning "olden times" are more wide-ranging, spanning social issues, commercial ventures, agriculture/farming, crime, church/religion, politics/governance, slavery, etc. Many documents are principally lists of marriages, deaths, baptisms, wills filed with the surrogate's office, tax lists, etc. Some of the manuscripts include an index.</field>
+    <field name="scopecontent_teim">Many of the notebooks in the series were constructed from previously-used documents, especially correspondence from circa 1870s to the clerk of Queens County, but also advertisements and other printed matter. Onderdonk wrote on the blank reverse sides of these documents, and much of the original content can still be viewed. A substantive example is an account book of fees received in 1866-67 by surrogate William H. Onderdonk.</field>
+    <field name="scopecontent_teim">Aside from the original artifacts comprising many of the notebooks themselves, there are few original records in the series. Significant exceptions to this are the wampum, bills of credit and paper currency attached to pages of Onderdonk's historical sketch of agriculture. Some of the notebooks include paper slips with signatures; it is not clear whether these are original signatures cut from documents or Onderdonk's tracings of the
+original signatures.</field>
+    <field name="ref_ssi">aspace_ref1_8c5</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Henry Onderdonk papers</field>
+    <field name="collection_unitid_teim">ARC.045</field>
+    <field name="series_si">Series 1: Historical Manuscripts and Notes</field>
+    <field name="heading_ssm">Series 1: Historical Manuscripts and Notes</field>
+    <field name="unitdate_start_sim">1762</field>
+    <field name="unitdate_start_ssm">1762</field>
+    <field name="unitdate_start_si">1762</field>
+    <field name="unitdate_end_sim">1884</field>
+    <field name="unitdate_end_ssm">1884</field>
+    <field name="unitdate_end_si">1884</field>
+    <field name="unitdate_ssm">Inclusive, 1762-1884</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

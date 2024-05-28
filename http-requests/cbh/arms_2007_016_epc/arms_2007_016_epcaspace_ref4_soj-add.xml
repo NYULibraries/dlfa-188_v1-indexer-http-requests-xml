@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2007_016_epcaspace_ref4_soj</field>
+    <field name="ead_ssi">arms_2007_016_epc</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Eastern Parkway Coalition records</field>
+    <field name="collection_ssm">Eastern Parkway Coalition records</field>
+    <field name="collection_unitid_ssm">2007.016</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Subject files</field>
+    <field name="unittitle_teim">Series 1: Subject files</field>
+    <field name="unitdate_normal_ssm">1952/2007</field>
+    <field name="unitdate_normal_ssm">1970/2007</field>
+    <field name="unitdate_normal_teim">1952/2007</field>
+    <field name="unitdate_normal_teim">1970/2007</field>
+    <field name="unitdate_normal_sim">1952/2007</field>
+    <field name="unitdate_normal_sim">1970/2007</field>
+    <field name="unitdate_bulk_teim">1970-2007</field>
+    <field name="unitdate_inclusive_teim">1952-2007</field>
+    <field name="scopecontent_teim">The series contains subject files of Constance Lesold's work with the Eastern Parkway Coalition and includes documents dating from 1952 to 2007. </field>
+    <field name="scopecontent_teim">The files were maintained by Constance Lesold, who was also an active member of other community groups, such as Community Boards 8 and 9, the Brooklyn Tenants Union, and local block associations. Files related to those other organizations appear frequently in the series.</field>
+    <field name="scopecontent_teim">The series documents several topics relating to the Crown Heights and Prospect Heights neighborhoods of Brooklyn from the 1970s to the early 2000s. These subjects include community gardens, housing/tenant rights, mass transit, summer youth programs, drug use, environmentalism, mental health, public parks, the Haitian community, and urban renewal.</field>
+    <field name="scopecontent_teim">Community gardens are especially well represented in the files, especially the Franklin Avenue Shuttle Garden, which was demolished by the Metropolitan Transportation Authority (MTA) in 1989. Controversy over the Brooklyn Botanic Garden charging entrance fees is also addressed in the series.</field>
+    <field name="scopecontent_teim">Cultural affairs are also featured in the series, especially the Brooklyn Museum, the Brooklyn Public Library, and the New Muse.</field>
+    <field name="scopecontent_teim">The files are primarily composed of flyers, publications, correspondence, memoranda, and clippings. A small amount of files include photographs, slides, negatives, and audio cassettes.</field>
+    <field name="ref_ssi">aspace_ref4_soj</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Eastern Parkway Coalition records</field>
+    <field name="collection_unitid_teim">2007.016</field>
+    <field name="series_si">Series 1: Subject files</field>
+    <field name="heading_ssm">Series 1: Subject files</field>
+    <field name="unitdate_start_sim">1952</field>
+    <field name="unitdate_start_sim">1970</field>
+    <field name="unitdate_start_ssm">1952</field>
+    <field name="unitdate_start_ssm">1970</field>
+    <field name="unitdate_start_si">1970</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, 1952-2007 ; 1970-2007</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

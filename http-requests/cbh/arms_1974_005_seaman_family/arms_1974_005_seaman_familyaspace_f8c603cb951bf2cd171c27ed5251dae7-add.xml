@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1974_005_seaman_familyaspace_f8c603cb951bf2cd171c27ed5251dae7</field>
+    <field name="ead_ssi">arms_1974_005_seaman_family</field>
+    <field name="parent_ssi">aspace_ref13_h13</field>
+    <field name="parent_ssm">aspace_86631a97c6f820b9742199b59a8829d5</field>
+    <field name="parent_ssm">aspace_ref13_h13</field>
+    <field name="parent_unittitles_ssm">Series 1: Deeds</field>
+    <field name="parent_unittitles_ssm">Sub-series 1.1: New York City</field>
+    <field name="parent_unittitles_teim">Series 1: Deeds</field>
+    <field name="parent_unittitles_teim">Sub-series 1.1: New York City</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Seaman family papers</field>
+    <field name="collection_ssm">Seaman family papers</field>
+    <field name="collection_unitid_ssm">1974.005</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Item 7</field>
+    <field name="unittitle_teim">Item 7</field>
+    <field name="unitdate_normal_ssm">1784-05-11/1784-05-11</field>
+    <field name="unitdate_normal_teim">1784-05-11/1784-05-11</field>
+    <field name="unitdate_normal_sim">1784-05-11/1784-05-11</field>
+    <field name="unitdate_teim">May 11, 1784</field>
+    <field name="scopecontent_teim">Sale of land and buildings in Montgomery Ward by Abraham Beekman to Willet Seaman.</field>
+    <field name="phystech_teim">This oversize item is written on parchment.</field>
+    <field name="ref_ssi">aspace_f8c603cb951bf2cd171c27ed5251dae7</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Folder: Flat File</field>
+    <field name="location_si">Folder: Flat File</field>
+    <field name="collection_teim">Seaman family papers</field>
+    <field name="collection_unitid_teim">1974.005</field>
+    <field name="series_sim">Series 1: Deeds</field>
+    <field name="series_sim">Sub-series 1.1: New York City</field>
+    <field name="series_si">Series 1: Deeds &gt;&gt; Sub-series 1.1: New York City &gt;&gt; Item 7</field>
+    <field name="heading_ssm">Item 7</field>
+    <field name="unitdate_ssm">May 11, 1784</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

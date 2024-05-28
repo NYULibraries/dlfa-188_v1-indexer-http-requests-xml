@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_077_ny_worlds_fairaspace_ref9_j89</field>
+    <field name="ead_ssi">arc_077_ny_worlds_fair</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York World's Fair collection</field>
+    <field name="collection_ssm">New York World's Fair collection</field>
+    <field name="collection_unitid_ssm">ARC.077</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: 1964 Fair</field>
+    <field name="unittitle_teim">Series 1: 1964 Fair</field>
+    <field name="unitdate_normal_ssm">1960/1965</field>
+    <field name="unitdate_normal_teim">1960/1965</field>
+    <field name="unitdate_normal_sim">1960/1965</field>
+    <field name="unitdate_inclusive_teim">1960-1965</field>
+    <field name="scopecontent_teim">This series makes up Boxes 1 and 2, Artifact Box 2, and part of the oversize box.  Included are materials on the construction and preparation of the 1964 Fair, pavilion brochures, exhibit pamphlets, official Fair guides, materials concerning the exhibit of the Brooklyn Historical Society (then the Long Island Historical Society) at the Fair, items pertaining to the opening and re-opening ceremonies, a press packet, and various maps and memorabilia.  Oversize items include a boxed book chronicling the history of the Vatican (published to coincide with the Vatican's appearance at the Fair), a report on the preparation of the site for the Fair, and a preliminary report on the proposal of the World's Fair, published by the New York World's Fair Corporation, and a photo album containing images of pavillions and visiting diginitaries.  Contained in Artifact Box 2 are such items as a plastic lei, three soda cups, a Belgian cookie tin, a cocktail napkin, pins, plastic rings, and an irradiated dime.</field>
+    <field name="ref_ssi">aspace_ref9_j89</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_ssm">Box: Artifacts ARC.077 2 of 2</field>
+    <field name="location_ssm">Oversize: ARC.077 OS 1</field>
+    <field name="location_ssm">Box: 12</field>
+    <field name="location_si">Box: 12</field>
+    <field name="collection_teim">New York World's Fair collection</field>
+    <field name="collection_unitid_teim">ARC.077</field>
+    <field name="series_si">Series 1: 1964 Fair</field>
+    <field name="heading_ssm">Series 1: 1964 Fair</field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">1965</field>
+    <field name="unitdate_end_ssm">1965</field>
+    <field name="unitdate_end_si">1965</field>
+    <field name="unitdate_ssm">Inclusive, 1960-1965</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

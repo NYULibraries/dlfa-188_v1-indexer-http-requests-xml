@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0039aspace_0459045cc75153b52236faa909683ff7</field>
+    <field name="ead_ssi">bcms_0039</field>
+    <field name="parent_ssi">aspace_fba72f43831118ecf0377027216045b3</field>
+    <field name="parent_ssm">aspace_fba72f43831118ecf0377027216045b3</field>
+    <field name="parent_unittitles_ssm">Series 1: Minutes</field>
+    <field name="parent_unittitles_teim">Series 1: Minutes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_ssm">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_ssm">BCMS.0039</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 1.2: Brooklyn Health Council minutes</field>
+    <field name="unittitle_teim">Subseries 1.2: Brooklyn Health Council minutes</field>
+    <field name="unitdate_normal_ssm">1934/1944</field>
+    <field name="unitdate_normal_teim">1934/1944</field>
+    <field name="unitdate_normal_sim">1934/1944</field>
+    <field name="unitdate_inclusive_teim">1934-1944</field>
+    <field name="scopecontent_teim">The purpose of the Brooklyn Health Council was to bring together health agencies functioning in the community to coordinate and facilitate work, evaluate needs, initiate projects, and act as an information bureau. BCSP was a member of the Brooklyn Health Council, along with the City departments of Education, Health, Hospitals, Brooklyn Tuberculosis and Health Association, Visiting Nurse Association, and other agencies. These minutes were found with the BCSP minutes in separate binder.</field>
+    <field name="ref_ssi">aspace_0459045cc75153b52236faa909683ff7</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 7, Folder: 1.2.001</field>
+    <field name="location_ssm">Folder: 1.2.001</field>
+    <field name="location_si">Folder: 1.2.001</field>
+    <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_teim">BCMS.0039</field>
+    <field name="series_sim">Series 1: Minutes</field>
+    <field name="series_si">Series 1: Minutes &gt;&gt; Subseries 1.2: Brooklyn Health Council minutes</field>
+    <field name="heading_ssm">Subseries 1.2: Brooklyn Health Council minutes</field>
+    <field name="unitdate_start_sim">1934</field>
+    <field name="unitdate_start_ssm">1934</field>
+    <field name="unitdate_start_si">1934</field>
+    <field name="unitdate_end_sim">1944</field>
+    <field name="unitdate_end_ssm">1944</field>
+    <field name="unitdate_end_si">1944</field>
+    <field name="unitdate_ssm">Inclusive, 1934-1944</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">22</field>
+  </doc>
+</add>

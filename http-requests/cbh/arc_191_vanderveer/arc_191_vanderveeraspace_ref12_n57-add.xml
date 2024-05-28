@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_191_vanderveeraspace_ref12_n57</field>
+    <field name="ead_ssi">arc_191_vanderveer</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Adrian Vanderveer Martense collection</field>
+    <field name="collection_ssm">Adrian Vanderveer Martense collection</field>
+    <field name="collection_unitid_ssm">ARC.191</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Photograph albums</field>
+    <field name="unittitle_teim">Series 2: Photograph albums</field>
+    <field name="unitid_teim">V1986.014 and V1986.246</field>
+    <field name="unitid_ssm">V1986.014 and V1986.246</field>
+    <field name="unitdate_normal_ssm">1886/1888</field>
+    <field name="unitdate_normal_teim">1886/1888</field>
+    <field name="unitdate_normal_sim">1886/1888</field>
+    <field name="unitdate_inclusive_teim">1886-1888</field>
+    <field name="scopecontent_teim">This series consists of two photographs albums compiled by Martense from his own photography. </field>
+    <field name="scopecontent_teim">The Blizzard of 1888 photograph album primarily contains scenes of Flatbush, Brooklyn after the blizzard. The photographs are albumen prints and are mounted onto the pages of the album. Bound into the album is a letter written to Martense by W. L. Keese. Keese was a subject in at least one of Martense's photographs and seems to have been a neighbor.</field>
+    <field name="scopecontent_teim">The second photograph album, 1886 to 1888, contains photographs of Martense's neighborhood in Flatbush including views looking out from Martense's house; informal portraits of his Flatbush neighbors (many are outside shots); views of Prospect Park; and exterior and interior views of houses in his neighborhood.</field>
+    <field name="ref_ssi">aspace_ref12_n57</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Adrian Vanderveer Martense collection</field>
+    <field name="collection_unitid_teim">ARC.191</field>
+    <field name="series_si">Series 2: Photograph albums</field>
+    <field name="heading_ssm">Series 2: Photograph albums</field>
+    <field name="unitdate_start_sim">1886</field>
+    <field name="unitdate_start_ssm">1886</field>
+    <field name="unitdate_start_si">1886</field>
+    <field name="unitdate_end_sim">1888</field>
+    <field name="unitdate_end_ssm">1888</field>
+    <field name="unitdate_end_si">1888</field>
+    <field name="unitdate_ssm">Inclusive, 1886-1888</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

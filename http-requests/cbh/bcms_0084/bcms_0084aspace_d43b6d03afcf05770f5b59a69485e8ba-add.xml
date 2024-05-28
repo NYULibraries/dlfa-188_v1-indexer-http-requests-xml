@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0084aspace_d43b6d03afcf05770f5b59a69485e8ba</field>
+    <field name="ead_ssi">bcms_0084</field>
+    <field name="parent_ssi">aspace_101e6cf174ba48d05a094b0e1a677922</field>
+    <field name="parent_ssm">aspace_101e6cf174ba48d05a094b0e1a677922</field>
+    <field name="parent_unittitles_ssm">Series 1: Administrative Records</field>
+    <field name="parent_unittitles_teim">Series 1: Administrative Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Thomason Prospect Lefferts Gardens Neighborhood Association (PLGNA) Collection</field>
+    <field name="collection_ssm">Robert Thomason Prospect Lefferts Gardens Neighborhood Association (PLGNA) Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0084</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Charitable Organization Tax Exemption Documents</field>
+    <field name="unittitle_teim">Charitable Organization Tax Exemption Documents</field>
+    <field name="unitdate_normal_ssm">1970/1991</field>
+    <field name="unitdate_normal_teim">1970/1991</field>
+    <field name="unitdate_normal_sim">1970/1991</field>
+    <field name="unitdate_inclusive_teim">1970-1991</field>
+    <field name="ref_ssi">aspace_d43b6d03afcf05770f5b59a69485e8ba</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Robert Thomason Prospect Lefferts Gardens Neighborhood Association (PLGNA) Collection</field>
+    <field name="collection_unitid_teim">BCMS.0084</field>
+    <field name="series_sim">Series 1: Administrative Records</field>
+    <field name="series_si">Series 1: Administrative Records &gt;&gt; Charitable Organization Tax Exemption Documents</field>
+    <field name="heading_ssm">Charitable Organization Tax Exemption Documents</field>
+    <field name="unitdate_start_sim">1970</field>
+    <field name="unitdate_start_ssm">1970</field>
+    <field name="unitdate_start_si">1970</field>
+    <field name="unitdate_end_sim">1991</field>
+    <field name="unitdate_end_ssm">1991</field>
+    <field name="unitdate_end_si">1991</field>
+    <field name="unitdate_ssm">Inclusive, 1970-1991</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">9</field>
+  </doc>
+</add>

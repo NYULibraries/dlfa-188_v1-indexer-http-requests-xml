@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0083aspace_884757cb7daf34f97a363720dacb4707</field>
+    <field name="ead_ssi">bcms_0083</field>
+    <field name="parent_ssi">aspace_e1d5c9d2b281bc6c06570727f4c37d88</field>
+    <field name="parent_ssm">aspace_e1d5c9d2b281bc6c06570727f4c37d88</field>
+    <field name="parent_unittitles_ssm">Series 2: Carl Kaiserman papers</field>
+    <field name="parent_unittitles_teim">Series 2: Carl Kaiserman papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Park Slope Civic Council (PSCC) records</field>
+    <field name="collection_ssm">Park Slope Civic Council (PSCC) records</field>
+    <field name="collection_unitid_ssm">BCMS.0083</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 2.1: Meeting Materials</field>
+    <field name="unittitle_teim">Sub-series 2.1: Meeting Materials</field>
+    <field name="unitdate_normal_ssm">1978/2002</field>
+    <field name="unitdate_normal_teim">1978/2002</field>
+    <field name="unitdate_normal_sim">1978/2002</field>
+    <field name="unitdate_inclusive_teim">1978-2002</field>
+    <field name="scopecontent_teim">Sub-series 2.1: Meeting Materials, 1978-2002, includes agendas, minutes, committee reports, notes, and other supporting documentation from Trustee meetings, public sessions, and other PSCC meetings Kaiserman attended. Civic News issues are interfiled chronologically with the meeting materials.</field>
+    <field name="ref_ssi">aspace_884757cb7daf34f97a363720dacb4707</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Park Slope Civic Council (PSCC) records</field>
+    <field name="collection_unitid_teim">BCMS.0083</field>
+    <field name="series_sim">Series 2: Carl Kaiserman papers</field>
+    <field name="series_si">Series 2: Carl Kaiserman papers &gt;&gt; Sub-series 2.1: Meeting Materials</field>
+    <field name="heading_ssm">Sub-series 2.1: Meeting Materials</field>
+    <field name="unitdate_start_sim">1978</field>
+    <field name="unitdate_start_ssm">1978</field>
+    <field name="unitdate_start_si">1978</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 1978-2002</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">218</field>
+  </doc>
+</add>

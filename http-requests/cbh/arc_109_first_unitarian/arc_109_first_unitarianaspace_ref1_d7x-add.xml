@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_109_first_unitarianaspace_ref1_d7x</field>
+    <field name="ead_ssi">arc_109_first_unitarian</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_ssm">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.109</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Trustee Records.</field>
+    <field name="unittitle_teim">Series 1: Trustee Records.</field>
+    <field name="unitdate_normal_ssm">1833/1966</field>
+    <field name="unitdate_normal_teim">1833/1966</field>
+    <field name="unitdate_normal_sim">1833/1966</field>
+    <field name="unitdate_inclusive_teim">1833-1966</field>
+    <field name="scopecontent_teim">The Trustee Records series contain the official records as maintained by the Board of the Church. This primarily consists of the resolutions of the Board and meeting minutes for regular meetings, annual meetings, and committee meetings.</field>
+    <field name="scopecontent_teim">Annual Meetings and Trustee Meetings cover finances, attendance, buildings, music, the Sunday school and other major concerns of the Congregation. In addition to minutes, annual meetings files include correspondence, reports, and other documents introduced to the Board over the course of the meeting. Reports presented to the Trustees by the Treasurer, the Pastor, and various committees are also collected in a dedicated ledger of reports. Some committees of note among these reports are the Female Samaritan Society, the Willow Place Chapel committee, the Music and Organ committees, and the various clubs that were a part of the Church's activities. Reports by the Pastor include information on deaths and baptisms in the Church. The Auditor's reports presented to the Trustees are grouped together in a separate folder.</field>
+    <field name="scopecontent_teim">Some of the correspondence and resolutions of the Trustees, particularly those pertaining to the early days of the church and its formation, can be found in the "History" folders within the Subject Files series.</field>
+    <field name="scopecontent_teim">Some bound material, including the Reports Ledgers and the Society Meeting Minutes, include indexes of the contents of the ledgers, pointing out subjects and events. The indexes to the Society Meeting Minutes include lists of officers and the members of various committees. The early By-Laws (as of 1843) of the Society can also be found within these bound meeting minutes.</field>
+    <field name="scopecontent_teim">The series also contains some minutes of meetings of a Joint Committee of the 1st and 2nd Congregations from around the time of their split and attempted reconciliation in the 1840s.</field>
+    <field name="ref_ssi">aspace_ref1_d7x</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.109</field>
+    <field name="series_si">Series 1: Trustee Records.</field>
+    <field name="heading_ssm">Series 1: Trustee Records.</field>
+    <field name="unitdate_start_sim">1833</field>
+    <field name="unitdate_start_ssm">1833</field>
+    <field name="unitdate_start_si">1833</field>
+    <field name="unitdate_end_sim">1966</field>
+    <field name="unitdate_end_ssm">1966</field>
+    <field name="unitdate_end_si">1966</field>
+    <field name="unitdate_ssm">Inclusive, 1833-1966</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

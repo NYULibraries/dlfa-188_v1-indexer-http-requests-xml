@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_006_bergenaspace_821606357e53408a342dcb9a47d42fbe</field>
+    <field name="ead_ssi">arc_006_bergen</field>
+    <field name="parent_ssi">aspace_ref644_bxa</field>
+    <field name="parent_ssm">aspace_ref643_zg3</field>
+    <field name="parent_ssm">aspace_ref644_bxa</field>
+    <field name="parent_unittitles_ssm">Group 2: Bergen family and Bergen extended family papers</field>
+    <field name="parent_unittitles_ssm">Series 1: Bergen family papers</field>
+    <field name="parent_unittitles_teim">Group 2: Bergen family and Bergen extended family papers</field>
+    <field name="parent_unittitles_teim">Series 1: Bergen family papers</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_ssm">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_ssm">ARC.006</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Tintypes</field>
+    <field name="unittitle_teim">Tintypes</field>
+    <field name="ref_ssi">aspace_821606357e53408a342dcb9a47d42fbe</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Tintypes 1</field>
+    <field name="location_si">Box: Tintypes 1</field>
+    <field name="collection_teim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_teim">ARC.006</field>
+    <field name="series_sim">Group 2: Bergen family and Bergen extended family papers</field>
+    <field name="series_sim">Series 1: Bergen family papers</field>
+    <field name="series_si">Group 2: Bergen family and Bergen extended family papers &gt;&gt; Series 1: Bergen family papers &gt;&gt; Tintypes</field>
+    <field name="heading_ssm">Tintypes</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">723</field>
+  </doc>
+</add>

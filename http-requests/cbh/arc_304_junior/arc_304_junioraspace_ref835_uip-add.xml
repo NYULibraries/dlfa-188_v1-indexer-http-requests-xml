@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_304_junioraspace_ref835_uip</field>
+    <field name="ead_ssi">arc_304_junior</field>
+    <field name="parent_ssi">aspace_ref731_g9w</field>
+    <field name="parent_ssm">aspace_ref731_g9w</field>
+    <field name="parent_unittitles_ssm">Series 10: Photographs, Negatives, and Slides</field>
+    <field name="parent_unittitles_teim">Series 10: Photographs, Negatives, and Slides</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Junior League of Brooklyn records</field>
+    <field name="collection_ssm">Junior League of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.304</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 1: Exhibition Photographs</field>
+    <field name="unittitle_teim">Sub-series 1: Exhibition Photographs</field>
+    <field name="unitdate_normal_ssm">1940/1989</field>
+    <field name="unitdate_normal_teim">1940/1989</field>
+    <field name="unitdate_normal_sim">1940/1989</field>
+    <field name="unitdate_inclusive_teim">1940-1989</field>
+    <field name="scopecontent_teim">Series 10, sub-series 1, Exhibition Photographs, contains approximately forty enlarged and mounted photographs depicting significant League events and service projects, dating between 1940 and 1989. These photographs were exhibited at an unknown League event and are approximately 5" by 7" and 8" by 10" in size (not including matting or mounting board).  There are two manuscript boxes and one oversize box.  Notable items include photographs portraying award presentations to the League, including the Presidential Recognition Award in 1983, the Eleanor Roosevelt Community Service Award for the League's work with Court Appointed Special Advocates (CASA), circa 1990s, and a Parenting Education Project grant presentation in 1984.  There are also photographs of League fundraising events, including the Underground Society Bash at the New York Transit Museum in Brooklyn, 1977, and Champagne Gala fundraiser in 1988.</field>
+    <field name="ref_ssi">aspace_ref835_uip</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Junior League of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.304</field>
+    <field name="series_sim">Series 10: Photographs, Negatives, and Slides</field>
+    <field name="series_si">Series 10: Photographs, Negatives, and Slides &gt;&gt; Sub-series 1: Exhibition Photographs</field>
+    <field name="heading_ssm">Sub-series 1: Exhibition Photographs</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, 1940-1989</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">688</field>
+  </doc>
+</add>

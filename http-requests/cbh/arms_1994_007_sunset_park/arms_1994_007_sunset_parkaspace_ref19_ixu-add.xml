@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1994_007_sunset_parkaspace_ref19_ixu</field>
+    <field name="ead_ssi">arms_1994_007_sunset_park</field>
+    <field name="parent_ssi">aspace_ref30_z15</field>
+    <field name="parent_ssm">aspace_ref30_z15</field>
+    <field name="parent_unittitles_ssm">Series 1: Oral histories</field>
+    <field name="parent_unittitles_teim">Series 1: Oral histories</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New Neighbors: Sunset Park's Chinese Community records</field>
+    <field name="collection_ssm">New Neighbors: Sunset Park's Chinese Community records</field>
+    <field name="collection_unitid_ssm">1994.007</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Ngu, Thien Thuy</field>
+    <field name="unittitle_teim">Ngu, Thien Thuy</field>
+    <field name="unitid_teim">1994.007.23</field>
+    <field name="unitid_ssm">1994.007.23</field>
+    <field name="unitdate_normal_ssm">1993/1993</field>
+    <field name="unitdate_normal_teim">1993/1993</field>
+    <field name="unitdate_normal_sim">1993/1993</field>
+    <field name="unitdate_inclusive_teim">1993 September 7</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_teim">Sunset Park (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Sunset Park (New York, N.Y.)</field>
+    <field name="ref_ssi">aspace_ref19_ixu</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="place_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="place_ssm">Sunset Park (New York, N.Y.)</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="place_sim">Sunset Park (New York, N.Y.)</field>
+    <field name="collection_teim">New Neighbors: Sunset Park's Chinese Community records</field>
+    <field name="collection_unitid_teim">1994.007</field>
+    <field name="series_sim">Series 1: Oral histories</field>
+    <field name="series_si">Series 1: Oral histories &gt;&gt; Ngu, Thien Thuy</field>
+    <field name="heading_ssm">Ngu, Thien Thuy</field>
+    <field name="unitdate_start_sim">1993</field>
+    <field name="unitdate_start_ssm">1993</field>
+    <field name="unitdate_start_si">1993</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, 1993 September 7</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">2016_042aspace_505e1caf7b623cb5697893e369ac68fa</field>
+    <field name="ead_ssi">2016_042</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Seneca Club of Kings County records</field>
+    <field name="collection_ssm">Seneca Club of Kings County records</field>
+    <field name="collection_unitid_ssm">2016.042</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Administrative Records</field>
+    <field name="unittitle_teim">Series 1: Administrative Records</field>
+    <field name="unitdate_normal_ssm">1945/2009</field>
+    <field name="unitdate_normal_teim">1945/2009</field>
+    <field name="unitdate_normal_sim">1945/2009</field>
+    <field name="unitdate_inclusive_teim">1945-2009</field>
+    <field name="scopecontent_teim">This series contains internal administrative and financial records for the Seneca Club of Kings County. Financial records include leases and a mortgage for the Club headquarters at 93 Division Ave, tax documents, cash books, and expense ledgers. Administrative records include membership ledgers, Executive Committee meeting minutes and correspondence, and certificates and proclamations. Also included are ledgers from the War Effort and Entertainment committees.</field>
+    <field name="ref_ssi">aspace_505e1caf7b623cb5697893e369ac68fa</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Seneca Club of Kings County records</field>
+    <field name="collection_unitid_teim">2016.042</field>
+    <field name="series_si">Series 1: Administrative Records</field>
+    <field name="heading_ssm">Series 1: Administrative Records</field>
+    <field name="unitdate_start_sim">1945</field>
+    <field name="unitdate_start_ssm">1945</field>
+    <field name="unitdate_start_si">1945</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, 1945-2009</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

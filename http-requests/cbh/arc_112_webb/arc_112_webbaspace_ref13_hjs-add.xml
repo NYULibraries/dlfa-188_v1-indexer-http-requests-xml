@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_112_webbaspace_ref13_hjs</field>
+    <field name="ead_ssi">arc_112_webb</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Gregory B. Webb collection</field>
+    <field name="collection_ssm">Gregory B. Webb collection</field>
+    <field name="collection_unitid_ssm">ARC.112</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Political cartoons</field>
+    <field name="unittitle_teim">Series 3: Political cartoons</field>
+    <field name="unitdate_normal_ssm">1898/1938</field>
+    <field name="unitdate_normal_teim">1898/1938</field>
+    <field name="unitdate_normal_sim">1898/1938</field>
+    <field name="unitdate_inclusive_teim">1898-1938</field>
+    <field name="scopecontent_teim">This series is comprised of original and photocopied political cartoons collected by Gregory B. Webb, as well as miscellaneous materials such as articles, satiric pieces, and a set of sheet music.  Most items have been clipped from newspapers and pasted onto cardboard, often bearing period advertisements on the verso.  The subject of Theodore Roosevelt dominates the series, and more often than not his persona, policies, and initiatives (particularly the Spanish-American War) are treated in a sharply satirical or critical light.  A smaller amount of cartoons pertain to President Franklin Delano Roosevelt and are similarly critical of his New Deal politics.  Most of the clippings are culled from newspapers published in New York City, especially the Brooklyn Daily Eagle.  However, the series includes many clippings taken from newspapers across the United States, including the Washington Post, the Nashville Daily News, the Philadelphia Inquirer, the Salt Lake Herald, the Boston Post, and the Portland Oregonian.</field>
+    <field name="ref_ssi">aspace_ref13_hjs</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Gregory B. Webb collection</field>
+    <field name="collection_unitid_teim">ARC.112</field>
+    <field name="series_si">Series 3: Political cartoons</field>
+    <field name="heading_ssm">Series 3: Political cartoons</field>
+    <field name="unitdate_start_sim">1898</field>
+    <field name="unitdate_start_ssm">1898</field>
+    <field name="unitdate_start_si">1898</field>
+    <field name="unitdate_end_sim">1938</field>
+    <field name="unitdate_end_ssm">1938</field>
+    <field name="unitdate_end_si">1938</field>
+    <field name="unitdate_ssm">Inclusive, 1898-1938</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

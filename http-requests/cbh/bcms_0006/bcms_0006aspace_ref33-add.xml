@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0006aspace_ref33</field>
+    <field name="ead_ssi">bcms_0006</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series I: Postcards</field>
+    <field name="parent_unittitles_teim">Series I: Postcards</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Terrence J. Allen Prospect Park Collection</field>
+    <field name="collection_ssm">Terrence J. Allen Prospect Park Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0006</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Section 1.18: Lullwater Bridge</field>
+    <field name="unittitle_teim">Section 1.18: Lullwater Bridge</field>
+    <field name="unitdate_teim">1907-1942</field>
+    <field name="ref_ssi">aspace_ref33</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Terrence J. Allen Prospect Park Collection</field>
+    <field name="collection_unitid_teim">BCMS.0006</field>
+    <field name="series_sim">Series I: Postcards</field>
+    <field name="series_si">Series I: Postcards &gt;&gt; Section 1.18: Lullwater Bridge</field>
+    <field name="heading_ssm">Section 1.18: Lullwater Bridge</field>
+    <field name="unitdate_ssm">1907-1942</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

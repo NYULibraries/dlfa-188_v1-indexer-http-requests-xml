@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cbhm_0006aspace_232369a2173006140fdaf11fe35b99cf</field>
+    <field name="ead_ssi">cbhm_0006</field>
+    <field name="parent_ssi">aspace_377d754986896afddd65fd4c377009af</field>
+    <field name="parent_ssm">aspace_377d754986896afddd65fd4c377009af</field>
+    <field name="parent_unittitles_ssm">Series 1: Education in Brooklyn</field>
+    <field name="parent_unittitles_teim">Series 1: Education in Brooklyn</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn schools collection</field>
+    <field name="collection_ssm">Brooklyn schools collection</field>
+    <field name="collection_unitid_ssm">CBHM.0006</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">General school and education materials</field>
+    <field name="unittitle_teim">General school and education materials</field>
+    <field name="ref_ssi">aspace_232369a2173006140fdaf11fe35b99cf</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn schools collection</field>
+    <field name="collection_unitid_teim">CBHM.0006</field>
+    <field name="series_sim">Series 1: Education in Brooklyn</field>
+    <field name="series_si">Series 1: Education in Brooklyn &gt;&gt; General school and education materials</field>
+    <field name="heading_ssm">General school and education materials</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

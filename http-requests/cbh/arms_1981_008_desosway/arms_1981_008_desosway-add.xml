@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Nicholas Pavlik</field>
+    <field name="author_ssm">Nicholas Pavlik</field>
+    <field name="unittitle_teim">Cornelius Desosway receipt fragment</field>
+    <field name="unittitle_ssm">Cornelius Desosway receipt fragment</field>
+    <field name="unitid_teim">1981.008</field>
+    <field name="unitid_ssm">1981.008</field>
+    <field name="abstract_teim">Handwritten fragment of a receipt, dated 1820, between Cornelius Desosway and an individual residing in New York City whose first name is Gerardus.  The surname of the second individual is not included on the fragment.</field>
+    <field name="abstract_ssm">Handwritten fragment of a receipt, dated 1820, between Cornelius Desosway and an individual residing in New York City whose first name is Gerardus.  The surname of the second individual is not included on the fragment.</field>
+    <field name="unitdate_normal_ssm">1820/1820</field>
+    <field name="unitdate_normal_teim">1820/1820</field>
+    <field name="unitdate_normal_sim">1820/1820</field>
+    <field name="unitdate_inclusive_teim">1820</field>
+    <field name="acqinfo_teim">Source and date of acquisition unknown.  Formally accessioned in 1981.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Receipts (financial records)</field>
+    <field name="genreform_ssm">Receipts (financial records)</field>
+    <field name="geogname_teim">New York (N.Y.)</field>
+    <field name="geogname_ssm">New York (N.Y.)</field>
+    <field name="persname_teim">Desosway, Cornelius</field>
+    <field name="persname_teim">Desosway, Cornelius</field>
+    <field name="persname_ssm">Desosway, Cornelius</field>
+    <field name="persname_ssm">Desosway, Cornelius</field>
+    <field name="collection_sim">Cornelius Desosway receipt fragment</field>
+    <field name="collection_ssm">Cornelius Desosway receipt fragment</field>
+    <field name="collection_teim">Cornelius Desosway receipt fragment</field>
+    <field name="id">arms_1981_008_desosway</field>
+    <field name="ead_ssi">arms_1981_008_desosway</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Desosway, Cornelius</field>
+    <field name="name_teim">Desosway, Cornelius</field>
+    <field name="place_sim">New York (N.Y.)</field>
+    <field name="material_type_sim">Receipts (financial records)</field>
+    <field name="material_type_ssm">Receipts (financial records)</field>
+    <field name="heading_ssm">Cornelius Desosway receipt fragment</field>
+    <field name="unitdate_start_sim">1820</field>
+    <field name="unitdate_start_ssm">1820</field>
+    <field name="unitdate_start_si">1820</field>
+    <field name="unitdate_end_sim">1820</field>
+    <field name="unitdate_end_ssm">1820</field>
+    <field name="unitdate_end_si">1820</field>
+    <field name="unitdate_ssm">Inclusive, 1820</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

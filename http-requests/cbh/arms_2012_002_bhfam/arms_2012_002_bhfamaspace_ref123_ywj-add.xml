@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2012_002_bhfamaspace_ref123_ywj</field>
+    <field name="ead_ssi">arms_2012_002_bhfam</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn Home for Aged Men records</field>
+    <field name="collection_ssm">Brooklyn Home for Aged Men records</field>
+    <field name="collection_unitid_ssm">2012.002</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Resident files</field>
+    <field name="unittitle_teim">Series 2: Resident files</field>
+    <field name="unitdate_normal_ssm">1892/1976</field>
+    <field name="unitdate_normal_teim">1892/1976</field>
+    <field name="unitdate_normal_sim">1892/1976</field>
+    <field name="unitdate_inclusive_teim">1892-1976</field>
+    <field name="scopecontent_teim">The Resident files series contains records related to resident's of the Brooklyn Home for Aged Men, dating from 1892 to 1976. These include applications, assignments, agreements, funeral bills, and other administrative, legal, and financial records. Additional records related to residents are included in the Administrative and financial records series.</field>
+    <field name="ref_ssi">aspace_ref123_ywj</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn Home for Aged Men records</field>
+    <field name="collection_unitid_teim">2012.002</field>
+    <field name="series_si">Series 2: Resident files</field>
+    <field name="heading_ssm">Series 2: Resident files</field>
+    <field name="unitdate_start_sim">1892</field>
+    <field name="unitdate_start_ssm">1892</field>
+    <field name="unitdate_start_si">1892</field>
+    <field name="unitdate_end_sim">1976</field>
+    <field name="unitdate_end_ssm">1976</field>
+    <field name="unitdate_end_si">1976</field>
+    <field name="unitdate_ssm">Inclusive, 1892-1976</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">58</field>
+  </doc>
+</add>

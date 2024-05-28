@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1977_041_brooklyn_theateraspace_ref12_i0f</field>
+    <field name="ead_ssi">arms_1977_041_brooklyn_theater</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn theater collection</field>
+    <field name="collection_ssm">Brooklyn theater collection</field>
+    <field name="collection_unitid_ssm">1977.041</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Playbills, programs and ephemera</field>
+    <field name="unittitle_teim">Series 2: Playbills, programs and ephemera</field>
+    <field name="unitdate_normal_ssm">1796/1939</field>
+    <field name="unitdate_normal_teim">1796/1939</field>
+    <field name="unitdate_normal_sim">1796/1939</field>
+    <field name="unitdate_inclusive_teim">1796-1939</field>
+    <field name="scopecontent_teim">Items in this series are organized alphabetically by venue.  Included are playbills and programs from a number of Brooklyn and Manhattan theaters that seem to have been amassed by patrons as souvenirs. These programs and playbills provide information about a variety of theater productions, including names of performers, productions, the different acts that comprised an evening's entertainment, and advertisements.  Also included is one copy of the April 4, 1891 issue of The Theatre Goer, a weekly news publication containing programs and listings of music and drama performances in Brooklyn and the New York City area.</field>
+    <field name="ref_ssi">aspace_ref12_i0f</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn theater collection</field>
+    <field name="collection_unitid_teim">1977.041</field>
+    <field name="series_si">Series 2: Playbills, programs and ephemera</field>
+    <field name="heading_ssm">Series 2: Playbills, programs and ephemera</field>
+    <field name="unitdate_start_sim">1796</field>
+    <field name="unitdate_start_ssm">1796</field>
+    <field name="unitdate_start_si">1796</field>
+    <field name="unitdate_end_sim">1939</field>
+    <field name="unitdate_end_ssm">1939</field>
+    <field name="unitdate_end_si">1939</field>
+    <field name="unitdate_ssm">Inclusive, 1796-1939</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

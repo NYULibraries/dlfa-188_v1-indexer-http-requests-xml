@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0041aspace_ref333</field>
+    <field name="ead_ssi">bcms_0041</field>
+    <field name="parent_ssi">aspace_ref249</field>
+    <field name="parent_ssm">aspace_ref249</field>
+    <field name="parent_unittitles_ssm">Brooklyn Academy of Music</field>
+    <field name="parent_unittitles_teim">Brooklyn Academy of Music</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_ssm">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0041</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Lakmé</field>
+    <field name="unittitle_teim">Lakmé</field>
+    <field name="unitdate_teim">March 24, [1887]</field>
+    <field name="ref_ssi">aspace_ref333</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_teim">BCMS.0041</field>
+    <field name="series_sim">Brooklyn Academy of Music</field>
+    <field name="series_si">Brooklyn Academy of Music &gt;&gt; Lakmé</field>
+    <field name="heading_ssm">Lakmé</field>
+    <field name="unitdate_ssm">March 24, [1887]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">146</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref170</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Times Newsweekly</field>
+    <field name="unittitle_teim">Times Newsweekly</field>
+    <field name="unitdate_normal_ssm">1989/1998</field>
+    <field name="unitdate_normal_teim">1989/1998</field>
+    <field name="unitdate_normal_sim">1989/1998</field>
+    <field name="unitdate_inclusive_teim">1989-1998</field>
+    <field name="scopecontent_teim">Established in 1908 as the Ridgewood Times, Times Newsweekly provides local news coverage of business, politics, education, community events, clubs and organizations, religion, arts, culture, sports, and entertainment. The neighborhoods of Ridgewood, Maspeth, Woodhaven, and Glendale are all covered. Birth announcements, wedding announcements, and obituaries all regularly appear in the paper. Scouting news, for both Boy Scouts and Girl Scouts, is also regularly covered. Advertisements and photographs appear throughout.</field>
+    <field name="ref_ssi">aspace_ref170</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">bin: 33</field>
+    <field name="location_si">bin: 33</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Times Newsweekly</field>
+    <field name="heading_ssm">Times Newsweekly</field>
+    <field name="unitdate_start_sim">1989</field>
+    <field name="unitdate_start_ssm">1989</field>
+    <field name="unitdate_start_si">1989</field>
+    <field name="unitdate_end_sim">1998</field>
+    <field name="unitdate_end_ssm">1998</field>
+    <field name="unitdate_end_si">1998</field>
+    <field name="unitdate_ssm">Inclusive, 1989-1998</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">80</field>
+  </doc>
+</add>

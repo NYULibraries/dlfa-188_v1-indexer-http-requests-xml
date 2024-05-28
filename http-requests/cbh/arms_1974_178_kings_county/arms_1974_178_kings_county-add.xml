@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">Kings County tax assessment</field>
+    <field name="unittitle_ssm">Kings County tax assessment</field>
+    <field name="unitid_teim">1974.178</field>
+    <field name="unitid_ssm">1974.178</field>
+    <field name="abstract_teim">A single document that lists tax valuations for properties in Kings County, prepared by Selah Strong.  29 land owners are listed on the document.</field>
+    <field name="abstract_ssm">A single document that lists tax valuations for properties in Kings County, prepared by Selah Strong.  29 land owners are listed on the document.</field>
+    <field name="unitdate_normal_ssm">1785/1805</field>
+    <field name="unitdate_normal_teim">1785/1805</field>
+    <field name="unitdate_normal_sim">1785/1805</field>
+    <field name="unitdate_inclusive_teim">circa 1795</field>
+    <field name="acqinfo_teim">Gift of Kate W. Strong, 1939.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Lists (document genres)</field>
+    <field name="genreform_ssm">Lists (document genres)</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_teim">Kings County (N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Kings County (N.Y.)</field>
+    <field name="persname_teim">Strong, Selah</field>
+    <field name="persname_ssm">Strong, Selah</field>
+    <field name="subject_teim">Tax assessment |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Tax assessment -- New York (State) -- Kings County</field>
+    <field name="subject_ssm">Tax assessment |z New York (State) |z Kings County</field>
+    <field name="collection_sim">Kings County tax assessment</field>
+    <field name="collection_ssm">Kings County tax assessment</field>
+    <field name="collection_teim">Kings County tax assessment</field>
+    <field name="id">arms_1974_178_kings_county</field>
+    <field name="ead_ssi">arms_1974_178_kings_county</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Strong, Selah</field>
+    <field name="name_teim">Strong, Selah</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="place_sim">Kings County (N.Y.)</field>
+    <field name="subject_sim">Tax assessment -- New York (State) -- Kings County</field>
+    <field name="material_type_sim">Lists (document genres)</field>
+    <field name="material_type_ssm">Lists (document genres)</field>
+    <field name="heading_ssm">Kings County tax assessment</field>
+    <field name="unitdate_start_sim">1785</field>
+    <field name="unitdate_start_ssm">1785</field>
+    <field name="unitdate_start_si">1785</field>
+    <field name="unitdate_end_sim">1805</field>
+    <field name="unitdate_end_ssm">1805</field>
+    <field name="unitdate_end_si">1805</field>
+    <field name="unitdate_ssm">Inclusive, circa 1795</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

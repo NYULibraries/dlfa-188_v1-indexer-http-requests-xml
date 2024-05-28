@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2007_001_sbsbaspace_ref12_vj3</field>
+    <field name="ead_ssi">arms_2007_001_sbsb</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">South Brooklyn Savings Bank records</field>
+    <field name="collection_ssm">South Brooklyn Savings Bank records</field>
+    <field name="collection_unitid_ssm">2007.001</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Administrative files</field>
+    <field name="unittitle_teim">Series 3: Administrative files</field>
+    <field name="unitdate_normal_ssm">1883/2006</field>
+    <field name="unitdate_normal_teim">1883/2006</field>
+    <field name="unitdate_normal_sim">1883/2006</field>
+    <field name="unitdate_inclusive_teim">1883-2006</field>
+    <field name="scopecontent_teim">The series represents a small collection of files which were produced by the Board of Trustees and various administrative departments throughout the history of the bank, dating from 1883 to 2006.</field>
+    <field name="scopecontent_teim">It contains property titles (1886-1892), public relations and advertising files (1937-2005), building and renovation files (1930-1977), copies of 1850 and 1859 articles of incorporaton, one file on the 2006 acquisition of the Independence Community Bank Corporation by Sovereign Bancorp, Inc., and other documents.</field>
+    <field name="ref_ssi">aspace_ref12_vj3</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">South Brooklyn Savings Bank records</field>
+    <field name="collection_unitid_teim">2007.001</field>
+    <field name="series_si">Series 3: Administrative files</field>
+    <field name="heading_ssm">Series 3: Administrative files</field>
+    <field name="unitdate_start_sim">1883</field>
+    <field name="unitdate_start_ssm">1883</field>
+    <field name="unitdate_start_si">1883</field>
+    <field name="unitdate_end_sim">2006</field>
+    <field name="unitdate_end_ssm">2006</field>
+    <field name="unitdate_end_si">2006</field>
+    <field name="unitdate_ssm">Inclusive, 1883-2006</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">130</field>
+  </doc>
+</add>

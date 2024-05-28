@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_258_community_newspaper_collectionaspace_ref115_6w1</field>
+    <field name="ead_ssi">arc_258_community_newspaper_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Historical Society newspaper collection</field>
+    <field name="collection_ssm">Brooklyn Historical Society newspaper collection</field>
+    <field name="collection_unitid_ssm">ARC.258</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Canarsie Digest (eight bound volumes)</field>
+    <field name="unittitle_teim">Canarsie Digest (eight bound volumes)</field>
+    <field name="unitdate_normal_ssm">2001/2005</field>
+    <field name="unitdate_normal_teim">2001/2005</field>
+    <field name="unitdate_normal_sim">2001/2005</field>
+    <field name="unitdate_inclusive_teim">2001-2005</field>
+    <field name="ref_ssi">aspace_ref115_6w1</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">volume: Library gallery shelf 29.1.H</field>
+    <field name="location_si">volume: Library gallery shelf 29.1.H</field>
+    <field name="collection_teim">Brooklyn Historical Society newspaper collection</field>
+    <field name="collection_unitid_teim">ARC.258</field>
+    <field name="series_si">Canarsie Digest (eight bound volumes)</field>
+    <field name="heading_ssm">Canarsie Digest (eight bound volumes)</field>
+    <field name="unitdate_start_sim">2001</field>
+    <field name="unitdate_start_ssm">2001</field>
+    <field name="unitdate_start_si">2001</field>
+    <field name="unitdate_end_sim">2005</field>
+    <field name="unitdate_end_ssm">2005</field>
+    <field name="unitdate_end_si">2005</field>
+    <field name="unitdate_ssm">Inclusive, 2001-2005</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">127</field>
+  </doc>
+</add>

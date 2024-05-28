@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_304_junioraspace_ref506_kwv</field>
+    <field name="ead_ssi">arc_304_junior</field>
+    <field name="parent_ssi">aspace_ref319_tsc</field>
+    <field name="parent_ssm">aspace_ref319_tsc</field>
+    <field name="parent_unittitles_ssm">Series 5: Subject Files</field>
+    <field name="parent_unittitles_teim">Series 5: Subject Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Junior League of Brooklyn records</field>
+    <field name="collection_ssm">Junior League of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.304</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Neighborhood Family Services Coalition</field>
+    <field name="unittitle_teim">Neighborhood Family Services Coalition</field>
+    <field name="unitdate_normal_ssm">1982/1983</field>
+    <field name="unitdate_normal_teim">1982/1983</field>
+    <field name="unitdate_normal_sim">1982/1983</field>
+    <field name="unitdate_inclusive_teim">1982-1983</field>
+    <field name="ref_ssi">aspace_ref506_kwv</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 19, Folder: 18</field>
+    <field name="location_ssm">Folder: 18</field>
+    <field name="location_si">Folder: 18</field>
+    <field name="collection_teim">Junior League of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.304</field>
+    <field name="series_sim">Series 5: Subject Files</field>
+    <field name="series_si">Series 5: Subject Files &gt;&gt; Neighborhood Family Services Coalition</field>
+    <field name="heading_ssm">Neighborhood Family Services Coalition</field>
+    <field name="unitdate_start_sim">1982</field>
+    <field name="unitdate_start_ssm">1982</field>
+    <field name="unitdate_start_si">1982</field>
+    <field name="unitdate_end_sim">1983</field>
+    <field name="unitdate_end_ssm">1983</field>
+    <field name="unitdate_end_si">1983</field>
+    <field name="unitdate_ssm">Inclusive, 1982-1983</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">463</field>
+  </doc>
+</add>

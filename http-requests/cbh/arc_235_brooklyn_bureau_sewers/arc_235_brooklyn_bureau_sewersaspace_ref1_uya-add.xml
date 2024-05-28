@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_235_brooklyn_bureau_sewersaspace_ref1_uya</field>
+    <field name="ead_ssi">arc_235_brooklyn_bureau_sewers</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_ssm">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_ssm">ARC.235</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Assessment Binders</field>
+    <field name="unittitle_teim">Series 1: Assessment Binders</field>
+    <field name="unitdate_normal_ssm">1859/1962</field>
+    <field name="unitdate_normal_teim">1859/1962</field>
+    <field name="unitdate_normal_sim">1859/1962</field>
+    <field name="unitdate_inclusive_teim">circa 1859-circa 1962</field>
+    <field name="scopecontent_teim">This series includes the documents compiled by the Bureau of Sewers for the likely purpose of establishing the tax assessments to be levied for particular sewer projects. For each project the relevant documents were compiled in an "assessment binder." The documents include maps of the blocks and lots relevant to a sewer project, lists of the property owners by lot, name of the contractor engaged in the project, and certifications about the project and the provided information. There are few technical project details in the material as the documents seem to focus on setting the assessments rather than on project construction.</field>
+    <field name="scopecontent_teim">The bulk of the material dates from circa 1900 to 1930 and concerns the development of the Bay Ridge, Flatbush, and "Ocean Front" (e.g., Flatlands, Gravesend) districts in the consolidated borough of Brooklyn. Nonetheless, there is substantial material pre-dating Brooklyn's 1898 consolidation with New York City. The earliest of these pre-consolidation binders date from circa 1859, with the bulk from the 1880s-1890s. There are also about 200 binders from the years around consolidation, about 200 binders from the mid-twentieth century (circa 1943-1962), and a small number of Queens County assessment binders from the early twentieth century.</field>
+    <field name="ref_ssi">aspace_ref1_uya</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_teim">ARC.235</field>
+    <field name="series_si">Series 1: Assessment Binders</field>
+    <field name="heading_ssm">Series 1: Assessment Binders</field>
+    <field name="unitdate_start_sim">1859</field>
+    <field name="unitdate_start_ssm">1859</field>
+    <field name="unitdate_start_si">1859</field>
+    <field name="unitdate_end_sim">1962</field>
+    <field name="unitdate_end_ssm">1962</field>
+    <field name="unitdate_end_si">1962</field>
+    <field name="unitdate_ssm">Inclusive, circa 1859-circa 1962</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">Susan B. Anthony letter</field>
+    <field name="unittitle_ssm">Susan B. Anthony letter</field>
+    <field name="unitid_teim">1974.222</field>
+    <field name="unitid_ssm">1974.222</field>
+    <field name="abstract_teim">A typewritten letter from Susan B. Anthony to Mr. E. Butterick of Brooklyn on behalf of the National-American Woman Suffrage Association, dated 1895. The letter invites Mr. Butterick to the 80th birthday celebration of Elizabeth Cady Stanton, in addition to soliciting a donation to the Association's campaign for womens' suffrage. The letter is signed with Ms. Anthony's signature.</field>
+    <field name="abstract_ssm">A typewritten letter from Susan B. Anthony to Mr. E. Butterick of Brooklyn on behalf of the National-American Woman Suffrage Association, dated 1895. The letter invites Mr. Butterick to the 80th birthday celebration of Elizabeth Cady Stanton, in addition to soliciting a donation to the Association's campaign for womens' suffrage. The letter is signed with Ms. Anthony's signature.</field>
+    <field name="unitdate_normal_ssm">1895/1895</field>
+    <field name="unitdate_normal_teim">1895/1895</field>
+    <field name="unitdate_normal_sim">1895/1895</field>
+    <field name="unitdate_inclusive_teim">1895</field>
+    <field name="acqinfo_teim">Source and date of acquisition unknown.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Correspondence</field>
+    <field name="genreform_ssm">Correspondence</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="persname_teim">Stanton, Elizabeth Cady</field>
+    <field name="persname_ssm">Stanton, Elizabeth Cady</field>
+    <field name="subject_teim">Women |x Suffrage</field>
+    <field name="subject_teim">Women -- Suffrage</field>
+    <field name="subject_ssm">Women |x Suffrage</field>
+    <field name="collection_sim">Susan B. Anthony letter</field>
+    <field name="collection_ssm">Susan B. Anthony letter</field>
+    <field name="collection_teim">Susan B. Anthony letter</field>
+    <field name="id">arms_1974_222_anthony</field>
+    <field name="ead_ssi">arms_1974_222_anthony</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Stanton, Elizabeth Cady</field>
+    <field name="name_teim">Stanton, Elizabeth Cady</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_sim">Women -- Suffrage</field>
+    <field name="material_type_sim">Correspondence</field>
+    <field name="material_type_ssm">Correspondence</field>
+    <field name="heading_ssm">Susan B. Anthony letter</field>
+    <field name="unitdate_start_sim">1895</field>
+    <field name="unitdate_start_ssm">1895</field>
+    <field name="unitdate_start_si">1895</field>
+    <field name="unitdate_end_sim">1895</field>
+    <field name="unitdate_end_ssm">1895</field>
+    <field name="unitdate_end_si">1895</field>
+    <field name="unitdate_ssm">Inclusive, 1895</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

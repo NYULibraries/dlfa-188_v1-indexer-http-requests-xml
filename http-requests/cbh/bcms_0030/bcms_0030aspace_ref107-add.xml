@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0030aspace_ref107</field>
+    <field name="ead_ssi">bcms_0030</field>
+    <field name="parent_ssi">aspace_ref106</field>
+    <field name="parent_ssm">aspace_ref106</field>
+    <field name="parent_unittitles_ssm">Prospect Heights High School</field>
+    <field name="parent_unittitles_teim">Prospect Heights High School</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;The Scribe&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      The Scribe
+    </field>
+    <field name="unitdate_inclusive_teim">November 1961 - April 1962</field>
+    <field name="ref_ssi">aspace_ref107</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6 - restricted</field>
+    <field name="location_si">Box: 6 - restricted</field>
+    <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_teim">BCMS.0030</field>
+    <field name="series_sim">Prospect Heights High School</field>
+    <field name="series_si">Prospect Heights High School &gt;&gt; 
+      &lt;em&gt;The Scribe&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      The Scribe
+    </field>
+    <field name="unitdate_ssm">Inclusive, November 1961 - April 1962</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">71</field>
+  </doc>
+</add>

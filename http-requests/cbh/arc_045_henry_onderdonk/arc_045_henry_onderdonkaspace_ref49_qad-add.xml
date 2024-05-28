@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_045_henry_onderdonkaspace_ref49_qad</field>
+    <field name="ead_ssi">arc_045_henry_onderdonk</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Henry Onderdonk papers</field>
+    <field name="collection_ssm">Henry Onderdonk papers</field>
+    <field name="collection_unitid_ssm">ARC.045</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Correspondence</field>
+    <field name="unittitle_teim">Series 2: Correspondence</field>
+    <field name="unitdate_normal_ssm">1835/1885</field>
+    <field name="unitdate_normal_teim">1835/1885</field>
+    <field name="unitdate_normal_sim">1835/1885</field>
+    <field name="unitdate_inclusive_teim">1835-1885</field>
+    <field name="scopecontent_teim">The Correspondence series includes the extensive correspondence sent to Onderdonk by historians, genealogists, librarians, and others. This correspondence both requested information of Onderdonk and provided information at his request. The mutual support between Onderdonk and his correspondents in their historical research endeavors is apparent throughout the series.</field>
+    <field name="scopecontent_teim">As described in the Arrangement Note, the series has four sets of correspondence. These sets are more a reflection of Onderdonk's filing systems, Brooklyn Historical Society's past processing practices, and the varied sources of the correspondence than of any substantial difference in content or chronology. Accordingly, the general themes of the correspondence are consistent across the sets, and many of the correspondents are found in more than one set. Nonetheless, each set has its own strengths: </field>
+    <field name="scopecontent_teim">A principal theme of Set 2-1 is the Revolutionary War, especially the Battle of Long Island and, to a lesser extent, the execution of Nathan Hale. The set also includes notes on genealogy, acknowledgements of receipts of Onderdonk's published works by individuals, libraries, etc.; invitations to readings, college commencements, celebrations, meetings, etc.; and requests of Onderdonk for historical and family history. Much of the correspondence takes the form of responses to specific Onderdonk requests for information, publications, etc. The bound correspondence includes some transcriptions of Long Island town records, including those of Jamaica, Flushing, and Hempstead. Hempstead history is a notable subject of the bound correspondence. Substantive correspondence in the set comes from authors and historians James Fenimore Cooper, George Bancroft, Charles Hoadly, Jared Sparks, Lorenzo Sabine, Thomas A. Strong, Benjamin F. Thompson, I.W. Stuart, and E.B. O'Callaghan. Other notable correspondents, though not necessarily conveying substantive matter, include John Breckinridge, James Buchanan, Washington Irving, William H. Seward, and Hamilton Fish, along with other U.S. senators, Congressmen, and state politicians. Correspondents that appear in other BHS collections include Henry Stiles, Henry Pierrepont, Jeremiah Johnson, and Henry Murphy. </field>
+    <field name="scopecontent_teim">Set 2-2 also principally involves genealogy, requests for information, sharing information about the availability of particular books, and the like. The set includes a folder of correspondence with or about Quakers (Friends). Most notable in this regard is a letter from Rachel Hicks discussing Elias Hicks and Gideon Seaman, along with Quakers on Long Island in relation to American Indians, slavery, and the American Revolution. Also included in this set is correspondence from Onderdonk's former classmates at Harvard College and other Boston-area correspondents. Notable correspondents in this set include Lyman Draper commenting on the State Historical Society of Wisconsin, historian Jeptha Root Simms and Columbia College librarian William Alfred Jones commenting on various historical works or events, and Long Island genealogist Benjamin D. Hicks. Onderdonk's indexes and lists of names for this set are found in each folder.</field>
+    <field name="scopecontent_teim">Set 2-3 includes requests of Onderdonk for information, publications, etc., and responses to Onderdonk's requests for same. The principal subject matter concerns genealogy, church history (especially Quakers and the Episcopal Church), and the American Revolution. Major correspondents include historians and genealogists Teunis Bergen, Jacob T. Bowne, Rev. Edward T. Corwin of Millstone, NJ, John J. Latting, and E.B. O'Callaghan. Other correspondents that can be found in BHS collections include Henry C. Murphy, Henry Stiles, and William S. Pelletreau. Requests for publications included correspondence from US senators and Congressmen, such as Roscoe Conkling, Hamilton Fish, and Dwight Townsend. A letter from William Pelletreau in the set's "miscellaneous research requests" referring to four beads of wampum may provide insight to the source of the wampum found in the Historical Manuscripts and Notes series. An 1875 letter from William Potts of Camden, NJ, surveys Quaker objections to slavery in New Jersey and Pennsylvania.</field>
+    <field name="scopecontent_teim">Set 2-4 includes an 1856 letter from future president James Buchanan acknowledging his induction to the Long Island Bible Society, James Fenimore Cooper writing of British general Oliver de Lancey, E.F. Ellet corresponding with Onderdonk concerning her histories of the American Revolution (which emphasized women and domestic matters), and Gideon Frost, John Hicks, Benson Lossing, and James Riker on sources and writings concerning Long Island Quakers and Revolutionary War history.</field>
+    <field name="ref_ssi">aspace_ref49_qad</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Henry Onderdonk papers</field>
+    <field name="collection_unitid_teim">ARC.045</field>
+    <field name="series_si">Series 2: Correspondence</field>
+    <field name="heading_ssm">Series 2: Correspondence</field>
+    <field name="unitdate_start_sim">1835</field>
+    <field name="unitdate_start_ssm">1835</field>
+    <field name="unitdate_start_si">1835</field>
+    <field name="unitdate_end_sim">1885</field>
+    <field name="unitdate_end_ssm">1885</field>
+    <field name="unitdate_end_si">1885</field>
+    <field name="unitdate_ssm">Inclusive, 1835-1885</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">44</field>
+  </doc>
+</add>

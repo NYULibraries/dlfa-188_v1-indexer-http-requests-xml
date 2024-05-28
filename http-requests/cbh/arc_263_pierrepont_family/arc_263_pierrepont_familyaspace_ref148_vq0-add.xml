@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_263_pierrepont_familyaspace_ref148_vq0</field>
+    <field name="ead_ssi">arc_263_pierrepont_family</field>
+    <field name="parent_ssi">aspace_ref102_cm1</field>
+    <field name="parent_ssm">aspace_ref102_cm1</field>
+    <field name="parent_unittitles_ssm">Series 4: Pierrepont Stores</field>
+    <field name="parent_unittitles_teim">Series 4: Pierrepont Stores</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Pierrepont family papers</field>
+    <field name="collection_ssm">Pierrepont family papers</field>
+    <field name="collection_unitid_ssm">ARC.263</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 5: Cargo Received Ledgers</field>
+    <field name="unittitle_teim">Sub-series 5: Cargo Received Ledgers</field>
+    <field name="unitdate_normal_ssm">1858/1888</field>
+    <field name="unitdate_normal_teim">1858/1888</field>
+    <field name="unitdate_normal_sim">1858/1888</field>
+    <field name="unitdate_inclusive_teim">1858-1888</field>
+    <field name="scopecontent_teim">Eleven volumes covering the periods 1858-1883 and 1885-1888 replicate the information found in the Storage Ledgers.  Especially interesting is that these volumes also list the origin of each ship.  The volumes are indexed by ship and entries list the client, ship, and cargo.  In addition, entries record port of origin, date of departure from that port, ports of call (much of this information is conveyed in symbols), duty charged, and receipt numbers, which do not appear to coincide with the receipt books of Sub-series 6.  Individual records occasionally include detailed notes of instruction regarding the care of the cargo.  Cancelled orders and ships returned in "distress" are also noted, as are transfers to other ships, which are recorded in red ink.</field>
+    <field name="scopecontent_teim">The "Cargo Received" Ledgers are especially notable in tracking increasingly diverse imports. The records show the growing demand for, and importance of, imports from colonial provinces in India and Asia, including Calcutta and Manila.  The most common cargoes appear to be sugar and molasses; other frequent items include hemp, shellac, and hides, as well as spices and textiles.</field>
+    <field name="ref_ssi">aspace_ref148_vq0</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Pierrepont family papers</field>
+    <field name="collection_unitid_teim">ARC.263</field>
+    <field name="series_sim">Series 4: Pierrepont Stores</field>
+    <field name="series_si">Series 4: Pierrepont Stores &gt;&gt; Sub-series 5: Cargo Received Ledgers</field>
+    <field name="heading_ssm">Sub-series 5: Cargo Received Ledgers</field>
+    <field name="unitdate_start_sim">1858</field>
+    <field name="unitdate_start_ssm">1858</field>
+    <field name="unitdate_start_si">1858</field>
+    <field name="unitdate_end_sim">1888</field>
+    <field name="unitdate_end_ssm">1888</field>
+    <field name="unitdate_end_si">1888</field>
+    <field name="unitdate_ssm">Inclusive, 1858-1888</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">85</field>
+  </doc>
+</add>

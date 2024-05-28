@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">New York State property and estate records</field>
+    <field name="unittitle_ssm">New York State property and estate records</field>
+    <field name="unitid_teim">1977.437</field>
+    <field name="unitid_ssm">1977.437</field>
+    <field name="abstract_teim">The collection contains a deed between John Tenbruck and Peter Gallatian for a lot of land on Duke Street in New York City as well as a letter of administration for the estate of Garret Miller.</field>
+    <field name="abstract_ssm">The collection contains a deed between John Tenbruck and Peter Gallatian for a lot of land on Duke Street in New York City as well as a letter of administration for the estate of Garret Miller.</field>
+    <field name="unitdate_normal_ssm">1745/1778</field>
+    <field name="unitdate_normal_teim">1745/1778</field>
+    <field name="unitdate_normal_sim">1745/1778</field>
+    <field name="unitdate_inclusive_teim">1745-1778</field>
+    <field name="scopecontent_teim">The collection contains a deed between John Tenbruck, of Poughkeepsie, New York, and Peter Gallatian, of New York City, for a lot of land on Duke Street in New York City. It also contains a letter of administration for the estate of Garret Miller, naming his widow the executrix and Nathanial Seeley the executor.</field>
+    <field name="acqinfo_teim">Source and date of acquisition unknown. The collection was formally accessioned in 1977.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Estate records</field>
+    <field name="genreform_ssm">Estate records</field>
+    <field name="geogname_teim">New York (N.Y.)</field>
+    <field name="geogname_ssm">New York (N.Y.)</field>
+    <field name="persname_teim">Miller, Garret</field>
+    <field name="persname_teim">Tenbruck, John</field>
+    <field name="persname_teim">Gallatian, Peter</field>
+    <field name="persname_ssm">Miller, Garret</field>
+    <field name="persname_ssm">Tenbruck, John</field>
+    <field name="persname_ssm">Gallatian, Peter</field>
+    <field name="subject_teim">Deeds</field>
+    <field name="subject_teim">Deeds</field>
+    <field name="subject_ssm">Deeds</field>
+    <field name="collection_sim">New York State property and estate records</field>
+    <field name="collection_ssm">New York State property and estate records</field>
+    <field name="collection_teim">New York State property and estate records</field>
+    <field name="id">arms_1977_437_new_york_property</field>
+    <field name="ead_ssi">arms_1977_437_new_york_property</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Miller, Garret</field>
+    <field name="name_sim">Tenbruck, John</field>
+    <field name="name_sim">Gallatian, Peter</field>
+    <field name="name_teim">Miller, Garret</field>
+    <field name="name_teim">Tenbruck, John</field>
+    <field name="name_teim">Gallatian, Peter</field>
+    <field name="place_sim">New York (N.Y.)</field>
+    <field name="subject_sim">Deeds</field>
+    <field name="material_type_sim">Estate records</field>
+    <field name="material_type_ssm">Estate records</field>
+    <field name="heading_ssm">New York State property and estate records</field>
+    <field name="unitdate_start_sim">1745</field>
+    <field name="unitdate_start_ssm">1745</field>
+    <field name="unitdate_start_si">1745</field>
+    <field name="unitdate_end_sim">1778</field>
+    <field name="unitdate_end_ssm">1778</field>
+    <field name="unitdate_end_si">1778</field>
+    <field name="unitdate_ssm">Inclusive, 1745-1778</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

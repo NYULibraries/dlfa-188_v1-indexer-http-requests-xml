@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref164</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Prospect Press</field>
+    <field name="unittitle_teim">Prospect Press</field>
+    <field name="unitdate_normal_ssm">1982/1987</field>
+    <field name="unitdate_normal_teim">1982/1987</field>
+    <field name="unitdate_normal_sim">1982/1987</field>
+    <field name="unitdate_inclusive_teim">1982-1987</field>
+    <field name="scopecontent_teim">Largely focusing on the neighborhoods of Park Slope, Sunset Park, Kensington, and Windsor Terrace, the Prospect Press provides local news coverage of business, politics, education, community events, clubs and organizations, arts, culture, and entertainment. Birth announcements and wedding announcements do not appear in the paper. Obituaries for prominent Brooklynites occasionally appear. In-depth profiles of Park Slope residents—from Vietnamese immigrants to psychics—regularly appear in the paper. Advertisements and photographs appear throughout.</field>
+    <field name="ref_ssi">aspace_ref164</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">bin: 32</field>
+    <field name="location_si">bin: 32</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Prospect Press</field>
+    <field name="heading_ssm">Prospect Press</field>
+    <field name="unitdate_start_sim">1982</field>
+    <field name="unitdate_start_ssm">1982</field>
+    <field name="unitdate_start_si">1982</field>
+    <field name="unitdate_end_sim">1987</field>
+    <field name="unitdate_end_ssm">1987</field>
+    <field name="unitdate_end_si">1987</field>
+    <field name="unitdate_ssm">Inclusive, 1982-1987</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">77</field>
+  </doc>
+</add>

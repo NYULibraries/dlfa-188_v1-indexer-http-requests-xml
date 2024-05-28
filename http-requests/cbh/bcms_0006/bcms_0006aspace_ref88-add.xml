@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0006aspace_ref88</field>
+    <field name="ead_ssi">bcms_0006</field>
+    <field name="parent_ssi">aspace_ref87</field>
+    <field name="parent_ssm">aspace_ref87</field>
+    <field name="parent_unittitles_ssm">Series V: Photographic Media</field>
+    <field name="parent_unittitles_teim">Series V: Photographic Media</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Terrence J. Allen Prospect Park Collection</field>
+    <field name="collection_ssm">Terrence J. Allen Prospect Park Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0006</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 5.1: Photographs</field>
+    <field name="unittitle_teim">Subseries 5.1: Photographs</field>
+    <field name="scopecontent_teim">The photographs are mostly in black and white and range in date from 1892 to 1934. Of note are 14 panoramic prints on scrapbook board dating from 1907, and 10 black and white snapshots of one couple's day in the park from 1934. Locations depicted in the park include the Terrace Bridge, lake, lawn, Concert Grove, boat house, Lincoln Monument, and Soldiers and Sailors Memorial Arch. Photographs are arranged by date, although their original order can be reconstructed by sequencing the call numbers assigned to each of the photographs.</field>
+    <field name="ref_ssi">aspace_ref88</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Terrence J. Allen Prospect Park Collection</field>
+    <field name="collection_unitid_teim">BCMS.0006</field>
+    <field name="series_sim">Series V: Photographic Media</field>
+    <field name="series_si">Series V: Photographic Media &gt;&gt; Subseries 5.1: Photographs</field>
+    <field name="heading_ssm">Subseries 5.1: Photographs</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">75</field>
+  </doc>
+</add>

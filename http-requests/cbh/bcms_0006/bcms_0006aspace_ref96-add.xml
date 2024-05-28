@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0006aspace_ref96</field>
+    <field name="ead_ssi">bcms_0006</field>
+    <field name="parent_ssi">aspace_ref88</field>
+    <field name="parent_ssm">aspace_ref87</field>
+    <field name="parent_ssm">aspace_ref88</field>
+    <field name="parent_unittitles_ssm">Series V: Photographic Media</field>
+    <field name="parent_unittitles_ssm">Subseries 5.1: Photographs</field>
+    <field name="parent_unittitles_teim">Series V: Photographic Media</field>
+    <field name="parent_unittitles_teim">Subseries 5.1: Photographs</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Terrence J. Allen Prospect Park Collection</field>
+    <field name="collection_ssm">Terrence J. Allen Prospect Park Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0006</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Panoramic photographs on scrapbook board</field>
+    <field name="unittitle_teim">Panoramic photographs on scrapbook board</field>
+    <field name="unitdate_teim">1907</field>
+    <field name="ref_ssi">aspace_ref96</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Terrence J. Allen Prospect Park Collection</field>
+    <field name="collection_unitid_teim">BCMS.0006</field>
+    <field name="series_sim">Series V: Photographic Media</field>
+    <field name="series_sim">Subseries 5.1: Photographs</field>
+    <field name="series_si">Series V: Photographic Media &gt;&gt; Subseries 5.1: Photographs &gt;&gt; Panoramic photographs on scrapbook board</field>
+    <field name="heading_ssm">Panoramic photographs on scrapbook board</field>
+    <field name="unitdate_ssm">1907</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">80</field>
+  </doc>
+</add>

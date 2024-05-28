@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cbhm_0006aspace_11c4d8109768bf612fcda5c352e5a9f6</field>
+    <field name="ead_ssi">cbhm_0006</field>
+    <field name="parent_ssi">aspace_e7f58f5c20a26b646f2e8d569082af56</field>
+    <field name="parent_ssm">aspace_ca70b8c74995df594cb2fa66b32c5e16</field>
+    <field name="parent_ssm">aspace_e7f58f5c20a26b646f2e8d569082af56</field>
+    <field name="parent_unittitles_ssm">Series 2: Individual schools</field>
+    <field name="parent_unittitles_ssm">St. Francis Preparatory</field>
+    <field name="parent_unittitles_teim">Series 2: Individual schools</field>
+    <field name="parent_unittitles_teim">St. Francis Preparatory</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn schools collection</field>
+    <field name="collection_ssm">Brooklyn schools collection</field>
+    <field name="collection_unitid_ssm">CBHM.0006</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">A Little Portion literary journal</field>
+    <field name="unittitle_teim">A Little Portion literary journal</field>
+    <field name="unitdate_normal_ssm">1961/1962</field>
+    <field name="unitdate_normal_teim">1961/1962</field>
+    <field name="unitdate_normal_sim">1961/1962</field>
+    <field name="unitdate_inclusive_teim">1961, 1962</field>
+    <field name="ref_ssi">aspace_11c4d8109768bf612fcda5c352e5a9f6</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10</field>
+    <field name="location_si">Box: 10</field>
+    <field name="collection_teim">Brooklyn schools collection</field>
+    <field name="collection_unitid_teim">CBHM.0006</field>
+    <field name="series_sim">Series 2: Individual schools</field>
+    <field name="series_sim">St. Francis Preparatory</field>
+    <field name="series_si">Series 2: Individual schools &gt;&gt; St. Francis Preparatory &gt;&gt; A Little Portion literary journal</field>
+    <field name="heading_ssm">A Little Portion literary journal</field>
+    <field name="unitdate_start_sim">1961</field>
+    <field name="unitdate_start_ssm">1961</field>
+    <field name="unitdate_start_si">1961</field>
+    <field name="unitdate_end_sim">1962</field>
+    <field name="unitdate_end_ssm">1962</field>
+    <field name="unitdate_end_si">1962</field>
+    <field name="unitdate_ssm">Inclusive, 1961, 1962</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">692</field>
+  </doc>
+</add>

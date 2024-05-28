@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0041aspace_ref390</field>
+    <field name="ead_ssi">bcms_0041</field>
+    <field name="parent_ssi">aspace_ref385</field>
+    <field name="parent_ssm">aspace_ref385</field>
+    <field name="parent_unittitles_ssm">Carlton Theatre</field>
+    <field name="parent_unittitles_teim">Carlton Theatre</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_ssm">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0041</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">The Rush Hour</field>
+    <field name="unittitle_teim">The Rush Hour</field>
+    <field name="unitdate_teim">April 2, 1928</field>
+    <field name="ref_ssi">aspace_ref390</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Brooklyn Playbills and Programs Collection</field>
+    <field name="collection_unitid_teim">BCMS.0041</field>
+    <field name="series_sim">Carlton Theatre</field>
+    <field name="series_si">Carlton Theatre &gt;&gt; The Rush Hour</field>
+    <field name="heading_ssm">The Rush Hour</field>
+    <field name="unitdate_ssm">April 2, 1928</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">206</field>
+  </doc>
+</add>

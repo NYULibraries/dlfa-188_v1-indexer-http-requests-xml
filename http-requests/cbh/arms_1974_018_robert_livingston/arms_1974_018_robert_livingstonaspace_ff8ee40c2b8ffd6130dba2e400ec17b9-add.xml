@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1974_018_robert_livingstonaspace_ff8ee40c2b8ffd6130dba2e400ec17b9</field>
+    <field name="ead_ssi">arms_1974_018_robert_livingston</field>
+    <field name="parent_ssi">aspace_f7ce7a14eb6b69062534219545ddc0ce</field>
+    <field name="parent_ssm">aspace_f7ce7a14eb6b69062534219545ddc0ce</field>
+    <field name="parent_unittitles_ssm">Series 1: Livingston Manor</field>
+    <field name="parent_unittitles_teim">Series 1: Livingston Manor</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Livingston papers</field>
+    <field name="collection_ssm">Robert Livingston papers</field>
+    <field name="collection_unitid_ssm">1974.018</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Contract document</field>
+    <field name="unittitle_teim">Contract document</field>
+    <field name="unitdate_normal_ssm">1684/1684</field>
+    <field name="unitdate_normal_teim">1684/1684</field>
+    <field name="unitdate_normal_sim">1684/1684</field>
+    <field name="unitdate_teim">1684</field>
+    <field name="scopecontent_teim">Contract document, in Dutch: Robert Livingston (one side) and Gerritt Teunisse and Maste Cornelis (other side, and representing Dirck Wessels) partition the land farthest back of the Roeloff Jansen's Kill; Livingston chooses the ronde vlakte "circular flats" and Dirk Wessels takes the "long flats" [CG]; includes list of witnesses, including Teunis Abrahamse, Frans Hardick, Lambert Janse, Johannes Bensingh [Benson], Jacob Vosburgh, Isak Vosburgh, Frederick Claese van Drenthe, and Jacob Janse van [---][document torn at mid-fold].</field>
+    <field name="ref_ssi">aspace_ff8ee40c2b8ffd6130dba2e400ec17b9</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Robert Livingston papers</field>
+    <field name="collection_unitid_teim">1974.018</field>
+    <field name="series_sim">Series 1: Livingston Manor</field>
+    <field name="series_si">Series 1: Livingston Manor &gt;&gt; Contract document</field>
+    <field name="heading_ssm">Contract document</field>
+    <field name="unitdate_start_sim">1684</field>
+    <field name="unitdate_start_ssm">1684</field>
+    <field name="unitdate_start_si">1684</field>
+    <field name="unitdate_end_sim">1684</field>
+    <field name="unitdate_end_ssm">1684</field>
+    <field name="unitdate_end_si">1684</field>
+    <field name="unitdate_ssm">1684</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

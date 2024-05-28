@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_230_erasmus_hall_academyaspace_f1827b9b94f0d094449f2a7c7839b6b2</field>
+    <field name="ead_ssi">arc_230_erasmus_hall_academy</field>
+    <field name="parent_ssi">aspace_c3f71c9d34e8b2e44354458045139454</field>
+    <field name="parent_ssm">aspace_c3f71c9d34e8b2e44354458045139454</field>
+    <field name="parent_unittitles_ssm">Series 1: Erasmus Hall Academy</field>
+    <field name="parent_unittitles_teim">Series 1: Erasmus Hall Academy</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall collection</field>
+    <field name="collection_ssm">Erasmus Hall collection</field>
+    <field name="collection_unitid_ssm">ARC.230</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Land indenture</field>
+    <field name="unittitle_teim">Land indenture</field>
+    <field name="unitid_teim">1978.193</field>
+    <field name="unitid_ssm">1978.193</field>
+    <field name="unitdate_normal_ssm">1861/1861</field>
+    <field name="unitdate_normal_teim">1861/1861</field>
+    <field name="unitdate_normal_sim">1861/1861</field>
+    <field name="unitdate_teim">1861</field>
+    <field name="ref_ssi">aspace_f1827b9b94f0d094449f2a7c7839b6b2</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Erasmus Hall collection</field>
+    <field name="collection_unitid_teim">ARC.230</field>
+    <field name="series_sim">Series 1: Erasmus Hall Academy</field>
+    <field name="series_si">Series 1: Erasmus Hall Academy &gt;&gt; Land indenture</field>
+    <field name="heading_ssm">Land indenture</field>
+    <field name="unitdate_start_sim">1861</field>
+    <field name="unitdate_start_ssm">1861</field>
+    <field name="unitdate_start_si">1861</field>
+    <field name="unitdate_end_sim">1861</field>
+    <field name="unitdate_end_ssm">1861</field>
+    <field name="unitdate_end_si">1861</field>
+    <field name="unitdate_ssm">1861</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

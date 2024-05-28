@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_001_bennet_ryderaspace_ref13_qks</field>
+    <field name="ead_ssi">arc_001_bennet_ryder</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Bennet and Ryder families collection</field>
+    <field name="collection_ssm">Bennet and Ryder families collection</field>
+    <field name="collection_unitid_ssm">ARC.001</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Bennet and Ryder Papers</field>
+    <field name="unittitle_teim">Series 1: Bennet and Ryder Papers</field>
+    <field name="unitdate_normal_ssm">1670/1980</field>
+    <field name="unitdate_normal_teim">1670/1980</field>
+    <field name="unitdate_normal_sim">1670/1980</field>
+    <field name="unitdate_inclusive_teim">1670-circa 1980</field>
+    <field name="scopecontent_teim">The earliest of the Bennet papers are those of Willem Willemse Bennet and his son Jan Willemse Bennet. The largest portions of the Bennet Ryder papers are those of Cornelius W. Bennet and Charles M. and Gertrude M. Ryder. The papers contain a group of 65 deeds, quit-claims and titles for properties held by the Bennett Ryder families dating from 1869 to 1915, including the Charles M. Ryder House at what is now 32 Village Road North. Aside from these deeds the papers include wills, indentures, tax receipts, and other legal documents.</field>
+    <field name="ref_ssi">aspace_ref13_qks</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bennet and Ryder families collection</field>
+    <field name="collection_unitid_teim">ARC.001</field>
+    <field name="series_si">Series 1: Bennet and Ryder Papers</field>
+    <field name="heading_ssm">Series 1: Bennet and Ryder Papers</field>
+    <field name="unitdate_start_sim">1670</field>
+    <field name="unitdate_start_ssm">1670</field>
+    <field name="unitdate_start_si">1670</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, 1670-circa 1980</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1977_245_sammondaspace_ref17_q7t</field>
+    <field name="ead_ssi">arms_1977_245_sammond</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Herbert Stavely Sammond papers</field>
+    <field name="collection_ssm">Herbert Stavely Sammond papers</field>
+    <field name="collection_unitid_ssm">1977.245</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 4: Music Compositions</field>
+    <field name="unittitle_teim">Series 4: Music Compositions</field>
+    <field name="unitdate_normal_ssm">1915/1958</field>
+    <field name="unitdate_normal_teim">1915/1958</field>
+    <field name="unitdate_normal_sim">1915/1958</field>
+    <field name="unitdate_inclusive_teim">1915-1958</field>
+    <field name="scopecontent_teim">This series contains music by Sammond himself. In this series a distinction is made between original, handwritten scores and printed sheet music; it is arranged according to these two formats and sub-arranged alphabetically by the titles of Sammond's individual compositions. The compositions themselves are original works in certain ways: in some instances Sammond appropriates a poem or a set of lyrics authored by someone else and scores his own music to the words. In other instances he composes a unique arrangement of the work of another composer. All the scores are undated, but when both a score(s) and sheet music exist for a single composition, the corresponding date is provided on account of the copyright on the sheet music.</field>
+    <field name="ref_ssi">aspace_ref17_q7t</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Herbert Stavely Sammond papers</field>
+    <field name="collection_unitid_teim">1977.245</field>
+    <field name="series_si">Series 4: Music Compositions</field>
+    <field name="heading_ssm">Series 4: Music Compositions</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1958</field>
+    <field name="unitdate_end_ssm">1958</field>
+    <field name="unitdate_end_si">1958</field>
+    <field name="unitdate_ssm">Inclusive, 1915-1958</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

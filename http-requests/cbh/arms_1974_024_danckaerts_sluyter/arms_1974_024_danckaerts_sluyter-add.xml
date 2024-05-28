@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Nicholas Pavlik</field>
+    <field name="author_ssm">Nicholas Pavlik</field>
+    <field name="unittitle_teim">Jasper Danckaerts and Peter Sluyter journals</field>
+    <field name="unittitle_ssm">Jasper Danckaerts and Peter Sluyter journals</field>
+    <field name="unitid_teim">1974.024</field>
+    <field name="unitid_ssm">1974.024</field>
+    <field name="abstract_teim">Journals, written by Jasper Danckaerts and Peter Sluyter of the Netherlands, describing two voyages to and tours of the American colonies, particularly New York, during the period 1679 to 1681 and the year 1683.  Danckaerts and Sluyter made the journeys under the names J. Schilders and P. Vorstman.  The journals are written entirely in Dutch.</field>
+    <field name="abstract_ssm">Journals, written by Jasper Danckaerts and Peter Sluyter of the Netherlands, describing two voyages to and tours of the American colonies, particularly New York, during the period 1679 to 1681 and the year 1683.  Danckaerts and Sluyter made the journeys under the names J. Schilders and P. Vorstman.  The journals are written entirely in Dutch.</field>
+    <field name="unitdate_normal_ssm">1679/1683</field>
+    <field name="unitdate_normal_teim">1679/1683</field>
+    <field name="unitdate_normal_sim">1679/1683</field>
+    <field name="unitdate_inclusive_teim">1679-1683</field>
+    <field name="acqinfo_teim">Purchased from Henry C. Murphy, date unknown.  The collection was formally accessioned in 1974.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Journals (accounts)</field>
+    <field name="genreform_ssm">Journals (accounts)</field>
+    <field name="geogname_teim">New York (State) |x History |y Colonial period, ca. 1600-1775</field>
+    <field name="geogname_teim">United States |x Description and travel</field>
+    <field name="geogname_teim">New York (State) |x Description and travel</field>
+    <field name="geogname_ssm">New York (State) |x History |y Colonial period, ca. 1600-1775</field>
+    <field name="geogname_ssm">United States |x Description and travel</field>
+    <field name="geogname_ssm">New York (State) |x Description and travel</field>
+    <field name="persname_teim">Danckaerts, Jasper</field>
+    <field name="persname_teim">Sluyter, Peter</field>
+    <field name="persname_ssm">Danckaerts, Jasper</field>
+    <field name="persname_ssm">Sluyter, Peter</field>
+    <field name="collection_sim">Jasper Danckaerts and Peter Sluyter journals</field>
+    <field name="collection_ssm">Jasper Danckaerts and Peter Sluyter journals</field>
+    <field name="collection_teim">Jasper Danckaerts and Peter Sluyter journals</field>
+    <field name="id">arms_1974_024_danckaerts_sluyter</field>
+    <field name="ead_ssi">arms_1974_024_danckaerts_sluyter</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Danckaerts, Jasper</field>
+    <field name="name_sim">Sluyter, Peter</field>
+    <field name="name_teim">Danckaerts, Jasper</field>
+    <field name="name_teim">Sluyter, Peter</field>
+    <field name="place_sim">New York (State) -- History -- Colonial period, ca. 1600-1775</field>
+    <field name="place_sim">United States -- Description and travel</field>
+    <field name="place_sim">New York (State) -- Description and travel</field>
+    <field name="material_type_sim">Journals (accounts)</field>
+    <field name="material_type_ssm">Journals (accounts)</field>
+    <field name="heading_ssm">Jasper Danckaerts and Peter Sluyter journals</field>
+    <field name="unitdate_start_sim">1679</field>
+    <field name="unitdate_start_ssm">1679</field>
+    <field name="unitdate_start_si">1679</field>
+    <field name="unitdate_end_sim">1683</field>
+    <field name="unitdate_end_ssm">1683</field>
+    <field name="unitdate_end_si">1683</field>
+    <field name="unitdate_ssm">Inclusive, 1679-1683</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="language_sim">Dutch; Flemish</field>
+    <field name="language_ssm">Dutch; Flemish</field>
+  </doc>
+</add>

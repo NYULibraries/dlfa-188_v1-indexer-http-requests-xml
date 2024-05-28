@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0080aspace_3777650ab4e63126de2060fcc9d90e30</field>
+    <field name="ead_ssi">bcms_0080</field>
+    <field name="parent_ssi">aspace_b05a0988df812a51aa8ca021d619d53c</field>
+    <field name="parent_ssm">aspace_b05a0988df812a51aa8ca021d619d53c</field>
+    <field name="parent_unittitles_ssm">Family Photographs</field>
+    <field name="parent_unittitles_teim">Family Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Kasper Family Collection</field>
+    <field name="collection_ssm">Kasper Family Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0080</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Blizzard of 1947</field>
+    <field name="unittitle_teim">Blizzard of 1947</field>
+    <field name="unitdate_normal_ssm">1947-12-26/1947-12-27</field>
+    <field name="unitdate_normal_teim">1947-12-26/1947-12-27</field>
+    <field name="unitdate_normal_sim">1947-12-26/1947-12-27</field>
+    <field name="unitdate_inclusive_teim">1947 December 26-27</field>
+    <field name="scopecontent_teim">Photographs depict Marvin and Carol Kasper playing in the 26.4" of snow that fell during the blizzard.</field>
+    <field name="ref_ssi">aspace_3777650ab4e63126de2060fcc9d90e30</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Kasper Family Collection</field>
+    <field name="collection_unitid_teim">BCMS.0080</field>
+    <field name="series_sim">Family Photographs</field>
+    <field name="series_si">Family Photographs &gt;&gt; Blizzard of 1947</field>
+    <field name="heading_ssm">Blizzard of 1947</field>
+    <field name="unitdate_ssm">Inclusive, 1947 December 26-27</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_006_bergenaspace_ref651_ip9</field>
+    <field name="ead_ssi">arc_006_bergen</field>
+    <field name="parent_ssi">aspace_ref650_gtl</field>
+    <field name="parent_ssm">aspace_ref643_zg3</field>
+    <field name="parent_ssm">aspace_ref650_gtl</field>
+    <field name="parent_unittitles_ssm">Group 2: Bergen family and Bergen extended family papers</field>
+    <field name="parent_unittitles_ssm">Series 2: Bergen extended family papers</field>
+    <field name="parent_unittitles_teim">Group 2: Bergen family and Bergen extended family papers</field>
+    <field name="parent_unittitles_teim">Series 2: Bergen extended family papers</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_ssm">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_ssm">ARC.006</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 2: Cortelyou family papers</field>
+    <field name="unittitle_teim">Subseries 2: Cortelyou family papers</field>
+    <field name="ref_ssi">aspace_ref651_ip9</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_teim">ARC.006</field>
+    <field name="series_sim">Group 2: Bergen family and Bergen extended family papers</field>
+    <field name="series_sim">Series 2: Bergen extended family papers</field>
+    <field name="series_si">Group 2: Bergen family and Bergen extended family papers &gt;&gt; Series 2: Bergen extended family papers &gt;&gt; Subseries 2: Cortelyou family papers</field>
+    <field name="heading_ssm">Subseries 2: Cortelyou family papers</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">740</field>
+  </doc>
+</add>

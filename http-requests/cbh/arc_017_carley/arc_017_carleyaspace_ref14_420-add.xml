@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_017_carleyaspace_ref14_420</field>
+    <field name="ead_ssi">arc_017_carley</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Walter A. Carley collection</field>
+    <field name="collection_ssm">Walter A. Carley collection</field>
+    <field name="collection_unitid_ssm">ARC.017</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Greenpoint Peoples Regular Democratic Organization (GPRDO) records</field>
+    <field name="unittitle_teim">Series 2: Greenpoint Peoples Regular Democratic Organization (GPRDO) records</field>
+    <field name="unitdate_normal_ssm">1922/1954</field>
+    <field name="unitdate_normal_ssm">1925/1951</field>
+    <field name="unitdate_normal_teim">1922/1954</field>
+    <field name="unitdate_normal_teim">1925/1951</field>
+    <field name="unitdate_normal_sim">1922/1954</field>
+    <field name="unitdate_normal_sim">1925/1951</field>
+    <field name="unitdate_bulk_teim">1925-1951</field>
+    <field name="unitdate_inclusive_teim">1922-1954</field>
+    <field name="scopecontent_teim">The materials in this series date from 1922-1954 with the bulk range of 1925-1951. The series also contains undated materials. The first part of this series consists of New York State Committee of the Democratic Party and Greenpoint Peoples Regular Democratic Organization (GPRDO) meeting minutes from 1940-1953. The rest of the collection consists of souvenir programs for GPRDO sponsored balls and dinners, some of which were in Carley's honor. The event proceedings contained in the programs list names of other active GPRDO members.  A political cartoon poster including Carley and other popular Brooklyn Democrats has been placed with the oversized materials.</field>
+    <field name="ref_ssi">aspace_ref14_420</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Walter A. Carley collection</field>
+    <field name="collection_unitid_teim">ARC.017</field>
+    <field name="series_si">Series 2: Greenpoint Peoples Regular Democratic Organization (GPRDO) records</field>
+    <field name="heading_ssm">Series 2: Greenpoint Peoples Regular Democratic Organization (GPRDO) records</field>
+    <field name="unitdate_start_sim">1922</field>
+    <field name="unitdate_start_sim">1925</field>
+    <field name="unitdate_start_ssm">1922</field>
+    <field name="unitdate_start_ssm">1925</field>
+    <field name="unitdate_start_si">1925</field>
+    <field name="unitdate_end_sim">1954</field>
+    <field name="unitdate_end_sim">1951</field>
+    <field name="unitdate_end_ssm">1954</field>
+    <field name="unitdate_end_ssm">1951</field>
+    <field name="unitdate_end_si">1951</field>
+    <field name="unitdate_ssm">Inclusive, 1922-1954 ; 1925-1951</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

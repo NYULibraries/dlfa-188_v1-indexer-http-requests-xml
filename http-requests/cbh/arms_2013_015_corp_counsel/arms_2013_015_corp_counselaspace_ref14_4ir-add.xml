@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2013_015_corp_counselaspace_ref14_4ir</field>
+    <field name="ead_ssi">arms_2013_015_corp_counsel</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn, N.Y., Department of Law, Corporation Counsel records</field>
+    <field name="collection_ssm">Brooklyn, N.Y., Department of Law, Corporation Counsel records</field>
+    <field name="collection_unitid_ssm">2013.015</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Case Files</field>
+    <field name="unittitle_teim">Series 1: Case Files</field>
+    <field name="unitdate_normal_ssm">1849/1920</field>
+    <field name="unitdate_normal_teim">1849/1920</field>
+    <field name="unitdate_normal_sim">1849/1920</field>
+    <field name="unitdate_inclusive_teim">1849-1920</field>
+    <field name="scopecontent_teim">This series is comprised of case files documenting legal complaints filed against the City of Brooklyn (and after 1897, the City of New York) for a variety of matters including personal injuries, property damage, compensation for goods and services, civil service disputes, and assessment and tax disputes. The series also includes a smaller number of complaints filed by the city against individuals and corporations for legal violations or property foreclosures.</field>
+    <field name="scopecontent_teim">The records span the years 1849 to 1920 (bulk dates 1894 to 1905).</field>
+    <field name="scopecontent_teim">The files were compiled by the office of the Corporation Counsel and contain legal documents including, but not limited to, affidavits, briefs, complaints, examination transcripts, and various notices. The files may include related correspondence, legal notes, and other supporting documents.</field>
+    <field name="scopecontent_teim">The majority of the personal injury cases involve injuries that occurred on city streets and sidewalks although a smaller number involve other city property such as parks and bridges (including the Brooklyn Bridge). Some cases name local railroad companies as co-defendants. The files sometimes include reports from police and/or doctors.</field>
+    <field name="scopecontent_teim">Property damage claims primarily relate to overflowing sewers. Neighborhoods that were especially prone to flooding include Bedford-Stuyvesant, Bushwick, Williamsburg, Greenpoint, Fort Greene, and Boerum Hill/Gowanus. These files sometimes include lists of household or commercial goods and their values. The series includes some claims for property damage in areas outside of Brooklyn, especially the Town of Hempstead on Long Island, for damage related to Brooklyn's water supply such as flooding from pumping stations and the diversion of creeks and other waterways.</field>
+    <field name="scopecontent_teim">There are a number of claims for unpaid goods and services provided to the city. These complaints are sometimes related to contract disputes between the plaintiffs, the city and other contractors. Claims related to construction or alterations of city buildings (such as schools and police stations) sometimes include specifications for the work.</field>
+    <field name="scopecontent_teim">The series also includes disputes related to civil service employment, typically dismissals or claims for unpaid salaries.</field>
+    <field name="scopecontent_teim">Another large component of the series comprises complaints related to assessments and other property matters. These files may include documents providing details about property ownership such as deeds and property searches. A small number of complaints include property maps.</field>
+    <field name="scopecontent_teim">Other matters addressed in the series include railroad company disputes, gas and electric utility disputes, election disputes, license disputes (especially liquor licenses and licenses to hold athletic contests), building and health violations, county jail discharges, estate disputes, and a small number of criminal matters.</field>
+    <field name="scopecontent_teim">While the majority of the series is Brooklyn specific, from 1896 to 1899, there are a number of complaints relating to Long Island City that concern assessments, civil service, or claims for goods and services.</field>
+    <field name="scopecontent_teim">The legal repercussions of the consolidation of the Greater City of New York are also evident in the series. Civil service complaints about disparate pay for similar positions in the former municipal governments resulted in litigation. Also of note is a dispute arising from the debt apportionment of Queens County.</field>
+    <field name="scopecontent_teim">Additionally, this series includes a small number of complaints arising from other areas of New York City, such as Manhattan and Staten Island.</field>
+    <field name="ref_ssi">aspace_ref14_4ir</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn, N.Y., Department of Law, Corporation Counsel records</field>
+    <field name="collection_unitid_teim">2013.015</field>
+    <field name="series_si">Series 1: Case Files</field>
+    <field name="heading_ssm">Series 1: Case Files</field>
+    <field name="unitdate_start_sim">1849</field>
+    <field name="unitdate_start_ssm">1849</field>
+    <field name="unitdate_start_si">1849</field>
+    <field name="unitdate_end_sim">1920</field>
+    <field name="unitdate_end_ssm">1920</field>
+    <field name="unitdate_end_si">1920</field>
+    <field name="unitdate_ssm">Inclusive, 1849-1920</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

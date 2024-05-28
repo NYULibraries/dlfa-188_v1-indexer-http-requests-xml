@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0039aspace_4801c0facadffbc4f6300d9ff05cee61</field>
+    <field name="ead_ssi">bcms_0039</field>
+    <field name="parent_ssi">aspace_ef00b81124e90a76827f96a83b61e9e9</field>
+    <field name="parent_ssm">aspace_ef00b81124e90a76827f96a83b61e9e9</field>
+    <field name="parent_unittitles_ssm">Series 9: BCSP publications</field>
+    <field name="parent_unittitles_teim">Series 9: BCSP publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_ssm">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_ssm">BCMS.0039</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Membership directories</field>
+    <field name="unittitle_teim">Membership directories</field>
+    <field name="ref_ssi">aspace_4801c0facadffbc4f6300d9ff05cee61</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 66, Folder: 9.1.034</field>
+    <field name="location_ssm">Folder: 9.1.034</field>
+    <field name="location_si">Folder: 9.1.034</field>
+    <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_teim">BCMS.0039</field>
+    <field name="series_sim">Series 9: BCSP publications</field>
+    <field name="series_si">Series 9: BCSP publications &gt;&gt; Membership directories</field>
+    <field name="heading_ssm">Membership directories</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1068</field>
+  </doc>
+</add>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">1989_006aspace_ref234_g28</field>
+    <field name="ead_ssi">1989_006</field>
+    <field name="parent_ssi">aspace_ref12_ufz</field>
+    <field name="parent_ssm">aspace_ref12_ufz</field>
+    <field name="parent_unittitles_ssm">Series 5: Gravesend Volunteer Fire Department</field>
+    <field name="parent_unittitles_teim">Series 5: Gravesend Volunteer Fire Department</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">James A. Kelly collection of Brooklyn firefighting records</field>
+    <field name="collection_ssm">James A. Kelly collection of Brooklyn firefighting records</field>
+    <field name="collection_unitid_ssm">1989.006</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Records of the Coney Island Fire Department (roll and minutes) (ledger 66)</field>
+    <field name="unittitle_teim">Records of the Coney Island Fire Department (roll and minutes) (ledger 66)</field>
+    <field name="unitdate_normal_ssm">1886/1903</field>
+    <field name="unitdate_normal_teim">1886/1903</field>
+    <field name="unitdate_normal_sim">1886/1903</field>
+    <field name="unitdate_inclusive_teim">1886-1903</field>
+    <field name="ref_ssi">aspace_ref234_g28</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15</field>
+    <field name="location_si">Box: 15</field>
+    <field name="collection_teim">James A. Kelly collection of Brooklyn firefighting records</field>
+    <field name="collection_unitid_teim">1989.006</field>
+    <field name="series_sim">Series 5: Gravesend Volunteer Fire Department</field>
+    <field name="series_si">Series 5: Gravesend Volunteer Fire Department &gt;&gt; Records of the Coney Island Fire Department (roll and minutes) (ledger 66)</field>
+    <field name="heading_ssm">Records of the Coney Island Fire Department (roll and minutes) (ledger 66)</field>
+    <field name="unitdate_start_sim">1886</field>
+    <field name="unitdate_start_ssm">1886</field>
+    <field name="unitdate_start_si">1886</field>
+    <field name="unitdate_end_sim">1903</field>
+    <field name="unitdate_end_ssm">1903</field>
+    <field name="unitdate_end_si">1903</field>
+    <field name="unitdate_ssm">Inclusive, 1886-1903</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">353</field>
+  </doc>
+</add>

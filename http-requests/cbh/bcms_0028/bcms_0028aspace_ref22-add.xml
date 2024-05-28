@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref22</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Brooklyn Affairs</field>
+    <field name="unittitle_teim">Brooklyn Affairs</field>
+    <field name="unitdate_normal_ssm">1984/1985</field>
+    <field name="unitdate_normal_teim">1984/1985</field>
+    <field name="unitdate_normal_sim">1984/1985</field>
+    <field name="unitdate_inclusive_teim">1984-1985</field>
+    <field name="scopecontent_teim">Largely focusing on the neighborhood of Park Slope as well as the surrounding Prospect Park area, Brooklyn Affairs is principally a community paper devoted to arts and culture issues--covering everything from Brooklyn architecture and sculpture to arts and crafts for children. As a result, the paper does not provide typical news coverage. Book reviews, health and well-being, and pet and nature sections all appear regularly, as do comic strips created by local residents. Obituaries, wedding announcements, and birth announcements do not appear in the paper. Photographs and advertisements appear throughout.</field>
+    <field name="ref_ssi">aspace_ref22</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">bin: 6</field>
+    <field name="location_si">bin: 6</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Brooklyn Affairs</field>
+    <field name="heading_ssm">Brooklyn Affairs</field>
+    <field name="unitdate_start_sim">1984</field>
+    <field name="unitdate_start_ssm">1984</field>
+    <field name="unitdate_start_si">1984</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_si">1985</field>
+    <field name="unitdate_ssm">Inclusive, 1984-1985</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

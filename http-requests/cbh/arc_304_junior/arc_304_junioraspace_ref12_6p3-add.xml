@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_304_junioraspace_ref12_6p3</field>
+    <field name="ead_ssi">arc_304_junior</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Junior League of Brooklyn records</field>
+    <field name="collection_ssm">Junior League of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.304</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Administrative Records</field>
+    <field name="unittitle_teim">Series 1: Administrative Records</field>
+    <field name="unitdate_normal_ssm">1910/2002</field>
+    <field name="unitdate_normal_teim">1910/2002</field>
+    <field name="unitdate_normal_sim">1910/2002</field>
+    <field name="unitdate_inclusive_teim">1910-2002</field>
+    <field name="scopecontent_teim">Consists of administrative records created by the Junior League of Brooklyn. These materials include annual reports, the constitution and by-laws, position statements, goals and objectives, correspondence pertaining to administrative matters, officer and committee job descriptions, board and president's manuals, and general office administrative materials. Membership information is also included. Member files are arranged in alphabetical order by surname. They range in date from the 1930s to 2003. These files include members' admission applications, correspondence, resignation notices, transfer cards denoting members' moves to and from other leagues, and volunteer placement information. There is a flat box containing an oversized master membership list. This series also includes index cards with similar membership information in alphabetical order. Items in this series are in poor to excellent condition.</field>
+    <field name="ref_ssi">aspace_ref12_6p3</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Junior League of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.304</field>
+    <field name="series_si">Series 1: Administrative Records</field>
+    <field name="heading_ssm">Series 1: Administrative Records</field>
+    <field name="unitdate_start_sim">1910</field>
+    <field name="unitdate_start_ssm">1910</field>
+    <field name="unitdate_start_si">1910</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 1910-2002</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

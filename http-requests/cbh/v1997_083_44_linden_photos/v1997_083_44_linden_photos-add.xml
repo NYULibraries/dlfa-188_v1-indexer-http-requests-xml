@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">John Zarrillo</field>
+    <field name="author_ssm">John Zarrillo</field>
+    <field name="unittitle_teim">44 Linden Street interior photographs</field>
+    <field name="unittitle_ssm">44 Linden Street interior photographs</field>
+    <field name="unitid_teim">V1997.083</field>
+    <field name="unitid_ssm">V1997.083</field>
+    <field name="abstract_teim">Collection contains three photographs of the interior of 44 Linden Street, Brooklyn, taken sometime in the late 19th or early 20th century. The photographs are mounted on board and appear to have been part of an album or scrapbook.</field>
+    <field name="abstract_ssm">Collection contains three photographs of the interior of 44 Linden Street, Brooklyn, taken sometime in the late 19th or early 20th century. The photographs are mounted on board and appear to have been part of an album or scrapbook.</field>
+    <field name="unitdate_normal_ssm">1880/1930</field>
+    <field name="unitdate_normal_teim">1880/1930</field>
+    <field name="unitdate_normal_sim">1880/1930</field>
+    <field name="unitdate_inclusive_teim">circa 1910</field>
+    <field name="acqinfo_teim">Immediate source of acquisition unknown. Photographs were accessioned in 1997.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Interior views</field>
+    <field name="genreform_teim">Photographs</field>
+    <field name="genreform_ssm">Interior views</field>
+    <field name="genreform_ssm">Photographs</field>
+    <field name="geogname_teim">Linden Street (Brooklyn, New York, N.Y.)</field>
+    <field name="geogname_teim">Bushwick (New York, N.Y.)</field>
+    <field name="geogname_ssm">Linden Street (Brooklyn, New York, N.Y.)</field>
+    <field name="geogname_ssm">Bushwick (New York, N.Y.)</field>
+    <field name="subject_teim">Buildings |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Buildings -- New York (State) -- Kings County</field>
+    <field name="subject_ssm">Buildings |z New York (State) |z Kings County</field>
+    <field name="collection_sim">44 Linden Street interior photographs</field>
+    <field name="collection_ssm">44 Linden Street interior photographs</field>
+    <field name="collection_teim">44 Linden Street interior photographs</field>
+    <field name="id">v1997_083_44_linden_photos</field>
+    <field name="ead_ssi">v1997_083_44_linden_photos</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Linden Street (Brooklyn, New York, N.Y.)</field>
+    <field name="place_sim">Bushwick (New York, N.Y.)</field>
+    <field name="subject_sim">Buildings -- New York (State) -- Kings County</field>
+    <field name="material_type_sim">Interior views</field>
+    <field name="material_type_sim">Photographs</field>
+    <field name="material_type_ssm">Interior views</field>
+    <field name="material_type_ssm">Photographs</field>
+    <field name="heading_ssm">44 Linden Street interior photographs</field>
+    <field name="unitdate_start_sim">1880</field>
+    <field name="unitdate_start_ssm">1880</field>
+    <field name="unitdate_start_si">1880</field>
+    <field name="unitdate_end_sim">1930</field>
+    <field name="unitdate_end_ssm">1930</field>
+    <field name="unitdate_end_si">1930</field>
+    <field name="unitdate_ssm">Inclusive, circa 1910</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

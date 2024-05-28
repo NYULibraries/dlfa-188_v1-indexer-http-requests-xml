@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_174_brooklyn_newslettersaspace_c8edf2e49bb33c250771434f11b0deac</field>
+    <field name="ead_ssi">arc_174_brooklyn_newsletters</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn newsletter collection</field>
+    <field name="collection_ssm">Brooklyn newsletter collection</field>
+    <field name="collection_unitid_ssm">ARC.174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Fulton Mall News</field>
+    <field name="unittitle_teim">Fulton Mall News</field>
+    <field name="unitdate_normal_ssm">1979/1985</field>
+    <field name="unitdate_normal_teim">1979/1985</field>
+    <field name="unitdate_normal_sim">1979/1985</field>
+    <field name="unitdate_inclusive_teim">1979-1985</field>
+    <field name="scopecontent_teim">Vols. 3-9. Published by the Fulton Mall Improvement Association, Inc.</field>
+    <field name="ref_ssi">aspace_c8edf2e49bb33c250771434f11b0deac</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3</field>
+    <field name="location_si">Box: 3</field>
+    <field name="collection_teim">Brooklyn newsletter collection</field>
+    <field name="collection_unitid_teim">ARC.174</field>
+    <field name="series_si">Fulton Mall News</field>
+    <field name="heading_ssm">Fulton Mall News</field>
+    <field name="unitdate_start_sim">1979</field>
+    <field name="unitdate_start_ssm">1979</field>
+    <field name="unitdate_start_si">1979</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_si">1985</field>
+    <field name="unitdate_ssm">Inclusive, 1979-1985</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">40</field>
+  </doc>
+</add>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">Fire insurance policy for 113 Carroll Street</field>
+    <field name="unittitle_ssm">Fire insurance policy for 113 Carroll Street</field>
+    <field name="unitid_teim">1990.010</field>
+    <field name="unitid_ssm">1990.010</field>
+    <field name="abstract_teim">A fire insurance certificate for a building located at 113 Carroll Street in Brooklyn, dated 1890.</field>
+    <field name="abstract_ssm">A fire insurance certificate for a building located at 113 Carroll Street in Brooklyn, dated 1890.</field>
+    <field name="unitdate_normal_ssm">1890/1890</field>
+    <field name="unitdate_normal_teim">1890/1890</field>
+    <field name="unitdate_normal_sim">1890/1890</field>
+    <field name="unitdate_inclusive_teim">1890</field>
+    <field name="acqinfo_teim">Gift of Philip L. Dunne, 1990.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_teim">Guardian Assurance Company</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Guardian Assurance Company</field>
+    <field name="genreform_teim">Insurance policies</field>
+    <field name="genreform_ssm">Insurance policies</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_teim">Real property |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Fire prevention |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Fire insurance |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Real property -- New York (State) -- Kings County</field>
+    <field name="subject_teim">Fire prevention -- New York (State) -- Kings County</field>
+    <field name="subject_teim">Fire insurance -- New York (State) -- Kings County</field>
+    <field name="subject_ssm">Real property |z New York (State) |z Kings County</field>
+    <field name="subject_ssm">Fire prevention |z New York (State) |z Kings County</field>
+    <field name="subject_ssm">Fire insurance |z New York (State) |z Kings County</field>
+    <field name="collection_sim">Fire insurance policy for 113 Carroll Street</field>
+    <field name="collection_ssm">Fire insurance policy for 113 Carroll Street</field>
+    <field name="collection_teim">Fire insurance policy for 113 Carroll Street</field>
+    <field name="id">arms_1990_010_fire_insurance_policy</field>
+    <field name="ead_ssi">arms_1990_010_fire_insurance_policy</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Guardian Assurance Company</field>
+    <field name="name_teim">Guardian Assurance Company</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_sim">Real property -- New York (State) -- Kings County</field>
+    <field name="subject_sim">Fire prevention -- New York (State) -- Kings County</field>
+    <field name="subject_sim">Fire insurance -- New York (State) -- Kings County</field>
+    <field name="material_type_sim">Insurance policies</field>
+    <field name="material_type_ssm">Insurance policies</field>
+    <field name="heading_ssm">Fire insurance policy for 113 Carroll Street</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1890</field>
+    <field name="unitdate_end_ssm">1890</field>
+    <field name="unitdate_end_si">1890</field>
+    <field name="unitdate_ssm">Inclusive, 1890</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

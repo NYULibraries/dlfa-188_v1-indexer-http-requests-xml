@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2012_004_toedteberg_bookplatesaspace_ref34_zee</field>
+    <field name="ead_ssi">arms_2012_004_toedteberg_bookplates</field>
+    <field name="parent_ssi">aspace_ref10_dt8</field>
+    <field name="parent_ssm">aspace_ref10_dt8</field>
+    <field name="parent_unittitles_ssm">Series 1: Engravers of Bookplates</field>
+    <field name="parent_unittitles_teim">Series 1: Engravers of Bookplates</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Emma Toedteberg bookplate collection</field>
+    <field name="collection_ssm">Emma Toedteberg bookplate collection</field>
+    <field name="collection_unitid_ssm">2012.004</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 2: Charles W. Sherborn</field>
+    <field name="unittitle_teim">Subseries 2: Charles W. Sherborn</field>
+    <field name="unitdate_teim">circa 1870s-1912</field>
+    <field name="scopecontent_teim">Bookplates engraved by Charles Sherborn, including illustrated bookplates.</field>
+    <field name="bioghist_teim">Born in London, Charles Sherborn (1831-1912) began work as a goldsmith, chiefly engraving jewelry, but after problems with his business in 1872, Sherborn turned to etching and engraving reproductions of other artist's works. Sherborn began engraving bookplates late in his career, and between the early 1880's and 1912 the artist produced over 350 bookplates, the bulk of his work in the armorial style.</field>
+    <field name="bioghist_teim">
+      Sources:
+    </field>
+    <field name="bioghist_teim">http://www.pietafineart.com/sherborn.htm (last accessed August 30, 2011)</field>
+    <field name="ref_ssi">aspace_ref34_zee</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 5</field>
+    <field name="location_si">Box: 5</field>
+    <field name="collection_teim">Emma Toedteberg bookplate collection</field>
+    <field name="collection_unitid_teim">2012.004</field>
+    <field name="series_sim">Series 1: Engravers of Bookplates</field>
+    <field name="series_si">Series 1: Engravers of Bookplates &gt;&gt; Subseries 2: Charles W. Sherborn</field>
+    <field name="heading_ssm">Subseries 2: Charles W. Sherborn</field>
+    <field name="unitdate_ssm">circa 1870s-1912</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

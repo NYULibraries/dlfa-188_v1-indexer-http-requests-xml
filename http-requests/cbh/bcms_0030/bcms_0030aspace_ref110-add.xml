@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0030aspace_ref110</field>
+    <field name="ead_ssi">bcms_0030</field>
+    <field name="parent_ssi">aspace_ref109</field>
+    <field name="parent_ssm">aspace_ref109</field>
+    <field name="parent_unittitles_ssm">Queen of All Saints</field>
+    <field name="parent_unittitles_teim">Queen of All Saints</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;The Gleaner&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      The Gleaner
+    </field>
+    <field name="unitdate_normal_ssm">1958-11/1960-12</field>
+    <field name="unitdate_normal_teim">1958-11/1960-12</field>
+    <field name="unitdate_normal_sim">1958-11/1960-12</field>
+    <field name="unitdate_inclusive_teim">November 1958 - December 1960</field>
+    <field name="scopecontent_teim">3 issues</field>
+    <field name="ref_ssi">aspace_ref110</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_si">Box: 2</field>
+    <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_teim">BCMS.0030</field>
+    <field name="series_sim">Queen of All Saints</field>
+    <field name="series_si">Queen of All Saints &gt;&gt; 
+      &lt;em&gt;The Gleaner&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      The Gleaner
+    </field>
+    <field name="unitdate_ssm">Inclusive, November 1958 - December 1960</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">73</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_109_first_unitarianaspace_ref361_aix</field>
+    <field name="ead_ssi">arc_109_first_unitarian</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_ssm">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_ssm">ARC.109</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 13: Photographs.</field>
+    <field name="unittitle_teim">Series 13: Photographs.</field>
+    <field name="unitdate_normal_ssm">1870/1958</field>
+    <field name="unitdate_normal_teim">1870/1958</field>
+    <field name="unitdate_normal_sim">1870/1958</field>
+    <field name="unitdate_inclusive_teim">circa 1870s-1958</field>
+    <field name="scopecontent_teim">The Photographs series contains photographs from two separate photo accessions related to the Church. Most of the folders in this series contain images that were originally part of the First Unitarian Congregational Society records. These photos were initially removed from the collection and entered into the library's image database under a V1989.20 accession number. The photos include church buildings, like Willow Place Chapel and the Third Unitarian Congregation's Unity Church, and church activities such as a picnic, fairs, plays, and some minstrel shows. Also included are photos of ministers from the First, Second, and Third Unitarian Congregations including John Lathrop, John White Chadwick, Alfred P. Putnam and Stephen H. Camp. The last folder in the series contains photos from a later accession, V1990.46, and consists of four print reproductions of photographs of Willow Place Chapel, Columbia House, and the school at the chapel.</field>
+    <field name="scopecontent_teim">Item level description and digital versions of images from the collection are available for searching via the image database in the library.</field>
+    <field name="ref_ssi">aspace_ref361_aix</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">First Unitarian Congregational Society of Brooklyn records</field>
+    <field name="collection_unitid_teim">ARC.109</field>
+    <field name="series_si">Series 13: Photographs.</field>
+    <field name="heading_ssm">Series 13: Photographs.</field>
+    <field name="unitdate_start_sim">1870</field>
+    <field name="unitdate_start_ssm">1870</field>
+    <field name="unitdate_start_si">1870</field>
+    <field name="unitdate_end_sim">1958</field>
+    <field name="unitdate_end_ssm">1958</field>
+    <field name="unitdate_end_si">1958</field>
+    <field name="unitdate_ssm">Inclusive, circa 1870s-1958</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">541</field>
+  </doc>
+</add>

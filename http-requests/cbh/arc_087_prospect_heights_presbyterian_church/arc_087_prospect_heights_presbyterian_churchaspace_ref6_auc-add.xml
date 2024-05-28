@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_087_prospect_heights_presbyterian_churchaspace_ref6_auc</field>
+    <field name="ead_ssi">arc_087_prospect_heights_presbyterian_church</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Prospect Heights Presbyterian Church records</field>
+    <field name="collection_ssm">Prospect Heights Presbyterian Church records</field>
+    <field name="collection_unitid_ssm">ARC.087</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 5: Reports</field>
+    <field name="unittitle_teim">Series 5: Reports</field>
+    <field name="unitdate_normal_ssm">1907/1968</field>
+    <field name="unitdate_normal_teim">1907/1968</field>
+    <field name="unitdate_normal_sim">1907/1968</field>
+    <field name="unitdate_inclusive_teim">1907, 1932-1968</field>
+    <field name="scopecontent_teim">Reports contains annual reports of Prospect Heights Presbyterian Church, as well as the annual reports of its treasurer. These reports summarize membership information, financial data, and outreach activities for the year.</field>
+    <field name="ref_ssi">aspace_ref6_auc</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Prospect Heights Presbyterian Church records</field>
+    <field name="collection_unitid_teim">ARC.087</field>
+    <field name="series_si">Series 5: Reports</field>
+    <field name="heading_ssm">Series 5: Reports</field>
+    <field name="unitdate_start_sim">1907</field>
+    <field name="unitdate_start_ssm">1907</field>
+    <field name="unitdate_start_si">1907</field>
+    <field name="unitdate_end_sim">1968</field>
+    <field name="unitdate_end_ssm">1968</field>
+    <field name="unitdate_end_si">1968</field>
+    <field name="unitdate_ssm">Inclusive, 1907, 1932-1968</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1985_056_prattaspace_ref12_zfv</field>
+    <field name="ead_ssi">arms_1985_056_pratt</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Pratt Institute collection</field>
+    <field name="collection_ssm">Pratt Institute collection</field>
+    <field name="collection_unitid_ssm">1985.056</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Ephemera</field>
+    <field name="unittitle_teim">Series 2: Ephemera</field>
+    <field name="unitdate_normal_ssm">1889/1989</field>
+    <field name="unitdate_normal_teim">1889/1989</field>
+    <field name="unitdate_normal_sim">1889/1989</field>
+    <field name="unitdate_inclusive_teim">1889-circa 1980s</field>
+    <field name="scopecontent_teim">This series contains programs pertaining to various events at Pratt Institute, including commencements, inaugurations, and exhibitions occurring intermittently throughout the period 1898 to 2004; one promotional booklet from 1966; and pamphlets containing speeches delivered by various presidents of Pratt Institute from 1959 to 1970. Also included are a pamphlet on the Pratt Institute Neighborhood Association, a student charitable organization, circa 1900; and pamphlets on the Thrift Savings, Loan and Building Fund, a program established by Charles Pratt to assist students with financial and housing issues, dating from 1889 to 1915. Other miscellaneous items are included in the series.</field>
+    <field name="ref_ssi">aspace_ref12_zfv</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Pratt Institute collection</field>
+    <field name="collection_unitid_teim">1985.056</field>
+    <field name="series_si">Series 2: Ephemera</field>
+    <field name="heading_ssm">Series 2: Ephemera</field>
+    <field name="unitdate_start_sim">1889</field>
+    <field name="unitdate_start_ssm">1889</field>
+    <field name="unitdate_start_si">1889</field>
+    <field name="unitdate_end_sim">1989</field>
+    <field name="unitdate_end_ssm">1989</field>
+    <field name="unitdate_end_si">1989</field>
+    <field name="unitdate_ssm">Inclusive, 1889-circa 1980s</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">46</field>
+  </doc>
+</add>

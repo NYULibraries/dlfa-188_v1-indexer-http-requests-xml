@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0082aspace_8614f915be6262bca5e7daf567a67d55</field>
+    <field name="ead_ssi">bcms_0082</field>
+    <field name="parent_ssi">aspace_15eef61a393401c7a6bd18ae230b319c</field>
+    <field name="parent_ssm">aspace_9fa45d0b6186f808d39e63f568bd02fe</field>
+    <field name="parent_ssm">aspace_15eef61a393401c7a6bd18ae230b319c</field>
+    <field name="parent_unittitles_ssm">Series 1: Club administration and membership</field>
+    <field name="parent_unittitles_ssm">Member lists and directories</field>
+    <field name="parent_unittitles_teim">Series 1: Club administration and membership</field>
+    <field name="parent_unittitles_teim">Member lists and directories</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Heights Garden Club Collection</field>
+    <field name="collection_ssm">Brooklyn Heights Garden Club Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0082</field>
+    <field name="level_sim">file</field>
+    <field name="unitdate_normal_ssm">2007/2008</field>
+    <field name="unitdate_normal_teim">2007/2008</field>
+    <field name="unitdate_normal_sim">2007/2008</field>
+    <field name="unitdate_inclusive_teim">2007-2008</field>
+    <field name="ref_ssi">aspace_8614f915be6262bca5e7daf567a67d55</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 19</field>
+    <field name="location_ssm">Folder: 19</field>
+    <field name="location_si">Folder: 19</field>
+    <field name="collection_teim">Brooklyn Heights Garden Club Collection</field>
+    <field name="collection_unitid_teim">BCMS.0082</field>
+    <field name="series_sim">Series 1: Club administration and membership</field>
+    <field name="series_sim">Member lists and directories</field>
+    <field name="series_si">Series 1: Club administration and membership &gt;&gt; Member lists and directories &gt;&gt; </field>
+    <field name="unitdate_start_sim">2007</field>
+    <field name="unitdate_start_ssm">2007</field>
+    <field name="unitdate_start_si">2007</field>
+    <field name="unitdate_end_sim">2008</field>
+    <field name="unitdate_end_ssm">2008</field>
+    <field name="unitdate_end_si">2008</field>
+    <field name="unitdate_ssm">Inclusive, 2007-2008</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">23</field>
+  </doc>
+</add>

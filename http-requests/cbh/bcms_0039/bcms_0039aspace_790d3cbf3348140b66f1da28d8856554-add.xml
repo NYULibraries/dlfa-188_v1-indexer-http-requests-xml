@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0039aspace_790d3cbf3348140b66f1da28d8856554</field>
+    <field name="ead_ssi">bcms_0039</field>
+    <field name="parent_ssi">aspace_dc1c44132a224dce4e99594b79b00565</field>
+    <field name="parent_ssm">aspace_dc1c44132a224dce4e99594b79b00565</field>
+    <field name="parent_unittitles_ssm">Series 7: Related non-government agencies</field>
+    <field name="parent_unittitles_teim">Series 7: Related non-government agencies</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_ssm">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_ssm">BCMS.0039</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 7.2: Brooklyn Public Library</field>
+    <field name="unittitle_teim">Subseries 7.2: Brooklyn Public Library</field>
+    <field name="unitdate_normal_ssm">1950/1957</field>
+    <field name="unitdate_normal_teim">1950/1957</field>
+    <field name="unitdate_normal_sim">1950/1957</field>
+    <field name="unitdate_inclusive_teim">1950-1957</field>
+    <field name="scopecontent_teim">The Brooklyn Public Library was a member of BCSP, and collaborated with BCSP on projects for the Puerto Rican community; a directory of summer recreation services; and a bibliography of books and materials for new social service workers entitled "Getting acquainted with Brooklyn." Correspondence includes letters about and minutes of the Committee for Brooklyn Public Library Week (1953), and acknowledgments for BCSP publications contributed to the library. Also included are press clippings and several BPL publications and flyers.</field>
+    <field name="ref_ssi">aspace_790d3cbf3348140b66f1da28d8856554</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_teim">BCMS.0039</field>
+    <field name="series_sim">Series 7: Related non-government agencies</field>
+    <field name="series_si">Series 7: Related non-government agencies &gt;&gt; Subseries 7.2: Brooklyn Public Library</field>
+    <field name="heading_ssm">Subseries 7.2: Brooklyn Public Library</field>
+    <field name="unitdate_start_sim">1950</field>
+    <field name="unitdate_start_ssm">1950</field>
+    <field name="unitdate_start_si">1950</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, 1950-1957</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">491</field>
+  </doc>
+</add>

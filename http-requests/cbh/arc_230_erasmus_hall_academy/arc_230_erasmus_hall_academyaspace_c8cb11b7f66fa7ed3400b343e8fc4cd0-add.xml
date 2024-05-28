@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_230_erasmus_hall_academyaspace_c8cb11b7f66fa7ed3400b343e8fc4cd0</field>
+    <field name="ead_ssi">arc_230_erasmus_hall_academy</field>
+    <field name="parent_ssi">aspace_250fa0faec9d8b53b7efa8ed3cd8d656</field>
+    <field name="parent_ssm">aspace_250fa0faec9d8b53b7efa8ed3cd8d656</field>
+    <field name="parent_unittitles_ssm">Series 2: Erasmus Hall High School</field>
+    <field name="parent_unittitles_teim">Series 2: Erasmus Hall High School</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Erasmus Hall collection</field>
+    <field name="collection_ssm">Erasmus Hall collection</field>
+    <field name="collection_unitid_ssm">ARC.230</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Images and postcards</field>
+    <field name="unittitle_teim">Images and postcards</field>
+    <field name="unitdate_normal_ssm">1900/1950</field>
+    <field name="unitdate_normal_teim">1900/1950</field>
+    <field name="unitdate_normal_sim">1900/1950</field>
+    <field name="unitdate_inclusive_teim">circa early to mid-20th century</field>
+    <field name="ref_ssi">aspace_c8cb11b7f66fa7ed3400b343e8fc4cd0</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Erasmus Hall collection</field>
+    <field name="collection_unitid_teim">ARC.230</field>
+    <field name="series_sim">Series 2: Erasmus Hall High School</field>
+    <field name="series_si">Series 2: Erasmus Hall High School &gt;&gt; Images and postcards</field>
+    <field name="heading_ssm">Images and postcards</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">1950</field>
+    <field name="unitdate_end_ssm">1950</field>
+    <field name="unitdate_end_si">1950</field>
+    <field name="unitdate_ssm">Inclusive, circa early to mid-20th century</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

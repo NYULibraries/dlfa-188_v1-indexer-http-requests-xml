@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_050_melishaspace_ref98_c3e</field>
+    <field name="ead_ssi">arc_050_melish</field>
+    <field name="parent_ssi">aspace_ref8_6is</field>
+    <field name="parent_ssm">aspace_ref8_6is</field>
+    <field name="parent_unittitles_ssm">Series 8: Publications.</field>
+    <field name="parent_unittitles_teim">Series 8: Publications.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Howard Melish, William Howard Melish and Protestant Episcopal Church of the Holy Trinity collection</field>
+    <field name="collection_ssm">John Howard Melish, William Howard Melish and Protestant Episcopal Church of the Holy Trinity collection</field>
+    <field name="collection_unitid_ssm">ARC.050</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">William Howard Melish Sermons and Speeches.</field>
+    <field name="unittitle_teim">William Howard Melish Sermons and Speeches.</field>
+    <field name="unitdate_normal_ssm">1947/1985</field>
+    <field name="unitdate_normal_teim">1947/1985</field>
+    <field name="unitdate_normal_sim">1947/1985</field>
+    <field name="unitdate_inclusive_teim">1947-1963, 1980-1985</field>
+    <field name="ref_ssi">aspace_ref98_c3e</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">John Howard Melish, William Howard Melish and Protestant Episcopal Church of the Holy Trinity collection</field>
+    <field name="collection_unitid_teim">ARC.050</field>
+    <field name="series_sim">Series 8: Publications.</field>
+    <field name="series_si">Series 8: Publications. &gt;&gt; William Howard Melish Sermons and Speeches.</field>
+    <field name="heading_ssm">William Howard Melish Sermons and Speeches.</field>
+    <field name="unitdate_start_sim">1947</field>
+    <field name="unitdate_start_ssm">1947</field>
+    <field name="unitdate_start_si">1947</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_si">1985</field>
+    <field name="unitdate_ssm">Inclusive, 1947-1963, 1980-1985</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">89</field>
+  </doc>
+</add>

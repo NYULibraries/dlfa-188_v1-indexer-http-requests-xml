@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1978_004_notmanaspace_ref10_qci</field>
+    <field name="ead_ssi">arms_1978_004_notman</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Notman papers</field>
+    <field name="collection_ssm">John Notman papers</field>
+    <field name="collection_unitid_ssm">1978.004</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: State Board of Charities</field>
+    <field name="unittitle_teim">Series 1: State Board of Charities</field>
+    <field name="unitdate_normal_ssm">1899/1907</field>
+    <field name="unitdate_normal_teim">1899/1907</field>
+    <field name="unitdate_normal_sim">1899/1907</field>
+    <field name="unitdate_inclusive_teim">1899-1907</field>
+    <field name="scopecontent_teim">This series contains outgoing correspondence of John Notman in his capacity as Commissioner of the State Board of Charities, contained in one large copybook and housed in an oversize box.  Correspondence is addressed to Board President William R. Stewart, Secretary Robert W. Hebberd, and several representatives of charitable organizations overseen by the Board.  Organizations represented include the Brooklyn Society for the Prevention of Cruelty to Children, Bethesda Sanitarium and Dispensary, Mothers and Babies Hospital, Bay Ridge Hospital Dispensary and Training School for Nurses, Women's Aid Nursery, Skene Hospital for Self-Supporting Women, German Hospital Society of Brooklyn, Jefferson County Orphan Asylum, Woodbine Nursery of Brooklyn, Hebrew Reform Benevolent Society, Harlem Clinic, Cuban Home Training School of New York, Masonic Hospital and Shelter Association of New York City, Convent of the Sisters of Mercy, Sanitary League of Yonkers, and many others.  All correspondence is arranged chronologically.</field>
+    <field name="ref_ssi">aspace_ref10_qci</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Notman papers</field>
+    <field name="collection_unitid_teim">1978.004</field>
+    <field name="series_si">Series 1: State Board of Charities</field>
+    <field name="heading_ssm">Series 1: State Board of Charities</field>
+    <field name="unitdate_start_sim">1899</field>
+    <field name="unitdate_start_ssm">1899</field>
+    <field name="unitdate_start_si">1899</field>
+    <field name="unitdate_end_sim">1907</field>
+    <field name="unitdate_end_ssm">1907</field>
+    <field name="unitdate_end_si">1907</field>
+    <field name="unitdate_ssm">Inclusive, 1899-1907</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

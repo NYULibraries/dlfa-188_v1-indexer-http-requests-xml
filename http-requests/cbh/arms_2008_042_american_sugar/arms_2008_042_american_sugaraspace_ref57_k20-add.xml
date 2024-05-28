@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2008_042_american_sugaraspace_ref57_k20</field>
+    <field name="ead_ssi">arms_2008_042_american_sugar</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">American Sugar Refining Company records</field>
+    <field name="collection_ssm">American Sugar Refining Company records</field>
+    <field name="collection_unitid_ssm">2008.042</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: &lt;em&gt;The American Sugar Family&lt;/em&gt; (periodical)</field>
+    <field name="unittitle_teim">Series 2: The American Sugar Family (periodical)</field>
+    <field name="unitdate_normal_ssm">1920/1921</field>
+    <field name="unitdate_normal_teim">1920/1921</field>
+    <field name="unitdate_normal_sim">1920/1921</field>
+    <field name="unitdate_inclusive_teim">1920-1921</field>
+    <field name="scopecontent_teim">The series includes the periodical The American Sugar Family, which was published by the company in 1920 and 1921.  It featured articles on sugar production and refining, as well as photographs of and stories about company employees in each of its five plants, including the one on the Brooklyn waterfront.  This series does not represent the complete run of the publication.  Photocopies of several articles are included.</field>
+    <field name="ref_ssi">aspace_ref57_k20</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">American Sugar Refining Company records</field>
+    <field name="collection_unitid_teim">2008.042</field>
+    <field name="series_si">Series 2: &lt;em&gt;The American Sugar Family&lt;/em&gt; (periodical)</field>
+    <field name="heading_ssm">Series 2: The American Sugar Family (periodical)</field>
+    <field name="unitdate_start_sim">1920</field>
+    <field name="unitdate_start_ssm">1920</field>
+    <field name="unitdate_start_si">1920</field>
+    <field name="unitdate_end_sim">1921</field>
+    <field name="unitdate_end_ssm">1921</field>
+    <field name="unitdate_end_si">1921</field>
+    <field name="unitdate_ssm">Inclusive, 1920-1921</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

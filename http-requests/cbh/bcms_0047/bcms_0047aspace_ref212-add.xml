@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0047aspace_ref212</field>
+    <field name="ead_ssi">bcms_0047</field>
+    <field name="parent_ssi">aspace_ref210</field>
+    <field name="parent_ssm">aspace_ref210</field>
+    <field name="parent_unittitles_ssm">Reel 42</field>
+    <field name="parent_unittitles_teim">Reel 42</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Kings County Historic Records Microfilm Collection</field>
+    <field name="collection_ssm">Kings County Historic Records Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0047</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Flatbush Book 136-137, State Census</field>
+    <field name="unittitle_teim">Flatbush Book 136-137, State Census</field>
+    <field name="unitdate_teim">1845</field>
+    <field name="ref_ssi">aspace_ref212</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">reel: 42</field>
+    <field name="location_si">reel: 42</field>
+    <field name="collection_teim">Kings County Historic Records Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0047</field>
+    <field name="series_sim">Reel 42</field>
+    <field name="series_si">Reel 42 &gt;&gt; Flatbush Book 136-137, State Census</field>
+    <field name="heading_ssm">Flatbush Book 136-137, State Census</field>
+    <field name="unitdate_ssm">1845</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">189</field>
+  </doc>
+</add>

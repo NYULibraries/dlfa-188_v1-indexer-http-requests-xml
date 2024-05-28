@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_263_pierrepont_familyaspace_ref212_9pm</field>
+    <field name="ead_ssi">arc_263_pierrepont_family</field>
+    <field name="parent_ssi">aspace_ref102_cm1</field>
+    <field name="parent_ssm">aspace_ref102_cm1</field>
+    <field name="parent_unittitles_ssm">Series 4: Pierrepont Stores</field>
+    <field name="parent_unittitles_teim">Series 4: Pierrepont Stores</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Pierrepont family papers</field>
+    <field name="collection_ssm">Pierrepont family papers</field>
+    <field name="collection_unitid_ssm">ARC.263</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 9: Day Books</field>
+    <field name="unittitle_teim">Sub-series 9: Day Books</field>
+    <field name="unitdate_normal_ssm">1856/1888</field>
+    <field name="unitdate_normal_teim">1856/1888</field>
+    <field name="unitdate_normal_sim">1856/1888</field>
+    <field name="unitdate_inclusive_teim">1856-1888</field>
+    <field name="scopecontent_teim">Each of these seven volumes details the daily costs and earnings of the Pierrepont Stores.  Entries list clients, cargo, services rendered, and amount charged for those services.</field>
+    <field name="ref_ssi">aspace_ref212_9pm</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Pierrepont family papers</field>
+    <field name="collection_unitid_teim">ARC.263</field>
+    <field name="series_sim">Series 4: Pierrepont Stores</field>
+    <field name="series_si">Series 4: Pierrepont Stores &gt;&gt; Sub-series 9: Day Books</field>
+    <field name="heading_ssm">Sub-series 9: Day Books</field>
+    <field name="unitdate_start_sim">1856</field>
+    <field name="unitdate_start_ssm">1856</field>
+    <field name="unitdate_start_si">1856</field>
+    <field name="unitdate_end_sim">1888</field>
+    <field name="unitdate_end_ssm">1888</field>
+    <field name="unitdate_end_si">1888</field>
+    <field name="unitdate_ssm">Inclusive, 1856-1888</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">141</field>
+  </doc>
+</add>

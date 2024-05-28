@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Nicholas Pavlik</field>
+    <field name="author_ssm">Nicholas Pavlik</field>
+    <field name="unittitle_teim">Facsimile of 1698 Kings County census</field>
+    <field name="unittitle_ssm">Facsimile of 1698 Kings County census</field>
+    <field name="unitid_teim">ARC.264</field>
+    <field name="unitid_ssm">ARC.264</field>
+    <field name="abstract_teim">Facsimile of a broadside containing the first census of Kings County, N.Y., recorded in 1698.  The census lists the residents of each of Kings County's six original towns, including Brooklyn, Bushwick, Flatbush, Flatlands, Gravesend, and New Utrecht.  Residents of the towns of Newtown and Flushing in Queens County are also listed.  Coats of arms of prominent Kings County families are shown along the border of the broadside.  A note on the verso indicates that the facsimile was created by Franklin Bittner.</field>
+    <field name="abstract_ssm">Facsimile of a broadside containing the first census of Kings County, N.Y., recorded in 1698.  The census lists the residents of each of Kings County's six original towns, including Brooklyn, Bushwick, Flatbush, Flatlands, Gravesend, and New Utrecht.  Residents of the towns of Newtown and Flushing in Queens County are also listed.  Coats of arms of prominent Kings County families are shown along the border of the broadside.  A note on the verso indicates that the facsimile was created by Franklin Bittner.</field>
+    <field name="unitdate_normal_ssm">1698/1698</field>
+    <field name="unitdate_normal_teim">1698/1698</field>
+    <field name="unitdate_normal_sim">1698/1698</field>
+    <field name="unitdate_inclusive_teim">1698</field>
+    <field name="acqinfo_teim">Gift of Earnest A. Oakley, 1959.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Broadsides (notices)</field>
+    <field name="genreform_teim">Census records</field>
+    <field name="genreform_ssm">Broadsides (notices)</field>
+    <field name="genreform_ssm">Census records</field>
+    <field name="geogname_teim">Kings County (N.Y.) |v Census, 1698</field>
+    <field name="geogname_teim">Queens County (N.Y.)</field>
+    <field name="geogname_ssm">Kings County (N.Y.) |v Census, 1698</field>
+    <field name="geogname_ssm">Queens County (N.Y.)</field>
+    <field name="persname_teim">Bittner, Franklin</field>
+    <field name="persname_teim">Oakley, Earnest A.</field>
+    <field name="persname_teim">Oakley, Earnest A.</field>
+    <field name="persname_ssm">Bittner, Franklin</field>
+    <field name="persname_ssm">Oakley, Earnest A.</field>
+    <field name="persname_ssm">Oakley, Earnest A.</field>
+    <field name="collection_sim">Facsimile of 1698 Kings County census</field>
+    <field name="collection_ssm">Facsimile of 1698 Kings County census</field>
+    <field name="collection_teim">Facsimile of 1698 Kings County census</field>
+    <field name="id">arc_264_1698_kings_county_census</field>
+    <field name="ead_ssi">arc_264_1698_kings_county_census</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Bittner, Franklin</field>
+    <field name="name_sim">Oakley, Earnest A.</field>
+    <field name="name_teim">Bittner, Franklin</field>
+    <field name="name_teim">Oakley, Earnest A.</field>
+    <field name="place_sim">Kings County (N.Y.) -- Census, 1698</field>
+    <field name="place_sim">Queens County (N.Y.)</field>
+    <field name="material_type_sim">Broadsides (notices)</field>
+    <field name="material_type_sim">Census records</field>
+    <field name="material_type_ssm">Broadsides (notices)</field>
+    <field name="material_type_ssm">Census records</field>
+    <field name="heading_ssm">Facsimile of 1698 Kings County census</field>
+    <field name="unitdate_start_sim">1698</field>
+    <field name="unitdate_start_ssm">1698</field>
+    <field name="unitdate_start_si">1698</field>
+    <field name="unitdate_end_sim">1698</field>
+    <field name="unitdate_end_ssm">1698</field>
+    <field name="unitdate_end_si">1698</field>
+    <field name="unitdate_ssm">Inclusive, 1698</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

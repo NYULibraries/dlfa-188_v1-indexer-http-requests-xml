@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1974_018_robert_livingstonaspace_835fd78feca1442b96634efa3d7483fa</field>
+    <field name="ead_ssi">arms_1974_018_robert_livingston</field>
+    <field name="parent_ssi">aspace_f7ce7a14eb6b69062534219545ddc0ce</field>
+    <field name="parent_ssm">aspace_f7ce7a14eb6b69062534219545ddc0ce</field>
+    <field name="parent_unittitles_ssm">Series 1: Livingston Manor</field>
+    <field name="parent_unittitles_teim">Series 1: Livingston Manor</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Livingston papers</field>
+    <field name="collection_ssm">Robert Livingston papers</field>
+    <field name="collection_unitid_ssm">1974.018</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Land document</field>
+    <field name="unittitle_teim">Land document</field>
+    <field name="unitdate_normal_ssm">1724/1724</field>
+    <field name="unitdate_normal_teim">1724/1724</field>
+    <field name="unitdate_normal_sim">1724/1724</field>
+    <field name="unitdate_teim">1724</field>
+    <field name="scopecontent_teim">Land document, titled "The Indians quitt Claim to Land on ye north Line of Mannor Livingston near Roeloff Jansen's kill", dated "Mannor Livingston 4 May 1724," the Quit Claim made, signed and sealed by Nameseet and Potighkamow, and witnessed by interpreter Kekughqua, Notamoss, and Akenimitt, and by Alida Vetch and Geertruyd Bayard, mentions surveyor John Beatty, Hendrick Van Rensselaer, Martin Van Dousse [var. spelled Van Dusen, or Van Deusen], Robert Van Dousse, Robert Teunis Van Dousse, Nikas Janse.</field>
+    <field name="ref_ssi">aspace_835fd78feca1442b96634efa3d7483fa</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 21</field>
+    <field name="location_ssm">Folder: 21</field>
+    <field name="location_si">Folder: 21</field>
+    <field name="collection_teim">Robert Livingston papers</field>
+    <field name="collection_unitid_teim">1974.018</field>
+    <field name="series_sim">Series 1: Livingston Manor</field>
+    <field name="series_si">Series 1: Livingston Manor &gt;&gt; Land document</field>
+    <field name="heading_ssm">Land document</field>
+    <field name="unitdate_start_sim">1724</field>
+    <field name="unitdate_start_ssm">1724</field>
+    <field name="unitdate_start_si">1724</field>
+    <field name="unitdate_end_sim">1724</field>
+    <field name="unitdate_end_ssm">1724</field>
+    <field name="unitdate_end_si">1724</field>
+    <field name="unitdate_ssm">1724</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="sort_ii">22</field>
+  </doc>
+</add>

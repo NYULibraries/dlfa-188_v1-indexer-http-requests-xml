@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cbhm_0006aspace_671c94d81a07195950a2da9e004513bf</field>
+    <field name="ead_ssi">cbhm_0006</field>
+    <field name="parent_ssi">aspace_801867d304fa7c1e260702b8c9fc8046</field>
+    <field name="parent_ssm">aspace_ca70b8c74995df594cb2fa66b32c5e16</field>
+    <field name="parent_ssm">aspace_801867d304fa7c1e260702b8c9fc8046</field>
+    <field name="parent_unittitles_ssm">Series 2: Individual schools</field>
+    <field name="parent_unittitles_ssm">Bishop Loughlin Memorial High School</field>
+    <field name="parent_unittitles_teim">Series 2: Individual schools</field>
+    <field name="parent_unittitles_teim">Bishop Loughlin Memorial High School</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn schools collection</field>
+    <field name="collection_ssm">Brooklyn schools collection</field>
+    <field name="collection_unitid_ssm">CBHM.0006</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Photograph of alumni</field>
+    <field name="unittitle_teim">Photograph of alumni</field>
+    <field name="unitdate_normal_ssm">1980/1990</field>
+    <field name="unitdate_normal_teim">1980/1990</field>
+    <field name="unitdate_normal_sim">1980/1990</field>
+    <field name="unitdate_inclusive_teim">circa 1980s</field>
+    <field name="scopecontent_teim">Photograph includes Rudy Giuliani, who graduated from Bishop Loughlin in 1961.</field>
+    <field name="ref_ssi">aspace_671c94d81a07195950a2da9e004513bf</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_si">Box: 2</field>
+    <field name="collection_teim">Brooklyn schools collection</field>
+    <field name="collection_unitid_teim">CBHM.0006</field>
+    <field name="series_sim">Series 2: Individual schools</field>
+    <field name="series_sim">Bishop Loughlin Memorial High School</field>
+    <field name="series_si">Series 2: Individual schools &gt;&gt; Bishop Loughlin Memorial High School &gt;&gt; Photograph of alumni</field>
+    <field name="heading_ssm">Photograph of alumni</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, circa 1980s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">86</field>
+  </doc>
+</add>

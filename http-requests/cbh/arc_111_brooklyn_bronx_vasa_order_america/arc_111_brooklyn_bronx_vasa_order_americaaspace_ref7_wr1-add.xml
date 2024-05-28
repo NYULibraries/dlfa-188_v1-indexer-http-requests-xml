@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_111_brooklyn_bronx_vasa_order_americaaspace_ref7_wr1</field>
+    <field name="ead_ssi">arc_111_brooklyn_bronx_vasa_order_america</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn and Bronx lodges of the Vasa Order of America records</field>
+    <field name="collection_ssm">Brooklyn and Bronx lodges of the Vasa Order of America records</field>
+    <field name="collection_unitid_ssm">ARC.111</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Minutes of lodge meetings</field>
+    <field name="unittitle_teim">Series 1: Minutes of lodge meetings</field>
+    <field name="unitdate_normal_ssm">1920/1970</field>
+    <field name="unitdate_normal_teim">1920/1970</field>
+    <field name="unitdate_normal_sim">1920/1970</field>
+    <field name="unitdate_inclusive_teim">1920-1970</field>
+    <field name="scopecontent_teim">This series contains minutes of the local lodge meetings for St. Erik #338, Liljan #107, and Harmony #476, ranging from 1920 to 1970.  The minutes for St. Erik are especially rich; they are entirely in Swedish, continuously cover the years 1918 to 1941, and contain numerous clippings and flyers pasted into the minute books, documenting the lodge's many events and activities. The minutes of Harmony #476 cover the period 1935 to 1973, with small gaps throughout and a larger gap from 1939 to 1945.  They are in generally good condition, though a few pages are torn entirely in half. The minutes of the last meeting contain the procedures of the merger with Nobel-Liljan. The minutes of Liljan #107 cover the merger-heavy period 1968 to 1970, and are mostly in Swedish. Some minutes also contain informal lists of benefits paid out to members.</field>
+    <field name="ref_ssi">aspace_ref7_wr1</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn and Bronx lodges of the Vasa Order of America records</field>
+    <field name="collection_unitid_teim">ARC.111</field>
+    <field name="series_si">Series 1: Minutes of lodge meetings</field>
+    <field name="heading_ssm">Series 1: Minutes of lodge meetings</field>
+    <field name="unitdate_start_sim">1920</field>
+    <field name="unitdate_start_ssm">1920</field>
+    <field name="unitdate_start_si">1920</field>
+    <field name="unitdate_end_sim">1970</field>
+    <field name="unitdate_end_ssm">1970</field>
+    <field name="unitdate_end_si">1970</field>
+    <field name="unitdate_ssm">Inclusive, 1920-1970</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

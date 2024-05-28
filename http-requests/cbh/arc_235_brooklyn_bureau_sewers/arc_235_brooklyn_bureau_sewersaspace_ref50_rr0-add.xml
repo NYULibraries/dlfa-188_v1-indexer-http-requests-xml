@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_235_brooklyn_bureau_sewersaspace_ref50_rr0</field>
+    <field name="ead_ssi">arc_235_brooklyn_bureau_sewers</field>
+    <field name="parent_ssi">aspace_ref2_n0l</field>
+    <field name="parent_ssm">aspace_ref1_uya</field>
+    <field name="parent_ssm">aspace_ref2_n0l</field>
+    <field name="parent_unittitles_ssm">Series 1: Assessment Binders</field>
+    <field name="parent_unittitles_ssm">Sub-series 1: Pre-Consolidation</field>
+    <field name="parent_unittitles_teim">Series 1: Assessment Binders</field>
+    <field name="parent_unittitles_teim">Sub-series 1: Pre-Consolidation</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_ssm">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_ssm">ARC.235</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Map I, District 21, Sub-divisions 14-20 (8 books)</field>
+    <field name="unittitle_teim">Map I, District 21, Sub-divisions 14-20 (8 books)</field>
+    <field name="unitdate_normal_ssm">1878/1893</field>
+    <field name="unitdate_normal_teim">1878/1893</field>
+    <field name="unitdate_normal_sim">1878/1893</field>
+    <field name="unitdate_inclusive_teim">1878-1893</field>
+    <field name="ref_ssi">aspace_ref50_rr0</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 13-16</field>
+    <field name="location_ssm">Folder: 13-16</field>
+    <field name="location_si">Folder: 13-16</field>
+    <field name="collection_teim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_teim">ARC.235</field>
+    <field name="series_sim">Series 1: Assessment Binders</field>
+    <field name="series_sim">Sub-series 1: Pre-Consolidation</field>
+    <field name="series_si">Series 1: Assessment Binders &gt;&gt; Sub-series 1: Pre-Consolidation &gt;&gt; Map I, District 21, Sub-divisions 14-20 (8 books)</field>
+    <field name="heading_ssm">Map I, District 21, Sub-divisions 14-20 (8 books)</field>
+    <field name="unitdate_start_sim">1878</field>
+    <field name="unitdate_start_ssm">1878</field>
+    <field name="unitdate_start_si">1878</field>
+    <field name="unitdate_end_sim">1893</field>
+    <field name="unitdate_end_ssm">1893</field>
+    <field name="unitdate_end_si">1893</field>
+    <field name="unitdate_ssm">Inclusive, 1878-1893</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">11</field>
+  </doc>
+</add>

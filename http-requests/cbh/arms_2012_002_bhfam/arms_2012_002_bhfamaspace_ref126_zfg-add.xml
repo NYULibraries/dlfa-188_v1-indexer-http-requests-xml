@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2012_002_bhfamaspace_ref126_zfg</field>
+    <field name="ead_ssi">arms_2012_002_bhfam</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Home for Aged Men records</field>
+    <field name="collection_ssm">Brooklyn Home for Aged Men records</field>
+    <field name="collection_unitid_ssm">2012.002</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 5: Microfilm</field>
+    <field name="unittitle_teim">Series 5: Microfilm</field>
+    <field name="unitdate_normal_ssm">1922/1987</field>
+    <field name="unitdate_normal_teim">1922/1987</field>
+    <field name="unitdate_normal_sim">1922/1987</field>
+    <field name="unitdate_inclusive_teim">1922-1987</field>
+    <field name="scopecontent_teim">The series contains microfilmed records of the Brooklyn Home for Aged Men. They include 10 reels of financial records (1922-1987), and two reels resident files (dating up to 1975). </field>
+    <field name="scopecontent_teim">There are duplicate copies of each reel. Physical copies of some records are available in the Administrative and financial records series and the Resident files series. </field>
+    <field name="scopecontent_teim">Access to Resident files are generally restricted until 2050. Please see the collection's Conditions Governing Access note for more information.</field>
+    <field name="ref_ssi">aspace_ref126_zfg</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 15</field>
+    <field name="location_si">Box: 15</field>
+    <field name="collection_teim">Brooklyn Home for Aged Men records</field>
+    <field name="collection_unitid_teim">2012.002</field>
+    <field name="series_si">Series 5: Microfilm</field>
+    <field name="heading_ssm">Series 5: Microfilm</field>
+    <field name="unitdate_start_sim">1922</field>
+    <field name="unitdate_start_ssm">1922</field>
+    <field name="unitdate_start_si">1922</field>
+    <field name="unitdate_end_sim">1987</field>
+    <field name="unitdate_end_ssm">1987</field>
+    <field name="unitdate_end_si">1987</field>
+    <field name="unitdate_ssm">Inclusive, 1922-1987</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">93</field>
+  </doc>
+</add>

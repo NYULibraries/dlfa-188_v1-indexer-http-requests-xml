@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_263_pierrepont_familyaspace_ref272_nlc</field>
+    <field name="ead_ssi">arc_263_pierrepont_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Pierrepont family papers</field>
+    <field name="collection_ssm">Pierrepont family papers</field>
+    <field name="collection_unitid_ssm">ARC.263</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 8: Diaries</field>
+    <field name="unittitle_teim">Series 8: Diaries</field>
+    <field name="unitdate_normal_ssm">1797/1888</field>
+    <field name="unitdate_normal_teim">1797/1888</field>
+    <field name="unitdate_normal_sim">1797/1888</field>
+    <field name="unitdate_inclusive_teim">1797-1888</field>
+    <field name="scopecontent_teim">The bulk of the series includes the diaries Henry Evelyn Pierrepont (senior) maintained for the last decade of his life, from 1877 until March 19, 1888, nine days prior to his death. The numbering of the diaries, and an 1855 fragment, suggest that Pierrepont maintained a diary for many decades, but these are not in the collection and are not known to be extant. Each diary covers one calendar year and is numbered consecutively. The entries are handwritten and each diary begins with a one-page timeline of the year's major events.  </field>
+    <field name="scopecontent_teim">Daily entries typically include notes on the weather, Pierrepont's activities for the day, and other events of significance to Pierrepont. Though most are brief factual statements, Pierrepont expresses personal opinions about many matters. The daily entries are generally brief and concern the range of Pierrepont's interests: family, finances, commercial activities, civic activities, and politics. Personal notes include such matters as reflections on family deaths and lists of New Year's Day callers on Pierrepont and Pierrepont's calls on others. Pierrepont includes observations on local events, such as the blizzard of March 1888, and on some national events, such as his concern about communism in response to railroad labor strife in the summer of 1877. The diaries include descriptions of his travel, including at least one trip to Europe, in 1878. The series includes a separate log of his travels over four decades.</field>
+    <field name="scopecontent_teim">Miscellaneous documents found in the diaries remain in the series. Among these is an acknowledgement of payment signed by G. Stuart for portraits for William Constable (1797), a letter from Pierrepont to State Senator Kirnan requesting his support in defeating a bill (1884), and an almanac page with information about the Brooklyn Bridge (1884). </field>
+    <field name="scopecontent_teim">Also in the series are typescript transcriptions of extracts from diaries of Hezekiah Beers Pierpont and biographical notes.</field>
+    <field name="ref_ssi">aspace_ref272_nlc</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Pierrepont family papers</field>
+    <field name="collection_unitid_teim">ARC.263</field>
+    <field name="series_si">Series 8: Diaries</field>
+    <field name="heading_ssm">Series 8: Diaries</field>
+    <field name="unitdate_start_sim">1797</field>
+    <field name="unitdate_start_ssm">1797</field>
+    <field name="unitdate_start_si">1797</field>
+    <field name="unitdate_end_sim">1888</field>
+    <field name="unitdate_end_ssm">1888</field>
+    <field name="unitdate_end_si">1888</field>
+    <field name="unitdate_ssm">Inclusive, 1797-1888</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">179</field>
+  </doc>
+</add>

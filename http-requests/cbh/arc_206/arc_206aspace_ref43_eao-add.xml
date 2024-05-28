@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_206aspace_ref43_eao</field>
+    <field name="ead_ssi">arc_206</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Autograph Manuscript collection</field>
+    <field name="collection_ssm">Autograph Manuscript collection</field>
+    <field name="collection_unitid_ssm">ARC.206</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Choate, Rufus</field>
+    <field name="unittitle_teim">Choate, Rufus</field>
+    <field name="unitid_teim">1974.009 folder 22</field>
+    <field name="unitid_ssm">1974.009 folder 22</field>
+    <field name="unitdate_normal_ssm">1841/1849</field>
+    <field name="unitdate_normal_teim">1841/1849</field>
+    <field name="unitdate_normal_sim">1841/1849</field>
+    <field name="unitdate_inclusive_teim">1841, 1844, 1849</field>
+    <field name="scopecontent_teim">1841 letter, from Rufus Choate, at Boston, to Richard Salter Storrs Jr., at Andover, MA, re: suggested courses of study for Storrs's education; 1844 letter, from Rufus Choate, at Boston, to Richard Salter Storrs Jr., William T. Eustis, et al., as committee for a Society, at Boston, re: declining invitation to lecture before the Society; 1849 note, signed by Rufus Choate</field>
+    <field name="ref_ssi">aspace_ref43_eao</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 20</field>
+    <field name="location_ssm">Folder: 20</field>
+    <field name="location_si">Folder: 20</field>
+    <field name="collection_teim">Autograph Manuscript collection</field>
+    <field name="collection_unitid_teim">ARC.206</field>
+    <field name="series_si">Choate, Rufus</field>
+    <field name="heading_ssm">Choate, Rufus</field>
+    <field name="unitdate_start_sim">1841</field>
+    <field name="unitdate_start_ssm">1841</field>
+    <field name="unitdate_start_si">1841</field>
+    <field name="unitdate_end_sim">1849</field>
+    <field name="unitdate_end_ssm">1849</field>
+    <field name="unitdate_end_si">1849</field>
+    <field name="unitdate_ssm">Inclusive, 1841, 1844, 1849</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">21</field>
+  </doc>
+</add>

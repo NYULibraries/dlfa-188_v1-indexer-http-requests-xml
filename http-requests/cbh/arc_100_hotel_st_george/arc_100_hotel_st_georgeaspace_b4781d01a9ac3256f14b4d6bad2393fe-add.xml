@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_100_hotel_st_georgeaspace_b4781d01a9ac3256f14b4d6bad2393fe</field>
+    <field name="ead_ssi">arc_100_hotel_st_george</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Hotel St. George collection</field>
+    <field name="collection_ssm">Hotel St. George collection</field>
+    <field name="collection_unitid_ssm">ARC.100</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Slides</field>
+    <field name="unittitle_teim">Slides</field>
+    <field name="unitdate_normal_ssm">1922/1942</field>
+    <field name="unitdate_normal_teim">1922/1942</field>
+    <field name="unitdate_normal_sim">1922/1942</field>
+    <field name="unitdate_inclusive_teim">circa 1932</field>
+    <field name="ref_ssi">aspace_b4781d01a9ac3256f14b4d6bad2393fe</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Hotel St. George collection</field>
+    <field name="collection_unitid_teim">ARC.100</field>
+    <field name="series_si">Slides</field>
+    <field name="heading_ssm">Slides</field>
+    <field name="unitdate_start_sim">1922</field>
+    <field name="unitdate_start_ssm">1922</field>
+    <field name="unitdate_start_si">1922</field>
+    <field name="unitdate_end_sim">1942</field>
+    <field name="unitdate_end_ssm">1942</field>
+    <field name="unitdate_end_si">1942</field>
+    <field name="unitdate_ssm">Inclusive, circa 1932</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

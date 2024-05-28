@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1985_056_prattaspace_74035d9db7430515a347b1238777780e</field>
+    <field name="ead_ssi">arms_1985_056_pratt</field>
+    <field name="parent_ssi">aspace_ref12_zfv</field>
+    <field name="parent_ssm">aspace_ref12_zfv</field>
+    <field name="parent_unittitles_ssm">Series 2: Ephemera</field>
+    <field name="parent_unittitles_teim">Series 2: Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Pratt Institute collection</field>
+    <field name="collection_ssm">Pratt Institute collection</field>
+    <field name="collection_unitid_ssm">1985.056</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The Thrift</field>
+    <field name="unittitle_teim">The Thrift</field>
+    <field name="unitdate_normal_ssm">1889/1903</field>
+    <field name="unitdate_normal_teim">1889/1903</field>
+    <field name="unitdate_normal_sim">1889/1903</field>
+    <field name="unitdate_inclusive_teim">1889-1903</field>
+    <field name="bioghist_teim">"The Thrift was founded October 2d, 1889, by Charles Pratt, to promote habits of thrift...The Thrift is organized and designed to aid in the work carried on at Pratt Institute, but is not conducted by the Institute, nor is the Institute responsible for it."</field>
+    <field name="bioghist_teim">The Thrift began as the Pratt Institue Thrift Association and eventually had the name The Thrift Savings, Loan, and Building Fund.</field>
+    <field name="ref_ssi">aspace_74035d9db7430515a347b1238777780e</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 24</field>
+    <field name="location_ssm">Folder: 24</field>
+    <field name="location_si">Folder: 24</field>
+    <field name="collection_teim">Pratt Institute collection</field>
+    <field name="collection_unitid_teim">1985.056</field>
+    <field name="series_sim">Series 2: Ephemera</field>
+    <field name="series_si">Series 2: Ephemera &gt;&gt; The Thrift</field>
+    <field name="heading_ssm">The Thrift</field>
+    <field name="unitdate_start_sim">1889</field>
+    <field name="unitdate_start_ssm">1889</field>
+    <field name="unitdate_start_si">1889</field>
+    <field name="unitdate_end_sim">1903</field>
+    <field name="unitdate_end_ssm">1903</field>
+    <field name="unitdate_end_si">1903</field>
+    <field name="unitdate_ssm">Inclusive, 1889-1903</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">47</field>
+  </doc>
+</add>

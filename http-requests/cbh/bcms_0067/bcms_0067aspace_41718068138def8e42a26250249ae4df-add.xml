@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0067aspace_41718068138def8e42a26250249ae4df</field>
+    <field name="ead_ssi">bcms_0067</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Books</field>
+    <field name="parent_unittitles_teim">Series I: Books</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Norman Finkelstein Collection</field>
+    <field name="collection_ssm">Norman Finkelstein Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0067</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VI: Knowing Too Much</field>
+    <field name="unittitle_teim">Subseries VI: Knowing Too Much</field>
+    <field name="ref_ssi">aspace_41718068138def8e42a26250249ae4df</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Norman Finkelstein Collection</field>
+    <field name="collection_unitid_teim">BCMS.0067</field>
+    <field name="series_sim">Series I: Books</field>
+    <field name="series_si">Series I: Books &gt;&gt; Subseries VI: Knowing Too Much</field>
+    <field name="heading_ssm">Subseries VI: Knowing Too Much</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">156</field>
+  </doc>
+</add>

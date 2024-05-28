@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2006_027_hayward_national_guardaspace_ref10_2iu</field>
+    <field name="ead_ssi">arms_2006_027_hayward_national_guard</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sgt. Arthur A. Hayward New York National Guard 13th Regiment collection</field>
+    <field name="collection_ssm">Sgt. Arthur A. Hayward New York National Guard 13th Regiment collection</field>
+    <field name="collection_unitid_ssm">2006.027</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: New York National Guard 13th Regiment records</field>
+    <field name="unittitle_teim">Series 1: New York National Guard 13th Regiment records</field>
+    <field name="unitdate_normal_ssm">1861/1939</field>
+    <field name="unitdate_normal_teim">1861/1939</field>
+    <field name="unitdate_normal_sim">1861/1939</field>
+    <field name="unitdate_inclusive_teim">1861-1939</field>
+    <field name="scopecontent_teim">This series is housed in Boxes 1 and 2, with oversize items in Box 5.  Included are records kept by Sgt. Hayward during his military career as a sergeant-major, including receipts of expenses incurred, service records of officers, military certificates, letters on military dealings, and articles on the 13th Regiment. Records and documents pertaining to the 13th Regiment Veteran Association are also included, as are a box of superior rubber type, a military medal, and a name plate of Arthur A. Hayward.</field>
+    <field name="ref_ssi">aspace_ref10_2iu</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Sgt. Arthur A. Hayward New York National Guard 13th Regiment collection</field>
+    <field name="collection_unitid_teim">2006.027</field>
+    <field name="series_si">Series 1: New York National Guard 13th Regiment records</field>
+    <field name="heading_ssm">Series 1: New York National Guard 13th Regiment records</field>
+    <field name="unitdate_start_sim">1861</field>
+    <field name="unitdate_start_ssm">1861</field>
+    <field name="unitdate_start_si">1861</field>
+    <field name="unitdate_end_sim">1939</field>
+    <field name="unitdate_end_ssm">1939</field>
+    <field name="unitdate_end_si">1939</field>
+    <field name="unitdate_ssm">Inclusive, 1861-1939</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

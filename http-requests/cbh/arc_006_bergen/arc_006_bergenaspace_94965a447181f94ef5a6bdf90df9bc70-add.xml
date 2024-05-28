@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_006_bergenaspace_94965a447181f94ef5a6bdf90df9bc70</field>
+    <field name="ead_ssi">arc_006_bergen</field>
+    <field name="parent_ssi">aspace_ref644_bxa</field>
+    <field name="parent_ssm">aspace_ref643_zg3</field>
+    <field name="parent_ssm">aspace_ref644_bxa</field>
+    <field name="parent_unittitles_ssm">Group 2: Bergen family and Bergen extended family papers</field>
+    <field name="parent_unittitles_ssm">Series 1: Bergen family papers</field>
+    <field name="parent_unittitles_teim">Group 2: Bergen family and Bergen extended family papers</field>
+    <field name="parent_unittitles_teim">Series 1: Bergen family papers</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_ssm">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_ssm">ARC.006</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photostats of three letters written from Holland to the Voorhees family in America</field>
+    <field name="unittitle_teim">Photostats of three letters written from Holland to the Voorhees family in America</field>
+    <field name="unitdate_normal_ssm">1600/1699</field>
+    <field name="unitdate_normal_teim">1600/1699</field>
+    <field name="unitdate_normal_sim">1600/1699</field>
+    <field name="unitdate_inclusive_teim">1600-1699</field>
+    <field name="ref_ssi">aspace_94965a447181f94ef5a6bdf90df9bc70</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 35, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">Teunis G. Bergen and Bergen family collection</field>
+    <field name="collection_unitid_teim">ARC.006</field>
+    <field name="series_sim">Group 2: Bergen family and Bergen extended family papers</field>
+    <field name="series_sim">Series 1: Bergen family papers</field>
+    <field name="series_si">Group 2: Bergen family and Bergen extended family papers &gt;&gt; Series 1: Bergen family papers &gt;&gt; Photostats of three letters written from Holland to the Voorhees family in America</field>
+    <field name="heading_ssm">Photostats of three letters written from Holland to the Voorhees family in America</field>
+    <field name="unitdate_start_sim">1600</field>
+    <field name="unitdate_start_ssm">1600</field>
+    <field name="unitdate_start_si">1600</field>
+    <field name="unitdate_end_sim">1699</field>
+    <field name="unitdate_end_ssm">1699</field>
+    <field name="unitdate_end_si">1699</field>
+    <field name="unitdate_ssm">Inclusive, 1600-1699</field>
+    <field name="date_range_sim">1501-1600</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="sort_ii">722</field>
+  </doc>
+</add>

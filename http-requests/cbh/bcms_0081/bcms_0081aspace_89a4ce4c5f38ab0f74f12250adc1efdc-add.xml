@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0081aspace_89a4ce4c5f38ab0f74f12250adc1efdc</field>
+    <field name="ead_ssi">bcms_0081</field>
+    <field name="parent_ssi">aspace_f28f4a05cfa0b3b497594a77c3465bb9</field>
+    <field name="parent_ssm">aspace_13744f5a1fd098c861b6a879660ea1ff</field>
+    <field name="parent_ssm">aspace_f28f4a05cfa0b3b497594a77c3465bb9</field>
+    <field name="parent_unittitles_ssm">Series 1: Subject Files</field>
+    <field name="parent_unittitles_ssm">Sub-series 1.2: A-Z</field>
+    <field name="parent_unittitles_teim">Series 1: Subject Files</field>
+    <field name="parent_unittitles_teim">Sub-series 1.2: A-Z</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Pete Hamill Papers</field>
+    <field name="collection_ssm">Pete Hamill Papers</field>
+    <field name="collection_unitid_ssm">BCMS.0081</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Ginzburg, Ralph</field>
+    <field name="unittitle_teim">Ginzburg, Ralph</field>
+    <field name="unitdate_normal_ssm">1998/1998</field>
+    <field name="unitdate_normal_teim">1998/1998</field>
+    <field name="unitdate_normal_sim">1998/1998</field>
+    <field name="unitdate_teim">1998</field>
+    <field name="ref_ssi">aspace_89a4ce4c5f38ab0f74f12250adc1efdc</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 42</field>
+    <field name="location_ssm">Folder: 42</field>
+    <field name="location_si">Folder: 42</field>
+    <field name="collection_teim">Pete Hamill Papers</field>
+    <field name="collection_unitid_teim">BCMS.0081</field>
+    <field name="series_sim">Series 1: Subject Files</field>
+    <field name="series_sim">Sub-series 1.2: A-Z</field>
+    <field name="series_si">Series 1: Subject Files &gt;&gt; Sub-series 1.2: A-Z &gt;&gt; Ginzburg, Ralph</field>
+    <field name="heading_ssm">Ginzburg, Ralph</field>
+    <field name="unitdate_start_sim">1998</field>
+    <field name="unitdate_start_ssm">1998</field>
+    <field name="unitdate_start_si">1998</field>
+    <field name="unitdate_end_sim">1998</field>
+    <field name="unitdate_end_ssm">1998</field>
+    <field name="unitdate_end_si">1998</field>
+    <field name="unitdate_ssm">1998</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">406</field>
+  </doc>
+</add>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1994_013_cranstonaspace_ref11_vf5</field>
+    <field name="ead_ssi">arms_1994_013_cranston</field>
+    <field name="parent_ssi">aspace_ref1_pwv</field>
+    <field name="parent_ssm">aspace_ref1_pwv</field>
+    <field name="parent_unittitles_ssm">Series 1: Manuscript Materials</field>
+    <field name="parent_unittitles_teim">Series 1: Manuscript Materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Cranston family papers and photographs</field>
+    <field name="collection_ssm">Cranston family papers and photographs</field>
+    <field name="collection_unitid_ssm">1994.013</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 1: Alfred Cranston Papers</field>
+    <field name="unittitle_teim">Sub-series 1: Alfred Cranston Papers</field>
+    <field name="unitdate_normal_ssm">1861/1919</field>
+    <field name="unitdate_normal_teim">1861/1919</field>
+    <field name="unitdate_normal_sim">1861/1919</field>
+    <field name="unitdate_inclusive_teim">1861-1919</field>
+    <field name="scopecontent_teim">Alfred Cranston Papers, dated 1861 to 1919, contains all items other than books belonging to Alfred Cranston. Included is all correspondence written by Cranston, including a large number of letters written during his time in the 14th Regiment to his then-fiancée, Elizabeth H. Petford. These letters were transcribed by Beverly Wright Bastian prior donating the collection and the transcriptions are included, both in hard copy and as word processor files on a CD-ROM. Cranston's pocket-size edition of the Book of Psalms, likely issued to him during his military service, and a diary from 1864 are also included. Other items related to the Civil War include his Sergeant appointment certificate (1862), his Second Lieutenant certificate (1862), two discharge certificates (1862, 1863), and a leave of absense certificate (1864).</field>
+    <field name="scopecontent_teim">Cranston's firefighting activities, his employment by the Postal Telegraph Cable Company, and his participation in the St. Cloud Veterans' Colony in central Florida are represented by material in this sub-series. </field>
+    <field name="scopecontent_teim">Digitized versions of Alfred Cranston's correspondence, as well as transcripts, are included in this series. </field>
+    <field name="ref_ssi">aspace_ref11_vf5</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Cranston family papers and photographs</field>
+    <field name="collection_unitid_teim">1994.013</field>
+    <field name="series_sim">Series 1: Manuscript Materials</field>
+    <field name="series_si">Series 1: Manuscript Materials &gt;&gt; Sub-series 1: Alfred Cranston Papers</field>
+    <field name="heading_ssm">Sub-series 1: Alfred Cranston Papers</field>
+    <field name="unitdate_start_sim">1861</field>
+    <field name="unitdate_start_ssm">1861</field>
+    <field name="unitdate_start_si">1861</field>
+    <field name="unitdate_end_sim">1919</field>
+    <field name="unitdate_end_ssm">1919</field>
+    <field name="unitdate_end_si">1919</field>
+    <field name="unitdate_ssm">Inclusive, 1861-1919</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

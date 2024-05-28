@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_138_brooklyn_institute_arts_sciencesaspace_c6c4ca284b84f6ec0f14bc7f6621ea8e</field>
+    <field name="ead_ssi">arc_138_brooklyn_institute_arts_sciences</field>
+    <field name="parent_ssi">aspace_fa17d192e19d90776ec98c2eb200b1d2</field>
+    <field name="parent_ssm">aspace_d2eebfb0e036a0824ad50be47e2bd50c</field>
+    <field name="parent_ssm">aspace_fa17d192e19d90776ec98c2eb200b1d2</field>
+    <field name="parent_unittitles_ssm">Brooklyn Children's Museum</field>
+    <field name="parent_unittitles_ssm">Publications</field>
+    <field name="parent_unittitles_teim">Brooklyn Children's Museum</field>
+    <field name="parent_unittitles_teim">Publications</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
+    <field name="collection_ssm">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
+    <field name="collection_unitid_ssm">ARC.138</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Museum Gazette</field>
+    <field name="unittitle_teim">Museum Gazette</field>
+    <field name="unitdate_normal_ssm">1962/1962</field>
+    <field name="unitdate_normal_teim">1962/1962</field>
+    <field name="unitdate_normal_sim">1962/1962</field>
+    <field name="unitdate_teim">Winter and Spring, 1962</field>
+    <field name="ref_ssi">aspace_c6c4ca284b84f6ec0f14bc7f6621ea8e</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10</field>
+    <field name="location_si">Box: 10</field>
+    <field name="collection_teim">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
+    <field name="collection_unitid_teim">ARC.138</field>
+    <field name="series_sim">Brooklyn Children's Museum</field>
+    <field name="series_sim">Publications</field>
+    <field name="series_si">Brooklyn Children's Museum &gt;&gt; Publications &gt;&gt; Museum Gazette</field>
+    <field name="heading_ssm">Museum Gazette</field>
+    <field name="unitdate_start_sim">1962</field>
+    <field name="unitdate_start_ssm">1962</field>
+    <field name="unitdate_start_si">1962</field>
+    <field name="unitdate_end_sim">1962</field>
+    <field name="unitdate_end_ssm">1962</field>
+    <field name="unitdate_end_si">1962</field>
+    <field name="unitdate_ssm">Winter and Spring, 1962</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">45</field>
+  </doc>
+</add>

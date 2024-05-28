@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0039aspace_c0d52b2503205878e7fd9f86cd3bd239</field>
+    <field name="ead_ssi">bcms_0039</field>
+    <field name="parent_ssi">aspace_dc1c44132a224dce4e99594b79b00565</field>
+    <field name="parent_ssm">aspace_dc1c44132a224dce4e99594b79b00565</field>
+    <field name="parent_unittitles_ssm">Series 7: Related non-government agencies</field>
+    <field name="parent_unittitles_teim">Series 7: Related non-government agencies</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_ssm">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_ssm">BCMS.0039</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 7.5: Other related agencies</field>
+    <field name="unittitle_teim">Subseries 7.5: Other related agencies</field>
+    <field name="unitdate_normal_ssm">1948/1957</field>
+    <field name="unitdate_normal_teim">1948/1957</field>
+    <field name="unitdate_normal_sim">1948/1957</field>
+    <field name="unitdate_inclusive_teim">circa 1948-1957 [includes undated material]</field>
+    <field name="scopecontent_teim">Subseries 7.5 is comprised of files on over 250 wide ranging voluntary agencies, schools and school groups, civic associations, religious social service agencies, business and professional organizations, local chapters of national social welfare organizations, and YM/YWCAs and YM/YWHAs. Contents of the files vary, but generally include information about the organization, its purpose and programs; press clippings; and limited correspondence with BCSP. Organizations represented by more substantial files include Citizens for AllDay Neighborhood Schools; American Jewish Congress; Association for the Help of Retarded Children, Inc.; Association of American Social Workers; Brooklyn Association for Mental Hygiene, Inc.; Brooklyn Child Guidance League; Brooklyn Jewish Community Council; Brooklyn Juvenile Protection Agency; Brooklyn Museum; Brooklyn Tuberculosis and Health Association, Inc.; Citizens Committee for Children of New York City; Citizens' Housing and Planning Council of New York, Inc.; National Publicity Council for Health and Welfare Services, Inc.; New York CIO Council; Community Association of School Districts 25 and 27; and Youth for Better Citizens of Tomorrow.</field>
+    <field name="ref_ssi">aspace_c0d52b2503205878e7fd9f86cd3bd239</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_teim">BCMS.0039</field>
+    <field name="series_sim">Series 7: Related non-government agencies</field>
+    <field name="series_si">Series 7: Related non-government agencies &gt;&gt; Subseries 7.5: Other related agencies</field>
+    <field name="heading_ssm">Subseries 7.5: Other related agencies</field>
+    <field name="unitdate_start_sim">1948</field>
+    <field name="unitdate_start_ssm">1948</field>
+    <field name="unitdate_start_si">1948</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, circa 1948-1957 [includes undated material]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">512</field>
+  </doc>
+</add>

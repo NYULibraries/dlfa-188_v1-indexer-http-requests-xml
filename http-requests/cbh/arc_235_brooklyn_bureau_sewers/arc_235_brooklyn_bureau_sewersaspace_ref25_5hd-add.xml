@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_235_brooklyn_bureau_sewersaspace_ref25_5hd</field>
+    <field name="ead_ssi">arc_235_brooklyn_bureau_sewers</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_ssm">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_ssm">ARC.235</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 10: Miscellaneous</field>
+    <field name="unittitle_teim">Series 10: Miscellaneous</field>
+    <field name="unitdate_normal_ssm">1853/1954</field>
+    <field name="unitdate_normal_teim">1853/1954</field>
+    <field name="unitdate_normal_sim">1853/1954</field>
+    <field name="unitdate_inclusive_teim">1853-circa 1954</field>
+    <field name="scopecontent_teim">This series includes a variety of a small number of documents that did not fit well within the other series of the collection. The series includes two contracts from the 1850s for sewerage work (one in Navy St. from DeKalb to Flatbush Ave. and the other concerning sewers in District 6 commencing at North Second St.), a draft contract, 1902 correspondence concerning a troublesome employee, addenda to specifications for a pumping station at Avenue V, and an advertising piece for Andrews Pressure Water Supply. A large number of blank forms were found with the original collection. The bulk of these were discarded, but a sample was retained in this series (blanks of the oversize forms used by the Division of Survey and Design as worksheets are found in that series).</field>
+    <field name="ref_ssi">aspace_ref25_5hd</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_teim">ARC.235</field>
+    <field name="series_si">Series 10: Miscellaneous</field>
+    <field name="heading_ssm">Series 10: Miscellaneous</field>
+    <field name="unitdate_start_sim">1853</field>
+    <field name="unitdate_start_ssm">1853</field>
+    <field name="unitdate_start_si">1853</field>
+    <field name="unitdate_end_sim">1954</field>
+    <field name="unitdate_end_ssm">1954</field>
+    <field name="unitdate_end_si">1954</field>
+    <field name="unitdate_ssm">Inclusive, 1853-circa 1954</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">180</field>
+  </doc>
+</add>

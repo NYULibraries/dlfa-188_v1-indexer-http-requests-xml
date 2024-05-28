@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2013_006_blackburne_woodward_ottawayaspace_ref17_jhu</field>
+    <field name="ead_ssi">arms_2013_006_blackburne_woodward_ottaway</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Blackburne, Woodward, and Ottaway family papers</field>
+    <field name="collection_ssm">Blackburne, Woodward, and Ottaway family papers</field>
+    <field name="collection_unitid_ssm">2013.006</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 4: Documents and genealogical papers</field>
+    <field name="unittitle_teim">Series 4: Documents and genealogical papers</field>
+    <field name="unitdate_normal_ssm">1807/2000</field>
+    <field name="unitdate_normal_teim">1807/2000</field>
+    <field name="unitdate_normal_sim">1807/2000</field>
+    <field name="unitdate_inclusive_teim">1807-2000</field>
+    <field name="scopecontent_teim">This series includes indentures, naturalization papers, wills, and inventories related to members of the Blackburne, Woodward, Condit, Littlejohn, and Prosser families as well as genealogical materials in the form of published material, handwritten notes and family trees, and correspondence between family members. Also included are calling cards of family members and others not described in Series 1-3.</field>
+    <field name="scopecontent_teim">Highlights include indentures, inventories, and a business diary of rental incomes related to the family's properties on Sands Street circa 1807-1857; naturalization papers of John Blackburne (1828), Robins Blackburne (1841), and Sophia Littlejohn (1859); wills of John Blackburne (1821), Harry Condit (1873), Sophia Littlejohn (1883), and Elizabeth Hart (1915); and papers and diaries of Harry Condit, related to his Chinese tea import business (circa 1865-1871). Genealogical materials include a published biography of John B. Woodward (New York: De Vinne Press; 1897) commissioned by his brother Robert; biographical notes on members of the Woodward family, the British origins of the Blackburne and Cook families, a typescript (25 pages) of a biography of Robert Woodward Prosser by his nephew Roger D. Prosser (1968); and a partially completed family tree chart book along with other handwritten family trees.</field>
+    <field name="ref_ssi">aspace_ref17_jhu</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Blackburne, Woodward, and Ottaway family papers</field>
+    <field name="collection_unitid_teim">2013.006</field>
+    <field name="series_si">Series 4: Documents and genealogical papers</field>
+    <field name="heading_ssm">Series 4: Documents and genealogical papers</field>
+    <field name="unitdate_start_sim">1807</field>
+    <field name="unitdate_start_ssm">1807</field>
+    <field name="unitdate_start_si">1807</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 1807-2000</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

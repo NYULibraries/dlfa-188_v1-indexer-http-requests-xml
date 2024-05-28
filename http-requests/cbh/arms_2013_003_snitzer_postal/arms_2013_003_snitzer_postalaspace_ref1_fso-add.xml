@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2013_003_snitzer_postalaspace_ref1_fso</field>
+    <field name="ead_ssi">arms_2013_003_snitzer_postal</field>
+    <field name="parent_ssi">aspace_ref176_xnw</field>
+    <field name="parent_ssm">aspace_ref176_xnw</field>
+    <field name="parent_unittitles_ssm">Series 1: Postcards</field>
+    <field name="parent_unittitles_teim">Series 1: Postcards</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Fred Snitzer collection of Kings County postal ephemera</field>
+    <field name="collection_ssm">Fred Snitzer collection of Kings County postal ephemera</field>
+    <field name="collection_unitid_ssm">2013.003</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 1: Picture Postcards</field>
+    <field name="unittitle_teim">Sub-series 1: Picture Postcards</field>
+    <field name="unitdate_normal_ssm">1874/2009</field>
+    <field name="unitdate_normal_ssm">1900/1930</field>
+    <field name="unitdate_normal_teim">1874/2009</field>
+    <field name="unitdate_normal_teim">1900/1930</field>
+    <field name="unitdate_normal_sim">1874/2009</field>
+    <field name="unitdate_normal_sim">1900/1930</field>
+    <field name="unitdate_bulk_teim">1900-1930</field>
+    <field name="unitdate_inclusive_teim">1874-2009</field>
+    <field name="scopecontent_teim">This subseries contains Kings County picture postcards, dating from 1874 to 2009. </field>
+    <field name="scopecontent_teim">The sub-series is divided into five sections:</field>
+    <field name="scopecontent_teim">1. Communities (Brooklyn neighborhoods)</field>
+    <field name="scopecontent_teim">2. Bridges</field>
+    <field name="scopecontent_teim">3. Coney Island</field>
+    <field name="scopecontent_teim">4. Prospect Park and other parks</field>
+    <field name="scopecontent_teim">5. Other topics (A-Z)</field>
+    <field name="scopecontent_teim">Each section is arranged alphabetically. Please note that the labels which appear throughout this sub-series do not relate to the postcards currently housed in those sleeves. They were most likely rearranged by Snitzer at some point prior to donation.</field>
+    <field name="ref_ssi">aspace_ref1_fso</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Fred Snitzer collection of Kings County postal ephemera</field>
+    <field name="collection_unitid_teim">2013.003</field>
+    <field name="series_sim">Series 1: Postcards</field>
+    <field name="series_si">Series 1: Postcards &gt;&gt; Sub-series 1: Picture Postcards</field>
+    <field name="heading_ssm">Sub-series 1: Picture Postcards</field>
+    <field name="unitdate_start_sim">1874</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1874</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_sim">1930</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_ssm">1930</field>
+    <field name="unitdate_end_si">1930</field>
+    <field name="unitdate_ssm">Inclusive, 1874-2009 ; 1900-1930</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

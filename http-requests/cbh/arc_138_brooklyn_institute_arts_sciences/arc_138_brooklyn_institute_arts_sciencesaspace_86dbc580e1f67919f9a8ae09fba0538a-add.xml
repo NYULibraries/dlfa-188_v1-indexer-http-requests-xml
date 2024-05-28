@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_138_brooklyn_institute_arts_sciencesaspace_86dbc580e1f67919f9a8ae09fba0538a</field>
+    <field name="ead_ssi">arc_138_brooklyn_institute_arts_sciences</field>
+    <field name="parent_ssi">aspace_ca3b8aae7a251d2b783f25351046097c</field>
+    <field name="parent_ssm">aspace_65d091afd5b6f0c80273537e365fedfe</field>
+    <field name="parent_ssm">aspace_ca3b8aae7a251d2b783f25351046097c</field>
+    <field name="parent_unittitles_ssm">Brooklyn Institute of Arts &amp;amp; Sciences</field>
+    <field name="parent_unittitles_ssm">Publications</field>
+    <field name="parent_unittitles_teim">Brooklyn Institute of Arts &amp;amp; Sciences</field>
+    <field name="parent_unittitles_teim">Publications</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
+    <field name="collection_ssm">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
+    <field name="collection_unitid_ssm">ARC.138</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Annual report</field>
+    <field name="unittitle_teim">Annual report</field>
+    <field name="unitdate_normal_ssm">1965/1976</field>
+    <field name="unitdate_normal_teim">1965/1976</field>
+    <field name="unitdate_normal_sim">1965/1976</field>
+    <field name="unitdate_inclusive_teim">1965-1966, 1970-1971, 1975-1976</field>
+    <field name="ref_ssi">aspace_86dbc580e1f67919f9a8ae09fba0538a</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Brooklyn Institute of Arts and Sciences publications and ephemera</field>
+    <field name="collection_unitid_teim">ARC.138</field>
+    <field name="series_sim">Brooklyn Institute of Arts &amp;amp; Sciences</field>
+    <field name="series_sim">Publications</field>
+    <field name="series_si">Brooklyn Institute of Arts &amp;amp; Sciences &gt;&gt; Publications &gt;&gt; Annual report</field>
+    <field name="heading_ssm">Annual report</field>
+    <field name="unitdate_start_sim">1965</field>
+    <field name="unitdate_start_ssm">1965</field>
+    <field name="unitdate_start_si">1965</field>
+    <field name="unitdate_end_sim">1976</field>
+    <field name="unitdate_end_ssm">1976</field>
+    <field name="unitdate_end_si">1976</field>
+    <field name="unitdate_ssm">Inclusive, 1965-1966, 1970-1971, 1975-1976</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

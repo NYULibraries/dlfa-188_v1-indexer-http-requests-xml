@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0001aspace_ref18</field>
+    <field name="ead_ssi">bcms_0001</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Lantern Slides</field>
+    <field name="parent_unittitles_teim">Series I: Lantern Slides</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Betsy Head Farm Garden Photo Collection</field>
+    <field name="collection_ssm">Betsy Head Farm Garden Photo Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">[Two students harvesting corn with a tall basket of kale in the foreground.]</field>
+    <field name="unittitle_teim">[Two students harvesting corn with a tall basket of kale in the foreground.]</field>
+    <field name="unitid_teim">PARK_0473</field>
+    <field name="unitid_ssm">PARK_0473</field>
+    <field name="ref_ssi">aspace_ref18</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Betsy Head Farm Garden Photo Collection</field>
+    <field name="collection_unitid_teim">BCMS.0001</field>
+    <field name="series_sim">Series I: Lantern Slides</field>
+    <field name="series_si">Series I: Lantern Slides &gt;&gt; [Two students harvesting corn with a tall basket of kale in the foreground.]</field>
+    <field name="heading_ssm">[Two students harvesting corn with a tall basket of kale in the foreground.]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">6</field>
+  </doc>
+</add>

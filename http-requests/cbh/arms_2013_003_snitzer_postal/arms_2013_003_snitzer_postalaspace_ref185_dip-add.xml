@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2013_003_snitzer_postalaspace_ref185_dip</field>
+    <field name="ead_ssi">arms_2013_003_snitzer_postal</field>
+    <field name="parent_ssi">aspace_ref175_u1u</field>
+    <field name="parent_ssm">aspace_ref175_u1u</field>
+    <field name="parent_unittitles_ssm">Series 3: Memorabilia</field>
+    <field name="parent_unittitles_teim">Series 3: Memorabilia</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Fred Snitzer collection of Kings County postal ephemera</field>
+    <field name="collection_ssm">Fred Snitzer collection of Kings County postal ephemera</field>
+    <field name="collection_unitid_ssm">2013.003</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">[General memorabilia] (2 folders)</field>
+    <field name="unittitle_teim">[General memorabilia] (2 folders)</field>
+    <field name="unitdate_normal_ssm">1853/2002</field>
+    <field name="unitdate_normal_teim">1853/2002</field>
+    <field name="unitdate_normal_sim">1853/2002</field>
+    <field name="unitdate_inclusive_teim">1853-2002</field>
+    <field name="ref_ssi">aspace_ref185_dip</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 37, Folder: 3-4</field>
+    <field name="location_ssm">Folder: 3-4</field>
+    <field name="location_si">Folder: 3-4</field>
+    <field name="collection_teim">Fred Snitzer collection of Kings County postal ephemera</field>
+    <field name="collection_unitid_teim">2013.003</field>
+    <field name="series_sim">Series 3: Memorabilia</field>
+    <field name="series_si">Series 3: Memorabilia &gt;&gt; [General memorabilia] (2 folders)</field>
+    <field name="heading_ssm">[General memorabilia] (2 folders)</field>
+    <field name="unitdate_start_sim">1853</field>
+    <field name="unitdate_start_ssm">1853</field>
+    <field name="unitdate_start_si">1853</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 1853-2002</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">159</field>
+  </doc>
+</add>

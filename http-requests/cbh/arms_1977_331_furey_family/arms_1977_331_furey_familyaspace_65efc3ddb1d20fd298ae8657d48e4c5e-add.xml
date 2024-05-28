@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1977_331_furey_familyaspace_65efc3ddb1d20fd298ae8657d48e4c5e</field>
+    <field name="ead_ssi">arms_1977_331_furey_family</field>
+    <field name="parent_ssi">aspace_e7c16fdb817247c63d522efec0091216</field>
+    <field name="parent_ssm">aspace_0dd293943fb15bfcb50e6dc66e5aaf65</field>
+    <field name="parent_ssm">aspace_e7c16fdb817247c63d522efec0091216</field>
+    <field name="parent_unittitles_ssm">Series 1: Furey family</field>
+    <field name="parent_unittitles_ssm">Sub-series 1.1: John V. Furey</field>
+    <field name="parent_unittitles_teim">Series 1: Furey family</field>
+    <field name="parent_unittitles_teim">Sub-series 1.1: John V. Furey</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Furey family papers</field>
+    <field name="collection_ssm">Furey family papers</field>
+    <field name="collection_unitid_ssm">1977.331</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Military papers</field>
+    <field name="unittitle_teim">Military papers</field>
+    <field name="unitdate_normal_ssm">1864/1908</field>
+    <field name="unitdate_normal_teim">1864/1908</field>
+    <field name="unitdate_normal_sim">1864/1908</field>
+    <field name="unitdate_inclusive_teim">1864-1908</field>
+    <field name="scopecontent_teim">Correspondence and official documents from Furey's military career. Also includes some personal correspondence.</field>
+    <field name="ref_ssi">aspace_65efc3ddb1d20fd298ae8657d48e4c5e</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3-5</field>
+    <field name="location_ssm">Folder: 3-5</field>
+    <field name="location_si">Folder: 3-5</field>
+    <field name="collection_teim">Furey family papers</field>
+    <field name="collection_unitid_teim">1977.331</field>
+    <field name="series_sim">Series 1: Furey family</field>
+    <field name="series_sim">Sub-series 1.1: John V. Furey</field>
+    <field name="series_si">Series 1: Furey family &gt;&gt; Sub-series 1.1: John V. Furey &gt;&gt; Military papers</field>
+    <field name="heading_ssm">Military papers</field>
+    <field name="unitdate_start_sim">1864</field>
+    <field name="unitdate_start_ssm">1864</field>
+    <field name="unitdate_start_si">1864</field>
+    <field name="unitdate_end_sim">1908</field>
+    <field name="unitdate_end_ssm">1908</field>
+    <field name="unitdate_end_si">1908</field>
+    <field name="unitdate_ssm">Inclusive, 1864-1908</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

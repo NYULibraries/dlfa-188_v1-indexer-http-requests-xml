@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_044_huntingtonaspace_ref8_ihs</field>
+    <field name="ead_ssi">arc_044_huntington</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Edna Huntington papers and photographs</field>
+    <field name="collection_ssm">Edna Huntington papers and photographs</field>
+    <field name="collection_unitid_ssm">ARC.044</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Personal Papers</field>
+    <field name="unittitle_teim">Series 2: Personal Papers</field>
+    <field name="unitdate_normal_ssm">1887/1965</field>
+    <field name="unitdate_normal_teim">1887/1965</field>
+    <field name="unitdate_normal_sim">1887/1965</field>
+    <field name="unitdate_inclusive_teim">1887-1965</field>
+    <field name="scopecontent_teim">Personal Papers includes Huntington's early school records and Manual Training High School diploma; correspondence relating to her library education at Columbia University and obtaining her position as librarian at the Long Island Historical Society (LIHS); travel journals, 1920-1940; a ration book; certificates; newspaper clippings; a scrapbook compiled by LIHS staff as a retirement gift; genealogical papers; bookplates; and the printing block for her personal bookplate.</field>
+    <field name="ref_ssi">aspace_ref8_ihs</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Edna Huntington papers and photographs</field>
+    <field name="collection_unitid_teim">ARC.044</field>
+    <field name="series_si">Series 2: Personal Papers</field>
+    <field name="heading_ssm">Series 2: Personal Papers</field>
+    <field name="unitdate_start_sim">1887</field>
+    <field name="unitdate_start_ssm">1887</field>
+    <field name="unitdate_start_si">1887</field>
+    <field name="unitdate_end_sim">1965</field>
+    <field name="unitdate_end_ssm">1965</field>
+    <field name="unitdate_end_si">1965</field>
+    <field name="unitdate_ssm">Inclusive, 1887-1965</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

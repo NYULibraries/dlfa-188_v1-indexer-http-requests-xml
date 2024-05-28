@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2009_011_lapcaspace_ref35_nlu</field>
+    <field name="ead_ssi">arms_2009_011_lapc</field>
+    <field name="parent_ssi">aspace_ref479_4kp</field>
+    <field name="parent_ssm">aspace_ref479_4kp</field>
+    <field name="parent_unittitles_ssm">Series 5: Pastors</field>
+    <field name="parent_unittitles_teim">Series 5: Pastors</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_ssm">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_unitid_ssm">2009.011</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 5.4: Rev. Charles C. Albertson</field>
+    <field name="unittitle_teim">Sub-series 5.4: Rev. Charles C. Albertson</field>
+    <field name="unitdate_normal_ssm">1902/1959</field>
+    <field name="unitdate_normal_teim">1902/1959</field>
+    <field name="unitdate_normal_sim">1902/1959</field>
+    <field name="unitdate_inclusive_teim">1902-1959</field>
+    <field name="scopecontent_teim">The sub-series documents Rev. Charles C. Albertson's time as pastor of the Lafayette Avenue Presbyterian Church (LAPC). It includes clippings (1902-1959), correspondence (1919-1959), four sermons (1920-1940), a bookplate belonging to his wife Permelia Hogg Albertson (circa 1900s), hymns and prayers (circa 1920s), a typescript entitled "They Saw the Emperor" with handwritten edits, a service book which was presented to Rev. Frank L. Gosnell by Albertson (1925), his letter of resignation as pastor of the LAPC (1928), and a historical typescript documenting his time as pastor at the LAPC (circa 1957). The series also includes the minutes for the Pastoral Committee which selected Albertson as pastor of the LAPC (1912).</field>
+    <field name="scopecontent_teim">A letter from Albertson to then current Pastor Knight is housed in the correspondence file of Sub-series 5.6: Rev. George L. Knight.</field>
+    <field name="ref_ssi">aspace_ref35_nlu</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_unitid_teim">2009.011</field>
+    <field name="series_sim">Series 5: Pastors</field>
+    <field name="series_si">Series 5: Pastors &gt;&gt; Sub-series 5.4: Rev. Charles C. Albertson</field>
+    <field name="heading_ssm">Sub-series 5.4: Rev. Charles C. Albertson</field>
+    <field name="unitdate_start_sim">1902</field>
+    <field name="unitdate_start_ssm">1902</field>
+    <field name="unitdate_start_si">1902</field>
+    <field name="unitdate_end_sim">1959</field>
+    <field name="unitdate_end_ssm">1959</field>
+    <field name="unitdate_end_si">1959</field>
+    <field name="unitdate_ssm">Inclusive, 1902-1959</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">104</field>
+  </doc>
+</add>

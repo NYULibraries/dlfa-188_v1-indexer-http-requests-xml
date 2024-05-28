@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0039aspace_07847f265ea12a6825d1299c75dab2e7</field>
+    <field name="ead_ssi">bcms_0039</field>
+    <field name="parent_ssi">aspace_dc1c44132a224dce4e99594b79b00565</field>
+    <field name="parent_ssm">aspace_dc1c44132a224dce4e99594b79b00565</field>
+    <field name="parent_unittitles_ssm">Series 7: Related non-government agencies</field>
+    <field name="parent_unittitles_teim">Series 7: Related non-government agencies</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_ssm">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_ssm">BCMS.0039</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 7.3: The Greater New York Fund</field>
+    <field name="unittitle_teim">Subseries 7.3: The Greater New York Fund</field>
+    <field name="unitdate_normal_ssm">1937/1957</field>
+    <field name="unitdate_normal_ssm">1952/1957</field>
+    <field name="unitdate_normal_teim">1937/1957</field>
+    <field name="unitdate_normal_teim">1952/1957</field>
+    <field name="unitdate_normal_sim">1937/1957</field>
+    <field name="unitdate_normal_sim">1952/1957</field>
+    <field name="unitdate_bulk_teim">1952-1957</field>
+    <field name="unitdate_inclusive_teim">1937-1957</field>
+    <field name="scopecontent_teim">Organized in 1936-37, the Greater New York Fund (GNYF) began operation in 1938, and served to solicit contributions from businesses and employee groups for distribution to over four hundred New York City health and welfare agencies, including voluntary hospitals, services for children and the aged, and health care services. This subseries includes a report on tentative plans for the founding of the Fund (1937); correspondence with BCSP regarding GNYF activities, fundraising and contributions from BCSP (1946-57); sample applications for participation in the fund, press clippings, and GNYF pamphlets, flyers and newsletters. A 1948 GNYF report of the Sub-Committee to Study the Problem of Imbalance of Services in New York with Special Reference to Borough Imbalance, includes detailed statistical and census information on population, socio-economic status, housing, economic factors, health care, children's services, delinquency, and education. Also included are reports on the distribution of family services, health care services, group work and recreation services, the care of children, and services for the aged.</field>
+    <field name="ref_ssi">aspace_07847f265ea12a6825d1299c75dab2e7</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_teim">BCMS.0039</field>
+    <field name="series_sim">Series 7: Related non-government agencies</field>
+    <field name="series_si">Series 7: Related non-government agencies &gt;&gt; Subseries 7.3: The Greater New York Fund</field>
+    <field name="heading_ssm">Subseries 7.3: The Greater New York Fund</field>
+    <field name="unitdate_start_sim">1937</field>
+    <field name="unitdate_start_sim">1952</field>
+    <field name="unitdate_start_ssm">1937</field>
+    <field name="unitdate_start_ssm">1952</field>
+    <field name="unitdate_start_si">1952</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, 1937-1957 ; 1952-1957</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">495</field>
+  </doc>
+</add>

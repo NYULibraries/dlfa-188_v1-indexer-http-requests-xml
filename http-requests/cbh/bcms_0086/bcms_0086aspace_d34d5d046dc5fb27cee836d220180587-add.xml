@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0086aspace_d34d5d046dc5fb27cee836d220180587</field>
+    <field name="ead_ssi">bcms_0086</field>
+    <field name="parent_ssi">aspace_ea80fc807d29a3c4bb506441ac2f43e8</field>
+    <field name="parent_ssm">aspace_ea80fc807d29a3c4bb506441ac2f43e8</field>
+    <field name="parent_unittitles_ssm">Documents and ephemera</field>
+    <field name="parent_unittitles_teim">Documents and ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mitchell Family collection</field>
+    <field name="collection_ssm">Mitchell Family collection</field>
+    <field name="collection_unitid_ssm">BCMS.0086</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence with IRS and tax returns</field>
+    <field name="unittitle_teim">Correspondence with IRS and tax returns</field>
+    <field name="unitdate_normal_ssm">1935/1942</field>
+    <field name="unitdate_normal_teim">1935/1942</field>
+    <field name="unitdate_normal_sim">1935/1942</field>
+    <field name="unitdate_inclusive_teim">1935-1942</field>
+    <field name="scopecontent_teim">Addressed to Arthur Mitchell at 3960 Glenwood St, Little Neck, NY.</field>
+    <field name="ref_ssi">aspace_d34d5d046dc5fb27cee836d220180587</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Mitchell Family collection</field>
+    <field name="collection_unitid_teim">BCMS.0086</field>
+    <field name="series_sim">Documents and ephemera</field>
+    <field name="series_si">Documents and ephemera &gt;&gt; Correspondence with IRS and tax returns</field>
+    <field name="heading_ssm">Correspondence with IRS and tax returns</field>
+    <field name="unitdate_start_sim">1935</field>
+    <field name="unitdate_start_ssm">1935</field>
+    <field name="unitdate_start_si">1935</field>
+    <field name="unitdate_end_sim">1942</field>
+    <field name="unitdate_end_ssm">1942</field>
+    <field name="unitdate_end_si">1942</field>
+    <field name="unitdate_ssm">Inclusive, 1935-1942</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

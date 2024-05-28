@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0039aspace_e92cba69607ff112fddb9e8398dcff03</field>
+    <field name="ead_ssi">bcms_0039</field>
+    <field name="parent_ssi">aspace_891ffff9ef0421848b5879a4d62edf6a</field>
+    <field name="parent_ssm">aspace_891ffff9ef0421848b5879a4d62edf6a</field>
+    <field name="parent_unittitles_ssm">Series 3: Program files</field>
+    <field name="parent_unittitles_teim">Series 3: Program files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_ssm">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_ssm">BCMS.0039</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 3.3: Group work and recreation</field>
+    <field name="unittitle_teim">Subseries 3.3: Group work and recreation</field>
+    <field name="unitdate_normal_ssm">1934/1957</field>
+    <field name="unitdate_normal_ssm">1945/1954</field>
+    <field name="unitdate_normal_teim">1934/1957</field>
+    <field name="unitdate_normal_teim">1945/1954</field>
+    <field name="unitdate_normal_sim">1934/1957</field>
+    <field name="unitdate_normal_sim">1945/1954</field>
+    <field name="unitdate_bulk_teim">1945-1954</field>
+    <field name="unitdate_inclusive_teim">1934-1957</field>
+    <field name="scopecontent_teim">These files clarify how instrumental BCSP was in the development, improvement and maintenance of recreational facilities in Brooklyn, and describe in detail the need for new and improved community recreational facilities and centers, public school gyms, and public programs such as summer camps and swimming pools. Included here is the correspondence of the Fort Greene-Farragut Coordinating committee, which organized recreation programs in the new Fort Greene-Farragut housing project, and
+correspondence of the sub-committee on the establishment of St. John's Park, at Schenectady Avenue and Bergen Street. (Also see Series 5, Brooklyn neighborhood welfare and health councils, for related material.)</field>
+    <field name="ref_ssi">aspace_e92cba69607ff112fddb9e8398dcff03</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_teim">BCMS.0039</field>
+    <field name="series_sim">Series 3: Program files</field>
+    <field name="series_si">Series 3: Program files &gt;&gt; Subseries 3.3: Group work and recreation</field>
+    <field name="heading_ssm">Subseries 3.3: Group work and recreation</field>
+    <field name="unitdate_start_sim">1934</field>
+    <field name="unitdate_start_sim">1945</field>
+    <field name="unitdate_start_ssm">1934</field>
+    <field name="unitdate_start_ssm">1945</field>
+    <field name="unitdate_start_si">1945</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_sim">1954</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_ssm">1954</field>
+    <field name="unitdate_end_si">1954</field>
+    <field name="unitdate_ssm">Inclusive, 1934-1957 ; 1945-1954</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">149</field>
+  </doc>
+</add>

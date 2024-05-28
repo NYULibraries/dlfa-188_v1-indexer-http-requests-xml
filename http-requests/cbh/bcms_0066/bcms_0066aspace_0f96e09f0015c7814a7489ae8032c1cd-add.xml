@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0066aspace_0f96e09f0015c7814a7489ae8032c1cd</field>
+    <field name="ead_ssi">bcms_0066</field>
+    <field name="parent_ssi">aspace_f8b2e6d3c1f5f6288228e225d40fa0f3</field>
+    <field name="parent_ssm">aspace_f8b2e6d3c1f5f6288228e225d40fa0f3</field>
+    <field name="parent_unittitles_ssm">Series 3: Attended Workshops</field>
+    <field name="parent_unittitles_teim">Series 3: Attended Workshops</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Center for the Urban Environment Collection</field>
+    <field name="collection_ssm">Brooklyn Center for the Urban Environment Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0066</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Session 3: Mapping Neighborhood History</field>
+    <field name="unittitle_teim">Session 3: Mapping Neighborhood History</field>
+    <field name="ref_ssi">aspace_0f96e09f0015c7814a7489ae8032c1cd</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box:  3, Folder: 14</field>
+    <field name="location_ssm">Folder: 14</field>
+    <field name="location_si">Folder: 14</field>
+    <field name="collection_teim">Brooklyn Center for the Urban Environment Collection</field>
+    <field name="collection_unitid_teim">BCMS.0066</field>
+    <field name="series_sim">Series 3: Attended Workshops</field>
+    <field name="series_si">Series 3: Attended Workshops &gt;&gt; Session 3: Mapping Neighborhood History</field>
+    <field name="heading_ssm">Session 3: Mapping Neighborhood History</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">45</field>
+  </doc>
+</add>

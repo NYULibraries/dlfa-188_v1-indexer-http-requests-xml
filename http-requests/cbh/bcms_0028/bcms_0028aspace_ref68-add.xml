@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref68</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Brooklyn Tablet (The Tablet)</field>
+    <field name="unittitle_teim">Brooklyn Tablet (The Tablet)</field>
+    <field name="unitdate_normal_ssm">1908/1985</field>
+    <field name="unitdate_normal_teim">1908/1985</field>
+    <field name="unitdate_normal_sim">1908/1985</field>
+    <field name="unitdate_inclusive_teim">1908-1985</field>
+    <field name="scopecontent_teim">The Brooklyn Tablet provides Brooklyn-wide news coverage of the Catholic community. National and international news concerning Catholics is also covered. Some obituaries for prominent Catholics appear. Birth announcements and wedding announcements do not appear in the paper. Numerous photos of local clergy appear, as do reprints of sermons given by local priests. Directories of Catholic clubs and societies regularly appear. Graduation announcements and honor rolls from local Catholic schools also regularly appear. Sports news is largely relegated to coverage of CYO events. Advertisements and photographs appear throughout.</field>
+    <field name="ref_ssi">aspace_ref68</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">bin: 35</field>
+    <field name="location_si">bin: 35</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Brooklyn Tablet (The Tablet)</field>
+    <field name="heading_ssm">Brooklyn Tablet (The Tablet)</field>
+    <field name="unitdate_start_sim">1908</field>
+    <field name="unitdate_start_ssm">1908</field>
+    <field name="unitdate_start_si">1908</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_si">1985</field>
+    <field name="unitdate_ssm">Inclusive, 1908-1985</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">30</field>
+  </doc>
+</add>

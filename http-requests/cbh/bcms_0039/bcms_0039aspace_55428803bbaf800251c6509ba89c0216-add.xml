@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0039aspace_55428803bbaf800251c6509ba89c0216</field>
+    <field name="ead_ssi">bcms_0039</field>
+    <field name="parent_ssi">aspace_4f4bb66b38a7f508e01ac13517a5a6cc</field>
+    <field name="parent_ssm">aspace_4f4bb66b38a7f508e01ac13517a5a6cc</field>
+    <field name="parent_unittitles_ssm">Series 5: Brooklyn welfare and health councils</field>
+    <field name="parent_unittitles_teim">Series 5: Brooklyn welfare and health councils</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_ssm">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_ssm">BCMS.0039</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 5.1: Neighborhood councils, general information</field>
+    <field name="unittitle_teim">Subseries 5.1: Neighborhood councils, general information</field>
+    <field name="unitdate_normal_ssm">1931/1954</field>
+    <field name="unitdate_normal_ssm">1950/1954</field>
+    <field name="unitdate_normal_teim">1931/1954</field>
+    <field name="unitdate_normal_teim">1950/1954</field>
+    <field name="unitdate_normal_sim">1931/1954</field>
+    <field name="unitdate_normal_sim">1950/1954</field>
+    <field name="unitdate_bulk_teim">1950-1954</field>
+    <field name="unitdate_inclusive_teim">1931-1954</field>
+    <field name="scopecontent_teim">These files include general information and correspondence regarding the overall coordination of local neighborhood councils by BCSP, as well as chronicling the debate about the administrative hierarchy of the various welfare and health councils in New York City and in Brooklyn. Also included here are publications from other cities on the concept of neighborhood councils, and reports and statistics on Brooklyn and its welfare and health needs, including "Brooklyn Neighborhoods," by Herbert J. Ballon, containing detailed neighborhood-by-neighborhood assessments [no date, probably mid-1940s], and "Composition and Resources of Brooklyn," by Amy E. Krueger [1931], giving a summary of Brooklyn's "resources and of its composition that may be helpful to social workers."</field>
+    <field name="ref_ssi">aspace_55428803bbaf800251c6509ba89c0216</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_teim">BCMS.0039</field>
+    <field name="series_sim">Series 5: Brooklyn welfare and health councils</field>
+    <field name="series_si">Series 5: Brooklyn welfare and health councils &gt;&gt; Subseries 5.1: Neighborhood councils, general information</field>
+    <field name="heading_ssm">Subseries 5.1: Neighborhood councils, general information</field>
+    <field name="unitdate_start_sim">1931</field>
+    <field name="unitdate_start_sim">1950</field>
+    <field name="unitdate_start_ssm">1931</field>
+    <field name="unitdate_start_ssm">1950</field>
+    <field name="unitdate_start_si">1950</field>
+    <field name="unitdate_end_sim">1954</field>
+    <field name="unitdate_end_ssm">1954</field>
+    <field name="unitdate_end_si">1954</field>
+    <field name="unitdate_ssm">Inclusive, 1931-1954 ; 1950-1954</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">297</field>
+  </doc>
+</add>

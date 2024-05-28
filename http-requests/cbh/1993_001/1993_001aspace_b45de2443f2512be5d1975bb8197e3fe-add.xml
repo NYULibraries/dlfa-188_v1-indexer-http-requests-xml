@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">1993_001aspace_b45de2443f2512be5d1975bb8197e3fe</field>
+    <field name="ead_ssi">1993_001</field>
+    <field name="parent_ssi">aspace_f99cae10c283478f8e85ecd4b7d89d89</field>
+    <field name="parent_ssm">aspace_e50dec7c7c3af6799b4d8343a7085c9c</field>
+    <field name="parent_ssm">aspace_f99cae10c283478f8e85ecd4b7d89d89</field>
+    <field name="parent_unittitles_ssm">Series 3: Donated materials</field>
+    <field name="parent_unittitles_ssm">Sub-series 3.11: Additional Donations</field>
+    <field name="parent_unittitles_teim">Series 3: Donated materials</field>
+    <field name="parent_unittitles_teim">Sub-series 3.11: Additional Donations</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_ssm">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_unitid_ssm">1993.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">New York City Department of Health, Office of AIDS Surveillance</field>
+    <field name="unittitle_teim">New York City Department of Health, Office of AIDS Surveillance</field>
+    <field name="unitdate_normal_ssm">1997/1998</field>
+    <field name="unitdate_normal_teim">1997/1998</field>
+    <field name="unitdate_normal_sim">1997/1998</field>
+    <field name="unitdate_inclusive_teim">1997-1998</field>
+    <field name="ref_ssi">aspace_b45de2443f2512be5d1975bb8197e3fe</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">AIDS/Brooklyn Exhibition collection</field>
+    <field name="collection_unitid_teim">1993.001</field>
+    <field name="series_sim">Series 3: Donated materials</field>
+    <field name="series_sim">Sub-series 3.11: Additional Donations</field>
+    <field name="series_si">Series 3: Donated materials &gt;&gt; Sub-series 3.11: Additional Donations &gt;&gt; New York City Department of Health, Office of AIDS Surveillance</field>
+    <field name="heading_ssm">New York City Department of Health, Office of AIDS Surveillance</field>
+    <field name="unitdate_start_sim">1997</field>
+    <field name="unitdate_start_ssm">1997</field>
+    <field name="unitdate_start_si">1997</field>
+    <field name="unitdate_end_sim">1998</field>
+    <field name="unitdate_end_ssm">1998</field>
+    <field name="unitdate_end_si">1998</field>
+    <field name="unitdate_ssm">Inclusive, 1997-1998</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">209</field>
+  </doc>
+</add>

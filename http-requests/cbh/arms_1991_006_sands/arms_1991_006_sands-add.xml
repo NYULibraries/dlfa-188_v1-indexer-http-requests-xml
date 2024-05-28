@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">Sands family genealogy manuscript</field>
+    <field name="unittitle_ssm">Sands family genealogy manuscript</field>
+    <field name="unitid_teim">1991.006</field>
+    <field name="unitid_ssm">1991.006</field>
+    <field name="abstract_teim">A handwritten manuscript detailing the genealogy of several families, primarily the Sands family of Brooklyn, dated 1835.</field>
+    <field name="abstract_ssm">A handwritten manuscript detailing the genealogy of several families, primarily the Sands family of Brooklyn, dated 1835.</field>
+    <field name="unitdate_normal_ssm">1835/1835</field>
+    <field name="unitdate_normal_teim">1835/1835</field>
+    <field name="unitdate_normal_sim">1835/1835</field>
+    <field name="unitdate_inclusive_teim">1835</field>
+    <field name="acqinfo_teim">Gift of the Wayne County Public Library of Wooster, OH, 1991.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="famname_teim">Sands family</field>
+    <field name="famname_teim">Sands family</field>
+    <field name="famname_ssm">Sands family</field>
+    <field name="famname_ssm">Sands family</field>
+    <field name="genreform_teim">Manuscripts (document genre)</field>
+    <field name="genreform_ssm">Manuscripts (document genre)</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_teim">Families |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Genealogy</field>
+    <field name="subject_teim">Families -- New York (State) -- Kings County</field>
+    <field name="subject_teim">Genealogy</field>
+    <field name="subject_ssm">Families |z New York (State) |z Kings County</field>
+    <field name="subject_ssm">Genealogy</field>
+    <field name="collection_sim">Sands family genealogy manuscript</field>
+    <field name="collection_ssm">Sands family genealogy manuscript</field>
+    <field name="collection_teim">Sands family genealogy manuscript</field>
+    <field name="id">arms_1991_006_sands</field>
+    <field name="ead_ssi">arms_1991_006_sands</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Sands family</field>
+    <field name="name_teim">Sands family</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="subject_sim">Families -- New York (State) -- Kings County</field>
+    <field name="subject_sim">Genealogy</field>
+    <field name="material_type_sim">Manuscripts (document genre)</field>
+    <field name="material_type_ssm">Manuscripts (document genre)</field>
+    <field name="heading_ssm">Sands family genealogy manuscript</field>
+    <field name="unitdate_start_sim">1835</field>
+    <field name="unitdate_start_ssm">1835</field>
+    <field name="unitdate_start_si">1835</field>
+    <field name="unitdate_end_sim">1835</field>
+    <field name="unitdate_end_ssm">1835</field>
+    <field name="unitdate_end_si">1835</field>
+    <field name="unitdate_ssm">Inclusive, 1835</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

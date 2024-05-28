@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1985_053_fergusonaspace_ref8_qtr</field>
+    <field name="ead_ssi">arms_1985_053_ferguson</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ferguson family papers</field>
+    <field name="collection_ssm">Ferguson family papers</field>
+    <field name="collection_unitid_ssm">1985.053</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Town of Gravesend Board of Trustees of Common Lands</field>
+    <field name="unittitle_teim">Series 1: Town of Gravesend Board of Trustees of Common Lands</field>
+    <field name="unitdate_normal_ssm">1862/1910</field>
+    <field name="unitdate_normal_teim">1862/1910</field>
+    <field name="unitdate_normal_sim">1862/1910</field>
+    <field name="unitdate_inclusive_teim">1862-1910</field>
+    <field name="scopecontent_teim">Series 1 consists of records compiled by Thomas Ferguson during his tenure as a member of the Town of Gravesend Board of Trustees of Common Lands, responsible for overseeing the buying, selling and leasing of land on Coney Island while it underwent rapid commercial and real estate development during the latter half of the 19th century. Included in the series are meeting minutes of the Board of Trustees of Common Lands; reports from the Committee on Finance and the Treasurer on disbursements; newspaper clippings that document the Board's meetings and activities, as well as development in Gravesend and Coney Island; bids for land purchases; correspondence between the Board and the Brooklyn City Clerk's offices concerning the transfer of official files to the City of Brooklyn following annexation; tax records; and maps of the Gravesend area.</field>
+    <field name="ref_ssi">aspace_ref8_qtr</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Ferguson family papers</field>
+    <field name="collection_unitid_teim">1985.053</field>
+    <field name="series_si">Series 1: Town of Gravesend Board of Trustees of Common Lands</field>
+    <field name="heading_ssm">Series 1: Town of Gravesend Board of Trustees of Common Lands</field>
+    <field name="unitdate_start_sim">1862</field>
+    <field name="unitdate_start_ssm">1862</field>
+    <field name="unitdate_start_si">1862</field>
+    <field name="unitdate_end_sim">1910</field>
+    <field name="unitdate_end_ssm">1910</field>
+    <field name="unitdate_end_si">1910</field>
+    <field name="unitdate_ssm">Inclusive, 1862-1910</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

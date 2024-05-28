@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0017aspace_ref64</field>
+    <field name="ead_ssi">bcms_0017</field>
+    <field name="parent_ssi">aspace_ref111</field>
+    <field name="parent_ssm">aspace_ref111</field>
+    <field name="parent_unittitles_ssm">Series VII: Photographs</field>
+    <field name="parent_unittitles_teim">Series VII: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Emanuel Celler Collection</field>
+    <field name="collection_ssm">Emanuel Celler Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0017</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 3: Group Portraits, Identified</field>
+    <field name="unittitle_teim">Subseries 3: Group Portraits, Identified</field>
+    <field name="ref_ssi">aspace_ref64</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Emanuel Celler Collection</field>
+    <field name="collection_unitid_teim">BCMS.0017</field>
+    <field name="series_sim">Series VII: Photographs</field>
+    <field name="series_si">Series VII: Photographs &gt;&gt; Subseries 3: Group Portraits, Identified</field>
+    <field name="heading_ssm">Subseries 3: Group Portraits, Identified</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">54</field>
+  </doc>
+</add>

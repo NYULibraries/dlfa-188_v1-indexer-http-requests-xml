@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0078aspace_76798e16adea6c03f9172b0382e51dbd</field>
+    <field name="ead_ssi">bcms_0078</field>
+    <field name="parent_ssi">aspace_87b34883877590509d4111b26fd7c976</field>
+    <field name="parent_ssm">aspace_87b34883877590509d4111b26fd7c976</field>
+    <field name="parent_unittitles_ssm">Series I: Writing</field>
+    <field name="parent_unittitles_teim">Series I: Writing</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Major Owens Collection</field>
+    <field name="collection_ssm">Major Owens Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0078</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Writing by Others</field>
+    <field name="unittitle_teim">Writing by Others</field>
+    <field name="unitdate_normal_ssm">1974/2002</field>
+    <field name="unitdate_normal_teim">1974/2002</field>
+    <field name="unitdate_normal_sim">1974/2002</field>
+    <field name="unitdate_inclusive_teim">1974, 1995-2002</field>
+    <field name="ref_ssi">aspace_76798e16adea6c03f9172b0382e51dbd</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Major Owens Collection</field>
+    <field name="collection_unitid_teim">BCMS.0078</field>
+    <field name="series_sim">Series I: Writing</field>
+    <field name="series_si">Series I: Writing &gt;&gt; Writing by Others</field>
+    <field name="heading_ssm">Writing by Others</field>
+    <field name="unitdate_start_sim">1974</field>
+    <field name="unitdate_start_ssm">1974</field>
+    <field name="unitdate_start_si">1974</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 1974, 1995-2002</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">36</field>
+  </doc>
+</add>

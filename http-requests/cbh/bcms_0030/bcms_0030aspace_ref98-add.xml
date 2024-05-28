@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0030aspace_ref98</field>
+    <field name="ead_ssi">bcms_0030</field>
+    <field name="parent_ssi">aspace_ref97</field>
+    <field name="parent_ssm">aspace_ref97</field>
+    <field name="parent_unittitles_ssm">Midwood High School</field>
+    <field name="parent_unittitles_teim">Midwood High School</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_ssm">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0030</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Midwood Argus&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Midwood Argus
+    </field>
+    <field name="unitdate_normal_ssm">1958-10/1969-03</field>
+    <field name="unitdate_normal_teim">1958-10/1969-03</field>
+    <field name="unitdate_normal_sim">1958-10/1969-03</field>
+    <field name="unitdate_inclusive_teim">October 1958 - March 1969</field>
+    <field name="scopecontent_teim">33 issues</field>
+    <field name="phystech_teim">Some issues are in poor condition. Researchers should use the digital surrogates.</field>
+    <field name="ref_ssi">aspace_ref98</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5 - restricted</field>
+    <field name="location_si">Box: 5 - restricted</field>
+    <field name="collection_teim">Brooklyn High School Newspaper Collection</field>
+    <field name="collection_unitid_teim">BCMS.0030</field>
+    <field name="series_sim">Midwood High School</field>
+    <field name="series_si">Midwood High School &gt;&gt; 
+      &lt;em&gt;Midwood Argus&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Midwood Argus
+    </field>
+    <field name="unitdate_ssm">Inclusive, October 1958 - March 1969</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">65</field>
+  </doc>
+</add>

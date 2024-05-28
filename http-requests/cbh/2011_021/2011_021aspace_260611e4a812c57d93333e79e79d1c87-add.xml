@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">2011_021aspace_260611e4a812c57d93333e79e79d1c87</field>
+    <field name="ead_ssi">2011_021</field>
+    <field name="parent_ssi">aspace_91ea94ee344492a67d820cc6f9b1178b</field>
+    <field name="parent_ssm">aspace_91ea94ee344492a67d820cc6f9b1178b</field>
+    <field name="parent_unittitles_ssm">Series 6: Bible School</field>
+    <field name="parent_unittitles_teim">Series 6: Bible School</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">First Baptist Church in Pierrepont Street records</field>
+    <field name="collection_ssm">First Baptist Church in Pierrepont Street records</field>
+    <field name="collection_unitid_ssm">2011.021</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Chinese Bible School </field>
+    <field name="unittitle_teim">Chinese Bible School </field>
+    <field name="unitdate_normal_ssm">1915/1932</field>
+    <field name="unitdate_normal_teim">1915/1932</field>
+    <field name="unitdate_normal_sim">1915/1932</field>
+    <field name="unitdate_inclusive_teim">circa 1915, 1932</field>
+    <field name="ref_ssi">aspace_260611e4a812c57d93333e79e79d1c87</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 31, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">First Baptist Church in Pierrepont Street records</field>
+    <field name="collection_unitid_teim">2011.021</field>
+    <field name="series_sim">Series 6: Bible School</field>
+    <field name="series_si">Series 6: Bible School &gt;&gt; Chinese Bible School </field>
+    <field name="heading_ssm">Chinese Bible School </field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1932</field>
+    <field name="unitdate_end_ssm">1932</field>
+    <field name="unitdate_end_si">1932</field>
+    <field name="unitdate_ssm">Inclusive, circa 1915, 1932</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">208</field>
+  </doc>
+</add>

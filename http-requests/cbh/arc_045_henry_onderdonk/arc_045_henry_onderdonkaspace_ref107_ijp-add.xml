@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_045_henry_onderdonkaspace_ref107_ijp</field>
+    <field name="ead_ssi">arc_045_henry_onderdonk</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Henry Onderdonk papers</field>
+    <field name="collection_ssm">Henry Onderdonk papers</field>
+    <field name="collection_unitid_ssm">ARC.045</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Miscellaneous</field>
+    <field name="unittitle_teim">Series 3: Miscellaneous</field>
+    <field name="unitdate_normal_ssm">1729/1895</field>
+    <field name="unitdate_normal_teim">1729/1895</field>
+    <field name="unitdate_normal_sim">1729/1895</field>
+    <field name="unitdate_inclusive_teim">1729-1895</field>
+    <field name="scopecontent_teim">The series includes a variety of original historical documents such as handbills, petitions, fliers, programs, and financial records related to various Long Island communities. Queens County is especially well-represented in the series, including various original invoices for expenses related to the transportation, maintenance, and execution of prisoners in Queens County; electoral campaign materials for temperance candidate Simon Craft (1846), advertisements for James M. Huntting's English and Classical Family School (1857), a share of stock in the Jamaica Circulating Library (1861), and other matter. Documents related to Union Hall Academy of Jamaica include student petitions, a list of students (1847), an advertisement with tuition rates, rules and other information, and student exhibition programs. For present-day Nassau County, documents include the program for the laying of the cornerstone at the Cathedral of the Incarnation in Garden City (1877), a Hempstead Seminary advertisement (1837), notices for public celebratory events at Little Neck (1857) and Manhasset (1872), and a 1793 document dividing land (likely at Cow Neck) between James Hewlett and George Rapelje. The series includes genealogical research notes and correspondence for the Dodge family of Long Island, a transcription of a French and Indian War era (1758) muster roll and related notes concerning a New York battalion from a regiment commanded by Col. Oliver de Lancey, and an account from a doctor's daybook showing services rendered (1729-1731).</field>
+    <field name="ref_ssi">aspace_ref107_ijp</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Henry Onderdonk papers</field>
+    <field name="collection_unitid_teim">ARC.045</field>
+    <field name="series_si">Series 3: Miscellaneous</field>
+    <field name="heading_ssm">Series 3: Miscellaneous</field>
+    <field name="unitdate_start_sim">1729</field>
+    <field name="unitdate_start_ssm">1729</field>
+    <field name="unitdate_start_si">1729</field>
+    <field name="unitdate_end_sim">1895</field>
+    <field name="unitdate_end_ssm">1895</field>
+    <field name="unitdate_end_si">1895</field>
+    <field name="unitdate_ssm">Inclusive, 1729-1895</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">51</field>
+  </doc>
+</add>

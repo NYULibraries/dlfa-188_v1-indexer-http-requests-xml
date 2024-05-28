@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_145_lefferts_familyaspace_ref34_afq</field>
+    <field name="ead_ssi">arc_145_lefferts_family</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lefferts family papers</field>
+    <field name="collection_ssm">Lefferts family papers</field>
+    <field name="collection_unitid_ssm">ARC.145</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 2: Lefferts Businesses</field>
+    <field name="unittitle_teim">Series 2: Lefferts Businesses</field>
+    <field name="unitdate_normal_ssm">1783/1882</field>
+    <field name="unitdate_normal_teim">1783/1882</field>
+    <field name="unitdate_normal_sim">1783/1882</field>
+    <field name="unitdate_inclusive_teim">1783-1882</field>
+    <field name="scopecontent_teim">The Lefferts Businesses series contains documents related to the operation of several businesses which the Lefferts family ran or had an interest in. The majority of the materials in this series concern transportation infrastructure companies that operated in Brooklyn such as the Jamaica and Flatbush Turnpike Company, the Gravesend and Coney Island Bridge and Road Company and the Brooklyn, Flatbush, and Coney Island Railway Company. Many of these companies were involved in creating the early transportation infrastructure of Kings County some of which is still used today. The Jamaica and Flatbush Turnpike, for example, is one of the oldest roads in Kings County. The materials include receipts, account ledgers, stock and bond certificates, and indentures. The series also contains some receipts and other records concerning the operations of the Lefferts farm and other official business carried out by the Lefferts family in Brooklyn. More materials related to Lefferts businesses and accounts can be found in the Lefferts Family series, particularly material related to the Lefferts farm, tenants, land acquisitions and transfers.</field>
+    <field name="ref_ssi">aspace_ref34_afq</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lefferts family papers</field>
+    <field name="collection_unitid_teim">ARC.145</field>
+    <field name="series_si">Series 2: Lefferts Businesses</field>
+    <field name="heading_ssm">Series 2: Lefferts Businesses</field>
+    <field name="unitdate_start_sim">1783</field>
+    <field name="unitdate_start_ssm">1783</field>
+    <field name="unitdate_start_si">1783</field>
+    <field name="unitdate_end_sim">1882</field>
+    <field name="unitdate_end_ssm">1882</field>
+    <field name="unitdate_end_si">1882</field>
+    <field name="unitdate_ssm">Inclusive, 1783-1882</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">33</field>
+  </doc>
+</add>

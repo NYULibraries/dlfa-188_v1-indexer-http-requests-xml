@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_111_brooklyn_bronx_vasa_order_americaaspace_ref11_i0a</field>
+    <field name="ead_ssi">arc_111_brooklyn_bronx_vasa_order_america</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn and Bronx lodges of the Vasa Order of America records</field>
+    <field name="collection_ssm">Brooklyn and Bronx lodges of the Vasa Order of America records</field>
+    <field name="collection_unitid_ssm">ARC.111</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 5: Membership records</field>
+    <field name="unittitle_teim">Series 5: Membership records</field>
+    <field name="unitdate_normal_ssm">1907/1969</field>
+    <field name="unitdate_normal_teim">1907/1969</field>
+    <field name="unitdate_normal_sim">1907/1969</field>
+    <field name="unitdate_inclusive_teim">1907-1969</field>
+    <field name="scopecontent_teim">This series contains several kinds of lodge membership records ranging from 1907 to 1969.  First and most numerous are applications for membership in lodges Nobel #64, circa 1949 to 1967; Nordstjernan #89, 1909 to 1963; Liljan #107, 1907 to 1969; Syskonkedjan #306, 1915 to 1968; and Harmony #476, 1934 to 1965.  Many applications are in Swedish. Not all applications are dated, so they have been arranged alphabetically by surname of applicant, with female members who applied while single filed under their maiden names.  Since Nobel was founded in 1904, it is safe to assume that these forms do not represent a complete set for that lodge, and probably not for the other lodges either.  This series also includes membership update forms returned by members of Nobel #64, Nobel- Liljan #64, Liljan #107, Syskonkedjan #306, and Thora #39.  There is also a pad of carbon copy "membership change reports" from Nobel #64 only, and several membership lists.</field>
+    <field name="ref_ssi">aspace_ref11_i0a</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn and Bronx lodges of the Vasa Order of America records</field>
+    <field name="collection_unitid_teim">ARC.111</field>
+    <field name="series_si">Series 5: Membership records</field>
+    <field name="heading_ssm">Series 5: Membership records</field>
+    <field name="unitdate_start_sim">1907</field>
+    <field name="unitdate_start_ssm">1907</field>
+    <field name="unitdate_start_si">1907</field>
+    <field name="unitdate_end_sim">1969</field>
+    <field name="unitdate_end_ssm">1969</field>
+    <field name="unitdate_end_si">1969</field>
+    <field name="unitdate_ssm">Inclusive, 1907-1969</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

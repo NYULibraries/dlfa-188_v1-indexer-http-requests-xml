@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2012_002_bhfamaspace_ref124_tol</field>
+    <field name="ead_ssi">arms_2012_002_bhfam</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn Home for Aged Men records</field>
+    <field name="collection_ssm">Brooklyn Home for Aged Men records</field>
+    <field name="collection_unitid_ssm">2012.002</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Photographs</field>
+    <field name="unittitle_teim">Series 3: Photographs</field>
+    <field name="unitdate_normal_ssm">1915/2011</field>
+    <field name="unitdate_normal_teim">1915/2011</field>
+    <field name="unitdate_normal_sim">1915/2011</field>
+    <field name="unitdate_inclusive_teim">circa 1920 - 2011</field>
+    <field name="scopecontent_teim">The Photographs series contains photographic prints and negatives, postcards, and digital images, dating from around the 1920s to the 2000s. Subjects include the Brooklyn Home for Aged Men building, residents, board members, and celebrations. </field>
+    <field name="scopecontent_teim">The series includes 78 digital images (JPEG format), as well as two digital documents (Word files), which were stored on CD-ROMs. The files primarily contain images of residents and board members (circa 1950s-1960s), the home's 1878 Certificate of Incorporation, and images of the Nancy K. Munson Memorial Foundation (circa 2009). The digital files were transfered to the CD-ROMs in 2005 and 2011. The digital documents have been printed and are available in the History folder of the Administrative and financial records series. Some digital images are copies of prints found in this series.</field>
+    <field name="ref_ssi">aspace_ref124_tol</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn Home for Aged Men records</field>
+    <field name="collection_unitid_teim">2012.002</field>
+    <field name="series_si">Series 3: Photographs</field>
+    <field name="heading_ssm">Series 3: Photographs</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, circa 1920 - 2011</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">85</field>
+  </doc>
+</add>

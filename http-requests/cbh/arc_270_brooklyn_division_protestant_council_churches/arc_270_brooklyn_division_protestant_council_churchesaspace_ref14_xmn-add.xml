@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_270_brooklyn_division_protestant_council_churchesaspace_ref14_xmn</field>
+    <field name="ead_ssi">arc_270_brooklyn_division_protestant_council_churches</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn Division of the Protestant Council of Churches records</field>
+    <field name="collection_ssm">Brooklyn Division of the Protestant Council of Churches records</field>
+    <field name="collection_unitid_ssm">ARC.270</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 5: Subject files</field>
+    <field name="unittitle_teim">Series 5: Subject files</field>
+    <field name="unitdate_normal_ssm">1950/1974</field>
+    <field name="unitdate_normal_teim">1950/1974</field>
+    <field name="unitdate_normal_sim">1950/1974</field>
+    <field name="unitdate_inclusive_teim">1950-1974</field>
+    <field name="scopecontent_teim">The subject files make up a significant portion of the collection. Dating from 1950 to 1974, the files cover topics the Brooklyn Division was concerned with during this period, as well as files concerning the day to day running of the Division. Files include information on different parishes, the clergy volunteer program, the education committee, the 1973 United Farm Workers' Strike, and neighborhood revitalization. Many of these files contain detailed statistical analysis of the demographics of Brooklyn, gathered by the Division to determine how Protestant churches might best serve and appeal to the community. Included in the files are newspaper clippings, correspondence, pamphlets, and committee minutes. Some of the material in these files is restricted due to issues of privacy.</field>
+    <field name="ref_ssi">aspace_ref14_xmn</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn Division of the Protestant Council of Churches records</field>
+    <field name="collection_unitid_teim">ARC.270</field>
+    <field name="series_si">Series 5: Subject files</field>
+    <field name="heading_ssm">Series 5: Subject files</field>
+    <field name="unitdate_start_sim">1950</field>
+    <field name="unitdate_start_ssm">1950</field>
+    <field name="unitdate_start_si">1950</field>
+    <field name="unitdate_end_sim">1974</field>
+    <field name="unitdate_end_ssm">1974</field>
+    <field name="unitdate_end_si">1974</field>
+    <field name="unitdate_ssm">Inclusive, 1950-1974</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

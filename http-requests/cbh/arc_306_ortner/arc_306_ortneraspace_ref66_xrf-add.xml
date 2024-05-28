@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_306_ortneraspace_ref66_xrf</field>
+    <field name="ead_ssi">arc_306_ortner</field>
+    <field name="parent_ssi">aspace_ref427_m2d</field>
+    <field name="parent_ssm">aspace_ref427_m2d</field>
+    <field name="parent_unittitles_ssm">Series 2: Everett H. Ortner personal papers</field>
+    <field name="parent_unittitles_teim">Series 2: Everett H. Ortner personal papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Everett and Evelyn Ortner papers and photographs</field>
+    <field name="collection_ssm">Everett and Evelyn Ortner papers and photographs</field>
+    <field name="collection_unitid_ssm">ARC.306</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 2.2: Army</field>
+    <field name="unittitle_teim">Sub-series 2.2: Army</field>
+    <field name="unitdate_normal_ssm">1941/2003</field>
+    <field name="unitdate_normal_teim">1941/2003</field>
+    <field name="unitdate_normal_sim">1941/2003</field>
+    <field name="unitdate_inclusive_teim">1941-2003</field>
+    <field name="scopecontent_teim">The sub-series documents EHO's career in the United States Army, including his training at Fort Benning, service in World War II, his time as a prisoner of war in Germany, and his post-war service. It includes Army memoranda and special orders, reports, publications, correspondence (both military and personal), photographs, financial records, certificates, memorabilia (including his Bronze Star Medal), and ephemera, dating from 1941 to 2003. It also includes a report on his war experience written by a student.</field>
+    <field name="ref_ssi">aspace_ref66_xrf</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Everett and Evelyn Ortner papers and photographs</field>
+    <field name="collection_unitid_teim">ARC.306</field>
+    <field name="series_sim">Series 2: Everett H. Ortner personal papers</field>
+    <field name="series_si">Series 2: Everett H. Ortner personal papers &gt;&gt; Sub-series 2.2: Army</field>
+    <field name="heading_ssm">Sub-series 2.2: Army</field>
+    <field name="unitdate_start_sim">1941</field>
+    <field name="unitdate_start_ssm">1941</field>
+    <field name="unitdate_start_si">1941</field>
+    <field name="unitdate_end_sim">2003</field>
+    <field name="unitdate_end_ssm">2003</field>
+    <field name="unitdate_end_si">2003</field>
+    <field name="unitdate_ssm">Inclusive, 1941-2003</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">63</field>
+  </doc>
+</add>

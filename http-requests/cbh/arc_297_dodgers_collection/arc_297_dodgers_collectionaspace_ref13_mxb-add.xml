@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_297_dodgers_collectionaspace_ref13_mxb</field>
+    <field name="ead_ssi">arc_297_dodgers_collection</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn Dodgers collection</field>
+    <field name="collection_ssm">Brooklyn Dodgers collection</field>
+    <field name="collection_unitid_ssm">ARC.297</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 3: Memorabilia and ephemera</field>
+    <field name="unittitle_teim">Series 3: Memorabilia and ephemera</field>
+    <field name="unitdate_normal_ssm">1909/2007</field>
+    <field name="unitdate_normal_teim">1909/2007</field>
+    <field name="unitdate_normal_sim">1909/2007</field>
+    <field name="unitdate_inclusive_teim">1909-circa 2002</field>
+    <field name="scopecontent_teim">The series contains assorted memorabilia and ephemera, including calendars, ticket stubs, baseball cards, postcards, audio recordings, posters, and a pennant, dating from 1909 to circa 2002. It also contains a file relating to an unrealized new stadium in Brooklyn, dating from 1981 to 1984. Of note are several early 20th century baseball cards and one copy of the first edition of The Boys of the Summer, by Roger Kahn, signed by Duke Snider.</field>
+    <field name="ref_ssi">aspace_ref13_mxb</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn Dodgers collection</field>
+    <field name="collection_unitid_teim">ARC.297</field>
+    <field name="series_si">Series 3: Memorabilia and ephemera</field>
+    <field name="heading_ssm">Series 3: Memorabilia and ephemera</field>
+    <field name="unitdate_start_sim">1909</field>
+    <field name="unitdate_start_ssm">1909</field>
+    <field name="unitdate_start_si">1909</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, 1909-circa 2002</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">26</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2009_011_lapcaspace_ref44_nme</field>
+    <field name="ead_ssi">arms_2009_011_lapc</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_ssm">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_unitid_ssm">2009.011</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 11: Music and organ</field>
+    <field name="unittitle_teim">Series 11: Music and organ</field>
+    <field name="unitdate_normal_ssm">1880/1995</field>
+    <field name="unitdate_normal_teim">1880/1995</field>
+    <field name="unitdate_normal_sim">1880/1995</field>
+    <field name="unitdate_inclusive_teim">1880-1995</field>
+    <field name="scopecontent_teim">Contains files relating to the LAPC's Ministry of Music, including items related to its organ, its musical director and choir, concerts, and its Cultural Crossroads programs, dating from 1880 to 1995. It includes one file of material on musical director and organist John Hyatt Brewer, which contains his original contract with the church, along material related to celebrations in his honor, photographic portraits, and other documents. Material related to the church's organ includes a contract and correspondence with organ manufacturers Hook and Hastings (1886-1892) and specifications and other documents related to a new organ, which was installed in 1910. A letter from former pastor David Gregg to then-current pastor Cleland B. McAfee regarding the church's music and new organ is included in the series (1910). The series also contains sheet music, including a book of music composed by Dudley Buck and owned by soprano Elizabeth Tudor (1880). Finally, the series includes five scrapbooks containing clippings and programs relating to concerts at the LAPC, as well as other Brooklyn churches and clubs (1870-1895).</field>
+    <field name="scopecontent_teim">Additional concert and choir performance programs and announcements can be found in Series 1: Church Bulletins and Series 4: Scrapbooks.</field>
+    <field name="ref_ssi">aspace_ref44_nme</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_unitid_teim">2009.011</field>
+    <field name="series_si">Series 11: Music and organ</field>
+    <field name="heading_ssm">Series 11: Music and organ</field>
+    <field name="unitdate_start_sim">1880</field>
+    <field name="unitdate_start_ssm">1880</field>
+    <field name="unitdate_start_si">1880</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, 1880-1995</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">359</field>
+  </doc>
+</add>

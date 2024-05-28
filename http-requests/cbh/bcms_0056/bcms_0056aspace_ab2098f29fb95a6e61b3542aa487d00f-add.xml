@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0056aspace_ab2098f29fb95a6e61b3542aa487d00f</field>
+    <field name="ead_ssi">bcms_0056</field>
+    <field name="parent_ssi">aspace_026b524b5232abaafcedc8a003820a2f</field>
+    <field name="parent_ssm">aspace_2f485c32d19ed5993f44cf77ec23db74</field>
+    <field name="parent_ssm">aspace_026b524b5232abaafcedc8a003820a2f</field>
+    <field name="parent_unittitles_ssm">Series 1: Photographs</field>
+    <field name="parent_unittitles_ssm">Sub-series 1.1: 8x10 Photographs </field>
+    <field name="parent_unittitles_teim">Series 1: Photographs</field>
+    <field name="parent_unittitles_teim">Sub-series 1.1: 8x10 Photographs </field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Irving Herzberg collection</field>
+    <field name="collection_ssm">Irving Herzberg collection</field>
+    <field name="collection_unitid_ssm">BCMS.0056</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Coney Island: Boardwalk </field>
+    <field name="unittitle_teim">Coney Island: Boardwalk </field>
+    <field name="unitdate_normal_ssm">1958/1979</field>
+    <field name="unitdate_normal_teim">1958/1979</field>
+    <field name="unitdate_normal_sim">1958/1979</field>
+    <field name="unitdate_inclusive_teim">1958-1979</field>
+    <field name="ref_ssi">aspace_ab2098f29fb95a6e61b3542aa487d00f</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 22-23</field>
+    <field name="location_ssm">Folder: 22-23</field>
+    <field name="location_si">Folder: 22-23</field>
+    <field name="collection_teim">Irving Herzberg collection</field>
+    <field name="collection_unitid_teim">BCMS.0056</field>
+    <field name="series_sim">Series 1: Photographs</field>
+    <field name="series_sim">Sub-series 1.1: 8x10 Photographs </field>
+    <field name="series_si">Series 1: Photographs &gt;&gt; Sub-series 1.1: 8x10 Photographs  &gt;&gt; Coney Island: Boardwalk </field>
+    <field name="heading_ssm">Coney Island: Boardwalk </field>
+    <field name="unitdate_start_sim">1958</field>
+    <field name="unitdate_start_ssm">1958</field>
+    <field name="unitdate_start_si">1958</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, 1958-1979</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cbhm_0006aspace_137de533374d4f8942a4d5658d5e5064</field>
+    <field name="ead_ssi">cbhm_0006</field>
+    <field name="parent_ssi">aspace_eab1ef2962cede1acb95a128814fb0fc</field>
+    <field name="parent_ssm">aspace_ca70b8c74995df594cb2fa66b32c5e16</field>
+    <field name="parent_ssm">aspace_eab1ef2962cede1acb95a128814fb0fc</field>
+    <field name="parent_unittitles_ssm">Series 2: Individual schools</field>
+    <field name="parent_unittitles_ssm">St. John's University</field>
+    <field name="parent_unittitles_teim">Series 2: Individual schools</field>
+    <field name="parent_unittitles_teim">St. John's University</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn schools collection</field>
+    <field name="collection_ssm">Brooklyn schools collection</field>
+    <field name="collection_unitid_ssm">CBHM.0006</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Res Genstae yearbook</field>
+    <field name="unittitle_teim">Res Genstae yearbook</field>
+    <field name="unitdate_normal_ssm">1941/1961</field>
+    <field name="unitdate_normal_teim">1941/1961</field>
+    <field name="unitdate_normal_sim">1941/1961</field>
+    <field name="unitdate_inclusive_teim">1941, 1953, 1958, 1961</field>
+    <field name="scopecontent_teim">School of Law.</field>
+    <field name="ref_ssi">aspace_137de533374d4f8942a4d5658d5e5064</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Brooklyn schools collection</field>
+    <field name="collection_unitid_teim">CBHM.0006</field>
+    <field name="series_sim">Series 2: Individual schools</field>
+    <field name="series_sim">St. John's University</field>
+    <field name="series_si">Series 2: Individual schools &gt;&gt; St. John's University &gt;&gt; Res Genstae yearbook</field>
+    <field name="heading_ssm">Res Genstae yearbook</field>
+    <field name="unitdate_start_sim">1941</field>
+    <field name="unitdate_start_ssm">1941</field>
+    <field name="unitdate_start_si">1941</field>
+    <field name="unitdate_end_sim">1961</field>
+    <field name="unitdate_end_ssm">1961</field>
+    <field name="unitdate_end_si">1961</field>
+    <field name="unitdate_ssm">Inclusive, 1941, 1953, 1958, 1961</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">711</field>
+  </doc>
+</add>

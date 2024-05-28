@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2012_004_toedteberg_bookplatesaspace_ref11_vl9</field>
+    <field name="ead_ssi">arms_2012_004_toedteberg_bookplates</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Emma Toedteberg bookplate collection</field>
+    <field name="collection_ssm">Emma Toedteberg bookplate collection</field>
+    <field name="collection_unitid_ssm">2012.004</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 5: Institutional Bookplates</field>
+    <field name="unittitle_teim">Series 5: Institutional Bookplates</field>
+    <field name="unitdate_normal_ssm">1759/1936</field>
+    <field name="unitdate_normal_teim">1759/1936</field>
+    <field name="unitdate_normal_sim">1759/1936</field>
+    <field name="unitdate_inclusive_teim">1759-1936</field>
+    <field name="scopecontent_teim">These institutions include libraries, societies, colleges &amp; universities, private clubs and museums: the Brooklyn Historical Society (previously known as the Long Island Historical Society); the Bohemian Club, San Francisco, CA; the Newark, NJ Free Public Library; the Salmagundi Club; the gift-plate of the YMCA; and the Society of Mayflower Descendants.</field>
+    <field name="ref_ssi">aspace_ref11_vl9</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 42-43</field>
+    <field name="location_si">Box: 42-43</field>
+    <field name="collection_teim">Emma Toedteberg bookplate collection</field>
+    <field name="collection_unitid_teim">2012.004</field>
+    <field name="series_si">Series 5: Institutional Bookplates</field>
+    <field name="heading_ssm">Series 5: Institutional Bookplates</field>
+    <field name="unitdate_start_sim">1759</field>
+    <field name="unitdate_start_ssm">1759</field>
+    <field name="unitdate_start_si">1759</field>
+    <field name="unitdate_end_sim">1936</field>
+    <field name="unitdate_end_ssm">1936</field>
+    <field name="unitdate_end_si">1936</field>
+    <field name="unitdate_ssm">Inclusive, 1759-1936</field>
+    <field name="date_range_sim">1701-1800</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">14</field>
+  </doc>
+</add>

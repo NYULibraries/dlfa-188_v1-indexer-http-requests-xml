@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_128_girls_high_schoolaspace_c7e393df343cc48fadfa3a72f05cb6a2</field>
+    <field name="ead_ssi">arc_128_girls_high_school</field>
+    <field name="parent_ssi">aspace_5c0072ddb9fd960944768e33d1112837</field>
+    <field name="parent_ssm">aspace_5c0072ddb9fd960944768e33d1112837</field>
+    <field name="parent_unittitles_ssm">Series 1: Ephemera</field>
+    <field name="parent_unittitles_teim">Series 1: Ephemera</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Girls' High School collection</field>
+    <field name="collection_ssm">Girls' High School collection</field>
+    <field name="collection_unitid_ssm">ARC.128</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Event programs</field>
+    <field name="unittitle_teim">Event programs</field>
+    <field name="unitdate_normal_ssm">1897/1957</field>
+    <field name="unitdate_normal_teim">1897/1957</field>
+    <field name="unitdate_normal_sim">1897/1957</field>
+    <field name="unitdate_inclusive_teim">1897-1957</field>
+    <field name="scopecontent_teim">Events include Shakespeare celebrations, Schiller centenary, class tree ceremony (1907), musical performances, theatrical productions, and a 1942 Red Cross bazaar.</field>
+    <field name="ref_ssi">aspace_c7e393df343cc48fadfa3a72f05cb6a2</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Girls' High School collection</field>
+    <field name="collection_unitid_teim">ARC.128</field>
+    <field name="series_sim">Series 1: Ephemera</field>
+    <field name="series_si">Series 1: Ephemera &gt;&gt; Event programs</field>
+    <field name="heading_ssm">Event programs</field>
+    <field name="unitdate_start_sim">1897</field>
+    <field name="unitdate_start_ssm">1897</field>
+    <field name="unitdate_start_si">1897</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, 1897-1957</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">9</field>
+  </doc>
+</add>

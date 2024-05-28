@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2013_015_corp_counselaspace_ref5091_3oo</field>
+    <field name="ead_ssi">arms_2013_015_corp_counsel</field>
+    <field name="parent_ssi">aspace_ref4780_km0</field>
+    <field name="parent_ssm">aspace_ref4780_km0</field>
+    <field name="parent_unittitles_ssm">Series 4: Property Files</field>
+    <field name="parent_unittitles_teim">Series 4: Property Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn, N.Y., Department of Law, Corporation Counsel records</field>
+    <field name="collection_ssm">Brooklyn, N.Y., Department of Law, Corporation Counsel records</field>
+    <field name="collection_unitid_ssm">2013.015</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 2: Outside Brooklyn</field>
+    <field name="unittitle_teim">Sub-series 2: Outside Brooklyn</field>
+    <field name="unitdate_normal_ssm">1883/1915</field>
+    <field name="unitdate_normal_teim">1883/1915</field>
+    <field name="unitdate_normal_sim">1883/1915</field>
+    <field name="unitdate_inclusive_teim">1883-1915</field>
+    <field name="scopecontent_teim">The subseries consists of property records (including deeds, title searches, and maps) and records documenting city efforts to acquire land outside of Brooklyn. The files date from 1883 to 1915.</field>
+    <field name="scopecontent_teim">The following areas are represented in the subseries: Flushing, Jamaica, Long Island City, and Newtown (modern Queens County); Hempstead and Oyster Bay (modern Nassau County), Smithtown (part of modern Suffolk County), Richmond (modern Staten Island), and Manhattan.</field>
+    <field name="scopecontent_teim">The majority of the records relate to Brooklyn's water supply, especially in the Towns of Jamaica and Hempstead (specifically Freeport, Merrick, Pine Stream, Rockville Centre, Valley Stream, and Wantagh).</field>
+    <field name="scopecontent_teim">Of particular note is a record documenting the establishment of the border between Queens County and Nassau County in 1898-1899.</field>
+    <field name="ref_ssi">aspace_ref5091_3oo</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn, N.Y., Department of Law, Corporation Counsel records</field>
+    <field name="collection_unitid_teim">2013.015</field>
+    <field name="series_sim">Series 4: Property Files</field>
+    <field name="series_si">Series 4: Property Files &gt;&gt; Sub-series 2: Outside Brooklyn</field>
+    <field name="heading_ssm">Sub-series 2: Outside Brooklyn</field>
+    <field name="unitdate_start_sim">1883</field>
+    <field name="unitdate_start_ssm">1883</field>
+    <field name="unitdate_start_si">1883</field>
+    <field name="unitdate_end_sim">1915</field>
+    <field name="unitdate_end_ssm">1915</field>
+    <field name="unitdate_end_si">1915</field>
+    <field name="unitdate_ssm">Inclusive, 1883-1915</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">3826</field>
+  </doc>
+</add>

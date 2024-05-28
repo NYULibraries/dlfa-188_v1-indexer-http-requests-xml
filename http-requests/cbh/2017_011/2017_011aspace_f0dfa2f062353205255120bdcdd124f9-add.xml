@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">2017_011aspace_f0dfa2f062353205255120bdcdd124f9</field>
+    <field name="ead_ssi">2017_011</field>
+    <field name="parent_ssi">aspace_fc471485a084b480acfab85ad6dd5a45</field>
+    <field name="parent_ssm">aspace_b8a2b39e7af7ed1b5248982ad29b5321</field>
+    <field name="parent_ssm">aspace_fc471485a084b480acfab85ad6dd5a45</field>
+    <field name="parent_unittitles_ssm">Series 2: Project files</field>
+    <field name="parent_unittitles_ssm">Sub-series 2.2: Environmental and historical reports</field>
+    <field name="parent_unittitles_teim">Series 2: Project files</field>
+    <field name="parent_unittitles_teim">Sub-series 2.2: Environmental and historical reports</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Friends and Residents of Greater Gowanus records</field>
+    <field name="collection_ssm">Friends and Residents of Greater Gowanus records</field>
+    <field name="collection_unitid_ssm">2017.011</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Gowanus Canal contaminants</field>
+    <field name="unittitle_teim">Gowanus Canal contaminants</field>
+    <field name="unitdate_normal_ssm">1990/2010</field>
+    <field name="unitdate_normal_teim">1990/2010</field>
+    <field name="unitdate_normal_sim">1990/2010</field>
+    <field name="unitdate_inclusive_teim">1990-2010</field>
+    <field name="ref_ssi">aspace_f0dfa2f062353205255120bdcdd124f9</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Friends and Residents of Greater Gowanus records</field>
+    <field name="collection_unitid_teim">2017.011</field>
+    <field name="series_sim">Series 2: Project files</field>
+    <field name="series_sim">Sub-series 2.2: Environmental and historical reports</field>
+    <field name="series_si">Series 2: Project files &gt;&gt; Sub-series 2.2: Environmental and historical reports &gt;&gt; Gowanus Canal contaminants</field>
+    <field name="heading_ssm">Gowanus Canal contaminants</field>
+    <field name="unitdate_start_sim">1990</field>
+    <field name="unitdate_start_ssm">1990</field>
+    <field name="unitdate_start_si">1990</field>
+    <field name="unitdate_end_sim">2010</field>
+    <field name="unitdate_end_ssm">2010</field>
+    <field name="unitdate_end_si">2010</field>
+    <field name="unitdate_ssm">Inclusive, 1990-2010</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

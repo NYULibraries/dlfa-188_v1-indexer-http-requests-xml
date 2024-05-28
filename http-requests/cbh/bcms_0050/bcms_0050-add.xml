@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Demar Ludford, Archives Intern with assistance from Diana Bowers-Smith, Archivist</field>
+    <field name="author_ssm">Demar Ludford, Archives Intern with assistance from Diana Bowers-Smith, Archivist</field>
+    <field name="unittitle_teim">Martha Gayle Collection</field>
+    <field name="unittitle_ssm">Martha Gayle Collection</field>
+    <field name="unitid_teim">BCMS.0050</field>
+    <field name="unitid_ssm">BCMS.0050</field>
+    <field name="abstract_teim">Various documents relating to the life, work, and activities of Martha Adina Gayle dating from 1902 -2001. Gayle was a Jamaican immigrant who came to the United States in 1924.</field>
+    <field name="abstract_ssm">Various documents relating to the life, work, and activities of Martha Adina Gayle dating from 1902 -2001. Gayle was a Jamaican immigrant who came to the United States in 1924.</field>
+    <field name="unitdate_normal_ssm">1902/2001</field>
+    <field name="unitdate_normal_ssm">1960/1985</field>
+    <field name="unitdate_normal_teim">1902/2001</field>
+    <field name="unitdate_normal_teim">1960/1985</field>
+    <field name="unitdate_normal_sim">1902/2001</field>
+    <field name="unitdate_normal_sim">1960/1985</field>
+    <field name="unitdate_bulk_teim">1960-1985</field>
+    <field name="unitdate_inclusive_teim">1902-2001</field>
+    <field name="scopecontent_teim">The materials in this collection are largely textual and contain records such as correspondence, medical documents, and identification papers. There are also records relating to Gayle's niece Daisy Parnell, as well as Arnold Austin, another relative. A large part of the collection consists of financial records that speak to her activities as a landlord such as banking, legal, insurance, and utilities records. The collection also includes photographs and ephemera.</field>
+    <field name="scopecontent_teim"> The richest section of this collection is the extensive correspondence between Martha Gayle, Daisy Parnell, and their friends and family back home. While many of their correspondents' full names are unknown, their communications nonetheless provide an understanding of the relationship that Martha and Daisy both had with their families and friends. Correspondents include Martha's sister Edith Gayle, her onetime employer Addie Place, and many others.</field>
+    <field name="bioghist_teim">Martha Adina Gayle was born in the parish of St. Elizabeth in the district of Cambridge on the island of Jamaica on October 22, 1902. According to her birth records, she was the daughter of Olivia and Richard Gayle. On April 16 1924, Martha traveled to the United States of America on board the S.S. Alegria from Port Antonio, Jamaica, landing six days later on April 22nd with her final destination being Brooklyn, New York. Records listed Martha's occupation as a domestic worker and that she was not married.</field>
+    <field name="bioghist_teim"> Having established a good footing in the United States, Martha Gayle was able to accommodate and help her niece Daisy May Parnell, who lived with her in Brooklyn for many decades. Martha was also very helpful to her family in Jamaica with correspondence records indicating that she often helped out in whatever way she could. On April 15, 1947 Martha became a naturalized citizen of the United States of America. For the next few decades, Martha lived in the Bedford-Stuyvesant area of Brooklyn where she started out renting and eventually owned three apartment buildings at 164 MacDonough Street, 51 MacDonough Street and 285 Macon Street. It was through the rental income those properties provided that Martha was able to transition from domestic work to self-employment as a landlord.</field>
+    <field name="bioghist_teim"> Martha was a very active and longstanding member of the Siloam Presbyterian church as well as a women's missionary group. In the latter years of her life, Martha had several health issues and was in and out of the hospital. Records indicate that she had serious health issues in the year 2000 and at one point was living in a hospice. She passed away in 2000 at approximately 98 years old.</field>
+    <field name="acqinfo_teim">The Martha Gayle Collection was donated to the Brooklyn Collection in January 2016 by George Camarda, who purchased Martha Gayle's home after her death and found these materials stored in the basement.</field>
+    <field name="corpname_teim">Brooklyn Collection</field>
+    <field name="corpname_ssm">Brooklyn Collection</field>
+    <field name="geogname_teim">Bedford-Stuyvesant (New York, N.Y.)</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Bedford-Stuyvesant (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="collection_sim">Martha Gayle Collection</field>
+    <field name="collection_ssm">Martha Gayle Collection</field>
+    <field name="collection_teim">Martha Gayle Collection</field>
+    <field name="id">bcms_0050</field>
+    <field name="ead_ssi">bcms_0050</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Bedford-Stuyvesant (New York, N.Y.)</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="heading_ssm">Martha Gayle Collection</field>
+    <field name="unitdate_start_sim">1902</field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1902</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">2001</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_ssm">2001</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_si">1985</field>
+    <field name="unitdate_ssm">Inclusive, 1902-2001 ; 1960-1985</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

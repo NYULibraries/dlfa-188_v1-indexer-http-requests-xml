@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cbhm_0001aspace_1b9e7ece952aa7db72d8ec083a771f5f</field>
+    <field name="ead_ssi">cbhm_0001</field>
+    <field name="parent_ssi">aspace_f9453fc22b536922ae1a10d073745ac3</field>
+    <field name="parent_ssm">aspace_f9453fc22b536922ae1a10d073745ac3</field>
+    <field name="parent_unittitles_ssm">Series I: Clippings and Newsletters</field>
+    <field name="parent_unittitles_teim">Series I: Clippings and Newsletters</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Constance D'Agosta Brooklyn Dodgers Collection</field>
+    <field name="collection_ssm">Constance D'Agosta Brooklyn Dodgers Collection</field>
+    <field name="collection_unitid_ssm">CBHM.0001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Clem Labine Scrapbook Access Copy</field>
+    <field name="unittitle_teim">Clem Labine Scrapbook Access Copy</field>
+    <field name="unitdate_normal_ssm">1951/1956</field>
+    <field name="unitdate_normal_teim">1951/1956</field>
+    <field name="unitdate_normal_sim">1951/1956</field>
+    <field name="unitdate_inclusive_teim">1951-1956</field>
+    <field name="ref_ssi">aspace_1b9e7ece952aa7db72d8ec083a771f5f</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Constance D'Agosta Brooklyn Dodgers Collection</field>
+    <field name="collection_unitid_teim">CBHM.0001</field>
+    <field name="series_sim">Series I: Clippings and Newsletters</field>
+    <field name="series_si">Series I: Clippings and Newsletters &gt;&gt; Clem Labine Scrapbook Access Copy</field>
+    <field name="heading_ssm">Clem Labine Scrapbook Access Copy</field>
+    <field name="unitdate_start_sim">1951</field>
+    <field name="unitdate_start_ssm">1951</field>
+    <field name="unitdate_start_si">1951</field>
+    <field name="unitdate_end_sim">1956</field>
+    <field name="unitdate_end_ssm">1956</field>
+    <field name="unitdate_end_si">1956</field>
+    <field name="unitdate_ssm">Inclusive, 1951-1956</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">25</field>
+  </doc>
+</add>

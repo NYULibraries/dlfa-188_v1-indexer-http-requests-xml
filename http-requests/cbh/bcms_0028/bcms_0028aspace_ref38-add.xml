@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref38</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Brooklyn Free Press</field>
+    <field name="unittitle_teim">Brooklyn Free Press</field>
+    <field name="unitdate_normal_ssm">1987/1990</field>
+    <field name="unitdate_normal_teim">1987/1990</field>
+    <field name="unitdate_normal_sim">1987/1990</field>
+    <field name="unitdate_inclusive_teim">1987-1990</field>
+    <field name="scopecontent_teim">Largely focusing on the Park Slope area of Brooklyn, the Brooklyn Free Press provides local news coverage of arts, culture, education, health, and politics. Numerous articles appear in the paper covering local involvement in and reaction to events in Nicaragua concerning the Sandinista National Liberation Front—including opinion pieces as well as photo essays. A column called "Your Sexual Life" also regularly appears and addresses community concern over the AIDS epidemic. Films and art shows are reviewed regularly. Birth announcements, wedding announcements, and obituaries do not appear in the paper. Advertisements appear throughout.</field>
+    <field name="ref_ssi">aspace_ref38</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">bin: 8</field>
+    <field name="location_si">bin: 8</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Brooklyn Free Press</field>
+    <field name="heading_ssm">Brooklyn Free Press</field>
+    <field name="unitdate_start_sim">1987</field>
+    <field name="unitdate_start_ssm">1987</field>
+    <field name="unitdate_start_si">1987</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, 1987-1990</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

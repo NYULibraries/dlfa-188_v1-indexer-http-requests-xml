@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2008_017_amote_siasaspace_ref5_kha</field>
+    <field name="ead_ssi">arms_2008_017_amote_sias</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Amote Sias papers</field>
+    <field name="collection_ssm">Amote Sias papers</field>
+    <field name="collection_unitid_ssm">2008.017</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 1: Personal Papers</field>
+    <field name="unittitle_teim">Series 1: Personal Papers</field>
+    <field name="unitdate_normal_ssm">1971/1980</field>
+    <field name="unitdate_normal_teim">1971/1980</field>
+    <field name="unitdate_normal_sim">1971/1980</field>
+    <field name="unitdate_inclusive_teim">1971-1980</field>
+    <field name="scopecontent_teim">Series 1 is comprised of examples of essays used for college instruction by Sias, as well as handwritten notes from university lectures and research Sias conducted. Also included is a scrapbook example of a student's work from Sias's time as an teacher in the public school system, autographed theater programs from the plays Bubbling Brown Sugar and Don't Bother Me, I Can't Cope, and a Girl Scout badge.</field>
+    <field name="ref_ssi">aspace_ref5_kha</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Amote Sias papers</field>
+    <field name="collection_unitid_teim">2008.017</field>
+    <field name="series_si">Series 1: Personal Papers</field>
+    <field name="heading_ssm">Series 1: Personal Papers</field>
+    <field name="unitdate_start_sim">1971</field>
+    <field name="unitdate_start_ssm">1971</field>
+    <field name="unitdate_start_si">1971</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, 1971-1980</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0028aspace_ref36</field>
+    <field name="ead_ssi">bcms_0028</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_ssm">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0028</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Brooklyn Daily Times</field>
+    <field name="unittitle_teim">Brooklyn Daily Times</field>
+    <field name="unitdate_normal_ssm">1855/1932</field>
+    <field name="unitdate_normal_teim">1855/1932</field>
+    <field name="unitdate_normal_sim">1855/1932</field>
+    <field name="unitdate_inclusive_teim">1855-1932</field>
+    <field name="scopecontent_teim">Largely focusing on the Eastern District – the neighborhoods of Bushwick, Williamsburg, and Ridgewood – the Brooklyn Daily Times provides local news coverage of business, politics, education, community events, clubs and organizations, religion, arts, culture, sports, and entertainment. Early issues of the paper consist mainly of advertisements accompanied by a few local news items. In later issues of the paper the news coverage is expanded and photographs appear. Regularly appearing columns include: "Among German Societies," "Doings of the War Veterans," "The Fraternal Orders," "Books and Writers," and "The Religious World." Lists of marriage licenses and death notices occasionally appear. Birth notices do not appear in the paper. Advertisements appear throughout. Includes special editions such as the Long Island Edition, Wall Street Edition, Noon Edition and so forth. In March of 1932 the Brooklyn Daily Times merged with The Standard Union and both titles were on the masthead until June, when the paper was renamed the Brooklyn Times Union.</field>
+    <field name="ref_ssi">aspace_ref36</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Case: Morgue microfilm shelves</field>
+    <field name="location_si">Case: Morgue microfilm shelves</field>
+    <field name="collection_teim">Local Newspapers on Microfilm Collection</field>
+    <field name="collection_unitid_teim">BCMS.0028</field>
+    <field name="series_si">Brooklyn Daily Times</field>
+    <field name="heading_ssm">Brooklyn Daily Times</field>
+    <field name="unitdate_start_sim">1855</field>
+    <field name="unitdate_start_ssm">1855</field>
+    <field name="unitdate_start_si">1855</field>
+    <field name="unitdate_end_sim">1932</field>
+    <field name="unitdate_end_ssm">1932</field>
+    <field name="unitdate_end_si">1932</field>
+    <field name="unitdate_ssm">Inclusive, 1855-1932</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">14</field>
+  </doc>
+</add>

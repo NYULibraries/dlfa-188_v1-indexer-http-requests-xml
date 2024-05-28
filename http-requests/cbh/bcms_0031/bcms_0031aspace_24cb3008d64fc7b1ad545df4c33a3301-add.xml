@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0031aspace_24cb3008d64fc7b1ad545df4c33a3301</field>
+    <field name="ead_ssi">bcms_0031</field>
+    <field name="parent_ssi">aspace_f490eac51e18101d349d6f9858057b35</field>
+    <field name="parent_ssm">aspace_f490eac51e18101d349d6f9858057b35</field>
+    <field name="parent_unittitles_ssm">The Flatbush School</field>
+    <field name="parent_unittitles_teim">The Flatbush School</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Yearbook Collection</field>
+    <field name="collection_ssm">Brooklyn Yearbook Collection</field>
+    <field name="collection_unitid_ssm">BCMS.0031</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Maroon and White</field>
+    <field name="unittitle_teim">Maroon and White</field>
+    <field name="unitdate_normal_ssm">1924-06/1924-06</field>
+    <field name="unitdate_normal_teim">1924-06/1924-06</field>
+    <field name="unitdate_normal_sim">1924-06/1924-06</field>
+    <field name="unitdate_teim">June 1924</field>
+    <field name="ref_ssi">aspace_24cb3008d64fc7b1ad545df4c33a3301</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">cabinet: 3C shelves</field>
+    <field name="location_si">cabinet: 3C shelves</field>
+    <field name="collection_teim">Brooklyn Yearbook Collection</field>
+    <field name="collection_unitid_teim">BCMS.0031</field>
+    <field name="series_sim">The Flatbush School</field>
+    <field name="series_si">The Flatbush School &gt;&gt; Maroon and White</field>
+    <field name="heading_ssm">Maroon and White</field>
+    <field name="unitdate_ssm">June 1924</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">111</field>
+  </doc>
+</add>

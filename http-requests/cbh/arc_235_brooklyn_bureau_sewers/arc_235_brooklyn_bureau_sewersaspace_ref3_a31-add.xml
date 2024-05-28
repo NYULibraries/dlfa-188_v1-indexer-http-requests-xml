@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_235_brooklyn_bureau_sewersaspace_ref3_a31</field>
+    <field name="ead_ssi">arc_235_brooklyn_bureau_sewers</field>
+    <field name="parent_ssi">aspace_ref1_uya</field>
+    <field name="parent_ssm">aspace_ref1_uya</field>
+    <field name="parent_unittitles_ssm">Series 1: Assessment Binders</field>
+    <field name="parent_unittitles_teim">Series 1: Assessment Binders</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_ssm">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_ssm">ARC.235</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 2: Transitional</field>
+    <field name="unittitle_teim">Sub-series 2: Transitional</field>
+    <field name="unitdate_normal_ssm">1898/1906</field>
+    <field name="unitdate_normal_teim">1898/1906</field>
+    <field name="unitdate_normal_sim">1898/1906</field>
+    <field name="unitdate_inclusive_teim">circa 1898-circa 1906</field>
+    <field name="scopecontent_teim">This series generally includes the assessment binders for the borough of Brooklyn from the years shortly after consolidation. They are differentiated from the bulk of post-consolidation binders (see sub-series 3) in that these do not refer to a local sewer district by name. Generally, this sub-series includes the earliest binders created after consolidation, beginning with binder 1 and extending roughly to about binder 300, though there are gaps and exceptions in the numbering sequence.</field>
+    <field name="ref_ssi">aspace_ref3_a31</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Brooklyn, N.Y., Bureau of Sewers records</field>
+    <field name="collection_unitid_teim">ARC.235</field>
+    <field name="series_sim">Series 1: Assessment Binders</field>
+    <field name="series_si">Series 1: Assessment Binders &gt;&gt; Sub-series 2: Transitional</field>
+    <field name="heading_ssm">Sub-series 2: Transitional</field>
+    <field name="unitdate_start_sim">1898</field>
+    <field name="unitdate_start_ssm">1898</field>
+    <field name="unitdate_start_si">1898</field>
+    <field name="unitdate_end_sim">1906</field>
+    <field name="unitdate_end_ssm">1906</field>
+    <field name="unitdate_end_si">1906</field>
+    <field name="unitdate_ssm">Inclusive, circa 1898-circa 1906</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">34</field>
+  </doc>
+</add>

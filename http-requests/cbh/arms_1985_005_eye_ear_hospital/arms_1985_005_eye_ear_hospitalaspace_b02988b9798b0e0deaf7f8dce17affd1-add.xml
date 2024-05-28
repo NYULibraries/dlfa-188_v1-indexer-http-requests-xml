@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_1985_005_eye_ear_hospitalaspace_b02988b9798b0e0deaf7f8dce17affd1</field>
+    <field name="ead_ssi">arms_1985_005_eye_ear_hospital</field>
+    <field name="parent_ssi">aspace_ref9_glj</field>
+    <field name="parent_ssm">aspace_ref9_glj</field>
+    <field name="parent_unittitles_ssm">Series 2: Medical Staff</field>
+    <field name="parent_unittitles_teim">Series 2: Medical Staff</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn Eye and Ear Hospital records</field>
+    <field name="collection_ssm">Brooklyn Eye and Ear Hospital records</field>
+    <field name="collection_unitid_ssm">1985.005</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Committee on Infections</field>
+    <field name="unittitle_teim">Committee on Infections</field>
+    <field name="unitdate_normal_ssm">1964/1974</field>
+    <field name="unitdate_normal_teim">1964/1974</field>
+    <field name="unitdate_normal_sim">1964/1974</field>
+    <field name="unitdate_inclusive_teim">1964-1974</field>
+    <field name="ref_ssi">aspace_b02988b9798b0e0deaf7f8dce17affd1</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1985.005 10 of 10</field>
+    <field name="location_si">Box: 1985.005 10 of 10</field>
+    <field name="collection_teim">Brooklyn Eye and Ear Hospital records</field>
+    <field name="collection_unitid_teim">1985.005</field>
+    <field name="series_sim">Series 2: Medical Staff</field>
+    <field name="series_si">Series 2: Medical Staff &gt;&gt; Committee on Infections</field>
+    <field name="heading_ssm">Committee on Infections</field>
+    <field name="unitdate_start_sim">1964</field>
+    <field name="unitdate_start_ssm">1964</field>
+    <field name="unitdate_start_si">1964</field>
+    <field name="unitdate_end_sim">1974</field>
+    <field name="unitdate_end_ssm">1974</field>
+    <field name="unitdate_end_si">1974</field>
+    <field name="unitdate_ssm">Inclusive, 1964-1974</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

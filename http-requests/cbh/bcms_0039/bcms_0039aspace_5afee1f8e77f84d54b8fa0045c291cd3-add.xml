@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">bcms_0039aspace_5afee1f8e77f84d54b8fa0045c291cd3</field>
+    <field name="ead_ssi">bcms_0039</field>
+    <field name="parent_ssi">aspace_983d0d7a2ecbf71a6df83febab3b7978</field>
+    <field name="parent_ssm">aspace_983d0d7a2ecbf71a6df83febab3b7978</field>
+    <field name="parent_unittitles_ssm">Series 8: Subject files</field>
+    <field name="parent_unittitles_teim">Series 8: Subject files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_ssm">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_ssm">BCMS.0039</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Day Care: Publications</field>
+    <field name="unittitle_teim">Day Care: Publications</field>
+    <field name="ref_ssi">aspace_5afee1f8e77f84d54b8fa0045c291cd3</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 56, Folder: 8.1.045</field>
+    <field name="location_ssm">Folder: 8.1.045</field>
+    <field name="location_si">Folder: 8.1.045</field>
+    <field name="collection_teim">Records of the Brooklyn Council for Social Planning</field>
+    <field name="collection_unitid_teim">BCMS.0039</field>
+    <field name="series_sim">Series 8: Subject files</field>
+    <field name="series_si">Series 8: Subject files &gt;&gt; Day Care: Publications</field>
+    <field name="heading_ssm">Day Care: Publications</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">941</field>
+  </doc>
+</add>

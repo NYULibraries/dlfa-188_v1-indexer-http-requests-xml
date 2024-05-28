@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arc_145_lefferts_familyaspace_ref222_hhr</field>
+    <field name="ead_ssi">arc_145_lefferts_family</field>
+    <field name="parent_ssi">aspace_ref88_l5a</field>
+    <field name="parent_ssm">aspace_ref88_l5a</field>
+    <field name="parent_unittitles_ssm">Series 8: Books and Scrapbooks</field>
+    <field name="parent_unittitles_teim">Series 8: Books and Scrapbooks</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Lefferts family papers</field>
+    <field name="collection_ssm">Lefferts family papers</field>
+    <field name="collection_unitid_ssm">ARC.145</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Housekeeping in old Virginia: Containing contributions from two hundred and fifty ladies in Virginia&lt;/em&gt;, Ed. Marion Cabell Tyree (pages missing)</field>
+    <field name="unittitle_teim">Housekeeping in old Virginia: Containing contributions from two hundred and fifty ladies in Virginia, Ed. Marion Cabell Tyree (pages missing)</field>
+    <field name="unitdate_normal_ssm">1879/1879</field>
+    <field name="unitdate_normal_teim">1879/1879</field>
+    <field name="unitdate_normal_sim">1879/1879</field>
+    <field name="unitdate_inclusive_teim">1879</field>
+    <field name="title_teim">Housekeeping in old Virginia: Containing contributions from two hundred and fifty ladies in Virginia</field>
+    <field name="title_ssm">Housekeeping in old Virginia: Containing contributions from two hundred and fifty ladies in Virginia</field>
+    <field name="ref_ssi">aspace_ref222_hhr</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, item: 12</field>
+    <field name="location_ssm">item: 12</field>
+    <field name="location_si">item: 12</field>
+    <field name="collection_teim">Lefferts family papers</field>
+    <field name="collection_unitid_teim">ARC.145</field>
+    <field name="series_sim">Series 8: Books and Scrapbooks</field>
+    <field name="series_si">Series 8: Books and Scrapbooks &gt;&gt; &lt;em&gt;Housekeeping in old Virginia: Containing contributions from two hundred and fifty ladies in Virginia&lt;/em&gt;, Ed. Marion Cabell Tyree (pages missing)</field>
+    <field name="heading_ssm">Housekeeping in old Virginia: Containing contributions from two hundred and fifty ladies in Virginia, Ed. Marion Cabell Tyree (pages missing)</field>
+    <field name="unitdate_start_sim">1879</field>
+    <field name="unitdate_start_ssm">1879</field>
+    <field name="unitdate_start_si">1879</field>
+    <field name="unitdate_end_sim">1879</field>
+    <field name="unitdate_end_ssm">1879</field>
+    <field name="unitdate_end_si">1879</field>
+    <field name="unitdate_ssm">Inclusive, 1879</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">164</field>
+  </doc>
+</add>

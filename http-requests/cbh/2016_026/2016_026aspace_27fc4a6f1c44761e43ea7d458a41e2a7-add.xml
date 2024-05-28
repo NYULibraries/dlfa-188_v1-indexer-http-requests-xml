@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">2016_026aspace_27fc4a6f1c44761e43ea7d458a41e2a7</field>
+    <field name="ead_ssi">2016_026</field>
+    <field name="parent_ssi">aspace_b3c882714e15ec4327b4fd12f9228a11</field>
+    <field name="parent_ssm">aspace_b3c882714e15ec4327b4fd12f9228a11</field>
+    <field name="parent_unittitles_ssm">Series 5: Subject Files</field>
+    <field name="parent_unittitles_teim">Series 5: Subject Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Brooklyn For Peace records</field>
+    <field name="collection_ssm">Brooklyn For Peace records</field>
+    <field name="collection_unitid_ssm">2016.026</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Israeli School Books DVD</field>
+    <field name="unittitle_teim">Israeli School Books DVD</field>
+    <field name="unitdate_normal_ssm">1983/2018</field>
+    <field name="unitdate_normal_teim">1983/2018</field>
+    <field name="unitdate_normal_sim">1983/2018</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_27fc4a6f1c44761e43ea7d458a41e2a7</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 42</field>
+    <field name="location_si">Box: 42</field>
+    <field name="collection_teim">Brooklyn For Peace records</field>
+    <field name="collection_unitid_teim">2016.026</field>
+    <field name="series_sim">Series 5: Subject Files</field>
+    <field name="series_si">Series 5: Subject Files &gt;&gt; Israeli School Books DVD</field>
+    <field name="heading_ssm">Israeli School Books DVD</field>
+    <field name="unitdate_start_sim">1983</field>
+    <field name="unitdate_start_ssm">1983</field>
+    <field name="unitdate_start_si">1983</field>
+    <field name="unitdate_end_sim">2018</field>
+    <field name="unitdate_end_ssm">2018</field>
+    <field name="unitdate_end_si">2018</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">573</field>
+  </doc>
+</add>

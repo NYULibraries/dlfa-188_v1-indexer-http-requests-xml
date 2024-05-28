@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Matthew Gorham</field>
+    <field name="author_ssm">Matthew Gorham</field>
+    <field name="unittitle_teim">John Moore title abstract</field>
+    <field name="unittitle_ssm">John Moore title abstract</field>
+    <field name="unitid_teim">1973.220</field>
+    <field name="unitid_ssm">1973.220</field>
+    <field name="abstract_teim">Title abstract for a parcel of land owned by John Moore, located on Joralemon Street between Clinton and Court Streets in the Brooklyn Heights neighborhood of Brooklyn, dated 1887.</field>
+    <field name="abstract_ssm">Title abstract for a parcel of land owned by John Moore, located on Joralemon Street between Clinton and Court Streets in the Brooklyn Heights neighborhood of Brooklyn, dated 1887.</field>
+    <field name="unitdate_normal_ssm">1887/1887</field>
+    <field name="unitdate_normal_teim">1887/1887</field>
+    <field name="unitdate_normal_sim">1887/1887</field>
+    <field name="unitdate_inclusive_teim">1887</field>
+    <field name="acqinfo_teim">Gift of Mrs. Horace Gould, 1960.</field>
+    <field name="corpname_teim">Brooklyn Historical Society</field>
+    <field name="corpname_ssm">Brooklyn Historical Society</field>
+    <field name="genreform_teim">Land titles |z New York (State) |z Kings County</field>
+    <field name="genreform_teim">Abstracts (summaries)</field>
+    <field name="genreform_ssm">Land titles |z New York (State) |z Kings County</field>
+    <field name="genreform_ssm">Abstracts (summaries)</field>
+    <field name="geogname_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_teim">Brooklyn Heights (New York, N.Y.)</field>
+    <field name="geogname_teim">Joralemon Street (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="geogname_ssm">Brooklyn Heights (New York, N.Y.)</field>
+    <field name="geogname_ssm">Joralemon Street (New York, N.Y.)</field>
+    <field name="subject_teim">Real property |z New York (State) |z Kings County</field>
+    <field name="subject_teim">Real property -- New York (State) -- Kings County</field>
+    <field name="subject_ssm">Real property |z New York (State) |z Kings County</field>
+    <field name="collection_sim">John Moore title abstract</field>
+    <field name="collection_ssm">John Moore title abstract</field>
+    <field name="collection_teim">John Moore title abstract</field>
+    <field name="id">arms_1973_220_john_moore</field>
+    <field name="ead_ssi">arms_1973_220_john_moore</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="place_sim">Brooklyn (New York, N.Y.)</field>
+    <field name="place_sim">Brooklyn Heights (New York, N.Y.)</field>
+    <field name="place_sim">Joralemon Street (New York, N.Y.)</field>
+    <field name="subject_sim">Real property -- New York (State) -- Kings County</field>
+    <field name="material_type_sim">Land titles -- New York (State) -- Kings County</field>
+    <field name="material_type_sim">Abstracts (summaries)</field>
+    <field name="material_type_ssm">Land titles -- New York (State) -- Kings County</field>
+    <field name="material_type_ssm">Abstracts (summaries)</field>
+    <field name="heading_ssm">John Moore title abstract</field>
+    <field name="unitdate_start_sim">1887</field>
+    <field name="unitdate_start_ssm">1887</field>
+    <field name="unitdate_start_si">1887</field>
+    <field name="unitdate_end_sim">1887</field>
+    <field name="unitdate_end_ssm">1887</field>
+    <field name="unitdate_end_si">1887</field>
+    <field name="unitdate_ssm">Inclusive, 1887</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

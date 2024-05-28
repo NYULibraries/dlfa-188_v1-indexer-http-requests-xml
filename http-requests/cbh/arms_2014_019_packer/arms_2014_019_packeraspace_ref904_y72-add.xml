@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2014_019_packeraspace_ref904_y72</field>
+    <field name="ead_ssi">arms_2014_019_packer</field>
+    <field name="parent_ssi">aspace_ref870_trr</field>
+    <field name="parent_ssm">aspace_ref870_trr</field>
+    <field name="parent_unittitles_ssm">Series 5: Faculty records and papers</field>
+    <field name="parent_unittitles_teim">Series 5: Faculty records and papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Packer Collegiate Institute records</field>
+    <field name="collection_ssm">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_ssm">2014.019</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Sub-series 5.2: Development Office Faculty files</field>
+    <field name="unittitle_teim">Sub-series 5.2: Development Office Faculty files</field>
+    <field name="unitdate_normal_ssm">1840/2007</field>
+    <field name="unitdate_normal_teim">1840/2007</field>
+    <field name="unitdate_normal_sim">1840/2007</field>
+    <field name="unitdate_inclusive_teim">circa 1840s-2007</field>
+    <field name="scopecontent_teim">This sub-series contains files on individual faculty members, as well as faculty events and clubs, which were collected by Packer's Development Office. The dates of the material range from circa 1840s to 2007. An incomplete finding aid that includes dates through 2006 for faculty members containing name, subject taught, and date of death can be found at the beginning of the sub-series.</field>
+    <field name="scopecontent_teim">Included in this series are correspondences between faculty members; the writings of faculty members; newspaper clippings; personal letters and obituaries. The majority of faculty files are composed of information questionnaires and/or the initial employment applications. Individual faculty files of particular interest are Caroline Chesebrough, a 19th century writer; Bruce Tulloch, former Director of the Upper school; Eleanor Bannister, class of 1875 and distinguished artist who painted many portraits of Packer notables; Alex Bernstein, son of Leonard Bernstein; and Stephen Koplowitz, professional dancer/choreographer and director of Packer's dance program from 1984 onward.</field>
+    <field name="ref_ssi">aspace_ref904_y72</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Packer Collegiate Institute records</field>
+    <field name="collection_unitid_teim">2014.019</field>
+    <field name="series_sim">Series 5: Faculty records and papers</field>
+    <field name="series_si">Series 5: Faculty records and papers &gt;&gt; Sub-series 5.2: Development Office Faculty files</field>
+    <field name="heading_ssm">Sub-series 5.2: Development Office Faculty files</field>
+    <field name="unitdate_start_sim">1840</field>
+    <field name="unitdate_start_ssm">1840</field>
+    <field name="unitdate_start_si">1840</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, circa 1840s-2007</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">866</field>
+  </doc>
+</add>

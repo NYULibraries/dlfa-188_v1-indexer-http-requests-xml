@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">arms_2009_011_lapcaspace_ref40_o8k</field>
+    <field name="ead_ssi">arms_2009_011_lapc</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_ssm">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_unitid_ssm">2009.011</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series 7: Session, Board of Trustees, and financial records</field>
+    <field name="unittitle_teim">Series 7: Session, Board of Trustees, and financial records</field>
+    <field name="unitdate_normal_ssm">1854/1995</field>
+    <field name="unitdate_normal_teim">1854/1995</field>
+    <field name="unitdate_normal_sim">1854/1995</field>
+    <field name="unitdate_inclusive_teim">1854-1995</field>
+    <field name="scopecontent_teim">The series contains records of the LAPC Session, in addition to financial records and files relating to the LAPC Board of Trustees, dating from 1854 to 1995.</field>
+    <field name="scopecontent_teim">It contains annual reports dating from 1879-1920, in the form of manuscripts (handwritten), typescripts, and published booklets.</field>
+    <field name="scopecontent_teim">Financial records are primarily composed of Treasurer's reports and account books, dating from 1854 to 1915. Financial records dating from after 1915 have been retained by LAPC.</field>
+    <field name="scopecontent_teim">The series includes a two folders of letters sent to and from the Session and the Board of Trustees, dating from 1879 to 1953.</field>
+    <field name="scopecontent_teim">Finally, the series contains a small set of Session adminstrative files, primarily concerning Session committees, dating from 1990 to 1995. Related files can be found in Sub-series 5.7: Rev. Jeffrey A. Vamos (Interim Pastor).</field>
+    <field name="ref_ssi">aspace_ref40_o8k</field>
+    <field name="repository_ssi">cbh</field>
+    <field name="repository_sim">cbh</field>
+    <field name="repository_ssm">cbh</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lafayette Avenue Presbyterian Church records</field>
+    <field name="collection_unitid_teim">2009.011</field>
+    <field name="series_si">Series 7: Session, Board of Trustees, and financial records</field>
+    <field name="heading_ssm">Series 7: Session, Board of Trustees, and financial records</field>
+    <field name="unitdate_start_sim">1854</field>
+    <field name="unitdate_start_ssm">1854</field>
+    <field name="unitdate_start_si">1854</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, 1854-1995</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">203</field>
+  </doc>
+</add>
