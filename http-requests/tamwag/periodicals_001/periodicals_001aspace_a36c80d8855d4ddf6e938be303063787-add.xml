@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_a36c80d8855d4ddf6e938be303063787</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Woodhull &amp;amp; Claflin's Weekly&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Victoria C. Woodhull &amp;amp; Tennie C. Claflin</field>
+    <field name="unittitle_teim">Woodhull &amp; Claflin's Weekly
+
+Place of publication: New York , N.Y. 
+
+Publisher: Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+    <field name="unitdate_normal_ssm">1873/1873</field>
+    <field name="unitdate_normal_teim">1873/1873</field>
+    <field name="unitdate_normal_sim">1873/1873</field>
+    <field name="unitdate_inclusive_teim">1873</field>
+    <field name="phystech_teim">Researchers must use microfilm (Film R-7793)</field>
+    <field name="corpname_teim">Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+    <field name="corpname_ssm">Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+    <field name="title_teim">Woodhull &amp; Claflin's Weekly</field>
+    <field name="title_ssm">Woodhull &amp; Claflin's Weekly</field>
+    <field name="ref_ssi">aspace_a36c80d8855d4ddf6e938be303063787</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 476</field>
+    <field name="location_si">Box: 476</field>
+    <field name="name_sim">Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+    <field name="name_teim">Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Woodhull &amp;amp; Claflin's Weekly&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Victoria C. Woodhull &amp;amp; Tennie C. Claflin</field>
+    <field name="heading_ssm">Woodhull &amp; Claflin's Weekly
+
+Place of publication: New York , N.Y. 
+
+Publisher: Victoria C. Woodhull &amp; Tennie C. Claflin</field>
+    <field name="unitdate_start_sim">1873</field>
+    <field name="unitdate_start_ssm">1873</field>
+    <field name="unitdate_start_si">1873</field>
+    <field name="unitdate_end_sim">1873</field>
+    <field name="unitdate_end_ssm">1873</field>
+    <field name="unitdate_end_si">1873</field>
+    <field name="unitdate_ssm">Inclusive, 1873</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">498</field>
+  </doc>
+</add>

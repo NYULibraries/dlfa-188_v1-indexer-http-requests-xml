@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_04b824e4f0144b54d29be6f6fc84fde1</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Proletären&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Göteborg, Sweden 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: KPML(r)</field>
+    <field name="unittitle_teim">Proletären
+
+Place of publication: Göteborg, Sweden 
+
+Publisher: KPML(r)</field>
+    <field name="unitdate_normal_ssm">1997/1997</field>
+    <field name="unitdate_normal_teim">1997/1997</field>
+    <field name="unitdate_normal_sim">1997/1997</field>
+    <field name="unitdate_inclusive_teim">1997</field>
+    <field name="corpname_teim">KPML(r)</field>
+    <field name="corpname_ssm">KPML(r)</field>
+    <field name="title_teim">Proletären</field>
+    <field name="title_ssm">Proletären</field>
+    <field name="ref_ssi">aspace_04b824e4f0144b54d29be6f6fc84fde1</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 340</field>
+    <field name="location_si">Box: 340</field>
+    <field name="name_sim">KPML(r)</field>
+    <field name="name_teim">KPML(r)</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Proletären&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Göteborg, Sweden 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: KPML(r)</field>
+    <field name="heading_ssm">Proletären
+
+Place of publication: Göteborg, Sweden 
+
+Publisher: KPML(r)</field>
+    <field name="unitdate_start_sim">1997</field>
+    <field name="unitdate_start_ssm">1997</field>
+    <field name="unitdate_start_si">1997</field>
+    <field name="unitdate_end_sim">1997</field>
+    <field name="unitdate_end_ssm">1997</field>
+    <field name="unitdate_end_si">1997</field>
+    <field name="unitdate_ssm">Inclusive, 1997</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">358</field>
+  </doc>
+</add>

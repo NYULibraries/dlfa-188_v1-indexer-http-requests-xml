@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_47f363f10c1c39ee99bcba95f721604a</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Inner City Voice&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Detroit , Mich. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: League of Revolutionary Black Workers</field>
+    <field name="unittitle_teim">Inner City Voice
+
+Place of publication: Detroit , Mich. 
+
+Publisher: League of Revolutionary Black Workers</field>
+    <field name="unitdate_normal_ssm">1967/1971</field>
+    <field name="unitdate_normal_teim">1967/1971</field>
+    <field name="unitdate_normal_sim">1967/1971</field>
+    <field name="unitdate_inclusive_teim">1967-1971</field>
+    <field name="corpname_teim">League of Revolutionary Black Workers</field>
+    <field name="corpname_ssm">League of Revolutionary Black Workers</field>
+    <field name="title_teim">Inner City Voice</field>
+    <field name="title_ssm">Inner City Voice</field>
+    <field name="ref_ssi">aspace_47f363f10c1c39ee99bcba95f721604a</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 201</field>
+    <field name="location_si">Box: 201</field>
+    <field name="name_sim">League of Revolutionary Black Workers</field>
+    <field name="name_teim">League of Revolutionary Black Workers</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Inner City Voice&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Detroit , Mich. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: League of Revolutionary Black Workers</field>
+    <field name="heading_ssm">Inner City Voice
+
+Place of publication: Detroit , Mich. 
+
+Publisher: League of Revolutionary Black Workers</field>
+    <field name="unitdate_start_sim">1967</field>
+    <field name="unitdate_start_ssm">1967</field>
+    <field name="unitdate_start_si">1967</field>
+    <field name="unitdate_end_sim">1971</field>
+    <field name="unitdate_end_ssm">1971</field>
+    <field name="unitdate_end_si">1971</field>
+    <field name="unitdate_ssm">Inclusive, 1967-1971</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">211</field>
+  </doc>
+</add>

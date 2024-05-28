@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_481ce49137918ab777011bd852d32473</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Graphic Communicator&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Washington , D.C. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Graphic Communications Union</field>
+    <field name="unittitle_teim">Graphic Communicator
+
+Place of publication: Washington , D.C. 
+
+Publisher: Graphic Communications Union</field>
+    <field name="unitdate_normal_ssm">1983/2013</field>
+    <field name="unitdate_normal_teim">1983/2013</field>
+    <field name="unitdate_normal_sim">1983/2013</field>
+    <field name="unitdate_inclusive_teim">1983-2013</field>
+    <field name="corpname_teim">Graphic Communications Union</field>
+    <field name="corpname_ssm">Graphic Communications Union</field>
+    <field name="title_teim">Graphic Communicator</field>
+    <field name="title_ssm">Graphic Communicator</field>
+    <field name="ref_ssi">aspace_481ce49137918ab777011bd852d32473</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 172-173</field>
+    <field name="location_si">Box: 172-173</field>
+    <field name="name_sim">Graphic Communications Union</field>
+    <field name="name_teim">Graphic Communications Union</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Graphic Communicator&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Washington , D.C. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Graphic Communications Union</field>
+    <field name="heading_ssm">Graphic Communicator
+
+Place of publication: Washington , D.C. 
+
+Publisher: Graphic Communications Union</field>
+    <field name="unitdate_start_sim">1983</field>
+    <field name="unitdate_start_ssm">1983</field>
+    <field name="unitdate_start_si">1983</field>
+    <field name="unitdate_end_sim">2013</field>
+    <field name="unitdate_end_ssm">2013</field>
+    <field name="unitdate_end_si">2013</field>
+    <field name="unitdate_ssm">Inclusive, 1983-2013</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">175</field>
+  </doc>
+</add>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_cbc528173707faf154f5403fab88aa0d</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Rock Creek Free Press&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Washington , D.C.
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: M. Sullivan</field>
+    <field name="unittitle_teim">Rock Creek Free Press
+
+Place of publication: Washington , D.C.
+
+Publisher: M. Sullivan</field>
+    <field name="unitdate_normal_ssm">2007/2011</field>
+    <field name="unitdate_normal_teim">2007/2011</field>
+    <field name="unitdate_normal_sim">2007/2011</field>
+    <field name="unitdate_inclusive_teim">2007-2011</field>
+    <field name="corpname_teim">M. Sullivan</field>
+    <field name="corpname_ssm">M. Sullivan</field>
+    <field name="title_teim">Rock Creek Free Press</field>
+    <field name="title_ssm">Rock Creek Free Press</field>
+    <field name="ref_ssi">aspace_cbc528173707faf154f5403fab88aa0d</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 371</field>
+    <field name="location_si">Box: 371</field>
+    <field name="name_sim">M. Sullivan</field>
+    <field name="name_teim">M. Sullivan</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Rock Creek Free Press&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Washington , D.C.
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: M. Sullivan</field>
+    <field name="heading_ssm">Rock Creek Free Press
+
+Place of publication: Washington , D.C.
+
+Publisher: M. Sullivan</field>
+    <field name="unitdate_start_sim">2007</field>
+    <field name="unitdate_start_ssm">2007</field>
+    <field name="unitdate_start_si">2007</field>
+    <field name="unitdate_end_sim">2011</field>
+    <field name="unitdate_end_ssm">2011</field>
+    <field name="unitdate_end_si">2011</field>
+    <field name="unitdate_ssm">Inclusive, 2007-2011</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">390</field>
+  </doc>
+</add>

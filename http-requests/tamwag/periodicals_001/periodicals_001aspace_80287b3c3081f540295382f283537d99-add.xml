@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_80287b3c3081f540295382f283537d99</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Reporter&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Legislative Conference of the City University of New York</field>
+    <field name="unittitle_teim">Reporter
+
+Place of publication: New York , N.Y. 
+
+Publisher: Legislative Conference of the City University of New York</field>
+    <field name="unitdate_normal_ssm">1971/1971</field>
+    <field name="unitdate_normal_teim">1971/1971</field>
+    <field name="unitdate_normal_sim">1971/1971</field>
+    <field name="unitdate_inclusive_teim">1971</field>
+    <field name="corpname_teim">Legislative Conference of the City University of New York</field>
+    <field name="corpname_ssm">Legislative Conference of the City University of New York</field>
+    <field name="title_teim">Reporter</field>
+    <field name="title_ssm">Reporter</field>
+    <field name="ref_ssi">aspace_80287b3c3081f540295382f283537d99</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 487</field>
+    <field name="location_si">Box: 487</field>
+    <field name="name_sim">Legislative Conference of the City University of New York</field>
+    <field name="name_teim">Legislative Conference of the City University of New York</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Reporter&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Legislative Conference of the City University of New York</field>
+    <field name="heading_ssm">Reporter
+
+Place of publication: New York , N.Y. 
+
+Publisher: Legislative Conference of the City University of New York</field>
+    <field name="unitdate_start_sim">1971</field>
+    <field name="unitdate_start_ssm">1971</field>
+    <field name="unitdate_start_si">1971</field>
+    <field name="unitdate_end_sim">1971</field>
+    <field name="unitdate_end_ssm">1971</field>
+    <field name="unitdate_end_si">1971</field>
+    <field name="unitdate_ssm">Inclusive, 1971</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">380</field>
+  </doc>
+</add>

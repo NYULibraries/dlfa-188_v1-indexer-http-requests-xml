@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_e59c8096aeae82e1f4ce67872b96be6c</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Guild Teacher&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: New York Teachers Guild</field>
+    <field name="unittitle_teim">Guild Teacher
+
+Place of publication: New York , N.Y. 
+
+Publisher: New York Teachers Guild</field>
+    <field name="unitdate_normal_ssm">1936/1942</field>
+    <field name="unitdate_normal_teim">1936/1942</field>
+    <field name="unitdate_normal_sim">1936/1942</field>
+    <field name="unitdate_inclusive_teim">1936-1942</field>
+    <field name="corpname_teim">New York Teachers Guild</field>
+    <field name="corpname_ssm">New York Teachers Guild</field>
+    <field name="title_teim">Guild Teacher</field>
+    <field name="title_ssm">Guild Teacher</field>
+    <field name="ref_ssi">aspace_e59c8096aeae82e1f4ce67872b96be6c</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 65</field>
+    <field name="location_si">Box: 65</field>
+    <field name="name_sim">New York Teachers Guild</field>
+    <field name="name_teim">New York Teachers Guild</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Guild Teacher&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: New York Teachers Guild</field>
+    <field name="heading_ssm">Guild Teacher
+
+Place of publication: New York , N.Y. 
+
+Publisher: New York Teachers Guild</field>
+    <field name="unitdate_start_sim">1936</field>
+    <field name="unitdate_start_ssm">1936</field>
+    <field name="unitdate_start_si">1936</field>
+    <field name="unitdate_end_sim">1942</field>
+    <field name="unitdate_end_ssm">1942</field>
+    <field name="unitdate_end_si">1942</field>
+    <field name="unitdate_ssm">Inclusive, 1936-1942</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">187</field>
+  </doc>
+</add>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_450d13f0489a50c35d809fd5328d69ee</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Turning the Tide&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Culver City , Calif. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Anti-Racist Action Publishers</field>
+    <field name="unittitle_teim">Turning the Tide
+
+Place of publication: Culver City , Calif. 
+
+Publisher: Anti-Racist Action Publishers</field>
+    <field name="unitdate_normal_ssm">2001/2007</field>
+    <field name="unitdate_normal_teim">2001/2007</field>
+    <field name="unitdate_normal_sim">2001/2007</field>
+    <field name="unitdate_inclusive_teim">2001-2007</field>
+    <field name="corpname_teim">Anti-Racist Action Publishers</field>
+    <field name="corpname_ssm">Anti-Racist Action Publishers</field>
+    <field name="title_teim">Turning the Tide</field>
+    <field name="title_ssm">Turning the Tide</field>
+    <field name="ref_ssi">aspace_450d13f0489a50c35d809fd5328d69ee</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 357A</field>
+    <field name="location_si">Box: 357A</field>
+    <field name="name_sim">Anti-Racist Action Publishers</field>
+    <field name="name_teim">Anti-Racist Action Publishers</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Turning the Tide&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Culver City , Calif. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Anti-Racist Action Publishers</field>
+    <field name="heading_ssm">Turning the Tide
+
+Place of publication: Culver City , Calif. 
+
+Publisher: Anti-Racist Action Publishers</field>
+    <field name="unitdate_start_sim">2001</field>
+    <field name="unitdate_start_ssm">2001</field>
+    <field name="unitdate_start_si">2001</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, 2001-2007</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">458</field>
+  </doc>
+</add>

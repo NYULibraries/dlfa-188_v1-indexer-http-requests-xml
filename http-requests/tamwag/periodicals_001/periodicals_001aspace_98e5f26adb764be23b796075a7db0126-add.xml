@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_98e5f26adb764be23b796075a7db0126</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Special Weapon&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Albuquerque , N.M. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Special Weapon</field>
+    <field name="unittitle_teim">Special Weapon
+
+Place of publication: Albuquerque , N.M. 
+
+Publisher: Special Weapon</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="corpname_teim">Special Weapon</field>
+    <field name="corpname_ssm">Special Weapon</field>
+    <field name="title_teim">Special Weapon</field>
+    <field name="title_ssm">Special Weapon</field>
+    <field name="ref_ssi">aspace_98e5f26adb764be23b796075a7db0126</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 164</field>
+    <field name="location_si">Box: 164</field>
+    <field name="name_sim">Special Weapon</field>
+    <field name="name_teim">Special Weapon</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Special Weapon&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Albuquerque , N.M. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Special Weapon</field>
+    <field name="heading_ssm">Special Weapon
+
+Place of publication: Albuquerque , N.M. 
+
+Publisher: Special Weapon</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">419</field>
+  </doc>
+</add>

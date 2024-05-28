@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_3b5f7c7953a9a56dc4506d2ec5a0122e</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Kultur&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Chicago , Ill.</field>
+    <field name="unittitle_teim">Kultur
+
+Place of publication: Chicago , Ill.</field>
+    <field name="unitdate_normal_ssm">1925/1926</field>
+    <field name="unitdate_normal_teim">1925/1926</field>
+    <field name="unitdate_normal_sim">1925/1926</field>
+    <field name="unitdate_inclusive_teim">1925-1926</field>
+    <field name="title_teim">Kultur</field>
+    <field name="title_ssm">Kultur</field>
+    <field name="ref_ssi">aspace_3b5f7c7953a9a56dc4506d2ec5a0122e</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 214A</field>
+    <field name="location_si">Box: 214A</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Kultur&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Chicago , Ill.</field>
+    <field name="heading_ssm">Kultur
+
+Place of publication: Chicago , Ill.</field>
+    <field name="unitdate_start_sim">1925</field>
+    <field name="unitdate_start_ssm">1925</field>
+    <field name="unitdate_start_si">1925</field>
+    <field name="unitdate_end_sim">1926</field>
+    <field name="unitdate_end_ssm">1926</field>
+    <field name="unitdate_end_si">1926</field>
+    <field name="unitdate_ssm">Inclusive, 1925-1926</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">232</field>
+  </doc>
+</add>

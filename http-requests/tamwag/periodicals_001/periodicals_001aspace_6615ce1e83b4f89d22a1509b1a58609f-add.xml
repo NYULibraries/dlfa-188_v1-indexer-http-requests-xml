@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_6615ce1e83b4f89d22a1509b1a58609f</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Brooklyn Heights Press&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Brooklyn , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Brooklyn Heights Press</field>
+    <field name="unittitle_teim">Brooklyn Heights Press
+
+Place of publication: Brooklyn , N.Y. 
+
+Publisher: Brooklyn Heights Press</field>
+    <field name="unitdate_normal_ssm">1957/1957</field>
+    <field name="unitdate_normal_teim">1957/1957</field>
+    <field name="unitdate_normal_sim">1957/1957</field>
+    <field name="unitdate_inclusive_teim">1957</field>
+    <field name="corpname_teim">Brooklyn Heights Press</field>
+    <field name="corpname_ssm">Brooklyn Heights Press</field>
+    <field name="title_teim">Brooklyn Heights Press</field>
+    <field name="title_ssm">Brooklyn Heights Press</field>
+    <field name="ref_ssi">aspace_6615ce1e83b4f89d22a1509b1a58609f</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 46</field>
+    <field name="location_si">Box: 46</field>
+    <field name="name_sim">Brooklyn Heights Press</field>
+    <field name="name_teim">Brooklyn Heights Press</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Brooklyn Heights Press&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Brooklyn , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Brooklyn Heights Press</field>
+    <field name="heading_ssm">Brooklyn Heights Press
+
+Place of publication: Brooklyn , N.Y. 
+
+Publisher: Brooklyn Heights Press</field>
+    <field name="unitdate_start_sim">1957</field>
+    <field name="unitdate_start_ssm">1957</field>
+    <field name="unitdate_start_si">1957</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, 1957</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">67</field>
+  </doc>
+</add>

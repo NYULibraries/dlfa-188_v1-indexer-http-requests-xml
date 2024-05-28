@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_9eafd07bb5064974155d73644feecca8</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Your Military Left&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: San Antonio , Tex. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: G.I. Anti-war</field>
+    <field name="unittitle_teim">Your Military Left
+
+Place of publication: San Antonio , Tex. 
+
+Publisher: G.I. Anti-war</field>
+    <field name="unitdate_normal_ssm">1972/1972</field>
+    <field name="unitdate_normal_teim">1972/1972</field>
+    <field name="unitdate_normal_sim">1972/1972</field>
+    <field name="unitdate_inclusive_teim">1972</field>
+    <field name="corpname_teim">G.I. Anti-war</field>
+    <field name="corpname_ssm">G.I. Anti-war</field>
+    <field name="title_teim">Your Military Left</field>
+    <field name="title_ssm">Your Military Left</field>
+    <field name="ref_ssi">aspace_9eafd07bb5064974155d73644feecca8</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 165</field>
+    <field name="location_si">Box: 165</field>
+    <field name="name_sim">G.I. Anti-war</field>
+    <field name="name_teim">G.I. Anti-war</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Your Military Left&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: San Antonio , Tex. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: G.I. Anti-war</field>
+    <field name="heading_ssm">Your Military Left
+
+Place of publication: San Antonio , Tex. 
+
+Publisher: G.I. Anti-war</field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_si">1972</field>
+    <field name="unitdate_end_sim">1972</field>
+    <field name="unitdate_end_ssm">1972</field>
+    <field name="unitdate_end_si">1972</field>
+    <field name="unitdate_ssm">Inclusive, 1972</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">522</field>
+  </doc>
+</add>

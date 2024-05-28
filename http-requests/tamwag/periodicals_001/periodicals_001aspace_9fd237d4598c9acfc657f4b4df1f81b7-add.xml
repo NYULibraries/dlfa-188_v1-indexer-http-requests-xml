@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_9fd237d4598c9acfc657f4b4df1f81b7</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;TWU Express&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Transport Workers Union of America</field>
+    <field name="unittitle_teim">TWU Express
+
+Place of publication: New York , N.Y. 
+
+Publisher: Transport Workers Union of America</field>
+    <field name="unitdate_normal_ssm">1977/2005</field>
+    <field name="unitdate_normal_teim">1977/2005</field>
+    <field name="unitdate_normal_sim">1977/2005</field>
+    <field name="unitdate_inclusive_teim">1977-2005</field>
+    <field name="corpname_teim">Transport Workers Union of America</field>
+    <field name="corpname_ssm">Transport Workers Union of America</field>
+    <field name="title_teim">TWU Express</field>
+    <field name="title_ssm">TWU Express</field>
+    <field name="ref_ssi">aspace_9fd237d4598c9acfc657f4b4df1f81b7</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 418-422</field>
+    <field name="location_si">Box: 418-422</field>
+    <field name="name_sim">Transport Workers Union of America</field>
+    <field name="name_teim">Transport Workers Union of America</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;TWU Express&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Transport Workers Union of America</field>
+    <field name="heading_ssm">TWU Express
+
+Place of publication: New York , N.Y. 
+
+Publisher: Transport Workers Union of America</field>
+    <field name="unitdate_start_sim">1977</field>
+    <field name="unitdate_start_ssm">1977</field>
+    <field name="unitdate_start_si">1977</field>
+    <field name="unitdate_end_sim">2005</field>
+    <field name="unitdate_end_ssm">2005</field>
+    <field name="unitdate_end_si">2005</field>
+    <field name="unitdate_ssm">Inclusive, 1977-2005</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">459</field>
+  </doc>
+</add>

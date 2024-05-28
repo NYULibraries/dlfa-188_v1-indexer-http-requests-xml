@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_1dadf60d01c1c5ef067c2d5eb3a02e84</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;News &amp;amp; Letters&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Chicago , Ill. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: News &amp;amp; Letters</field>
+    <field name="unittitle_teim">News &amp; Letters
+
+Place of publication: Chicago , Ill. 
+
+Publisher: News &amp; Letters</field>
+    <field name="unitdate_normal_ssm">1980/2007</field>
+    <field name="unitdate_normal_teim">1980/2007</field>
+    <field name="unitdate_normal_sim">1980/2007</field>
+    <field name="unitdate_inclusive_teim">1980-2007</field>
+    <field name="corpname_teim">News &amp; Letters</field>
+    <field name="corpname_ssm">News &amp; Letters</field>
+    <field name="title_teim">News &amp; Letters</field>
+    <field name="title_ssm">News &amp; Letters</field>
+    <field name="ref_ssi">aspace_1dadf60d01c1c5ef067c2d5eb3a02e84</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 295</field>
+    <field name="location_si">Box: 295</field>
+    <field name="name_sim">News &amp; Letters</field>
+    <field name="name_teim">News &amp; Letters</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;News &amp;amp; Letters&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: Chicago , Ill. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: News &amp;amp; Letters</field>
+    <field name="heading_ssm">News &amp; Letters
+
+Place of publication: Chicago , Ill. 
+
+Publisher: News &amp; Letters</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, 1980-2007</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">297</field>
+  </doc>
+</add>

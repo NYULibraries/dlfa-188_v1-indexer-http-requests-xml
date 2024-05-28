@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_bfd9706a8b05d51e57940af3dd0866f8</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Tax Talk&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: War Tax Resistance</field>
+    <field name="unittitle_teim">Tax Talk
+
+Place of publication: New York , N.Y. 
+
+Publisher: War Tax Resistance</field>
+    <field name="unitdate_normal_ssm">1970/1975</field>
+    <field name="unitdate_normal_teim">1970/1975</field>
+    <field name="unitdate_normal_sim">1970/1975</field>
+    <field name="unitdate_inclusive_teim">1970-1975</field>
+    <field name="corpname_teim">War Tax Resistance</field>
+    <field name="corpname_ssm">War Tax Resistance</field>
+    <field name="title_teim">Tax Talk</field>
+    <field name="title_ssm">Tax Talk</field>
+    <field name="ref_ssi">aspace_bfd9706a8b05d51e57940af3dd0866f8</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 417</field>
+    <field name="location_si">Box: 417</field>
+    <field name="name_sim">War Tax Resistance</field>
+    <field name="name_teim">War Tax Resistance</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Tax Talk&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: New York , N.Y. 
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: War Tax Resistance</field>
+    <field name="heading_ssm">Tax Talk
+
+Place of publication: New York , N.Y. 
+
+Publisher: War Tax Resistance</field>
+    <field name="unitdate_start_sim">1970</field>
+    <field name="unitdate_start_ssm">1970</field>
+    <field name="unitdate_start_si">1970</field>
+    <field name="unitdate_end_sim">1975</field>
+    <field name="unitdate_end_ssm">1975</field>
+    <field name="unitdate_end_si">1975</field>
+    <field name="unitdate_ssm">Inclusive, 1970-1975</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">433</field>
+  </doc>
+</add>

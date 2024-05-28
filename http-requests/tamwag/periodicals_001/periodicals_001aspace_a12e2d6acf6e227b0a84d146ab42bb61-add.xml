@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">periodicals_001aspace_a12e2d6acf6e227b0a84d146ab42bb61</field>
+    <field name="ead_ssi">periodicals_001</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Newspapers</field>
+    <field name="collection_ssm">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_ssm">PERIODICALS.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Asianweek&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: San Francisco , Calif.
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Asian Week Pub. Co.</field>
+    <field name="unittitle_teim">Asianweek
+
+Place of publication: San Francisco , Calif.
+
+Publisher: Asian Week Pub. Co.</field>
+    <field name="unitdate_normal_ssm">1992/1993</field>
+    <field name="unitdate_normal_teim">1992/1993</field>
+    <field name="unitdate_normal_sim">1992/1993</field>
+    <field name="unitdate_inclusive_teim">1992-1993</field>
+    <field name="corpname_teim">Asian Week Pub. Co.</field>
+    <field name="corpname_ssm">Asian Week Pub. Co.</field>
+    <field name="title_teim">Asianweek</field>
+    <field name="title_ssm">Asianweek</field>
+    <field name="ref_ssi">aspace_a12e2d6acf6e227b0a84d146ab42bb61</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 31A</field>
+    <field name="location_si">Box: 31A</field>
+    <field name="name_sim">Asian Week Pub. Co.</field>
+    <field name="name_teim">Asian Week Pub. Co.</field>
+    <field name="collection_teim">Tamiment Library Newspapers</field>
+    <field name="collection_unitid_teim">PERIODICALS.001</field>
+    <field name="series_si">&lt;em&gt;Asianweek&lt;/em&gt;
+
+&lt;strong&gt;Place of publication&lt;/strong&gt;: San Francisco , Calif.
+
+&lt;strong&gt;Publisher&lt;/strong&gt;: Asian Week Pub. Co.</field>
+    <field name="heading_ssm">Asianweek
+
+Place of publication: San Francisco , Calif.
+
+Publisher: Asian Week Pub. Co.</field>
+    <field name="unitdate_start_sim">1992</field>
+    <field name="unitdate_start_ssm">1992</field>
+    <field name="unitdate_start_si">1992</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, 1992-1993</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>
