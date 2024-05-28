@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_282aspace_ref350</field>
+    <field name="ead_ssi">alba_282</field>
+    <field name="parent_ssi">aspace_ref349</field>
+    <field name="parent_ssm">aspace_ref349</field>
+    <field name="parent_unittitles_ssm">Photo-History (Concord, NH: Modern Age Books) [See also NYU Catalogue]</field>
+    <field name="parent_unittitles_teim">Photo-History (Concord, NH: Modern Age Books) [See also NYU Catalogue]</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Abraham Lincoln Brigade Archives: Miscellaneous Periodicals Collection</field>
+    <field name="collection_ssm">Abraham Lincoln Brigade Archives: Miscellaneous Periodicals Collection</field>
+    <field name="collection_unitid_ssm">ALBA.282</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Volume I, Number I (x5)</field>
+    <field name="unittitle_teim">Volume I, Number I (x5)</field>
+    <field name="unitdate_normal_ssm">1937/1937</field>
+    <field name="unitdate_normal_teim">1937/1937</field>
+    <field name="unitdate_normal_sim">1937/1937</field>
+    <field name="unitdate_inclusive_teim">Apr 1937</field>
+    <field name="ref_ssi">aspace_ref350</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Abraham Lincoln Brigade Archives: Miscellaneous Periodicals Collection</field>
+    <field name="collection_unitid_teim">ALBA.282</field>
+    <field name="series_sim">Photo-History (Concord, NH: Modern Age Books) [See also NYU Catalogue]</field>
+    <field name="series_si">Photo-History (Concord, NH: Modern Age Books) [See also NYU Catalogue] &gt;&gt; Volume I, Number I (x5)</field>
+    <field name="heading_ssm">Volume I, Number I (x5)</field>
+    <field name="unitdate_start_sim">1937</field>
+    <field name="unitdate_start_ssm">1937</field>
+    <field name="unitdate_start_si">1937</field>
+    <field name="unitdate_end_sim">1937</field>
+    <field name="unitdate_end_ssm">1937</field>
+    <field name="unitdate_end_si">1937</field>
+    <field name="unitdate_ssm">Inclusive, Apr 1937</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">429</field>
+  </doc>
+</add>

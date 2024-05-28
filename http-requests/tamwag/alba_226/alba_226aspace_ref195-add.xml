@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_226aspace_ref195</field>
+    <field name="ead_ssi">alba_226</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series I: Julia Newman: "Into the Fire" Resources</field>
+    <field name="parent_unittitles_teim">Series I: Julia Newman: "Into the Fire" Resources</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Julia Newman "Into the Fire" Research Material</field>
+    <field name="collection_ssm">Julia Newman "Into the Fire" Research Material</field>
+    <field name="collection_unitid_ssm">ALBA.226/repositories/2/resources/209</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Archival footage: "Filmoteca Archival Part 3 of 3." 60-minute U-Matic video. (Original from Filmoteca.)
+</field>
+    <field name="unittitle_teim">Archival footage: "Filmoteca Archival Part 3 of 3." 60-minute U-Matic video. (Original from Filmoteca.)
+</field>
+    <field name="unitid_teim">cuid33284</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/27068</field>
+    <field name="unitid_ssm">cuid33284</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/27068</field>
+    <field name="unitdate_normal_ssm">2000/2000</field>
+    <field name="unitdate_normal_teim">2000/2000</field>
+    <field name="unitdate_normal_sim">2000/2000</field>
+    <field name="unitdate_inclusive_teim">Sep 29, 2000 </field>
+    <field name="ref_ssi">aspace_ref195</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Item: 226-189 </field>
+    <field name="location_ssm">Item: 226-189 </field>
+    <field name="location_si">Item: 226-189 </field>
+    <field name="collection_teim">Julia Newman "Into the Fire" Research Material</field>
+    <field name="collection_unitid_teim">ALBA.226/repositories/2/resources/209</field>
+    <field name="series_sim">Series I: Julia Newman: "Into the Fire" Resources</field>
+    <field name="series_si">Series I: Julia Newman: "Into the Fire" Resources &gt;&gt; Archival footage: "Filmoteca Archival Part 3 of 3." 60-minute U-Matic video. (Original from Filmoteca.)
+</field>
+    <field name="heading_ssm">Archival footage: "Filmoteca Archival Part 3 of 3." 60-minute U-Matic video. (Original from Filmoteca.)
+</field>
+    <field name="unitdate_start_sim">2000</field>
+    <field name="unitdate_start_ssm">2000</field>
+    <field name="unitdate_start_si">2000</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, Sep 29, 2000 </field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">191</field>
+  </doc>
+</add>

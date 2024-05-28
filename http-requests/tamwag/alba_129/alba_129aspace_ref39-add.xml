@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_129aspace_ref39</field>
+    <field name="ead_ssi">alba_129</field>
+    <field name="parent_ssi">aspace_ref38</field>
+    <field name="parent_ssm">aspace_ref38</field>
+    <field name="parent_unittitles_ssm">Series III: Unprocessed Materials</field>
+    <field name="parent_unittitles_teim">Series III: Unprocessed Materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Herman Rosenstein Papers</field>
+    <field name="collection_ssm">Herman Rosenstein Papers</field>
+    <field name="collection_unitid_ssm">ALBA.129</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Unprocessed Materials</field>
+    <field name="unittitle_teim">Unprocessed Materials</field>
+    <field name="ref_ssi">aspace_ref39</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_ssm">Box: 3</field>
+    <field name="location_si">Box: 3</field>
+    <field name="collection_teim">Herman Rosenstein Papers</field>
+    <field name="collection_unitid_teim">ALBA.129</field>
+    <field name="series_sim">Series III: Unprocessed Materials</field>
+    <field name="series_si">Series III: Unprocessed Materials &gt;&gt; Unprocessed Materials</field>
+    <field name="heading_ssm">Unprocessed Materials</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

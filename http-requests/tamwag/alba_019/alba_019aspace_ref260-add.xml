@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_019aspace_ref260</field>
+    <field name="ead_ssi">alba_019</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Veterans of the Abraham Lincoln Brigade Records</field>
+    <field name="collection_ssm">Veterans of the Abraham Lincoln Brigade Records</field>
+    <field name="collection_unitid_ssm">ALBA.019/repositories/2/resources/89</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: General Files</field>
+    <field name="unittitle_teim">Series II: General Files</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/22047</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/22047</field>
+    <field name="unitdate_normal_ssm">1940/2006</field>
+    <field name="unitdate_normal_teim">1940/2006</field>
+    <field name="unitdate_normal_sim">1940/2006</field>
+    <field name="unitdate_inclusive_teim">1940-2006</field>
+    <field name="scopecontent_teim">This series contains correspondence, subject files, writings, office files, clippings and ephemera that document the lives of individual veterans, the activities of VALB Posts, and the myriad causes and concerns of VALB membership over the years. The correspondence files, which include official VALB correspondence as well as announcements and appeals, and the office files provide an overview of the activities and concerns of the veterans from 1950-2000. Subjects with especially rich documentation include anniversary celebrations, commemorations and reunions; anti-Franco protests; political movements and political prisoners in Spain; and VALB's struggles with the House Committee on Un-American Activities (HUAC).</field>
+    <field name="scopecontent_teim">Of special note are the Alvah Bessie, Heart of Spain correspondence files (1949-1953). The correspondence predominantly relates to the publication of a VALB anthology. Bessie's letters, especially those to and from Moe Fishman, also provide rich commentary on politics and the lives of several veterans.</field>
+    <field name="scopecontent_teim">Materials added to this series in 2017 include of files from the VALB Chicago post. These files contain clippings, programs, flyers, and photos from special events organized by the Chicago post of the VALB between 1995 and 2003. They document anniversary celebrations, memorials, exhibitions, speeches, and lectures. Among these materials are articles, plays, and transcripts of speeches reflecting on the memories of veterans. Included in the Chicago Post files is binder of biographical data on volunteers from the Chicago area that contains information such as name, age, date of birth, date of departure to Spain, vocation, education, and political party affiliation. Data is recorded on one-page forms, which are arranged alphabetically by volunteer name.</field>
+    <field name="ref_ssi">aspace_ref260</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Veterans of the Abraham Lincoln Brigade Records</field>
+    <field name="collection_unitid_teim">ALBA.019/repositories/2/resources/89</field>
+    <field name="series_si">Series II: General Files</field>
+    <field name="heading_ssm">Series II: General Files</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">2006</field>
+    <field name="unitdate_end_ssm">2006</field>
+    <field name="unitdate_end_si">2006</field>
+    <field name="unitdate_ssm">Inclusive, 1940-2006</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">249</field>
+  </doc>
+</add>

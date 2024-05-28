@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_audio_216aspace_bd0483c4910e8766a1aacf823164ee2f</field>
+    <field name="ead_ssi">alba_audio_216</field>
+    <field name="parent_ssi">aspace_dacbbb1b19b7589817061beb338bedea</field>
+    <field name="parent_ssm">aspace_dacbbb1b19b7589817061beb338bedea</field>
+    <field name="parent_unittitles_ssm">Unprocessed Audiocassettes</field>
+    <field name="parent_unittitles_teim">Unprocessed Audiocassettes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Good Fight: The Abraham Lincoln Brigade in the Spanish Civil War: Audiotapes</field>
+    <field name="collection_ssm">The Good Fight: The Abraham Lincoln Brigade in the Spanish Civil War: Audiotapes</field>
+    <field name="collection_unitid_ssm">ALBA.AUDIO.216</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The Abraham Lincoln Brigade Film Project -- Cassette 1, 4, 5, 6</field>
+    <field name="unittitle_teim">The Abraham Lincoln Brigade Film Project -- Cassette 1, 4, 5, 6</field>
+    <field name="unitdate_normal_ssm">1980/1983</field>
+    <field name="unitdate_normal_teim">1980/1983</field>
+    <field name="unitdate_normal_sim">1980/1983</field>
+    <field name="unitdate_inclusive_teim">circa 1980-1983</field>
+    <field name="ref_ssi">aspace_bd0483c4910e8766a1aacf823164ee2f</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, audiocassette: 216_375, 216_386 , 216_387 , 216_388</field>
+    <field name="location_ssm">audiocassette: 216_375, 216_386 , 216_387 , 216_388</field>
+    <field name="location_si">audiocassette: 216_375, 216_386 , 216_387 , 216_388</field>
+    <field name="collection_teim">The Good Fight: The Abraham Lincoln Brigade in the Spanish Civil War: Audiotapes</field>
+    <field name="collection_unitid_teim">ALBA.AUDIO.216</field>
+    <field name="series_sim">Unprocessed Audiocassettes</field>
+    <field name="series_si">Unprocessed Audiocassettes &gt;&gt; The Abraham Lincoln Brigade Film Project -- Cassette 1, 4, 5, 6</field>
+    <field name="heading_ssm">The Abraham Lincoln Brigade Film Project -- Cassette 1, 4, 5, 6</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1983</field>
+    <field name="unitdate_end_ssm">1983</field>
+    <field name="unitdate_end_si">1983</field>
+    <field name="unitdate_ssm">Inclusive, circa 1980-1983</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">17</field>
+  </doc>
+</add>

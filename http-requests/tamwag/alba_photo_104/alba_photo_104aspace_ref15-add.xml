@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_photo_104aspace_ref15</field>
+    <field name="ead_ssi">alba_photo_104</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series I: Photographs</field>
+    <field name="parent_unittitles_teim">Series I: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Robert Steck Photographs</field>
+    <field name="collection_ssm">Robert Steck Photographs</field>
+    <field name="collection_unitid_ssm">ALBA.PHOTO.104</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I:A: Spanish Civil War</field>
+    <field name="unittitle_teim">Subseries I:A: Spanish Civil War</field>
+    <field name="ref_ssi">aspace_ref15</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Robert Steck Photographs</field>
+    <field name="collection_unitid_teim">ALBA.PHOTO.104</field>
+    <field name="series_sim">Series I: Photographs</field>
+    <field name="series_si">Series I: Photographs &gt;&gt; Subseries I:A: Spanish Civil War</field>
+    <field name="heading_ssm">Subseries I:A: Spanish Civil War</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

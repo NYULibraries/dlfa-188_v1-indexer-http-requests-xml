@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_008aspace_ref64</field>
+    <field name="ead_ssi">alba_008</field>
+    <field name="parent_ssi">aspace_ref30</field>
+    <field name="parent_ssm">aspace_ref30</field>
+    <field name="parent_unittitles_ssm">Series II: Correspondence</field>
+    <field name="parent_unittitles_teim">Series II: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Steve Nelson Papers</field>
+    <field name="collection_ssm">Steve Nelson Papers</field>
+    <field name="collection_unitid_ssm">ALBA.008</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Flynn, Elizabeth Gurley</field>
+    <field name="unittitle_teim">Flynn, Elizabeth Gurley</field>
+    <field name="unitdate_normal_ssm">1937/1991</field>
+    <field name="unitdate_normal_teim">1937/1991</field>
+    <field name="unitdate_normal_sim">1937/1991</field>
+    <field name="unitdate_inclusive_teim">undated , 1952-1963</field>
+    <field name="ref_ssi">aspace_ref64</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 50</field>
+    <field name="location_ssm">Folder: 50</field>
+    <field name="location_si">Folder: 50</field>
+    <field name="collection_teim">Steve Nelson Papers</field>
+    <field name="collection_unitid_teim">ALBA.008</field>
+    <field name="series_sim">Series II: Correspondence</field>
+    <field name="series_si">Series II: Correspondence &gt;&gt; Flynn, Elizabeth Gurley</field>
+    <field name="heading_ssm">Flynn, Elizabeth Gurley</field>
+    <field name="unitdate_start_sim">1937</field>
+    <field name="unitdate_start_ssm">1937</field>
+    <field name="unitdate_start_si">1937</field>
+    <field name="unitdate_end_sim">1991</field>
+    <field name="unitdate_end_ssm">1991</field>
+    <field name="unitdate_end_si">1991</field>
+    <field name="unitdate_ssm">Inclusive, undated , 1952-1963</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">54</field>
+  </doc>
+</add>

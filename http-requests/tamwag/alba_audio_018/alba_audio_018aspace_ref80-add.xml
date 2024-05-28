@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_audio_018aspace_ref80</field>
+    <field name="ead_ssi">alba_audio_018</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series I: Oral History Interviews</field>
+    <field name="parent_unittitles_teim">Series I: Oral History Interviews</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Gerassi Oral History Collection</field>
+    <field name="collection_ssm">John Gerassi Oral History Collection</field>
+    <field name="collection_unitid_ssm">ALBA.AUDIO.018</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Gladnick, Robert</field>
+    <field name="unittitle_teim">Gladnick, Robert</field>
+    <field name="unitid_teim">cuid9110</field>
+    <field name="unitid_ssm">cuid9110</field>
+    <field name="unitdate_normal_ssm">1980/1980</field>
+    <field name="unitdate_normal_teim">1980/1980</field>
+    <field name="unitdate_normal_sim">1980/1980</field>
+    <field name="unitdate_inclusive_teim">1980</field>
+    <field name="dao_teim">Gladnick, Robert: 1980</field>
+    <field name="dao_ssm">Gladnick, Robert: 1980</field>
+    <field name="ref_ssi">aspace_ref80</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, CD: ALBA A 18-066 C-D</field>
+    <field name="location_ssm">CD: ALBA A 18-066 C-D</field>
+    <field name="location_ssm">Box: 4, audiocassette: 18_066</field>
+    <field name="location_ssm">audiocassette: 18_066</field>
+    <field name="location_si">audiocassette: 18_066</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">John Gerassi Oral History Collection</field>
+    <field name="collection_unitid_teim">ALBA.AUDIO.018</field>
+    <field name="series_sim">Series I: Oral History Interviews</field>
+    <field name="series_si">Series I: Oral History Interviews &gt;&gt; Gladnick, Robert</field>
+    <field name="heading_ssm">Gladnick, Robert</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, 1980</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">67</field>
+  </doc>
+</add>

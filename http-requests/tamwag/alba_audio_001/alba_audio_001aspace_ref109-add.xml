@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_audio_001aspace_ref109</field>
+    <field name="ead_ssi">alba_audio_001</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Series I: Interviews, Speeches, Discussions</field>
+    <field name="parent_unittitles_teim">Series I: Interviews, Speeches, Discussions</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Veterans of the Abraham Lincoln Brigade Audio Collection</field>
+    <field name="collection_ssm">Veterans of the Abraham Lincoln Brigade Audio Collection</field>
+    <field name="collection_unitid_ssm">ALBA.AUDIO.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Sennett, William; Donald Blair MacLeod (Interview)</field>
+    <field name="unittitle_teim">Sennett, William; Donald Blair MacLeod (Interview)</field>
+    <field name="unitid_teim">cuid15200</field>
+    <field name="unitid_ssm">cuid15200</field>
+    <field name="unitdate_normal_ssm">1981/1981</field>
+    <field name="unitdate_normal_teim">1981/1981</field>
+    <field name="unitdate_normal_sim">1981/1981</field>
+    <field name="unitdate_teim">August 1981</field>
+    <field name="ref_ssi">aspace_ref109</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Cassette: 1-103</field>
+    <field name="location_ssm">Cassette: 1-103</field>
+    <field name="location_si">Cassette: 1-103</field>
+    <field name="collection_teim">Veterans of the Abraham Lincoln Brigade Audio Collection</field>
+    <field name="collection_unitid_teim">ALBA.AUDIO.001</field>
+    <field name="series_sim">Series I: Interviews, Speeches, Discussions</field>
+    <field name="series_si">Series I: Interviews, Speeches, Discussions &gt;&gt; Sennett, William; Donald Blair MacLeod (Interview)</field>
+    <field name="heading_ssm">Sennett, William; Donald Blair MacLeod (Interview)</field>
+    <field name="unitdate_start_sim">1981</field>
+    <field name="unitdate_start_ssm">1981</field>
+    <field name="unitdate_start_si">1981</field>
+    <field name="unitdate_end_sim">1981</field>
+    <field name="unitdate_end_ssm">1981</field>
+    <field name="unitdate_end_si">1981</field>
+    <field name="unitdate_ssm">August 1981</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">104</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_film_001aspace_5bc7e5c0c1aad694e62f326f2d239d7c</field>
+    <field name="ead_ssi">alba_film_001</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Videotapes</field>
+    <field name="parent_unittitles_teim">Videotapes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Abraham Lincoln Brigade Archives Films</field>
+    <field name="collection_ssm">Abraham Lincoln Brigade Archives Films</field>
+    <field name="collection_unitid_ssm">ALBA.FILM.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Pete Seeger, Abraham Lincoln Brigade event</field>
+    <field name="unittitle_teim">Pete Seeger, Abraham Lincoln Brigade event</field>
+    <field name="unitid_teim">cuid7617</field>
+    <field name="unitid_ssm">cuid7617</field>
+    <field name="unitdate_normal_ssm">2005-05-01/2005-05-01</field>
+    <field name="unitdate_normal_teim">2005-05-01/2005-05-01</field>
+    <field name="unitdate_normal_sim">2005-05-01/2005-05-01</field>
+    <field name="unitdate_teim">2005-05-01</field>
+    <field name="ref_ssi">aspace_5bc7e5c0c1aad694e62f326f2d239d7c</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Cassette: 47-49</field>
+    <field name="location_ssm">Cassette: 47-49</field>
+    <field name="location_si">Cassette: 47-49</field>
+    <field name="collection_teim">Abraham Lincoln Brigade Archives Films</field>
+    <field name="collection_unitid_teim">ALBA.FILM.001</field>
+    <field name="series_sim">Videotapes</field>
+    <field name="series_si">Videotapes &gt;&gt; Pete Seeger, Abraham Lincoln Brigade event</field>
+    <field name="heading_ssm">Pete Seeger, Abraham Lincoln Brigade event</field>
+    <field name="unitdate_ssm">2005-05-01</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">48</field>
+  </doc>
+</add>

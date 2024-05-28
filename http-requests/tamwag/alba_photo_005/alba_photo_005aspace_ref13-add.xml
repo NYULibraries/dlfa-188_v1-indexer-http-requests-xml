@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_photo_005aspace_ref13</field>
+    <field name="ead_ssi">alba_photo_005</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series I: Northwest Volunteers Research Project Photographs, ca. 1937-1991.</field>
+    <field name="parent_unittitles_teim">Series I: Northwest Volunteers Research Project Photographs, ca. 1937-1991.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Reed: Northwest Volunteers Research Project Photographs</field>
+    <field name="collection_ssm">Robert Reed: Northwest Volunteers Research Project Photographs</field>
+    <field name="collection_unitid_ssm">ALBA.PHOTO.005</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Lichter, Harry E. in groups (others unidentified)</field>
+    <field name="unittitle_teim">Lichter, Harry E. in groups (others unidentified)</field>
+    <field name="unitdate_normal_ssm">1937/1938</field>
+    <field name="unitdate_normal_teim">1937/1938</field>
+    <field name="unitdate_normal_sim">1937/1938</field>
+    <field name="unitdate_inclusive_teim">[ca. 1937-1938]</field>
+    <field name="ref_ssi">aspace_ref13</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Robert Reed: Northwest Volunteers Research Project Photographs</field>
+    <field name="collection_unitid_teim">ALBA.PHOTO.005</field>
+    <field name="series_sim">Series I: Northwest Volunteers Research Project Photographs, ca. 1937-1991.</field>
+    <field name="series_si">Series I: Northwest Volunteers Research Project Photographs, ca. 1937-1991. &gt;&gt; Lichter, Harry E. in groups (others unidentified)</field>
+    <field name="heading_ssm">Lichter, Harry E. in groups (others unidentified)</field>
+    <field name="unitdate_start_sim">1937</field>
+    <field name="unitdate_start_ssm">1937</field>
+    <field name="unitdate_start_si">1937</field>
+    <field name="unitdate_end_sim">1938</field>
+    <field name="unitdate_end_ssm">1938</field>
+    <field name="unitdate_end_si">1938</field>
+    <field name="unitdate_ssm">Inclusive, [ca. 1937-1938]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

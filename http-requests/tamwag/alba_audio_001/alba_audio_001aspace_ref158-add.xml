@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_audio_001aspace_ref158</field>
+    <field name="ead_ssi">alba_audio_001</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series II: Public Events</field>
+    <field name="parent_unittitles_teim">Series II: Public Events</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Veterans of the Abraham Lincoln Brigade Audio Collection</field>
+    <field name="collection_ssm">Veterans of the Abraham Lincoln Brigade Audio Collection</field>
+    <field name="collection_unitid_ssm">ALBA.AUDIO.001</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">VALB 50th Anniversary Dinner (Bay Area Post, Music and Dramatic Reading) [tape 2 of 2]</field>
+    <field name="unittitle_teim">VALB 50th Anniversary Dinner (Bay Area Post, Music and Dramatic Reading) [tape 2 of 2]</field>
+    <field name="unitdate_normal_ssm">1986-04-27/1986-04-27</field>
+    <field name="unitdate_normal_teim">1986-04-27/1986-04-27</field>
+    <field name="unitdate_normal_sim">1986-04-27/1986-04-27</field>
+    <field name="unitdate_teim">1986-04-27</field>
+    <field name="ref_ssi">aspace_ref158</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Cassette: 1-152</field>
+    <field name="location_ssm">Cassette: 1-152</field>
+    <field name="location_si">Cassette: 1-152</field>
+    <field name="collection_teim">Veterans of the Abraham Lincoln Brigade Audio Collection</field>
+    <field name="collection_unitid_teim">ALBA.AUDIO.001</field>
+    <field name="series_sim">Series II: Public Events</field>
+    <field name="series_si">Series II: Public Events &gt;&gt; VALB 50th Anniversary Dinner (Bay Area Post, Music and Dramatic Reading) [tape 2 of 2]</field>
+    <field name="heading_ssm">VALB 50th Anniversary Dinner (Bay Area Post, Music and Dramatic Reading) [tape 2 of 2]</field>
+    <field name="unitdate_ssm">1986-04-27</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">154</field>
+  </doc>
+</add>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_043aspace_ref44</field>
+    <field name="ead_ssi">alba_043</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I: Correspondence</field>
+    <field name="parent_unittitles_teim">Series I: Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Alice Bache Gould Correspondence</field>
+    <field name="collection_ssm">Alice Bache Gould Correspondence</field>
+    <field name="collection_unitid_ssm">ALBA.043</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence between Alice Bache Gould and Samuel Vaughn</field>
+    <field name="unittitle_teim">Correspondence between Alice Bache Gould and Samuel Vaughn</field>
+    <field name="unitdate_teim">Nov 1944</field>
+    <field name="ref_ssi">aspace_ref44</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 29</field>
+    <field name="location_ssm">Folder: 29</field>
+    <field name="location_si">Folder: 29</field>
+    <field name="collection_teim">Alice Bache Gould Correspondence</field>
+    <field name="collection_unitid_teim">ALBA.043</field>
+    <field name="series_sim">Series I: Correspondence</field>
+    <field name="series_si">Series I: Correspondence &gt;&gt; Correspondence between Alice Bache Gould and Samuel Vaughn</field>
+    <field name="heading_ssm">Correspondence between Alice Bache Gould and Samuel Vaughn</field>
+    <field name="unitdate_ssm">Nov 1944</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">30</field>
+  </doc>
+</add>

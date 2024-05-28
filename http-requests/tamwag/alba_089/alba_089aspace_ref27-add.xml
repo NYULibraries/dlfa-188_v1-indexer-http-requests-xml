@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_089aspace_ref27</field>
+    <field name="ead_ssi">alba_089</field>
+    <field name="parent_ssi">aspace_ref26</field>
+    <field name="parent_ssm">aspace_ref26</field>
+    <field name="parent_unittitles_ssm">Series II. Journals, 1939-1988</field>
+    <field name="parent_unittitles_teim">Series II. Journals, 1939-1988</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Stanley Postek Spanish Civil War Papers</field>
+    <field name="collection_ssm">Stanley Postek Spanish Civil War Papers</field>
+    <field name="collection_unitid_ssm">ALBA.089</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Postek, Stanley: Journal, "Memoirs of Spain"</field>
+    <field name="unittitle_teim">Postek, Stanley: Journal, "Memoirs of Spain"</field>
+    <field name="unitdate_normal_ssm">1964/1988</field>
+    <field name="unitdate_normal_teim">1964/1988</field>
+    <field name="unitdate_normal_sim">1964/1988</field>
+    <field name="unitdate_inclusive_teim">Mar 1939-Feb 1942 , 1964 , 1982-1988</field>
+    <field name="ref_ssi">aspace_ref27</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Stanley Postek Spanish Civil War Papers</field>
+    <field name="collection_unitid_teim">ALBA.089</field>
+    <field name="series_sim">Series II. Journals, 1939-1988</field>
+    <field name="series_si">Series II. Journals, 1939-1988 &gt;&gt; Postek, Stanley: Journal, "Memoirs of Spain"</field>
+    <field name="heading_ssm">Postek, Stanley: Journal, "Memoirs of Spain"</field>
+    <field name="unitdate_start_sim">1964</field>
+    <field name="unitdate_start_ssm">1964</field>
+    <field name="unitdate_start_si">1964</field>
+    <field name="unitdate_end_sim">1988</field>
+    <field name="unitdate_end_ssm">1988</field>
+    <field name="unitdate_end_si">1988</field>
+    <field name="unitdate_ssm">Inclusive, Mar 1939-Feb 1942 , 1964 , 1982-1988</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">13</field>
+  </doc>
+</add>

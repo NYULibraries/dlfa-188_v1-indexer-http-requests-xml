@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_film_001aspace_ref46</field>
+    <field name="ead_ssi">alba_film_001</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Videotapes</field>
+    <field name="parent_unittitles_teim">Videotapes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Abraham Lincoln Brigade Archives Films</field>
+    <field name="collection_ssm">Abraham Lincoln Brigade Archives Films</field>
+    <field name="collection_unitid_ssm">ALBA.FILM.001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">George Sossenko's Trip to Spain April '97 [VHS].</field>
+    <field name="unittitle_teim">George Sossenko's Trip to Spain April '97 [VHS].</field>
+    <field name="unitid_teim">cuid7593</field>
+    <field name="unitid_ssm">cuid7593</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref46</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Cassette: 17: [31142050279754]</field>
+    <field name="location_ssm">Cassette: 17: [31142050279754]</field>
+    <field name="location_si">Cassette: 17: [31142050279754]</field>
+    <field name="collection_teim">Abraham Lincoln Brigade Archives Films</field>
+    <field name="collection_unitid_teim">ALBA.FILM.001</field>
+    <field name="series_sim">Videotapes</field>
+    <field name="series_si">Videotapes &gt;&gt; George Sossenko's Trip to Spain April '97 [VHS].</field>
+    <field name="heading_ssm">George Sossenko's Trip to Spain April '97 [VHS].</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

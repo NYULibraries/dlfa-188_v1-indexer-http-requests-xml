@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">alba_photo_142aspace_ref35</field>
+    <field name="ead_ssi">alba_photo_142</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series I: Photographs</field>
+    <field name="parent_unittitles_teim">Series I: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Rudolph Valuch Photographs</field>
+    <field name="collection_ssm">Rudolph Valuch Photographs</field>
+    <field name="collection_unitid_ssm">ALBA.PHOTO.142</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Squadron Members: Solo Portraits (unidentified)</field>
+    <field name="unittitle_teim">Squadron Members: Solo Portraits (unidentified)</field>
+    <field name="unitdate_normal_ssm">1927/1947</field>
+    <field name="unitdate_normal_teim">1927/1947</field>
+    <field name="unitdate_normal_sim">1927/1947</field>
+    <field name="unitdate_inclusive_teim">ca.1937</field>
+    <field name="ref_ssi">aspace_ref35</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 22</field>
+    <field name="location_ssm">Folder: 22</field>
+    <field name="location_si">Folder: 22</field>
+    <field name="collection_teim">Rudolph Valuch Photographs</field>
+    <field name="collection_unitid_teim">ALBA.PHOTO.142</field>
+    <field name="series_sim">Series I: Photographs</field>
+    <field name="series_si">Series I: Photographs &gt;&gt; Squadron Members: Solo Portraits (unidentified)</field>
+    <field name="heading_ssm">Squadron Members: Solo Portraits (unidentified)</field>
+    <field name="unitdate_start_sim">1927</field>
+    <field name="unitdate_start_ssm">1927</field>
+    <field name="unitdate_start_si">1927</field>
+    <field name="unitdate_end_sim">1947</field>
+    <field name="unitdate_end_ssm">1947</field>
+    <field name="unitdate_end_si">1947</field>
+    <field name="unitdate_ssm">Inclusive, ca.1937</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">23</field>
+  </doc>
+</add>
