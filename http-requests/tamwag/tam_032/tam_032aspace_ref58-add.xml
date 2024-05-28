@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_032aspace_ref58</field>
+    <field name="ead_ssi">tam_032</field>
+    <field name="parent_ssi">aspace_ref27</field>
+    <field name="parent_ssm">aspace_ref27</field>
+    <field name="parent_unittitles_ssm">Series II: Transcripts, 1931-1933.</field>
+    <field name="parent_unittitles_teim">Series II: Transcripts, 1931-1933.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Kentucky Miners Defense Records</field>
+    <field name="collection_ssm">Kentucky Miners Defense Records</field>
+    <field name="collection_unitid_ssm">TAM.032/repositories/2/resources/662</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Transcript Excerpts</field>
+    <field name="unittitle_teim">Transcript Excerpts</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/156749</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/156749</field>
+    <field name="unitdate_normal_ssm">1931/1933</field>
+    <field name="unitdate_normal_teim">1931/1933</field>
+    <field name="unitdate_normal_sim">1931/1933</field>
+    <field name="unitdate_inclusive_teim">1931-1933</field>
+    <field name="ref_ssi">aspace_ref58</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Kentucky Miners Defense Records</field>
+    <field name="collection_unitid_teim">TAM.032/repositories/2/resources/662</field>
+    <field name="series_sim">Series II: Transcripts, 1931-1933.</field>
+    <field name="series_si">Series II: Transcripts, 1931-1933. &gt;&gt; Transcript Excerpts</field>
+    <field name="heading_ssm">Transcript Excerpts</field>
+    <field name="unitdate_start_sim">1931</field>
+    <field name="unitdate_start_ssm">1931</field>
+    <field name="unitdate_start_si">1931</field>
+    <field name="unitdate_end_sim">1933</field>
+    <field name="unitdate_end_ssm">1933</field>
+    <field name="unitdate_end_si">1933</field>
+    <field name="unitdate_ssm">Inclusive, 1931-1933</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">46</field>
+  </doc>
+</add>

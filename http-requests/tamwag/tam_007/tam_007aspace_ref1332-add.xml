@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_007aspace_ref1332</field>
+    <field name="ead_ssi">tam_007</field>
+    <field name="parent_ssi">aspace_ref1327</field>
+    <field name="parent_ssm">aspace_ref1327</field>
+    <field name="parent_unittitles_ssm">Series V: Rand School Bookstore Records</field>
+    <field name="parent_unittitles_teim">Series V: Rand School Bookstore Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Rand School of Social Science Records</field>
+    <field name="collection_ssm">Rand School of Social Science Records</field>
+    <field name="collection_unitid_ssm">TAM.007</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Job Applications</field>
+    <field name="unittitle_teim">Job Applications</field>
+    <field name="unitdate_teim">Sep 29, 1942-October 6, 1942, undated</field>
+    <field name="ref_ssi">aspace_ref1332</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 44, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">Rand School of Social Science Records</field>
+    <field name="collection_unitid_teim">TAM.007</field>
+    <field name="series_sim">Series V: Rand School Bookstore Records</field>
+    <field name="series_si">Series V: Rand School Bookstore Records &gt;&gt; Job Applications</field>
+    <field name="heading_ssm">Job Applications</field>
+    <field name="unitdate_ssm">Sep 29, 1942-October 6, 1942, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">693</field>
+  </doc>
+</add>

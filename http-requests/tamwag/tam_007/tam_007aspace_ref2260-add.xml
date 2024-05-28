@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_007aspace_ref2260</field>
+    <field name="ead_ssi">tam_007</field>
+    <field name="parent_ssi">aspace_ref1400</field>
+    <field name="parent_ssm">aspace_ref1400</field>
+    <field name="parent_unittitles_ssm">Series VI: Publications</field>
+    <field name="parent_unittitles_teim">Series VI: Publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Rand School of Social Science Records</field>
+    <field name="collection_ssm">Rand School of Social Science Records</field>
+    <field name="collection_unitid_ssm">TAM.007</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VIF: Course Bulletins and Announcements, 1906-1955</field>
+    <field name="unittitle_teim">Subseries VIF: Course Bulletins and Announcements, 1906-1955</field>
+    <field name="unitdate_normal_ssm">1906/1955</field>
+    <field name="unitdate_normal_teim">1906/1955</field>
+    <field name="unitdate_normal_sim">1906/1955</field>
+    <field name="unitdate_inclusive_teim">1906-1955</field>
+    <field name="scopecontent_teim">The course bulletins and announcements part of the publications series consists of 155 items. These bulletins pertain to the general course curriculum of the Rand School from 1906 to 1955, and to such special education programs as the Trade Union Institute, the Physical Education Department, summer school, the Workers' Training Course, correspondence courses, Rand High School, Alertness Courses, Political Training Courses, the Newark School of Social Science, the Rand School of Northern New Jersey, and the Trade Union Leadership Training Program. The items in this part are arranged in chronological order. A full bibliographical citation for each item in this part is located in the complete reel list for this collection.</field>
+    <field name="ref_ssi">aspace_ref2260</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Rand School of Social Science Records</field>
+    <field name="collection_unitid_teim">TAM.007</field>
+    <field name="series_sim">Series VI: Publications</field>
+    <field name="series_si">Series VI: Publications &gt;&gt; Subseries VIF: Course Bulletins and Announcements, 1906-1955</field>
+    <field name="heading_ssm">Subseries VIF: Course Bulletins and Announcements, 1906-1955</field>
+    <field name="unitdate_start_sim">1906</field>
+    <field name="unitdate_start_ssm">1906</field>
+    <field name="unitdate_start_si">1906</field>
+    <field name="unitdate_end_sim">1955</field>
+    <field name="unitdate_end_ssm">1955</field>
+    <field name="unitdate_end_si">1955</field>
+    <field name="unitdate_ssm">Inclusive, 1906-1955</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1160</field>
+  </doc>
+</add>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_120aspace_ref94</field>
+    <field name="ead_ssi">tam_120</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Writings</field>
+    <field name="parent_unittitles_teim">Series III: Writings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Edward J. Falkowski Papers</field>
+    <field name="collection_ssm">Edward J. Falkowski Papers</field>
+    <field name="collection_unitid_ssm">TAM.120</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Published Writings</field>
+    <field name="unittitle_teim">Subseries A: Published Writings</field>
+    <field name="scopecontent_teim">Journals for which Falkowski wrote include Labor Age,  New Masses,  Rebel Poet,  The Anvil,  Moscow News,  Polish American Journal, and People's Voice (under the pen name "Polonicus"). He also wrote for the Federated Press, a leftist labor news service.</field>
+    <field name="ref_ssi">aspace_ref94</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Edward J. Falkowski Papers</field>
+    <field name="collection_unitid_teim">TAM.120</field>
+    <field name="series_sim">Series III: Writings</field>
+    <field name="series_si">Series III: Writings &gt;&gt; Subseries A: Published Writings</field>
+    <field name="heading_ssm">Subseries A: Published Writings</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">80</field>
+  </doc>
+</add>

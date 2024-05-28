@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_107aspace_ref474</field>
+    <field name="ead_ssi">tam_107</field>
+    <field name="parent_ssi">aspace_ref257</field>
+    <field name="parent_ssm">aspace_ref257</field>
+    <field name="parent_unittitles_ssm">Series IV: Music</field>
+    <field name="parent_unittitles_teim">Series IV: Music</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Playhouse Records</field>
+    <field name="collection_ssm">Tamiment Playhouse Records</field>
+    <field name="collection_unitid_ssm">TAM.107/repositories/2/resources/741</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Trials of Tillie, The&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Trials of Tillie, The
+    </field>
+    <field name="unitid_teim">/repositories/2/archival_objects/167215</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/167215</field>
+    <field name="unitdate_normal_ssm">1960/1960</field>
+    <field name="unitdate_normal_teim">1960/1960</field>
+    <field name="unitdate_normal_sim">1960/1960</field>
+    <field name="unitdate_inclusive_teim">1960</field>
+    <field name="title_teim">Trials of Tillie, The</field>
+    <field name="title_ssm">Trials of Tillie, The</field>
+    <field name="ref_ssi">aspace_ref474</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 28, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Tamiment Playhouse Records</field>
+    <field name="collection_unitid_teim">TAM.107/repositories/2/resources/741</field>
+    <field name="series_sim">Series IV: Music</field>
+    <field name="series_si">Series IV: Music &gt;&gt; 
+      &lt;em&gt;Trials of Tillie, The&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Trials of Tillie, The
+    </field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">1960</field>
+    <field name="unitdate_end_ssm">1960</field>
+    <field name="unitdate_end_si">1960</field>
+    <field name="unitdate_ssm">Inclusive, 1960</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">473</field>
+  </doc>
+</add>

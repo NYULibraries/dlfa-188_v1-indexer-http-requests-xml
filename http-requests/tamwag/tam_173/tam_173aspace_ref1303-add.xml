@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_173aspace_ref1303</field>
+    <field name="ead_ssi">tam_173</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Metropolitan Council on Housing Records</field>
+    <field name="collection_ssm">Metropolitan Council on Housing Records</field>
+    <field name="collection_unitid_ssm">TAM.173/repositories/2/resources/808</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII: Archived Websites</field>
+    <field name="unittitle_teim">Series VII: Archived Websites</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/199948</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/199948</field>
+    <field name="unitdate_normal_ssm">2009-08-08/2009-08-08</field>
+    <field name="unitdate_normal_teim">2009-08-08/2009-08-08</field>
+    <field name="unitdate_normal_sim">2009-08-08/2009-08-08</field>
+    <field name="unitdate_teim">August 2009-ongoing</field>
+    <field name="scopecontent_teim">The Metropolitan Council on Housing, founded in 1959, is a membership organization dedicated to preserving and expanding New York City's supply of affordable housing. Met Council focuses on preserving rental housing and strengthening tenants' rights. They work through grassroots organizing, lobbying, direct action, including rent strikes, and public education. Met Council has a monthly newspaper (TENANT), a weekly call-in radio show ("Housing Notebook"), forums, and a volunteer-staffed tenant hotline, which is featured on the website. The website contains a help and answers for tenants, past and current campaigns related to the tenant blacklist, tenant bill of rights, rent regulation, gentrification, and tenant safety.  Since 2009, the website has gone through 3 iterations, the most recent in 2019. In 2020, TENANT was spun off as its on website.</field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of http://metcouncilonhousing.org/ and https://thetenant.org/ in order to remain within the collection scope and data constraints.</field>
+    <field name="appraisal_teim">
+Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored with the permission of the content owner. </field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="dao_teim">Metropolitan Council on Housing Archived Website: August 2009-January 2016</field>
+    <field name="dao_teim">Metropolitan Council on Housing Archived Website: June 2012-ongoing</field>
+    <field name="dao_teim">The Tenant Archived Website: April 2020-ongoing</field>
+    <field name="dao_ssm">Metropolitan Council on Housing Archived Website: August 2009-January 2016</field>
+    <field name="dao_ssm">Metropolitan Council on Housing Archived Website: June 2012-ongoing</field>
+    <field name="dao_ssm">The Tenant Archived Website: April 2020-ongoing</field>
+    <field name="ref_ssi">aspace_ref1303</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Metropolitan Council on Housing Records</field>
+    <field name="collection_unitid_teim">TAM.173/repositories/2/resources/808</field>
+    <field name="series_si">Series VII: Archived Websites</field>
+    <field name="heading_ssm">Series VII: Archived Websites</field>
+    <field name="unitdate_ssm">August 2009-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1131</field>
+  </doc>
+</add>

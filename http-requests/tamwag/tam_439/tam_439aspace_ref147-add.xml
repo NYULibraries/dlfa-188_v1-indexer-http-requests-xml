@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_439aspace_ref147</field>
+    <field name="ead_ssi">tam_439</field>
+    <field name="parent_ssi">aspace_ref146</field>
+    <field name="parent_ssm">aspace_ref146</field>
+    <field name="parent_unittitles_ssm">Series IX: Photographic Materials, 1924-2010</field>
+    <field name="parent_unittitles_teim">Series IX: Photographic Materials, 1924-2010</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Camp Kinderland Records</field>
+    <field name="collection_ssm">Camp Kinderland Records</field>
+    <field name="collection_unitid_ssm">TAM.439</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Glass Plate Negatives</field>
+    <field name="unittitle_teim">Glass Plate Negatives</field>
+    <field name="scopecontent_teim">This subseries contains glass plate negatives from the summer of 1935 at Camp Kinderland, with some images from 1936. The majority of the images depict groups at the camp, many of which have no identifying information. Most of the description for the images are in Yiddish, with some English. Some significant events shown in the images include the camp's morning salute, a visit to the camp from Robert Minor, and the erection of the Lenin statue on the property.</field>
+    <field name="ref_ssi">aspace_ref147</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Camp Kinderland Records</field>
+    <field name="collection_unitid_teim">TAM.439</field>
+    <field name="series_sim">Series IX: Photographic Materials, 1924-2010</field>
+    <field name="series_si">Series IX: Photographic Materials, 1924-2010 &gt;&gt; Glass Plate Negatives</field>
+    <field name="heading_ssm">Glass Plate Negatives</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">131</field>
+  </doc>
+</add>

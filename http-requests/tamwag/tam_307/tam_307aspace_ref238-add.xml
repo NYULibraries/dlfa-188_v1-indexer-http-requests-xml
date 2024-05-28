@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_307aspace_ref238</field>
+    <field name="ead_ssi">tam_307</field>
+    <field name="parent_ssi">aspace_ref205</field>
+    <field name="parent_ssm">aspace_ref205</field>
+    <field name="parent_unittitles_ssm">Series V: Subject Files, Individuals</field>
+    <field name="parent_unittitles_teim">Series V: Subject Files, Individuals</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Barbara Kopple Collection on the Peekskill Riots</field>
+    <field name="collection_ssm">Barbara Kopple Collection on the Peekskill Riots</field>
+    <field name="collection_unitid_ssm">TAM.307</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Cohen, Rose</field>
+    <field name="unittitle_teim">Cohen, Rose</field>
+    <field name="ref_ssi">aspace_ref238</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 31</field>
+    <field name="location_ssm">Folder: 31</field>
+    <field name="location_si">Folder: 31</field>
+    <field name="collection_teim">Barbara Kopple Collection on the Peekskill Riots</field>
+    <field name="collection_unitid_teim">TAM.307</field>
+    <field name="series_sim">Series V: Subject Files, Individuals</field>
+    <field name="series_si">Series V: Subject Files, Individuals &gt;&gt; Cohen, Rose</field>
+    <field name="heading_ssm">Cohen, Rose</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">221</field>
+  </doc>
+</add>

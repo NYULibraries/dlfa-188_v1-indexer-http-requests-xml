@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_542aspace_ref1545</field>
+    <field name="ead_ssi">tam_542</field>
+    <field name="parent_ssi">aspace_ref1065</field>
+    <field name="parent_ssm">aspace_ref1065</field>
+    <field name="parent_unittitles_ssm">Series VIII: Subject Files</field>
+    <field name="parent_unittitles_teim">Series VIII: Subject Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Howard Zinn Papers</field>
+    <field name="collection_ssm">Howard Zinn Papers</field>
+    <field name="collection_unitid_ssm">TAM.542/repositories/2/resources/1106</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Marx, Karl: Hegel</field>
+    <field name="unittitle_teim">Marx, Karl: Hegel</field>
+    <field name="unitid_teim">cuid16798</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/235618</field>
+    <field name="unitid_ssm">cuid16798</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/235618</field>
+    <field name="unitdate_teim">1975, undated</field>
+    <field name="ref_ssi">aspace_ref1545</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 58, Folder: 23</field>
+    <field name="location_ssm">Folder: 23</field>
+    <field name="location_si">Folder: 23</field>
+    <field name="collection_teim">Howard Zinn Papers</field>
+    <field name="collection_unitid_teim">TAM.542/repositories/2/resources/1106</field>
+    <field name="series_sim">Series VIII: Subject Files</field>
+    <field name="series_si">Series VIII: Subject Files &gt;&gt; Marx, Karl: Hegel</field>
+    <field name="heading_ssm">Marx, Karl: Hegel</field>
+    <field name="unitdate_ssm">1975, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1540</field>
+  </doc>
+</add>

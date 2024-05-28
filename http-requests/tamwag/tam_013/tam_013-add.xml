@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">Tamiment Staff</field>
+    <field name="author_ssm">Tamiment Staff</field>
+    <field name="unittitle_teim">European Anarchists Autograph Collection</field>
+    <field name="unittitle_ssm">European Anarchists Autograph Collection</field>
+    <field name="unitid_teim">TAM.013</field>
+    <field name="unitid_ssm">TAM.013</field>
+    <field name="unitdate_normal_ssm">1874/1928</field>
+    <field name="unitdate_normal_teim">1874/1928</field>
+    <field name="unitdate_normal_sim">1874/1928</field>
+    <field name="unitdate_inclusive_teim">1874-1928</field>
+    <field name="scopecontent_teim">This is a collection of 25 signed letters, all but four in French, by European anarchists, including: Fernand Brouez, Gabriel De La Salle, Henry Dupont, Sebastien Faure, Jean Grave, Pierre Kropotkin, Enrico Malatesta, Charles Malato, Louise Michel, David Nicole, Emile Pouget, Felix Pyat, Elisee Reclus, Henry Seymour, Wilhelm Spohr, Laurent Tailhade, and S. Yanovsky.</field>
+    <field name="acqinfo_teim">Materials found in repository; provenance is unknown. The accession number associated with this collection is 1950.269.</field>
+    <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="corpname_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="corpname_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="genreform_teim">Signatures (names)</field>
+    <field name="genreform_ssm">Signatures (names)</field>
+    <field name="subject_teim">Anarchists |z France.</field>
+    <field name="subject_teim">Anarchists |z Europe.</field>
+    <field name="subject_teim">Anarchists -- France.</field>
+    <field name="subject_teim">Anarchists -- Europe.</field>
+    <field name="subject_ssm">Anarchists |z France.</field>
+    <field name="subject_ssm">Anarchists |z Europe.</field>
+    <field name="collection_sim">European Anarchists Autograph Collection</field>
+    <field name="collection_ssm">European Anarchists Autograph Collection</field>
+    <field name="collection_teim">European Anarchists Autograph Collection</field>
+    <field name="id">tam_013</field>
+    <field name="ead_ssi">tam_013</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="name_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="subject_sim">Anarchists -- France.</field>
+    <field name="subject_sim">Anarchists -- Europe.</field>
+    <field name="material_type_sim">Signatures (names)</field>
+    <field name="material_type_ssm">Signatures (names)</field>
+    <field name="heading_ssm">European Anarchists Autograph Collection</field>
+    <field name="unitdate_start_sim">1874</field>
+    <field name="unitdate_start_ssm">1874</field>
+    <field name="unitdate_start_si">1874</field>
+    <field name="unitdate_end_sim">1928</field>
+    <field name="unitdate_end_ssm">1928</field>
+    <field name="unitdate_end_si">1928</field>
+    <field name="unitdate_ssm">Inclusive, 1874-1928</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+  </doc>
+</add>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_542aspace_ref2</field>
+    <field name="ead_ssi">tam_542</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Howard Zinn Papers</field>
+    <field name="collection_ssm">Howard Zinn Papers</field>
+    <field name="collection_unitid_ssm">TAM.542/repositories/2/resources/1106</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Personal and Biographical Material</field>
+    <field name="unittitle_teim">Series I: Personal and Biographical Material</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/234080</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/234080</field>
+    <field name="unitdate_normal_ssm">1944/2010</field>
+    <field name="unitdate_normal_teim">1944/2010</field>
+    <field name="unitdate_normal_sim">1944/2010</field>
+    <field name="unitdate_inclusive_teim">1944-2010</field>
+    <field name="scopecontent_teim">The initial series in this collection contains a variety of personal materials as well as biographical articles and interviews.  Among its highlights are school and military records, photographs, datebooks (1967-2008) and trip memorabilia.  </field>
+    <field name="scopecontent_teim">Personal correspondence includes  letters from family members and friends; Daniel and Philip Berrigan, Kurt Vonnegut and Alice Walker are among the more well-known. In addition, there is correspondence and related material that describes Zinn's dismissal from Spelman College as well as letters of support and good wishes on his retirement from Boston University.  One folder within this series contains recipes that had been clipped by Zinn and were found here and there within the collection.</field>
+    <field name="scopecontent_teim">Several folders contain portions of the Federal Bureau of Investigation file maintained on Howard Zinn beginning in 1949 (File # 100-30217).  In July 2010 the FBI released the file; it may be accessed in two sections at http://www.archive.org/details/Howard.Zinn_FBI.file_pt.1  and http://www.archive.org/details/Howard_Zinns_FBI_file_pdf_2_and_3 . </field>
+    <field name="ref_ssi">aspace_ref2</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Howard Zinn Papers</field>
+    <field name="collection_unitid_teim">TAM.542/repositories/2/resources/1106</field>
+    <field name="series_si">Series I: Personal and Biographical Material</field>
+    <field name="heading_ssm">Series I: Personal and Biographical Material</field>
+    <field name="unitdate_start_sim">1944</field>
+    <field name="unitdate_start_ssm">1944</field>
+    <field name="unitdate_start_si">1944</field>
+    <field name="unitdate_end_sim">2010</field>
+    <field name="unitdate_end_ssm">2010</field>
+    <field name="unitdate_end_si">2010</field>
+    <field name="unitdate_ssm">Inclusive, 1944-2010</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

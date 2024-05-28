@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_542aspace_ref2144</field>
+    <field name="ead_ssi">tam_542</field>
+    <field name="parent_ssi">aspace_ref1842</field>
+    <field name="parent_ssm">aspace_ref1812</field>
+    <field name="parent_ssm">aspace_ref1842</field>
+    <field name="parent_unittitles_ssm">Series X: Audio-Visual Material</field>
+    <field name="parent_unittitles_ssm">Subseries X:C: Audio Reel-to-Reel</field>
+    <field name="parent_unittitles_teim">Series X: Audio-Visual Material</field>
+    <field name="parent_unittitles_teim">Subseries X:C: Audio Reel-to-Reel</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Howard Zinn Papers</field>
+    <field name="collection_ssm">Howard Zinn Papers</field>
+    <field name="collection_unitid_ssm">TAM.542/repositories/2/resources/1106</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Malcolm X: Message to the Grass Roots (King Solomon Baptist Church, Detroit, MI 5 Inch)</field>
+    <field name="unittitle_teim">Malcolm X: Message to the Grass Roots (King Solomon Baptist Church, Detroit, MI 5 Inch)</field>
+    <field name="unitid_teim">cuid17369</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/236194</field>
+    <field name="unitid_ssm">cuid17369</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/236194</field>
+    <field name="unitdate_normal_ssm">1963/1963</field>
+    <field name="unitdate_normal_teim">1963/1963</field>
+    <field name="unitdate_normal_sim">1963/1963</field>
+    <field name="unitdate_inclusive_teim">[Nov 10, 1963]</field>
+    <field name="phystech_teim">Duration: 46 Minutes</field>
+    <field name="dao_teim">Malcolm X: Message to the Grass Roots (King Solomon Baptist Church, Detroit, MI 5 Inch)</field>
+    <field name="dao_ssm">Malcolm X: Message to the Grass Roots (King Solomon Baptist Church, Detroit, MI 5 Inch)</field>
+    <field name="ref_ssi">aspace_ref2144</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 78, reel: 260</field>
+    <field name="location_ssm">reel: 260</field>
+    <field name="location_si">reel: 260</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Howard Zinn Papers</field>
+    <field name="collection_unitid_teim">TAM.542/repositories/2/resources/1106</field>
+    <field name="series_sim">Series X: Audio-Visual Material</field>
+    <field name="series_sim">Subseries X:C: Audio Reel-to-Reel</field>
+    <field name="series_si">Series X: Audio-Visual Material &gt;&gt; Subseries X:C: Audio Reel-to-Reel &gt;&gt; Malcolm X: Message to the Grass Roots (King Solomon Baptist Church, Detroit, MI 5 Inch)</field>
+    <field name="heading_ssm">Malcolm X: Message to the Grass Roots (King Solomon Baptist Church, Detroit, MI 5 Inch)</field>
+    <field name="unitdate_start_sim">1963</field>
+    <field name="unitdate_start_ssm">1963</field>
+    <field name="unitdate_start_si">1963</field>
+    <field name="unitdate_end_sim">1963</field>
+    <field name="unitdate_end_ssm">1963</field>
+    <field name="unitdate_end_si">1963</field>
+    <field name="unitdate_ssm">Inclusive, [Nov 10, 1963]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2116</field>
+  </doc>
+</add>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_326aspace_ref6553</field>
+    <field name="ead_ssi">tam_326</field>
+    <field name="parent_ssi">aspace_ref16</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref16</field>
+    <field name="parent_unittitles_ssm">Series I: Case Files</field>
+    <field name="parent_unittitles_ssm">Sub-Series A: Spanish Refugee Aid Case Files</field>
+    <field name="parent_unittitles_teim">Series I: Case Files</field>
+    <field name="parent_unittitles_teim">Sub-Series A: Spanish Refugee Aid Case Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Spanish Refugee Aid Records</field>
+    <field name="collection_ssm">Spanish Refugee Aid Records</field>
+    <field name="collection_unitid_ssm">TAM.326/repositories/2/resources/1246</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      Javierre Citoler, Mariano
+      
+      Javierre, Pilar (née Buil)
+    </field>
+    <field name="unittitle_teim">
+      Javierre Citoler, Mariano
+      
+      Javierre, Pilar (née Buil)
+    </field>
+    <field name="unitid_teim">c2729</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/247768</field>
+    <field name="unitid_ssm">c2729</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/247768</field>
+    <field name="unitdate_normal_ssm">1940/2007</field>
+    <field name="unitdate_normal_teim">1940/2007</field>
+    <field name="unitdate_normal_sim">1940/2007</field>
+    <field name="unitdate_inclusive_teim">undated , 1973-1989</field>
+    <field name="genreform_teim">Photograph</field>
+    <field name="genreform_ssm">Photograph</field>
+    <field name="persname_teim">Javierre Citoler, Mariano</field>
+    <field name="persname_teim">Javierre, Pilar (née Buil)</field>
+    <field name="persname_ssm">Javierre Citoler, Mariano</field>
+    <field name="persname_ssm">Javierre, Pilar (née Buil)</field>
+    <field name="ref_ssi">aspace_ref6553</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 68, Folder: 64</field>
+    <field name="location_ssm">Folder: 64</field>
+    <field name="location_si">Folder: 64</field>
+    <field name="name_sim">Javierre Citoler, Mariano</field>
+    <field name="name_sim">Javierre, Pilar (née Buil)</field>
+    <field name="name_teim">Javierre Citoler, Mariano</field>
+    <field name="name_teim">Javierre, Pilar (née Buil)</field>
+    <field name="collection_teim">Spanish Refugee Aid Records</field>
+    <field name="collection_unitid_teim">TAM.326/repositories/2/resources/1246</field>
+    <field name="series_sim">Series I: Case Files</field>
+    <field name="series_sim">Sub-Series A: Spanish Refugee Aid Case Files</field>
+    <field name="series_si">Series I: Case Files &gt;&gt; Sub-Series A: Spanish Refugee Aid Case Files &gt;&gt; 
+      Javierre Citoler, Mariano
+      
+      Javierre, Pilar (née Buil)
+    </field>
+    <field name="material_type_sim">Photograph</field>
+    <field name="material_type_ssm">Photograph</field>
+    <field name="heading_ssm">
+      Javierre Citoler, Mariano
+      
+      Javierre, Pilar (née Buil)
+    </field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, undated , 1973-1989</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">2733</field>
+  </doc>
+</add>

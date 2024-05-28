@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_ref830</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_ref705</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref705</field>
+    <field name="parent_unittitles_ssm">Series I: National Administrative Records</field>
+    <field name="parent_unittitles_ssm">Subseries I.E: Simon Gerson</field>
+    <field name="parent_unittitles_teim">Series I: National Administrative Records</field>
+    <field name="parent_unittitles_teim">Subseries I.E: Simon Gerson</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Clippings: U.S. Elections, Democratic Campaign (IV)</field>
+    <field name="unittitle_teim">Clippings: U.S. Elections, Democratic Campaign (IV)</field>
+    <field name="unitid_teim">cuid19773</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/171854</field>
+    <field name="unitid_ssm">cuid19773</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/171854</field>
+    <field name="unitdate_normal_ssm">1944/1944</field>
+    <field name="unitdate_normal_teim">1944/1944</field>
+    <field name="unitdate_normal_sim">1944/1944</field>
+    <field name="unitdate_inclusive_teim">Jun 30, 1944-Dec 12, 1944</field>
+    <field name="ref_ssi">aspace_ref830</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 177, Folder: 31</field>
+    <field name="location_ssm">Folder: 31</field>
+    <field name="location_si">Folder: 31</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series I: National Administrative Records</field>
+    <field name="series_sim">Subseries I.E: Simon Gerson</field>
+    <field name="series_si">Series I: National Administrative Records &gt;&gt; Subseries I.E: Simon Gerson &gt;&gt; Clippings: U.S. Elections, Democratic Campaign (IV)</field>
+    <field name="heading_ssm">Clippings: U.S. Elections, Democratic Campaign (IV)</field>
+    <field name="unitdate_start_sim">1944</field>
+    <field name="unitdate_start_ssm">1944</field>
+    <field name="unitdate_start_si">1944</field>
+    <field name="unitdate_end_sim">1944</field>
+    <field name="unitdate_end_ssm">1944</field>
+    <field name="unitdate_end_si">1944</field>
+    <field name="unitdate_ssm">Inclusive, Jun 30, 1944-Dec 12, 1944</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1338</field>
+  </doc>
+</add>

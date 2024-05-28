@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_ref15</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series I: National Administrative Records</field>
+    <field name="parent_unittitles_teim">Series I: National Administrative Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.A: National Office</field>
+    <field name="unittitle_teim">Subseries I.A: National Office</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/171041</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/171041</field>
+    <field name="unitdate_normal_ssm">1919/2001</field>
+    <field name="unitdate_normal_teim">1919/2001</field>
+    <field name="unitdate_normal_sim">1919/2001</field>
+    <field name="unitdate_inclusive_teim">1919-2001</field>
+    <field name="scopecontent_teim">This subseries is comprised of general files kept or created by various CPUSA staff and membership. It holds a considerable amount of rare and unique materials which detail the earliest incarnations of the Communist Party in the United States. Original copies of the CPUSA's programs, constitutions, and printed ephemera that chronicle the Party's birth and early development are especially noteworthy. An array of significant activities and topics which trace the progression and work of the CPUSA throughout the 20th century can also be found here. Highlights include materials that document early factionalism within the Party and the 1956-1958 intra-Party crisis; correspondence, reports, and writings that illustrate the CPUSA's substantive civil rights work in solidarity with African Americans, Mexican Americans, Native Americans, and women; theses and resolutions from Congresses of the Comintern; and printed ephemera, resolutions, and writings that establish the CPUSA's strong commitment to labor union causes and youth issues. Included are four scrapbooks on the Fort Hood Three draft resistance case. Also included in this series are five audio tapes containing threatening messages left anonymously on the Party's answering machine, which provide an indication of some of the hostility the Party faced in the late 1970s and 1980s.</field>
+    <field name="ref_ssi">aspace_ref15</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series I: National Administrative Records</field>
+    <field name="series_si">Series I: National Administrative Records &gt;&gt; Subseries I.A: National Office</field>
+    <field name="heading_ssm">Subseries I.A: National Office</field>
+    <field name="unitdate_start_sim">1919</field>
+    <field name="unitdate_start_ssm">1919</field>
+    <field name="unitdate_start_si">1919</field>
+    <field name="unitdate_end_sim">2001</field>
+    <field name="unitdate_end_ssm">2001</field>
+    <field name="unitdate_end_si">2001</field>
+    <field name="unitdate_ssm">Inclusive, 1919-2001</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

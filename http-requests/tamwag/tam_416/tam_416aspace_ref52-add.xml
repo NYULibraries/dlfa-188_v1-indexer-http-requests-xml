@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_416aspace_ref52</field>
+    <field name="ead_ssi">tam_416</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Administrative Files</field>
+    <field name="parent_unittitles_teim">Series I: Administrative Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asian CineVision Records</field>
+    <field name="collection_ssm">Asian CineVision Records</field>
+    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bridge (magazine) Files</field>
+    <field name="unittitle_teim">Bridge (magazine) Files</field>
+    <field name="unitid_teim">cuid2665</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/252440</field>
+    <field name="unitid_ssm">cuid2665</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/252440</field>
+    <field name="unitdate_teim">circa early-mid 1980s</field>
+    <field name="ref_ssi">aspace_ref52</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 51</field>
+    <field name="location_si">Box: 51</field>
+    <field name="collection_teim">Asian CineVision Records</field>
+    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="series_sim">Series I: Administrative Files</field>
+    <field name="series_si">Series I: Administrative Files &gt;&gt; Bridge (magazine) Files</field>
+    <field name="heading_ssm">Bridge (magazine) Files</field>
+    <field name="unitdate_ssm">circa early-mid 1980s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">43</field>
+  </doc>
+</add>

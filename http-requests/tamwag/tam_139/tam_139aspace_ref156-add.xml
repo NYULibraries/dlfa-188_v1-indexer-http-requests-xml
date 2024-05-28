@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_139aspace_ref156</field>
+    <field name="ead_ssi">tam_139</field>
+    <field name="parent_ssi">aspace_ref125</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref125</field>
+    <field name="parent_unittitles_ssm">Series I: Administrative Records</field>
+    <field name="parent_unittitles_ssm">Subseries A: Corporate Records (Includes Director's Reports, Minutes)</field>
+    <field name="parent_unittitles_ssm">Sub-subseries 4: Minutes</field>
+    <field name="parent_unittitles_teim">Series I: Administrative Records</field>
+    <field name="parent_unittitles_teim">Subseries A: Corporate Records (Includes Director's Reports, Minutes)</field>
+    <field name="parent_unittitles_teim">Sub-subseries 4: Minutes</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Greenwich House Records</field>
+    <field name="collection_ssm">Greenwich House Records</field>
+    <field name="collection_unitid_ssm">TAM.139/repositories/2/resources/775</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Minutes- Board of Managers, Cooperative Social Settlement House</field>
+    <field name="unittitle_teim">Minutes- Board of Managers, Cooperative Social Settlement House</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/188093</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/188093</field>
+    <field name="unitdate_normal_ssm">1917/1917</field>
+    <field name="unitdate_normal_teim">1917/1917</field>
+    <field name="unitdate_normal_sim">1917/1917</field>
+    <field name="unitdate_inclusive_teim">1917</field>
+    <field name="ref_ssi">aspace_ref156</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Greenwich House Records</field>
+    <field name="collection_unitid_teim">TAM.139/repositories/2/resources/775</field>
+    <field name="series_sim">Series I: Administrative Records</field>
+    <field name="series_sim">Subseries A: Corporate Records (Includes Director's Reports, Minutes)</field>
+    <field name="series_sim">Sub-subseries 4: Minutes</field>
+    <field name="series_si">Series I: Administrative Records &gt;&gt; Subseries A: Corporate Records (Includes Director's Reports, Minutes) &gt;&gt; Sub-subseries 4: Minutes &gt;&gt; Minutes- Board of Managers, Cooperative Social Settlement House</field>
+    <field name="heading_ssm">Minutes- Board of Managers, Cooperative Social Settlement House</field>
+    <field name="unitdate_start_sim">1917</field>
+    <field name="unitdate_start_ssm">1917</field>
+    <field name="unitdate_start_si">1917</field>
+    <field name="unitdate_end_sim">1917</field>
+    <field name="unitdate_end_ssm">1917</field>
+    <field name="unitdate_end_si">1917</field>
+    <field name="unitdate_ssm">Inclusive, 1917</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">75</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_037aspace_ref12</field>
+    <field name="ead_ssi">tam_037</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Baruch Charney Vladeck Papers and Photographs</field>
+    <field name="collection_ssm">Baruch Charney Vladeck Papers and Photographs</field>
+    <field name="collection_unitid_ssm">TAM.037</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Correspondence</field>
+    <field name="unittitle_teim">Series I. Correspondence</field>
+    <field name="unitdate_normal_ssm">1912/1938</field>
+    <field name="unitdate_normal_teim">1912/1938</field>
+    <field name="unitdate_normal_sim">1912/1938</field>
+    <field name="unitdate_inclusive_teim">1912-1938</field>
+    <field name="scopecontent_teim">This series is comprised of the correspondence files that Vladeck kept related to his professional and political activities and interests. Notable correspondents include: Friedrich Adler, Sholem Asch, Roger Baldwin, Otto Bauer, Victor and Meta Berger, Abraham Cahan, Albert Einstein, Daniel Hoan, Louise Kautsky, Harry Laidler, Fiorello La Guardia, Algernon Lee, Herbert H. Lehman, Meyer London, Ramsay McDonald, Tom Mooney, Paul Muni, Upton Sinclair, Norman Thomas, and Lillian Wald. In addition, for each letter of the alphabet (preceding the folders for named individuals or organizations), is a folder of general correspondence, "A", "B", etc. For the general folders there is a handwritten alphabetical list of some 500 names occurring therein, which is available upon request.</field>
+    <field name="ref_ssi">aspace_ref12</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Baruch Charney Vladeck Papers and Photographs</field>
+    <field name="collection_unitid_teim">TAM.037</field>
+    <field name="series_si">Series I. Correspondence</field>
+    <field name="heading_ssm">Series I. Correspondence</field>
+    <field name="unitdate_start_sim">1912</field>
+    <field name="unitdate_start_ssm">1912</field>
+    <field name="unitdate_start_si">1912</field>
+    <field name="unitdate_end_sim">1938</field>
+    <field name="unitdate_end_ssm">1938</field>
+    <field name="unitdate_end_si">1938</field>
+    <field name="unitdate_ssm">Inclusive, 1912-1938</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

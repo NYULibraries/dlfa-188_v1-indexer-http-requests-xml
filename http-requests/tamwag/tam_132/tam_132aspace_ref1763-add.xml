@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_ref1763</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_ref1532</field>
+    <field name="parent_ssm">aspace_ref1478</field>
+    <field name="parent_ssm">aspace_ref1532</field>
+    <field name="parent_unittitles_ssm">Series II: State and District Records</field>
+    <field name="parent_unittitles_ssm">Subseries II.B: New York State Records</field>
+    <field name="parent_unittitles_teim">Series II: State and District Records</field>
+    <field name="parent_unittitles_teim">Subseries II.B: New York State Records</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Moroze, Esther: Reference Materials: Urban Issues</field>
+    <field name="unittitle_teim">Moroze, Esther: Reference Materials: Urban Issues</field>
+    <field name="unitid_teim">cuid20525</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/172780</field>
+    <field name="unitid_ssm">cuid20525</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/172780</field>
+    <field name="unitdate_normal_ssm">1970/1979</field>
+    <field name="unitdate_normal_teim">1970/1979</field>
+    <field name="unitdate_normal_sim">1970/1979</field>
+    <field name="unitdate_inclusive_teim">1970-1979</field>
+    <field name="ref_ssi">aspace_ref1763</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 229, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series II: State and District Records</field>
+    <field name="series_sim">Subseries II.B: New York State Records</field>
+    <field name="series_si">Series II: State and District Records &gt;&gt; Subseries II.B: New York State Records &gt;&gt; Moroze, Esther: Reference Materials: Urban Issues</field>
+    <field name="heading_ssm">Moroze, Esther: Reference Materials: Urban Issues</field>
+    <field name="unitdate_start_sim">1970</field>
+    <field name="unitdate_start_ssm">1970</field>
+    <field name="unitdate_start_si">1970</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, 1970-1979</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2331</field>
+  </doc>
+</add>

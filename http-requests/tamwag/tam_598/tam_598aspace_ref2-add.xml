@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_598aspace_ref2</field>
+    <field name="ead_ssi">tam_598</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Occupy Wall Street Audio Collection</field>
+    <field name="collection_ssm">Occupy Wall Street Audio Collection</field>
+    <field name="collection_unitid_ssm">TAM.598</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I. Think Tank Recordings and Files</field>
+    <field name="unittitle_teim">Series I. Think Tank Recordings and Files</field>
+    <field name="unitdate_normal_ssm">2011/2012</field>
+    <field name="unitdate_normal_teim">2011/2012</field>
+    <field name="unitdate_normal_sim">2011/2012</field>
+    <field name="unitdate_inclusive_teim">2011-2012</field>
+    <field name="scopecontent_teim">This series contains digital audio recordings of Think Tank discussions and a spreadsheet containing metadata on video recordings about OWS.  Material in this series dates from November 2011 to January 2012. </field>
+    <field name="scopecontent_teim">The Think Tank discussion topics include justice, power, demands of OWS, supplies needed by OWS, alternative currency and spending money within OWS, reorganization of small working groups, smaller Occupy movements at colleges and universities in New York City (NYC), collaboration with other OWS movements across the country, Liberty Park (OWS's name for Zuccotti Park) as a microcosm of society, public figures at OWS, different economic systems for the United States (US), new media in elections, negative portrayal of OWS by/in media and what to do about it, tax havens, minority involvement in OWS, police activity in Zuccotti Park, barriers to the OWS movement, next steps for OWS in spreading through NYC and US, the future of the movement after November 15, 2011 and getting more people involved, how to influence the system without being a part of the system, ways to disrupt/interrupt provocateurs, and whether or not capitalism is a viable economic system.  Other recordings include audio from marches in lower Manhattan and OWS working group discussions in other parts of Manhattan and in Staten Island.  Some of the Think Tank recordings include the protocols for discussions, including the hand signals used by OWS.</field>
+    <field name="scopecontent_teim">The spreadsheet contains metadata about 83 video recordings, which includes YouTube links for each video.  The videos document marches and other OWS events and contain news stories created by major US and foreign media organizations and small online media sites.</field>
+    <field name="ref_ssi">aspace_ref2</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Occupy Wall Street Audio Collection</field>
+    <field name="collection_unitid_teim">TAM.598</field>
+    <field name="series_si">Series I. Think Tank Recordings and Files</field>
+    <field name="heading_ssm">Series I. Think Tank Recordings and Files</field>
+    <field name="unitdate_start_sim">2011</field>
+    <field name="unitdate_start_ssm">2011</field>
+    <field name="unitdate_start_si">2011</field>
+    <field name="unitdate_end_sim">2012</field>
+    <field name="unitdate_end_ssm">2012</field>
+    <field name="unitdate_end_si">2012</field>
+    <field name="unitdate_ssm">Inclusive, 2011-2012</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

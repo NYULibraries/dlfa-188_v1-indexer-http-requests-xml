@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_726aspace_3f1e60ec4277d5900c7dd0d0de16501f</field>
+    <field name="ead_ssi">tam_726</field>
+    <field name="parent_ssi">aspace_d65eec7fb4ff24e05eb8978ac892f7fe</field>
+    <field name="parent_ssm">aspace_d65eec7fb4ff24e05eb8978ac892f7fe</field>
+    <field name="parent_unittitles_ssm">Series II. Random House Files</field>
+    <field name="parent_unittitles_teim">Series II. Random House Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Robert Bernstein Papers</field>
+    <field name="collection_ssm">Robert Bernstein Papers</field>
+    <field name="collection_unitid_ssm">TAM.726</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Beginner Books</field>
+    <field name="unittitle_teim">Beginner Books</field>
+    <field name="unitdate_normal_ssm">1971/1976</field>
+    <field name="unitdate_normal_teim">1971/1976</field>
+    <field name="unitdate_normal_sim">1971/1976</field>
+    <field name="unitdate_inclusive_teim">1971-1976</field>
+    <field name="ref_ssi">aspace_3f1e60ec4277d5900c7dd0d0de16501f</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 21-23</field>
+    <field name="location_ssm">Folder: 21-23</field>
+    <field name="location_si">Folder: 21-23</field>
+    <field name="collection_teim">Robert Bernstein Papers</field>
+    <field name="collection_unitid_teim">TAM.726</field>
+    <field name="series_sim">Series II. Random House Files</field>
+    <field name="series_si">Series II. Random House Files &gt;&gt; Beginner Books</field>
+    <field name="heading_ssm">Beginner Books</field>
+    <field name="unitdate_start_sim">1971</field>
+    <field name="unitdate_start_ssm">1971</field>
+    <field name="unitdate_start_si">1971</field>
+    <field name="unitdate_end_sim">1976</field>
+    <field name="unitdate_end_ssm">1976</field>
+    <field name="unitdate_end_si">1976</field>
+    <field name="unitdate_ssm">Inclusive, 1971-1976</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">61</field>
+  </doc>
+</add>

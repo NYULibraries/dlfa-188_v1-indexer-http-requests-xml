@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_576aspace_ref6</field>
+    <field name="ead_ssi">tam_576</field>
+    <field name="parent_ssi">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_unittitles_ssm">Series I: Disc 01</field>
+    <field name="parent_unittitles_teim">Series I: Disc 01</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Ernie Lazar FBI FOIA Files on Anti-Communism and Right Wing Movements</field>
+    <field name="collection_ssm">Ernie Lazar FBI FOIA Files on Anti-Communism and Right Wing Movements</field>
+    <field name="collection_unitid_ssm">TAM.576</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bland, James F.</field>
+    <field name="unittitle_teim">Bland, James F.</field>
+    <field name="ref_ssi">aspace_ref6</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Tamiment 074, CD: 1</field>
+    <field name="location_ssm">CD: 1, track: 3</field>
+    <field name="location_ssm">track: 3</field>
+    <field name="location_si">track: 3</field>
+    <field name="collection_teim">Ernie Lazar FBI FOIA Files on Anti-Communism and Right Wing Movements</field>
+    <field name="collection_unitid_teim">TAM.576</field>
+    <field name="series_sim">Series I: Disc 01</field>
+    <field name="series_si">Series I: Disc 01 &gt;&gt; Bland, James F.</field>
+    <field name="heading_ssm">Bland, James F.</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

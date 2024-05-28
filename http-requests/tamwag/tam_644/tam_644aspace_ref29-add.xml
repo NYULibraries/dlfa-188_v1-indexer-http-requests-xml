@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_644aspace_ref29</field>
+    <field name="ead_ssi">tam_644</field>
+    <field name="parent_ssi">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_unittitles_ssm">Series I: Activism Files</field>
+    <field name="parent_unittitles_teim">Series I: Activism Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Virginia Cornue Papers</field>
+    <field name="collection_ssm">Virginia Cornue Papers</field>
+    <field name="collection_unitid_ssm">TAM.644/repositories/2/resources/1199</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">National Organization for Women and Women's Funding Coalition</field>
+    <field name="unittitle_teim">National Organization for Women and Women's Funding Coalition</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/243358</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/243358</field>
+    <field name="unitdate_normal_ssm">1972/1988</field>
+    <field name="unitdate_normal_teim">1972/1988</field>
+    <field name="unitdate_normal_sim">1972/1988</field>
+    <field name="unitdate_inclusive_teim">1972-1988</field>
+    <field name="ref_ssi">aspace_ref29</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 21</field>
+    <field name="location_ssm">Box: 26</field>
+    <field name="location_ssm">Box: 25</field>
+    <field name="location_si">Box: 25</field>
+    <field name="collection_teim">Virginia Cornue Papers</field>
+    <field name="collection_unitid_teim">TAM.644/repositories/2/resources/1199</field>
+    <field name="series_sim">Series I: Activism Files</field>
+    <field name="series_si">Series I: Activism Files &gt;&gt; National Organization for Women and Women's Funding Coalition</field>
+    <field name="heading_ssm">National Organization for Women and Women's Funding Coalition</field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_si">1972</field>
+    <field name="unitdate_end_sim">1988</field>
+    <field name="unitdate_end_ssm">1988</field>
+    <field name="unitdate_end_si">1988</field>
+    <field name="unitdate_ssm">Inclusive, 1972-1988</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

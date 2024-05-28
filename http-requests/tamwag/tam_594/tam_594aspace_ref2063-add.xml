@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_594aspace_ref2063</field>
+    <field name="ead_ssi">tam_594</field>
+    <field name="parent_ssi">aspace_ref661</field>
+    <field name="parent_ssm">aspace_ref119</field>
+    <field name="parent_ssm">aspace_ref661</field>
+    <field name="parent_unittitles_ssm">Series VIII: Navasky at Columbia University</field>
+    <field name="parent_unittitles_ssm">Subseries VIIIB: Columbia Journalism Review</field>
+    <field name="parent_unittitles_teim">Series VIII: Navasky at Columbia University</field>
+    <field name="parent_unittitles_teim">Subseries VIIIB: Columbia Journalism Review</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Victor S. Navasky Papers</field>
+    <field name="collection_ssm">Victor S. Navasky Papers</field>
+    <field name="collection_unitid_ssm">TAM.594</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Magazines and Their Websites" </field>
+    <field name="unittitle_teim">"Magazines and Their Websites" </field>
+    <field name="unitdate_normal_ssm">2008/2009</field>
+    <field name="unitdate_normal_teim">2008/2009</field>
+    <field name="unitdate_normal_sim">2008/2009</field>
+    <field name="unitdate_inclusive_teim">2008-2009</field>
+    <field name="ref_ssi">aspace_ref2063</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 76, Folder: 21</field>
+    <field name="location_ssm">Folder: 21</field>
+    <field name="location_si">Folder: 21</field>
+    <field name="collection_teim">Victor S. Navasky Papers</field>
+    <field name="collection_unitid_teim">TAM.594</field>
+    <field name="series_sim">Series VIII: Navasky at Columbia University</field>
+    <field name="series_sim">Subseries VIIIB: Columbia Journalism Review</field>
+    <field name="series_si">Series VIII: Navasky at Columbia University &gt;&gt; Subseries VIIIB: Columbia Journalism Review &gt;&gt; "Magazines and Their Websites" </field>
+    <field name="heading_ssm">"Magazines and Their Websites" </field>
+    <field name="unitdate_start_sim">2008</field>
+    <field name="unitdate_start_ssm">2008</field>
+    <field name="unitdate_start_si">2008</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, 2008-2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1902</field>
+  </doc>
+</add>

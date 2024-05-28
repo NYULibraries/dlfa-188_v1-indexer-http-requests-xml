@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_277aspace_ref188</field>
+    <field name="ead_ssi">tam_277</field>
+    <field name="parent_ssi">aspace_ref147</field>
+    <field name="parent_ssm">aspace_ref146</field>
+    <field name="parent_ssm">aspace_ref147</field>
+    <field name="parent_unittitles_ssm">Series VII: Research Notes</field>
+    <field name="parent_unittitles_ssm">Subseries A: Proper Names</field>
+    <field name="parent_unittitles_teim">Series VII: Research Notes</field>
+    <field name="parent_unittitles_teim">Subseries A: Proper Names</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Frederic Ewen Papers</field>
+    <field name="collection_ssm">Frederic Ewen Papers</field>
+    <field name="collection_unitid_ssm">TAM.277</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Petöfi, Sandor</field>
+    <field name="unittitle_teim">Petöfi, Sandor</field>
+    <field name="unitdate_normal_ssm">1915/1988</field>
+    <field name="unitdate_normal_teim">1915/1988</field>
+    <field name="unitdate_normal_sim">1915/1988</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref188</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Frederic Ewen Papers</field>
+    <field name="collection_unitid_teim">TAM.277</field>
+    <field name="series_sim">Series VII: Research Notes</field>
+    <field name="series_sim">Subseries A: Proper Names</field>
+    <field name="series_si">Series VII: Research Notes &gt;&gt; Subseries A: Proper Names &gt;&gt; Petöfi, Sandor</field>
+    <field name="heading_ssm">Petöfi, Sandor</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1988</field>
+    <field name="unitdate_end_ssm">1988</field>
+    <field name="unitdate_end_si">1988</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">182</field>
+  </doc>
+</add>

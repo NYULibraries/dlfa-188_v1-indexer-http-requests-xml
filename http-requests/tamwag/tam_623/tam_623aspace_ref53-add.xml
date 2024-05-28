@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_623aspace_ref53</field>
+    <field name="ead_ssi">tam_623</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Cartoons by Publication</field>
+    <field name="parent_unittitles_teim">Cartoons by Publication</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Samuel Zagat Drawings and Photographs</field>
+    <field name="collection_ssm">Samuel Zagat Drawings and Photographs</field>
+    <field name="collection_unitid_ssm">TAM.623/repositories/2/resources/1178</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;The Hat Worker&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      The Hat Worker
+    </field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242898</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242898</field>
+    <field name="unitdate_teim">1959</field>
+    <field name="ref_ssi">aspace_ref53</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, Folder: 44</field>
+    <field name="location_ssm">Folder: 44</field>
+    <field name="location_si">Folder: 44</field>
+    <field name="collection_teim">Samuel Zagat Drawings and Photographs</field>
+    <field name="collection_unitid_teim">TAM.623/repositories/2/resources/1178</field>
+    <field name="series_sim">Cartoons by Publication</field>
+    <field name="series_si">Cartoons by Publication &gt;&gt; 
+      &lt;em&gt;The Hat Worker&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      The Hat Worker
+    </field>
+    <field name="unitdate_ssm">1959</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">36</field>
+  </doc>
+</add>

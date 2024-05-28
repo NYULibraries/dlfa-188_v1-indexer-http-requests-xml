@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_605aspace_ref13</field>
+    <field name="ead_ssi">tam_605</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Series I: Joseph and Helen Oken North Papers</field>
+    <field name="parent_unittitles_teim">Series I: Joseph and Helen Oken North Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">North (Joseph and Helen Oken) Family Papers</field>
+    <field name="collection_ssm">North (Joseph and Helen Oken) Family Papers</field>
+    <field name="collection_unitid_ssm">TAM.605</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.C: Joseph and Helen Oken North Correspondence</field>
+    <field name="unittitle_teim">Subseries I.C: Joseph and Helen Oken North Correspondence</field>
+    <field name="scopecontent_teim">This sub-series contains correspondence addressed to both Helen and Joseph North from their friends and family. A significant amount of materials contained within this sub-series also relate to Helen and Joseph's children Daniel, Susan, and Nora North. Many of these letters are addressed to the North children, either individually or collectively, while other letters contained in this section relate to the North children but have been addressed to their mother Helen. There is also a small amount of undated notes and correspondence between Joseph and Helen North.</field>
+    <field name="ref_ssi">aspace_ref13</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">North (Joseph and Helen Oken) Family Papers</field>
+    <field name="collection_unitid_teim">TAM.605</field>
+    <field name="series_sim">Series I: Joseph and Helen Oken North Papers</field>
+    <field name="series_si">Series I: Joseph and Helen Oken North Papers &gt;&gt; Subseries I.C: Joseph and Helen Oken North Correspondence</field>
+    <field name="heading_ssm">Subseries I.C: Joseph and Helen Oken North Correspondence</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">29</field>
+  </doc>
+</add>

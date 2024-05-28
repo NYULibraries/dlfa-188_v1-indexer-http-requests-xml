@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_612aspace_ref12</field>
+    <field name="ead_ssi">tam_612</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Roslyn Payne Collection of Black Panther Party FBI Files</field>
+    <field name="collection_ssm">Roslyn Payne Collection of Black Panther Party FBI Files</field>
+    <field name="collection_unitid_ssm">TAM.612</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: FBI Documents, Selected by Payne</field>
+    <field name="unittitle_teim">Series II: FBI Documents, Selected by Payne</field>
+    <field name="unitdate_normal_ssm">1957/1983</field>
+    <field name="unitdate_normal_teim">1957/1983</field>
+    <field name="unitdate_normal_sim">1957/1983</field>
+    <field name="unitdate_inclusive_teim">1957-1983</field>
+    <field name="scopecontent_teim">Series II: FBI Documents, Selected by Payne contains three boxes of documents that were photocopied by Payne from the set of bound FBI files and grouped topically. Many of these files relate to fake letters produced by various regional FBI offices in an attempt to spread rumors and misinformation throughout the party. There are also several documents from the New York COINTELPRO file number 100-161140, which relate to BPP activities in New York State and include documents about Dhoruba Bin Wahad. A small selection of these documents contains copies from the FBI Director's office, file number 100-448006. These items were originally loose in a box and were not grouped topically. They are in their original order and described as a single unit.</field>
+    <field name="ref_ssi">aspace_ref12</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Roslyn Payne Collection of Black Panther Party FBI Files</field>
+    <field name="collection_unitid_teim">TAM.612</field>
+    <field name="series_si">Series II: FBI Documents, Selected by Payne</field>
+    <field name="heading_ssm">Series II: FBI Documents, Selected by Payne</field>
+    <field name="unitdate_start_sim">1957</field>
+    <field name="unitdate_start_ssm">1957</field>
+    <field name="unitdate_start_si">1957</field>
+    <field name="unitdate_end_sim">1983</field>
+    <field name="unitdate_end_ssm">1983</field>
+    <field name="unitdate_end_si">1983</field>
+    <field name="unitdate_ssm">Inclusive, 1957-1983</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">27</field>
+  </doc>
+</add>

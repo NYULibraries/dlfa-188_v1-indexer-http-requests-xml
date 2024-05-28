@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_653aspace_ref98</field>
+    <field name="ead_ssi">tam_653</field>
+    <field name="parent_ssi">aspace_ref7</field>
+    <field name="parent_ssm">aspace_ref7</field>
+    <field name="parent_unittitles_ssm">Series I: Serials by Title</field>
+    <field name="parent_unittitles_teim">Series I: Serials by Title</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Freedom Socialist Party and Radical Women Newspaper and Pamphlet Collection</field>
+    <field name="collection_ssm">Freedom Socialist Party and Radical Women Newspaper and Pamphlet Collection</field>
+    <field name="collection_unitid_ssm">TAM.653</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Labour Action&lt;/em&gt; Publisher: Labour Action Committee City of publication: Toronto, ON</field>
+    <field name="unittitle_teim">Labour Action Publisher: Labour Action Committee City of publication: Toronto, ON</field>
+    <field name="unitdate_normal_ssm">1972/1973</field>
+    <field name="unitdate_normal_teim">1972/1973</field>
+    <field name="unitdate_normal_sim">1972/1973</field>
+    <field name="unitdate_inclusive_teim">1972-1973</field>
+    <field name="corpname_teim">Labour Action Committee</field>
+    <field name="corpname_ssm">Labour Action Committee</field>
+    <field name="title_teim">Labour Action</field>
+    <field name="title_ssm">Labour Action</field>
+    <field name="ref_ssi">aspace_ref98</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="name_sim">Labour Action Committee</field>
+    <field name="name_teim">Labour Action Committee</field>
+    <field name="collection_teim">Freedom Socialist Party and Radical Women Newspaper and Pamphlet Collection</field>
+    <field name="collection_unitid_teim">TAM.653</field>
+    <field name="series_sim">Series I: Serials by Title</field>
+    <field name="series_si">Series I: Serials by Title &gt;&gt; &lt;em&gt;Labour Action&lt;/em&gt; Publisher: Labour Action Committee City of publication: Toronto, ON</field>
+    <field name="heading_ssm">Labour Action Publisher: Labour Action Committee City of publication: Toronto, ON</field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_si">1972</field>
+    <field name="unitdate_end_sim">1973</field>
+    <field name="unitdate_end_ssm">1973</field>
+    <field name="unitdate_end_si">1973</field>
+    <field name="unitdate_ssm">Inclusive, 1972-1973</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">91</field>
+  </doc>
+</add>

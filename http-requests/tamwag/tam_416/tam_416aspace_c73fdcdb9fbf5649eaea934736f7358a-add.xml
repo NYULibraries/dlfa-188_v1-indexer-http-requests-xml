@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_416aspace_c73fdcdb9fbf5649eaea934736f7358a</field>
+    <field name="ead_ssi">tam_416</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Video Recordings</field>
+    <field name="parent_unittitles_teim">Series III: Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asian CineVision Records</field>
+    <field name="collection_ssm">Asian CineVision Records</field>
+    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Video 328: CCTV</field>
+    <field name="unittitle_teim">Video 328: CCTV</field>
+    <field name="unitid_teim">Cuid15093</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/882014</field>
+    <field name="unitid_ssm">Cuid15093</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/882014</field>
+    <field name="unitdate_normal_ssm">1982-04-29/1982-04-29</field>
+    <field name="unitdate_normal_teim">1982-04-29/1982-04-29</field>
+    <field name="unitdate_normal_sim">1982-04-29/1982-04-29</field>
+    <field name="unitdate_inclusive_teim">April 29, 1982</field>
+    <field name="scopecontent_teim">This episode includes three parts: news reports, a cultural program, and a television drama. The news reports cover international, local, and Chinatown news from the week. The second part is a program in which the host narrates the history of Chinese immigrants in the United States. The third part of the episode shows an episode from a 1980 Hong Kong television drama The Shell Game (千王之王) .</field>
+    <field name="phystech_teim">Format: 3/4" Umatic, Duration: 62 minutes</field>
+    <field name="dao_teim">Video 328: CCTV: April 29, 1982</field>
+    <field name="dao_ssm">Video 328: CCTV: April 29, 1982</field>
+    <field name="ref_ssi">aspace_c73fdcdb9fbf5649eaea934736f7358a</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 102, Video: Cuid15093</field>
+    <field name="location_ssm">Video: Cuid15093</field>
+    <field name="location_si">Video: Cuid15093</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Asian CineVision Records</field>
+    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="series_sim">Series III: Video Recordings</field>
+    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 328: CCTV</field>
+    <field name="heading_ssm">Video 328: CCTV</field>
+    <field name="unitdate_ssm">Inclusive, April 29, 1982</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">414</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_139aspace_ref3976</field>
+    <field name="ead_ssi">tam_139</field>
+    <field name="parent_ssi">aspace_ref3576</field>
+    <field name="parent_ssm">aspace_ref3575</field>
+    <field name="parent_ssm">aspace_ref3576</field>
+    <field name="parent_unittitles_ssm">Series III: Programs</field>
+    <field name="parent_unittitles_ssm">Subseries A: Departments and Activities</field>
+    <field name="parent_unittitles_teim">Series III: Programs</field>
+    <field name="parent_unittitles_teim">Subseries A: Departments and Activities</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Greenwich House Records</field>
+    <field name="collection_ssm">Greenwich House Records</field>
+    <field name="collection_unitid_ssm">TAM.139/repositories/2/resources/775</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Sub-subseries 48: Recreation</field>
+    <field name="unittitle_teim">Sub-subseries 48: Recreation</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/190051</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/190051</field>
+    <field name="ref_ssi">aspace_ref3976</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Greenwich House Records</field>
+    <field name="collection_unitid_teim">TAM.139/repositories/2/resources/775</field>
+    <field name="series_sim">Series III: Programs</field>
+    <field name="series_sim">Subseries A: Departments and Activities</field>
+    <field name="series_si">Series III: Programs &gt;&gt; Subseries A: Departments and Activities &gt;&gt; Sub-subseries 48: Recreation</field>
+    <field name="heading_ssm">Sub-subseries 48: Recreation</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2033</field>
+  </doc>
+</add>

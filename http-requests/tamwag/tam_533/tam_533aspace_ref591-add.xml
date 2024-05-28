@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_533aspace_ref591</field>
+    <field name="ead_ssi">tam_533</field>
+    <field name="parent_ssi">aspace_ref5</field>
+    <field name="parent_ssm">aspace_ref5</field>
+    <field name="parent_unittitles_ssm">Microfilm Reel List (with Cross-Reference to Original Box and Folder Locations)</field>
+    <field name="parent_unittitles_teim">Microfilm Reel List (with Cross-Reference to Original Box and Folder Locations)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Investigation Files of the Rapp-Coudert Committee (New York State Legislature)</field>
+    <field name="collection_ssm">Investigation Files of the Rapp-Coudert Committee (New York State Legislature)</field>
+    <field name="collection_unitid_ssm">TAM.533</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Hearing Transcripts: Bernard David Nino Gerbanier (Professor, Brooklyn College)</field>
+    <field name="unittitle_teim">Hearing Transcripts: Bernard David Nino Gerbanier (Professor, Brooklyn College)</field>
+    <field name="unitdate_normal_ssm">1940/1941</field>
+    <field name="unitdate_normal_teim">1940/1941</field>
+    <field name="unitdate_normal_sim">1940/1941</field>
+    <field name="unitdate_inclusive_teim">1940-1941</field>
+    <field name="ref_ssi">aspace_ref591</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">reel: R-7860, Reel_Frame: 46-0001</field>
+    <field name="location_ssm">Reel_Frame: 46-0001, box-folder: 17-RC551</field>
+    <field name="location_ssm">box-folder: 17-RC551</field>
+    <field name="location_si">box-folder: 17-RC551</field>
+    <field name="collection_teim">Investigation Files of the Rapp-Coudert Committee (New York State Legislature)</field>
+    <field name="collection_unitid_teim">TAM.533</field>
+    <field name="series_sim">Microfilm Reel List (with Cross-Reference to Original Box and Folder Locations)</field>
+    <field name="series_si">Microfilm Reel List (with Cross-Reference to Original Box and Folder Locations) &gt;&gt; Hearing Transcripts: Bernard David Nino Gerbanier (Professor, Brooklyn College)</field>
+    <field name="heading_ssm">Hearing Transcripts: Bernard David Nino Gerbanier (Professor, Brooklyn College)</field>
+    <field name="unitdate_start_sim">1940</field>
+    <field name="unitdate_start_ssm">1940</field>
+    <field name="unitdate_start_si">1940</field>
+    <field name="unitdate_end_sim">1941</field>
+    <field name="unitdate_end_ssm">1941</field>
+    <field name="unitdate_end_si">1941</field>
+    <field name="unitdate_ssm">Inclusive, 1940-1941</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">584</field>
+  </doc>
+</add>

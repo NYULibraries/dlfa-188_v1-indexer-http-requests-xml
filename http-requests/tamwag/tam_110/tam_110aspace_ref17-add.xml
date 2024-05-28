@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_110aspace_ref17</field>
+    <field name="ead_ssi">tam_110</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series I: Letters to Rose Pastor Stokes, ca. 1917-1931.</field>
+    <field name="parent_unittitles_teim">Series I: Letters to Rose Pastor Stokes, ca. 1917-1931.</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Olive Tilford Dargan and Rose Pastor Stokes Correspondence</field>
+    <field name="collection_ssm">Olive Tilford Dargan and Rose Pastor Stokes Correspondence</field>
+    <field name="collection_unitid_ssm">TAM.110</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Stokes, Letters to Olive Tilford Dargan (2)</field>
+    <field name="unittitle_teim">Stokes, Letters to Olive Tilford Dargan (2)</field>
+    <field name="unitdate_normal_ssm">1917/1931</field>
+    <field name="unitdate_normal_teim">1917/1931</field>
+    <field name="unitdate_normal_sim">1917/1931</field>
+    <field name="unitdate_inclusive_teim">undated , Dec 1925</field>
+    <field name="ref_ssi">aspace_ref17</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Olive Tilford Dargan and Rose Pastor Stokes Correspondence</field>
+    <field name="collection_unitid_teim">TAM.110</field>
+    <field name="series_sim">Series I: Letters to Rose Pastor Stokes, ca. 1917-1931.</field>
+    <field name="series_si">Series I: Letters to Rose Pastor Stokes, ca. 1917-1931. &gt;&gt; Stokes, Letters to Olive Tilford Dargan (2)</field>
+    <field name="heading_ssm">Stokes, Letters to Olive Tilford Dargan (2)</field>
+    <field name="unitdate_start_sim">1917</field>
+    <field name="unitdate_start_ssm">1917</field>
+    <field name="unitdate_start_si">1917</field>
+    <field name="unitdate_end_sim">1931</field>
+    <field name="unitdate_end_ssm">1931</field>
+    <field name="unitdate_end_si">1931</field>
+    <field name="unitdate_ssm">Inclusive, undated , Dec 1925</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

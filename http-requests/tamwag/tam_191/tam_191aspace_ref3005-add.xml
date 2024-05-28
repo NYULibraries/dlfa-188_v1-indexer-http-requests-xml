@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_191aspace_ref3005</field>
+    <field name="ead_ssi">tam_191</field>
+    <field name="parent_ssi">aspace_ref2858</field>
+    <field name="parent_ssm">aspace_ref2735</field>
+    <field name="parent_ssm">aspace_ref2858</field>
+    <field name="parent_unittitles_ssm">Part 2, Series II: National Office Programmatic Records</field>
+    <field name="parent_unittitles_ssm">Subseries C: General Files.</field>
+    <field name="parent_unittitles_teim">Part 2, Series II: National Office Programmatic Records</field>
+    <field name="parent_unittitles_teim">Subseries C: General Files.</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">National Lawyers Guild Records</field>
+    <field name="collection_ssm">National Lawyers Guild Records</field>
+    <field name="collection_unitid_ssm">TAM.191/repositories/2/resources/825</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">People's Lawyers Conference Resource</field>
+    <field name="unittitle_teim">People's Lawyers Conference Resource</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/206909</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/206909</field>
+    <field name="unitdate_normal_ssm">1993/1995</field>
+    <field name="unitdate_normal_teim">1993/1995</field>
+    <field name="unitdate_normal_sim">1993/1995</field>
+    <field name="unitdate_inclusive_teim">1993-1995</field>
+    <field name="ref_ssi">aspace_ref3005</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 77, Folder: 23</field>
+    <field name="location_ssm">Folder: 23</field>
+    <field name="location_si">Folder: 23</field>
+    <field name="collection_teim">National Lawyers Guild Records</field>
+    <field name="collection_unitid_teim">TAM.191/repositories/2/resources/825</field>
+    <field name="series_sim">Part 2, Series II: National Office Programmatic Records</field>
+    <field name="series_sim">Subseries C: General Files.</field>
+    <field name="series_si">Part 2, Series II: National Office Programmatic Records &gt;&gt; Subseries C: General Files. &gt;&gt; People's Lawyers Conference Resource</field>
+    <field name="heading_ssm">People's Lawyers Conference Resource</field>
+    <field name="unitdate_start_sim">1993</field>
+    <field name="unitdate_start_ssm">1993</field>
+    <field name="unitdate_start_si">1993</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, 1993-1995</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2993</field>
+  </doc>
+</add>

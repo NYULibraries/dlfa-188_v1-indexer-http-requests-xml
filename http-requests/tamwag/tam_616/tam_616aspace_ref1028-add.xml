@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref1028</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref843</field>
+    <field name="parent_ssm">aspace_ref843</field>
+    <field name="parent_unittitles_ssm">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+    <field name="parent_unittitles_teim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Riverside Church, Harlem: Castro Speech (part 1)</field>
+    <field name="unittitle_teim">Riverside Church, Harlem: Castro Speech (part 1)</field>
+    <field name="unitid_teim">cuid376</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242026</field>
+    <field name="unitid_ssm">cuid376</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242026</field>
+    <field name="unitdate_normal_ssm">2000/2000</field>
+    <field name="unitdate_normal_teim">2000/2000</field>
+    <field name="unitdate_normal_sim">2000/2000</field>
+    <field name="unitdate_inclusive_teim">2000 September 8</field>
+    <field name="scopecontent_teim">This video features footage of Fidel Castro's 2000 visit to the Riverside Church in the Harlem. The footage begins with a short speech by Bronx Congressman Jose Serrano welcoming Castro the New York City. The first 14-minutes feature individuals welcoming Castro and the crowd cheering for him and singing "Happy Birthday." At minute 14:30 Castro addresses the crowd and thanks them for their hospitality. He discusses his previous visits to New York City, and talks about several social issues like the blockade against Cuba, and maternal deaths and child malnutrition in the third world.</field>
+    <field name="phystech_teim">Original Format: Betacam. Duration: 00:29:18.</field>
+    <field name="dao_teim">Riverside Church, Harlem: Castro Speech (part 1): 2000 September 8</field>
+    <field name="dao_ssm">Riverside Church, Harlem: Castro Speech (part 1): 2000 September 8</field>
+    <field name="ref_ssi">aspace_ref1028</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 96, DVD: ref1028</field>
+    <field name="location_ssm">DVD: ref1028</field>
+    <field name="location_si">DVD: ref1028</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+    <field name="series_si">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel &gt;&gt; Riverside Church, Harlem: Castro Speech (part 1)</field>
+    <field name="heading_ssm">Riverside Church, Harlem: Castro Speech (part 1)</field>
+    <field name="unitdate_start_sim">2000</field>
+    <field name="unitdate_start_ssm">2000</field>
+    <field name="unitdate_start_si">2000</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 2000 September 8</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">626</field>
+  </doc>
+</add>

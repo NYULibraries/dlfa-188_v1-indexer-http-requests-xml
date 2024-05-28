@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_415aspace_88fa7e1bdb08c9ae428b9539c3fa8c5c</field>
+    <field name="ead_ssi">tam_415</field>
+    <field name="parent_ssi">aspace_b06631c4e0cbc49f0f0a429c235507ac</field>
+    <field name="parent_ssm">aspace_b06631c4e0cbc49f0f0a429c235507ac</field>
+    <field name="parent_unittitles_ssm">Series I. New York Supreme Court Records</field>
+    <field name="parent_unittitles_teim">Series I. New York Supreme Court Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_ssm">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_unitid_ssm">TAM.415/repositories/2/resources/2861</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Series I.B. Common Orders</field>
+    <field name="unittitle_teim">Series I.B. Common Orders</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/826322</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/826322</field>
+    <field name="unitdate_normal_ssm">1900/1915</field>
+    <field name="unitdate_normal_ssm">1900/1910</field>
+    <field name="unitdate_normal_teim">1900/1915</field>
+    <field name="unitdate_normal_teim">1900/1910</field>
+    <field name="unitdate_normal_sim">1900/1915</field>
+    <field name="unitdate_normal_sim">1900/1910</field>
+    <field name="unitdate_bulk_teim">1900-1910</field>
+    <field name="unitdate_inclusive_teim">1900-1915</field>
+    <field name="scopecontent_teim">This large subseries contains common orders of the New York Supreme Court from 1900-1915. The bulk of these records come from the years 1900-1910. The common orders consist of procedural records from civil cases that include complaints against the city, complaints against corporations, property disputes, contract disputes, guardianship disputes, divorce cases, and injury cases.</field>
+    <field name="ref_ssi">aspace_88fa7e1bdb08c9ae428b9539c3fa8c5c</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_unitid_teim">TAM.415/repositories/2/resources/2861</field>
+    <field name="series_sim">Series I. New York Supreme Court Records</field>
+    <field name="series_si">Series I. New York Supreme Court Records &gt;&gt; Series I.B. Common Orders</field>
+    <field name="heading_ssm">Series I.B. Common Orders</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">1915</field>
+    <field name="unitdate_end_sim">1910</field>
+    <field name="unitdate_end_ssm">1915</field>
+    <field name="unitdate_end_ssm">1910</field>
+    <field name="unitdate_end_si">1910</field>
+    <field name="unitdate_ssm">Inclusive, 1900-1915 ; 1900-1910</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">6253</field>
+  </doc>
+</add>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_661aspace_ref24</field>
+    <field name="ead_ssi">tam_661</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Papers</field>
+    <field name="parent_unittitles_teim">Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Penina Coopersmith Collection on Student Radicalism</field>
+    <field name="collection_ssm">Penina Coopersmith Collection on Student Radicalism</field>
+    <field name="collection_unitid_ssm">TAM.661</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Labor Unions</field>
+    <field name="unittitle_teim">Labor Unions</field>
+    <field name="ref_ssi">aspace_ref24</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Penina Coopersmith Collection on Student Radicalism</field>
+    <field name="collection_unitid_teim">TAM.661</field>
+    <field name="series_sim">Papers</field>
+    <field name="series_si">Papers &gt;&gt; Labor Unions</field>
+    <field name="heading_ssm">Labor Unions</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">9</field>
+  </doc>
+</add>

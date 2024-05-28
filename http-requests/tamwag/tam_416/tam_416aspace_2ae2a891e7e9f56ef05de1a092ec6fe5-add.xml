@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_416aspace_2ae2a891e7e9f56ef05de1a092ec6fe5</field>
+    <field name="ead_ssi">tam_416</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Video Recordings</field>
+    <field name="parent_unittitles_teim">Series III: Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asian CineVision Records</field>
+    <field name="collection_ssm">Asian CineVision Records</field>
+    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Video 321: CCTV</field>
+    <field name="unittitle_teim">Video 321: CCTV</field>
+    <field name="unitid_teim">Cuid15086</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/882007</field>
+    <field name="unitid_ssm">Cuid15086</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/882007</field>
+    <field name="unitdate_normal_ssm">1982-04-19/1982-04-19</field>
+    <field name="unitdate_normal_teim">1982-04-19/1982-04-19</field>
+    <field name="unitdate_normal_sim">1982-04-19/1982-04-19</field>
+    <field name="unitdate_inclusive_teim">April 19, 1982</field>
+    <field name="scopecontent_teim">This episode includes three parts: news reports, street interviews, and a television drama. The first part covers international, local, and Chinatown news from the week. In local news, conflicts arise between employers of a Chinese restaurant and their employees. The second part is street interviews with Chinatown residents about their views on cable television and CCTV programs. The third part is an episode from a 1980 Hong Kong television drama The Shell Game (千王之王) .</field>
+    <field name="phystech_teim">Format: 3/4" Umatic, Duration: 60 minutes</field>
+    <field name="dao_teim">Video 321: CCTV: April 19, 1982</field>
+    <field name="dao_ssm">Video 321: CCTV: April 19, 1982</field>
+    <field name="ref_ssi">aspace_2ae2a891e7e9f56ef05de1a092ec6fe5</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 102, Video: Cuid15086</field>
+    <field name="location_ssm">Video: Cuid15086</field>
+    <field name="location_si">Video: Cuid15086</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Asian CineVision Records</field>
+    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="series_sim">Series III: Video Recordings</field>
+    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 321: CCTV</field>
+    <field name="heading_ssm">Video 321: CCTV</field>
+    <field name="unitdate_ssm">Inclusive, April 19, 1982</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">407</field>
+  </doc>
+</add>

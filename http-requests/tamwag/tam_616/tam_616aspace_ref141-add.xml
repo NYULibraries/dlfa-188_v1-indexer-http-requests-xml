@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref141</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref946</field>
+    <field name="parent_ssm">aspace_ref946</field>
+    <field name="parent_unittitles_ssm">Series XIV: Mandela in Cuba</field>
+    <field name="parent_unittitles_teim">Series XIV: Mandela in Cuba</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Mandela, Nelson: Press Conference in Cuba</field>
+    <field name="unittitle_teim">Mandela, Nelson: Press Conference in Cuba</field>
+    <field name="unitid_teim">cuid18306</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242204</field>
+    <field name="unitid_ssm">cuid18306</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242204</field>
+    <field name="unitdate_normal_ssm">1991/1991</field>
+    <field name="unitdate_normal_teim">1991/1991</field>
+    <field name="unitdate_normal_sim">1991/1991</field>
+    <field name="unitdate_inclusive_teim">1991</field>
+    <field name="scopecontent_teim">This footage includes about ten minutes of questions and answers at a press conference. Mandela's responses to questions can be heard clearly, but many of the reporters' questions and translations are difficult to hear. In this recording Estela Bravo asks Mandela a question, which can be heard clearly. Additionally, there are places where imaging is poor and scenes are difficult to view.</field>
+    <field name="ref_ssi">aspace_ref141</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 77, DVD: ref141</field>
+    <field name="location_ssm">DVD: ref141</field>
+    <field name="location_si">DVD: ref141</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series XIV: Mandela in Cuba</field>
+    <field name="series_si">Series XIV: Mandela in Cuba &gt;&gt; Mandela, Nelson: Press Conference in Cuba</field>
+    <field name="heading_ssm">Mandela, Nelson: Press Conference in Cuba</field>
+    <field name="unitdate_start_sim">1991</field>
+    <field name="unitdate_start_ssm">1991</field>
+    <field name="unitdate_start_si">1991</field>
+    <field name="unitdate_end_sim">1991</field>
+    <field name="unitdate_end_ssm">1991</field>
+    <field name="unitdate_end_si">1991</field>
+    <field name="unitdate_ssm">Inclusive, 1991</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">791</field>
+  </doc>
+</add>

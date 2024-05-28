@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_148aspace_ref604</field>
+    <field name="ead_ssi">tam_148</field>
+    <field name="parent_ssi">aspace_ref2581</field>
+    <field name="parent_ssm">aspace_ref2581</field>
+    <field name="parent_unittitles_ssm">Series I: Counterattack Research Files</field>
+    <field name="parent_unittitles_teim">Series I: Counterattack Research Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">The Church League of America Collection of the Research Files of Counterattack, the Wackenhut Corporation, and Karl Baarslag</field>
+    <field name="collection_ssm">The Church League of America Collection of the Research Files of Counterattack, the Wackenhut Corporation, and Karl Baarslag</field>
+    <field name="collection_unitid_ssm">TAM.148</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Subseries IV: Communist Party USA Influenced Trade Unions</field>
+    <field name="unittitle_teim">Subseries IV: Communist Party USA Influenced Trade Unions</field>
+    <field name="unitdate_normal_ssm">1933/1965</field>
+    <field name="unitdate_normal_teim">1933/1965</field>
+    <field name="unitdate_normal_sim">1933/1965</field>
+    <field name="unitdate_inclusive_teim">1933-1965</field>
+    <field name="scopecontent_teim">This subseries contains the research files of Counterattack on trade unions suspected of being controlled or influenced by Communists. The majority of the materials come from between 1946 and 1949, and reflect attacks on Communism in unions and the attempts of union leaders to defend themselves, as well as simple documentation of union actions.</field>
+    <field name="scopecontent_teim">Counterattack acquired any information they could to build a case against a trade union and accuse them of having Communist sympathies in their publication or in their reports. They acquired information often through the use of mailing lists or through an informant. Files contain clippings, circulars, flyers, pamphlets, meeting minutes, membership lists, convention proceedings, and other material created by unions. The series also contains reports and internal correspondence created by Counterattack informants within the unions and the Counterattack research department. Most files are on American trade unions, many affiliated with the CIO and the AFL. Industries represented by the unions include manufacturing, entertainment, electrical, machine, retail, marine, textile, and service industries. This series also contains files on the Taft-Hartley Bill. There is a fair amount of material on union in-fighting over Communist sympathy. National unions are more widely represented. Most represented locals are based in New York.</field>
+    <field name="ref_ssi">aspace_ref604</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">The Church League of America Collection of the Research Files of Counterattack, the Wackenhut Corporation, and Karl Baarslag</field>
+    <field name="collection_unitid_teim">TAM.148</field>
+    <field name="series_sim">Series I: Counterattack Research Files</field>
+    <field name="series_si">Series I: Counterattack Research Files &gt;&gt; Subseries IV: Communist Party USA Influenced Trade Unions</field>
+    <field name="heading_ssm">Subseries IV: Communist Party USA Influenced Trade Unions</field>
+    <field name="unitdate_start_sim">1933</field>
+    <field name="unitdate_start_ssm">1933</field>
+    <field name="unitdate_start_si">1933</field>
+    <field name="unitdate_end_sim">1965</field>
+    <field name="unitdate_end_ssm">1965</field>
+    <field name="unitdate_end_si">1965</field>
+    <field name="unitdate_ssm">Inclusive, 1933-1965</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">260</field>
+  </doc>
+</add>

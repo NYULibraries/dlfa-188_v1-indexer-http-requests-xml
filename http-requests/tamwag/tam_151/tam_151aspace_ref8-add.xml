@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_151aspace_ref8</field>
+    <field name="ead_ssi">tam_151</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Lee Baxandall Papers</field>
+    <field name="collection_ssm">Lee Baxandall Papers</field>
+    <field name="collection_unitid_ssm">TAM.151</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Research Files</field>
+    <field name="unittitle_teim">Series I: Research Files</field>
+    <field name="unitdate_normal_ssm">1888/1976</field>
+    <field name="unitdate_normal_teim">1888/1976</field>
+    <field name="unitdate_normal_sim">1888/1976</field>
+    <field name="unitdate_inclusive_teim">1888-1976</field>
+    <field name="scopecontent_teim">This series consists of two sets of Lee Baxandall's research files. The first set of files make up the bulk of the series and focus on the works of Marxist scholars and artists. The files were compiled in the 1960s and 1970s and include Baxandall's typed and handwritten notes, scholarly articles, correspondence related to research inquiries, short draft segments, and copies of plays and essays by 19th and 20th century intellectuals. These files also contain a small amount material produced in the 1930s and 1940s including pamphlets, newspaper clippings, and collected correspondence related to Baxandall's research subjects. The largest portion of these files relate to Baxandall's research on playwright Bertolt Brecht.</field>
+    <field name="scopecontent_teim">The second set of research files relate more specifically to early-American socialist theater, art, and literature. These files largely consist of Baxandall's handwritten and typed notes on individuals and venues that championed Socialist theater in the early-20th century. Among these materials are several files on the works of painter Robert Koehler, with a particular focus on his oil painting "The Strike." These materials include correspondence with museums and owners of the artist's paintings, and relate to Baxandall's efforts to purchase and publicize Koehler's works. They also include an original 1888 letter to Koehler from painter James McNeil Whistler.</field>
+    <field name="scopecontent_teim">Notecards in this series contain abstracts on topics and individuals featured in Baxandall's research.</field>
+    <field name="ref_ssi">aspace_ref8</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Lee Baxandall Papers</field>
+    <field name="collection_unitid_teim">TAM.151</field>
+    <field name="series_si">Series I: Research Files</field>
+    <field name="heading_ssm">Series I: Research Files</field>
+    <field name="unitdate_start_sim">1888</field>
+    <field name="unitdate_start_ssm">1888</field>
+    <field name="unitdate_start_si">1888</field>
+    <field name="unitdate_end_sim">1976</field>
+    <field name="unitdate_end_ssm">1976</field>
+    <field name="unitdate_end_si">1976</field>
+    <field name="unitdate_ssm">Inclusive, 1888-1976</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

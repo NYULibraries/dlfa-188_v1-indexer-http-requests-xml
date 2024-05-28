@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_542aspace_ref1926</field>
+    <field name="ead_ssi">tam_542</field>
+    <field name="parent_ssi">aspace_ref1813</field>
+    <field name="parent_ssm">aspace_ref1812</field>
+    <field name="parent_ssm">aspace_ref1813</field>
+    <field name="parent_unittitles_ssm">Series X: Audio-Visual Material</field>
+    <field name="parent_unittitles_ssm">Subseries X:A: Audio Cassettes</field>
+    <field name="parent_unittitles_teim">Series X: Audio-Visual Material</field>
+    <field name="parent_unittitles_teim">Subseries X:A: Audio Cassettes</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Howard Zinn Papers</field>
+    <field name="collection_ssm">Howard Zinn Papers</field>
+    <field name="collection_unitid_ssm">TAM.542/repositories/2/resources/1106</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Black Rose Lecture Series: Howard Zinn - "Marx and Bakunin: A Dialogue"</field>
+    <field name="unittitle_teim">Black Rose Lecture Series: Howard Zinn - "Marx and Bakunin: A Dialogue"</field>
+    <field name="unitid_teim">cuid17153</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/235976</field>
+    <field name="unitid_ssm">cuid17153</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/235976</field>
+    <field name="unitdate_normal_ssm">1985/1985</field>
+    <field name="unitdate_normal_teim">1985/1985</field>
+    <field name="unitdate_normal_sim">1985/1985</field>
+    <field name="unitdate_inclusive_teim">Nov 15, 1985</field>
+    <field name="phystech_teim">Duration: 85 Minutes, Preservation Note: Audio volume low</field>
+    <field name="dao_teim">Black Rose Lecture Series: Howard Zinn - "Marx and Bakunin: A Dialogue": Nov 15, 1985</field>
+    <field name="dao_ssm">Black Rose Lecture Series: Howard Zinn - "Marx and Bakunin: A Dialogue": Nov 15, 1985</field>
+    <field name="ref_ssi">aspace_ref1926</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 74, Cassette: 50</field>
+    <field name="location_ssm">Cassette: 50</field>
+    <field name="location_si">Cassette: 50</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Howard Zinn Papers</field>
+    <field name="collection_unitid_teim">TAM.542/repositories/2/resources/1106</field>
+    <field name="series_sim">Series X: Audio-Visual Material</field>
+    <field name="series_sim">Subseries X:A: Audio Cassettes</field>
+    <field name="series_si">Series X: Audio-Visual Material &gt;&gt; Subseries X:A: Audio Cassettes &gt;&gt; Black Rose Lecture Series: Howard Zinn - "Marx and Bakunin: A Dialogue"</field>
+    <field name="heading_ssm">Black Rose Lecture Series: Howard Zinn - "Marx and Bakunin: A Dialogue"</field>
+    <field name="unitdate_start_sim">1985</field>
+    <field name="unitdate_start_ssm">1985</field>
+    <field name="unitdate_start_si">1985</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_si">1985</field>
+    <field name="unitdate_ssm">Inclusive, Nov 15, 1985</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1898</field>
+  </doc>
+</add>

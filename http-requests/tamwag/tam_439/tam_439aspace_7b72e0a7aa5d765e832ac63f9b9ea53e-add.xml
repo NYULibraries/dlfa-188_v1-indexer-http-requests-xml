@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_439aspace_7b72e0a7aa5d765e832ac63f9b9ea53e</field>
+    <field name="ead_ssi">tam_439</field>
+    <field name="parent_ssi">aspace_85a5deaf13879a5ab878ba9fbf50f2a6</field>
+    <field name="parent_ssm">aspace_85a5deaf13879a5ab878ba9fbf50f2a6</field>
+    <field name="parent_unittitles_ssm">Series XI: Objects</field>
+    <field name="parent_unittitles_teim">Series XI: Objects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Camp Kinderland Records</field>
+    <field name="collection_ssm">Camp Kinderland Records</field>
+    <field name="collection_unitid_ssm">TAM.439</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bandana and Button</field>
+    <field name="unittitle_teim">Bandana and Button</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_7b72e0a7aa5d765e832ac63f9b9ea53e</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Camp Kinderland Records</field>
+    <field name="collection_unitid_teim">TAM.439</field>
+    <field name="series_sim">Series XI: Objects</field>
+    <field name="series_si">Series XI: Objects &gt;&gt; Bandana and Button</field>
+    <field name="heading_ssm">Bandana and Button</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">459</field>
+  </doc>
+</add>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_115aspace_ref28</field>
+    <field name="ead_ssi">tam_115</field>
+    <field name="parent_ssi">aspace_ref5</field>
+    <field name="parent_ssm">aspace_ref5</field>
+    <field name="parent_unittitles_ssm">Series I: Inventory</field>
+    <field name="parent_unittitles_teim">Series I: Inventory</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Harry Fleischman Papers</field>
+    <field name="collection_ssm">Harry Fleischman Papers</field>
+    <field name="collection_unitid_ssm">TAM.115/repositories/2/resources/748</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Paul R. Porter Manuscript, Michael Harrington Speech at the Norman Thomas Centennial Commemoration (1984), Union Contribution Lists, Newspaper Clippings on Central America, Invoices, Correspondence re: Norman Thomas and Documentary Film, American Film Festival Material and Booklets, New York Teacher Association Material, Minutes of Norman Thomas Committee Meeting, Hunger Action Coalition, Sembra Newspapers, Proposed Farmworker Field Sanitation Proposal, Pamphlets and Church Materials, Workers' Defense League Files</field>
+    <field name="unittitle_teim">Paul R. Porter Manuscript, Michael Harrington Speech at the Norman Thomas Centennial Commemoration (1984), Union Contribution Lists, Newspaper Clippings on Central America, Invoices, Correspondence re: Norman Thomas and Documentary Film, American Film Festival Material and Booklets, New York Teacher Association Material, Minutes of Norman Thomas Committee Meeting, Hunger Action Coalition, Sembra Newspapers, Proposed Farmworker Field Sanitation Proposal, Pamphlets and Church Materials, Workers' Defense League Files</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/168391</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/168391</field>
+    <field name="unitdate_normal_ssm">1982/1994</field>
+    <field name="unitdate_normal_teim">1982/1994</field>
+    <field name="unitdate_normal_sim">1982/1994</field>
+    <field name="unitdate_inclusive_teim">1982-1994</field>
+    <field name="ref_ssi">aspace_ref28</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 23</field>
+    <field name="location_si">Box: 23</field>
+    <field name="collection_teim">Harry Fleischman Papers</field>
+    <field name="collection_unitid_teim">TAM.115/repositories/2/resources/748</field>
+    <field name="series_sim">Series I: Inventory</field>
+    <field name="series_si">Series I: Inventory &gt;&gt; Paul R. Porter Manuscript, Michael Harrington Speech at the Norman Thomas Centennial Commemoration (1984), Union Contribution Lists, Newspaper Clippings on Central America, Invoices, Correspondence re: Norman Thomas and Documentary Film, American Film Festival Material and Booklets, New York Teacher Association Material, Minutes of Norman Thomas Committee Meeting, Hunger Action Coalition, Sembra Newspapers, Proposed Farmworker Field Sanitation Proposal, Pamphlets and Church Materials, Workers' Defense League Files</field>
+    <field name="heading_ssm">Paul R. Porter Manuscript, Michael Harrington Speech at the Norman Thomas Centennial Commemoration (1984), Union Contribution Lists, Newspaper Clippings on Central America, Invoices, Correspondence re: Norman Thomas and Documentary Film, American Film Festival Material and Booklets, New York Teacher Association Material, Minutes of Norman Thomas Committee Meeting, Hunger Action Coalition, Sembra Newspapers, Proposed Farmworker Field Sanitation Proposal, Pamphlets and Church Materials, Workers' Defense League Files</field>
+    <field name="unitdate_start_sim">1982</field>
+    <field name="unitdate_start_ssm">1982</field>
+    <field name="unitdate_start_si">1982</field>
+    <field name="unitdate_end_sim">1994</field>
+    <field name="unitdate_end_ssm">1994</field>
+    <field name="unitdate_end_si">1994</field>
+    <field name="unitdate_ssm">Inclusive, 1982-1994</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

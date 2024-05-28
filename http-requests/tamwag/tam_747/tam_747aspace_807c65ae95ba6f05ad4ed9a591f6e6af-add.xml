@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_747aspace_807c65ae95ba6f05ad4ed9a591f6e6af</field>
+    <field name="ead_ssi">tam_747</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Collection of Communist and Socialist Serials</field>
+    <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Collection of Communist and Socialist Serials</field>
+    <field name="collection_unitid_ssm">TAM.747</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: International Publications</field>
+    <field name="unittitle_teim">Series II: International Publications</field>
+    <field name="unitid_teim">cuid11440</field>
+    <field name="unitid_ssm">cuid11440</field>
+    <field name="unitdate_normal_ssm">1850/2013</field>
+    <field name="unitdate_normal_teim">1850/2013</field>
+    <field name="unitdate_normal_sim">1850/2013</field>
+    <field name="unitdate_inclusive_teim">1850-2013</field>
+    <field name="scopecontent_teim">This series collects 685 serials and publications issued by Communist and Socialist organizations outside the United States, including in Puerto Rico, Canada, Jamaica, England, Germany, and across the former Soviet Union.</field>
+    <field name="ref_ssi">aspace_807c65ae95ba6f05ad4ed9a591f6e6af</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Collection of Communist and Socialist Serials</field>
+    <field name="collection_unitid_teim">TAM.747</field>
+    <field name="series_si">Series II: International Publications</field>
+    <field name="heading_ssm">Series II: International Publications</field>
+    <field name="unitdate_start_sim">1850</field>
+    <field name="unitdate_start_ssm">1850</field>
+    <field name="unitdate_start_si">1850</field>
+    <field name="unitdate_end_sim">2013</field>
+    <field name="unitdate_end_ssm">2013</field>
+    <field name="unitdate_end_si">2013</field>
+    <field name="unitdate_ssm">Inclusive, 1850-2013</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1382</field>
+  </doc>
+</add>

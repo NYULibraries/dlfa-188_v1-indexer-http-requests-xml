@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_592aspace_5a3826a80a10370aae5d58db33afdf39</field>
+    <field name="ead_ssi">tam_592</field>
+    <field name="parent_ssi">aspace_74563e9b1d8a631421da4285195fec55</field>
+    <field name="parent_ssm">aspace_74563e9b1d8a631421da4285195fec55</field>
+    <field name="parent_unittitles_ssm">Series I. Theater</field>
+    <field name="parent_unittitles_teim">Series I. Theater</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jesusa Rodríguez Papers</field>
+    <field name="collection_ssm">Jesusa Rodríguez Papers</field>
+    <field name="collection_unitid_ssm">TAM.592</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Pastorela Extraterrestre&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Pastorela Extraterrestre
+    </field>
+    <field name="unitdate_normal_ssm">2002/2002</field>
+    <field name="unitdate_normal_teim">2002/2002</field>
+    <field name="unitdate_normal_sim">2002/2002</field>
+    <field name="unitdate_inclusive_teim">2002</field>
+    <field name="dao_teim">Pastorela Extraterrestre: circa 2002</field>
+    <field name="dao_ssm">Pastorela Extraterrestre: circa 2002</field>
+    <field name="ref_ssi">aspace_5a3826a80a10370aae5d58db33afdf39</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: TW_TAM_592_2</field>
+    <field name="location_ssm">E-records: TW_TAM_592_2</field>
+    <field name="location_ssm">Box: 2, Folder: 24</field>
+    <field name="location_ssm">Folder: 24</field>
+    <field name="location_si">Folder: 24</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Jesusa Rodríguez Papers</field>
+    <field name="collection_unitid_teim">TAM.592</field>
+    <field name="series_sim">Series I. Theater</field>
+    <field name="series_si">Series I. Theater &gt;&gt; 
+      &lt;em&gt;Pastorela Extraterrestre&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Pastorela Extraterrestre
+    </field>
+    <field name="unitdate_start_sim">2002</field>
+    <field name="unitdate_start_ssm">2002</field>
+    <field name="unitdate_start_si">2002</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 2002</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

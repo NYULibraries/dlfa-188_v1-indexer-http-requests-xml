@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_416aspace_f3f2ada3a72608a6c11151038000570f</field>
+    <field name="ead_ssi">tam_416</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Video Recordings</field>
+    <field name="parent_unittitles_teim">Series III: Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asian CineVision Records</field>
+    <field name="collection_ssm">Asian CineVision Records</field>
+    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Video 287: CCTV</field>
+    <field name="unittitle_teim">Video 287: CCTV</field>
+    <field name="unitid_teim">Cuid15052</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/881973</field>
+    <field name="unitid_ssm">Cuid15052</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/881973</field>
+    <field name="unitdate_normal_ssm">1981-10-11/1981-10-11</field>
+    <field name="unitdate_normal_teim">1981-10-11/1981-10-11</field>
+    <field name="unitdate_normal_sim">1981-10-11/1981-10-11</field>
+    <field name="unitdate_inclusive_teim">October 11, 1981</field>
+    <field name="scopecontent_teim">This episode includes two parts: news reports and a social service program. The first part covers international, local, and Chinatown news from the week. The local news features a campaign that opposes the Special Manhattan Bridge District project. The project intends to renew the neighborhood by demolishing old buildings. Chinatown residents and Asian Americans For Equality demand a public hearing in the Chinatown community. The episode also includes a feature report introducing the history of services provided by the New York Public Library Chinatown branch located at 33 East Broadway, New York City. The second part is a program called At Your Service (爲你服務) in which the Chinatown Daycare Center is featured. The Chinatown Daycare Center, founded in 1969, faces financial burden and will be demolished by the state government.</field>
+    <field name="phystech_teim">Format: 3/4" Umatic, Duration: 59 minutes</field>
+    <field name="dao_teim">Video 287: CCTV: October 11, 1981</field>
+    <field name="dao_ssm">Video 287: CCTV: October 11, 1981</field>
+    <field name="ref_ssi">aspace_f3f2ada3a72608a6c11151038000570f</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 98, Video: Cuid15052</field>
+    <field name="location_ssm">Video: Cuid15052</field>
+    <field name="location_si">Video: Cuid15052</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Asian CineVision Records</field>
+    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="series_sim">Series III: Video Recordings</field>
+    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 287: CCTV</field>
+    <field name="heading_ssm">Video 287: CCTV</field>
+    <field name="unitdate_ssm">Inclusive, October 11, 1981</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">373</field>
+  </doc>
+</add>

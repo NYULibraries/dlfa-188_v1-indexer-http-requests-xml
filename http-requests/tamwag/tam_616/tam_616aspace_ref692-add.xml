@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref692</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref972</field>
+    <field name="parent_ssm">aspace_ref972</field>
+    <field name="parent_unittitles_ssm">Series XVI: The Marielitos</field>
+    <field name="parent_unittitles_teim">Series XVI: The Marielitos</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Footage: Scenes of Camp Mosquito Marielitos</field>
+    <field name="unittitle_teim">Footage: Scenes of Camp Mosquito Marielitos</field>
+    <field name="unitid_teim">cuid18325</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242227</field>
+    <field name="unitid_ssm">cuid18325</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242227</field>
+    <field name="unitdate_normal_ssm">1982/1982</field>
+    <field name="unitdate_normal_teim">1982/1982</field>
+    <field name="unitdate_normal_sim">1982/1982</field>
+    <field name="unitdate_inclusive_teim">circa 1982</field>
+    <field name="bioghist_teim">El Mosquito was a holding area for Cubans waiting to join the Mariel boatlift.</field>
+    <field name="dao_teim">Footage: Scenes of Camp Mosquito Marielitos</field>
+    <field name="dao_ssm">Footage: Scenes of Camp Mosquito Marielitos</field>
+    <field name="ref_ssi">aspace_ref692</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 83, DVD: ref692</field>
+    <field name="location_ssm">DVD: ref692</field>
+    <field name="location_ssm">Box: Electronic Records</field>
+    <field name="location_si">Box: Electronic Records</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series XVI: The Marielitos</field>
+    <field name="series_si">Series XVI: The Marielitos &gt;&gt; Footage: Scenes of Camp Mosquito Marielitos</field>
+    <field name="heading_ssm">Footage: Scenes of Camp Mosquito Marielitos</field>
+    <field name="unitdate_start_sim">1982</field>
+    <field name="unitdate_start_ssm">1982</field>
+    <field name="unitdate_start_si">1982</field>
+    <field name="unitdate_end_sim">1982</field>
+    <field name="unitdate_end_ssm">1982</field>
+    <field name="unitdate_end_si">1982</field>
+    <field name="unitdate_ssm">Inclusive, circa 1982</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">816</field>
+  </doc>
+</add>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_ref1532</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_ref1478</field>
+    <field name="parent_ssm">aspace_ref1478</field>
+    <field name="parent_unittitles_ssm">Series II: State and District Records</field>
+    <field name="parent_unittitles_teim">Series II: State and District Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II.B: New York State Records</field>
+    <field name="unittitle_teim">Subseries II.B: New York State Records</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/172549</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/172549</field>
+    <field name="unitdate_normal_ssm">1938/2003</field>
+    <field name="unitdate_normal_teim">1938/2003</field>
+    <field name="unitdate_normal_sim">1938/2003</field>
+    <field name="unitdate_inclusive_teim">1938-2003</field>
+    <field name="scopecontent_teim">This subseries contains administrative records from the New York State District. The New York State District office occupies the same space as the national office headquarters; as a result, these records are significantly more extensive than those of other states or districts. These records are a rich resource for understanding how the Party galvanized members at the local club level by creating a sense of community and shared purpose. They provide ample evidence of how members applied Party theory to organizing around contemporary issues such as civil rights, ethnic communities, housing, racism, transportation, and the working class, particularly during the 1960s, 1970s, and 1980s. Meeting minutes, correspondence, district convention materials, membership applications, reports, resolutions, speeches, and recorded meetings can be found in this subseries, as well as the records of some staff members such as Lucia Faithfull-Stevenson, Esther Moroze, and Carol Pittman. Audio recordings in this subseries document New York State conventions and committee meetings, as well as a few select membership meetings.</field>
+    <field name="ref_ssi">aspace_ref1532</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series II: State and District Records</field>
+    <field name="series_si">Series II: State and District Records &gt;&gt; Subseries II.B: New York State Records</field>
+    <field name="heading_ssm">Subseries II.B: New York State Records</field>
+    <field name="unitdate_start_sim">1938</field>
+    <field name="unitdate_start_ssm">1938</field>
+    <field name="unitdate_start_si">1938</field>
+    <field name="unitdate_end_sim">2003</field>
+    <field name="unitdate_end_ssm">2003</field>
+    <field name="unitdate_end_si">2003</field>
+    <field name="unitdate_ssm">Inclusive, 1938-2003</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">2077</field>
+  </doc>
+</add>

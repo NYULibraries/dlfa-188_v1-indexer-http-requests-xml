@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_ref2829</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_ref2700</field>
+    <field name="parent_ssm">aspace_ref2700</field>
+    <field name="parent_unittitles_ssm">Series IV: Education</field>
+    <field name="parent_unittitles_teim">Series IV: Education</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV.B: Schools</field>
+    <field name="unittitle_teim">Subseries IV.B: Schools</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/173835</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/173835</field>
+    <field name="unitdate_normal_ssm">1945/1993</field>
+    <field name="unitdate_normal_teim">1945/1993</field>
+    <field name="unitdate_normal_sim">1945/1993</field>
+    <field name="unitdate_inclusive_teim">1945-1993</field>
+    <field name="scopecontent_teim">Throughout much of the 20th century, there were a number of institutions designed to educate the working class on the fundamentals of communism, union organizing and labor history, political writing, and economic theory. Some of these institutions were directly affiliated with the CPUSA, such as the Du Bois Foster Schools or the Workers School (later known as the Jefferson School of Social Science), and aimed to recruit, train, and mobilize members. Others, like the California Labor School, were not explicitly affiliated with the CPUSA though they taught progressive curriculum that was often in line with Party ideology and initiatives. Though the majority of course offerings focused on political theory, history, and action, many schools also offered classes on culture and the arts. Teachers were usually former university or college professors or prominent CPUSA leaders and intellectuals. Student applications, course descriptions and outlines, discussion guides, and other course materials from several of these educational institutions form the bulk of this subseries. The Jefferson School of Social Science and its predecessor, the Workers School, are well represented; their records date from the early 1920s to the 1980s. Audio recordings of lectures and forum discussions at National Party Schools and Regional Party Schools are well represented in this series as well. These schools were organized and run by Communist Party leadership annually, and usually consisted of several weeks of coursework and presentations. Also represented are a small amount of recordings from the People's School for Marxist Studies.</field>
+    <field name="ref_ssi">aspace_ref2829</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series IV: Education</field>
+    <field name="series_si">Series IV: Education &gt;&gt; Subseries IV.B: Schools</field>
+    <field name="heading_ssm">Subseries IV.B: Schools</field>
+    <field name="unitdate_start_sim">1945</field>
+    <field name="unitdate_start_ssm">1945</field>
+    <field name="unitdate_start_si">1945</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, 1945-1993</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3413</field>
+  </doc>
+</add>

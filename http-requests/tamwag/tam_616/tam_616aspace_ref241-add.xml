@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref241</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref944</field>
+    <field name="parent_ssm">aspace_ref944</field>
+    <field name="parent_unittitles_ssm">Series VI: The Cuban Excludables</field>
+    <field name="parent_unittitles_teim">Series VI: The Cuban Excludables</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Smith, Wayne: Interview</field>
+    <field name="unittitle_teim">Smith, Wayne: Interview</field>
+    <field name="unitid_teim">cuid17779</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/241523</field>
+    <field name="unitid_ssm">cuid17779</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/241523</field>
+    <field name="unitdate_normal_ssm">1992/1992</field>
+    <field name="unitdate_normal_teim">1992/1992</field>
+    <field name="unitdate_normal_sim">1992/1992</field>
+    <field name="unitdate_inclusive_teim">1992 November 24</field>
+    <field name="scopecontent_teim">This interview features American diplomat Wayne Smith speaking with Canadian journalist Linden McIntyre. The interview begins with a discussion of diplomatic relations between the United States and Cuba, tensions that led to the crisis of the Mariel Boatlift, and the excludable immigrants that arrived in the United States among that group. Smith discusses diplomatic talks between Cuba and the United States that took place under the administration of Jimmy Carter, but were stalled after Ronald Reagan took office. He talks about this history of US immigration policy toward Cuba and expresses his hope that the incoming Clinton administration will normalize relations. The last 10 minutes of the video focus on interviewer Linden McIntyre and feature him restating questions to make them more succinct for the edited film.</field>
+    <field name="phystech_teim">Original Format: Betacam. Duration: 00:31:03.</field>
+    <field name="dao_teim">Smith, Wayne: Interview: 1992 November 24</field>
+    <field name="dao_ssm">Smith, Wayne: Interview: 1992 November 24</field>
+    <field name="ref_ssi">aspace_ref241</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 97, DVD: ref241</field>
+    <field name="location_ssm">DVD: ref241</field>
+    <field name="location_si">DVD: ref241</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series VI: The Cuban Excludables</field>
+    <field name="series_si">Series VI: The Cuban Excludables &gt;&gt; Smith, Wayne: Interview</field>
+    <field name="heading_ssm">Smith, Wayne: Interview</field>
+    <field name="unitdate_start_sim">1992</field>
+    <field name="unitdate_start_ssm">1992</field>
+    <field name="unitdate_start_si">1992</field>
+    <field name="unitdate_end_sim">1992</field>
+    <field name="unitdate_end_ssm">1992</field>
+    <field name="unitdate_end_si">1992</field>
+    <field name="unitdate_ssm">Inclusive, 1992 November 24</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">189</field>
+  </doc>
+</add>

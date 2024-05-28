@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_a44761c2f04a62fd1d7e5628fc7f68d2</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_0caca654ffba60b3aa2671408eef18ef</field>
+    <field name="parent_ssm">aspace_496363658f80e1c5e518c2b016cf0bd4</field>
+    <field name="parent_ssm">aspace_0caca654ffba60b3aa2671408eef18ef</field>
+    <field name="parent_unittitles_ssm">Series XIII: Collected Film and Audio Library</field>
+    <field name="parent_unittitles_ssm">Subseries XIII.B: Films</field>
+    <field name="parent_unittitles_teim">Series XIII: Collected Film and Audio Library</field>
+    <field name="parent_unittitles_teim">Subseries XIII.B: Films</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Small Gauge Travel Films USSR</field>
+    <field name="unittitle_teim">Small Gauge Travel Films USSR</field>
+    <field name="unitid_teim">cuid31795</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/761489</field>
+    <field name="unitid_ssm">cuid31795</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/761489</field>
+    <field name="unitdate_normal_ssm">1930/1940</field>
+    <field name="unitdate_normal_teim">1930/1940</field>
+    <field name="unitdate_normal_sim">1930/1940</field>
+    <field name="unitdate_inclusive_teim">c. 1930s</field>
+    <field name="scopecontent_teim">This is a group of films from 1930s USSR that have relating and sometimes overlapping footage.
+CP 103: "Collectives"
+CP 104: "Gorki Collectives"
+CP 118: "Misc. Russian Life"
+CP 106: "Misc. Russian Life II"
+CP 105: "Picnic '35 Moscow-Len. Tiflis"
+CP 120: "Moscow"
+CP 117: "Russian Children"
+cuid14: "S.N. Leningrad"
+cuid15: "Tifilis Camp"</field>
+    <field name="phystech_teim">16mm films, total duration: 02:38:36; the individual films are all between 15 and 18 minutes long.</field>
+    <field name="phystech_teim">These films do not have audio.</field>
+    <field name="phystech_teim">Preservation Note: CP105A is a Dupe negative from preservation project for CP105. CP105B is an Answer print from preservation project for CP105. CP105C is a Release print from preservation project for CP105.</field>
+    <field name="dao_teim">Small Gauge Travel Films USSR</field>
+    <field name="dao_ssm">Small Gauge Travel Films USSR</field>
+    <field name="ref_ssi">aspace_a44761c2f04a62fd1d7e5628fc7f68d2</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 465, reel: 16, cuid14</field>
+    <field name="location_ssm">reel: 16, cuid14</field>
+    <field name="location_ssm">Box: 465, reel: 17, cuid15</field>
+    <field name="location_ssm">reel: 17, cuid15</field>
+    <field name="location_ssm">Box: 519, reel: cuid31855, CP 106</field>
+    <field name="location_ssm">reel: cuid31855, CP 106</field>
+    <field name="location_ssm">Box: 519, reel: cuid31869, CP 105</field>
+    <field name="location_ssm">reel: cuid31869, CP 105</field>
+    <field name="location_ssm">Box: 519, reel: cuid31821, CP 104</field>
+    <field name="location_ssm">reel: cuid31821, CP 104</field>
+    <field name="location_ssm">Box: 519, reel: cuid31882, CP 117</field>
+    <field name="location_ssm">reel: cuid31882, CP 117</field>
+    <field name="location_ssm">Box: 519, reel: cuid31854, CP 118</field>
+    <field name="location_ssm">reel: cuid31854, CP 118</field>
+    <field name="location_ssm">Box: 519, reel: cuid31881, CP 120</field>
+    <field name="location_ssm">reel: cuid31881, CP 120</field>
+    <field name="location_ssm">Box: 519, reel: CP246</field>
+    <field name="location_ssm">reel: CP246</field>
+    <field name="location_ssm">Box: 520, reel: CP103</field>
+    <field name="location_ssm">reel: CP103</field>
+    <field name="location_ssm">Box: Shared Tamiment 135, reel: CP105A</field>
+    <field name="location_ssm">reel: CP105A</field>
+    <field name="location_ssm">Box: Shared Tamiment 136, reel: CP105B, CP105C</field>
+    <field name="location_ssm">reel: CP105B, CP105C</field>
+    <field name="location_si">reel: CP105B, CP105C</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series XIII: Collected Film and Audio Library</field>
+    <field name="series_sim">Subseries XIII.B: Films</field>
+    <field name="series_si">Series XIII: Collected Film and Audio Library &gt;&gt; Subseries XIII.B: Films &gt;&gt; Small Gauge Travel Films USSR</field>
+    <field name="heading_ssm">Small Gauge Travel Films USSR</field>
+    <field name="unitdate_start_sim">1930</field>
+    <field name="unitdate_start_ssm">1930</field>
+    <field name="unitdate_start_si">1930</field>
+    <field name="unitdate_end_sim">1940</field>
+    <field name="unitdate_end_ssm">1940</field>
+    <field name="unitdate_end_si">1940</field>
+    <field name="unitdate_ssm">Inclusive, c. 1930s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">13028</field>
+  </doc>
+</add>

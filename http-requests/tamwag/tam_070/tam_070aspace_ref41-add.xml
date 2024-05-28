@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_070aspace_ref41</field>
+    <field name="ead_ssi">tam_070</field>
+    <field name="parent_ssi">aspace_ref35</field>
+    <field name="parent_ssm">aspace_ref35</field>
+    <field name="parent_unittitles_ssm">Series IV: Charlotte Stern's Writings, 1928-45</field>
+    <field name="parent_unittitles_teim">Series IV: Charlotte Stern's Writings, 1928-45</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Charlotte Todes Stern Papers</field>
+    <field name="collection_ssm">Charlotte Todes Stern Papers</field>
+    <field name="collection_unitid_ssm">TAM.070</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Translations of Rosa Luxemburg Letters 1916-18</field>
+    <field name="unittitle_teim">Translations of Rosa Luxemburg Letters 1916-18</field>
+    <field name="unitdate_normal_ssm">1925/1956</field>
+    <field name="unitdate_normal_teim">1925/1956</field>
+    <field name="unitdate_normal_sim">1925/1956</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref41</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Charlotte Todes Stern Papers</field>
+    <field name="collection_unitid_teim">TAM.070</field>
+    <field name="series_sim">Series IV: Charlotte Stern's Writings, 1928-45</field>
+    <field name="series_si">Series IV: Charlotte Stern's Writings, 1928-45 &gt;&gt; Translations of Rosa Luxemburg Letters 1916-18</field>
+    <field name="heading_ssm">Translations of Rosa Luxemburg Letters 1916-18</field>
+    <field name="unitdate_start_sim">1925</field>
+    <field name="unitdate_start_ssm">1925</field>
+    <field name="unitdate_start_si">1925</field>
+    <field name="unitdate_end_sim">1956</field>
+    <field name="unitdate_end_ssm">1956</field>
+    <field name="unitdate_end_si">1956</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">30</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref1311</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series XVII: &lt;em&gt;Maurice Bishop&lt;/em&gt;</field>
+    <field name="unittitle_teim">Series XVII: Maurice Bishop</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242229</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242229</field>
+    <field name="unitdate_normal_ssm">1984/1988</field>
+    <field name="unitdate_normal_teim">1984/1988</field>
+    <field name="unitdate_normal_sim">1984/1988</field>
+    <field name="unitdate_inclusive_teim">1984-1988</field>
+    <field name="scopecontent_teim">The 25-minute documentary Maurice Bishop (1984) reconstructs the events leading up to Maurice Bishop's assassination and the United States invasion of Grenada. The film won an Honorable Mention, Black Filmmakers Paul Robeson Award, at the 1985 Newark Film Festival.</field>
+    <field name="ref_ssi">aspace_ref1311</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_si">Series XVII: &lt;em&gt;Maurice Bishop&lt;/em&gt;</field>
+    <field name="heading_ssm">Series XVII: Maurice Bishop</field>
+    <field name="unitdate_start_sim">1984</field>
+    <field name="unitdate_start_ssm">1984</field>
+    <field name="unitdate_start_si">1984</field>
+    <field name="unitdate_end_sim">1988</field>
+    <field name="unitdate_end_ssm">1988</field>
+    <field name="unitdate_end_si">1988</field>
+    <field name="unitdate_ssm">Inclusive, 1984-1988</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">819</field>
+  </doc>
+</add>

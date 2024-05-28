@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_623aspace_ref82</field>
+    <field name="ead_ssi">tam_623</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Cartoons by Publication</field>
+    <field name="parent_unittitles_teim">Cartoons by Publication</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Samuel Zagat Drawings and Photographs</field>
+    <field name="collection_ssm">Samuel Zagat Drawings and Photographs</field>
+    <field name="collection_unitid_ssm">TAM.623/repositories/2/resources/1178</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Warheit&lt;/em&gt;: Named series: &lt;em&gt;Gimpl Beinish&lt;/em&gt;: Prints</field>
+    <field name="unittitle_teim">Warheit: Named series: Gimpl Beinish: Prints</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242932</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242932</field>
+    <field name="unitdate_teim">Jun 1916</field>
+    <field name="ref_ssi">aspace_ref82</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Samuel Zagat Drawings and Photographs</field>
+    <field name="collection_unitid_teim">TAM.623/repositories/2/resources/1178</field>
+    <field name="series_sim">Cartoons by Publication</field>
+    <field name="series_si">Cartoons by Publication &gt;&gt; &lt;em&gt;Warheit&lt;/em&gt;: Named series: &lt;em&gt;Gimpl Beinish&lt;/em&gt;: Prints</field>
+    <field name="heading_ssm">Warheit: Named series: Gimpl Beinish: Prints</field>
+    <field name="unitdate_ssm">Jun 1916</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">70</field>
+  </doc>
+</add>

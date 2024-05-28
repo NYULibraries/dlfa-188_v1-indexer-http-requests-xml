@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_416aspace_ca53f9b45b5d1a8be861cc453da7afdc</field>
+    <field name="ead_ssi">tam_416</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Video Recordings</field>
+    <field name="parent_unittitles_teim">Series III: Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asian CineVision Records</field>
+    <field name="collection_ssm">Asian CineVision Records</field>
+    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Video 1276: American Social History Project, 1877: The Grand Army of Starvation</field>
+    <field name="unittitle_teim">Video 1276: American Social History Project, 1877: The Grand Army of Starvation</field>
+    <field name="unitid_teim">cuid34859</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/923659</field>
+    <field name="unitid_ssm">cuid34859</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/923659</field>
+    <field name="unitdate_normal_ssm">1975/1995</field>
+    <field name="unitdate_normal_teim">1975/1995</field>
+    <field name="unitdate_normal_sim">1975/1995</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="dao_teim">Video 1276: American Social History Project, 1877: The Grand Army of Starvation: Undated</field>
+    <field name="dao_ssm">Video 1276: American Social History Project, 1877: The Grand Army of Starvation: Undated</field>
+    <field name="ref_ssi">aspace_ca53f9b45b5d1a8be861cc453da7afdc</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 227</field>
+    <field name="location_si">Box: 227</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Asian CineVision Records</field>
+    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="series_sim">Series III: Video Recordings</field>
+    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 1276: American Social History Project, 1877: The Grand Army of Starvation</field>
+    <field name="heading_ssm">Video 1276: American Social History Project, 1877: The Grand Army of Starvation</field>
+    <field name="unitdate_start_sim">1975</field>
+    <field name="unitdate_start_ssm">1975</field>
+    <field name="unitdate_start_si">1975</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1221</field>
+  </doc>
+</add>

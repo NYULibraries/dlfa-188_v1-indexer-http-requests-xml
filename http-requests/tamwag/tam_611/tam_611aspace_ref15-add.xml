@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_611aspace_ref15</field>
+    <field name="ead_ssi">tam_611</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series 1. Greenwich House Children's and Adult's Theatre</field>
+    <field name="parent_unittitles_ssm">Subseries b. Administrative materials</field>
+    <field name="parent_unittitles_teim">Series 1. Greenwich House Children's and Adult's Theatre</field>
+    <field name="parent_unittitles_teim">Subseries b. Administrative materials</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Helen A. Murphy Papers</field>
+    <field name="collection_ssm">Helen A. Murphy Papers</field>
+    <field name="collection_unitid_ssm">TAM.611</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Children's Theatre sponsors</field>
+    <field name="unittitle_teim">Children's Theatre sponsors</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref15</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Helen A. Murphy Papers</field>
+    <field name="collection_unitid_teim">TAM.611</field>
+    <field name="series_sim">Series 1. Greenwich House Children's and Adult's Theatre</field>
+    <field name="series_sim">Subseries b. Administrative materials</field>
+    <field name="series_si">Series 1. Greenwich House Children's and Adult's Theatre &gt;&gt; Subseries b. Administrative materials &gt;&gt; Children's Theatre sponsors</field>
+    <field name="heading_ssm">Children's Theatre sponsors</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

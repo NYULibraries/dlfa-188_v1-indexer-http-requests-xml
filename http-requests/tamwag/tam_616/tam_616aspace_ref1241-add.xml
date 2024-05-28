@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref1241</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref950</field>
+    <field name="parent_ssm">aspace_ref950</field>
+    <field name="parent_unittitles_ssm">Series III: Children in Debt</field>
+    <field name="parent_unittitles_teim">Series III: Children in Debt</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Students, Police, Street (CH11)"</field>
+    <field name="unittitle_teim">"Students, Police, Street (CH11)"</field>
+    <field name="unitid_teim">cuid18452</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242379</field>
+    <field name="unitid_ssm">cuid18452</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242379</field>
+    <field name="unitdate_normal_ssm">1984/1986</field>
+    <field name="unitdate_normal_teim">1984/1986</field>
+    <field name="unitdate_normal_sim">1984/1986</field>
+    <field name="unitdate_inclusive_teim">circa 1984-1986</field>
+    <field name="scopecontent_teim">This video features street footage and footage from a school in Bogotá, Colombia. It begins with two teachers at a kindergarten discussing the services they provide for poor children in the community. They describe the schools as a consistent source of food for local children. They also discuss high unemployment in the country and child malnutrition. The footage shows the children in the school singing songs and participating in a lesson on the alphabet. The video then changes to street footage of a slum outside of Bogotá where one of the teachers discusses the effects of foreign debt on the economy, the growth of slums, her Christian belief in Liberation Theology, and efforts to improve conditions in poor communities in the city. The video then cuts to footage of a different part of the city showing children selling goods on the street.</field>
+    <field name="phystech_teim">Original Format: Umatic. Duration: 00:22:29.</field>
+    <field name="ref_ssi">aspace_ref1241</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 53, Cassette: ref1241</field>
+    <field name="location_ssm">Cassette: ref1241</field>
+    <field name="location_ssm">Box: Shared Tamiment 056, DVD: ref1241</field>
+    <field name="location_ssm">DVD: ref1241</field>
+    <field name="location_si">DVD: ref1241</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series III: Children in Debt</field>
+    <field name="series_si">Series III: Children in Debt &gt;&gt; "Students, Police, Street (CH11)"</field>
+    <field name="heading_ssm">"Students, Police, Street (CH11)"</field>
+    <field name="unitdate_start_sim">1984</field>
+    <field name="unitdate_start_ssm">1984</field>
+    <field name="unitdate_start_si">1984</field>
+    <field name="unitdate_end_sim">1986</field>
+    <field name="unitdate_end_ssm">1986</field>
+    <field name="unitdate_end_si">1986</field>
+    <field name="unitdate_ssm">Inclusive, circa 1984-1986</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">107</field>
+  </doc>
+</add>

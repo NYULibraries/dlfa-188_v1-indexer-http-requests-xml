@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_185aspace_ref30</field>
+    <field name="ead_ssi">tam_185</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Fanny Simon Papers</field>
+    <field name="collection_ssm">Fanny Simon Papers</field>
+    <field name="collection_unitid_ssm">TAM.185</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Personal Materials</field>
+    <field name="unittitle_teim">Series I: Personal Materials</field>
+    <field name="unitdate_normal_ssm">1927/1986</field>
+    <field name="unitdate_normal_teim">1927/1986</field>
+    <field name="unitdate_normal_sim">1927/1986</field>
+    <field name="unitdate_inclusive_teim">1927-1986</field>
+    <field name="scopecontent_teim">This series mostly contains correspondence, the majority of which comes from Simon's time as the Program Coordinator of the Inter-American Institute for Labor Studies of ORIT. Some notable correspondents include Julia Vigre, her nephews Gene and Michael H. Granof, American Federation of Teachers President Charles Cogen, Norman Thomas, the Latin American representative to the AFL Serafino Romualdi, Joseph Glazer, and other friends. </field>
+    <field name="scopecontent_teim">Simon also kept detailed journals from her trips to Latin America, Europe, and Israel, documenting who she met and what she did on a day-to-day basis. On her trips, Simon often met with significant international figures in the labor movement, feminist movement, and Socialist Party, including Paulina Luisi, Emilio Frugoni, Oscar Schnake, Jorge González von Marées, Francisco Villagrán, and Ramón Villeda Morales and representatives from SCIDE (Servicio Cooperativo Interamericano de Educación), SITRATERCO (Sindicato de Trabajadores de La Tela Railroad Company), Sindicato Mexicano de Electricistas, Confederacion Revolucionaria de Obreros y Campesinos, SINAMOS (Sistema Nacional de Apoyo a la Movilización Social), SUTE (Sindicato Unico sw Trabajadores) and other unions. Her journals also reveal her disdain of Communists, especially in regard to Communist involvement in the labor movement. </field>
+    <field name="scopecontent_teim">Photographs mostly depict images from Fanny Simon's trips, the bulk of which are from her 1940 trip to South America. Simon also travelled to Europe in 1927; the photographs mostly feature Switzerland and Italy. There are also photographs taken in Mexico and Guatemala. There are some photographs of the United States, including images of Bar Harbor, Jones Beach, Rainbow Landing, the World's Fair in New York, the Smoky Mountains, Yosemite National Park, and Yellowstone National Park. Other nonprint materials also include postcards from her trips, some correspondence from the trips, and an oversized hand-drawn portrait of Simon.</field>
+    <field name="scopecontent_teim">Other materials in this series include articles written by Simon, clippings, day planners, membership cards, and other materials acquired on her travels.</field>
+    <field name="ref_ssi">aspace_ref30</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Fanny Simon Papers</field>
+    <field name="collection_unitid_teim">TAM.185</field>
+    <field name="series_si">Series I: Personal Materials</field>
+    <field name="heading_ssm">Series I: Personal Materials</field>
+    <field name="unitdate_start_sim">1927</field>
+    <field name="unitdate_start_ssm">1927</field>
+    <field name="unitdate_start_si">1927</field>
+    <field name="unitdate_end_sim">1986</field>
+    <field name="unitdate_end_ssm">1986</field>
+    <field name="unitdate_end_si">1986</field>
+    <field name="unitdate_ssm">Inclusive, 1927-1986</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

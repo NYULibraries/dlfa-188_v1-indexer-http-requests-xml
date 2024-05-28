@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref872</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref2241</field>
+    <field name="parent_ssm">aspace_ref843</field>
+    <field name="parent_ssm">aspace_ref2241</field>
+    <field name="parent_unittitles_ssm">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+    <field name="parent_unittitles_ssm">Pollack, Sydney: Interview</field>
+    <field name="parent_unittitles_teim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+    <field name="parent_unittitles_teim">Pollack, Sydney: Interview</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Pollack, Sydney: Interview Recording</field>
+    <field name="unittitle_teim">Pollack, Sydney: Interview Recording</field>
+    <field name="unitid_teim">cuid18055</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/241900</field>
+    <field name="unitid_ssm">cuid18055</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/241900</field>
+    <field name="unitdate_normal_ssm">1996/1996</field>
+    <field name="unitdate_normal_teim">1996/1996</field>
+    <field name="unitdate_normal_sim">1996/1996</field>
+    <field name="unitdate_inclusive_teim">1996</field>
+    <field name="scopecontent_teim">Sydney Pollack begins by talking about the many failed attempts to assassinate Fidel Castro. He later describes his efforts to make a film in Cuba, and discusses difficulties imposed by US regulations. He mentions the Helms-Burton Act, and speculates about Bill Clinton's views about Castro. Toward the end, Pollack attempts to provide a succinct description of Castro.</field>
+    <field name="phystech_teim">Original Format: Betacam. Duration: 00:16:46.</field>
+    <field name="dao_teim">Pollack, Sydney: Interview</field>
+    <field name="dao_ssm">Pollack, Sydney: Interview</field>
+    <field name="ref_ssi">aspace_ref872</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 68, Cassette: ref872</field>
+    <field name="location_ssm">Cassette: ref872</field>
+    <field name="location_ssm">Box: 84, DVD: ref872</field>
+    <field name="location_ssm">DVD: ref872</field>
+    <field name="location_si">DVD: ref872</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+    <field name="series_sim">Pollack, Sydney: Interview</field>
+    <field name="series_si">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel &gt;&gt; Pollack, Sydney: Interview &gt;&gt; Pollack, Sydney: Interview Recording</field>
+    <field name="heading_ssm">Pollack, Sydney: Interview Recording</field>
+    <field name="unitdate_start_sim">1996</field>
+    <field name="unitdate_start_ssm">1996</field>
+    <field name="unitdate_start_si">1996</field>
+    <field name="unitdate_end_sim">1996</field>
+    <field name="unitdate_end_ssm">1996</field>
+    <field name="unitdate_end_si">1996</field>
+    <field name="unitdate_ssm">Inclusive, 1996</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">496</field>
+  </doc>
+</add>

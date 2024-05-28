@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_442aspace_ref550</field>
+    <field name="ead_ssi">tam_442</field>
+    <field name="parent_ssi">aspace_ref211</field>
+    <field name="parent_ssm">aspace_ref71</field>
+    <field name="parent_ssm">aspace_ref211</field>
+    <field name="parent_unittitles_ssm">Series II: Post World War II</field>
+    <field name="parent_unittitles_ssm">Subseries A: Redress Campaign and Remembrance, and Japanese American Military Service Memorials</field>
+    <field name="parent_unittitles_teim">Series II: Post World War II</field>
+    <field name="parent_unittitles_teim">Subseries A: Redress Campaign and Remembrance, and Japanese American Military Service Memorials</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">George Yuzawa Papers</field>
+    <field name="collection_ssm">George Yuzawa Papers</field>
+    <field name="collection_unitid_ssm">TAM.442</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Sub-subseries AII: Japanese American Military Service Memorials</field>
+    <field name="unittitle_teim">Sub-subseries AII: Japanese American Military Service Memorials</field>
+    <field name="unitdate_normal_ssm">1992/2008</field>
+    <field name="unitdate_normal_teim">1992/2008</field>
+    <field name="unitdate_normal_sim">1992/2008</field>
+    <field name="unitdate_inclusive_teim">1992-2008</field>
+    <field name="scopecontent_teim">Sub-subseries AII: Japanese American Military Service Memorials consists of newsletters, correspondence and event programs from the Go For Broke Foundation, National Japanese American Memorial Foundation, JANM and other institutions hosting events and erecting memorials commemorating the service of Japanese Americans in the armed forces. Also included are recent clippings that Yuzawa collected about Japanese American WWII veterans.</field>
+    <field name="ref_ssi">aspace_ref550</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">George Yuzawa Papers</field>
+    <field name="collection_unitid_teim">TAM.442</field>
+    <field name="series_sim">Series II: Post World War II</field>
+    <field name="series_sim">Subseries A: Redress Campaign and Remembrance, and Japanese American Military Service Memorials</field>
+    <field name="series_si">Series II: Post World War II &gt;&gt; Subseries A: Redress Campaign and Remembrance, and Japanese American Military Service Memorials &gt;&gt; Sub-subseries AII: Japanese American Military Service Memorials</field>
+    <field name="heading_ssm">Sub-subseries AII: Japanese American Military Service Memorials</field>
+    <field name="unitdate_start_sim">1992</field>
+    <field name="unitdate_start_ssm">1992</field>
+    <field name="unitdate_start_si">1992</field>
+    <field name="unitdate_end_sim">2008</field>
+    <field name="unitdate_end_ssm">2008</field>
+    <field name="unitdate_end_si">2008</field>
+    <field name="unitdate_ssm">Inclusive, 1992-2008</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">134</field>
+  </doc>
+</add>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref1146</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref944</field>
+    <field name="parent_ssm">aspace_ref944</field>
+    <field name="parent_unittitles_ssm">Series VI: The Cuban Excludables</field>
+    <field name="parent_unittitles_teim">Series VI: The Cuban Excludables</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Smith, Wayne: Interview</field>
+    <field name="unittitle_teim">Smith, Wayne: Interview</field>
+    <field name="unitid_teim">cuid17778</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/241522</field>
+    <field name="unitid_ssm">cuid17778</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/241522</field>
+    <field name="unitdate_normal_ssm">1991/1997</field>
+    <field name="unitdate_normal_teim">1991/1997</field>
+    <field name="unitdate_normal_sim">1991/1997</field>
+    <field name="unitdate_inclusive_teim">circa 1990s</field>
+    <field name="scopecontent_teim">This video features an interview with American diplomat Wayne Smith conducted by journalist Linden McIntyre. The interview begins with a discussion of the events that led to the Mariel Boatlift in 1980. Smith cites Cuban attempts to establish normalized immigration policies with the United States, hijackings of Cuban boats by individuals seeking to reach the US, and the occupation of the Peruvian embassy in Cuba in 1980. He talks at length about the legal status of the Mariel Cubans who were listed as excludable, and others who were paroled into the country upon arrival. He also discusses the unique situation of Mariel, and the human rights abuses that many Mariel Cubans faced after they were detained by US immigration.</field>
+    <field name="phystech_teim">Original Format: Betacam. Duration: 00:29:28.</field>
+    <field name="dao_teim">Smith, Wayne: Interview: circa 1990s</field>
+    <field name="dao_ssm">Smith, Wayne: Interview: circa 1990s</field>
+    <field name="ref_ssi">aspace_ref1146</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 98, DVD: ref1146</field>
+    <field name="location_ssm">DVD: ref1146</field>
+    <field name="location_si">DVD: ref1146</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series VI: The Cuban Excludables</field>
+    <field name="series_si">Series VI: The Cuban Excludables &gt;&gt; Smith, Wayne: Interview</field>
+    <field name="heading_ssm">Smith, Wayne: Interview</field>
+    <field name="unitdate_start_sim">1991</field>
+    <field name="unitdate_start_ssm">1991</field>
+    <field name="unitdate_start_si">1991</field>
+    <field name="unitdate_end_sim">1997</field>
+    <field name="unitdate_end_ssm">1997</field>
+    <field name="unitdate_end_si">1997</field>
+    <field name="unitdate_ssm">Inclusive, circa 1990s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">188</field>
+  </doc>
+</add>

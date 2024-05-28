@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_ref8555</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_ref8438</field>
+    <field name="parent_ssm">aspace_ref7847</field>
+    <field name="parent_ssm">aspace_ref8438</field>
+    <field name="parent_unittitles_ssm">Series X: General Files</field>
+    <field name="parent_unittitles_ssm">Subseries X.C: Phil Bart Clippings</field>
+    <field name="parent_unittitles_teim">Series X: General Files</field>
+    <field name="parent_unittitles_teim">Subseries X.C: Phil Bart Clippings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">U.S. Reaction: Police State Measuers</field>
+    <field name="unittitle_teim">U.S. Reaction: Police State Measuers</field>
+    <field name="unitid_teim">cuid27261</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/179555</field>
+    <field name="unitid_ssm">cuid27261</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/179555</field>
+    <field name="unitdate_normal_ssm">1952/1952</field>
+    <field name="unitdate_normal_teim">1952/1952</field>
+    <field name="unitdate_normal_sim">1952/1952</field>
+    <field name="unitdate_inclusive_teim">1952</field>
+    <field name="ref_ssi">aspace_ref8555</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 103, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series X: General Files</field>
+    <field name="series_sim">Subseries X.C: Phil Bart Clippings</field>
+    <field name="series_si">Series X: General Files &gt;&gt; Subseries X.C: Phil Bart Clippings &gt;&gt; U.S. Reaction: Police State Measuers</field>
+    <field name="heading_ssm">U.S. Reaction: Police State Measuers</field>
+    <field name="unitdate_start_sim">1952</field>
+    <field name="unitdate_start_ssm">1952</field>
+    <field name="unitdate_start_si">1952</field>
+    <field name="unitdate_end_sim">1952</field>
+    <field name="unitdate_end_ssm">1952</field>
+    <field name="unitdate_end_si">1952</field>
+    <field name="unitdate_ssm">Inclusive, 1952</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">9424</field>
+  </doc>
+</add>

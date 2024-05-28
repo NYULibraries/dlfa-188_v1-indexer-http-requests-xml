@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_019aspace_ref108</field>
+    <field name="ead_ssi">tam_019</field>
+    <field name="parent_ssi">aspace_ref22</field>
+    <field name="parent_ssm">aspace_ref22</field>
+    <field name="parent_unittitles_ssm">First Accession</field>
+    <field name="parent_unittitles_teim">First Accession</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mark Starr Papers</field>
+    <field name="collection_ssm">Mark Starr Papers</field>
+    <field name="collection_unitid_ssm">TAM.019</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Unpublished Manuscripts On Social Services in Britain</field>
+    <field name="unittitle_teim">Unpublished Manuscripts On Social Services in Britain</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref108</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12, Folder: 10</field>
+    <field name="location_ssm">Folder: 10</field>
+    <field name="location_si">Folder: 10</field>
+    <field name="collection_teim">Mark Starr Papers</field>
+    <field name="collection_unitid_teim">TAM.019</field>
+    <field name="series_sim">First Accession</field>
+    <field name="series_si">First Accession &gt;&gt; Unpublished Manuscripts On Social Services in Britain</field>
+    <field name="heading_ssm">Unpublished Manuscripts On Social Services in Britain</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">87</field>
+  </doc>
+</add>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_45531a19af24fd2c0418c0fedaec956b</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_0caca654ffba60b3aa2671408eef18ef</field>
+    <field name="parent_ssm">aspace_496363658f80e1c5e518c2b016cf0bd4</field>
+    <field name="parent_ssm">aspace_0caca654ffba60b3aa2671408eef18ef</field>
+    <field name="parent_unittitles_ssm">Series XIII: Collected Film and Audio Library</field>
+    <field name="parent_unittitles_ssm">Subseries XIII.B: Films</field>
+    <field name="parent_unittitles_teim">Series XIII: Collected Film and Audio Library</field>
+    <field name="parent_unittitles_teim">Subseries XIII.B: Films</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Winston, Henry: Soviet Union</field>
+    <field name="unittitle_teim">Winston, Henry: Soviet Union</field>
+    <field name="unitid_teim">cuid17</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/732381</field>
+    <field name="unitid_ssm">cuid17</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/732381</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="phystech_teim">Duration: 00:05:28</field>
+    <field name="phystech_teim">The audio for this film is currently unavailable; its audio element, Reel 18 (cuid16), could not be digitized in house due to its format.</field>
+    <field name="dao_teim">Winston, Henry: Soviet Union</field>
+    <field name="dao_ssm">Winston, Henry: Soviet Union</field>
+    <field name="ref_ssi">aspace_45531a19af24fd2c0418c0fedaec956b</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Tamiment 166, 16mm_film_reels: 18 (cuid16), 19 (cuid 17)</field>
+    <field name="location_ssm">16mm_film_reels: 18 (cuid16), 19 (cuid 17)</field>
+    <field name="location_si">16mm_film_reels: 18 (cuid16), 19 (cuid 17)</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series XIII: Collected Film and Audio Library</field>
+    <field name="series_sim">Subseries XIII.B: Films</field>
+    <field name="series_si">Series XIII: Collected Film and Audio Library &gt;&gt; Subseries XIII.B: Films &gt;&gt; Winston, Henry: Soviet Union</field>
+    <field name="heading_ssm">Winston, Henry: Soviet Union</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">13172</field>
+  </doc>
+</add>

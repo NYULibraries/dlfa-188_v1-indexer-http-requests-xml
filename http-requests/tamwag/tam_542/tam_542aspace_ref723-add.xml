@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_542aspace_ref723</field>
+    <field name="ead_ssi">tam_542</field>
+    <field name="parent_ssi">aspace_ref595</field>
+    <field name="parent_ssm">aspace_ref544</field>
+    <field name="parent_ssm">aspace_ref595</field>
+    <field name="parent_unittitles_ssm">Series V: Boston University</field>
+    <field name="parent_unittitles_ssm">Subseries V:B: Boston University Controversy</field>
+    <field name="parent_unittitles_teim">Series V: Boston University</field>
+    <field name="parent_unittitles_teim">Subseries V:B: Boston University Controversy</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Howard Zinn Papers</field>
+    <field name="collection_ssm">Howard Zinn Papers</field>
+    <field name="collection_unitid_ssm">TAM.542/repositories/2/resources/1106</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Strikes: Negatives</field>
+    <field name="unittitle_teim">Strikes: Negatives</field>
+    <field name="unitid_teim">cuid15983</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/234798</field>
+    <field name="unitid_ssm">cuid15983</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/234798</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref723</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 25, Folder: 22</field>
+    <field name="location_ssm">Folder: 22</field>
+    <field name="location_si">Folder: 22</field>
+    <field name="collection_teim">Howard Zinn Papers</field>
+    <field name="collection_unitid_teim">TAM.542/repositories/2/resources/1106</field>
+    <field name="series_sim">Series V: Boston University</field>
+    <field name="series_sim">Subseries V:B: Boston University Controversy</field>
+    <field name="series_si">Series V: Boston University &gt;&gt; Subseries V:B: Boston University Controversy &gt;&gt; Strikes: Negatives</field>
+    <field name="heading_ssm">Strikes: Negatives</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">720</field>
+  </doc>
+</add>

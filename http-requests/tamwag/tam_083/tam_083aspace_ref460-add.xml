@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_083aspace_ref460</field>
+    <field name="ead_ssi">tam_083</field>
+    <field name="parent_ssi">aspace_ref414</field>
+    <field name="parent_ssm">aspace_ref641</field>
+    <field name="parent_ssm">aspace_ref414</field>
+    <field name="parent_unittitles_ssm">Series I: Jay Leyda Papers</field>
+    <field name="parent_unittitles_ssm">Subseries D: Cinema, Soviet</field>
+    <field name="parent_unittitles_teim">Series I: Jay Leyda Papers</field>
+    <field name="parent_unittitles_teim">Subseries D: Cinema, Soviet</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Jay and Si-Lan Chen Leyda Papers</field>
+    <field name="collection_ssm">Jay and Si-Lan Chen Leyda Papers</field>
+    <field name="collection_unitid_ssm">TAM.083</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">MOMA: Film series</field>
+    <field name="unittitle_teim">MOMA: Film series</field>
+    <field name="unitdate_normal_ssm">1939/1939</field>
+    <field name="unitdate_normal_teim">1939/1939</field>
+    <field name="unitdate_normal_sim">1939/1939</field>
+    <field name="unitdate_inclusive_teim">1939</field>
+    <field name="ref_ssi">aspace_ref460</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 20, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Jay and Si-Lan Chen Leyda Papers</field>
+    <field name="collection_unitid_teim">TAM.083</field>
+    <field name="series_sim">Series I: Jay Leyda Papers</field>
+    <field name="series_sim">Subseries D: Cinema, Soviet</field>
+    <field name="series_si">Series I: Jay Leyda Papers &gt;&gt; Subseries D: Cinema, Soviet &gt;&gt; MOMA: Film series</field>
+    <field name="heading_ssm">MOMA: Film series</field>
+    <field name="unitdate_start_sim">1939</field>
+    <field name="unitdate_start_ssm">1939</field>
+    <field name="unitdate_start_si">1939</field>
+    <field name="unitdate_end_sim">1939</field>
+    <field name="unitdate_end_ssm">1939</field>
+    <field name="unitdate_end_si">1939</field>
+    <field name="unitdate_ssm">Inclusive, 1939</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">453</field>
+  </doc>
+</add>

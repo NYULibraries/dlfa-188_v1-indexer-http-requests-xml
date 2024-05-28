@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref830</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref948</field>
+    <field name="parent_ssm">aspace_ref948</field>
+    <field name="parent_unittitles_ssm">Series XXIX: Independent and Unidentified Footage</field>
+    <field name="parent_unittitles_teim">Series XXIX: Independent and Unidentified Footage</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Footage: Rally Against United States Intervention in El Salvador</field>
+    <field name="unittitle_teim">Footage: Rally Against United States Intervention in El Salvador</field>
+    <field name="unitid_teim">cuid798</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/241466</field>
+    <field name="unitid_ssm">cuid798</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/241466</field>
+    <field name="unitdate_normal_ssm">1990/1990</field>
+    <field name="unitdate_normal_teim">1990/1990</field>
+    <field name="unitdate_normal_sim">1990/1990</field>
+    <field name="unitdate_inclusive_teim">circa 1990</field>
+    <field name="scopecontent_teim">This video features footage of a rally in the United States protesting the US Government's intervention in El Salvador. The footage begins with a brief interview of a couple from Argentina, who discuss their imprisonment by the Argentinian government for political activism and discuss Argentina's support of the military junta in El Salvador. The footage features other interviews with members of the crowd about their reasons for participating in the rally. Speakers at the rally can be heard off camera, but are not filmed. This footage does not appear to be filmed by Estela Bravo.</field>
+    <field name="phystech_teim">Original Format: Umatic. Duration: 00:14:01</field>
+    <field name="dao_teim">Footage: Rally Against United States Intervention in El Salvador: circa 1990</field>
+    <field name="dao_ssm">Footage: Rally Against United States Intervention in El Salvador: circa 1990</field>
+    <field name="ref_ssi">aspace_ref830</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 95, DVD: ref830</field>
+    <field name="location_ssm">DVD: ref830</field>
+    <field name="location_si">DVD: ref830</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series XXIX: Independent and Unidentified Footage</field>
+    <field name="series_si">Series XXIX: Independent and Unidentified Footage &gt;&gt; Footage: Rally Against United States Intervention in El Salvador</field>
+    <field name="heading_ssm">Footage: Rally Against United States Intervention in El Salvador</field>
+    <field name="unitdate_start_sim">1990</field>
+    <field name="unitdate_start_ssm">1990</field>
+    <field name="unitdate_start_si">1990</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, circa 1990</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1029</field>
+  </doc>
+</add>

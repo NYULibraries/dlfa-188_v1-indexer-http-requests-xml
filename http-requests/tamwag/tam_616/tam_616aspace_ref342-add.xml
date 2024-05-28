@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref342</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref944</field>
+    <field name="parent_ssm">aspace_ref944</field>
+    <field name="parent_unittitles_ssm">Series VI: The Cuban Excludables</field>
+    <field name="parent_unittitles_teim">Series VI: The Cuban Excludables</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Vuelo Llegas y Entrevista con Olimpio Guagua</field>
+    <field name="unittitle_teim">Vuelo Llegas y Entrevista con Olimpio Guagua</field>
+    <field name="unitid_teim">cuid17852</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/241597</field>
+    <field name="unitid_ssm">cuid17852</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/241597</field>
+    <field name="unitdate_normal_ssm">1991/1997</field>
+    <field name="unitdate_normal_teim">1991/1997</field>
+    <field name="unitdate_normal_sim">1991/1997</field>
+    <field name="unitdate_inclusive_teim">circa 1990s</field>
+    <field name="scopecontent_teim">This video contains an interview with Olimpio Guagua, an officer in the Cuban Interior Ministry, as he awaits the arrival of a flight of deportees from the United States. Guagua describes his job responsibilities and the transfer of custody of the detained men from the United States to Cuba. The video also includes footage of the plane's descent and landing as well as the transfer of the prisoners. The video ends with brief interviews with the prisoners discussing their time in the United States and their feelings about being deported.</field>
+    <field name="phystech_teim">Original Format: Betacam. Duration: 00:25:34.</field>
+    <field name="dao_teim">Vuelo Llegas y Entrevista con Olimpio Guagua: circa 1990s</field>
+    <field name="dao_ssm">Vuelo Llegas y Entrevista con Olimpio Guagua: circa 1990s</field>
+    <field name="ref_ssi">aspace_ref342</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 15, Cassette: ref342</field>
+    <field name="location_ssm">Cassette: ref342</field>
+    <field name="location_si">Cassette: ref342</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series VI: The Cuban Excludables</field>
+    <field name="series_si">Series VI: The Cuban Excludables &gt;&gt; Vuelo Llegas y Entrevista con Olimpio Guagua</field>
+    <field name="heading_ssm">Vuelo Llegas y Entrevista con Olimpio Guagua</field>
+    <field name="unitdate_start_sim">1991</field>
+    <field name="unitdate_start_ssm">1991</field>
+    <field name="unitdate_start_si">1991</field>
+    <field name="unitdate_end_sim">1997</field>
+    <field name="unitdate_end_ssm">1997</field>
+    <field name="unitdate_end_si">1997</field>
+    <field name="unitdate_ssm">Inclusive, circa 1990s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">241</field>
+  </doc>
+</add>

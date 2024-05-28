@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_212aspace_8df008a50719940d6c13b85902d32a90</field>
+    <field name="ead_ssi">tam_212</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series I: Personal and academic papers</field>
+    <field name="parent_unittitles_teim">Series I: Personal and academic papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Karen Stamm Papers</field>
+    <field name="collection_ssm">Karen Stamm Papers</field>
+    <field name="collection_unitid_ssm">TAM.212</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence</field>
+    <field name="unittitle_teim">Correspondence</field>
+    <field name="unitdate_normal_ssm">1979/1990</field>
+    <field name="unitdate_normal_teim">1979/1990</field>
+    <field name="unitdate_normal_sim">1979/1990</field>
+    <field name="unitdate_inclusive_teim">1979-1990</field>
+    <field name="ref_ssi">aspace_8df008a50719940d6c13b85902d32a90</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Karen Stamm Papers</field>
+    <field name="collection_unitid_teim">TAM.212</field>
+    <field name="series_sim">Series I: Personal and academic papers</field>
+    <field name="series_si">Series I: Personal and academic papers &gt;&gt; Correspondence</field>
+    <field name="heading_ssm">Correspondence</field>
+    <field name="unitdate_start_sim">1979</field>
+    <field name="unitdate_start_ssm">1979</field>
+    <field name="unitdate_start_si">1979</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, 1979-1990</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

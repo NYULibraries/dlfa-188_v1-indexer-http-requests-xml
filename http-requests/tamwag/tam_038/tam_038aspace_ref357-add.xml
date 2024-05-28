@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_038aspace_ref357</field>
+    <field name="ead_ssi">tam_038</field>
+    <field name="parent_ssi">aspace_ref252</field>
+    <field name="parent_ssm">aspace_ref252</field>
+    <field name="parent_unittitles_ssm">Series II. Office Files, 1940-1947, nd</field>
+    <field name="parent_unittitles_teim">Series II. Office Files, 1940-1947, nd</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">American Labor Conference on International Affairs Records</field>
+    <field name="collection_ssm">American Labor Conference on International Affairs Records</field>
+    <field name="collection_unitid_ssm">TAM.038</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">ALCIA Members (Paid)</field>
+    <field name="unittitle_teim">ALCIA Members (Paid)</field>
+    <field name="unitdate_normal_ssm">1939/1950</field>
+    <field name="unitdate_normal_teim">1939/1950</field>
+    <field name="unitdate_normal_sim">1939/1950</field>
+    <field name="unitdate_inclusive_teim">Jan 3, 1945-Jul 5, 1945 , undated</field>
+    <field name="ref_ssi">aspace_ref357</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 21, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">American Labor Conference on International Affairs Records</field>
+    <field name="collection_unitid_teim">TAM.038</field>
+    <field name="series_sim">Series II. Office Files, 1940-1947, nd</field>
+    <field name="series_si">Series II. Office Files, 1940-1947, nd &gt;&gt; ALCIA Members (Paid)</field>
+    <field name="heading_ssm">ALCIA Members (Paid)</field>
+    <field name="unitdate_start_sim">1939</field>
+    <field name="unitdate_start_ssm">1939</field>
+    <field name="unitdate_start_si">1939</field>
+    <field name="unitdate_end_sim">1950</field>
+    <field name="unitdate_end_ssm">1950</field>
+    <field name="unitdate_end_si">1950</field>
+    <field name="unitdate_ssm">Inclusive, Jan 3, 1945-Jul 5, 1945 , undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">197</field>
+  </doc>
+</add>

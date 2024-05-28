@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref1373</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref958</field>
+    <field name="parent_ssm">aspace_ref958</field>
+    <field name="parent_unittitles_ssm">Series XI: Holy Father and Gloria</field>
+    <field name="parent_unittitles_teim">Series XI: Holy Father and Gloria</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Footage: Chilean Boy and the Police</field>
+    <field name="unittitle_teim">Footage: Chilean Boy and the Police</field>
+    <field name="unitid_teim">cuid18277</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242167</field>
+    <field name="unitid_ssm">cuid18277</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242167</field>
+    <field name="unitdate_normal_ssm">1987/1987</field>
+    <field name="unitdate_normal_teim">1987/1987</field>
+    <field name="unitdate_normal_sim">1987/1987</field>
+    <field name="unitdate_inclusive_teim">1987 March 4</field>
+    <field name="scopecontent_teim">This video begins with footage of a mother trying to talk to Chilean police about her son. She explains that she heard that her son, who was 9 years old at the time the footage was recorded, was injured by police after they chased him into a house. The woman attempts to find out what happened to her son and where he was taken, but the police do not give her any information. The video then focuses on the house where the boy was attacked. The family in the house explains that they police chased the boy, broke down their door, and hit the young boy in the head causing him to bleed significantly. Several of the children and adults in the house describe witnessing the event. They also talk about police treatment of the poor and substandard living conditions in their community.</field>
+    <field name="phystech_teim">Original Format: Betacam. Duration: 00:21:18.</field>
+    <field name="ref_ssi">aspace_ref1373</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 98, DVD: ref1373</field>
+    <field name="location_ssm">DVD: ref1373</field>
+    <field name="location_si">DVD: ref1373</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series XI: Holy Father and Gloria</field>
+    <field name="series_si">Series XI: Holy Father and Gloria &gt;&gt; Footage: Chilean Boy and the Police</field>
+    <field name="heading_ssm">Footage: Chilean Boy and the Police</field>
+    <field name="unitdate_start_sim">1987</field>
+    <field name="unitdate_start_ssm">1987</field>
+    <field name="unitdate_start_si">1987</field>
+    <field name="unitdate_end_sim">1987</field>
+    <field name="unitdate_end_ssm">1987</field>
+    <field name="unitdate_end_si">1987</field>
+    <field name="unitdate_ssm">Inclusive, 1987 March 4</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">757</field>
+  </doc>
+</add>

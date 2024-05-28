@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_423aspace_ref30</field>
+    <field name="ead_ssi">tam_423</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series I: Papers, 1925-1969</field>
+    <field name="parent_unittitles_teim">Series I: Papers, 1925-1969</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Norman Thomas Papers</field>
+    <field name="collection_ssm">Norman Thomas Papers</field>
+    <field name="collection_unitid_ssm">TAM.423</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">"Thomas Supports the War"</field>
+    <field name="unittitle_teim">"Thomas Supports the War"</field>
+    <field name="unitdate_teim">Dec 1, 1941</field>
+    <field name="ref_ssi">aspace_ref30</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 17</field>
+    <field name="location_ssm">Folder: 17</field>
+    <field name="location_si">Folder: 17</field>
+    <field name="collection_teim">Norman Thomas Papers</field>
+    <field name="collection_unitid_teim">TAM.423</field>
+    <field name="series_sim">Series I: Papers, 1925-1969</field>
+    <field name="series_si">Series I: Papers, 1925-1969 &gt;&gt; "Thomas Supports the War"</field>
+    <field name="heading_ssm">"Thomas Supports the War"</field>
+    <field name="unitdate_ssm">Dec 1, 1941</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">19</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_634aspace_ref7</field>
+    <field name="ead_ssi">tam_634</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Soh Daiko Records</field>
+    <field name="collection_ssm">Soh Daiko Records</field>
+    <field name="collection_unitid_ssm">TAM.634</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Videocassettes</field>
+    <field name="unittitle_teim">Series II: Videocassettes</field>
+    <field name="unitdate_normal_ssm">1984/2000</field>
+    <field name="unitdate_normal_teim">1984/2000</field>
+    <field name="unitdate_normal_sim">1984/2000</field>
+    <field name="unitdate_inclusive_teim">1984-1987</field>
+    <field name="scopecontent_teim">Videos in this series include 21 recordings of Soh Diako performances, dated 1984-2000. Many of these tapes were recorded on Sony DVCAM and include videos of footage collected as part of the Soh Daiko Archival Project. These tapes each feature one to three videos of different performances at workshops, festivals, and other cultural events. Other events are recorded on Umatic and VHS tapes and include footage of individual performances at cultural instutions like the American Museum of Natural History and Japan Society. Several of these videos may be duplicated on the Soh Daiko Archival Project tapes.</field>
+    <field name="ref_ssi">aspace_ref7</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Soh Daiko Records</field>
+    <field name="collection_unitid_teim">TAM.634</field>
+    <field name="series_si">Series II: Videocassettes</field>
+    <field name="heading_ssm">Series II: Videocassettes</field>
+    <field name="unitdate_start_sim">1984</field>
+    <field name="unitdate_start_ssm">1984</field>
+    <field name="unitdate_start_si">1984</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 1984-1987</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

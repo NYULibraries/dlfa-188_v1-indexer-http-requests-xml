@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_416aspace_c08e72acfe1e7ae9f4eb78908f0053b1</field>
+    <field name="ead_ssi">tam_416</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Video Recordings</field>
+    <field name="parent_unittitles_teim">Series III: Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asian CineVision Records</field>
+    <field name="collection_ssm">Asian CineVision Records</field>
+    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Video 239: CCTV</field>
+    <field name="unittitle_teim">Video 239: CCTV</field>
+    <field name="unitid_teim">Cuid9285</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/881926</field>
+    <field name="unitid_ssm">Cuid9285</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/881926</field>
+    <field name="unitdate_normal_ssm">1980-05-04/1980-05-04</field>
+    <field name="unitdate_normal_teim">1980-05-04/1980-05-04</field>
+    <field name="unitdate_normal_sim">1980-05-04/1980-05-04</field>
+    <field name="unitdate_inclusive_teim">May 4, 1980</field>
+    <field name="scopecontent_teim">This episode features videos created by participants of CCTV's Production and Performance Workshop held in 1979, the fourth of such sessions. Videos include an advertisement for ballpoint pens, street interviews, a cooking lesson, and a short drama. Interviews with the workshop trainees are also included in this episode.</field>
+    <field name="phystech_teim">Format: 3/4" Umatic, Duration: 57 minutes</field>
+    <field name="dao_teim">Video 239: CCTV: May 4, 1980</field>
+    <field name="dao_ssm">Video 239: CCTV: May 4, 1980</field>
+    <field name="ref_ssi">aspace_c08e72acfe1e7ae9f4eb78908f0053b1</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 92, Video: Cuid9285</field>
+    <field name="location_ssm">Video: Cuid9285</field>
+    <field name="location_si">Video: Cuid9285</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Asian CineVision Records</field>
+    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="series_sim">Series III: Video Recordings</field>
+    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 239: CCTV</field>
+    <field name="heading_ssm">Video 239: CCTV</field>
+    <field name="unitdate_ssm">Inclusive, May 4, 1980</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">325</field>
+  </doc>
+</add>

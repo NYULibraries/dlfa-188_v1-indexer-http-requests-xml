@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_007aspace_ref1216</field>
+    <field name="ead_ssi">tam_007</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Rand School of Social Science Records</field>
+    <field name="collection_ssm">Rand School of Social Science Records</field>
+    <field name="collection_unitid_ssm">TAM.007</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV: Financial Records</field>
+    <field name="unittitle_teim">Series IV: Financial Records</field>
+    <field name="unitdate_normal_ssm">1912/1955</field>
+    <field name="unitdate_normal_teim">1912/1955</field>
+    <field name="unitdate_normal_sim">1912/1955</field>
+    <field name="unitdate_inclusive_teim">1912-1955</field>
+    <field name="scopecontent_teim">The financial records of the Rand School consist of six subject files. Among the various types of materials found in this series are correspondence, audits and treasurer's reports, bequests and wills, concert benefit papers, lists of contributors to the sustaining fund, and the one Third of a Century Fund papers. The items within these files are arranged in chronological order, with undated items placed at the end of the file. The bulk of the materials in this series pertains to the audits and treasurer's reports (XIII:D:2) and concert benefits (XIII:D:4). The audits and treasurer's reports offer general financial information about receipts and expenditures for the various departments within the Rand School. The concert benefits file contains correspondence and financial statements relating to the Metropolitan Opera and Broadway show performances which were held annually on behalf of the Rand School.</field>
+    <field name="ref_ssi">aspace_ref1216</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Rand School of Social Science Records</field>
+    <field name="collection_unitid_teim">TAM.007</field>
+    <field name="series_si">Series IV: Financial Records</field>
+    <field name="heading_ssm">Series IV: Financial Records</field>
+    <field name="unitdate_start_sim">1912</field>
+    <field name="unitdate_start_ssm">1912</field>
+    <field name="unitdate_start_si">1912</field>
+    <field name="unitdate_end_sim">1955</field>
+    <field name="unitdate_end_ssm">1955</field>
+    <field name="unitdate_end_si">1955</field>
+    <field name="unitdate_ssm">Inclusive, 1912-1955</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">634</field>
+  </doc>
+</add>

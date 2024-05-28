@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_90524954c155752835a868654ea9c9ae</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_0caca654ffba60b3aa2671408eef18ef</field>
+    <field name="parent_ssm">aspace_496363658f80e1c5e518c2b016cf0bd4</field>
+    <field name="parent_ssm">aspace_0caca654ffba60b3aa2671408eef18ef</field>
+    <field name="parent_unittitles_ssm">Series XIII: Collected Film and Audio Library</field>
+    <field name="parent_unittitles_ssm">Subseries XIII.B: Films</field>
+    <field name="parent_unittitles_teim">Series XIII: Collected Film and Audio Library</field>
+    <field name="parent_unittitles_teim">Subseries XIII.B: Films</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Champions Do Not Grow Old (БОРЦЫ НЕ СТАРЕЮТ) - Soviet TV</field>
+    <field name="unittitle_teim">Champions Do Not Grow Old (БОРЦЫ НЕ СТАРЕЮТ) - Soviet TV</field>
+    <field name="unitid_teim">cuid31814</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/761510</field>
+    <field name="unitid_ssm">cuid31814</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/761510</field>
+    <field name="unitdate_normal_ssm">1935/1995</field>
+    <field name="unitdate_normal_teim">1935/1995</field>
+    <field name="unitdate_normal_sim">1935/1995</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="phystech_teim">16mm film, duration: 00:21:56.</field>
+    <field name="phystech_teim">Preservation Note: CP145-146A is the Dupe negative from preservation project for CP145-146. 
+CP145-146B is the Optical sound negative from preservation project for CP145-146. CP145-146C is the Answer print from preservation project for CP145-146.</field>
+    <field name="dao_teim">Champions Do Not Grow Old (БОРЦЫ НЕ СТАРЕЮТ) - Soviet TV</field>
+    <field name="dao_ssm">Champions Do Not Grow Old (БОРЦЫ НЕ СТАРЕЮТ) - Soviet TV</field>
+    <field name="ref_ssi">aspace_90524954c155752835a868654ea9c9ae</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Tamiment 131, reel: CP145, CP146</field>
+    <field name="location_ssm">reel: CP145, CP146</field>
+    <field name="location_ssm">Box: Shared Tamiment 134, reel: CP145-146A, CP145-146B</field>
+    <field name="location_ssm">reel: CP145-146A, CP145-146B</field>
+    <field name="location_ssm">Box: Shared Tamiment 135, reel: CP145-146C</field>
+    <field name="location_ssm">reel: CP145-146C</field>
+    <field name="location_ssm">Box: Shared Tamiment 167, 16mm_film_reels: CP145, CP146, Black and White Zoom release print</field>
+    <field name="location_ssm">16mm_film_reels: CP145, CP146, Black and White Zoom release print</field>
+    <field name="location_si">16mm_film_reels: CP145, CP146, Black and White Zoom release print</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series XIII: Collected Film and Audio Library</field>
+    <field name="series_sim">Subseries XIII.B: Films</field>
+    <field name="series_si">Series XIII: Collected Film and Audio Library &gt;&gt; Subseries XIII.B: Films &gt;&gt; Champions Do Not Grow Old (БОРЦЫ НЕ СТАРЕЮТ) - Soviet TV</field>
+    <field name="heading_ssm">Champions Do Not Grow Old (БОРЦЫ НЕ СТАРЕЮТ) - Soviet TV</field>
+    <field name="unitdate_start_sim">1935</field>
+    <field name="unitdate_start_ssm">1935</field>
+    <field name="unitdate_start_si">1935</field>
+    <field name="unitdate_end_sim">1995</field>
+    <field name="unitdate_end_ssm">1995</field>
+    <field name="unitdate_end_si">1995</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">13047</field>
+  </doc>
+</add>

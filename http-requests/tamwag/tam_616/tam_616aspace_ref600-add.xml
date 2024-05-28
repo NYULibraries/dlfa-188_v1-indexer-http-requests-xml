@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref600</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref1270</field>
+    <field name="parent_ssm">aspace_ref1270</field>
+    <field name="parent_unittitles_ssm">Series VII: Cubans in Peru</field>
+    <field name="parent_unittitles_teim">Series VII: Cubans in Peru</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Mama del Niño</field>
+    <field name="unittitle_teim">Mama del Niño</field>
+    <field name="unitid_teim">cuid18779</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242728</field>
+    <field name="unitid_ssm">cuid18779</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242728</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="scopecontent_teim">This video contains an interview with a Cuban woman living in Peru who has a son in a hospital in Cuba. She discusses the difficulties she faces trying to get passports and visas for herself and her children so that she could seek better medical care in either Brazil or the United States.</field>
+    <field name="phystech_teim">Original Format: Umatic. Duration: 00:22:15.</field>
+    <field name="dao_teim">Mama del Niño: undated</field>
+    <field name="dao_ssm">Mama del Niño: undated</field>
+    <field name="ref_ssi">aspace_ref600</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 26, Cassette: 600</field>
+    <field name="location_ssm">Cassette: 600</field>
+    <field name="location_si">Cassette: 600</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series VII: Cubans in Peru</field>
+    <field name="series_si">Series VII: Cubans in Peru &gt;&gt; Mama del Niño</field>
+    <field name="heading_ssm">Mama del Niño</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">254</field>
+  </doc>
+</add>

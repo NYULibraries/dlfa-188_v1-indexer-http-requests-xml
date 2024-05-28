@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref1030</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref843</field>
+    <field name="parent_ssm">aspace_ref843</field>
+    <field name="parent_unittitles_ssm">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+    <field name="parent_unittitles_teim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bourne, Peter: Interview (part 1)</field>
+    <field name="unittitle_teim">Bourne, Peter: Interview (part 1)</field>
+    <field name="unitid_teim">cuid301</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/241717</field>
+    <field name="unitid_ssm">cuid301</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/241717</field>
+    <field name="unitdate_normal_ssm">2000/2000</field>
+    <field name="unitdate_normal_teim">2000/2000</field>
+    <field name="unitdate_normal_sim">2000/2000</field>
+    <field name="unitdate_inclusive_teim">2000</field>
+    <field name="scopecontent_teim">This video features a portion of an interview with Peter Bourne. Bourne begins with a lengthy discussion about the custody struggle over Elián González and the United States decision to return him to Cuba. He talks about the ways in which the struggle shifted Americans' perceptions of both Cuba and the exile community in Miami. The conversation then shifts to a general discussion about the way American opinions about Cuba are shaped by the press, which Bourne contrasts with that of other Latin American countries. The second part of the interview focuses on human rights in Cuba, healthcare, and education. He also briefly discusses why some Cubans have left the country, the Cuban economy, and the waning support Cuba received from the Soviet Union beginning in the 1980s.</field>
+    <field name="phystech_teim">Original Format: Betacam. Duration: 00:30:33.</field>
+    <field name="dao_teim">Bourne, Peter: Interview (part 1): 2000</field>
+    <field name="dao_ssm">Bourne, Peter: Interview (part 1): 2000</field>
+    <field name="ref_ssi">aspace_ref1030</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 62, Cassette: ref1030</field>
+    <field name="location_ssm">Cassette: ref1030</field>
+    <field name="location_ssm">Box: 96, DVD: ref1030</field>
+    <field name="location_ssm">DVD: ref1030</field>
+    <field name="location_si">DVD: ref1030</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel</field>
+    <field name="series_si">Series VIII: Fidel: The Untold Story and Anecdotes about Fidel &gt;&gt; Bourne, Peter: Interview (part 1)</field>
+    <field name="heading_ssm">Bourne, Peter: Interview (part 1)</field>
+    <field name="unitdate_start_sim">2000</field>
+    <field name="unitdate_start_ssm">2000</field>
+    <field name="unitdate_start_si">2000</field>
+    <field name="unitdate_end_sim">2000</field>
+    <field name="unitdate_end_ssm">2000</field>
+    <field name="unitdate_end_si">2000</field>
+    <field name="unitdate_ssm">Inclusive, 2000</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">316</field>
+  </doc>
+</add>

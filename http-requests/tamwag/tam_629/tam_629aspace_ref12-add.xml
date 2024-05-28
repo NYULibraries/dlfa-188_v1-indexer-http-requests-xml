@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_629aspace_ref12</field>
+    <field name="ead_ssi">tam_629</field>
+    <field name="parent_ssi">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_unittitles_ssm">Series IV:  Reel to Reel Audio Tapes</field>
+    <field name="parent_unittitles_teim">Series IV:  Reel to Reel Audio Tapes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asia Pacific Forum Records</field>
+    <field name="collection_ssm">Asia Pacific Forum Records</field>
+    <field name="collection_unitid_ssm">TAM.629/repositories/2/resources/1184</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Clip 1 – Nixon; Clip 2 Ford</field>
+    <field name="unittitle_teim">Clip 1 – Nixon; Clip 2 Ford</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/243087</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/243087</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref12</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4</field>
+    <field name="location_si">Box: 4</field>
+    <field name="collection_teim">Asia Pacific Forum Records</field>
+    <field name="collection_unitid_teim">TAM.629/repositories/2/resources/1184</field>
+    <field name="series_sim">Series IV:  Reel to Reel Audio Tapes</field>
+    <field name="series_si">Series IV:  Reel to Reel Audio Tapes &gt;&gt; Clip 1 – Nixon; Clip 2 Ford</field>
+    <field name="heading_ssm">Clip 1 – Nixon; Clip 2 Ford</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">90</field>
+  </doc>
+</add>

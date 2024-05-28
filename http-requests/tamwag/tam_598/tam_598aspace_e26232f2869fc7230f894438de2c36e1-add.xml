@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_598aspace_e26232f2869fc7230f894438de2c36e1</field>
+    <field name="ead_ssi">tam_598</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series I. Think Tank Recordings and Files</field>
+    <field name="parent_unittitles_teim">Series I. Think Tank Recordings and Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Occupy Wall Street Audio Collection</field>
+    <field name="collection_ssm">Occupy Wall Street Audio Collection</field>
+    <field name="collection_unitid_ssm">TAM.598</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Recordings -- December 4, 2011</field>
+    <field name="unittitle_teim">Recordings -- December 4, 2011</field>
+    <field name="unitdate_normal_ssm">2011-12-04/2011-12-04</field>
+    <field name="unitdate_normal_teim">2011-12-04/2011-12-04</field>
+    <field name="unitdate_normal_sim">2011-12-04/2011-12-04</field>
+    <field name="unitdate_teim">2011-12-04</field>
+    <field name="dao_teim">Recordings -- December 4, 2011: 2011-12-04-</field>
+    <field name="dao_ssm">Recordings -- December 4, 2011: 2011-12-04-</field>
+    <field name="ref_ssi">aspace_e26232f2869fc7230f894438de2c36e1</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: TW_TAM_598_ER_19</field>
+    <field name="location_ssm">E-records: TW_TAM_598_ER_19</field>
+    <field name="location_si">E-records: TW_TAM_598_ER_19</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Occupy Wall Street Audio Collection</field>
+    <field name="collection_unitid_teim">TAM.598</field>
+    <field name="series_sim">Series I. Think Tank Recordings and Files</field>
+    <field name="series_si">Series I. Think Tank Recordings and Files &gt;&gt; Recordings -- December 4, 2011</field>
+    <field name="heading_ssm">Recordings -- December 4, 2011</field>
+    <field name="unitdate_ssm">2011-12-04</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">17</field>
+  </doc>
+</add>

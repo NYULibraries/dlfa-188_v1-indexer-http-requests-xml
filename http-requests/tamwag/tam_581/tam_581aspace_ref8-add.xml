@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_581aspace_ref8</field>
+    <field name="ead_ssi">tam_581</field>
+    <field name="parent_ssi">aspace_ref4</field>
+    <field name="parent_ssm">aspace_ref4</field>
+    <field name="parent_unittitles_ssm">Inventory</field>
+    <field name="parent_unittitles_teim">Inventory</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bronx Teen Resource and Referral Network Records</field>
+    <field name="collection_ssm">Bronx Teen Resource and Referral Network Records</field>
+    <field name="collection_unitid_ssm">TAM.581</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Committees, Subject Files, Grant Application, Assistance Rendered and Referrals Made (records with full name or address of clients destroyed for privacy reasons), Files on Related Organizations</field>
+    <field name="unittitle_teim">Committees, Subject Files, Grant Application, Assistance Rendered and Referrals Made (records with full name or address of clients destroyed for privacy reasons), Files on Related Organizations</field>
+    <field name="unitdate_normal_ssm">1987/1993</field>
+    <field name="unitdate_normal_teim">1987/1993</field>
+    <field name="unitdate_normal_sim">1987/1993</field>
+    <field name="unitdate_inclusive_teim">late 1980s-early 1990s</field>
+    <field name="ref_ssi">aspace_ref8</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4</field>
+    <field name="location_si">Box: 4</field>
+    <field name="collection_teim">Bronx Teen Resource and Referral Network Records</field>
+    <field name="collection_unitid_teim">TAM.581</field>
+    <field name="series_sim">Inventory</field>
+    <field name="series_si">Inventory &gt;&gt; Committees, Subject Files, Grant Application, Assistance Rendered and Referrals Made (records with full name or address of clients destroyed for privacy reasons), Files on Related Organizations</field>
+    <field name="heading_ssm">Committees, Subject Files, Grant Application, Assistance Rendered and Referrals Made (records with full name or address of clients destroyed for privacy reasons), Files on Related Organizations</field>
+    <field name="unitdate_start_sim">1987</field>
+    <field name="unitdate_start_ssm">1987</field>
+    <field name="unitdate_start_si">1987</field>
+    <field name="unitdate_end_sim">1993</field>
+    <field name="unitdate_end_ssm">1993</field>
+    <field name="unitdate_end_si">1993</field>
+    <field name="unitdate_ssm">Inclusive, late 1980s-early 1990s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">5</field>
+  </doc>
+</add>

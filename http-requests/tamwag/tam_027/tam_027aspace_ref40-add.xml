@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_027aspace_ref40</field>
+    <field name="ead_ssi">tam_027</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Papers</field>
+    <field name="parent_unittitles_teim">Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Morris Hillquit Papers</field>
+    <field name="collection_ssm">Morris Hillquit Papers</field>
+    <field name="collection_unitid_ssm">TAM.027</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Correspondence: General</field>
+    <field name="unittitle_teim">Correspondence: General</field>
+    <field name="unitdate_teim">1928, 1931</field>
+    <field name="ref_ssi">aspace_ref40</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Morris Hillquit Papers</field>
+    <field name="collection_unitid_teim">TAM.027</field>
+    <field name="series_sim">Papers</field>
+    <field name="series_si">Papers &gt;&gt; Correspondence: General</field>
+    <field name="heading_ssm">Correspondence: General</field>
+    <field name="unitdate_ssm">1928, 1931</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

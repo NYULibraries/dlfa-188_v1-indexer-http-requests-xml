@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_100aspace_ref208</field>
+    <field name="ead_ssi">tam_100</field>
+    <field name="parent_ssi">aspace_ref203</field>
+    <field name="parent_ssm">aspace_ref155</field>
+    <field name="parent_ssm">aspace_ref203</field>
+    <field name="parent_unittitles_ssm">Series IV: Journalism Career</field>
+    <field name="parent_unittitles_ssm">Subseries IV:E: New York employment</field>
+    <field name="parent_unittitles_teim">Series IV: Journalism Career</field>
+    <field name="parent_unittitles_teim">Subseries IV:E: New York employment</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Virginia Gardner Papers</field>
+    <field name="collection_ssm">Virginia Gardner Papers</field>
+    <field name="collection_unitid_ssm">TAM.100</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Daily Peoples World&lt;/em&gt; and &lt;em&gt;Daily Worker&lt;/em&gt; articles by VG</field>
+    <field name="unittitle_teim">Daily Peoples World and Daily Worker articles by VG</field>
+    <field name="unitdate_normal_ssm">1948/1957</field>
+    <field name="unitdate_normal_teim">1948/1957</field>
+    <field name="unitdate_normal_sim">1948/1957</field>
+    <field name="unitdate_inclusive_teim">1948-1957</field>
+    <field name="ref_ssi">aspace_ref208</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 52</field>
+    <field name="location_ssm">Folder: 52</field>
+    <field name="location_si">Folder: 52</field>
+    <field name="collection_teim">Virginia Gardner Papers</field>
+    <field name="collection_unitid_teim">TAM.100</field>
+    <field name="series_sim">Series IV: Journalism Career</field>
+    <field name="series_sim">Subseries IV:E: New York employment</field>
+    <field name="series_si">Series IV: Journalism Career &gt;&gt; Subseries IV:E: New York employment &gt;&gt; &lt;em&gt;Daily Peoples World&lt;/em&gt; and &lt;em&gt;Daily Worker&lt;/em&gt; articles by VG</field>
+    <field name="heading_ssm">Daily Peoples World and Daily Worker articles by VG</field>
+    <field name="unitdate_start_sim">1948</field>
+    <field name="unitdate_start_ssm">1948</field>
+    <field name="unitdate_start_si">1948</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, 1948-1957</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">196</field>
+  </doc>
+</add>

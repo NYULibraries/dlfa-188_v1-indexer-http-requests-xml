@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_007aspace_ref1401</field>
+    <field name="ead_ssi">tam_007</field>
+    <field name="parent_ssi">aspace_ref1400</field>
+    <field name="parent_ssm">aspace_ref1400</field>
+    <field name="parent_unittitles_ssm">Series VI: Publications</field>
+    <field name="parent_unittitles_teim">Series VI: Publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Rand School of Social Science Records</field>
+    <field name="collection_ssm">Rand School of Social Science Records</field>
+    <field name="collection_unitid_ssm">TAM.007</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VIA: Correspondence and Reports</field>
+    <field name="unittitle_teim">Subseries VIA: Correspondence and Reports</field>
+    <field name="unitdate_normal_ssm">1912/1953</field>
+    <field name="unitdate_normal_teim">1912/1953</field>
+    <field name="unitdate_normal_sim">1912/1953</field>
+    <field name="unitdate_inclusive_teim">1912-1953</field>
+    <field name="scopecontent_teim">The correspondence and reports part contains three files which pertain to the Labor Research Department (XIII:F:1:1), the American Labor Archive and Research Institute (XIII:F:1:2), and the Institute of Social Studies (XIII:F:1:3). The papers within these files are arranged in chronological order, with undated items placed at the end of the file. The two most interesting files in this part are those of the Labor Research Department and the American Labor Archive and Research Institute. The Labor Research Department file contains numerous reports on American labor issues and the Department's operations. The correspondence in this file primarily consists of reviews of The American Labor Year Book. Among the principal correspondents in this file are Alexander Trachtenberg, Feliks Gross, Harry W. Laidler, Solon De Leon, Max Nomad, Mark Starr, Upton Sinclair, and James Oneal.</field>
+    <field name="scopecontent_teim">The American Labor Archive and Research Institute was established in 1941 for the purpose of preserving documents which related to the European and American labor movements. The correspondence in the American Labor Archive file pertains to the activities of the Archive's director, Boris Nicolaevsky. There is also an interesting report in this file entitled, "Jewish Problems in the American Trade Union Press, 1944-1945." This report was prepared by the American Labor Archive staff for the Jewish Labor Committee</field>
+    <field name="ref_ssi">aspace_ref1401</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Rand School of Social Science Records</field>
+    <field name="collection_unitid_teim">TAM.007</field>
+    <field name="series_sim">Series VI: Publications</field>
+    <field name="series_si">Series VI: Publications &gt;&gt; Subseries VIA: Correspondence and Reports</field>
+    <field name="heading_ssm">Subseries VIA: Correspondence and Reports</field>
+    <field name="unitdate_start_sim">1912</field>
+    <field name="unitdate_start_ssm">1912</field>
+    <field name="unitdate_start_si">1912</field>
+    <field name="unitdate_end_sim">1953</field>
+    <field name="unitdate_end_ssm">1953</field>
+    <field name="unitdate_end_si">1953</field>
+    <field name="unitdate_ssm">Inclusive, 1912-1953</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">728</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_416aspace_3742d7dbd58eba0ea05175d649ec713f</field>
+    <field name="ead_ssi">tam_416</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Video Recordings</field>
+    <field name="parent_unittitles_teim">Series III: Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asian CineVision Records</field>
+    <field name="collection_ssm">Asian CineVision Records</field>
+    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Video 300: CCTV</field>
+    <field name="unittitle_teim">Video 300: CCTV</field>
+    <field name="unitid_teim">Cuid15065</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/881986</field>
+    <field name="unitid_ssm">Cuid15065</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/881986</field>
+    <field name="unitdate_normal_ssm">1982-01-11/1982-01-11</field>
+    <field name="unitdate_normal_teim">1982-01-11/1982-01-11</field>
+    <field name="unitdate_normal_sim">1982-01-11/1982-01-11</field>
+    <field name="unitdate_inclusive_teim">January 11, 1982</field>
+    <field name="scopecontent_teim">This episode includes three parts: news reports, street interviews, and a feature program about Chinatown talents. The first part covers international, local, and Chinatown news from the week. In local news, Chinatown residents and non-government organizations sue the New York City Mayor's Office of Management and Budget, New York Department of Housing and Urban Development, and a Chinese American developer on the issue of launching the Special Manhattan Bridge District project without sufficient public consultation. The project intends to renew the neighborhood by demolishing old buildings. This section also covers news about the Chinese American Planning Council, which obtained federal funds to build apartment buildings for seniors and people with disabilities. The second part includes street interviews with Chinatown residents on the topic of coping with cold weather. The third part is a feature on the first woman taxi driver from Chinatown.</field>
+    <field name="phystech_teim">Format: 3/4" Umatic, Duration: 59 minutes</field>
+    <field name="dao_teim">Video 300: CCTV: January 11, 1982</field>
+    <field name="dao_ssm">Video 300: CCTV: January 11, 1982</field>
+    <field name="ref_ssi">aspace_3742d7dbd58eba0ea05175d649ec713f</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 99, Video: Cuid15065</field>
+    <field name="location_ssm">Video: Cuid15065</field>
+    <field name="location_si">Video: Cuid15065</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Asian CineVision Records</field>
+    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="series_sim">Series III: Video Recordings</field>
+    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 300: CCTV</field>
+    <field name="heading_ssm">Video 300: CCTV</field>
+    <field name="unitdate_ssm">Inclusive, January 11, 1982</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">386</field>
+  </doc>
+</add>

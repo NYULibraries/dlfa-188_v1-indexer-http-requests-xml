@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_026aspace_ref19</field>
+    <field name="ead_ssi">tam_026</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series I: Records, 1915-1917</field>
+    <field name="parent_unittitles_teim">Series I: Records, 1915-1917</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Russian Artillery Commission in North America Records</field>
+    <field name="collection_ssm">Russian Artillery Commission in North America Records</field>
+    <field name="collection_unitid_ssm">TAM.026</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Reports of Ordnance Engineer, Col. V. Nekrasov, and his correspondence with American manufacturing firms (Title on cover translates as "My Reports and Correspondence.")</field>
+    <field name="unittitle_teim">Reports of Ordnance Engineer, Col. V. Nekrasov, and his correspondence with American manufacturing firms (Title on cover translates as "My Reports and Correspondence.")</field>
+    <field name="unitdate_normal_ssm">1915/1916</field>
+    <field name="unitdate_normal_teim">1915/1916</field>
+    <field name="unitdate_normal_sim">1915/1916</field>
+    <field name="unitdate_inclusive_teim">1915-1916</field>
+    <field name="ref_ssi">aspace_ref19</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1</field>
+    <field name="location_si">Box: 1</field>
+    <field name="collection_teim">Russian Artillery Commission in North America Records</field>
+    <field name="collection_unitid_teim">TAM.026</field>
+    <field name="series_sim">Series I: Records, 1915-1917</field>
+    <field name="series_si">Series I: Records, 1915-1917 &gt;&gt; Reports of Ordnance Engineer, Col. V. Nekrasov, and his correspondence with American manufacturing firms (Title on cover translates as "My Reports and Correspondence.")</field>
+    <field name="heading_ssm">Reports of Ordnance Engineer, Col. V. Nekrasov, and his correspondence with American manufacturing firms (Title on cover translates as "My Reports and Correspondence.")</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1916</field>
+    <field name="unitdate_end_ssm">1916</field>
+    <field name="unitdate_end_si">1916</field>
+    <field name="unitdate_ssm">Inclusive, 1915-1916</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_ref2907</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_ref2700</field>
+    <field name="parent_ssm">aspace_ref2700</field>
+    <field name="parent_unittitles_ssm">Series IV: Education</field>
+    <field name="parent_unittitles_teim">Series IV: Education</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV.C: Reference Center for Marxist Studies</field>
+    <field name="unittitle_teim">Subseries IV.C: Reference Center for Marxist Studies</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/173913</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/173913</field>
+    <field name="unitdate_normal_ssm">1977/2002</field>
+    <field name="unitdate_normal_teim">1977/2002</field>
+    <field name="unitdate_normal_sim">1977/2002</field>
+    <field name="unitdate_inclusive_teim">1977-2002</field>
+    <field name="scopecontent_teim">The Reference Center for Marxist Studies was a radical library founded by the CPUSA circa 1979 and was located at the CPUSA headquarters in New York City. RCMS contained thousands of books, pamphlets, and serials devoted to the study of communism, the history of the CPUSA, socialism, the working class, African Americans, women's issues, and national liberation struggles. The Center also sponsored cultural and educational programs, lectures, forums, and discussions. This subseries documents the library's founding and the initiatives of its staff, including their efforts to preserve Party history by acting as a central archival repository for the personal papers of Party members. Financial records, correspondence, and committee meeting minutes can be found here. Cataloging manuals, book lists, and research guides are particularly noteworthy as they clearly illustrate the intentions of the library's founders to serve Party members, workers, and scholars of communism in a way that would complement the goals of the CPUSA. Researchers should note that the complete holdings of the RCMS were donated to the Tamiment Library along with the CPUSA records. Monographs and serials have been cataloged at the item level and are accessible via BobCat. Pamphlets were incorporated into the Reference Center for Marxist Studies Pamphlet Collection (PE 043).</field>
+    <field name="ref_ssi">aspace_ref2907</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series IV: Education</field>
+    <field name="series_si">Series IV: Education &gt;&gt; Subseries IV.C: Reference Center for Marxist Studies</field>
+    <field name="heading_ssm">Subseries IV.C: Reference Center for Marxist Studies</field>
+    <field name="unitdate_start_sim">1977</field>
+    <field name="unitdate_start_ssm">1977</field>
+    <field name="unitdate_start_si">1977</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 1977-2002</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">3582</field>
+  </doc>
+</add>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_442aspace_ref182</field>
+    <field name="ead_ssi">tam_442</field>
+    <field name="parent_ssi">aspace_ref71</field>
+    <field name="parent_ssm">aspace_ref71</field>
+    <field name="parent_unittitles_ssm">Series II: Post World War II</field>
+    <field name="parent_unittitles_teim">Series II: Post World War II</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">George Yuzawa Papers</field>
+    <field name="collection_ssm">George Yuzawa Papers</field>
+    <field name="collection_unitid_ssm">TAM.442</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries F: Japanese American United Church (JAUC)</field>
+    <field name="unittitle_teim">Subseries F: Japanese American United Church (JAUC)</field>
+    <field name="unitdate_normal_ssm">1938/2004</field>
+    <field name="unitdate_normal_teim">1938/2004</field>
+    <field name="unitdate_normal_sim">1938/2004</field>
+    <field name="unitdate_inclusive_teim">1938-2004</field>
+    <field name="scopecontent_teim">Subseries F: Japanese American United Church (JAUC) consists of minutes and reports from JAUC's annual congregational meetings, Board of Directors meetings, pastoral search committee and Concerned Group of JAUC; correspondence; fellowship newsletters; event flyers and programs; and directories of members and church officers. The series also contains materials relating to the 19th Century Japanese burial plot at Willow Grove Cemetery in New Brunswick, NJ and memorial services at Cypress Hills and Mount Olivet Cemeteries. Yuzawa, as part of his advocacy work for the Japanese American elderly, regularly assisted in making funeral arrangements.</field>
+    <field name="ref_ssi">aspace_ref182</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">George Yuzawa Papers</field>
+    <field name="collection_unitid_teim">TAM.442</field>
+    <field name="series_sim">Series II: Post World War II</field>
+    <field name="series_si">Series II: Post World War II &gt;&gt; Subseries F: Japanese American United Church (JAUC)</field>
+    <field name="heading_ssm">Subseries F: Japanese American United Church (JAUC)</field>
+    <field name="unitdate_start_sim">1938</field>
+    <field name="unitdate_start_ssm">1938</field>
+    <field name="unitdate_start_si">1938</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_si">2004</field>
+    <field name="unitdate_ssm">Inclusive, 1938-2004</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">298</field>
+  </doc>
+</add>

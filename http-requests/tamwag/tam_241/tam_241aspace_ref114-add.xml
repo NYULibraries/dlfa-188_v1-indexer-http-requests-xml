@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_241aspace_ref114</field>
+    <field name="ead_ssi">tam_241</field>
+    <field name="parent_ssi">aspace_ref86</field>
+    <field name="parent_ssm">aspace_ref85</field>
+    <field name="parent_ssm">aspace_ref86</field>
+    <field name="parent_unittitles_ssm">Series V: Audiovisual Materials</field>
+    <field name="parent_unittitles_ssm">Reel-to-Reel Tapes</field>
+    <field name="parent_unittitles_teim">Series V: Audiovisual Materials</field>
+    <field name="parent_unittitles_teim">Reel-to-Reel Tapes</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sam Wallach Papers</field>
+    <field name="collection_ssm">Sam Wallach Papers</field>
+    <field name="collection_unitid_ssm">TAM.241</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Wilson-Hutchins Hearings (1 reel)</field>
+    <field name="unittitle_teim">Wilson-Hutchins Hearings (1 reel)</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref114</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4</field>
+    <field name="location_si">Box: 4</field>
+    <field name="collection_teim">Sam Wallach Papers</field>
+    <field name="collection_unitid_teim">TAM.241</field>
+    <field name="series_sim">Series V: Audiovisual Materials</field>
+    <field name="series_sim">Reel-to-Reel Tapes</field>
+    <field name="series_si">Series V: Audiovisual Materials &gt;&gt; Reel-to-Reel Tapes &gt;&gt; Wilson-Hutchins Hearings (1 reel)</field>
+    <field name="heading_ssm">Wilson-Hutchins Hearings (1 reel)</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">91</field>
+  </doc>
+</add>

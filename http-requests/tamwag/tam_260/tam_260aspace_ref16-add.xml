@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_260aspace_ref16</field>
+    <field name="ead_ssi">tam_260</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref144</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series II: Negatives</field>
+    <field name="parent_unittitles_ssm">Subseries II:A: Demonstrations, Rallies, Parades</field>
+    <field name="parent_unittitles_teim">Series II: Negatives</field>
+    <field name="parent_unittitles_teim">Subseries II:A: Demonstrations, Rallies, Parades</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Charles Rivers Photographs and Scrapbooks</field>
+    <field name="collection_ssm">Charles Rivers Photographs and Scrapbooks</field>
+    <field name="collection_unitid_ssm">TAM.260</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Peace Demonstration</field>
+    <field name="unittitle_teim">Peace Demonstration</field>
+    <field name="unitdate_normal_ssm">1930/1939</field>
+    <field name="unitdate_normal_teim">1930/1939</field>
+    <field name="unitdate_normal_sim">1930/1939</field>
+    <field name="unitdate_inclusive_teim">[1930s?]</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Item: 27</field>
+    <field name="location_ssm">Item: 27</field>
+    <field name="location_si">Item: 27</field>
+    <field name="collection_teim">Charles Rivers Photographs and Scrapbooks</field>
+    <field name="collection_unitid_teim">TAM.260</field>
+    <field name="series_sim">Series II: Negatives</field>
+    <field name="series_sim">Subseries II:A: Demonstrations, Rallies, Parades</field>
+    <field name="series_si">Series II: Negatives &gt;&gt; Subseries II:A: Demonstrations, Rallies, Parades &gt;&gt; Peace Demonstration</field>
+    <field name="heading_ssm">Peace Demonstration</field>
+    <field name="unitdate_start_sim">1930</field>
+    <field name="unitdate_start_ssm">1930</field>
+    <field name="unitdate_start_si">1930</field>
+    <field name="unitdate_end_sim">1939</field>
+    <field name="unitdate_end_ssm">1939</field>
+    <field name="unitdate_end_si">1939</field>
+    <field name="unitdate_ssm">Inclusive, [1930s?]</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

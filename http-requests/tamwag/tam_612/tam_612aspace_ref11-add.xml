@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_612aspace_ref11</field>
+    <field name="ead_ssi">tam_612</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Roslyn Payne Collection of Black Panther Party FBI Files</field>
+    <field name="collection_ssm">Roslyn Payne Collection of Black Panther Party FBI Files</field>
+    <field name="collection_unitid_ssm">TAM.612</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: FBI Documents</field>
+    <field name="unittitle_teim">Series I: FBI Documents</field>
+    <field name="unitdate_normal_ssm">1968/1986</field>
+    <field name="unitdate_normal_teim">1968/1986</field>
+    <field name="unitdate_normal_sim">1968/1986</field>
+    <field name="unitdate_inclusive_teim">1968-1986</field>
+    <field name="scopecontent_teim">Series I: FBI Documents makes up the bulk of the collection and consists of 300,000 documents on the Black Panther Party (BPP) released by the FBI, and an index of their contents created by Roslyn Payne in 1986. The files predominantly consist of reports and correspondence between bureau offices that outline FBI counterintelligence strategies and document Black Panther Party activities. Some of these documents include fake letters, flyers, cartoons designed to spread distrust of the BPP, and correspondence detailing intimidation practices used by the FBI against party members. Other documents detail the history and actions of the BPP, and include transcripts of speeches and phone conversations, surveillance reports, interviews, articles, and BPP related ephemera.</field>
+    <field name="scopecontent_teim">Payne spent many years coding these files to identify topics of inquiry, featured individuals, and FBI offices of origin. Using computer programs from the late 1980s, Payne analyzed the results of her coding efforts and printed data reports based on the categories she selected. These reports allow researchers to search the files by section number, year, recipient, creator, location, featured individual, initials of agent, and various other topics. Two copies of Payne's index are included in this series. Several pages are torn, damaged, or missing from each. Two copies were retained so data missing from one index can be found in the other.</field>
+    <field name="ref_ssi">aspace_ref11</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Roslyn Payne Collection of Black Panther Party FBI Files</field>
+    <field name="collection_unitid_teim">TAM.612</field>
+    <field name="series_si">Series I: FBI Documents</field>
+    <field name="heading_ssm">Series I: FBI Documents</field>
+    <field name="unitdate_start_sim">1968</field>
+    <field name="unitdate_start_ssm">1968</field>
+    <field name="unitdate_start_si">1968</field>
+    <field name="unitdate_end_sim">1986</field>
+    <field name="unitdate_end_ssm">1986</field>
+    <field name="unitdate_end_si">1986</field>
+    <field name="unitdate_ssm">Inclusive, 1968-1986</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

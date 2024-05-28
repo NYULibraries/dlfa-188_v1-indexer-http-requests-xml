@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_542aspace_ref544</field>
+    <field name="ead_ssi">tam_542</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Howard Zinn Papers</field>
+    <field name="collection_ssm">Howard Zinn Papers</field>
+    <field name="collection_unitid_ssm">TAM.542/repositories/2/resources/1106</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Boston University</field>
+    <field name="unittitle_teim">Series V: Boston University</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/234618</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/234618</field>
+    <field name="unitdate_normal_ssm">1960/2003</field>
+    <field name="unitdate_normal_teim">1960/2003</field>
+    <field name="unitdate_normal_sim">1960/2003</field>
+    <field name="unitdate_inclusive_teim">1960-2003</field>
+    <field name="scopecontent_teim">The first Boston University (BU) subseries focuses on Howard Zinn's teaching career including course syllabi, a few lecture transcripts, a number of his annual appointment forms and student evaluations of his teaching for the years 1969 through 1983.  There are many examples of student work – papers, projects, journals and independent study – and a good deal of associated materials. The student journals not only provide a glimpse into the conduct of Zinn's classes and the materials he used, but also reveal reactions of the individual students.</field>
+    <field name="scopecontent_teim">The second, and much larger subseries, documents many crises and controversies that occurred during Zinn's time at BU including suppression of academic freedom and civil liberties, censorship of campus press, attempts to build and strengthen the AAUP and other unions on campus, tenure and salary grievances, strikes and demonstrations, issues surrounding various University trustees and many examples of the rancor between Zinn and John Silber, former BU president. Some of the conflicts continue even after Zinn's retirement, including his active opposition to Silber's gubernatorial candidacy in 1990.  It should be noted that material concerning specific controversies may be found in multiple folders.  An event might, for example, appear in a general controversies folder, in a folder focused on the Committee to Save Boston University, in a folder addressing AAUP activities and in a folder titled with the name of the particular issue. </field>
+    <field name="ref_ssi">aspace_ref544</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Howard Zinn Papers</field>
+    <field name="collection_unitid_teim">TAM.542/repositories/2/resources/1106</field>
+    <field name="series_si">Series V: Boston University</field>
+    <field name="heading_ssm">Series V: Boston University</field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">2003</field>
+    <field name="unitdate_end_ssm">2003</field>
+    <field name="unitdate_end_si">2003</field>
+    <field name="unitdate_ssm">Inclusive, 1960-2003</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">540</field>
+  </doc>
+</add>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_416aspace_11090a66a9880b82f3d4b44cf867b05f</field>
+    <field name="ead_ssi">tam_416</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Video Recordings</field>
+    <field name="parent_unittitles_teim">Series III: Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asian CineVision Records</field>
+    <field name="collection_ssm">Asian CineVision Records</field>
+    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Video 224: CCTV</field>
+    <field name="unittitle_teim">Video 224: CCTV</field>
+    <field name="unitid_teim">Cuid9270</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/881911</field>
+    <field name="unitid_ssm">Cuid9270</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/881911</field>
+    <field name="unitdate_normal_ssm">1980-01-20/1980-01-20</field>
+    <field name="unitdate_normal_teim">1980-01-20/1980-01-20</field>
+    <field name="unitdate_normal_sim">1980-01-20/1980-01-20</field>
+    <field name="unitdate_inclusive_teim">January 20, 1980</field>
+    <field name="scopecontent_teim">This episode includes three parts: a news report on a local demonstration, a 19-minute documentary, and an announcement section. The first part covers housing issues faced by a group of Chinatown residents, who organized demonstrations against the landlord Thomas Sung. Interviews with the disaffected tenants and Thomas Sung (孫啟誠) are included. The second part shows a documentary film Jenny (1977), which is produced by Japanese American Ginny Hashii. The documentary narrates the experiences of being Japanese American in the United States.</field>
+    <field name="phystech_teim">Format: 3/4" Umatic, Duration 55 minutes.</field>
+    <field name="dao_teim">Video 224: CCTV: January 20, 1980</field>
+    <field name="dao_ssm">Video 224: CCTV: January 20, 1980</field>
+    <field name="ref_ssi">aspace_11090a66a9880b82f3d4b44cf867b05f</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 91, Video: Cuid9270</field>
+    <field name="location_ssm">Video: Cuid9270</field>
+    <field name="location_si">Video: Cuid9270</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Asian CineVision Records</field>
+    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="series_sim">Series III: Video Recordings</field>
+    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 224: CCTV</field>
+    <field name="heading_ssm">Video 224: CCTV</field>
+    <field name="unitdate_ssm">Inclusive, January 20, 1980</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">310</field>
+  </doc>
+</add>

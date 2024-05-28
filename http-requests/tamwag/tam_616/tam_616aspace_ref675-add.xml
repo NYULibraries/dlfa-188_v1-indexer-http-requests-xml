@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref675</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref1264</field>
+    <field name="parent_ssm">aspace_ref1264</field>
+    <field name="parent_unittitles_ssm">Series XXVI: The Three Rafters</field>
+    <field name="parent_unittitles_teim">Series XXVI: The Three Rafters</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Tres Balseros</field>
+    <field name="unittitle_teim">Tres Balseros</field>
+    <field name="unitid_teim">cuid400</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/242427</field>
+    <field name="unitid_ssm">cuid400</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/242427</field>
+    <field name="unitdate_normal_ssm">1992/1992</field>
+    <field name="unitdate_normal_teim">1992/1992</field>
+    <field name="unitdate_normal_sim">1992/1992</field>
+    <field name="unitdate_inclusive_teim">1992</field>
+    <field name="scopecontent_teim">This video contains footage of three Cuban men returning to Cuba and greeting friends at family at an airport. The footage does not contain any audio, but features footage of the men speaking to the camera, and meeting with family after their arrival in Cuba.</field>
+    <field name="phystech_teim">Original Format: Umatic. Duration: 00:22:47.</field>
+    <field name="dao_teim">Tres Balseros: 1992</field>
+    <field name="dao_ssm">Tres Balseros: 1992</field>
+    <field name="ref_ssi">aspace_ref675</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 31, Cassette: ref675</field>
+    <field name="location_ssm">Cassette: ref675</field>
+    <field name="location_ssm">Box: 95, DVD: ref675</field>
+    <field name="location_ssm">DVD: ref675</field>
+    <field name="location_si">DVD: ref675</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series XXVI: The Three Rafters</field>
+    <field name="series_si">Series XXVI: The Three Rafters &gt;&gt; Tres Balseros</field>
+    <field name="heading_ssm">Tres Balseros</field>
+    <field name="unitdate_start_sim">1992</field>
+    <field name="unitdate_start_ssm">1992</field>
+    <field name="unitdate_start_si">1992</field>
+    <field name="unitdate_end_sim">1992</field>
+    <field name="unitdate_end_ssm">1992</field>
+    <field name="unitdate_end_si">1992</field>
+    <field name="unitdate_ssm">Inclusive, 1992</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">975</field>
+  </doc>
+</add>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_056_009aspace_ref19</field>
+    <field name="ead_ssi">tam_056_009</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">SERIES I: NATIONAL CORRESPONDENCE</field>
+    <field name="parent_unittitles_teim">SERIES I: NATIONAL CORRESPONDENCE</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Socialist Party (U.S) Correspondence</field>
+    <field name="collection_ssm">Socialist Party (U.S) Correspondence</field>
+    <field name="collection_unitid_ssm">TAM.056.009</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">United States</field>
+    <field name="unittitle_teim">United States</field>
+    <field name="unitdate_normal_ssm">1911/1911</field>
+    <field name="unitdate_normal_teim">1911/1911</field>
+    <field name="unitdate_normal_sim">1911/1911</field>
+    <field name="unitdate_teim">Apr 1911-Nov 1911</field>
+    <field name="ref_ssi">aspace_ref19</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Socialist Party (U.S) Correspondence</field>
+    <field name="collection_unitid_teim">TAM.056.009</field>
+    <field name="series_sim">SERIES I: NATIONAL CORRESPONDENCE</field>
+    <field name="series_si">SERIES I: NATIONAL CORRESPONDENCE &gt;&gt; United States</field>
+    <field name="heading_ssm">United States</field>
+    <field name="unitdate_start_sim">1911</field>
+    <field name="unitdate_start_ssm">1911</field>
+    <field name="unitdate_start_si">1911</field>
+    <field name="unitdate_end_sim">1911</field>
+    <field name="unitdate_end_ssm">1911</field>
+    <field name="unitdate_end_si">1911</field>
+    <field name="unitdate_ssm">Apr 1911-Nov 1911</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_ref14</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: National Administrative Records</field>
+    <field name="unittitle_teim">Series I: National Administrative Records</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/171040</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/171040</field>
+    <field name="unitdate_normal_ssm">1913/2007</field>
+    <field name="unitdate_normal_teim">1913/2007</field>
+    <field name="unitdate_normal_sim">1913/2007</field>
+    <field name="unitdate_inclusive_teim">1913-2007</field>
+    <field name="scopecontent_teim">Series I contains the administrative records of the CPUSA's national office. These materials provide a vivid portrait of the CPUSA's birth and development over the course of the 20th century. Files of staff members, along with the records of various national bodies, can be found here. The series includes extensive audio and video recordings of National Conferences and Conventions, and Party organization meetings.</field>
+    <field name="ref_ssi">aspace_ref14</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_si">Series I: National Administrative Records</field>
+    <field name="heading_ssm">Series I: National Administrative Records</field>
+    <field name="unitdate_start_sim">1913</field>
+    <field name="unitdate_start_ssm">1913</field>
+    <field name="unitdate_start_si">1913</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, 1913-2007</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

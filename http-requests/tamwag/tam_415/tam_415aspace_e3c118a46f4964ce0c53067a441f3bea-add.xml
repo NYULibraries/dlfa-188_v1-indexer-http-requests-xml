@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_415aspace_e3c118a46f4964ce0c53067a441f3bea</field>
+    <field name="ead_ssi">tam_415</field>
+    <field name="parent_ssi">aspace_4d16af9c687dfaf54b6d7648ba71696a</field>
+    <field name="parent_ssm">aspace_be386deafa1634d51ba39ae9287141b7</field>
+    <field name="parent_ssm">aspace_4d16af9c687dfaf54b6d7648ba71696a</field>
+    <field name="parent_unittitles_ssm">Series IV. Printed Materials</field>
+    <field name="parent_unittitles_ssm">Series IV.D. Maps</field>
+    <field name="parent_unittitles_teim">Series IV. Printed Materials</field>
+    <field name="parent_unittitles_teim">Series IV.D. Maps</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_ssm">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_unitid_ssm">TAM.415/repositories/2/resources/2861</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Europe</field>
+    <field name="unittitle_teim">Europe</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/835038</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/835038</field>
+    <field name="unitdate_normal_ssm">1675/2008</field>
+    <field name="unitdate_normal_teim">1675/2008</field>
+    <field name="unitdate_normal_sim">1675/2008</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_e3c118a46f4964ce0c53067a441f3bea</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_ssm">Flat-File-Folder: 2</field>
+    <field name="location_ssm">Box: 36, Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_unitid_teim">TAM.415/repositories/2/resources/2861</field>
+    <field name="series_sim">Series IV. Printed Materials</field>
+    <field name="series_sim">Series IV.D. Maps</field>
+    <field name="series_si">Series IV. Printed Materials &gt;&gt; Series IV.D. Maps &gt;&gt; Europe</field>
+    <field name="heading_ssm">Europe</field>
+    <field name="unitdate_start_sim">1675</field>
+    <field name="unitdate_start_ssm">1675</field>
+    <field name="unitdate_start_si">1675</field>
+    <field name="unitdate_end_sim">2008</field>
+    <field name="unitdate_end_ssm">2008</field>
+    <field name="unitdate_end_si">2008</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1601-1700</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">8568</field>
+  </doc>
+</add>

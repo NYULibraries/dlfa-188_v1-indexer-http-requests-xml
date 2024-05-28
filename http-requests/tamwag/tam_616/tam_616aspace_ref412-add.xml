@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_ref412</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref944</field>
+    <field name="parent_ssm">aspace_ref944</field>
+    <field name="parent_unittitles_ssm">Series VI: The Cuban Excludables</field>
+    <field name="parent_unittitles_teim">Series VI: The Cuban Excludables</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Shoob, Judge Marvin: Interview (part 1)</field>
+    <field name="unittitle_teim">Shoob, Judge Marvin: Interview (part 1)</field>
+    <field name="unitid_teim">cuid287</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/241518</field>
+    <field name="unitid_ssm">cuid287</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/241518</field>
+    <field name="unitdate_normal_ssm">1991/1997</field>
+    <field name="unitdate_normal_teim">1991/1997</field>
+    <field name="unitdate_normal_sim">1991/1997</field>
+    <field name="unitdate_inclusive_teim">circa 1990s</field>
+    <field name="scopecontent_teim">This video features an interview with Judge Marvin Shoob. Before the interview begins Shoob and Estela Bravo informally discuss Dr. Bolivar Martineau and baseball player Denny McLain. The official interview begins around minute 3:00 and features a discussion about Cubans who were detained by Immigration and Naturalization Services (INS), and the difficulty of obtaining individual trials for these people. He shares a story about a man who he argued never should have been detained by INS, but was held in a US prison for several years because of what he describes as an arbitrary decision and a failure to individually address his case. Shoob also discusses his attempts to gain the release of several detainees and the resistance he encountered from the federal government and prison administrators.</field>
+    <field name="bioghist_teim">Judge Marvin Herman Shoob (1923-  ) is a US Federal Judge who ruled against indefinite detention of Cuban refugees that were being held in American prisons.</field>
+    <field name="phystech_teim">Original Format: Betacam. Duration: 00:30:14.</field>
+    <field name="ref_ssi">aspace_ref412</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 97, DVD: ref412</field>
+    <field name="location_ssm">DVD: ref412</field>
+    <field name="location_si">DVD: ref412</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series VI: The Cuban Excludables</field>
+    <field name="series_si">Series VI: The Cuban Excludables &gt;&gt; Shoob, Judge Marvin: Interview (part 1)</field>
+    <field name="heading_ssm">Shoob, Judge Marvin: Interview (part 1)</field>
+    <field name="unitdate_start_sim">1991</field>
+    <field name="unitdate_start_ssm">1991</field>
+    <field name="unitdate_start_si">1991</field>
+    <field name="unitdate_end_sim">1997</field>
+    <field name="unitdate_end_ssm">1997</field>
+    <field name="unitdate_end_si">1997</field>
+    <field name="unitdate_ssm">Inclusive, circa 1990s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">184</field>
+  </doc>
+</add>

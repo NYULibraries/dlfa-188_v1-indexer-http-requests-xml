@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_501aspace_ref455</field>
+    <field name="ead_ssi">tam_501</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Penley Papers</field>
+    <field name="collection_ssm">John Penley Papers</field>
+    <field name="collection_unitid_ssm">TAM.501</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Papers</field>
+    <field name="unittitle_teim">Series I: Papers</field>
+    <field name="unitdate_normal_ssm">1980/2010</field>
+    <field name="unitdate_normal_teim">1980/2010</field>
+    <field name="unitdate_normal_sim">1980/2010</field>
+    <field name="unitdate_inclusive_teim">circa 1980-2010</field>
+    <field name="scopecontent_teim">Series I contains magazine and newspaper clippings that feature Penley's photographs or are related to his photographic and journalistic interests, as well as leaflets and handbills (including some original artwork) concerning the squatters rights movement. Legal documents from Penley's suit against the New York City Police Department and then Mayor Edward Koch relating to Penley's 1987 arrest (at a rally he organized to register homeless people to vote) are also included, as are Freedom of Information Act documents and Penley's 1991 New York City Police Department press pass. There is also also a file of legal documents relating to Penley's 1982 arrest and sentencing for trespassing at the Savannah River nuclear power plant in South Carolina, as part of an anti-nuclear movement protest.</field>
+    <field name="ref_ssi">aspace_ref455</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Penley Papers</field>
+    <field name="collection_unitid_teim">TAM.501</field>
+    <field name="series_si">Series I: Papers</field>
+    <field name="heading_ssm">Series I: Papers</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">2010</field>
+    <field name="unitdate_end_ssm">2010</field>
+    <field name="unitdate_end_si">2010</field>
+    <field name="unitdate_ssm">Inclusive, circa 1980-2010</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

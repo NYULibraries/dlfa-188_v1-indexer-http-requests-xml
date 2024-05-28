@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_416aspace_9bc37f2622467370940ca53a07949657</field>
+    <field name="ead_ssi">tam_416</field>
+    <field name="parent_ssi">aspace_ref90</field>
+    <field name="parent_ssm">aspace_ref90</field>
+    <field name="parent_unittitles_ssm">Series III: Video Recordings</field>
+    <field name="parent_unittitles_teim">Series III: Video Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asian CineVision Records</field>
+    <field name="collection_ssm">Asian CineVision Records</field>
+    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Video 260: CCTV</field>
+    <field name="unittitle_teim">Video 260: CCTV</field>
+    <field name="unitid_teim">Cuid9306</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/881947</field>
+    <field name="unitid_ssm">Cuid9306</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/881947</field>
+    <field name="unitdate_normal_ssm">1980-11-09/1980-11-09</field>
+    <field name="unitdate_normal_teim">1980-11-09/1980-11-09</field>
+    <field name="unitdate_normal_sim">1980-11-09/1980-11-09</field>
+    <field name="unitdate_inclusive_teim">November 9, 1980</field>
+    <field name="scopecontent_teim">This episode contains two parts: a report on a Chinese acrobatic group's performance, and a 26-minute Hong Kong film. The first part covers a Guangdong acrobatic troupe's US tour. An interview with the troupe leader and highlights of the troupe's acrobatic performance are included. The second part is an Allen Fong (方育平) film The Wild Child (野孩子) (1977). The film depicts the life of a young boy who lives with his grandmother in a rural village.</field>
+    <field name="phystech_teim">Format: 3/4" Umatic, Duration: 60 minutes</field>
+    <field name="dao_teim">Video 260: CCTV: November 9, 1980</field>
+    <field name="dao_ssm">Video 260: CCTV: November 9, 1980</field>
+    <field name="ref_ssi">aspace_9bc37f2622467370940ca53a07949657</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 95, Video: Cuid9306</field>
+    <field name="location_ssm">Video: Cuid9306</field>
+    <field name="location_si">Video: Cuid9306</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Asian CineVision Records</field>
+    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="series_sim">Series III: Video Recordings</field>
+    <field name="series_si">Series III: Video Recordings &gt;&gt; Video 260: CCTV</field>
+    <field name="heading_ssm">Video 260: CCTV</field>
+    <field name="unitdate_ssm">Inclusive, November 9, 1980</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">346</field>
+  </doc>
+</add>

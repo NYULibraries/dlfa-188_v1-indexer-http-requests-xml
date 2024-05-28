@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_415aspace_c2f1e162b71c56bbfc26c93557e05a8b</field>
+    <field name="ead_ssi">tam_415</field>
+    <field name="parent_ssi">aspace_b06631c4e0cbc49f0f0a429c235507ac</field>
+    <field name="parent_ssm">aspace_b06631c4e0cbc49f0f0a429c235507ac</field>
+    <field name="parent_unittitles_ssm">Series I. New York Supreme Court Records</field>
+    <field name="parent_unittitles_teim">Series I. New York Supreme Court Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_ssm">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_unitid_ssm">TAM.415/repositories/2/resources/2861</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Series I.C. General Records</field>
+    <field name="unittitle_teim">Series I.C. General Records</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/826323</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/826323</field>
+    <field name="unitdate_normal_ssm">1805/1912</field>
+    <field name="unitdate_normal_teim">1805/1912</field>
+    <field name="unitdate_normal_sim">1805/1912</field>
+    <field name="unitdate_inclusive_teim">1805-1912, undated</field>
+    <field name="scopecontent_teim">This subseries contains the general records created by the New York Supreme Court. While the general records include some judgements, the majority of the material in this subseries consists of published proceedings and reports on individual and class action cases tried by the New York Supreme Court. Most of the cases involve an individual or group of people suing a company for damages. This subseries also contains Stenographer's Minutes, exhibits, and evidence.</field>
+    <field name="ref_ssi">aspace_c2f1e162b71c56bbfc26c93557e05a8b</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_unitid_teim">TAM.415/repositories/2/resources/2861</field>
+    <field name="series_sim">Series I. New York Supreme Court Records</field>
+    <field name="series_si">Series I. New York Supreme Court Records &gt;&gt; Series I.C. General Records</field>
+    <field name="heading_ssm">Series I.C. General Records</field>
+    <field name="unitdate_start_sim">1805</field>
+    <field name="unitdate_start_ssm">1805</field>
+    <field name="unitdate_start_si">1805</field>
+    <field name="unitdate_end_sim">1912</field>
+    <field name="unitdate_end_ssm">1912</field>
+    <field name="unitdate_end_si">1912</field>
+    <field name="unitdate_ssm">Inclusive, 1805-1912, undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">7974</field>
+  </doc>
+</add>

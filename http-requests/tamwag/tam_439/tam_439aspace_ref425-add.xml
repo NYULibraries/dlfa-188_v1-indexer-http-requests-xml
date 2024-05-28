@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_439aspace_ref425</field>
+    <field name="ead_ssi">tam_439</field>
+    <field name="parent_ssi">aspace_85a5deaf13879a5ab878ba9fbf50f2a6</field>
+    <field name="parent_ssm">aspace_85a5deaf13879a5ab878ba9fbf50f2a6</field>
+    <field name="parent_unittitles_ssm">Series XI: Objects</field>
+    <field name="parent_unittitles_teim">Series XI: Objects</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Camp Kinderland Records</field>
+    <field name="collection_ssm">Camp Kinderland Records</field>
+    <field name="collection_unitid_ssm">TAM.439</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Banners with Russian Writing</field>
+    <field name="unittitle_teim">Banners with Russian Writing</field>
+    <field name="unitid_teim">cuid13651</field>
+    <field name="unitid_ssm">cuid13651</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref425</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 34, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Camp Kinderland Records</field>
+    <field name="collection_unitid_teim">TAM.439</field>
+    <field name="series_sim">Series XI: Objects</field>
+    <field name="series_si">Series XI: Objects &gt;&gt; Banners with Russian Writing</field>
+    <field name="heading_ssm">Banners with Russian Writing</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">460</field>
+  </doc>
+</add>

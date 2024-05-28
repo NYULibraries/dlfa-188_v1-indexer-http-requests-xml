@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_056_006aspace_ref89</field>
+    <field name="ead_ssi">tam_056_006</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Inventory</field>
+    <field name="parent_unittitles_teim">Inventory</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Socialist Party (U.S.) Minutes</field>
+    <field name="collection_ssm">Socialist Party (U.S.) Minutes</field>
+    <field name="collection_unitid_ssm">TAM.056.006</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Socialist Party, Local New York, Executive Committee</field>
+    <field name="unittitle_teim">Socialist Party, Local New York, Executive Committee</field>
+    <field name="unitdate_teim">Jul 5, 1916-Apr 3, 1918</field>
+    <field name="ref_ssi">aspace_ref89</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 1</field>
+    <field name="location_ssm">Folder: 1</field>
+    <field name="location_si">Folder: 1</field>
+    <field name="collection_teim">Socialist Party (U.S.) Minutes</field>
+    <field name="collection_unitid_teim">TAM.056.006</field>
+    <field name="series_sim">Inventory</field>
+    <field name="series_si">Inventory &gt;&gt; Socialist Party, Local New York, Executive Committee</field>
+    <field name="heading_ssm">Socialist Party, Local New York, Executive Committee</field>
+    <field name="unitdate_ssm">Jul 5, 1916-Apr 3, 1918</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_616aspace_98ef786349d423e9baa34eaea4191cb8</field>
+    <field name="ead_ssi">tam_616</field>
+    <field name="parent_ssi">aspace_ref967</field>
+    <field name="parent_ssm">aspace_ref967</field>
+    <field name="parent_unittitles_ssm">Series XXIII: Returning to Chile</field>
+    <field name="parent_unittitles_teim">Series XXIII: Returning to Chile</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Returning to Chile: Video Clips</field>
+    <field name="unittitle_teim">Returning to Chile: Video Clips</field>
+    <field name="unitid_teim">TW_TAM_616_ER_11</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/730416</field>
+    <field name="unitid_ssm">TW_TAM_616_ER_11</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/730416</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="dao_teim">Returning to Chile: Video Clips: undated</field>
+    <field name="dao_ssm">Returning to Chile: Video Clips: undated</field>
+    <field name="ref_ssi">aspace_98ef786349d423e9baa34eaea4191cb8</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Electronic Records, E-records: TW_TAM_616_ER_11</field>
+    <field name="location_ssm">E-records: TW_TAM_616_ER_11</field>
+    <field name="location_si">E-records: TW_TAM_616_ER_11</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
+    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="series_sim">Series XXIII: Returning to Chile</field>
+    <field name="series_si">Series XXIII: Returning to Chile &gt;&gt; Returning to Chile: Video Clips</field>
+    <field name="heading_ssm">Returning to Chile: Video Clips</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">937</field>
+  </doc>
+</add>

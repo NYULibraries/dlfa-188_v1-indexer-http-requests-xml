@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_275aspace_ref13</field>
+    <field name="ead_ssi">tam_275</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mary E. Gawthorpe Papers</field>
+    <field name="collection_ssm">Mary E. Gawthorpe Papers</field>
+    <field name="collection_unitid_ssm">TAM.275/repositories/2/resources/905</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Diaries</field>
+    <field name="unittitle_teim">Series I: Diaries</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/218929</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/218929</field>
+    <field name="unitdate_normal_ssm">1918/1972</field>
+    <field name="unitdate_normal_teim">1918/1972</field>
+    <field name="unitdate_normal_sim">1918/1972</field>
+    <field name="unitdate_inclusive_teim">1918-1972</field>
+    <field name="scopecontent_teim">Gawthorpe recorded her activities in engagement books from shortly after her arrival in the United States until her death. These materials do not provide a comprehensive account of Gawthorpe's activities from this period, however, because the detail of her accounts varied greatly from year to year.</field>
+    <field name="ref_ssi">aspace_ref13</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mary E. Gawthorpe Papers</field>
+    <field name="collection_unitid_teim">TAM.275/repositories/2/resources/905</field>
+    <field name="series_si">Series I: Diaries</field>
+    <field name="heading_ssm">Series I: Diaries</field>
+    <field name="unitdate_start_sim">1918</field>
+    <field name="unitdate_start_ssm">1918</field>
+    <field name="unitdate_start_si">1918</field>
+    <field name="unitdate_end_sim">1972</field>
+    <field name="unitdate_end_ssm">1972</field>
+    <field name="unitdate_end_si">1972</field>
+    <field name="unitdate_ssm">Inclusive, 1918-1972</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

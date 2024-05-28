@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_139aspace_ref3681</field>
+    <field name="ead_ssi">tam_139</field>
+    <field name="parent_ssi">aspace_ref3644</field>
+    <field name="parent_ssm">aspace_ref3575</field>
+    <field name="parent_ssm">aspace_ref3576</field>
+    <field name="parent_ssm">aspace_ref3644</field>
+    <field name="parent_unittitles_ssm">Series III: Programs</field>
+    <field name="parent_unittitles_ssm">Subseries A: Departments and Activities</field>
+    <field name="parent_unittitles_ssm">Sub-subseries 12: Clubs</field>
+    <field name="parent_unittitles_teim">Series III: Programs</field>
+    <field name="parent_unittitles_teim">Subseries A: Departments and Activities</field>
+    <field name="parent_unittitles_teim">Sub-subseries 12: Clubs</field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Greenwich House Records</field>
+    <field name="collection_ssm">Greenwich House Records</field>
+    <field name="collection_unitid_ssm">TAM.139/repositories/2/resources/775</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Clubs- Soviet Club- Minutes</field>
+    <field name="unittitle_teim">Clubs- Soviet Club- Minutes</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/189886</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/189886</field>
+    <field name="unitdate_normal_ssm">1927/1934</field>
+    <field name="unitdate_normal_teim">1927/1934</field>
+    <field name="unitdate_normal_sim">1927/1934</field>
+    <field name="unitdate_inclusive_teim">1927-1934</field>
+    <field name="ref_ssi">aspace_ref3681</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 24, Folder: 30</field>
+    <field name="location_ssm">Folder: 30</field>
+    <field name="location_si">Folder: 30</field>
+    <field name="collection_teim">Greenwich House Records</field>
+    <field name="collection_unitid_teim">TAM.139/repositories/2/resources/775</field>
+    <field name="series_sim">Series III: Programs</field>
+    <field name="series_sim">Subseries A: Departments and Activities</field>
+    <field name="series_sim">Sub-subseries 12: Clubs</field>
+    <field name="series_si">Series III: Programs &gt;&gt; Subseries A: Departments and Activities &gt;&gt; Sub-subseries 12: Clubs &gt;&gt; Clubs- Soviet Club- Minutes</field>
+    <field name="heading_ssm">Clubs- Soviet Club- Minutes</field>
+    <field name="unitdate_start_sim">1927</field>
+    <field name="unitdate_start_ssm">1927</field>
+    <field name="unitdate_start_si">1927</field>
+    <field name="unitdate_end_sim">1934</field>
+    <field name="unitdate_end_ssm">1934</field>
+    <field name="unitdate_end_si">1934</field>
+    <field name="unitdate_ssm">Inclusive, 1927-1934</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1868</field>
+  </doc>
+</add>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_132aspace_ref408</field>
+    <field name="ead_ssi">tam_132</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series I: National Administrative Records</field>
+    <field name="parent_unittitles_teim">Series I: National Administrative Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Communist Party of the United States of America Records</field>
+    <field name="collection_ssm">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I.C: National Conferences and Conventions</field>
+    <field name="unittitle_teim">Subseries I.C: National Conferences and Conventions</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/171436</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/171436</field>
+    <field name="unitdate_normal_ssm">1919/1996</field>
+    <field name="unitdate_normal_teim">1919/1996</field>
+    <field name="unitdate_normal_sim">1919/1996</field>
+    <field name="unitdate_inclusive_teim">1919-1996</field>
+    <field name="scopecontent_teim">The National Convention is the highest body of the CPUSA and its authority is central to the Party's organizational structure. Typically held every four years, the National Convention is composed of elected delegates from districts across the country. These delegates elect the national leadership bodies which carry out the will of the National Convention. Each National Convention is preceded by a pre-convention discussion among membership in order to generate proposals and draft resolutions for consideration. Between National Conventions, the Party is directed by the National Committee. This subseries contains a record of every National Convention from the Party's founding Convention in 1921 until its 26th Convention in 1996; conventions which occurred post 1950 are more fully documented. More recent items of interest include materials from the 25th National Convention in 1991 which document the creation of the reformist social democratic group the Committees of Correspondence for Democracy and Socialism. Also included in this subseries are materials from some National Conferences. National Conferences are conferred between National Conventions only when deemed necessary by the National Committee. Included are materials from the first Extraordinary Conference held in 1930 and the 1989 Ideological Conference. Audio and video recordings do not contain a comprehensive record of convention proceedings, but rather include recordings of select sessions, meetings, and workshops. Most well represented are audio recordings from the 24th and 25th National Conventions in 1987 and 1991, and the 1993 Mid-term National Conference in Chicago, Illinois.</field>
+    <field name="ref_ssi">aspace_ref408</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Communist Party of the United States of America Records</field>
+    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="series_sim">Series I: National Administrative Records</field>
+    <field name="series_si">Series I: National Administrative Records &gt;&gt; Subseries I.C: National Conferences and Conventions</field>
+    <field name="heading_ssm">Subseries I.C: National Conferences and Conventions</field>
+    <field name="unitdate_start_sim">1919</field>
+    <field name="unitdate_start_ssm">1919</field>
+    <field name="unitdate_start_si">1919</field>
+    <field name="unitdate_end_sim">1996</field>
+    <field name="unitdate_end_ssm">1996</field>
+    <field name="unitdate_end_si">1996</field>
+    <field name="unitdate_ssm">Inclusive, 1919-1996</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">722</field>
+  </doc>
+</add>

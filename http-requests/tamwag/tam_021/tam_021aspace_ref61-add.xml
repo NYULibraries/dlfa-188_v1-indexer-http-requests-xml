@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_021aspace_ref61</field>
+    <field name="ead_ssi">tam_021</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">August Claessens Papers</field>
+    <field name="collection_ssm">August Claessens Papers</field>
+    <field name="collection_unitid_ssm">TAM.021</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II. Manuscript and Lecture Notes, 1906-1954</field>
+    <field name="unittitle_teim">Series II. Manuscript and Lecture Notes, 1906-1954</field>
+    <field name="unitdate_normal_ssm">1906/1954</field>
+    <field name="unitdate_normal_teim">1906/1954</field>
+    <field name="unitdate_normal_sim">1906/1954</field>
+    <field name="unitdate_inclusive_teim">1906-1954</field>
+    <field name="scopecontent_teim">This series (XIV:C), consisting of 78 subject files, includes manuscripts and notes of lectures, pamphlets, books, addresses, and statements. Each subject file within this series has been given a frame number and has been cited according to the title of the file in the complete reel list. In some instances, the titles of items within the subject file are cited in the complete reel list. Of special interest in this series are Claessens's writings on socialist humor, particularly the rough draft of his book, Didn't We Have Fun? (XIV:C:13); a series of articles entitled, "Revolutionary Fun" (XIV:C:56); and a collection of anecdotes entitled, "We Struggled With a Smile" (XIV:C:73). This series also contains writings on human nature, prejudice, prohibition, contemporary politics, labor, socialism, heredity and environment, sex and society, and religion. A collection of seven poems (XIV:C:45), written by Claessens, are also included in this series.</field>
+    <field name="title_teim">Didn't We Have Fun?</field>
+    <field name="title_ssm">Didn't We Have Fun?</field>
+    <field name="ref_ssi">aspace_ref61</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">August Claessens Papers</field>
+    <field name="collection_unitid_teim">TAM.021</field>
+    <field name="series_si">Series II. Manuscript and Lecture Notes, 1906-1954</field>
+    <field name="heading_ssm">Series II. Manuscript and Lecture Notes, 1906-1954</field>
+    <field name="unitdate_start_sim">1906</field>
+    <field name="unitdate_start_ssm">1906</field>
+    <field name="unitdate_start_si">1906</field>
+    <field name="unitdate_end_sim">1954</field>
+    <field name="unitdate_end_ssm">1954</field>
+    <field name="unitdate_end_si">1954</field>
+    <field name="unitdate_ssm">Inclusive, 1906-1954</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">26</field>
+  </doc>
+</add>

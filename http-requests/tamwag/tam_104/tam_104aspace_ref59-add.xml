@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_104aspace_ref59</field>
+    <field name="ead_ssi">tam_104</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Correspondence</field>
+    <field name="parent_unittitles_teim">Correspondence</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">David Fender Papers</field>
+    <field name="collection_ssm">David Fender Papers</field>
+    <field name="collection_unitid_ssm">TAM.104</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Bill Ramseyer</field>
+    <field name="unittitle_teim">Bill Ramseyer</field>
+    <field name="ref_ssi">aspace_ref59</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 44</field>
+    <field name="location_ssm">Folder: 44</field>
+    <field name="location_si">Folder: 44</field>
+    <field name="collection_teim">David Fender Papers</field>
+    <field name="collection_unitid_teim">TAM.104</field>
+    <field name="series_sim">Correspondence</field>
+    <field name="series_si">Correspondence &gt;&gt; Bill Ramseyer</field>
+    <field name="heading_ssm">Bill Ramseyer</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">46</field>
+  </doc>
+</add>

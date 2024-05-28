@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_415aspace_d8f44b2310305105d4f21cd71502a91a</field>
+    <field name="ead_ssi">tam_415</field>
+    <field name="parent_ssi">aspace_d36fe5426c02e3b47dfa27b94fe74646</field>
+    <field name="parent_ssm">aspace_be386deafa1634d51ba39ae9287141b7</field>
+    <field name="parent_ssm">aspace_d36fe5426c02e3b47dfa27b94fe74646</field>
+    <field name="parent_unittitles_ssm">Series IV. Printed Materials</field>
+    <field name="parent_unittitles_ssm">Series IV.A. Advertisements and Notices</field>
+    <field name="parent_unittitles_teim">Series IV. Printed Materials</field>
+    <field name="parent_unittitles_teim">Series IV.A. Advertisements and Notices</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_ssm">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_unitid_ssm">TAM.415/repositories/2/resources/2861</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Annual Reports</field>
+    <field name="unittitle_teim">Annual Reports</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/834956</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/834956</field>
+    <field name="unitdate_normal_ssm">1860/1890</field>
+    <field name="unitdate_normal_teim">1860/1890</field>
+    <field name="unitdate_normal_sim">1860/1890</field>
+    <field name="unitdate_inclusive_teim">1860-1890</field>
+    <field name="ref_ssi">aspace_d8f44b2310305105d4f21cd71502a91a</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 219, Folder: 23</field>
+    <field name="location_ssm">Folder: 23</field>
+    <field name="location_si">Folder: 23</field>
+    <field name="collection_teim">Leo Hershkowitz Collection of New York Supreme Court Records and Research Material</field>
+    <field name="collection_unitid_teim">TAM.415/repositories/2/resources/2861</field>
+    <field name="series_sim">Series IV. Printed Materials</field>
+    <field name="series_sim">Series IV.A. Advertisements and Notices</field>
+    <field name="series_si">Series IV. Printed Materials &gt;&gt; Series IV.A. Advertisements and Notices &gt;&gt; Annual Reports</field>
+    <field name="heading_ssm">Annual Reports</field>
+    <field name="unitdate_start_sim">1860</field>
+    <field name="unitdate_start_ssm">1860</field>
+    <field name="unitdate_start_si">1860</field>
+    <field name="unitdate_end_sim">1890</field>
+    <field name="unitdate_end_ssm">1890</field>
+    <field name="unitdate_end_si">1890</field>
+    <field name="unitdate_ssm">Inclusive, 1860-1890</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">8482</field>
+  </doc>
+</add>

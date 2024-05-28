@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_171aspace_ref99</field>
+    <field name="ead_ssi">tam_171</field>
+    <field name="parent_ssi">aspace_ref60</field>
+    <field name="parent_ssm">aspace_ref60</field>
+    <field name="parent_unittitles_ssm">Series II, Research Files, 1911-1992</field>
+    <field name="parent_unittitles_teim">Series II, Research Files, 1911-1992</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Paul Buhle Papers</field>
+    <field name="collection_ssm">Paul Buhle Papers</field>
+    <field name="collection_unitid_ssm">TAM.171</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries II, CLR James Files, 1939-1992</field>
+    <field name="unittitle_teim">Subseries II, CLR James Files, 1939-1992</field>
+    <field name="unitdate_normal_ssm">1939/1992</field>
+    <field name="unitdate_normal_teim">1939/1992</field>
+    <field name="unitdate_normal_sim">1939/1992</field>
+    <field name="unitdate_inclusive_teim">1939-1992</field>
+    <field name="scopecontent_teim">Materials in this subseries include correspondence, newspaper articles, unpublished writings, and published writings concerning Buhle's relationship with and research on the Afro-Trinidadian historian and social theorist CLR James.  The subseries contains correspondence between Buhle, James, James' ex-wife Constance Webb, Guyanese writer Wilson Harris, poet E. Ethelbert Miller, historian Noel Ignatiev, historian George Rawick, and other individuals involved in James' personal and professional life.  The subseries also includes materials concerning Buhle's biography of James, including notes, preliminary drafts, and reviews.  Also included are essays, obituaries of James, correspondence concerning the formation of the CLR James Society, and a chapter of James autobiography, My Life with Women.</field>
+    <field name="ref_ssi">aspace_ref99</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Paul Buhle Papers</field>
+    <field name="collection_unitid_teim">TAM.171</field>
+    <field name="series_sim">Series II, Research Files, 1911-1992</field>
+    <field name="series_si">Series II, Research Files, 1911-1992 &gt;&gt; Subseries II, CLR James Files, 1939-1992</field>
+    <field name="heading_ssm">Subseries II, CLR James Files, 1939-1992</field>
+    <field name="unitdate_start_sim">1939</field>
+    <field name="unitdate_start_ssm">1939</field>
+    <field name="unitdate_start_si">1939</field>
+    <field name="unitdate_end_sim">1992</field>
+    <field name="unitdate_end_ssm">1992</field>
+    <field name="unitdate_end_si">1992</field>
+    <field name="unitdate_ssm">Inclusive, 1939-1992</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">78</field>
+  </doc>
+</add>

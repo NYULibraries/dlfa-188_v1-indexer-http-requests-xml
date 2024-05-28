@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_277aspace_ref240</field>
+    <field name="ead_ssi">tam_277</field>
+    <field name="parent_ssi">aspace_ref223</field>
+    <field name="parent_ssm">aspace_ref146</field>
+    <field name="parent_ssm">aspace_ref223</field>
+    <field name="parent_unittitles_ssm">Series VII: Research Notes</field>
+    <field name="parent_unittitles_ssm">Subseries C: Subjects</field>
+    <field name="parent_unittitles_teim">Series VII: Research Notes</field>
+    <field name="parent_unittitles_teim">Subseries C: Subjects</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Frederic Ewen Papers</field>
+    <field name="collection_ssm">Frederic Ewen Papers</field>
+    <field name="collection_unitid_ssm">TAM.277</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The Drama: Carey, Mrs. Centlivre, Cowper, Crabbe, Defoe, Deism, Diderot</field>
+    <field name="unittitle_teim">The Drama: Carey, Mrs. Centlivre, Cowper, Crabbe, Defoe, Deism, Diderot</field>
+    <field name="unitdate_normal_ssm">1915/1988</field>
+    <field name="unitdate_normal_teim">1915/1988</field>
+    <field name="unitdate_normal_sim">1915/1988</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref240</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 10, Folder: 5</field>
+    <field name="location_ssm">Folder: 5</field>
+    <field name="location_si">Folder: 5</field>
+    <field name="collection_teim">Frederic Ewen Papers</field>
+    <field name="collection_unitid_teim">TAM.277</field>
+    <field name="series_sim">Series VII: Research Notes</field>
+    <field name="series_sim">Subseries C: Subjects</field>
+    <field name="series_si">Series VII: Research Notes &gt;&gt; Subseries C: Subjects &gt;&gt; The Drama: Carey, Mrs. Centlivre, Cowper, Crabbe, Defoe, Deism, Diderot</field>
+    <field name="heading_ssm">The Drama: Carey, Mrs. Centlivre, Cowper, Crabbe, Defoe, Deism, Diderot</field>
+    <field name="unitdate_start_sim">1915</field>
+    <field name="unitdate_start_ssm">1915</field>
+    <field name="unitdate_start_si">1915</field>
+    <field name="unitdate_end_sim">1988</field>
+    <field name="unitdate_end_ssm">1988</field>
+    <field name="unitdate_end_si">1988</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">234</field>
+  </doc>
+</add>

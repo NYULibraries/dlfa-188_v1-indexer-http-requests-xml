@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_146aspace_ref27</field>
+    <field name="ead_ssi">tam_146</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Berkshire Forum Records</field>
+    <field name="collection_ssm">Berkshire Forum Records</field>
+    <field name="collection_unitid_ssm">TAM.146</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series III: Audio Recordings</field>
+    <field name="unittitle_teim">Series III: Audio Recordings</field>
+    <field name="unitdate_normal_ssm">1986/1990</field>
+    <field name="unitdate_normal_teim">1986/1990</field>
+    <field name="unitdate_normal_sim">1986/1990</field>
+    <field name="unitdate_inclusive_teim">circa 1986-1990</field>
+    <field name="scopecontent_teim">Series III: Audio Recordings contains approximately 250 audiocassettes, mostly recordings of workshops dating from 1986-1990.  Speakers and topics represented include Bettina Aptheker, political prisoners, Rainbow Coalition, Labor/Peace/Church, Milton Terris, Gus Hall, corporate capitalism, Central America, and Germany.  Also includes cassettes for one board meeting in August 1990.  Most cassettes are labeled. There are also some tapes not produced by the Berkshire Forum, including two cassettes of music made by Tom Juravich.</field>
+    <field name="ref_ssi">aspace_ref27</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 12</field>
+    <field name="location_ssm">Box: 13</field>
+    <field name="location_ssm">Box: 14</field>
+    <field name="location_si">Box: 14</field>
+    <field name="collection_teim">Berkshire Forum Records</field>
+    <field name="collection_unitid_teim">TAM.146</field>
+    <field name="series_si">Series III: Audio Recordings</field>
+    <field name="heading_ssm">Series III: Audio Recordings</field>
+    <field name="unitdate_start_sim">1986</field>
+    <field name="unitdate_start_ssm">1986</field>
+    <field name="unitdate_start_si">1986</field>
+    <field name="unitdate_end_sim">1990</field>
+    <field name="unitdate_end_ssm">1990</field>
+    <field name="unitdate_end_si">1990</field>
+    <field name="unitdate_ssm">Inclusive, circa 1986-1990</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_227aspace_ref162</field>
+    <field name="ead_ssi">tam_227</field>
+    <field name="parent_ssi">aspace_ref105</field>
+    <field name="parent_ssm">aspace_ref105</field>
+    <field name="parent_unittitles_ssm">Series IV: Writings</field>
+    <field name="parent_unittitles_teim">Series IV: Writings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">David Thoreau Wieck and Diva Agnostinelli Papers</field>
+    <field name="collection_ssm">David Thoreau Wieck and Diva Agnostinelli Papers</field>
+    <field name="collection_unitid_ssm">TAM.227</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries C: &lt;em&gt;Woman from Spillertown&lt;/em&gt;.</field>
+    <field name="unittitle_teim">Subseries C: Woman from Spillertown.</field>
+    <field name="ref_ssi">aspace_ref162</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">David Thoreau Wieck and Diva Agnostinelli Papers</field>
+    <field name="collection_unitid_teim">TAM.227</field>
+    <field name="series_sim">Series IV: Writings</field>
+    <field name="series_si">Series IV: Writings &gt;&gt; Subseries C: &lt;em&gt;Woman from Spillertown&lt;/em&gt;.</field>
+    <field name="heading_ssm">Subseries C: Woman from Spillertown.</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">159</field>
+  </doc>
+</add>

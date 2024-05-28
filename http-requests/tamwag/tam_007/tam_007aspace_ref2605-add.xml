@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_007aspace_ref2605</field>
+    <field name="ead_ssi">tam_007</field>
+    <field name="parent_ssi">aspace_ref1400</field>
+    <field name="parent_ssm">aspace_ref1400</field>
+    <field name="parent_unittitles_ssm">Series VI: Publications</field>
+    <field name="parent_unittitles_teim">Series VI: Publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Rand School of Social Science Records</field>
+    <field name="collection_ssm">Rand School of Social Science Records</field>
+    <field name="collection_unitid_ssm">TAM.007</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries VII: Press Releases, Sep 1926-Nov 1955, nd</field>
+    <field name="unittitle_teim">Subseries VII: Press Releases, Sep 1926-Nov 1955, nd</field>
+    <field name="unitdate_normal_ssm">1926/1955</field>
+    <field name="unitdate_normal_teim">1926/1955</field>
+    <field name="unitdate_normal_sim">1926/1955</field>
+    <field name="unitdate_inclusive_teim">1926-1955</field>
+    <field name="scopecontent_teim">The final two parts of the publications series contain ephemeral printed matter (XIII:F:8) and press releases (XIII:F:9). The ephemeral printed matter is arranged in chronological order and includes commemorative booklets, circular letters, programs, announcements, flyers, brochures, handbills, leaflets, and postcards. Some of the most interesting items in this part are the programs for the Rand School Ball of 1920, 1921, and 1922; ten leaflets relating to a series of political talks given by Scott Nearing before the Rand School's Current History class in 1924; a leaflet for Charles Beard's 1930-1931 symposium entitled, "American Civilization Today"; announcements for the Metropolitan opera and Broadway show benefits; and two booklets commemorating the 40th and 45th anniversaries of the Rand School. The press releases are also arranged in chronological order, with undated items placed at the end of the file. Most of the press releases contain general information about the Rand School as well as announcements of lectures and special events. There are also several speeches in this part which were given by Rand School faculty members and quest lecturers.</field>
+    <field name="ref_ssi">aspace_ref2605</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Rand School of Social Science Records</field>
+    <field name="collection_unitid_teim">TAM.007</field>
+    <field name="series_sim">Series VI: Publications</field>
+    <field name="series_si">Series VI: Publications &gt;&gt; Subseries VII: Press Releases, Sep 1926-Nov 1955, nd</field>
+    <field name="heading_ssm">Subseries VII: Press Releases, Sep 1926-Nov 1955, nd</field>
+    <field name="unitdate_start_sim">1926</field>
+    <field name="unitdate_start_ssm">1926</field>
+    <field name="unitdate_start_si">1926</field>
+    <field name="unitdate_end_sim">1955</field>
+    <field name="unitdate_end_ssm">1955</field>
+    <field name="unitdate_end_si">1955</field>
+    <field name="unitdate_ssm">Inclusive, 1926-1955</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1334</field>
+  </doc>
+</add>

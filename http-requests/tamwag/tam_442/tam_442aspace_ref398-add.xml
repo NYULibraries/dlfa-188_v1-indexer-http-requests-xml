@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_442aspace_ref398</field>
+    <field name="ead_ssi">tam_442</field>
+    <field name="parent_ssi">aspace_ref71</field>
+    <field name="parent_ssm">aspace_ref71</field>
+    <field name="parent_unittitles_ssm">Series II: Post World War II</field>
+    <field name="parent_unittitles_teim">Series II: Post World War II</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">George Yuzawa Papers</field>
+    <field name="collection_ssm">George Yuzawa Papers</field>
+    <field name="collection_unitid_ssm">TAM.442</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries G: Personal Documents, Correspondence, and Subject Files</field>
+    <field name="unittitle_teim">Subseries G: Personal Documents, Correspondence, and Subject Files</field>
+    <field name="unitdate_normal_ssm">1949/2009</field>
+    <field name="unitdate_normal_teim">1949/2009</field>
+    <field name="unitdate_normal_sim">1949/2009</field>
+    <field name="unitdate_inclusive_teim">1949-2009</field>
+    <field name="scopecontent_teim">Subseries G: Personal Documents, Correspondence, and Subject Files consists of personal documents, correspondence and subject files relating to Asian American organizations and individuals in which Yuzawa took an interest or active part. There are substantial files relating to the Sakura Matsuri (Cherry Blossom Festival) that Yuzawa was instrumental in establishing at the Brooklyn Botanic Garden and the Japanese American Citizens League (JACL) New York Chapter, of which Yuzawa was a board member. Most other organizations have one file with contents ranging from event programs and flyers to correspondence, newsletters and member lists. The series also contains Yuzawa's personal documents such as resumes and awards, birth and marriage certificates, medical records, memory writing exercises and personal correspondence. Yuzawa avidly collected and archived information about Asian American events and people. The files he kept on individuals, some of whom he knew personally, range in content from clippings to more personal documents such as correspondence, resumes and ID cards.</field>
+    <field name="ref_ssi">aspace_ref398</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">George Yuzawa Papers</field>
+    <field name="collection_unitid_teim">TAM.442</field>
+    <field name="series_sim">Series II: Post World War II</field>
+    <field name="series_si">Series II: Post World War II &gt;&gt; Subseries G: Personal Documents, Correspondence, and Subject Files</field>
+    <field name="heading_ssm">Subseries G: Personal Documents, Correspondence, and Subject Files</field>
+    <field name="unitdate_start_sim">1949</field>
+    <field name="unitdate_start_ssm">1949</field>
+    <field name="unitdate_start_si">1949</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, 1949-2009</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">328</field>
+  </doc>
+</add>

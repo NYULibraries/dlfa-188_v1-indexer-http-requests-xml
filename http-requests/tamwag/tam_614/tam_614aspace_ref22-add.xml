@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_614aspace_ref22</field>
+    <field name="ead_ssi">tam_614</field>
+    <field name="parent_ssi">aspace_ref10</field>
+    <field name="parent_ssm">aspace_ref10</field>
+    <field name="parent_unittitles_ssm">Artifacts</field>
+    <field name="parent_unittitles_teim">Artifacts</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Yoland Skeete Research Files on Newark Chinatown</field>
+    <field name="collection_ssm">Yoland Skeete Research Files on Newark Chinatown</field>
+    <field name="collection_unitid_ssm">TAM.614</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Soo Hoo Marriage Certificate</field>
+    <field name="unittitle_teim">Soo Hoo Marriage Certificate</field>
+    <field name="unitdate_teim">early 1900s</field>
+    <field name="ref_ssi">aspace_ref22</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Tamiment 008</field>
+    <field name="location_si">Box: Shared Tamiment 008</field>
+    <field name="collection_teim">Yoland Skeete Research Files on Newark Chinatown</field>
+    <field name="collection_unitid_teim">TAM.614</field>
+    <field name="series_sim">Artifacts</field>
+    <field name="series_si">Artifacts &gt;&gt; Soo Hoo Marriage Certificate</field>
+    <field name="heading_ssm">Soo Hoo Marriage Certificate</field>
+    <field name="unitdate_ssm">early 1900s</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

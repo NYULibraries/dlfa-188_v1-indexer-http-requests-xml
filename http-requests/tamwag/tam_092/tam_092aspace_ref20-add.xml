@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_092aspace_ref20</field>
+    <field name="ead_ssi">tam_092</field>
+    <field name="parent_ssi">aspace_ref13</field>
+    <field name="parent_ssm">aspace_ref13</field>
+    <field name="parent_unittitles_ssm">Series 1: Research and Writings</field>
+    <field name="parent_unittitles_teim">Series 1: Research and Writings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Solon De Leon Papers</field>
+    <field name="collection_ssm">Solon De Leon Papers</field>
+    <field name="collection_unitid_ssm">TAM.092</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Letter to the Editor of &lt;em&gt;World of Tomorrow&lt;/em&gt;</field>
+    <field name="unittitle_teim">Letter to the Editor of World of Tomorrow</field>
+    <field name="unitdate_teim">Dec 1962</field>
+    <field name="title_teim">World of Tomorrow</field>
+    <field name="title_ssm">World of Tomorrow</field>
+    <field name="ref_ssi">aspace_ref20</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Solon De Leon Papers</field>
+    <field name="collection_unitid_teim">TAM.092</field>
+    <field name="series_sim">Series 1: Research and Writings</field>
+    <field name="series_si">Series 1: Research and Writings &gt;&gt; Letter to the Editor of &lt;em&gt;World of Tomorrow&lt;/em&gt;</field>
+    <field name="heading_ssm">Letter to the Editor of World of Tomorrow</field>
+    <field name="unitdate_ssm">Dec 1962</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">8</field>
+  </doc>
+</add>

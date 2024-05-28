@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_629aspace_ref120</field>
+    <field name="ead_ssi">tam_629</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Asia Pacific Forum Records</field>
+    <field name="collection_ssm">Asia Pacific Forum Records</field>
+    <field name="collection_unitid_ssm">TAM.629/repositories/2/resources/1184</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VII: Archived Websites</field>
+    <field name="unittitle_teim">Series VII: Archived Websites</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/243095</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/243095</field>
+    <field name="unitdate_normal_ssm">2009-03-26/2009-03-26</field>
+    <field name="unitdate_normal_teim">2009-03-26/2009-03-26</field>
+    <field name="unitdate_normal_sim">2009-03-26/2009-03-26</field>
+    <field name="unitdate_teim">March 2009-ongoing</field>
+    <field name="scopecontent_teim">In 2006, APF began podcasting and making its weekly broadcasts available as downloads on its website, allowing the show to reach a broader audience both nationally and globally. The APF website also has listings for music played on the program, book recommendations, notes on segments, news, and events. The website allows listeners to browse websites by topic and region. In 2020, APF decommissioned the website and began publishing new episodes at https://anchor.fm/asiapacificforum/.</field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of asiapacificforum.org and anchor.fm/asiapacificforum in order to remain within the collection scope and data constraints.</field>
+    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="phystech_teim">Audio files in https://anchor.fm/asiapacificforum/ were captured by are not able to be played back in browser. Contact the web archivist for more information.</field>
+    <field name="dao_teim">Asia Pacific Forum Archived Website: March 2009-March 2021</field>
+    <field name="dao_teim">Asia Pacific Forum Podcast Feed Archived Website: October 2020-September 2023</field>
+    <field name="dao_teim">Asia Pacific Forum Spotify Podcast Feed Archived Website: September 2023-ongoing</field>
+    <field name="dao_teim">Asia Pacific Forum Radio Public Podcast Feed Archived Website: November 2023-ongoing</field>
+    <field name="dao_ssm">Asia Pacific Forum Archived Website: March 2009-March 2021</field>
+    <field name="dao_ssm">Asia Pacific Forum Podcast Feed Archived Website: October 2020-September 2023</field>
+    <field name="dao_ssm">Asia Pacific Forum Spotify Podcast Feed Archived Website: September 2023-ongoing</field>
+    <field name="dao_ssm">Asia Pacific Forum Radio Public Podcast Feed Archived Website: November 2023-ongoing</field>
+    <field name="ref_ssi">aspace_ref120</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Asia Pacific Forum Records</field>
+    <field name="collection_unitid_teim">TAM.629/repositories/2/resources/1184</field>
+    <field name="series_si">Series VII: Archived Websites</field>
+    <field name="heading_ssm">Series VII: Archived Websites</field>
+    <field name="unitdate_ssm">March 2009-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">96</field>
+  </doc>
+</add>

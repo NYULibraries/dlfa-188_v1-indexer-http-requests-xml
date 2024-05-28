@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_083aspace_ref390</field>
+    <field name="ead_ssi">tam_083</field>
+    <field name="parent_ssi">aspace_ref641</field>
+    <field name="parent_ssm">aspace_ref641</field>
+    <field name="parent_unittitles_ssm">Series I: Jay Leyda Papers</field>
+    <field name="parent_unittitles_teim">Series I: Jay Leyda Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Jay and Si-Lan Chen Leyda Papers</field>
+    <field name="collection_ssm">Jay and Si-Lan Chen Leyda Papers</field>
+    <field name="collection_unitid_ssm">TAM.083</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries C: Cinema, Chinese</field>
+    <field name="unittitle_teim">Subseries C: Cinema, Chinese</field>
+    <field name="scopecontent_teim">Subseries C: Chinese Cinema contains Leyda's clippings, correspondence, film scripts and research notes, and a typescript of his book Dianying; an account of films and the film audience in China (1972).</field>
+    <field name="ref_ssi">aspace_ref390</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Jay and Si-Lan Chen Leyda Papers</field>
+    <field name="collection_unitid_teim">TAM.083</field>
+    <field name="series_sim">Series I: Jay Leyda Papers</field>
+    <field name="series_si">Series I: Jay Leyda Papers &gt;&gt; Subseries C: Cinema, Chinese</field>
+    <field name="heading_ssm">Subseries C: Cinema, Chinese</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">383</field>
+  </doc>
+</add>

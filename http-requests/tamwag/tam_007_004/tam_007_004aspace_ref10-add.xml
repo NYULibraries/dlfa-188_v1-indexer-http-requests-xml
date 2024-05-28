@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_007_004aspace_ref10</field>
+    <field name="ead_ssi">tam_007_004</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Tamiment Institute Records</field>
+    <field name="collection_ssm">Tamiment Institute Records</field>
+    <field name="collection_unitid_ssm">TAM.007.004</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series I: Records</field>
+    <field name="unittitle_teim">Series I: Records</field>
+    <field name="unitdate_normal_ssm">1935/1972</field>
+    <field name="unitdate_normal_teim">1935/1972</field>
+    <field name="unitdate_normal_sim">1935/1972</field>
+    <field name="unitdate_inclusive_teim">1935-1972</field>
+    <field name="scopecontent_teim">Series I contains correspondence relating to the Tamiment Institute's various activities, including its annual conferences, notably one that established the journal Labor History, transcripts of conference and seminar papers, entries from the annual essay contest for college students, material relating to the institute's annual book awards, brochures and programs, clippings, and administrative and financial records. The principal correspondents are the successive educational directors of the Tamiment Institute: William E. Bohn, Ben Blaker, and Norman Jacobs, whose correspondence includes exchanges with prominent intellectuals, labor leaders and educators, socialists, journalists, and political figures, mostly concerning their possible or actual participation in Institute-sponsored events and activities. There is also some correspondence of successive Camp Tamiment Directors Bertha Mailly and Ben Josephson, as well as correspondence related to the 50th Anniversary of the New Leader. Conference/seminar papers include those by Bernard Berenson, Bruno Bettelheim, Erik Erikson, Oscar Handlin, Sidney Hook, Hans J. Morgenthau, Ernest Nagel, Reinhold Niebuhr, Talcott Parsons, and Leo Rosten.</field>
+    <field name="ref_ssi">aspace_ref10</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Tamiment Institute Records</field>
+    <field name="collection_unitid_teim">TAM.007.004</field>
+    <field name="series_si">Series I: Records</field>
+    <field name="heading_ssm">Series I: Records</field>
+    <field name="unitdate_start_sim">1935</field>
+    <field name="unitdate_start_ssm">1935</field>
+    <field name="unitdate_start_si">1935</field>
+    <field name="unitdate_end_sim">1972</field>
+    <field name="unitdate_end_ssm">1972</field>
+    <field name="unitdate_end_si">1972</field>
+    <field name="unitdate_ssm">Inclusive, 1935-1972</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1</field>
+  </doc>
+</add>

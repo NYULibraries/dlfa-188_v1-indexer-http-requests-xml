@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_517aspace_ref970</field>
+    <field name="ead_ssi">tam_517</field>
+    <field name="parent_ssi">aspace_ref968</field>
+    <field name="parent_ssm">aspace_ref968</field>
+    <field name="parent_unittitles_ssm">Series X, Audiocassettes</field>
+    <field name="parent_unittitles_teim">Series X, Audiocassettes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Philip Agee Papers</field>
+    <field name="collection_ssm">Philip Agee Papers</field>
+    <field name="collection_unitid_ssm">TAM.517</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Seminar (untitled): Audiocassette# 1D</field>
+    <field name="unittitle_teim">Seminar (untitled): Audiocassette# 1D</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref970</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared Tamiment 111</field>
+    <field name="location_ssm">Box: 21, Cassette: 2</field>
+    <field name="location_ssm">Cassette: 2</field>
+    <field name="location_si">Cassette: 2</field>
+    <field name="collection_teim">Philip Agee Papers</field>
+    <field name="collection_unitid_teim">TAM.517</field>
+    <field name="series_sim">Series X, Audiocassettes</field>
+    <field name="series_si">Series X, Audiocassettes &gt;&gt; Seminar (untitled): Audiocassette# 1D</field>
+    <field name="heading_ssm">Seminar (untitled): Audiocassette# 1D</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">927</field>
+  </doc>
+</add>
