@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">graphics_039aspace_4595a4a6c4a5135e341b3a9e51798d23</field>
+    <field name="ead_ssi">graphics_039</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tamiment Library Artwork Collection</field>
+    <field name="collection_ssm">Tamiment Library Artwork Collection</field>
+    <field name="collection_unitid_ssm">GRAPHICS.039/repositories/2/resources/382</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Portrait of Sanial</field>
+    <field name="unittitle_teim">Portrait of Sanial</field>
+    <field name="unitid_teim">cuid870</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/750244</field>
+    <field name="unitid_ssm">cuid870</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/750244</field>
+    <field name="unitdate_normal_ssm">1890/1927</field>
+    <field name="unitdate_normal_teim">1890/1927</field>
+    <field name="unitdate_normal_sim">1890/1927</field>
+    <field name="unitdate_inclusive_teim">Undated</field>
+    <field name="scopecontent_teim">Artist:  Howard E. Smith</field>
+    <field name="genreform_teim">Paintings (visual works)</field>
+    <field name="genreform_ssm">Paintings (visual works)</field>
+    <field name="ref_ssi">aspace_4595a4a6c4a5135e341b3a9e51798d23</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Item: GRAPHICS.039.cuid870</field>
+    <field name="location_si">Item: GRAPHICS.039.cuid870</field>
+    <field name="collection_teim">Tamiment Library Artwork Collection</field>
+    <field name="collection_unitid_teim">GRAPHICS.039/repositories/2/resources/382</field>
+    <field name="series_si">Portrait of Sanial</field>
+    <field name="material_type_sim">Paintings (visual works)</field>
+    <field name="material_type_ssm">Paintings (visual works)</field>
+    <field name="heading_ssm">Portrait of Sanial</field>
+    <field name="unitdate_start_sim">1890</field>
+    <field name="unitdate_start_ssm">1890</field>
+    <field name="unitdate_start_si">1890</field>
+    <field name="unitdate_end_sim">1927</field>
+    <field name="unitdate_end_ssm">1927</field>
+    <field name="unitdate_end_si">1927</field>
+    <field name="unitdate_ssm">Inclusive, Undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>
