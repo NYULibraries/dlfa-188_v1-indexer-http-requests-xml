@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_215aspace_ref84</field>
+    <field name="ead_ssi">mc_215</field>
+    <field name="parent_ssi">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_unittitles_ssm">Series I: Publications and Professional Papers</field>
+    <field name="parent_unittitles_teim">Series I: Publications and Professional Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Edith Kramer Papers</field>
+    <field name="collection_ssm">Edith Kramer Papers</field>
+    <field name="collection_unitid_ssm">MC.215/repositories/6/resources/2013</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Documents Concerning Wiltwyck Art Therapy Book</field>
+    <field name="unittitle_teim">Documents Concerning Wiltwyck Art Therapy Book</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/625312</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/625312</field>
+    <field name="unitdate_normal_ssm">1950/1957</field>
+    <field name="unitdate_normal_teim">1950/1957</field>
+    <field name="unitdate_normal_sim">1950/1957</field>
+    <field name="unitdate_inclusive_teim">1950-1957</field>
+    <field name="ref_ssi">aspace_ref84</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 40</field>
+    <field name="location_ssm">Folder: 40</field>
+    <field name="location_si">Folder: 40</field>
+    <field name="collection_teim">Edith Kramer Papers</field>
+    <field name="collection_unitid_teim">MC.215/repositories/6/resources/2013</field>
+    <field name="series_sim">Series I: Publications and Professional Papers</field>
+    <field name="series_si">Series I: Publications and Professional Papers &gt;&gt; Documents Concerning Wiltwyck Art Therapy Book</field>
+    <field name="heading_ssm">Documents Concerning Wiltwyck Art Therapy Book</field>
+    <field name="unitdate_start_sim">1950</field>
+    <field name="unitdate_start_ssm">1950</field>
+    <field name="unitdate_start_si">1950</field>
+    <field name="unitdate_end_sim">1957</field>
+    <field name="unitdate_end_ssm">1957</field>
+    <field name="unitdate_end_si">1957</field>
+    <field name="unitdate_ssm">Inclusive, 1950-1957</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">79</field>
+  </doc>
+</add>

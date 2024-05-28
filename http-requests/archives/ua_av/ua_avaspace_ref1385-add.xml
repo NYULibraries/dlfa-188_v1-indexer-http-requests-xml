@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1385</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Eubie Blake, Roland Hanna, Danny Mixon Performance: Tape 2</field>
+    <field name="unittitle_teim">Eubie Blake, Roland Hanna, Danny Mixon Performance: Tape 2</field>
+    <field name="unitid_teim">AV2095</field>
+    <field name="unitid_ssm">AV2095</field>
+    <field name="unitdate_teim">October 10, 1973</field>
+    <field name="scopecontent_teim">This Eubie Blake, Roland Hanna, Danny Mixon recording was from an event which was part of a concert series called Jazz: The American Invention.</field>
+    <field name="genreform_teim">Jazz</field>
+    <field name="genreform_ssm">Jazz</field>
+    <field name="persname_teim">Blake, Eubie, 1887-1983</field>
+    <field name="persname_teim">Hanna, Roland</field>
+    <field name="persname_teim">Mixon, Dannie</field>
+    <field name="persname_ssm">Blake, Eubie, 1887-1983</field>
+    <field name="persname_ssm">Hanna, Roland</field>
+    <field name="persname_ssm">Mixon, Dannie</field>
+    <field name="ref_ssi">aspace_ref1385</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 75, Cassette: 2095</field>
+    <field name="location_ssm">Cassette: 2095</field>
+    <field name="location_ssm">Box: 53, reel: 2095</field>
+    <field name="location_ssm">reel: 2095</field>
+    <field name="location_si">reel: 2095</field>
+    <field name="name_sim">Blake, Eubie, 1887-1983</field>
+    <field name="name_sim">Hanna, Roland</field>
+    <field name="name_sim">Mixon, Dannie</field>
+    <field name="name_teim">Blake, Eubie, 1887-1983</field>
+    <field name="name_teim">Hanna, Roland</field>
+    <field name="name_teim">Mixon, Dannie</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Eubie Blake, Roland Hanna, Danny Mixon Performance: Tape 2</field>
+    <field name="material_type_sim">Jazz</field>
+    <field name="material_type_ssm">Jazz</field>
+    <field name="heading_ssm">Eubie Blake, Roland Hanna, Danny Mixon Performance: Tape 2</field>
+    <field name="unitdate_ssm">October 10, 1973</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">803</field>
+  </doc>
+</add>

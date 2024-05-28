@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_304aspace_10bfb86e7c5e6926875ac9a3b515ea14</field>
+    <field name="ead_ssi">mc_304</field>
+    <field name="parent_ssi">aspace_8e5dcd9da6c4f20a741eff851c1e81b1</field>
+    <field name="parent_ssm">aspace_8e5dcd9da6c4f20a741eff851c1e81b1</field>
+    <field name="parent_unittitles_ssm">University College of Arts and Science and the College of Engineering (University Heights) (RG 18 and RG 24)</field>
+    <field name="parent_unittitles_teim">University College of Arts and Science and the College of Engineering (University Heights) (RG 18 and RG 24)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Collection of Yearbooks</field>
+    <field name="collection_ssm">New York University Archives Collection of Yearbooks</field>
+    <field name="collection_unitid_ssm">MC.304</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">The Violet</field>
+    <field name="unittitle_teim">The Violet</field>
+    <field name="unitdate_normal_ssm">1968/1968</field>
+    <field name="unitdate_normal_teim">1968/1968</field>
+    <field name="unitdate_normal_sim">1968/1968</field>
+    <field name="unitdate_teim">1968</field>
+    <field name="ref_ssi">aspace_10bfb86e7c5e6926875ac9a3b515ea14</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">volume: The Violet 1968</field>
+    <field name="location_si">volume: The Violet 1968</field>
+    <field name="collection_teim">New York University Archives Collection of Yearbooks</field>
+    <field name="collection_unitid_teim">MC.304</field>
+    <field name="series_sim">University College of Arts and Science and the College of Engineering (University Heights) (RG 18 and RG 24)</field>
+    <field name="series_si">University College of Arts and Science and the College of Engineering (University Heights) (RG 18 and RG 24) &gt;&gt; The Violet</field>
+    <field name="heading_ssm">The Violet</field>
+    <field name="unitdate_start_sim">1968</field>
+    <field name="unitdate_start_ssm">1968</field>
+    <field name="unitdate_start_si">1968</field>
+    <field name="unitdate_end_sim">1968</field>
+    <field name="unitdate_end_ssm">1968</field>
+    <field name="unitdate_end_si">1968</field>
+    <field name="unitdate_ssm">1968</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">82</field>
+  </doc>
+</add>

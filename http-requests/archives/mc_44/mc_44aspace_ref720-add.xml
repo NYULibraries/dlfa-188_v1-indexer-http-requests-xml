@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_44aspace_ref720</field>
+    <field name="ead_ssi">mc_44</field>
+    <field name="parent_ssi">aspace_ref515</field>
+    <field name="parent_ssm">aspace_ref18</field>
+    <field name="parent_ssm">aspace_ref515</field>
+    <field name="parent_unittitles_ssm">Series I: Subject, Historical Reference, and Personal Files</field>
+    <field name="parent_unittitles_ssm">Subseries B: Historical Reference Files</field>
+    <field name="parent_unittitles_teim">Series I: Subject, Historical Reference, and Personal Files</field>
+    <field name="parent_unittitles_teim">Subseries B: Historical Reference Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Bayrd Still Papers</field>
+    <field name="collection_ssm">Bayrd Still Papers</field>
+    <field name="collection_unitid_ssm">MC.44/repositories/6/resources/2063</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Walking Tours and Slide Shows - Greenwich Village, Lower City, and Washington Square Campus</field>
+    <field name="unittitle_teim">Walking Tours and Slide Shows - Greenwich Village, Lower City, and Washington Square Campus</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/631690</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/631690</field>
+    <field name="unitdate_normal_ssm">1976/1982</field>
+    <field name="unitdate_normal_teim">1976/1982</field>
+    <field name="unitdate_normal_sim">1976/1982</field>
+    <field name="unitdate_inclusive_teim">1976-1982</field>
+    <field name="ref_ssi">aspace_ref720</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 11, Folder: 15</field>
+    <field name="location_ssm">Folder: 15</field>
+    <field name="location_si">Folder: 15</field>
+    <field name="collection_teim">Bayrd Still Papers</field>
+    <field name="collection_unitid_teim">MC.44/repositories/6/resources/2063</field>
+    <field name="series_sim">Series I: Subject, Historical Reference, and Personal Files</field>
+    <field name="series_sim">Subseries B: Historical Reference Files</field>
+    <field name="series_si">Series I: Subject, Historical Reference, and Personal Files &gt;&gt; Subseries B: Historical Reference Files &gt;&gt; Walking Tours and Slide Shows - Greenwich Village, Lower City, and Washington Square Campus</field>
+    <field name="heading_ssm">Walking Tours and Slide Shows - Greenwich Village, Lower City, and Washington Square Campus</field>
+    <field name="unitdate_start_sim">1976</field>
+    <field name="unitdate_start_ssm">1976</field>
+    <field name="unitdate_start_si">1976</field>
+    <field name="unitdate_end_sim">1982</field>
+    <field name="unitdate_end_ssm">1982</field>
+    <field name="unitdate_end_si">1982</field>
+    <field name="unitdate_ssm">Inclusive, 1976-1982</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">238</field>
+  </doc>
+</add>

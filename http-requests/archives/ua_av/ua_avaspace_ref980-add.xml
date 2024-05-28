@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref980</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Dinner and Presentation of the New York University Gallatin Medal to Richard Courant</field>
+    <field name="unittitle_teim">Dinner and Presentation of the New York University Gallatin Medal to Richard Courant</field>
+    <field name="unitid_teim">AV3016</field>
+    <field name="unitid_ssm">AV3016</field>
+    <field name="unitdate_normal_ssm">1967/1967</field>
+    <field name="unitdate_normal_teim">1967/1967</field>
+    <field name="unitdate_normal_sim">1967/1967</field>
+    <field name="unitdate_inclusive_teim">1967</field>
+    <field name="corpname_teim">Gallatin Associates</field>
+    <field name="corpname_ssm">Gallatin Associates</field>
+    <field name="persname_teim">Courant, Richard, 1888-1972</field>
+    <field name="persname_ssm">Courant, Richard, 1888-1972</field>
+    <field name="subject_teim">Mathematics.</field>
+    <field name="subject_teim">Mathematics.</field>
+    <field name="subject_ssm">Mathematics.</field>
+    <field name="ref_ssi">aspace_ref980</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared University Archives 106, disc: 8</field>
+    <field name="location_ssm">disc: 8</field>
+    <field name="location_ssm">Box: Shared University Archives 106, disc: 9</field>
+    <field name="location_ssm">disc: 9</field>
+    <field name="location_ssm">Box: 83A, Item: 3016</field>
+    <field name="location_ssm">Item: 3016</field>
+    <field name="location_si">Item: 3016</field>
+    <field name="name_sim">Gallatin Associates</field>
+    <field name="name_sim">Courant, Richard, 1888-1972</field>
+    <field name="name_teim">Gallatin Associates</field>
+    <field name="name_teim">Courant, Richard, 1888-1972</field>
+    <field name="subject_sim">Mathematics.</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Dinner and Presentation of the New York University Gallatin Medal to Richard Courant</field>
+    <field name="heading_ssm">Dinner and Presentation of the New York University Gallatin Medal to Richard Courant</field>
+    <field name="unitdate_start_sim">1967</field>
+    <field name="unitdate_start_ssm">1967</field>
+    <field name="unitdate_start_si">1967</field>
+    <field name="unitdate_end_sim">1967</field>
+    <field name="unitdate_end_ssm">1967</field>
+    <field name="unitdate_end_si">1967</field>
+    <field name="unitdate_ssm">Inclusive, 1967</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">748</field>
+  </doc>
+</add>

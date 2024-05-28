@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_153aspace_503fb99c27ae31793bbae296b968ff09</field>
+    <field name="ead_ssi">mc_153</field>
+    <field name="parent_ssi">aspace_ref20</field>
+    <field name="parent_ssm">aspace_ref20</field>
+    <field name="parent_unittitles_ssm">Series I: Research Notes</field>
+    <field name="parent_unittitles_teim">Series I: Research Notes</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Hasia Diner Papers</field>
+    <field name="collection_ssm">Hasia Diner Papers</field>
+    <field name="collection_unitid_ssm">MC.153</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Subseries H. Roads Taken</field>
+    <field name="unittitle_teim">Subseries H. Roads Taken</field>
+    <field name="ref_ssi">aspace_503fb99c27ae31793bbae296b968ff09</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Hasia Diner Papers</field>
+    <field name="collection_unitid_teim">MC.153</field>
+    <field name="series_sim">Series I: Research Notes</field>
+    <field name="series_si">Series I: Research Notes &gt;&gt; Subseries H. Roads Taken</field>
+    <field name="heading_ssm">Subseries H. Roads Taken</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">616</field>
+  </doc>
+</add>

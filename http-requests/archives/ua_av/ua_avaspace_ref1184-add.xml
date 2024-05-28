@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1184</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Richard Nixon Resignation (Tape 1 of 2)</field>
+    <field name="unittitle_teim">Richard Nixon Resignation (Tape 1 of 2)</field>
+    <field name="unitid_teim">AV1848</field>
+    <field name="unitid_ssm">AV1848</field>
+    <field name="unitdate_normal_ssm">1974/1974</field>
+    <field name="unitdate_normal_teim">1974/1974</field>
+    <field name="unitdate_normal_sim">1974/1974</field>
+    <field name="unitdate_inclusive_teim">8 August 1974</field>
+    <field name="scopecontent_teim">This recording includes the complete resignation speech of former U.S. President Richard Nixon, as well as clips from NBC, CBS, and ABC news coverage of the event.</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes: "This tape contains news segments prior to, during, and after Richard Nixon's resignation, as well as a brief documentary on his rise to the presidency. All segments suffer from moderate to severe generational loss, notably heavy image echo. The documentary section exhibits inherent dirt, dust, and scratches from the original film source. There are frequent dropouts and tape wear during the content, and occasional tape damage. Occasional sync errors occur, with some segments suffering from a pronounced skew error. Severe audio buzz and hiss throughout, and audio distortion are all inherent to the original recording."</field>
+    <field name="persname_teim">Nixon, Richard M. (Richard Milhous), 1913-1994</field>
+    <field name="persname_ssm">Nixon, Richard M. (Richard Milhous), 1913-1994</field>
+    <field name="dao_teim">Richard Nixon Resignation (Tape 1 of 2)</field>
+    <field name="dao_ssm">Richard Nixon Resignation (Tape 1 of 2)</field>
+    <field name="ref_ssi">aspace_ref1184</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 155, reel: 1848</field>
+    <field name="location_ssm">reel: 1848</field>
+    <field name="location_si">reel: 1848</field>
+    <field name="name_sim">Nixon, Richard M. (Richard Milhous), 1913-1994</field>
+    <field name="name_teim">Nixon, Richard M. (Richard Milhous), 1913-1994</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Richard Nixon Resignation (Tape 1 of 2)</field>
+    <field name="heading_ssm">Richard Nixon Resignation (Tape 1 of 2)</field>
+    <field name="unitdate_start_sim">1974</field>
+    <field name="unitdate_start_ssm">1974</field>
+    <field name="unitdate_start_si">1974</field>
+    <field name="unitdate_end_sim">1974</field>
+    <field name="unitdate_end_ssm">1974</field>
+    <field name="unitdate_end_si">1974</field>
+    <field name="unitdate_ssm">Inclusive, 8 August 1974</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">504</field>
+  </doc>
+</add>

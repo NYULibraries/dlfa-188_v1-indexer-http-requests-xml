@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1199</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">The Politics of Assassination: Mark Lane, Keynote Speaker
+
+</field>
+    <field name="unittitle_teim">The Politics of Assassination: Mark Lane, Keynote Speaker
+
+</field>
+    <field name="unitid_teim">AV2098</field>
+    <field name="unitid_ssm">AV2098</field>
+    <field name="unitdate_normal_ssm">1975-04-25/1975-04-25</field>
+    <field name="unitdate_normal_teim">1975-04-25/1975-04-25</field>
+    <field name="unitdate_normal_sim">1975-04-25/1975-04-25</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes: "Majority of content is a presentation by Mark Lane, with some unrelated and/or establishing segments at the very beginning. These first 15 seconds suffer from severe tracking errors. Main segment doesn't begin until about one minute in. Content plays mostly well throughout, with occasional dropouts and tape wear, and one instance of tape damage. There is a scrolling diagonal band of interference that happens throughout, which appears to be inherent to the recording and caused likely by some sot of electrical interference. Occasional inherent exposure adjustments. Loud audio hiss is present throughout, with occasional inherent pops. Content ends abruptly at tail."</field>
+    <field name="dao_teim">The Politics of Assassination: Mark Lane, Keynote Speaker</field>
+    <field name="dao_ssm">The Politics of Assassination: Mark Lane, Keynote Speaker</field>
+    <field name="ref_ssi">aspace_ref1199</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 53, reel: 2098</field>
+    <field name="location_ssm">reel: 2098</field>
+    <field name="location_si">reel: 2098</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; The Politics of Assassination: Mark Lane, Keynote Speaker
+
+</field>
+    <field name="heading_ssm">The Politics of Assassination: Mark Lane, Keynote Speaker
+
+</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">531</field>
+  </doc>
+</add>

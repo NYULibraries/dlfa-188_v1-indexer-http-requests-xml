@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_b0da095b185ba62d904c8f6b2f9644d8</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The NYU Lecture Series - Spring 1976: The "Business and the American Economy, 1776-20001 ITT Lectures, 'Relationships Between Government and Business' with Carl Kaysen, Director of the Institute for Advanced Study, Princeton University, Part 1</field>
+    <field name="unittitle_teim">The NYU Lecture Series - Spring 1976: The "Business and the American Economy, 1776-20001 ITT Lectures, 'Relationships Between Government and Business' with Carl Kaysen, Director of the Institute for Advanced Study, Princeton University, Part 1</field>
+    <field name="unitid_teim">AV215</field>
+    <field name="unitid_ssm">AV215</field>
+    <field name="unitdate_normal_ssm">1975-10-22/1975-10-22</field>
+    <field name="unitdate_normal_teim">1975-10-22/1975-10-22</field>
+    <field name="unitdate_normal_sim">1975-10-22/1975-10-22</field>
+    <field name="unitdate_teim">1975-10-22</field>
+    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 28 mins.</field>
+    <field name="ref_ssi">aspace_b0da095b185ba62d904c8f6b2f9644d8</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, reel: AV215</field>
+    <field name="location_ssm">reel: AV215</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: AV215</field>
+    <field name="location_ssm">file: AV215</field>
+    <field name="location_si">file: AV215</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; The NYU Lecture Series - Spring 1976: The "Business and the American Economy, 1776-20001 ITT Lectures, 'Relationships Between Government and Business' with Carl Kaysen, Director of the Institute for Advanced Study, Princeton University, Part 1</field>
+    <field name="heading_ssm">The NYU Lecture Series - Spring 1976: The "Business and the American Economy, 1776-20001 ITT Lectures, 'Relationships Between Government and Business' with Carl Kaysen, Director of the Institute for Advanced Study, Princeton University, Part 1</field>
+    <field name="unitdate_ssm">1975-10-22</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">197</field>
+  </doc>
+</add>

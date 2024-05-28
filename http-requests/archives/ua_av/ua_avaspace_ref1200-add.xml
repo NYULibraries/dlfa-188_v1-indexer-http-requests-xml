@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1200</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">First New York City Post Card Art Show
+</field>
+    <field name="unittitle_teim">First New York City Post Card Art Show
+</field>
+    <field name="unitid_teim">AV2099</field>
+    <field name="unitid_ssm">AV2099</field>
+    <field name="unitdate_normal_ssm">1975-05-19/1975-05-19</field>
+    <field name="unitdate_normal_teim">1975-05-19/1975-05-19</field>
+    <field name="unitdate_normal_sim">1975-05-19/1975-05-19</field>
+    <field name="unitdate_teim">1975-05-19</field>
+    <field name="scopecontent_teim">This recording depicts a gallery installation at the Contemporary Arts Gallery at New York University.</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes: "Content exists on only about half of this tape. As with other tapes in this collection, the content suffers from a constant control track error that affects image stability, causing severe flagging and skew errors. These skew errors appear to be exacerbated during portions with bright exposure inherent to the original recording. The tape was tested with multiple TBCs - this capture represents the best transfer possible. Occasional crash records result in tracking and vertical hold errors. Occasional mild dropouts and tape damage. Mild head switch error visible throughout."</field>
+    <field name="genreform_teim">Postcards.</field>
+    <field name="genreform_ssm">Postcards.</field>
+    <field name="dao_teim">First New York City Post Card Art Show</field>
+    <field name="dao_ssm">First New York City Post Card Art Show</field>
+    <field name="ref_ssi">aspace_ref1200</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 53, reel: 2099</field>
+    <field name="location_ssm">reel: 2099</field>
+    <field name="location_si">reel: 2099</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; First New York City Post Card Art Show
+</field>
+    <field name="material_type_sim">Postcards.</field>
+    <field name="material_type_ssm">Postcards.</field>
+    <field name="heading_ssm">First New York City Post Card Art Show
+</field>
+    <field name="unitdate_ssm">1975-05-19</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">532</field>
+  </doc>
+</add>

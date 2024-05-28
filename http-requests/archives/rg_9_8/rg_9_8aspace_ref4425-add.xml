@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_9_8aspace_ref4425</field>
+    <field name="ead_ssi">rg_9_8</field>
+    <field name="parent_ssi">aspace_ref3702</field>
+    <field name="parent_ssm">aspace_ref3702</field>
+    <field name="parent_unittitles_ssm">Series IV. Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Series IV. Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Records of the Institute of African American Affairs</field>
+    <field name="collection_ssm">Records of the Institute of African American Affairs</field>
+    <field name="collection_unitid_ssm">RG.9.8/repositories/6/resources/2256</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV.B. Events Recordings</field>
+    <field name="unittitle_teim">Subseries IV.B. Events Recordings</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/708477</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/708477</field>
+    <field name="unitdate_normal_ssm">1970/2007</field>
+    <field name="unitdate_normal_teim">1970/2007</field>
+    <field name="unitdate_normal_sim">1970/2007</field>
+    <field name="unitdate_inclusive_teim">1970-2007</field>
+    <field name="scopecontent_teim">This subseries contains audio and video recordings of programs, panels, readings, lectures, and music performances related to the Institute of African American Affairs (IAAA) dating from 1970 to 2007. This subseries includes speakers for the Black Genius Series including Angela Davis, Anna Deavere Smith, Joycelyn Elders, Stanley Crouch, and Walter Mosley. Other events include panel discussions and events for the Yari Yari: Black Women Writers and the Future Conferences; and recorded sessions from the 1982 Black Male Conferences; Birth of Black Cinema Symposium; and Slave Routes: The Long Memory Symposium. This subseries also contains footage from a circa 2000 Africa trip with Manthia Diawara and Danny Glover for the documentary,  Diaspora Conversations from Goree to Dogon. See Series I and V for paper and electronic files containing event planning and publicity material.</field>
+    <field name="ref_ssi">aspace_ref4425</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Records of the Institute of African American Affairs</field>
+    <field name="collection_unitid_teim">RG.9.8/repositories/6/resources/2256</field>
+    <field name="series_sim">Series IV. Audiovisual Recordings</field>
+    <field name="series_si">Series IV. Audiovisual Recordings &gt;&gt; Subseries IV.B. Events Recordings</field>
+    <field name="heading_ssm">Subseries IV.B. Events Recordings</field>
+    <field name="unitdate_start_sim">1970</field>
+    <field name="unitdate_start_ssm">1970</field>
+    <field name="unitdate_start_si">1970</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, 1970-2007</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1367</field>
+  </doc>
+</add>

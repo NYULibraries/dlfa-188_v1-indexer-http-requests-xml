@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_233aspace_ref505</field>
+    <field name="ead_ssi">mc_233</field>
+    <field name="parent_ssi">aspace_ref485</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref118</field>
+    <field name="parent_ssm">aspace_ref485</field>
+    <field name="parent_unittitles_ssm">Series I: Books</field>
+    <field name="parent_unittitles_ssm">Subseries I: Postwar (2005)</field>
+    <field name="parent_unittitles_ssm">
+      Sub-subseries v: Master Set 1st Madeup - Author's Galleys
+    </field>
+    <field name="parent_unittitles_teim">Series I: Books</field>
+    <field name="parent_unittitles_teim">Subseries I: Postwar (2005)</field>
+    <field name="parent_unittitles_teim">
+      Sub-subseries v: Master Set 1st Madeup - Author's Galleys
+    </field>
+    <field name="component_level_isim">4</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tony Judt Papers</field>
+    <field name="collection_ssm">Tony Judt Papers</field>
+    <field name="collection_unitid_ssm">MC.233</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Chapter 17</field>
+    <field name="unittitle_teim">Chapter 17</field>
+    <field name="unitdate_teim">2005</field>
+    <field name="ref_ssi">aspace_ref505</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 8, Folder: 40</field>
+    <field name="location_ssm">Folder: 40</field>
+    <field name="location_si">Folder: 40</field>
+    <field name="collection_teim">Tony Judt Papers</field>
+    <field name="collection_unitid_teim">MC.233</field>
+    <field name="series_sim">Series I: Books</field>
+    <field name="series_sim">Subseries I: Postwar (2005)</field>
+    <field name="series_sim">
+      Sub-subseries v: Master Set 1st Madeup - Author's Galleys
+    </field>
+    <field name="series_si">Series I: Books &gt;&gt; Subseries I: Postwar (2005) &gt;&gt; 
+      Sub-subseries v: Master Set 1st Madeup - Author's Galleys
+     &gt;&gt; Chapter 17</field>
+    <field name="heading_ssm">Chapter 17</field>
+    <field name="unitdate_ssm">2005</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">493</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_151aspace_ref1960</field>
+    <field name="ead_ssi">mc_151</field>
+    <field name="parent_ssi">aspace_ref1800</field>
+    <field name="parent_ssm">aspace_ref1800</field>
+    <field name="parent_unittitles_ssm">Series XVII: Abby Weed Grey Photographs</field>
+    <field name="parent_unittitles_teim">Series XVII: Abby Weed Grey Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Abby Weed Grey Papers</field>
+    <field name="collection_ssm">Abby Weed Grey Papers</field>
+    <field name="collection_unitid_ssm">MC.151</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries H: Miscellaneous</field>
+    <field name="unittitle_teim">Subseries H: Miscellaneous</field>
+    <field name="ref_ssi">aspace_ref1960</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Abby Weed Grey Papers</field>
+    <field name="collection_unitid_teim">MC.151</field>
+    <field name="series_sim">Series XVII: Abby Weed Grey Photographs</field>
+    <field name="series_si">Series XVII: Abby Weed Grey Photographs &gt;&gt; Subseries H: Miscellaneous</field>
+    <field name="heading_ssm">Subseries H: Miscellaneous</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">706</field>
+  </doc>
+</add>

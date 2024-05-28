@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_vf_001aspace_ref10557</field>
+    <field name="ead_ssi">rism_vf_001</field>
+    <field name="parent_ssi">aspace_ref10556</field>
+    <field name="parent_ssm">aspace_ref10039</field>
+    <field name="parent_ssm">aspace_ref10556</field>
+    <field name="parent_unittitles_ssm">Haiti</field>
+    <field name="parent_unittitles_ssm">Haiti: Local Government</field>
+    <field name="parent_unittitles_teim">Haiti</field>
+    <field name="parent_unittitles_teim">Haiti: Local Government</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_ssm">RISM.VF.001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">The Haitian "Chef de Section"</field>
+    <field name="unittitle_teim">The Haitian "Chef de Section"</field>
+    <field name="unitid_teim">RISM 21037</field>
+    <field name="unitid_ssm">RISM 21037</field>
+    <field name="unitdate_normal_ssm">1955/1955</field>
+    <field name="unitdate_normal_teim">1955/1955</field>
+    <field name="unitdate_normal_sim">1955/1955</field>
+    <field name="unitdate_inclusive_teim">1955</field>
+    <field name="geogname_teim">Haiti</field>
+    <field name="geogname_ssm">Haiti</field>
+    <field name="persname_teim">Comhaire-Sylvain, Jean</field>
+    <field name="persname_ssm">Comhaire-Sylvain, Jean</field>
+    <field name="subject_teim">Local government.</field>
+    <field name="subject_teim">Local government.</field>
+    <field name="subject_ssm">Local government.</field>
+    <field name="ref_ssi">aspace_ref10557</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12</field>
+    <field name="location_si">Box: 12</field>
+    <field name="name_sim">Comhaire-Sylvain, Jean</field>
+    <field name="name_teim">Comhaire-Sylvain, Jean</field>
+    <field name="place_ssm">Haiti</field>
+    <field name="place_sim">Haiti</field>
+    <field name="subject_sim">Local government.</field>
+    <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_teim">RISM.VF.001</field>
+    <field name="series_sim">Haiti</field>
+    <field name="series_sim">Haiti: Local Government</field>
+    <field name="series_si">Haiti &gt;&gt; Haiti: Local Government &gt;&gt; The Haitian "Chef de Section"</field>
+    <field name="heading_ssm">The Haitian "Chef de Section"</field>
+    <field name="unitdate_start_sim">1955</field>
+    <field name="unitdate_start_ssm">1955</field>
+    <field name="unitdate_start_si">1955</field>
+    <field name="unitdate_end_sim">1955</field>
+    <field name="unitdate_end_ssm">1955</field>
+    <field name="unitdate_end_si">1955</field>
+    <field name="unitdate_ssm">Inclusive, 1955</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3083</field>
+  </doc>
+</add>

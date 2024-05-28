@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_rg_2aspace_ref228</field>
+    <field name="ead_ssi">rism_rg_2</field>
+    <field name="parent_ssi">aspace_ref221</field>
+    <field name="parent_ssm">aspace_ref71</field>
+    <field name="parent_ssm">aspace_ref221</field>
+    <field name="parent_unittitles_ssm">Series II: Professional Papers</field>
+    <field name="parent_unittitles_ssm">Subseries F: Longevity Studies Done By Others</field>
+    <field name="parent_unittitles_teim">Series II: Professional Papers</field>
+    <field name="parent_unittitles_teim">Subseries F: Longevity Studies Done By Others</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sula Benet Papers</field>
+    <field name="collection_ssm">Sula Benet Papers</field>
+    <field name="collection_unitid_ssm">RISM.RG.2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Dirth</field>
+    <field name="unittitle_teim">Dirth</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref228</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12, Folder: 11</field>
+    <field name="location_ssm">Folder: 11</field>
+    <field name="location_si">Folder: 11</field>
+    <field name="collection_teim">Sula Benet Papers</field>
+    <field name="collection_unitid_teim">RISM.RG.2</field>
+    <field name="series_sim">Series II: Professional Papers</field>
+    <field name="series_sim">Subseries F: Longevity Studies Done By Others</field>
+    <field name="series_si">Series II: Professional Papers &gt;&gt; Subseries F: Longevity Studies Done By Others &gt;&gt; Dirth</field>
+    <field name="heading_ssm">Dirth</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">215</field>
+  </doc>
+</add>

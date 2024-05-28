@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_168aspace_ref1272</field>
+    <field name="ead_ssi">mc_168</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I : Legislative</field>
+    <field name="parent_unittitles_teim">Series I : Legislative</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Brademas Congressional Papers</field>
+    <field name="collection_ssm">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV: Joint Committee on the Library</field>
+    <field name="unittitle_teim">Subseries IV: Joint Committee on the Library</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/609242</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/609242</field>
+    <field name="scopecontent_teim">Brademas served on the Joint Committee on the Library from 1970 to 1979. Materials mainly address the proposed integration of the Law Library in to the Research Services Department of the Library of Congress. Documents include hearing transcripts, staff memoranda, correspondence, and reports detailing the committee's investigation into the proposed reorganization. Other issues addressed to a lesser extent include Congressional Research Service request for Supergrades, Library of Congress surplus book program, public access policies for the Library of Congress, and a lawsuit against claiming the harassment and intimidation of minority workers.</field>
+    <field name="ref_ssi">aspace_ref1272</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="series_sim">Series I : Legislative</field>
+    <field name="series_si">Series I : Legislative &gt;&gt; Subseries IV: Joint Committee on the Library</field>
+    <field name="heading_ssm">Subseries IV: Joint Committee on the Library</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">631</field>
+  </doc>
+</add>

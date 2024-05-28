@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_2091052d798d1224ed812b7bbeb9ce13</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Tour of Bobst's Instructional Materials Center</field>
+    <field name="unittitle_teim">Tour of Bobst's Instructional Materials Center</field>
+    <field name="unitid_teim">AV5017</field>
+    <field name="unitid_ssm">AV5017</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Format: 1/2" open reel video; Duration: 30 minutes; Transfer Technician Notes: "This tape contains only about 4 minutes of content. All the video content is very unstable and has poor vertical hold. Most of the content has extremely low audio levels, but the audio could not be raised without clipping the louder audio in the last segment. Headswitch error in underscan"</field>
+    <field name="dao_teim">Tour of Bobst's Instructional Materials Center</field>
+    <field name="dao_ssm">Tour of Bobst's Instructional Materials Center</field>
+    <field name="ref_ssi">aspace_2091052d798d1224ed812b7bbeb9ce13</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 156, reel: AV5017</field>
+    <field name="location_ssm">reel: AV5017</field>
+    <field name="location_si">reel: AV5017</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Tour of Bobst's Instructional Materials Center</field>
+    <field name="heading_ssm">Tour of Bobst's Instructional Materials Center</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">949</field>
+  </doc>
+</add>

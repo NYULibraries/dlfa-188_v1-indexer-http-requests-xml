@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1134</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Great Speakers Series II #4: Sam Ervin</field>
+    <field name="unittitle_teim">Great Speakers Series II #4: Sam Ervin</field>
+    <field name="unitid_teim">AV2902</field>
+    <field name="unitid_ssm">AV2902</field>
+    <field name="unitdate_normal_ssm">1974-11/1974-11</field>
+    <field name="unitdate_normal_teim">1974-11/1974-11</field>
+    <field name="unitdate_normal_sim">1974-11/1974-11</field>
+    <field name="unitdate_teim">1974-11</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes AV2902: "Content is primarily a static shot of Senator Ervin speaking at a podium. As with other tapes in this collection, there is an inherent constant sync error that is stabilized by time base correction, but ultimately results in moderate flagging throughout. This flagging is generally above the speaker. Mild image jitter throughout. Elsewhere, there are occasional mild dropouts and tape wear. Occasional inherent exposure adjustments and mild ghosting. Audio distortion is inherent to the original recording. Pronounced audio buzzing present during audience Q+A."</field>
+    <field name="phystech_teim">
+Transfer Technician Notes AV2903: "Content recorded on just several minutes near head of tape. As with other tapes in this collection, there is an inherent constant sync error that is stabilized by time base correction, but ultimately results in moderate to severe flagging throughout. Mild image jitter throughout. Elsewhere, there are frequent mild dropouts, and occasional mild tape damage. Occasional inherent exposure adjustments and mild ghosting. Audio distortion is inherent to the original recording."</field>
+    <field name="persname_teim">Ervin, Sam J. (Sam James), 1896-1985</field>
+    <field name="persname_ssm">Ervin, Sam J. (Sam James), 1896-1985</field>
+    <field name="dao_teim">Great Speakers Series II #4: Sam Ervin</field>
+    <field name="dao_teim">Great Speakers Series II #4: Sam Ervin</field>
+    <field name="dao_ssm">Great Speakers Series II #4: Sam Ervin</field>
+    <field name="dao_ssm">Great Speakers Series II #4: Sam Ervin</field>
+    <field name="ref_ssi">aspace_ref1134</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 75, reel: 2902</field>
+    <field name="location_ssm">reel: 2902</field>
+    <field name="location_ssm">Box: 75, reel: 2903</field>
+    <field name="location_ssm">reel: 2903</field>
+    <field name="location_si">reel: 2903</field>
+    <field name="name_sim">Ervin, Sam J. (Sam James), 1896-1985</field>
+    <field name="name_teim">Ervin, Sam J. (Sam James), 1896-1985</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Great Speakers Series II #4: Sam Ervin</field>
+    <field name="heading_ssm">Great Speakers Series II #4: Sam Ervin</field>
+    <field name="unitdate_ssm">1974-11</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">642</field>
+  </doc>
+</add>

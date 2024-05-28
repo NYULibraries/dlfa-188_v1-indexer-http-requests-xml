@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_42_5aspace_ref2333</field>
+    <field name="ead_ssi">rg_42_5</field>
+    <field name="parent_ssi">aspace_ref2201</field>
+    <field name="parent_ssm">aspace_ref2201</field>
+    <field name="parent_unittitles_ssm">Series V: Photographs</field>
+    <field name="parent_unittitles_teim">Series V: Photographs</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Grey Art Gallery and Study Center</field>
+    <field name="collection_ssm">Records of the Grey Art Gallery and Study Center</field>
+    <field name="collection_unitid_ssm">RG.42.5</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Series I: Boldini Exhibit</field>
+    <field name="unittitle_teim">Series I: Boldini Exhibit</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref2333</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: V: 10, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Records of the Grey Art Gallery and Study Center</field>
+    <field name="collection_unitid_teim">RG.42.5</field>
+    <field name="series_sim">Series V: Photographs</field>
+    <field name="series_si">Series V: Photographs &gt;&gt; Series I: Boldini Exhibit</field>
+    <field name="heading_ssm">Series I: Boldini Exhibit</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">2382</field>
+  </doc>
+</add>

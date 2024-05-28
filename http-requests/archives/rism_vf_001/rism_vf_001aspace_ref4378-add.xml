@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_vf_001aspace_ref4378</field>
+    <field name="ead_ssi">rism_vf_001</field>
+    <field name="parent_ssi">aspace_ref4353</field>
+    <field name="parent_ssm">aspace_ref2293</field>
+    <field name="parent_ssm">aspace_ref4353</field>
+    <field name="parent_unittitles_ssm">Caribbean Area</field>
+    <field name="parent_unittitles_ssm">Caribbean Area: Population</field>
+    <field name="parent_unittitles_teim">Caribbean Area</field>
+    <field name="parent_unittitles_teim">Caribbean Area: Population</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_ssm">RISM.VF.001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Movements in Population and the Labour Force</field>
+    <field name="unittitle_teim">Movements in Population and the Labour Force</field>
+    <field name="unitid_teim">RISM 24235</field>
+    <field name="unitid_ssm">RISM 24235</field>
+    <field name="unitdate_normal_ssm">1960/1960</field>
+    <field name="unitdate_normal_teim">1960/1960</field>
+    <field name="unitdate_normal_sim">1960/1960</field>
+    <field name="unitdate_inclusive_teim">1960</field>
+    <field name="geogname_teim">Caribbean Area.</field>
+    <field name="geogname_ssm">Caribbean Area.</field>
+    <field name="persname_teim">Roberts, G. W. (George W.)</field>
+    <field name="persname_ssm">Roberts, G. W. (George W.)</field>
+    <field name="subject_teim">Population.</field>
+    <field name="subject_teim">Population.</field>
+    <field name="subject_ssm">Population.</field>
+    <field name="ref_ssi">aspace_ref4378</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6</field>
+    <field name="location_si">Box: 6</field>
+    <field name="name_sim">Roberts, G. W. (George W.)</field>
+    <field name="name_teim">Roberts, G. W. (George W.)</field>
+    <field name="place_ssm">Caribbean Area.</field>
+    <field name="place_sim">Caribbean Area.</field>
+    <field name="subject_sim">Population.</field>
+    <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_teim">RISM.VF.001</field>
+    <field name="series_sim">Caribbean Area</field>
+    <field name="series_sim">Caribbean Area: Population</field>
+    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Population &gt;&gt; Movements in Population and the Labour Force</field>
+    <field name="heading_ssm">Movements in Population and the Labour Force</field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">1960</field>
+    <field name="unitdate_end_ssm">1960</field>
+    <field name="unitdate_end_si">1960</field>
+    <field name="unitdate_ssm">Inclusive, 1960</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1583</field>
+  </doc>
+</add>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_145aspace_ref17</field>
+    <field name="ead_ssi">mc_145</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">
+      I'd Rather Die Than Give A Speech
+    </field>
+    <field name="parent_unittitles_teim">
+      I'd Rather Die Than Give A Speech
+    </field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Michael Klepper Papers</field>
+    <field name="collection_ssm">Michael Klepper Papers</field>
+    <field name="collection_unitid_ssm">MC.145</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Published articles and reviews</field>
+    <field name="unittitle_teim">Published articles and reviews</field>
+    <field name="ref_ssi">aspace_ref17</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Michael Klepper Papers</field>
+    <field name="collection_unitid_teim">MC.145</field>
+    <field name="series_sim">
+      I'd Rather Die Than Give A Speech
+    </field>
+    <field name="series_si">
+      I'd Rather Die Than Give A Speech
+     &gt;&gt; Published articles and reviews</field>
+    <field name="heading_ssm">Published articles and reviews</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">18</field>
+  </doc>
+</add>

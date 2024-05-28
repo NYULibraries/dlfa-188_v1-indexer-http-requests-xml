@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_86aspace_ref3</field>
+    <field name="ead_ssi">mc_86</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Prize-Winning Student Essays Collection</field>
+    <field name="collection_ssm">Prize-Winning Student Essays Collection</field>
+    <field name="collection_unitid_ssm">MC.86</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Frederick Seward Gibson Prize Essays</field>
+    <field name="unittitle_teim">Frederick Seward Gibson Prize Essays</field>
+    <field name="unitdate_normal_ssm">1901/1963</field>
+    <field name="unitdate_normal_teim">1901/1963</field>
+    <field name="unitdate_normal_sim">1901/1963</field>
+    <field name="unitdate_inclusive_teim">1901-1963</field>
+    <field name="scopecontent_teim">The Frederick Seward Gibson Prize poetry and fiction pieces broadly encompass the field of English literature, including critical essays as well as some original poetry and short stories.  Materials include award winning essays dating from 1901-1963, with the bulk of the material dating from 1924-1942.</field>
+    <field name="ref_ssi">aspace_ref3</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Prize-Winning Student Essays Collection</field>
+    <field name="collection_unitid_teim">MC.86</field>
+    <field name="series_si">Frederick Seward Gibson Prize Essays</field>
+    <field name="heading_ssm">Frederick Seward Gibson Prize Essays</field>
+    <field name="unitdate_start_sim">1901</field>
+    <field name="unitdate_start_ssm">1901</field>
+    <field name="unitdate_start_si">1901</field>
+    <field name="unitdate_end_sim">1963</field>
+    <field name="unitdate_end_ssm">1963</field>
+    <field name="unitdate_end_si">1963</field>
+    <field name="unitdate_ssm">Inclusive, 1901-1963</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">42</field>
+  </doc>
+</add>

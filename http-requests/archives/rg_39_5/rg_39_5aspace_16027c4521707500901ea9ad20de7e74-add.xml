@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_39_5aspace_16027c4521707500901ea9ad20de7e74</field>
+    <field name="ead_ssi">rg_39_5</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of WNYU</field>
+    <field name="collection_ssm">Records of WNYU</field>
+    <field name="collection_unitid_ssm">RG.39.5</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series VI: Archived Websites</field>
+    <field name="unittitle_teim">Series VI: Archived Websites</field>
+    <field name="unitdate_normal_ssm">2013-11-07/2013-11-07</field>
+    <field name="unitdate_normal_teim">2013-11-07/2013-11-07</field>
+    <field name="unitdate_normal_sim">2013-11-07/2013-11-07</field>
+    <field name="unitdate_teim">November 2013-ongoing</field>
+    <field name="scopecontent_teim">WNYU Radio is the student run radio station found on 89.1 in New York. The website contains a schedule of radio programs and their hosts and descriptions; playlists; charts and top ten lists dating back to 1997; and music requests to listeners. There was a gap in crawling from 2016-2020, when the website redesigned.The program archives of the website date back to March 2005. </field>
+    <field name="scopecontent_teim">The series also contains websites promoting the radio station or blogging about the radio station. STATIC is WNYU's music magazine and program guide. The magazine has existed in some iteration since the 1980s, but was first launced online in 2023. The website contains concert photos, music reviews, video and text interviews, a list of guests to the radio station, and program guides dating back to 1987. The tumblr contains blog posts promoting different radio programs, playlists, descriptions of episodes, music reviews, and links to articles and interviews from musicians. The blog dates from 2010-2013. The orgsnyc page contains a profile of the radio station.he Facebook page contins promotional posts for the radio programs. Earshot was an alternative news/talk show on WNYU Radio from 2010-2011. </field>
+    <field name="appraisal_teim">Crawl was limited to domains and subdomains of wnyu.org, staticmag.org, and cargo.site in order to remain within the collection scope and data constraints.</field>
+    <field name="appraisal_teim">Robots.txt (a piece of code designed to limit crawler activity within a website) was ignored.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="phystech_teim">Streaming portions of the websites, such as the audio programs, cannot be captured.</field>
+    <field name="dao_teim">WNYU Radio Archived Website: November 2013-ongoing</field>
+    <field name="dao_teim">WNYU Radio Orgsync Archived Website: December 2013-January 2016</field>
+    <field name="dao_teim">WNYU Radio Facebook Archived Website: December 2013-January 2016</field>
+    <field name="dao_teim">The Earshot Blog Archived Website: November 2013-January 2016</field>
+    <field name="dao_teim">WNYU/STATIC Tumblr Archived Website: April 2014-July 2015</field>
+    <field name="dao_teim">STATIC Archived Website: June 2023-ongoing</field>
+    <field name="dao_ssm">WNYU Radio Archived Website: November 2013-ongoing</field>
+    <field name="dao_ssm">WNYU Radio Orgsync Archived Website: December 2013-January 2016</field>
+    <field name="dao_ssm">WNYU Radio Facebook Archived Website: December 2013-January 2016</field>
+    <field name="dao_ssm">The Earshot Blog Archived Website: November 2013-January 2016</field>
+    <field name="dao_ssm">WNYU/STATIC Tumblr Archived Website: April 2014-July 2015</field>
+    <field name="dao_ssm">STATIC Archived Website: June 2023-ongoing</field>
+    <field name="ref_ssi">aspace_16027c4521707500901ea9ad20de7e74</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Records of WNYU</field>
+    <field name="collection_unitid_teim">RG.39.5</field>
+    <field name="series_si">Series VI: Archived Websites</field>
+    <field name="heading_ssm">Series VI: Archived Websites</field>
+    <field name="unitdate_ssm">November 2013-ongoing</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">594</field>
+  </doc>
+</add>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_135aspace_ref1601</field>
+    <field name="ead_ssi">mc_135</field>
+    <field name="parent_ssi">aspace_ref1143</field>
+    <field name="parent_ssm">aspace_ref1143</field>
+    <field name="parent_unittitles_ssm">Series I: Books</field>
+    <field name="parent_unittitles_teim">Series I: Books</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Oscar J. Falnes Papers</field>
+    <field name="collection_ssm">Oscar J. Falnes Papers</field>
+    <field name="collection_unitid_ssm">MC.135</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;Bismarck&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      Bismarck
+    </field>
+    <field name="persname_teim">Morrow, Ian F. D. (Ian Fitzherbert Despard), 1896-</field>
+    <field name="persname_ssm">Morrow, Ian F. D. (Ian Fitzherbert Despard), 1896-</field>
+    <field name="ref_ssi">aspace_ref1601</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="name_sim">Morrow, Ian F. D. (Ian Fitzherbert Despard), 1896-</field>
+    <field name="name_teim">Morrow, Ian F. D. (Ian Fitzherbert Despard), 1896-</field>
+    <field name="collection_teim">Oscar J. Falnes Papers</field>
+    <field name="collection_unitid_teim">MC.135</field>
+    <field name="series_sim">Series I: Books</field>
+    <field name="series_si">Series I: Books &gt;&gt; 
+      &lt;em&gt;Bismarck&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      Bismarck
+    </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

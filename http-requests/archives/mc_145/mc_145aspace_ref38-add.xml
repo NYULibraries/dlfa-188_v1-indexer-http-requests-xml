@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_145aspace_ref38</field>
+    <field name="ead_ssi">mc_145</field>
+    <field name="parent_ssi">aspace_ref17</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref17</field>
+    <field name="parent_unittitles_ssm">
+      I'd Rather Die Than Give A Speech
+    </field>
+    <field name="parent_unittitles_ssm">Published articles and reviews</field>
+    <field name="parent_unittitles_teim">
+      I'd Rather Die Than Give A Speech
+    </field>
+    <field name="parent_unittitles_teim">Published articles and reviews</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Michael Klepper Papers</field>
+    <field name="collection_ssm">Michael Klepper Papers</field>
+    <field name="collection_unitid_ssm">MC.145</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;I'd Rather Die Than Give A Speech&lt;/em&gt; Reviews</field>
+    <field name="unittitle_teim">I'd Rather Die Than Give A Speech Reviews</field>
+    <field name="unitdate_teim">Undated, 1993</field>
+    <field name="ref_ssi">aspace_ref38</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Michael Klepper Papers</field>
+    <field name="collection_unitid_teim">MC.145</field>
+    <field name="series_sim">
+      I'd Rather Die Than Give A Speech
+    </field>
+    <field name="series_sim">Published articles and reviews</field>
+    <field name="series_si">
+      I'd Rather Die Than Give A Speech
+     &gt;&gt; Published articles and reviews &gt;&gt; &lt;em&gt;I'd Rather Die Than Give A Speech&lt;/em&gt; Reviews</field>
+    <field name="heading_ssm">I'd Rather Die Than Give A Speech Reviews</field>
+    <field name="unitdate_ssm">Undated, 1993</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">20</field>
+  </doc>
+</add>

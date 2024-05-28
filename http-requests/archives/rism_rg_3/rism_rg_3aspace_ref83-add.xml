@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_rg_3aspace_ref83</field>
+    <field name="ead_ssi">rism_rg_3</field>
+    <field name="parent_ssi">aspace_ref74</field>
+    <field name="parent_ssm">aspace_ref69</field>
+    <field name="parent_ssm">aspace_ref74</field>
+    <field name="parent_unittitles_ssm">Series V: Project Reports, 1946 - April 1950</field>
+    <field name="parent_unittitles_ssm">Subseries B. Field Research</field>
+    <field name="parent_unittitles_teim">Series V: Project Reports, 1946 - April 1950</field>
+    <field name="parent_unittitles_teim">Subseries B. Field Research</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Puerto Rico Study</field>
+    <field name="collection_ssm">Records of the Puerto Rico Study</field>
+    <field name="collection_unitid_ssm">RISM.RG.3</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">&lt;em&gt;Some Thinking on National Culture,&lt;/em&gt; Eric Wolf: &lt;em&gt;Puerto Rico and a National Culture,&lt;/em&gt; Bob Manners</field>
+    <field name="unittitle_teim">Some Thinking on National Culture, Eric Wolf: Puerto Rico and a National Culture, Bob Manners</field>
+    <field name="unitdate_normal_ssm">1943/1951</field>
+    <field name="unitdate_normal_teim">1943/1951</field>
+    <field name="unitdate_normal_sim">1943/1951</field>
+    <field name="unitdate_inclusive_teim">Sep 1948, undated</field>
+    <field name="ref_ssi">aspace_ref83</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 3, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Records of the Puerto Rico Study</field>
+    <field name="collection_unitid_teim">RISM.RG.3</field>
+    <field name="series_sim">Series V: Project Reports, 1946 - April 1950</field>
+    <field name="series_sim">Subseries B. Field Research</field>
+    <field name="series_si">Series V: Project Reports, 1946 - April 1950 &gt;&gt; Subseries B. Field Research &gt;&gt; &lt;em&gt;Some Thinking on National Culture,&lt;/em&gt; Eric Wolf: &lt;em&gt;Puerto Rico and a National Culture,&lt;/em&gt; Bob Manners</field>
+    <field name="heading_ssm">Some Thinking on National Culture, Eric Wolf: Puerto Rico and a National Culture, Bob Manners</field>
+    <field name="unitdate_start_sim">1943</field>
+    <field name="unitdate_start_ssm">1943</field>
+    <field name="unitdate_start_si">1943</field>
+    <field name="unitdate_end_sim">1951</field>
+    <field name="unitdate_end_ssm">1951</field>
+    <field name="unitdate_end_si">1951</field>
+    <field name="unitdate_ssm">Inclusive, Sep 1948, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">55</field>
+  </doc>
+</add>

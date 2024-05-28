@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1356</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Episode of MSG Metro Learning Center TV show "School's Out" </field>
+    <field name="unittitle_teim">Episode of MSG Metro Learning Center TV show "School's Out" </field>
+    <field name="unitid_teim">AV3326</field>
+    <field name="unitid_ssm">AV3326</field>
+    <field name="unitdate_teim">September 15, 1998</field>
+    <field name="scopecontent_teim">Episode of a show geared toward teens interested in the arts and humanities. There are large blank spots on the tape probably intended to be filled by commercials. This episode features a segment with Patrick Riviera, Director of the High School Summer Drama Program at Tisch School of the Arts. Patrick participates in a group interview about various summer arts programs for high schoolers. The segment starts at 23:20 and ends at at 28:10.</field>
+    <field name="corpname_teim">Tisch School of the Arts</field>
+    <field name="corpname_ssm">Tisch School of the Arts</field>
+    <field name="persname_teim">Riviera, Patrick</field>
+    <field name="persname_ssm">Riviera, Patrick</field>
+    <field name="subject_teim">Humanities</field>
+    <field name="subject_teim">Arts.</field>
+    <field name="subject_teim">Acting</field>
+    <field name="subject_teim">Education |x Humanities</field>
+    <field name="subject_teim">Humanities</field>
+    <field name="subject_teim">Arts.</field>
+    <field name="subject_teim">Acting</field>
+    <field name="subject_teim">Education -- Humanities</field>
+    <field name="subject_ssm">Humanities</field>
+    <field name="subject_ssm">Arts.</field>
+    <field name="subject_ssm">Acting</field>
+    <field name="subject_ssm">Education |x Humanities</field>
+    <field name="ref_ssi">aspace_ref1356</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 92</field>
+    <field name="location_si">Box: 92</field>
+    <field name="name_sim">Tisch School of the Arts</field>
+    <field name="name_sim">Riviera, Patrick</field>
+    <field name="name_teim">Tisch School of the Arts</field>
+    <field name="name_teim">Riviera, Patrick</field>
+    <field name="subject_sim">Humanities</field>
+    <field name="subject_sim">Arts.</field>
+    <field name="subject_sim">Acting</field>
+    <field name="subject_sim">Education -- Humanities</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Episode of MSG Metro Learning Center TV show "School's Out" </field>
+    <field name="heading_ssm">Episode of MSG Metro Learning Center TV show "School's Out" </field>
+    <field name="unitdate_ssm">September 15, 1998</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">829</field>
+  </doc>
+</add>

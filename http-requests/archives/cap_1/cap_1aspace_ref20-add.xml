@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cap_1aspace_ref20</field>
+    <field name="ead_ssi">cap_1</field>
+    <field name="parent_ssi">aspace_2f14f32be2bce7765d3a40d08c70f910</field>
+    <field name="parent_ssm">aspace_2f14f32be2bce7765d3a40d08c70f910</field>
+    <field name="parent_unittitles_ssm">Digitized Publications</field>
+    <field name="parent_unittitles_teim">Digitized Publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+    <field name="collection_ssm">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+    <field name="collection_unitid_ssm">CAP.1</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Photography: A Treatise on the Chemical</field>
+    <field name="unittitle_teim">Photography: A Treatise on the Chemical</field>
+    <field name="unitid_teim">cap1_ref20</field>
+    <field name="unitid_ssm">cap1_ref20</field>
+    <field name="unitdate_teim">1851</field>
+    <field name="corpname_teim">John Joseph Griffin and Company</field>
+    <field name="corpname_ssm">John Joseph Griffin and Company</field>
+    <field name="geogname_teim">London (England).</field>
+    <field name="geogname_ssm">London (England).</field>
+    <field name="persname_teim">Hunt, Robert, 1807-1887</field>
+    <field name="persname_ssm">Hunt, Robert, 1807-1887</field>
+    <field name="subject_teim">Photography</field>
+    <field name="subject_teim">Photography</field>
+    <field name="subject_ssm">Photography</field>
+    <field name="ref_ssi">aspace_ref20</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">object: 6</field>
+    <field name="location_si">object: 6</field>
+    <field name="name_sim">John Joseph Griffin and Company</field>
+    <field name="name_sim">Hunt, Robert, 1807-1887</field>
+    <field name="name_teim">John Joseph Griffin and Company</field>
+    <field name="name_teim">Hunt, Robert, 1807-1887</field>
+    <field name="place_ssm">London (England).</field>
+    <field name="place_sim">London (England).</field>
+    <field name="subject_sim">Photography</field>
+    <field name="collection_teim">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+    <field name="collection_unitid_teim">CAP.1</field>
+    <field name="series_sim">Digitized Publications</field>
+    <field name="series_si">Digitized Publications &gt;&gt; Photography: A Treatise on the Chemical</field>
+    <field name="heading_ssm">Photography: A Treatise on the Chemical</field>
+    <field name="unitdate_ssm">1851</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

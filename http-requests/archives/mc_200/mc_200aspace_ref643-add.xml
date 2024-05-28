@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_200aspace_ref643</field>
+    <field name="ead_ssi">mc_200</field>
+    <field name="parent_ssi">aspace_ref372</field>
+    <field name="parent_ssm">aspace_ref372</field>
+    <field name="parent_unittitles_ssm">Series VII: Stunt Seven (1979)</field>
+    <field name="parent_unittitles_teim">Series VII: Stunt Seven (1979)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Martin Poll Papers</field>
+    <field name="collection_ssm">Martin Poll Papers</field>
+    <field name="collection_unitid_ssm">MC.200</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Insurance</field>
+    <field name="unittitle_teim">Insurance</field>
+    <field name="unitdate_normal_ssm">1979/1979</field>
+    <field name="unitdate_normal_teim">1979/1979</field>
+    <field name="unitdate_normal_sim">1979/1979</field>
+    <field name="unitdate_inclusive_teim">1979</field>
+    <field name="ref_ssi">aspace_ref643</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 14, Folder: 19</field>
+    <field name="location_ssm">Folder: 19</field>
+    <field name="location_si">Folder: 19</field>
+    <field name="collection_teim">Martin Poll Papers</field>
+    <field name="collection_unitid_teim">MC.200</field>
+    <field name="series_sim">Series VII: Stunt Seven (1979)</field>
+    <field name="series_si">Series VII: Stunt Seven (1979) &gt;&gt; Insurance</field>
+    <field name="heading_ssm">Insurance</field>
+    <field name="unitdate_start_sim">1979</field>
+    <field name="unitdate_start_ssm">1979</field>
+    <field name="unitdate_start_si">1979</field>
+    <field name="unitdate_end_sim">1979</field>
+    <field name="unitdate_end_ssm">1979</field>
+    <field name="unitdate_end_si">1979</field>
+    <field name="unitdate_ssm">Inclusive, 1979</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">409</field>
+  </doc>
+</add>

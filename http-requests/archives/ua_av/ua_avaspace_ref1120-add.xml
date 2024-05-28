@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1120</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Great Speakers Series II #1: Gloria Steinem / Jane Galvin-Lewis (Tape 2 of 2)</field>
+    <field name="unittitle_teim">Great Speakers Series II #1: Gloria Steinem / Jane Galvin-Lewis (Tape 2 of 2)</field>
+    <field name="unitid_teim">AV2898</field>
+    <field name="unitid_ssm">AV2898</field>
+    <field name="unitdate_normal_ssm">1974-10-17/1974</field>
+    <field name="unitdate_normal_teim">1974-10-17/1974</field>
+    <field name="unitdate_normal_sim">1974-10-17/1974</field>
+    <field name="unitdate_inclusive_teim">17 October 1974</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes: "Entirety of tape suffers from a constant control track error. Multiple TBCs were tested to obtain the best capture possible. Content suffers from persistent flagging and image jitter throughout, as a result of the inherent control track error. Aside from these anomalies, there is recurring mild tape wear and dropouts throughout. Occasional flash photography results in luma clipping and momentarily affects image stability."</field>
+    <field name="persname_teim">Steinem, Gloria</field>
+    <field name="persname_teim">Galvin-Lewis, Jane</field>
+    <field name="persname_ssm">Steinem, Gloria</field>
+    <field name="persname_ssm">Galvin-Lewis, Jane</field>
+    <field name="dao_teim">Great Speakers Series II #1: Gloria Steinem / Jane Galvin-Lewis (Tape 2 of 2)</field>
+    <field name="dao_ssm">Great Speakers Series II #1: Gloria Steinem / Jane Galvin-Lewis (Tape 2 of 2)</field>
+    <field name="ref_ssi">aspace_ref1120</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 75, reel: 2898</field>
+    <field name="location_ssm">reel: 2898</field>
+    <field name="location_si">reel: 2898</field>
+    <field name="name_sim">Steinem, Gloria</field>
+    <field name="name_sim">Galvin-Lewis, Jane</field>
+    <field name="name_teim">Steinem, Gloria</field>
+    <field name="name_teim">Galvin-Lewis, Jane</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Great Speakers Series II #1: Gloria Steinem / Jane Galvin-Lewis (Tape 2 of 2)</field>
+    <field name="heading_ssm">Great Speakers Series II #1: Gloria Steinem / Jane Galvin-Lewis (Tape 2 of 2)</field>
+    <field name="unitdate_ssm">Inclusive, 17 October 1974</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">639</field>
+  </doc>
+</add>

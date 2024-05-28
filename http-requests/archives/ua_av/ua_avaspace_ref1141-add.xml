@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1141</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Highlights in Jazz: Latin Jam</field>
+    <field name="unittitle_teim">Highlights in Jazz: Latin Jam</field>
+    <field name="unitid_teim">cuid657</field>
+    <field name="unitid_ssm">cuid657</field>
+    <field name="unitdate_normal_ssm">1974/1974</field>
+    <field name="unitdate_normal_teim">1974/1974</field>
+    <field name="unitdate_normal_sim">1974/1974</field>
+    <field name="unitdate_inclusive_teim">7 October 1974</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes AV2911: "As with other tapes in this collection, there is an inherent constant sync error that is stabilized by time base correction, but ultimately results in moderate to severe flagging and mild image jitter throughout. Elsewhere, there are occasional mild dropouts and tape wear. There exists one extended instance of tape creasing. Occasional inherent exposure adjustments and mild ghosting. Luma is adjusted to mitigate clipping from glare. There are occasional instances of high frequency noise and mild audio distortion inherent to the content."</field>
+    <field name="phystech_teim">
+Transfer Technician Notes AV2912: "Entirety of tape suffers from a constant control track error. Multiple TBCs were tested to obtain the best capture possible. Content suffers from persistent flagging throughout, as a result of the inherent control track error. Recurring mild tape wear and dropouts throughout, and occasional mild tape damage. Mild audio distortion is inherent to original recording."</field>
+    <field name="genreform_teim">Jazz</field>
+    <field name="genreform_ssm">Jazz</field>
+    <field name="persname_teim">Kleinsinger, Jack</field>
+    <field name="persname_ssm">Kleinsinger, Jack</field>
+    <field name="dao_teim">Highlights in Jazz: Latin Jam</field>
+    <field name="dao_teim">Highlights in Jazz: Latin Jam</field>
+    <field name="dao_ssm">Highlights in Jazz: Latin Jam</field>
+    <field name="dao_ssm">Highlights in Jazz: Latin Jam</field>
+    <field name="ref_ssi">aspace_ref1141</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 156, reel: 2911, 2912</field>
+    <field name="location_ssm">reel: 2911, 2912</field>
+    <field name="location_si">reel: 2911, 2912</field>
+    <field name="name_sim">Kleinsinger, Jack</field>
+    <field name="name_teim">Kleinsinger, Jack</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Highlights in Jazz: Latin Jam</field>
+    <field name="material_type_sim">Jazz</field>
+    <field name="material_type_ssm">Jazz</field>
+    <field name="heading_ssm">Highlights in Jazz: Latin Jam</field>
+    <field name="unitdate_start_sim">1974</field>
+    <field name="unitdate_start_ssm">1974</field>
+    <field name="unitdate_start_si">1974</field>
+    <field name="unitdate_end_sim">1974</field>
+    <field name="unitdate_end_ssm">1974</field>
+    <field name="unitdate_end_si">1974</field>
+    <field name="unitdate_ssm">Inclusive, 7 October 1974</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">647</field>
+  </doc>
+</add>

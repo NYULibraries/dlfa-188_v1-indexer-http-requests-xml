@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1350</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">TISCH SCHOOL OF THE ARTS RECRUITMENT VIDEO: Sam Pollard B-Roll: Avid Training</field>
+    <field name="unittitle_teim">TISCH SCHOOL OF THE ARTS RECRUITMENT VIDEO: Sam Pollard B-Roll: Avid Training</field>
+    <field name="unitid_teim">AV3312</field>
+    <field name="unitid_ssm">AV3312</field>
+    <field name="unitdate_teim">April 23, 1996</field>
+    <field name="scopecontent_teim">Recording of film editor and producer Samuel D. Pollard instructing students on the use of Avid Video editing equipment.</field>
+    <field name="corpname_teim">Tisch School of the Arts</field>
+    <field name="corpname_ssm">Tisch School of the Arts</field>
+    <field name="persname_teim">Pollard, Sam</field>
+    <field name="persname_ssm">Pollard, Sam</field>
+    <field name="subject_teim">Digital video -- Editing</field>
+    <field name="subject_teim">video editing</field>
+    <field name="subject_teim">Digital video -- Editing</field>
+    <field name="subject_teim">video editing</field>
+    <field name="subject_ssm">Digital video -- Editing</field>
+    <field name="subject_ssm">video editing</field>
+    <field name="ref_ssi">aspace_ref1350</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared University Archives 111, Item: 51</field>
+    <field name="location_ssm">Item: 51</field>
+    <field name="location_si">Item: 51</field>
+    <field name="name_sim">Tisch School of the Arts</field>
+    <field name="name_sim">Pollard, Sam</field>
+    <field name="name_teim">Tisch School of the Arts</field>
+    <field name="name_teim">Pollard, Sam</field>
+    <field name="subject_sim">Digital video -- Editing</field>
+    <field name="subject_sim">video editing</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; TISCH SCHOOL OF THE ARTS RECRUITMENT VIDEO: Sam Pollard B-Roll: Avid Training</field>
+    <field name="heading_ssm">TISCH SCHOOL OF THE ARTS RECRUITMENT VIDEO: Sam Pollard B-Roll: Avid Training</field>
+    <field name="unitdate_ssm">April 23, 1996</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">825</field>
+  </doc>
+</add>

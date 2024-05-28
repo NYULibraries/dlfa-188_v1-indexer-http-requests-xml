@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_5e94ff8bf5bcb4d1ea886687cee8a59f</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">NYU Wisdom Bank - Revised Version. Part 3 of I</field>
+    <field name="unittitle_teim">NYU Wisdom Bank - Revised Version. Part 3 of I</field>
+    <field name="unitid_teim">AV380</field>
+    <field name="unitid_ssm">AV380</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="scopecontent_teim">Housing annotation: Script is included with the tape.
+1) Dr. Ethel Alpenfels, 2:33 2) Dean David Oppenheim, 2:24 3) Prof. John Bell, 2:35 
+4) Dr. Marian Hamburg, 2:38 5) Dr. Bruno Stein, 2:37 6)  Dean Daniel Griffiths, 2:39 
+7) Prof. Owen Rachleff, 2:24</field>
+    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 22 min.</field>
+    <field name="ref_ssi">aspace_5e94ff8bf5bcb4d1ea886687cee8a59f</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9, reel: AV380</field>
+    <field name="location_ssm">reel: AV380</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: AV380</field>
+    <field name="location_ssm">file: AV380</field>
+    <field name="location_si">file: AV380</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; NYU Wisdom Bank - Revised Version. Part 3 of I</field>
+    <field name="heading_ssm">NYU Wisdom Bank - Revised Version. Part 3 of I</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">346</field>
+  </doc>
+</add>

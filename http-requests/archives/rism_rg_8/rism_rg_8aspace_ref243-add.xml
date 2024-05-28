@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_rg_8aspace_ref243</field>
+    <field name="ead_ssi">rism_rg_8</field>
+    <field name="parent_ssi">aspace_ref219</field>
+    <field name="parent_ssm">aspace_ref219</field>
+    <field name="parent_unittitles_ssm">Series IV. Epidemiological Research Records</field>
+    <field name="parent_unittitles_teim">Series IV. Epidemiological Research Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Records of the Research Institute for the Study of Man's (RISM) Medical and Social Anthropological Research in Bolivia</field>
+    <field name="collection_ssm">Records of the Research Institute for the Study of Man's (RISM) Medical and Social Anthropological Research in Bolivia</field>
+    <field name="collection_unitid_ssm">RISM.RG.8/repositories/6/resources/2270</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries B. Health Questionnaire / Cedula de Salud</field>
+    <field name="unittitle_teim">Subseries B. Health Questionnaire / Cedula de Salud</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/712976</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/712976</field>
+    <field name="unitdate_normal_ssm">1964/1965</field>
+    <field name="unitdate_normal_teim">1964/1965</field>
+    <field name="unitdate_normal_sim">1964/1965</field>
+    <field name="unitdate_inclusive_teim">1964-1965</field>
+    <field name="scopecontent_teim">This subseries consists of 1,791 health questionnaires (cedulas de salud), organized by community name. The questionnaires were used as a preliminary census that documented the size of households and health conditions of family members. The questionnaires are in Spanish and include information about the family member providing the information, his/her age and health history, and information about the other members of the household. Some of the community files contain health questionnaires and tuberculin surveys.  The latter consist of similar information as the healthy questionnaires and include information on tuberculosis titres taken at the time of the survey.  The survey focuses on how many people live in the house, on the health of the members of the household, whether anyone in the house was very ill in a set of time not specified on the forms, and what sort of medical treatment that person received.  The questionnaires contain the community household number, written above the page numbers, and the name of the head of household, which may also appear in the existing biographical index cards.</field>
+    <field name="ref_ssi">aspace_ref243</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Records of the Research Institute for the Study of Man's (RISM) Medical and Social Anthropological Research in Bolivia</field>
+    <field name="collection_unitid_teim">RISM.RG.8/repositories/6/resources/2270</field>
+    <field name="series_sim">Series IV. Epidemiological Research Records</field>
+    <field name="series_si">Series IV. Epidemiological Research Records &gt;&gt; Subseries B. Health Questionnaire / Cedula de Salud</field>
+    <field name="heading_ssm">Subseries B. Health Questionnaire / Cedula de Salud</field>
+    <field name="unitdate_start_sim">1964</field>
+    <field name="unitdate_start_ssm">1964</field>
+    <field name="unitdate_start_si">1964</field>
+    <field name="unitdate_end_sim">1965</field>
+    <field name="unitdate_end_ssm">1965</field>
+    <field name="unitdate_end_si">1965</field>
+    <field name="unitdate_ssm">Inclusive, 1964-1965</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">131</field>
+  </doc>
+</add>

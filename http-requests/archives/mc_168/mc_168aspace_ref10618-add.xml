@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_168aspace_ref10618</field>
+    <field name="ead_ssi">mc_168</field>
+    <field name="parent_ssi">aspace_ref7795</field>
+    <field name="parent_ssm">aspace_ref7795</field>
+    <field name="parent_unittitles_ssm">Series III: Media</field>
+    <field name="parent_unittitles_teim">Series III: Media</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Brademas Congressional Papers</field>
+    <field name="collection_ssm">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries IV: Clippings</field>
+    <field name="unittitle_teim">Subseries IV: Clippings</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/613918</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/613918</field>
+    <field name="scopecontent_teim">Although clippings are found throughout the collection, staff filed certain articles focusing on Brademas independently. Files measure .75 linear feet and are arranged alphabetically by topic. Most clippings from local newspapers are located in the folders labeled "Clippings." Additional files contain individual articles generally from specialty or national publications.</field>
+    <field name="ref_ssi">aspace_ref10618</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="series_sim">Series III: Media</field>
+    <field name="series_si">Series III: Media &gt;&gt; Subseries IV: Clippings</field>
+    <field name="heading_ssm">Subseries IV: Clippings</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">5306</field>
+  </doc>
+</add>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="author_teim">A.J. Muhammad.</field>
+    <field name="author_ssm">A.J. Muhammad.</field>
+    <field name="unittitle_teim">Records of the Northern Dispensary</field>
+    <field name="unittitle_ssm">Records of the Northern Dispensary</field>
+    <field name="unitid_teim">MC.99</field>
+    <field name="unitid_ssm">MC.99</field>
+    <field name="abstract_teim">The Northern Dispensary of the City of New York was founded in 1827, and incorporated a year later by a group of private citizens to offer medical care at minimal or no cost to the poor in lower Manhattan.  The Dispensary moved to a triangular-shaped building (which is a historical landmark) at the intersection of Christopher Street, Waverly Place, and Grove Street in Manhattan's Greenwich Village in 1831.  The Northern Dispensary records span from 1827 through the 1950s and include annual reports, minutes of the board, executive committee meetings, logs of applicants who applied to work as physicians and visiting committees, as well as photographs and illustrations.</field>
+    <field name="abstract_ssm">The Northern Dispensary of the City of New York was founded in 1827, and incorporated a year later by a group of private citizens to offer medical care at minimal or no cost to the poor in lower Manhattan.  The Dispensary moved to a triangular-shaped building (which is a historical landmark) at the intersection of Christopher Street, Waverly Place, and Grove Street in Manhattan's Greenwich Village in 1831.  The Northern Dispensary records span from 1827 through the 1950s and include annual reports, minutes of the board, executive committee meetings, logs of applicants who applied to work as physicians and visiting committees, as well as photographs and illustrations.</field>
+    <field name="unitdate_normal_ssm">1827/1955</field>
+    <field name="unitdate_normal_teim">1827/1955</field>
+    <field name="unitdate_normal_sim">1827/1955</field>
+    <field name="unitdate_inclusive_teim">1827-1955</field>
+    <field name="scopecontent_teim">The Dispensary records consists of documents from the inception of the Dispensary in 1827 through the 1950s, and they include minutes of the board (minutes of regular and special meetings, reports of the treasurer, visiting doctor, donor and staff listings); executive committee minutes; a log of visiting committees that visited the Dispensary; another log of applicants for the position as physicians to the Nothern Dispensary with resume synopses; and annual reports.  There are also photographs of board members and physicians treating patients at the Dispensary and illustrations of the Dispensary building, as well as the surrounding area from the Dispensary.</field>
+    <field name="bioghist_teim">The Northern Dispensary of the City of New York was founded in 1827 and incorporated in 1928 by a group of private citizens to provide medical care at minimal or no cost to the needy and indigent in lower Manhattan.  In 1831 the Dispensary moved to a tringular-shaped building, located at the intersection of Waverly Place, Grove Street and Christopher Street, in Manhattan's Greenwich Village.  After World War II the Dispensary became a dental clinic and remained open until 1989, at which time it closed due to a funding shortage.  Subsequently, the building, which is an historical landmark, was transferred to the Roman Catholic Archdiocese of New York.</field>
+    <field name="phystech_teim">Annual Report, Volume 1 - 20 (1827-1847) is extremely fragile and may require mediated access.</field>
+    <field name="corpname_teim">New York University Archives</field>
+    <field name="corpname_teim">Northern Dispensary (New York, N.Y.)</field>
+    <field name="corpname_ssm">New York University Archives</field>
+    <field name="corpname_ssm">Northern Dispensary (New York, N.Y.)</field>
+    <field name="collection_sim">Records of the Northern Dispensary</field>
+    <field name="collection_ssm">Records of the Northern Dispensary</field>
+    <field name="collection_teim">Records of the Northern Dispensary</field>
+    <field name="id">mc_99</field>
+    <field name="ead_ssi">mc_99</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Collection</field>
+    <field name="format_ssm">Archival Collection</field>
+    <field name="format_ii">0</field>
+    <field name="name_sim">Northern Dispensary (New York, N.Y.)</field>
+    <field name="name_teim">Northern Dispensary (New York, N.Y.)</field>
+    <field name="heading_ssm">Records of the Northern Dispensary</field>
+    <field name="unitdate_start_sim">1827</field>
+    <field name="unitdate_start_ssm">1827</field>
+    <field name="unitdate_start_si">1827</field>
+    <field name="unitdate_end_sim">1955</field>
+    <field name="unitdate_end_ssm">1955</field>
+    <field name="unitdate_end_si">1955</field>
+    <field name="unitdate_ssm">Inclusive, 1827-1955</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+  </doc>
+</add>

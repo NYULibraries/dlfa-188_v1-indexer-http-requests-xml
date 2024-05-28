@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_151aspace_ref22</field>
+    <field name="ead_ssi">mc_151</field>
+    <field name="parent_ssi">aspace_ref21</field>
+    <field name="parent_ssm">aspace_ref21</field>
+    <field name="parent_unittitles_ssm">Series I: Book Copy</field>
+    <field name="parent_unittitles_teim">Series I: Book Copy</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Abby Weed Grey Papers</field>
+    <field name="collection_ssm">Abby Weed Grey Papers</field>
+    <field name="collection_unitid_ssm">MC.151</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Edited, 1960-1979</field>
+    <field name="unittitle_teim">Subseries A: Edited, 1960-1979</field>
+    <field name="scopecontent_teim">Contains edited drafts of Abby Weed Grey's book, published in 1983, The Picture is the Window, The Window is the Picture. They are arranged in page order and chronological order beginning with her "early years" pages 1-39. The dates included in the manuscript begin in 1902 (her birth) with earlier dates for family history. Last date on copy is 1979. Also included are notes on the organization of the book and notes on writing a book.</field>
+    <field name="ref_ssi">aspace_ref22</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Abby Weed Grey Papers</field>
+    <field name="collection_unitid_teim">MC.151</field>
+    <field name="series_sim">Series I: Book Copy</field>
+    <field name="series_si">Series I: Book Copy &gt;&gt; Subseries A: Edited, 1960-1979</field>
+    <field name="heading_ssm">Subseries A: Edited, 1960-1979</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

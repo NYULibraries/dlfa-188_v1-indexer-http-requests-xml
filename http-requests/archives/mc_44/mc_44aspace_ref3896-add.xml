@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_44aspace_ref3896</field>
+    <field name="ead_ssi">mc_44</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Bayrd Still Papers</field>
+    <field name="collection_ssm">Bayrd Still Papers</field>
+    <field name="collection_unitid_ssm">MC.44/repositories/6/resources/2063</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series V: Correspondence</field>
+    <field name="unittitle_teim">Series V: Correspondence</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/632782</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/632782</field>
+    <field name="unitdate_normal_ssm">1949/1985</field>
+    <field name="unitdate_normal_ssm">1962/1977</field>
+    <field name="unitdate_normal_teim">1949/1985</field>
+    <field name="unitdate_normal_teim">1962/1977</field>
+    <field name="unitdate_normal_sim">1949/1985</field>
+    <field name="unitdate_normal_sim">1962/1977</field>
+    <field name="unitdate_bulk_teim">1962-1977</field>
+    <field name="unitdate_inclusive_teim">1949-1985</field>
+    <field name="scopecontent_teim">Series V contains Still's correspondence regarding his work at NYU and research for the New York City Landmarks project. It also contains clippings, correspondence, and other materials related to Still's book Urban America and a Greenwich Village Walking Tour organized by Still.</field>
+    <field name="ref_ssi">aspace_ref3896</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Bayrd Still Papers</field>
+    <field name="collection_unitid_teim">MC.44/repositories/6/resources/2063</field>
+    <field name="series_si">Series V: Correspondence</field>
+    <field name="heading_ssm">Series V: Correspondence</field>
+    <field name="unitdate_start_sim">1949</field>
+    <field name="unitdate_start_sim">1962</field>
+    <field name="unitdate_start_ssm">1949</field>
+    <field name="unitdate_start_ssm">1962</field>
+    <field name="unitdate_start_si">1962</field>
+    <field name="unitdate_end_sim">1985</field>
+    <field name="unitdate_end_sim">1977</field>
+    <field name="unitdate_end_ssm">1985</field>
+    <field name="unitdate_end_ssm">1977</field>
+    <field name="unitdate_end_si">1977</field>
+    <field name="unitdate_ssm">Inclusive, 1949-1985 ; 1962-1977</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1248</field>
+  </doc>
+</add>

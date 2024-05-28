@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1272</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Untitled Anatomy lecture</field>
+    <field name="unittitle_teim">Untitled Anatomy lecture</field>
+    <field name="unitid_teim">AV2023c</field>
+    <field name="unitid_ssm">AV2023c</field>
+    <field name="scopecontent_teim">The first 7:30 of recording appear to be part of an anatomy class in which the lecturer discusses several bones and muscle groups and even has a drummer perform in order to demonstrate how parts of the body work. Original tape held this recording and two lectures by Floyd Zulli for his "Have You Read...?" class on Sunrise Semester. Recordings on this reel can be identified by Unique Identifiers beginning with 2023.</field>
+    <field name="subject_teim">Anatomy.</field>
+    <field name="subject_teim">Anatomy.</field>
+    <field name="subject_ssm">Anatomy.</field>
+    <field name="ref_ssi">aspace_ref1272</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_si">Box: 2</field>
+    <field name="subject_sim">Anatomy.</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Untitled Anatomy lecture</field>
+    <field name="heading_ssm">Untitled Anatomy lecture</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">799</field>
+  </doc>
+</add>

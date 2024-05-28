@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_10_2aspace_ref29</field>
+    <field name="ead_ssi">rg_10_2</field>
+    <field name="parent_ssi">aspace_ref14</field>
+    <field name="parent_ssm">aspace_ref14</field>
+    <field name="parent_unittitles_ssm">Series I: Reports</field>
+    <field name="parent_unittitles_teim">Series I: Reports</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Office of the Treasurer</field>
+    <field name="collection_ssm">Records of the Office of the Treasurer</field>
+    <field name="collection_unitid_ssm">RG.10.2</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">NYU Report of the Treasurer</field>
+    <field name="unittitle_teim">NYU Report of the Treasurer</field>
+    <field name="unitdate_normal_ssm">1949/1950</field>
+    <field name="unitdate_normal_teim">1949/1950</field>
+    <field name="unitdate_normal_sim">1949/1950</field>
+    <field name="unitdate_inclusive_teim">1949-1950</field>
+    <field name="ref_ssi">aspace_ref29</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">Records of the Office of the Treasurer</field>
+    <field name="collection_unitid_teim">RG.10.2</field>
+    <field name="series_sim">Series I: Reports</field>
+    <field name="series_si">Series I: Reports &gt;&gt; NYU Report of the Treasurer</field>
+    <field name="heading_ssm">NYU Report of the Treasurer</field>
+    <field name="unitdate_start_sim">1949</field>
+    <field name="unitdate_start_ssm">1949</field>
+    <field name="unitdate_start_si">1949</field>
+    <field name="unitdate_end_sim">1950</field>
+    <field name="unitdate_end_ssm">1950</field>
+    <field name="unitdate_end_si">1950</field>
+    <field name="unitdate_ssm">Inclusive, 1949-1950</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">9</field>
+  </doc>
+</add>

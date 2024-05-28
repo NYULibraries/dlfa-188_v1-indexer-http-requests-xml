@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_vf_001aspace_ref6063</field>
+    <field name="ead_ssi">rism_vf_001</field>
+    <field name="parent_ssi">aspace_ref6062</field>
+    <field name="parent_ssm">aspace_ref6010</field>
+    <field name="parent_ssm">aspace_ref6062</field>
+    <field name="parent_unittitles_ssm">Dominica</field>
+    <field name="parent_unittitles_ssm">Dominica: Creole Dialects, French</field>
+    <field name="parent_unittitles_teim">Dominica</field>
+    <field name="parent_unittitles_teim">Dominica: Creole Dialects, French</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_ssm">RISM.VF.001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Complements of Factive and Inceptive Verbs in Dominican French Creole</field>
+    <field name="unittitle_teim">Complements of Factive and Inceptive Verbs in Dominican French Creole</field>
+    <field name="unitid_teim">RISM 17778</field>
+    <field name="unitid_ssm">RISM 17778</field>
+    <field name="unitdate_normal_ssm">1988/1988</field>
+    <field name="unitdate_normal_teim">1988/1988</field>
+    <field name="unitdate_normal_sim">1988/1988</field>
+    <field name="unitdate_inclusive_teim">1988</field>
+    <field name="geogname_teim">Dominica.</field>
+    <field name="geogname_ssm">Dominica.</field>
+    <field name="persname_teim">Amastae, Jon</field>
+    <field name="persname_ssm">Amastae, Jon</field>
+    <field name="subject_teim">Creole dialects, French.</field>
+    <field name="subject_teim">Creole dialects, French.</field>
+    <field name="subject_ssm">Creole dialects, French.</field>
+    <field name="ref_ssi">aspace_ref6063</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 9</field>
+    <field name="location_si">Box: 9</field>
+    <field name="name_sim">Amastae, Jon</field>
+    <field name="name_teim">Amastae, Jon</field>
+    <field name="place_ssm">Dominica.</field>
+    <field name="place_sim">Dominica.</field>
+    <field name="subject_sim">Creole dialects, French.</field>
+    <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_teim">RISM.VF.001</field>
+    <field name="series_sim">Dominica</field>
+    <field name="series_sim">Dominica: Creole Dialects, French</field>
+    <field name="series_si">Dominica &gt;&gt; Dominica: Creole Dialects, French &gt;&gt; Complements of Factive and Inceptive Verbs in Dominican French Creole</field>
+    <field name="heading_ssm">Complements of Factive and Inceptive Verbs in Dominican French Creole</field>
+    <field name="unitdate_start_sim">1988</field>
+    <field name="unitdate_start_ssm">1988</field>
+    <field name="unitdate_start_si">1988</field>
+    <field name="unitdate_end_sim">1988</field>
+    <field name="unitdate_end_ssm">1988</field>
+    <field name="unitdate_end_si">1988</field>
+    <field name="unitdate_ssm">Inclusive, 1988</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">2165</field>
+  </doc>
+</add>

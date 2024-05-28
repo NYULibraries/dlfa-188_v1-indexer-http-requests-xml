@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_rg_9aspace_ref46</field>
+    <field name="ead_ssi">rism_rg_9</field>
+    <field name="parent_ssi">aspace_ref27</field>
+    <field name="parent_ssm">aspace_ref27</field>
+    <field name="parent_unittitles_ssm">Series II: Ford Foundation Records</field>
+    <field name="parent_unittitles_teim">Series II: Ford Foundation Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Guide to Records of the Interuniversity Consortium</field>
+    <field name="collection_ssm">Guide to Records of the Interuniversity Consortium</field>
+    <field name="collection_unitid_ssm">RISM.RG.9</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Budget- Consortium- Year 1</field>
+    <field name="unittitle_teim">Budget- Consortium- Year 1</field>
+    <field name="unitdate_normal_ssm">1966/1966</field>
+    <field name="unitdate_normal_teim">1966/1966</field>
+    <field name="unitdate_normal_sim">1966/1966</field>
+    <field name="unitdate_inclusive_teim">1966</field>
+    <field name="ref_ssi">aspace_ref46</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 4, Folder: 19</field>
+    <field name="location_ssm">Folder: 19</field>
+    <field name="location_si">Folder: 19</field>
+    <field name="collection_teim">Guide to Records of the Interuniversity Consortium</field>
+    <field name="collection_unitid_teim">RISM.RG.9</field>
+    <field name="series_sim">Series II: Ford Foundation Records</field>
+    <field name="series_si">Series II: Ford Foundation Records &gt;&gt; Budget- Consortium- Year 1</field>
+    <field name="heading_ssm">Budget- Consortium- Year 1</field>
+    <field name="unitdate_start_sim">1966</field>
+    <field name="unitdate_start_ssm">1966</field>
+    <field name="unitdate_start_si">1966</field>
+    <field name="unitdate_end_sim">1966</field>
+    <field name="unitdate_end_ssm">1966</field>
+    <field name="unitdate_end_si">1966</field>
+    <field name="unitdate_ssm">Inclusive, 1966</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">44</field>
+  </doc>
+</add>

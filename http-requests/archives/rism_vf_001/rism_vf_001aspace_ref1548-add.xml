@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_vf_001aspace_ref1548</field>
+    <field name="ead_ssi">rism_vf_001</field>
+    <field name="parent_ssi">aspace_ref1547</field>
+    <field name="parent_ssm">aspace_ref1543</field>
+    <field name="parent_ssm">aspace_ref1547</field>
+    <field name="parent_unittitles_ssm">Belize</field>
+    <field name="parent_unittitles_ssm">Belize: Agriculture</field>
+    <field name="parent_unittitles_teim">Belize</field>
+    <field name="parent_unittitles_teim">Belize: Agriculture</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_ssm">RISM.VF.001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Agriculture in British Honduras</field>
+    <field name="unittitle_teim">Agriculture in British Honduras</field>
+    <field name="unitid_teim">RISM 16703</field>
+    <field name="unitid_ssm">RISM 16703</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="geogname_teim">Belize.</field>
+    <field name="geogname_ssm">Belize.</field>
+    <field name="persname_teim">Dumont, René</field>
+    <field name="persname_ssm">Dumont, René</field>
+    <field name="subject_teim">Agriculture.</field>
+    <field name="subject_teim">Agriculture.</field>
+    <field name="subject_ssm">Agriculture.</field>
+    <field name="ref_ssi">aspace_ref1548</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_si">Box: 2</field>
+    <field name="name_sim">Dumont, René</field>
+    <field name="name_teim">Dumont, René</field>
+    <field name="place_ssm">Belize.</field>
+    <field name="place_sim">Belize.</field>
+    <field name="subject_sim">Agriculture.</field>
+    <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_teim">RISM.VF.001</field>
+    <field name="series_sim">Belize</field>
+    <field name="series_sim">Belize: Agriculture</field>
+    <field name="series_si">Belize &gt;&gt; Belize: Agriculture &gt;&gt; Agriculture in British Honduras</field>
+    <field name="heading_ssm">Agriculture in British Honduras</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">593</field>
+  </doc>
+</add>

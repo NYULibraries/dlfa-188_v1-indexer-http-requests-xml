@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref599</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Lecture: Erwin Panofsky on Titian (Lecture 3) (tape 8 of 9)</field>
+    <field name="unittitle_teim">Lecture: Erwin Panofsky on Titian (Lecture 3) (tape 8 of 9)</field>
+    <field name="unitid_teim">AV3154</field>
+    <field name="unitid_ssm">AV3154</field>
+    <field name="unitdate_teim">[1963]</field>
+    <field name="scopecontent_teim">The University Archives does not have tapes representing lectures 1, 6, and 7 in this series.</field>
+    <field name="phystech_teim">Original format: 1/4" open reel
+Original stock: Scotch 1.5 mil acetate, 7" reel</field>
+    <field name="persname_teim">Panofsky, Erwin, 1892-1968</field>
+    <field name="persname_teim">Titian, approximately 1488-1576</field>
+    <field name="persname_ssm">Panofsky, Erwin, 1892-1968</field>
+    <field name="persname_ssm">Titian, approximately 1488-1576</field>
+    <field name="ref_ssi">aspace_ref599</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 87, reel: 3154</field>
+    <field name="location_ssm">reel: 3154</field>
+    <field name="location_si">reel: 3154</field>
+    <field name="name_sim">Panofsky, Erwin, 1892-1968</field>
+    <field name="name_sim">Titian, approximately 1488-1576</field>
+    <field name="name_teim">Panofsky, Erwin, 1892-1968</field>
+    <field name="name_teim">Titian, approximately 1488-1576</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Lecture: Erwin Panofsky on Titian (Lecture 3) (tape 8 of 9)</field>
+    <field name="heading_ssm">Lecture: Erwin Panofsky on Titian (Lecture 3) (tape 8 of 9)</field>
+    <field name="unitdate_ssm">[1963]</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">758</field>
+  </doc>
+</add>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ba776be07dafd11c24b8d9b0ecfa4930</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">First N.Y.S. Conf. on the Victims of Alcoholism (Workshop) </field>
+    <field name="unittitle_teim">First N.Y.S. Conf. on the Victims of Alcoholism (Workshop) </field>
+    <field name="unitid_teim">AV5021</field>
+    <field name="unitid_ssm">AV5021</field>
+    <field name="phystech_teim">Format: 1/2" open reel video; Duration: 60 min; Transfer Technician Notes: "Entirety of tape suffers from a constant control track error. Multiple TBCs were tested to obtain the best capture possible. Content suffers from persistent skew error affecting the entire frame, as well as flagging and image jitter throughout. Aside from these anomalies, there are occasional instances of minor dropouts and tape wear. Occasional inherent exposure adjustments. Audio distortion is inherent to the original recording."</field>
+    <field name="dao_teim">First N.Y.S. Conf. on the Victims of Alcoholism (Workshop)</field>
+    <field name="dao_ssm">First N.Y.S. Conf. on the Victims of Alcoholism (Workshop)</field>
+    <field name="ref_ssi">aspace_ba776be07dafd11c24b8d9b0ecfa4930</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 53, reel: AV5021</field>
+    <field name="location_ssm">reel: AV5021</field>
+    <field name="location_si">reel: AV5021</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; First N.Y.S. Conf. on the Victims of Alcoholism (Workshop) </field>
+    <field name="heading_ssm">First N.Y.S. Conf. on the Victims of Alcoholism (Workshop) </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">952</field>
+  </doc>
+</add>

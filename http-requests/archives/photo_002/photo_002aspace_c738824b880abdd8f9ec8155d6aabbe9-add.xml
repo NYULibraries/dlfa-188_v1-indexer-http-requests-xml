@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photo_002aspace_c738824b880abdd8f9ec8155d6aabbe9</field>
+    <field name="ead_ssi">photo_002</field>
+    <field name="parent_ssi">aspace_ref661</field>
+    <field name="parent_ssm">aspace_ref661</field>
+    <field name="parent_unittitles_ssm">Series II: Glass Plates</field>
+    <field name="parent_unittitles_teim">Series II: Glass Plates</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Historic Photographs and Drawings Collection</field>
+    <field name="collection_ssm">Historic Photographs and Drawings Collection</field>
+    <field name="collection_unitid_ssm">Photo.002/repositories/6/resources/2115</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Glass plate negatives (slide box #1 and #2)</field>
+    <field name="unittitle_teim">Glass plate negatives (slide box #1 and #2)</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/843236</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/843236</field>
+    <field name="unitdate_normal_ssm">1883/1930</field>
+    <field name="unitdate_normal_teim">1883/1930</field>
+    <field name="unitdate_normal_sim">1883/1930</field>
+    <field name="unitdate_inclusive_teim">1883-1930</field>
+    <field name="ref_ssi">aspace_c738824b880abdd8f9ec8155d6aabbe9</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: Shared University Archives 019</field>
+    <field name="location_ssm">Box: Shared University Archives 020</field>
+    <field name="location_si">Box: Shared University Archives 020</field>
+    <field name="collection_teim">Historic Photographs and Drawings Collection</field>
+    <field name="collection_unitid_teim">Photo.002/repositories/6/resources/2115</field>
+    <field name="series_sim">Series II: Glass Plates</field>
+    <field name="series_si">Series II: Glass Plates &gt;&gt; Glass plate negatives (slide box #1 and #2)</field>
+    <field name="heading_ssm">Glass plate negatives (slide box #1 and #2)</field>
+    <field name="unitdate_start_sim">1883</field>
+    <field name="unitdate_start_ssm">1883</field>
+    <field name="unitdate_start_si">1883</field>
+    <field name="unitdate_end_sim">1930</field>
+    <field name="unitdate_end_ssm">1930</field>
+    <field name="unitdate_end_si">1930</field>
+    <field name="unitdate_ssm">Inclusive, 1883-1930</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">413</field>
+  </doc>
+</add>

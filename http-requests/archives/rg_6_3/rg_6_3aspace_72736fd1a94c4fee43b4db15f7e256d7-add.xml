@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_6_3aspace_72736fd1a94c4fee43b4db15f7e256d7</field>
+    <field name="ead_ssi">rg_6_3</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Office of Institutional Research and Planning</field>
+    <field name="collection_ssm">Records of the Office of Institutional Research and Planning</field>
+    <field name="collection_unitid_ssm">RG.6.3</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II: Archived Website</field>
+    <field name="unittitle_teim">Series II: Archived Website</field>
+    <field name="unitdate_normal_ssm">2017/2017</field>
+    <field name="unitdate_normal_teim">2017/2017</field>
+    <field name="unitdate_normal_sim">2017/2017</field>
+    <field name="unitdate_teim">2017-ongoing</field>
+    <field name="scopecontent_teim">This series contains the website for the Factbook, which is made up of statistics on personnel for New York University dating back to 2008. Since 2015, the university used Tableau, a visualization software, to display statistics and also compiled statistics in PDF form. The statistics document enrollment and admission rates, enrollment by race and sex, graduation and rentention rates, financial aid, faculty and staff statistics by race and sex, and tuition.</field>
+    <field name="appraisal_teim">Crawls were expanded to include PDFs and Tableau. The public link to the Tableau table was added to the web archives to attempt to achieve a more navigable crawl but was not added to the finding aid.</field>
+    <field name="phystech_teim">Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</field>
+    <field name="phystech_teim">Tableau graph is inconsistently captured.</field>
+    <field name="dao_teim">Factbook Archived Website: March 2017-ongoing</field>
+    <field name="dao_ssm">Factbook Archived Website: March 2017-ongoing</field>
+    <field name="ref_ssi">aspace_72736fd1a94c4fee43b4db15f7e256d7</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Records of the Office of Institutional Research and Planning</field>
+    <field name="collection_unitid_teim">RG.6.3</field>
+    <field name="series_si">Series II: Archived Website</field>
+    <field name="heading_ssm">Series II: Archived Website</field>
+    <field name="unitdate_start_sim">2017</field>
+    <field name="unitdate_start_ssm">2017</field>
+    <field name="unitdate_start_si">2017</field>
+    <field name="unitdate_end_sim">2017</field>
+    <field name="unitdate_end_ssm">2017</field>
+    <field name="unitdate_end_si">2017</field>
+    <field name="unitdate_ssm">2017-ongoing</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">98</field>
+  </doc>
+</add>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_mc_1aspace_ref995</field>
+    <field name="ead_ssi">rism_mc_1</field>
+    <field name="parent_ssi">aspace_ref978</field>
+    <field name="parent_ssm">aspace_ref978</field>
+    <field name="parent_unittitles_ssm">Series X. Material from Frank Snowden Hopkins</field>
+    <field name="parent_unittitles_teim">Series X. Material from Frank Snowden Hopkins</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Carl L. Withers Manuscript Collection</field>
+    <field name="collection_ssm">Carl L. Withers Manuscript Collection</field>
+    <field name="collection_unitid_ssm">RISM.MC.1</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Grant application, RESTRICTED</field>
+    <field name="unittitle_teim">Grant application, RESTRICTED</field>
+    <field name="unitdate_teim">1959-1960</field>
+    <field name="ref_ssi">aspace_ref995</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Carl L. Withers Manuscript Collection</field>
+    <field name="collection_unitid_teim">RISM.MC.1</field>
+    <field name="series_sim">Series X. Material from Frank Snowden Hopkins</field>
+    <field name="series_si">Series X. Material from Frank Snowden Hopkins &gt;&gt; Grant application, RESTRICTED</field>
+    <field name="heading_ssm">Grant application, RESTRICTED</field>
+    <field name="unitdate_ssm">1959-1960</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">890</field>
+  </doc>
+</add>

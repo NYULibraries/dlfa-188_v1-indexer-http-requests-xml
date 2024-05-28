@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_20_9aspace_ref1350</field>
+    <field name="ead_ssi">rg_20_9</field>
+    <field name="parent_ssi">aspace_ref976</field>
+    <field name="parent_ssm">aspace_ref293</field>
+    <field name="parent_ssm">aspace_ref976</field>
+    <field name="parent_unittitles_ssm">Series VI: Media</field>
+    <field name="parent_unittitles_ssm">1994-1999</field>
+    <field name="parent_unittitles_teim">Series VI: Media</field>
+    <field name="parent_unittitles_teim">1994-1999</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Public History Program</field>
+    <field name="collection_ssm">Records of the Public History Program</field>
+    <field name="collection_unitid_ssm">RG.20.9</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">'Midwife's Tale,' PBS, 1998</field>
+    <field name="unittitle_teim">'Midwife's Tale,' PBS, 1998</field>
+    <field name="unitid_teim">cuid3558</field>
+    <field name="unitid_ssm">cuid3558</field>
+    <field name="unitdate_normal_ssm">1998/1998</field>
+    <field name="unitdate_normal_teim">1998/1998</field>
+    <field name="unitdate_normal_sim">1998/1998</field>
+    <field name="unitdate_inclusive_teim">1998</field>
+    <field name="phystech_teim">VHS Cassette Tape</field>
+    <field name="ref_ssi">aspace_ref1350</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 16, object: 21</field>
+    <field name="location_ssm">object: 21</field>
+    <field name="location_si">object: 21</field>
+    <field name="collection_teim">Records of the Public History Program</field>
+    <field name="collection_unitid_teim">RG.20.9</field>
+    <field name="series_sim">Series VI: Media</field>
+    <field name="series_sim">1994-1999</field>
+    <field name="series_si">Series VI: Media &gt;&gt; 1994-1999 &gt;&gt; 'Midwife's Tale,' PBS, 1998</field>
+    <field name="heading_ssm">'Midwife's Tale,' PBS, 1998</field>
+    <field name="unitdate_start_sim">1998</field>
+    <field name="unitdate_start_ssm">1998</field>
+    <field name="unitdate_start_si">1998</field>
+    <field name="unitdate_end_sim">1998</field>
+    <field name="unitdate_end_ssm">1998</field>
+    <field name="unitdate_end_si">1998</field>
+    <field name="unitdate_ssm">Inclusive, 1998</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">560</field>
+  </doc>
+</add>

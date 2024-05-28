@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1140</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Highlights in Jazz #14: Odetta, David Amram, Pepper Adams, Jerry Dodgion, Herb Bushler, Al Harewood</field>
+    <field name="unittitle_teim">Highlights in Jazz #14: Odetta, David Amram, Pepper Adams, Jerry Dodgion, Herb Bushler, Al Harewood</field>
+    <field name="unitid_teim">cuid656</field>
+    <field name="unitid_ssm">cuid656</field>
+    <field name="unitdate_normal_ssm">1974-05-06/1974-05-06</field>
+    <field name="unitdate_normal_teim">1974-05-06/1974-05-06</field>
+    <field name="unitdate_normal_sim">1974-05-06/1974-05-06</field>
+    <field name="unitdate_teim">1974-05-06</field>
+    <field name="scopecontent_teim">This concert took place at the Eisner &amp; Lubin Auditorium at the Loeb Student Center at New York University.</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes AV2908: "Content plays mostly well throughout. Image jitter persists, especially near beginning and end of tape. Occasional dropouts and mild tape wear throughout, with a couple instances of tape damage. Occasional tracking noise. Head switch error visible throughout. Mild inherent audio distortion. Content is inherently without audio for first minute."</field>
+    <field name="phystech_teim">
+Transfer Technician Notes AV2909: "This tape suffers from severe inherent sync errors that result in persistent image jitter and a high head switch error. Multiple captures were performed using combinations of different capture decks and TBCs, and this file represents the best capture possible. Aside from the aforementioned errors, glare from Odetta's guitar triggers an auto-exposure response from the TBC that severely dims the picture. Again, this error was troubleshooted using multiple TBCs, and could not be corrected. The glare occasionally clips the luma. Occasional tape wear and damage occur throughout. Audio distortion is inherent to original recording."</field>
+    <field name="genreform_teim">Jazz</field>
+    <field name="genreform_ssm">Jazz</field>
+    <field name="persname_teim">Kleinsinger, Jack</field>
+    <field name="persname_teim">Amram, David</field>
+    <field name="persname_teim">Odetta, 1930-2008</field>
+    <field name="persname_ssm">Kleinsinger, Jack</field>
+    <field name="persname_ssm">Amram, David</field>
+    <field name="persname_ssm">Odetta, 1930-2008</field>
+    <field name="dao_teim">Highlights in Jazz #14: Odetta, David Amram, Pepper Adams, Jerry Dodgion, Herb Bushler, Al Harewood</field>
+    <field name="dao_teim">Highlights in Jazz #14: Odetta, David Amram, Pepper Adams, Jerry Dodgion, Herb Bushler, Al Harewood</field>
+    <field name="dao_ssm">Highlights in Jazz #14: Odetta, David Amram, Pepper Adams, Jerry Dodgion, Herb Bushler, Al Harewood</field>
+    <field name="dao_ssm">Highlights in Jazz #14: Odetta, David Amram, Pepper Adams, Jerry Dodgion, Herb Bushler, Al Harewood</field>
+    <field name="ref_ssi">aspace_ref1140</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 53, reel: 2908</field>
+    <field name="location_ssm">reel: 2908</field>
+    <field name="location_ssm">Box: 156, reel: 2909</field>
+    <field name="location_ssm">reel: 2909</field>
+    <field name="location_si">reel: 2909</field>
+    <field name="name_sim">Kleinsinger, Jack</field>
+    <field name="name_sim">Amram, David</field>
+    <field name="name_sim">Odetta, 1930-2008</field>
+    <field name="name_teim">Kleinsinger, Jack</field>
+    <field name="name_teim">Amram, David</field>
+    <field name="name_teim">Odetta, 1930-2008</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Highlights in Jazz #14: Odetta, David Amram, Pepper Adams, Jerry Dodgion, Herb Bushler, Al Harewood</field>
+    <field name="material_type_sim">Jazz</field>
+    <field name="material_type_ssm">Jazz</field>
+    <field name="heading_ssm">Highlights in Jazz #14: Odetta, David Amram, Pepper Adams, Jerry Dodgion, Herb Bushler, Al Harewood</field>
+    <field name="unitdate_ssm">1974-05-06</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">645</field>
+  </doc>
+</add>

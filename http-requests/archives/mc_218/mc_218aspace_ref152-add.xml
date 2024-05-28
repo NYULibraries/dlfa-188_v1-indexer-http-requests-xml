@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_218aspace_ref152</field>
+    <field name="ead_ssi">mc_218</field>
+    <field name="parent_ssi">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_unittitles_ssm">Glass plate negatives</field>
+    <field name="parent_unittitles_teim">Glass plate negatives</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Sailors' Snug Harbor Image Collection</field>
+    <field name="collection_ssm">Sailors' Snug Harbor Image Collection</field>
+    <field name="collection_unitid_ssm">MC.218</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Plate 44 </field>
+    <field name="unittitle_teim">Plate 44 </field>
+    <field name="unitid_teim">ssh_44</field>
+    <field name="unitid_ssm">ssh_44</field>
+    <field name="unitdate_normal_ssm">1895/1905</field>
+    <field name="unitdate_normal_teim">1895/1905</field>
+    <field name="unitdate_normal_sim">1895/1905</field>
+    <field name="unitdate_inclusive_teim">1895-1905</field>
+    <field name="dao_teim">Plate 44 : 1895-1905</field>
+    <field name="dao_ssm">Plate 44 : 1895-1905</field>
+    <field name="ref_ssi">aspace_ref152</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 6, Item: 5</field>
+    <field name="location_ssm">Item: 5</field>
+    <field name="location_si">Item: 5</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Sailors' Snug Harbor Image Collection</field>
+    <field name="collection_unitid_teim">MC.218</field>
+    <field name="series_sim">Glass plate negatives</field>
+    <field name="series_si">Glass plate negatives &gt;&gt; Plate 44 </field>
+    <field name="heading_ssm">Plate 44 </field>
+    <field name="unitdate_start_sim">1895</field>
+    <field name="unitdate_start_ssm">1895</field>
+    <field name="unitdate_start_si">1895</field>
+    <field name="unitdate_end_sim">1905</field>
+    <field name="unitdate_end_ssm">1905</field>
+    <field name="unitdate_end_si">1905</field>
+    <field name="unitdate_ssm">Inclusive, 1895-1905</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">44</field>
+  </doc>
+</add>

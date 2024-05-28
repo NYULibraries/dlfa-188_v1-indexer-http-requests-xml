@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_209aspace_ref1999</field>
+    <field name="ead_ssi">mc_209</field>
+    <field name="parent_ssi">aspace_ref1860</field>
+    <field name="parent_ssm">aspace_ref1860</field>
+    <field name="parent_unittitles_ssm">Series VIII:  Sports Puzzles</field>
+    <field name="parent_unittitles_teim">Series VIII:  Sports Puzzles</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Larry Spruch Papers</field>
+    <field name="collection_ssm">Larry Spruch Papers</field>
+    <field name="collection_unitid_ssm">MC.209</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Baseball problems</field>
+    <field name="unittitle_teim">Baseball problems</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1999</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 40, Folder: 7</field>
+    <field name="location_ssm">Folder: 7</field>
+    <field name="location_si">Folder: 7</field>
+    <field name="collection_teim">Larry Spruch Papers</field>
+    <field name="collection_unitid_teim">MC.209</field>
+    <field name="series_sim">Series VIII:  Sports Puzzles</field>
+    <field name="series_si">Series VIII:  Sports Puzzles &gt;&gt; Baseball problems</field>
+    <field name="heading_ssm">Baseball problems</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1818</field>
+  </doc>
+</add>

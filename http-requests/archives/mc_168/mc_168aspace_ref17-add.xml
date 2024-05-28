@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_168aspace_ref17</field>
+    <field name="ead_ssi">mc_168</field>
+    <field name="parent_ssi">aspace_ref16</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref16</field>
+    <field name="parent_unittitles_ssm">Series I : Legislative</field>
+    <field name="parent_unittitles_ssm">Subseries I: Special Issues</field>
+    <field name="parent_unittitles_teim">Series I : Legislative</field>
+    <field name="parent_unittitles_teim">Subseries I: Special Issues</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Brademas Congressional Papers</field>
+    <field name="collection_ssm">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Subsubseries I: Nixon Tapes</field>
+    <field name="unittitle_teim">Subsubseries I: Nixon Tapes</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/608614</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/608614</field>
+    <field name="scopecontent_teim">The Nixon Tape Materials consist of 3 linear feet of material documenting Brademas' involvement in presidential records legislation beginning in September 1974 in response to the "Nixon-Sampson" agreement revealed by the White House. This agreement between former President Richard Nixon and Arthur Sampson, the Administrator of General Services Administration, granted Nixon control over his presidential materials and included provisions for the destruction of the materials. As chair of the Subcommittee on Printing of the House Administration, Brademas became the chief House sponsor of legislation leading to the Presidential Recordings and Materials Preservation Act, which nullified the Nixon-Sampson agreement and established the National Study Commission on Records and Documents of Federal Officials to study the status of records created by the President and other elected and appointed federal officials and make recommendations to Congress. This series documents the development of that legislation as well as the Presidential Records Act of 1978, which declared that Presidents could no longer claim title to their papers.</field>
+    <field name="scopecontent_teim">Materials include drafts of bills; correspondence; statements, testimony, and corrected hearings transcripts; memoranda; background reports; letters from constituents and various lobbyists, agencies, organizations and businesses; news clippings; and various drafts of reports by the General Services Administration (GSA) and the National Study Commission on Records and Documents of Federal Officials. Materials are arranged alphabetically by subject.</field>
+    <field name="scopecontent_teim">Folders related to the Presidential Recordings &amp; Materials Preservation Act document the development of the initial legislation (Box I:02, Folders 19-23; Box I:03, Folders 21-27); the establishment and staffing of the National Study Commission on Records and Documents of Federal Officials (Box I:01, Folder 7-12); and the development and approval of the Commission's regulations for the disposition and preservation of records and documents of Federal officials (Box I:01, Folders 13-22; Box I:02, Folders 1-3, 14-18, 24-32; Box I:03, Folders 1-8).</field>
+    <field name="scopecontent_teim">Consult folders on the Ertel Bill, Presidential Records Act of 1978, and Preyer Bill for information regarding efforts to develop presidential records legislation. Materials include drafts of bills, reports and publications related to legislative records, staff memoranda discussing negotiations with various representatives and staff members including Representative Allen Ertel (D-PA), Representative Lunsford Preyer (D-NC), Administration staff, and members of the Subcommittee on Government Information and Individual Rights of the Government Operations Committee.</field>
+    <field name="ref_ssi">aspace_ref17</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="series_sim">Series I : Legislative</field>
+    <field name="series_sim">Subseries I: Special Issues</field>
+    <field name="series_si">Series I : Legislative &gt;&gt; Subseries I: Special Issues &gt;&gt; Subsubseries I: Nixon Tapes</field>
+    <field name="heading_ssm">Subsubseries I: Nixon Tapes</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

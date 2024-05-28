@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1282</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Untitled Lecture: Episode of Social Philosophers of the Western World (partial)</field>
+    <field name="unittitle_teim">Untitled Lecture: Episode of Social Philosophers of the Western World (partial)</field>
+    <field name="unitid_teim">AV2035a</field>
+    <field name="unitid_ssm">AV2035a</field>
+    <field name="scopecontent_teim">Pulled from a tape supposed to be part of the recordings of the Sunrise Semester program, recording comprises an episode of Social Philosophers of the Western World presented by Meeta (sp?) and the City College of New York with Professor Henry M. Magid. Recording comprises only 34 minutes of the 60 minute lecture.</field>
+    <field name="persname_teim">Magid, Henry Meyer, 1917-</field>
+    <field name="persname_ssm">Magid, Henry Meyer, 1917-</field>
+    <field name="ref_ssi">aspace_ref1282</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="name_sim">Magid, Henry Meyer, 1917-</field>
+    <field name="name_teim">Magid, Henry Meyer, 1917-</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Untitled Lecture: Episode of Social Philosophers of the Western World (partial)</field>
+    <field name="heading_ssm">Untitled Lecture: Episode of Social Philosophers of the Western World (partial)</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">801</field>
+  </doc>
+</add>

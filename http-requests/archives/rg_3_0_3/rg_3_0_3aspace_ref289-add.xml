@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_3_0_3aspace_ref289</field>
+    <field name="ead_ssi">rg_3_0_3</field>
+    <field name="parent_ssi">aspace_ref288</field>
+    <field name="parent_ssm">aspace_ref287</field>
+    <field name="parent_ssm">aspace_ref288</field>
+    <field name="parent_unittitles_ssm">Series V: Governance</field>
+    <field name="parent_unittitles_ssm">University Council</field>
+    <field name="parent_unittitles_teim">Series V: Governance</field>
+    <field name="parent_unittitles_teim">University Council</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Office of the Chancellor (Henry MacCracken)</field>
+    <field name="collection_ssm">Records of the Office of the Chancellor (Henry MacCracken)</field>
+    <field name="collection_unitid_ssm">RG.3.0.3/repositories/6/resources/2171</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Minutes, reports, correspondence</field>
+    <field name="unittitle_teim">Minutes, reports, correspondence</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/662771</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/662771</field>
+    <field name="unitdate_normal_ssm">1893/1909</field>
+    <field name="unitdate_normal_teim">1893/1909</field>
+    <field name="unitdate_normal_sim">1893/1909</field>
+    <field name="unitdate_inclusive_teim">1893-1909, Undated</field>
+    <field name="ref_ssi">aspace_ref289</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 25, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Records of the Office of the Chancellor (Henry MacCracken)</field>
+    <field name="collection_unitid_teim">RG.3.0.3/repositories/6/resources/2171</field>
+    <field name="series_sim">Series V: Governance</field>
+    <field name="series_sim">University Council</field>
+    <field name="series_si">Series V: Governance &gt;&gt; University Council &gt;&gt; Minutes, reports, correspondence</field>
+    <field name="heading_ssm">Minutes, reports, correspondence</field>
+    <field name="unitdate_start_sim">1893</field>
+    <field name="unitdate_start_ssm">1893</field>
+    <field name="unitdate_start_si">1893</field>
+    <field name="unitdate_end_sim">1909</field>
+    <field name="unitdate_end_ssm">1909</field>
+    <field name="unitdate_end_si">1909</field>
+    <field name="unitdate_ssm">Inclusive, 1893-1909, Undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">271</field>
+  </doc>
+</add>

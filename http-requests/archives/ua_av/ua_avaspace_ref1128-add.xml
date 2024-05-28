@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1128</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Great Speakers Series 1974 #4: Dick Cavett</field>
+    <field name="unittitle_teim">Great Speakers Series 1974 #4: Dick Cavett</field>
+    <field name="unitid_teim">AV2897</field>
+    <field name="unitid_ssm">AV2897</field>
+    <field name="unitdate_normal_ssm">1974-03-13/1974-03-13</field>
+    <field name="unitdate_normal_teim">1974-03-13/1974-03-13</field>
+    <field name="unitdate_normal_sim">1974-03-13/1974-03-13</field>
+    <field name="unitdate_teim">1974-03-13</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes: "Content is almost entirely a static shot of Dick Cavett speaking at a podium. A persistent skew error affecting the bottom third of the frame is visible throughout. Much of the content suffers from moderate to severe flagging. Severe inherent audio distortion affects the fist 4 or 5 minutes of content, but is resolved following that. Moderate head switch error visible throughout. Content ends abruptly at tail."</field>
+    <field name="persname_teim">Cavett, Dick</field>
+    <field name="persname_ssm">Cavett, Dick</field>
+    <field name="dao_teim">Great Speakers Series 1974 #4: Dick Cavett</field>
+    <field name="dao_ssm">Great Speakers Series 1974 #4: Dick Cavett</field>
+    <field name="ref_ssi">aspace_ref1128</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 75, reel: 2897</field>
+    <field name="location_ssm">reel: 2897</field>
+    <field name="location_si">reel: 2897</field>
+    <field name="name_sim">Cavett, Dick</field>
+    <field name="name_teim">Cavett, Dick</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Great Speakers Series 1974 #4: Dick Cavett</field>
+    <field name="heading_ssm">Great Speakers Series 1974 #4: Dick Cavett</field>
+    <field name="unitdate_ssm">1974-03-13</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">638</field>
+  </doc>
+</add>

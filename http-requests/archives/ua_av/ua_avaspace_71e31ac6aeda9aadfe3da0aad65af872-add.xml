@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_71e31ac6aeda9aadfe3da0aad65af872</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">The NYU Lecture Series - Fall Semester 1982: "The Promise of Prosperity," Joyce Appleby, historian and author. Reel I of II.</field>
+    <field name="unittitle_teim">The NYU Lecture Series - Fall Semester 1982: "The Promise of Prosperity," Joyce Appleby, historian and author. Reel I of II.</field>
+    <field name="unitid_teim">AV289</field>
+    <field name="unitid_ssm">AV289</field>
+    <field name="unitdate_normal_ssm">1982-12-21/1982-12-21</field>
+    <field name="unitdate_normal_teim">1982-12-21/1982-12-21</field>
+    <field name="unitdate_normal_sim">1982-12-21/1982-12-21</field>
+    <field name="unitdate_teim">1982-12-21</field>
+    <field name="scopecontent_teim">Housing annotation: "For air 12/21/82, 8:30-9:30 pm."</field>
+    <field name="phystech_teim">Format: 1/4" Open Reel Audio, Duration: 29 min.</field>
+    <field name="ref_ssi">aspace_71e31ac6aeda9aadfe3da0aad65af872</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 7, reel: AV289</field>
+    <field name="location_ssm">reel: AV289</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: AV289</field>
+    <field name="location_ssm">file: AV289</field>
+    <field name="location_si">file: AV289</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; The NYU Lecture Series - Fall Semester 1982: "The Promise of Prosperity," Joyce Appleby, historian and author. Reel I of II.</field>
+    <field name="heading_ssm">The NYU Lecture Series - Fall Semester 1982: "The Promise of Prosperity," Joyce Appleby, historian and author. Reel I of II.</field>
+    <field name="unitdate_ssm">1982-12-21</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">271</field>
+  </doc>
+</add>

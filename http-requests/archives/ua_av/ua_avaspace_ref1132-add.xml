@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1132</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Great Speakers Series II #2: Ralph Nader
+
+</field>
+    <field name="unittitle_teim">Great Speakers Series II #2: Ralph Nader
+
+</field>
+    <field name="unitid_teim">AV2900</field>
+    <field name="unitid_ssm">AV2900</field>
+    <field name="unitdate_normal_ssm">1974-10-24/1974-10-24</field>
+    <field name="unitdate_normal_teim">1974-10-24/1974-10-24</field>
+    <field name="unitdate_normal_sim">1974-10-24/1974-10-24</field>
+    <field name="unitdate_teim">1974-10-24</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes AV2900: "Headswitch error in underscan. Severe skew error across top of frame throughout entire frame. Attempted to fix this by trying multiple TBCs and decks, this was the best possible quality. Mild Dropouts throughout."</field>
+    <field name="phystech_teim">Transfer Technician Notes AV2901: "Entirety of tape suffers from a constant control track error. Multiple TBCs were tested to obtain the best capture possible. Content suffers from persistent flagging and image jitter throughout, as a result of the inherent control track error. Aside from these anomalies, there is recurring mild tape wear and dropouts throughout, and occasional mild tape damage. Image is less stable when camera moves to feature audience questions."</field>
+    <field name="persname_teim">Nader, Ralph</field>
+    <field name="persname_ssm">Nader, Ralph</field>
+    <field name="dao_teim">Great Speakers Series II #2: Ralph Nader</field>
+    <field name="dao_teim">Great Speakers Series II #2: Ralph Nader</field>
+    <field name="dao_ssm">Great Speakers Series II #2: Ralph Nader</field>
+    <field name="dao_ssm">Great Speakers Series II #2: Ralph Nader</field>
+    <field name="ref_ssi">aspace_ref1132</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 75, reel: 2900</field>
+    <field name="location_ssm">reel: 2900</field>
+    <field name="location_ssm">Box: 75, reel: 2901</field>
+    <field name="location_ssm">reel: 2901</field>
+    <field name="location_si">reel: 2901</field>
+    <field name="name_sim">Nader, Ralph</field>
+    <field name="name_teim">Nader, Ralph</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Great Speakers Series II #2: Ralph Nader
+
+</field>
+    <field name="heading_ssm">Great Speakers Series II #2: Ralph Nader
+
+</field>
+    <field name="unitdate_ssm">1974-10-24</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">641</field>
+  </doc>
+</add>

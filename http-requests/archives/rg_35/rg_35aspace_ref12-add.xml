@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_35aspace_ref12</field>
+    <field name="ead_ssi">rg_35</field>
+    <field name="parent_ssi">aspace_ref11</field>
+    <field name="parent_ssm">aspace_ref11</field>
+    <field name="parent_unittitles_ssm">Series I: Robert W. Corrigan</field>
+    <field name="parent_unittitles_teim">Series I: Robert W. Corrigan</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Records of the Office of the Dean of the Tisch School of the Arts</field>
+    <field name="collection_ssm">Records of the Office of the Dean of the Tisch School of the Arts</field>
+    <field name="collection_unitid_ssm">RG.35/repositories/6/resources/2182</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries A: Corrigan Correspondence and Papers</field>
+    <field name="unittitle_teim">Subseries A: Corrigan Correspondence and Papers</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/667923</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/667923</field>
+    <field name="ref_ssi">aspace_ref12</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Records of the Office of the Dean of the Tisch School of the Arts</field>
+    <field name="collection_unitid_teim">RG.35/repositories/6/resources/2182</field>
+    <field name="series_sim">Series I: Robert W. Corrigan</field>
+    <field name="series_si">Series I: Robert W. Corrigan &gt;&gt; Subseries A: Corrigan Correspondence and Papers</field>
+    <field name="heading_ssm">Subseries A: Corrigan Correspondence and Papers</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

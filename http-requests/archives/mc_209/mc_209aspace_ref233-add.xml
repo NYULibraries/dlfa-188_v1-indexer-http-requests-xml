@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_209aspace_ref233</field>
+    <field name="ead_ssi">mc_209</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Larry Spruch Papers</field>
+    <field name="collection_ssm">Larry Spruch Papers</field>
+    <field name="collection_unitid_ssm">MC.209</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series IV:  Professional Materials</field>
+    <field name="unittitle_teim">Series IV:  Professional Materials</field>
+    <field name="unitdate_normal_ssm">1927/2004</field>
+    <field name="unitdate_normal_ssm">1950/2002</field>
+    <field name="unitdate_normal_teim">1927/2004</field>
+    <field name="unitdate_normal_teim">1950/2002</field>
+    <field name="unitdate_normal_sim">1927/2004</field>
+    <field name="unitdate_normal_sim">1950/2002</field>
+    <field name="unitdate_bulk_teim">1950-2002</field>
+    <field name="unitdate_inclusive_teim">1927-2004</field>
+    <field name="scopecontent_teim">Series IV encompasses various aspects of Larry Spruch's participation in the international community of physics scholars.  The series is divided into four subseries.  </field>
+    <field name="scopecontent_teim">Subseries A:  Manuscript and Research Proposal Referrals contains Spruch's reviews of manuscripts submitted by other physicists for publication in various academic journals, as well as reviews of a handful of research proposals. These materials are not open to researchers.</field>
+    <field name="scopecontent_teim">Subseries B:  Works by Other Physicists contains published articles and manuscripts to which Spruch did not personally contribute, but in which he seems to have taken a professional interest. Nearly all of these materials are heavily annotated by Spruch, and many are also accompanied by his own calculations of problems discussed in the texts, or his correspondence with the authors. The arrangement system of this subseries is somewhat complex because it maintains some aspects of the collection's original order. For example, while Spruch seems to have generally grouped materials of this type together by author and arranged the folders in alphabetical order by the author's last name, some materials were also grouped topically or by the publication in which they appeared. The materials in this subseries date from between 1927 and 2004, though the bulk of them date from between 1950 and 2002.</field>
+    <field name="scopecontent_teim">Subseries C:  Conferences, Workshops, and Seminars contains materials from professional gatherings, many of them international, in which Spruch participated or simply attended. These materials include notes on presentations given by Spruch or other physicists, event programs, correspondence with event organizers and participants, and documentation of Spruch's travel to and from the events. Especially well-represented in this series are materials from the Aspen Center for Physics, a summer research program in Aspen, Colorado in which Spruch participated frequently. The materials in this subseries date from between 1956 and 2003.</field>
+    <field name="scopecontent_teim">Subseries D:  Awards and Honors contains materials related to some—though not all—of the numerous awards and honors which Larry Spruch received throughout his career. Many of the materials included in the series are related to a website created by the NYU Physics department in 2000 in honor of Larry Spruch. Spruch's Brooklyn College Alumni Award of Honor in this subseries dates from 1967, though the other materials date from the latter part of his career, between 1984 and 2001.</field>
+    <field name="ref_ssi">aspace_ref233</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Larry Spruch Papers</field>
+    <field name="collection_unitid_teim">MC.209</field>
+    <field name="series_si">Series IV:  Professional Materials</field>
+    <field name="heading_ssm">Series IV:  Professional Materials</field>
+    <field name="unitdate_start_sim">1927</field>
+    <field name="unitdate_start_sim">1950</field>
+    <field name="unitdate_start_ssm">1927</field>
+    <field name="unitdate_start_ssm">1950</field>
+    <field name="unitdate_start_si">1950</field>
+    <field name="unitdate_end_sim">2004</field>
+    <field name="unitdate_end_sim">2002</field>
+    <field name="unitdate_end_ssm">2004</field>
+    <field name="unitdate_end_ssm">2002</field>
+    <field name="unitdate_end_si">2002</field>
+    <field name="unitdate_ssm">Inclusive, 1927-2004 ; 1950-2002</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">528</field>
+  </doc>
+</add>

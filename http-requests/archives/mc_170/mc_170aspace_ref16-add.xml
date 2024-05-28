@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_170aspace_ref16</field>
+    <field name="ead_ssi">mc_170</field>
+    <field name="parent_ssi">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_unittitles_ssm">Series I</field>
+    <field name="parent_unittitles_ssm">Various Published Articles and Pamphlets by Dodson</field>
+    <field name="parent_unittitles_teim">Series I</field>
+    <field name="parent_unittitles_teim">Various Published Articles and Pamphlets by Dodson</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Dan Dodson Papers</field>
+    <field name="collection_ssm">Dan Dodson Papers</field>
+    <field name="collection_unitid_ssm">MC.170</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">"Rearing Children to Meet the Challenge of Change" </field>
+    <field name="unittitle_teim">"Rearing Children to Meet the Challenge of Change" </field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref16</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 1</field>
+    <field name="location_ssm">Folder: 1, Item: 10</field>
+    <field name="location_ssm">Item: 10</field>
+    <field name="location_si">Item: 10</field>
+    <field name="collection_teim">Dan Dodson Papers</field>
+    <field name="collection_unitid_teim">MC.170</field>
+    <field name="series_sim">Series I</field>
+    <field name="series_sim">Various Published Articles and Pamphlets by Dodson</field>
+    <field name="series_si">Series I &gt;&gt; Various Published Articles and Pamphlets by Dodson &gt;&gt; "Rearing Children to Meet the Challenge of Change" </field>
+    <field name="heading_ssm">"Rearing Children to Meet the Challenge of Change" </field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">12</field>
+  </doc>
+</add>

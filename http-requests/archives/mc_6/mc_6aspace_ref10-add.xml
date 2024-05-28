@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_6aspace_ref10</field>
+    <field name="ead_ssi">mc_6</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Subject Files</field>
+    <field name="parent_unittitles_teim">Subject Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Stanford White Commemorative Stamp Special Collection</field>
+    <field name="collection_ssm">Stanford White Commemorative Stamp Special Collection</field>
+    <field name="collection_unitid_ssm">MC.6</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Photographs</field>
+    <field name="unittitle_teim">Photographs</field>
+    <field name="unitdate_normal_ssm">1981/1981</field>
+    <field name="unitdate_normal_teim">1981/1981</field>
+    <field name="unitdate_normal_sim">1981/1981</field>
+    <field name="unitdate_inclusive_teim">August 1981</field>
+    <field name="ref_ssi">aspace_ref10</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 9</field>
+    <field name="location_ssm">Folder: 9</field>
+    <field name="location_si">Folder: 9</field>
+    <field name="collection_teim">Stanford White Commemorative Stamp Special Collection</field>
+    <field name="collection_unitid_teim">MC.6</field>
+    <field name="series_sim">Subject Files</field>
+    <field name="series_si">Subject Files &gt;&gt; Photographs</field>
+    <field name="heading_ssm">Photographs</field>
+    <field name="unitdate_start_sim">1981</field>
+    <field name="unitdate_start_ssm">1981</field>
+    <field name="unitdate_start_si">1981</field>
+    <field name="unitdate_end_sim">1981</field>
+    <field name="unitdate_end_ssm">1981</field>
+    <field name="unitdate_end_si">1981</field>
+    <field name="unitdate_ssm">Inclusive, August 1981</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">10</field>
+  </doc>
+</add>

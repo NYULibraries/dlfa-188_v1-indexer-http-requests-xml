@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_168aspace_ref14762</field>
+    <field name="ead_ssi">mc_168</field>
+    <field name="parent_ssi">aspace_ref13645</field>
+    <field name="parent_ssm">aspace_ref13644</field>
+    <field name="parent_ssm">aspace_ref13645</field>
+    <field name="parent_unittitles_ssm">Series V: Constituent Services</field>
+    <field name="parent_unittitles_ssm">Subseries I: Legislative Mail</field>
+    <field name="parent_unittitles_teim">Series V: Constituent Services</field>
+    <field name="parent_unittitles_teim">Subseries I: Legislative Mail</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Brademas Congressional Papers</field>
+    <field name="collection_ssm">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Robo Letters</field>
+    <field name="unittitle_teim">Robo Letters</field>
+    <field name="unitid_teim">cuid12567</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/615993</field>
+    <field name="unitid_ssm">cuid12567</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/615993</field>
+    <field name="unitdate_teim">Dec 1975</field>
+    <field name="ref_ssi">aspace_ref14762</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: V:21, Folder: 8</field>
+    <field name="location_ssm">Folder: 8</field>
+    <field name="location_si">Folder: 8</field>
+    <field name="collection_teim">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="series_sim">Series V: Constituent Services</field>
+    <field name="series_sim">Subseries I: Legislative Mail</field>
+    <field name="series_si">Series V: Constituent Services &gt;&gt; Subseries I: Legislative Mail &gt;&gt; Robo Letters</field>
+    <field name="heading_ssm">Robo Letters</field>
+    <field name="unitdate_ssm">Dec 1975</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">7412</field>
+  </doc>
+</add>

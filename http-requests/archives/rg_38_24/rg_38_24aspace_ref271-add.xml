@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_38_24aspace_ref271</field>
+    <field name="ead_ssi">rg_38_24</field>
+    <field name="parent_ssi">aspace_ref264</field>
+    <field name="parent_ssm">aspace_ref263</field>
+    <field name="parent_ssm">aspace_ref264</field>
+    <field name="parent_unittitles_ssm">Series XII: Conservation Documentation</field>
+    <field name="parent_unittitles_ssm">Subseries A: Conservation Logbooks</field>
+    <field name="parent_unittitles_teim">Series XII: Conservation Documentation</field>
+    <field name="parent_unittitles_teim">Subseries A: Conservation Logbooks</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Barbara Goldsmith Preservation and Conservation Department</field>
+    <field name="collection_ssm">Records of the Barbara Goldsmith Preservation and Conservation Department</field>
+    <field name="collection_unitid_ssm">RG.38.24</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Conservation Logbook</field>
+    <field name="unittitle_teim">Conservation Logbook</field>
+    <field name="unitdate_normal_ssm">2009/2009</field>
+    <field name="unitdate_normal_teim">2009/2009</field>
+    <field name="unitdate_normal_sim">2009/2009</field>
+    <field name="unitdate_inclusive_teim">2009</field>
+    <field name="ref_ssi">aspace_ref271</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 12, Folder: 6</field>
+    <field name="location_ssm">Folder: 6</field>
+    <field name="location_si">Folder: 6</field>
+    <field name="collection_teim">Records of the Barbara Goldsmith Preservation and Conservation Department</field>
+    <field name="collection_unitid_teim">RG.38.24</field>
+    <field name="series_sim">Series XII: Conservation Documentation</field>
+    <field name="series_sim">Subseries A: Conservation Logbooks</field>
+    <field name="series_si">Series XII: Conservation Documentation &gt;&gt; Subseries A: Conservation Logbooks &gt;&gt; Conservation Logbook</field>
+    <field name="heading_ssm">Conservation Logbook</field>
+    <field name="unitdate_start_sim">2009</field>
+    <field name="unitdate_start_ssm">2009</field>
+    <field name="unitdate_start_si">2009</field>
+    <field name="unitdate_end_sim">2009</field>
+    <field name="unitdate_end_ssm">2009</field>
+    <field name="unitdate_end_si">2009</field>
+    <field name="unitdate_ssm">Inclusive, 2009</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">253</field>
+  </doc>
+</add>

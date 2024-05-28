@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_145aspace_ref20</field>
+    <field name="ead_ssi">mc_145</field>
+    <field name="parent_ssi">aspace_ref18</field>
+    <field name="parent_ssm">aspace_ref18</field>
+    <field name="parent_unittitles_ssm">The Wealthy 100</field>
+    <field name="parent_unittitles_teim">The Wealthy 100</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Michael Klepper Papers</field>
+    <field name="collection_ssm">Michael Klepper Papers</field>
+    <field name="collection_unitid_ssm">MC.145</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Notes and chapter printouts of book</field>
+    <field name="unittitle_teim">Notes and chapter printouts of book</field>
+    <field name="ref_ssi">aspace_ref20</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Michael Klepper Papers</field>
+    <field name="collection_unitid_teim">MC.145</field>
+    <field name="series_sim">The Wealthy 100</field>
+    <field name="series_si">The Wealthy 100 &gt;&gt; Notes and chapter printouts of book</field>
+    <field name="heading_ssm">Notes and chapter printouts of book</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">24</field>
+  </doc>
+</add>

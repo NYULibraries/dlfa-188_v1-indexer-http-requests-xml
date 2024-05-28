@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_c830a1961e7004babde89bbea461fa06</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Adler, Mortimer</field>
+    <field name="unittitle_teim">Adler, Mortimer</field>
+    <field name="unitid_teim">AV43</field>
+    <field name="unitid_ssm">AV43</field>
+    <field name="unitdate_normal_ssm">2018/2018</field>
+    <field name="unitdate_normal_teim">2018/2018</field>
+    <field name="unitdate_normal_sim">2018/2018</field>
+    <field name="unitdate_teim"> </field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">Housing Annotations: "Mortimer Adler 11/16 'The Difference of Man, and the Difference it Makes' 8:30 ORIGINAL" (year not specified)</field>
+    <field name="phystech_teim">Original Format: ¼" Open Reel Audio, Duration: 17 min.</field>
+    <field name="ref_ssi">aspace_c830a1961e7004babde89bbea461fa06</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, reel: AV43</field>
+    <field name="location_ssm">reel: AV43</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: AV43</field>
+    <field name="location_ssm">file: AV43</field>
+    <field name="location_si">file: AV43</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Adler, Mortimer</field>
+    <field name="heading_ssm">Adler, Mortimer</field>
+    <field name="unitdate_start_sim">2018</field>
+    <field name="unitdate_start_ssm">2018</field>
+    <field name="unitdate_start_si">2018</field>
+    <field name="unitdate_end_sim">2018</field>
+    <field name="unitdate_end_ssm">2018</field>
+    <field name="unitdate_end_si">2018</field>
+    <field name="unitdate_ssm"> </field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">33</field>
+  </doc>
+</add>

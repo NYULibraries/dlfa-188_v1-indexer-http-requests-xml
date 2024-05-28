@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_53f7b7447b4be86fe9782be2399a9627</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Soaps, Part III</field>
+    <field name="unittitle_teim">Soaps, Part III</field>
+    <field name="unitid_teim">AV106</field>
+    <field name="unitid_ssm">AV106</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="phystech_teim">Original Format: ¼" Open Reel Audio, Duration: 24 min.</field>
+    <field name="ref_ssi">aspace_53f7b7447b4be86fe9782be2399a9627</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, reel: AV106</field>
+    <field name="location_ssm">reel: AV106</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: AV106</field>
+    <field name="location_ssm">file: AV106</field>
+    <field name="location_si">file: AV106</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Soaps, Part III</field>
+    <field name="heading_ssm">Soaps, Part III</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">93</field>
+  </doc>
+</add>

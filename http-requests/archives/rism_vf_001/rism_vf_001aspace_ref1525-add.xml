@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_vf_001aspace_ref1525</field>
+    <field name="ead_ssi">rism_vf_001</field>
+    <field name="parent_ssi">aspace_ref1520</field>
+    <field name="parent_ssm">aspace_ref750</field>
+    <field name="parent_ssm">aspace_ref1520</field>
+    <field name="parent_unittitles_ssm">Barbados</field>
+    <field name="parent_unittitles_ssm">Barbados: Windmills</field>
+    <field name="parent_unittitles_teim">Barbados</field>
+    <field name="parent_unittitles_teim">Barbados: Windmills</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_ssm">RISM.VF.001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Brace Research Institute: Performance Test of a Savonius Rotor</field>
+    <field name="unittitle_teim">Brace Research Institute: Performance Test of a Savonius Rotor</field>
+    <field name="unitid_teim">RISM 22972</field>
+    <field name="unitid_ssm">RISM 22972</field>
+    <field name="unitdate_normal_ssm">1964/1964</field>
+    <field name="unitdate_normal_teim">1964/1964</field>
+    <field name="unitdate_normal_sim">1964/1964</field>
+    <field name="unitdate_inclusive_teim">1964</field>
+    <field name="geogname_teim">Barbados.</field>
+    <field name="geogname_ssm">Barbados.</field>
+    <field name="persname_teim">Simonds, M. H.</field>
+    <field name="persname_ssm">Simonds, M. H.</field>
+    <field name="subject_teim">Windmills.</field>
+    <field name="subject_teim">Windmills.</field>
+    <field name="subject_ssm">Windmills.</field>
+    <field name="ref_ssi">aspace_ref1525</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2</field>
+    <field name="location_si">Box: 2</field>
+    <field name="name_sim">Simonds, M. H.</field>
+    <field name="name_teim">Simonds, M. H.</field>
+    <field name="place_ssm">Barbados.</field>
+    <field name="place_sim">Barbados.</field>
+    <field name="subject_sim">Windmills.</field>
+    <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_teim">RISM.VF.001</field>
+    <field name="series_sim">Barbados</field>
+    <field name="series_sim">Barbados: Windmills</field>
+    <field name="series_si">Barbados &gt;&gt; Barbados: Windmills &gt;&gt; Brace Research Institute: Performance Test of a Savonius Rotor</field>
+    <field name="heading_ssm">Brace Research Institute: Performance Test of a Savonius Rotor</field>
+    <field name="unitdate_start_sim">1964</field>
+    <field name="unitdate_start_ssm">1964</field>
+    <field name="unitdate_start_si">1964</field>
+    <field name="unitdate_end_sim">1964</field>
+    <field name="unitdate_end_ssm">1964</field>
+    <field name="unitdate_end_si">1964</field>
+    <field name="unitdate_ssm">Inclusive, 1964</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">583</field>
+  </doc>
+</add>

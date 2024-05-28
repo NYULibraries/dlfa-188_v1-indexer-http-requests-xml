@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_189aspace_ref33</field>
+    <field name="ead_ssi">mc_189</field>
+    <field name="parent_ssi">aspace_ref8</field>
+    <field name="parent_ssm">aspace_ref8</field>
+    <field name="parent_unittitles_ssm">Series I: Research Files on Albert Gallatin</field>
+    <field name="parent_unittitles_teim">Series I: Research Files on Albert Gallatin</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Mary Moline Research Collection on Albert Gallatin</field>
+    <field name="collection_ssm">Mary Moline Research Collection on Albert Gallatin</field>
+    <field name="collection_unitid_ssm">MC.189</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries I: Research for America's Vindicated Statesman Part 1</field>
+    <field name="unittitle_teim">Subseries I: Research for America's Vindicated Statesman Part 1</field>
+    <field name="scopecontent_teim">Subseries I includes research for America's Vindicated Statesman that was printed out from the internet.</field>
+    <field name="ref_ssi">aspace_ref33</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Mary Moline Research Collection on Albert Gallatin</field>
+    <field name="collection_unitid_teim">MC.189</field>
+    <field name="series_sim">Series I: Research Files on Albert Gallatin</field>
+    <field name="series_si">Series I: Research Files on Albert Gallatin &gt;&gt; Subseries I: Research for America's Vindicated Statesman Part 1</field>
+    <field name="heading_ssm">Subseries I: Research for America's Vindicated Statesman Part 1</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">2</field>
+  </doc>
+</add>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_7626c11b8d5e423a76d1bdd94ac9ddc4</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Inside Bobst Library Video Footage</field>
+    <field name="unittitle_teim">Inside Bobst Library Video Footage</field>
+    <field name="unitid_teim">AV5018</field>
+    <field name="unitid_ssm">AV5018</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="phystech_teim">Format: 1/2" Open Reel Video; Duration: 30 min; Transfer Technician Notes AV5018: "First eight and a half minutes include audio but no video. This portion appears to be equipment testing. Occasional audio pops and distortion during this segment. Video is identical to that as found on several other tapes in this collection (inside Bobst Library), and features overdubbed music. Frequent dropouts and mild image echo occur throughout. Audio has inherent crackle from original sources. Head switch error visible during portion with video." </field>
+    <field name="phystech_teim">Transfer Technician Notes AV5022: "This tape has content similar to AV5023, with some identical video. Both of these tapes are without program audio. Video plays mostly well throughout. Head switch error visible in underscan. Occasional crash records require manual adjustment to vertical framing. Other inherent edits result in luma banding. Occasional tracking errors following inherent edits are mitigated as best possible. Occasional dropouts, tape wear, and tape damage occur throughout. Occasional mild ghosting and bearding throughout. Loud audio buzzing throughout."</field>
+    <field name="phystech_teim">Transfer Technician Notes AV5023: "This tape has content similar to AV5022, with some identical video. Both of these tapes are without program audio. Video plays mostly well throughout, and consists of several segments that repeat multiple times. Frequent crash records throughout, with some segments of extended static. Other inherent edits result in luma banding. Occasional dropouts, tape wear, and tape damage occur throughout. Occasional mild ghosting and bearding throughout. Head switch error visible in underscan. Audio hiss throughout."</field>
+    <field name="dao_teim">Inside Bobst Library Video Footage</field>
+    <field name="dao_teim">Inside Bobst Library Video Footage</field>
+    <field name="dao_teim">Inside Bobst Library Video Footage [Tape 2 of 2]</field>
+    <field name="dao_ssm">Inside Bobst Library Video Footage</field>
+    <field name="dao_ssm">Inside Bobst Library Video Footage</field>
+    <field name="dao_ssm">Inside Bobst Library Video Footage [Tape 2 of 2]</field>
+    <field name="ref_ssi">aspace_7626c11b8d5e423a76d1bdd94ac9ddc4</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 156, reel: AV5018</field>
+    <field name="location_ssm">reel: AV5018</field>
+    <field name="location_ssm">Box: 156, reel: AV5022</field>
+    <field name="location_ssm">reel: AV5022</field>
+    <field name="location_ssm">Box: 156, reel: AV5023</field>
+    <field name="location_ssm">reel: AV5023</field>
+    <field name="location_si">reel: AV5023</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Inside Bobst Library Video Footage</field>
+    <field name="heading_ssm">Inside Bobst Library Video Footage</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">950</field>
+  </doc>
+</add>

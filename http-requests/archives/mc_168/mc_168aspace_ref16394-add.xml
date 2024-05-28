@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_168aspace_ref16394</field>
+    <field name="ead_ssi">mc_168</field>
+    <field name="parent_ssi">aspace_ref15127</field>
+    <field name="parent_ssm">aspace_ref13644</field>
+    <field name="parent_ssm">aspace_ref15127</field>
+    <field name="parent_unittitles_ssm">Series V: Constituent Services</field>
+    <field name="parent_unittitles_ssm">Subseries II: Subject/Agency</field>
+    <field name="parent_unittitles_teim">Series V: Constituent Services</field>
+    <field name="parent_unittitles_teim">Subseries II: Subject/Agency</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Brademas Congressional Papers</field>
+    <field name="collection_ssm">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">HUD/1 Housing and Urban Development</field>
+    <field name="unittitle_teim">HUD/1 Housing and Urban Development</field>
+    <field name="unitid_teim">cuid13382</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/616809</field>
+    <field name="unitid_ssm">cuid13382</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/616809</field>
+    <field name="unitdate_normal_ssm">1975/1975</field>
+    <field name="unitdate_normal_teim">1975/1975</field>
+    <field name="unitdate_normal_sim">1975/1975</field>
+    <field name="unitdate_inclusive_teim">1975</field>
+    <field name="ref_ssi">aspace_ref16394</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: V:47, Folder: 19</field>
+    <field name="location_ssm">Folder: 19</field>
+    <field name="location_si">Folder: 19</field>
+    <field name="collection_teim">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="series_sim">Series V: Constituent Services</field>
+    <field name="series_sim">Subseries II: Subject/Agency</field>
+    <field name="series_si">Series V: Constituent Services &gt;&gt; Subseries II: Subject/Agency &gt;&gt; HUD/1 Housing and Urban Development</field>
+    <field name="heading_ssm">HUD/1 Housing and Urban Development</field>
+    <field name="unitdate_start_sim">1975</field>
+    <field name="unitdate_start_ssm">1975</field>
+    <field name="unitdate_start_si">1975</field>
+    <field name="unitdate_end_sim">1975</field>
+    <field name="unitdate_end_ssm">1975</field>
+    <field name="unitdate_end_si">1975</field>
+    <field name="unitdate_ssm">Inclusive, 1975</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">8228</field>
+  </doc>
+</add>

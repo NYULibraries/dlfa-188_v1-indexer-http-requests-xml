@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1159</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Marshall McLuhan untitled</field>
+    <field name="unittitle_teim">Marshall McLuhan untitled</field>
+    <field name="unitid_teim">AV4448</field>
+    <field name="unitid_ssm">AV4448</field>
+    <field name="scopecontent_teim">The video quality of this disc is grainy and the volume is makes it difficult to hear exactly what people are saying The setting is a lecture hall Where McLuhan, Nevitt, and various other people are seated facing an audience. In his discussion there is a reference to being at a conference at the School of Dentistry but nothing is truly specified. The men, mainly McLuhan, discuss how environment effects and is effected by technology while the actual technology is incidental. They further talk about technological breakthroughs and how humans perceive it. Intellectual decline from over stimulation from technology creating a "goal-less" child who is more interested in role playing rather than true decision making thanks to television and radio. Most of the discussion is based on McLuahn's "Laws of Media" which is a four part tetrad of things that share an "interlocking nature" when humans consume media. The four parts are Enhance, Reverse, Retrieve, Obsolescence. The film cuts out frequently and ends abruptly.</field>
+    <field name="ref_ssi">aspace_ref1159</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 118, reel: 4448</field>
+    <field name="location_ssm">reel: 4448</field>
+    <field name="location_si">reel: 4448</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Marshall McLuhan untitled</field>
+    <field name="heading_ssm">Marshall McLuhan untitled</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">859</field>
+  </doc>
+</add>

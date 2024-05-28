@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_37_13aspace_51ff3076a1378e27aa3af5e17257ee68</field>
+    <field name="ead_ssi">rg_37_13</field>
+    <field name="parent_ssi">aspace_dc2e0e43f50ea91d60daac21cfe04c40</field>
+    <field name="parent_ssm">aspace_dc2e0e43f50ea91d60daac21cfe04c40</field>
+    <field name="parent_unittitles_ssm">Department of French Literature, Thought and Culture Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Department of French Literature, Thought and Culture Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Department of French Literature, Thought and Culture</field>
+    <field name="collection_ssm">Records of the Department of French Literature, Thought and Culture</field>
+    <field name="collection_unitid_ssm">RG.37.13</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Vanderbilt Television News Archive Segments</field>
+    <field name="unittitle_teim">Vanderbilt Television News Archive Segments</field>
+    <field name="unitdate_normal_ssm">1974/1977</field>
+    <field name="unitdate_normal_teim">1974/1977</field>
+    <field name="unitdate_normal_sim">1974/1977</field>
+    <field name="unitdate_inclusive_teim">1974-1977</field>
+    <field name="scopecontent_teim">According to the labels on the tapes:
+"Segment 1: CBS 7/14/1969 through CBS 1/6/1976;
+Segment 2: CBS 2/28/1969 through ABC 1/4/1978;
+Segment 3: NBC 10/24/1969 through NBC 5/24/1977;
+Segment 4: NBC 6/16/1969 through NBC 12/18/1974;
+Segment 5: CBS 11/13/1975 through NBC 11/22/1977"</field>
+    <field name="ref_ssi">aspace_51ff3076a1378e27aa3af5e17257ee68</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, U-matic: 37-13.0002, 37-13.0003</field>
+    <field name="location_ssm">U-matic: 37-13.0002, 37-13.0003</field>
+    <field name="location_si">U-matic: 37-13.0002, 37-13.0003</field>
+    <field name="collection_teim">Records of the Department of French Literature, Thought and Culture</field>
+    <field name="collection_unitid_teim">RG.37.13</field>
+    <field name="series_sim">Department of French Literature, Thought and Culture Audiovisual Recordings</field>
+    <field name="series_si">Department of French Literature, Thought and Culture Audiovisual Recordings &gt;&gt; Vanderbilt Television News Archive Segments</field>
+    <field name="heading_ssm">Vanderbilt Television News Archive Segments</field>
+    <field name="unitdate_start_sim">1974</field>
+    <field name="unitdate_start_ssm">1974</field>
+    <field name="unitdate_start_si">1974</field>
+    <field name="unitdate_end_sim">1977</field>
+    <field name="unitdate_end_ssm">1977</field>
+    <field name="unitdate_end_si">1977</field>
+    <field name="unitdate_ssm">Inclusive, 1974-1977</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">3</field>
+  </doc>
+</add>

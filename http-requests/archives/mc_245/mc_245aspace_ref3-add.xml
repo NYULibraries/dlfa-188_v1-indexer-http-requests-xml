@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_245aspace_ref3</field>
+    <field name="ead_ssi">mc_245</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">H. Robert Otness Collection of New York City Postcards and Photographs</field>
+    <field name="collection_ssm">H. Robert Otness Collection of New York City Postcards and Photographs</field>
+    <field name="collection_unitid_ssm">MC.245</field>
+    <field name="level_sim">series</field>
+    <field name="unittitle_ssm">Series II:  Photographs</field>
+    <field name="unittitle_teim">Series II:  Photographs</field>
+    <field name="unitdate_normal_ssm">1930/1939</field>
+    <field name="unitdate_normal_teim">1930/1939</field>
+    <field name="unitdate_normal_sim">1930/1939</field>
+    <field name="unitdate_inclusive_teim">circa 1930s</field>
+    <field name="scopecontent_teim">Series II includes a small number of photographs presumably taken by Otness during the same time period. Their subject matter is largely similar to that of the postcards in the collection: Washington Square Park is heavily featured, as is the RMS Queen Mary (which completed its first transatlantic voyage to New York in 1936), and the Macy's Thanksgiving Day Parade.</field>
+    <field name="ref_ssi">aspace_ref3</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">H. Robert Otness Collection of New York City Postcards and Photographs</field>
+    <field name="collection_unitid_teim">MC.245</field>
+    <field name="series_si">Series II:  Photographs</field>
+    <field name="heading_ssm">Series II:  Photographs</field>
+    <field name="unitdate_start_sim">1930</field>
+    <field name="unitdate_start_ssm">1930</field>
+    <field name="unitdate_start_si">1930</field>
+    <field name="unitdate_end_sim">1939</field>
+    <field name="unitdate_end_ssm">1939</field>
+    <field name="unitdate_end_si">1939</field>
+    <field name="unitdate_ssm">Inclusive, circa 1930s</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">41</field>
+  </doc>
+</add>

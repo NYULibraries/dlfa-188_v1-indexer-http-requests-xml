@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_234aspace_f6087aa4452e5a658b30b89327299414</field>
+    <field name="ead_ssi">mc_234</field>
+    <field name="parent_ssi">aspace_ac2fc536f6344e33a26a5ee365fa9947</field>
+    <field name="parent_ssm">aspace_c366a351c53243f480c4f58268ff01f9</field>
+    <field name="parent_ssm">aspace_ac2fc536f6344e33a26a5ee365fa9947</field>
+    <field name="parent_unittitles_ssm">Series I: Single Pig Figurines</field>
+    <field name="parent_unittitles_ssm">Subseries I J: Marzipan, Soap, and Clay Pig Figurines</field>
+    <field name="parent_unittitles_teim">Series I: Single Pig Figurines</field>
+    <field name="parent_unittitles_teim">Subseries I J: Marzipan, Soap, and Clay Pig Figurines</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Stern School of Business Collection of Pig Memorabilia</field>
+    <field name="collection_ssm">New York University Stern School of Business Collection of Pig Memorabilia</field>
+    <field name="collection_unitid_ssm">MC.234</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Pig with Groove Detail</field>
+    <field name="unittitle_teim">Pig with Groove Detail</field>
+    <field name="unitdate_normal_ssm">1900/2013</field>
+    <field name="unitdate_normal_teim">1900/2013</field>
+    <field name="unitdate_normal_sim">1900/2013</field>
+    <field name="unitdate_inclusive_teim">circa 1900-2013</field>
+    <field name="scopecontent_teim">Clay pig figurine with grooves on back</field>
+    <field name="ref_ssi">aspace_f6087aa4452e5a658b30b89327299414</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 27, Item: 17</field>
+    <field name="location_ssm">Item: 17</field>
+    <field name="location_si">Item: 17</field>
+    <field name="collection_teim">New York University Stern School of Business Collection of Pig Memorabilia</field>
+    <field name="collection_unitid_teim">MC.234</field>
+    <field name="series_sim">Series I: Single Pig Figurines</field>
+    <field name="series_sim">Subseries I J: Marzipan, Soap, and Clay Pig Figurines</field>
+    <field name="series_si">Series I: Single Pig Figurines &gt;&gt; Subseries I J: Marzipan, Soap, and Clay Pig Figurines &gt;&gt; Pig with Groove Detail</field>
+    <field name="heading_ssm">Pig with Groove Detail</field>
+    <field name="unitdate_start_sim">1900</field>
+    <field name="unitdate_start_ssm">1900</field>
+    <field name="unitdate_start_si">1900</field>
+    <field name="unitdate_end_sim">2013</field>
+    <field name="unitdate_end_ssm">2013</field>
+    <field name="unitdate_end_si">2013</field>
+    <field name="unitdate_ssm">Inclusive, circa 1900-2013</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">275</field>
+  </doc>
+</add>

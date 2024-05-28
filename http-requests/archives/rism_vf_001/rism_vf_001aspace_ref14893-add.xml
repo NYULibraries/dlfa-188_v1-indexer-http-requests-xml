@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_vf_001aspace_ref14893</field>
+    <field name="ead_ssi">rism_vf_001</field>
+    <field name="parent_ssi">aspace_ref14892</field>
+    <field name="parent_ssm">aspace_ref14666</field>
+    <field name="parent_ssm">aspace_ref14892</field>
+    <field name="parent_unittitles_ssm">Martinique</field>
+    <field name="parent_unittitles_ssm">Martinique: Slavery</field>
+    <field name="parent_unittitles_teim">Martinique</field>
+    <field name="parent_unittitles_teim">Martinique: Slavery</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_ssm">RISM.VF.001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">La Revolution Antiesclavagiste a la Martinique de Mai 1848</field>
+    <field name="unittitle_teim">La Revolution Antiesclavagiste a la Martinique de Mai 1848</field>
+    <field name="unitid_teim">RISM 21572</field>
+    <field name="unitid_ssm">RISM 21572</field>
+    <field name="unitdate_normal_ssm">1982/1982</field>
+    <field name="unitdate_normal_teim">1982/1982</field>
+    <field name="unitdate_normal_sim">1982/1982</field>
+    <field name="unitdate_inclusive_teim">1982</field>
+    <field name="geogname_teim">Martinique.</field>
+    <field name="geogname_ssm">Martinique.</field>
+    <field name="persname_teim">Nicolas, Armand</field>
+    <field name="persname_ssm">Nicolas, Armand</field>
+    <field name="subject_teim">Slavery.</field>
+    <field name="subject_teim">Slavery.</field>
+    <field name="subject_ssm">Slavery.</field>
+    <field name="ref_ssi">aspace_ref14893</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 18</field>
+    <field name="location_si">Box: 18</field>
+    <field name="name_sim">Nicolas, Armand</field>
+    <field name="name_teim">Nicolas, Armand</field>
+    <field name="place_ssm">Martinique.</field>
+    <field name="place_sim">Martinique.</field>
+    <field name="subject_sim">Slavery.</field>
+    <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_teim">RISM.VF.001</field>
+    <field name="series_sim">Martinique</field>
+    <field name="series_sim">Martinique: Slavery</field>
+    <field name="series_si">Martinique &gt;&gt; Martinique: Slavery &gt;&gt; La Revolution Antiesclavagiste a la Martinique de Mai 1848</field>
+    <field name="heading_ssm">La Revolution Antiesclavagiste a la Martinique de Mai 1848</field>
+    <field name="unitdate_start_sim">1982</field>
+    <field name="unitdate_start_ssm">1982</field>
+    <field name="unitdate_start_si">1982</field>
+    <field name="unitdate_end_sim">1982</field>
+    <field name="unitdate_end_ssm">1982</field>
+    <field name="unitdate_end_si">1982</field>
+    <field name="unitdate_ssm">Inclusive, 1982</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">4579</field>
+  </doc>
+</add>

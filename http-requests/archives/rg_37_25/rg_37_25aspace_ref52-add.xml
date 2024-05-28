@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_37_25aspace_ref52</field>
+    <field name="ead_ssi">rg_37_25</field>
+    <field name="parent_ssi">aspace_ref2</field>
+    <field name="parent_ssm">aspace_ref2</field>
+    <field name="parent_unittitles_ssm">Series II - Legal Files</field>
+    <field name="parent_unittitles_teim">Series II - Legal Files</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of Town Hall</field>
+    <field name="collection_ssm">Records of Town Hall</field>
+    <field name="collection_unitid_ssm">RG.37.25</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Consolidation and Merger with NYU</field>
+    <field name="unittitle_teim">Consolidation and Merger with NYU</field>
+    <field name="unitdate_teim">1956-1964</field>
+    <field name="ref_ssi">aspace_ref52</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">Records of Town Hall</field>
+    <field name="collection_unitid_teim">RG.37.25</field>
+    <field name="series_sim">Series II - Legal Files</field>
+    <field name="series_si">Series II - Legal Files &gt;&gt; Consolidation and Merger with NYU</field>
+    <field name="heading_ssm">Consolidation and Merger with NYU</field>
+    <field name="unitdate_ssm">1956-1964</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">28</field>
+  </doc>
+</add>

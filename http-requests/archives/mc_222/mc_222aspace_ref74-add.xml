@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_222aspace_ref74</field>
+    <field name="ead_ssi">mc_222</field>
+    <field name="parent_ssi">aspace_ref5</field>
+    <field name="parent_ssm">aspace_ref5</field>
+    <field name="parent_unittitles_ssm">Series II: Personal</field>
+    <field name="parent_unittitles_teim">Series II: Personal</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mary Burnett Horton Papers</field>
+    <field name="collection_ssm">Mary Burnett Horton Papers</field>
+    <field name="collection_unitid_ssm">MC.222</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Travel Miscellaneous</field>
+    <field name="unittitle_teim">Travel Miscellaneous</field>
+    <field name="unitdate_normal_ssm">1949/1949</field>
+    <field name="unitdate_normal_teim">1949/1949</field>
+    <field name="unitdate_normal_sim">1949/1949</field>
+    <field name="unitdate_inclusive_teim">Undated; 1949</field>
+    <field name="ref_ssi">aspace_ref74</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, Folder: 29</field>
+    <field name="location_ssm">Folder: 29</field>
+    <field name="location_si">Folder: 29</field>
+    <field name="collection_teim">Mary Burnett Horton Papers</field>
+    <field name="collection_unitid_teim">MC.222</field>
+    <field name="series_sim">Series II: Personal</field>
+    <field name="series_si">Series II: Personal &gt;&gt; Travel Miscellaneous</field>
+    <field name="heading_ssm">Travel Miscellaneous</field>
+    <field name="unitdate_start_sim">1949</field>
+    <field name="unitdate_start_ssm">1949</field>
+    <field name="unitdate_start_si">1949</field>
+    <field name="unitdate_end_sim">1949</field>
+    <field name="unitdate_end_ssm">1949</field>
+    <field name="unitdate_end_si">1949</field>
+    <field name="unitdate_ssm">Inclusive, Undated; 1949</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">79</field>
+  </doc>
+</add>

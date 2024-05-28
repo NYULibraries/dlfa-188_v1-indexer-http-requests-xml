@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1264</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Jazzy Lounge Music</field>
+    <field name="unittitle_teim">Jazzy Lounge Music</field>
+    <field name="unitid_teim">AV2010b</field>
+    <field name="unitid_ssm">AV2010b</field>
+    <field name="unitdate_normal_ssm">1966/1966</field>
+    <field name="unitdate_normal_teim">1966/1966</field>
+    <field name="unitdate_normal_sim">1966/1966</field>
+    <field name="unitdate_inclusive_teim">1966</field>
+    <field name="scopecontent_teim">While the content of this recording was found on a tape supposed to be recordings of Dr. Kai Nielsen's 1966 Philosphical Analysis class from Sunrise Semester, this recording comprises jazzy lounge music. Soft speaking voices can barely be heard below the music; Other recordings from this tape can be identified by their Unique Identifier which begin with AV2010.</field>
+    <field name="ref_ssi">aspace_ref1264</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, reel: AV2010b</field>
+    <field name="location_ssm">reel: AV2010b</field>
+    <field name="location_ssm">Box: CD ACCESS 4:1</field>
+    <field name="location_si">Box: CD ACCESS 4:1</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Jazzy Lounge Music</field>
+    <field name="heading_ssm">Jazzy Lounge Music</field>
+    <field name="unitdate_start_sim">1966</field>
+    <field name="unitdate_start_ssm">1966</field>
+    <field name="unitdate_start_si">1966</field>
+    <field name="unitdate_end_sim">1966</field>
+    <field name="unitdate_end_ssm">1966</field>
+    <field name="unitdate_end_si">1966</field>
+    <field name="unitdate_ssm">Inclusive, 1966</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">797</field>
+  </doc>
+</add>

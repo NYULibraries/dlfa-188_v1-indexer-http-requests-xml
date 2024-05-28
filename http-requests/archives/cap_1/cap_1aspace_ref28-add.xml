@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">cap_1aspace_ref28</field>
+    <field name="ead_ssi">cap_1</field>
+    <field name="parent_ssi">aspace_2f14f32be2bce7765d3a40d08c70f910</field>
+    <field name="parent_ssm">aspace_2f14f32be2bce7765d3a40d08c70f910</field>
+    <field name="parent_unittitles_ssm">Digitized Publications</field>
+    <field name="parent_unittitles_teim">Digitized Publications</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+    <field name="collection_ssm">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+    <field name="collection_unitid_ssm">CAP.1</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">American Carbon Manual</field>
+    <field name="unittitle_teim">American Carbon Manual</field>
+    <field name="unitid_teim">cap1_ref28</field>
+    <field name="unitid_ssm">cap1_ref28</field>
+    <field name="unitdate_teim">1868</field>
+    <field name="corpname_teim">Scovill and Adams Company</field>
+    <field name="corpname_ssm">Scovill and Adams Company</field>
+    <field name="geogname_teim">New York (N.Y.).</field>
+    <field name="geogname_ssm">New York (N.Y.).</field>
+    <field name="persname_teim">Wilson, Edward L. (Edward Livingston), 1838-1903</field>
+    <field name="persname_ssm">Wilson, Edward L. (Edward Livingston), 1838-1903</field>
+    <field name="subject_teim">Photography</field>
+    <field name="subject_teim">Photography</field>
+    <field name="subject_ssm">Photography</field>
+    <field name="dao_teim">American Carbon Manual: 1868</field>
+    <field name="dao_ssm">American Carbon Manual: 1868</field>
+    <field name="ref_ssi">aspace_ref28</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">object: 14</field>
+    <field name="location_si">object: 14</field>
+    <field name="name_sim">Scovill and Adams Company</field>
+    <field name="name_sim">Wilson, Edward L. (Edward Livingston), 1838-1903</field>
+    <field name="name_teim">Scovill and Adams Company</field>
+    <field name="name_teim">Wilson, Edward L. (Edward Livingston), 1838-1903</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="place_ssm">New York (N.Y.).</field>
+    <field name="place_sim">New York (N.Y.).</field>
+    <field name="subject_sim">Photography</field>
+    <field name="collection_teim">The Penumbra Foundation Collection of Digitized Photography Manuals</field>
+    <field name="collection_unitid_teim">CAP.1</field>
+    <field name="series_sim">Digitized Publications</field>
+    <field name="series_si">Digitized Publications &gt;&gt; American Carbon Manual</field>
+    <field name="heading_ssm">American Carbon Manual</field>
+    <field name="unitdate_ssm">1868</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

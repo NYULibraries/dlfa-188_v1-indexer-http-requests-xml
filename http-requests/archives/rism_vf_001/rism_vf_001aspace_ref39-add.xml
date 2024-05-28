@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_vf_001aspace_ref39</field>
+    <field name="ead_ssi">rism_vf_001</field>
+    <field name="parent_ssi">aspace_ref38</field>
+    <field name="parent_ssm">aspace_60e71f1793156a5bc6ca2909f688d6d4</field>
+    <field name="parent_ssm">aspace_ref38</field>
+    <field name="parent_unittitles_ssm">Africa</field>
+    <field name="parent_unittitles_ssm">Africa: Dwellings</field>
+    <field name="parent_unittitles_teim">Africa</field>
+    <field name="parent_unittitles_teim">Africa: Dwellings</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_ssm">RISM.VF.001</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Dwellings: Foreword to Urban Housing in Africa, by Friedrich W. Schwerdtfeger</field>
+    <field name="unittitle_teim">Dwellings: Foreword to Urban Housing in Africa, by Friedrich W. Schwerdtfeger</field>
+    <field name="unitid_teim">RISM 23077</field>
+    <field name="unitid_ssm">RISM 23077</field>
+    <field name="unitdate_normal_ssm">1981/1981</field>
+    <field name="unitdate_normal_teim">1981/1981</field>
+    <field name="unitdate_normal_sim">1981/1981</field>
+    <field name="unitdate_inclusive_teim">1981</field>
+    <field name="geogname_teim">Africa</field>
+    <field name="geogname_ssm">Africa</field>
+    <field name="persname_teim">Smith, M. G. (Michael Garfield)</field>
+    <field name="persname_ssm">Smith, M. G. (Michael Garfield)</field>
+    <field name="subject_teim">Dwellings.</field>
+    <field name="subject_teim">Dwellings.</field>
+    <field name="subject_ssm">Dwellings.</field>
+    <field name="ref_ssi">aspace_ref39</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="name_sim">Smith, M. G. (Michael Garfield)</field>
+    <field name="name_teim">Smith, M. G. (Michael Garfield)</field>
+    <field name="place_ssm">Africa</field>
+    <field name="place_sim">Africa</field>
+    <field name="subject_sim">Dwellings.</field>
+    <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_teim">RISM.VF.001</field>
+    <field name="series_sim">Africa</field>
+    <field name="series_sim">Africa: Dwellings</field>
+    <field name="series_si">Africa &gt;&gt; Africa: Dwellings &gt;&gt; Dwellings: Foreword to Urban Housing in Africa, by Friedrich W. Schwerdtfeger</field>
+    <field name="heading_ssm">Dwellings: Foreword to Urban Housing in Africa, by Friedrich W. Schwerdtfeger</field>
+    <field name="unitdate_start_sim">1981</field>
+    <field name="unitdate_start_ssm">1981</field>
+    <field name="unitdate_start_si">1981</field>
+    <field name="unitdate_end_sim">1981</field>
+    <field name="unitdate_end_ssm">1981</field>
+    <field name="unitdate_end_si">1981</field>
+    <field name="unitdate_ssm">Inclusive, 1981</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">15</field>
+  </doc>
+</add>

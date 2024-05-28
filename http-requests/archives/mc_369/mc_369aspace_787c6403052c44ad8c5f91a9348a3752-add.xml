@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_369aspace_787c6403052c44ad8c5f91a9348a3752</field>
+    <field name="ead_ssi">mc_369</field>
+    <field name="parent_ssi">aspace_fd0e8fd1302d501222c16d70e91d8e13</field>
+    <field name="parent_ssm">aspace_fd0e8fd1302d501222c16d70e91d8e13</field>
+    <field name="parent_unittitles_ssm">Series I. Administrative Records</field>
+    <field name="parent_unittitles_teim">Series I. Administrative Records</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Laura Chen-Schultz Collection on Asian Working Artists</field>
+    <field name="collection_ssm">Laura Chen-Schultz Collection on Asian Working Artists</field>
+    <field name="collection_unitid_ssm">MC.369</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">AWA Event Calendars</field>
+    <field name="unittitle_teim">AWA Event Calendars</field>
+    <field name="unitdate_normal_ssm">2000/2003</field>
+    <field name="unitdate_normal_teim">2000/2003</field>
+    <field name="unitdate_normal_sim">2000/2003</field>
+    <field name="unitdate_inclusive_teim">2000-2003</field>
+    <field name="ref_ssi">aspace_787c6403052c44ad8c5f91a9348a3752</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Folder: 3</field>
+    <field name="location_ssm">Folder: 3</field>
+    <field name="location_si">Folder: 3</field>
+    <field name="collection_teim">Laura Chen-Schultz Collection on Asian Working Artists</field>
+    <field name="collection_unitid_teim">MC.369</field>
+    <field name="series_sim">Series I. Administrative Records</field>
+    <field name="series_si">Series I. Administrative Records &gt;&gt; AWA Event Calendars</field>
+    <field name="heading_ssm">AWA Event Calendars</field>
+    <field name="unitdate_start_sim">2000</field>
+    <field name="unitdate_start_ssm">2000</field>
+    <field name="unitdate_start_si">2000</field>
+    <field name="unitdate_end_sim">2003</field>
+    <field name="unitdate_end_ssm">2003</field>
+    <field name="unitdate_end_si">2003</field>
+    <field name="unitdate_ssm">Inclusive, 2000-2003</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">4</field>
+  </doc>
+</add>

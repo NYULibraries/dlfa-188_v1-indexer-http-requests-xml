@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_284aspace_2bcf088dda2fca50602d04cd39a06a38</field>
+    <field name="ead_ssi">mc_284</field>
+    <field name="component_level_isim">1</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Mario Lombardo Scores</field>
+    <field name="collection_ssm">Mario Lombardo Scores</field>
+    <field name="collection_unitid_ssm">MC.284</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Scores</field>
+    <field name="unittitle_teim">Scores</field>
+    <field name="unitdate_normal_ssm">1972/1996</field>
+    <field name="unitdate_normal_teim">1972/1996</field>
+    <field name="unitdate_normal_sim">1972/1996</field>
+    <field name="unitdate_inclusive_teim">1972; 1984-1996</field>
+    <field name="ref_ssi">aspace_2bcf088dda2fca50602d04cd39a06a38</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 5, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Mario Lombardo Scores</field>
+    <field name="collection_unitid_teim">MC.284</field>
+    <field name="series_si">Scores</field>
+    <field name="heading_ssm">Scores</field>
+    <field name="unitdate_start_sim">1972</field>
+    <field name="unitdate_start_ssm">1972</field>
+    <field name="unitdate_start_si">1972</field>
+    <field name="unitdate_end_sim">1996</field>
+    <field name="unitdate_end_ssm">1996</field>
+    <field name="unitdate_end_si">1996</field>
+    <field name="unitdate_ssm">Inclusive, 1972; 1984-1996</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">120</field>
+  </doc>
+</add>

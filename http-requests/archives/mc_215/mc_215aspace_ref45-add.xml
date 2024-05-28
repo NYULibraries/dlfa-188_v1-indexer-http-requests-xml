@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_215aspace_ref45</field>
+    <field name="ead_ssi">mc_215</field>
+    <field name="parent_ssi">aspace_ref3</field>
+    <field name="parent_ssm">aspace_ref3</field>
+    <field name="parent_unittitles_ssm">Series I: Publications and Professional Papers</field>
+    <field name="parent_unittitles_teim">Series I: Publications and Professional Papers</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Edith Kramer Papers</field>
+    <field name="collection_ssm">Edith Kramer Papers</field>
+    <field name="collection_unitid_ssm">MC.215/repositories/6/resources/2013</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">&lt;em&gt;American Journal of Art Therapy&lt;/em&gt;, Volume 20</field>
+    <field name="unittitle_teim">American Journal of Art Therapy, Volume 20</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/625272</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/625272</field>
+    <field name="unitdate_normal_ssm">1980/1980</field>
+    <field name="unitdate_normal_teim">1980/1980</field>
+    <field name="unitdate_normal_sim">1980/1980</field>
+    <field name="unitdate_inclusive_teim">1980</field>
+    <field name="ref_ssi">aspace_ref45</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 2, object: 20</field>
+    <field name="location_ssm">object: 20</field>
+    <field name="location_si">object: 20</field>
+    <field name="collection_teim">Edith Kramer Papers</field>
+    <field name="collection_unitid_teim">MC.215/repositories/6/resources/2013</field>
+    <field name="series_sim">Series I: Publications and Professional Papers</field>
+    <field name="series_si">Series I: Publications and Professional Papers &gt;&gt; &lt;em&gt;American Journal of Art Therapy&lt;/em&gt;, Volume 20</field>
+    <field name="heading_ssm">American Journal of Art Therapy, Volume 20</field>
+    <field name="unitdate_start_sim">1980</field>
+    <field name="unitdate_start_ssm">1980</field>
+    <field name="unitdate_start_si">1980</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, 1980</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">39</field>
+  </doc>
+</add>

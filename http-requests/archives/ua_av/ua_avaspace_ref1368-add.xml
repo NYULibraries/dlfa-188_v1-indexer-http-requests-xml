@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1368</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Interview with Louis Scheeder on MSG Metro Learning Center TV show "School's Out" </field>
+    <field name="unittitle_teim">Interview with Louis Scheeder on MSG Metro Learning Center TV show "School's Out" </field>
+    <field name="unitid_teim">AV3344</field>
+    <field name="unitid_ssm">AV3344</field>
+    <field name="unitdate_teim">February 23, 1999</field>
+    <field name="scopecontent_teim">Interview segment from "School's Out" a TV show geared toward teens interested in arts and humanities. Director of NYU's Classical Studio, Louis Scheeder is interviewed, discussing Shakespeare and the film Shakespeare in Love.</field>
+    <field name="corpname_teim">Tisch School of the Arts</field>
+    <field name="corpname_ssm">Tisch School of the Arts</field>
+    <field name="persname_teim">Scheeder, Louis</field>
+    <field name="persname_teim">Shakespeare, William, 1564-1616</field>
+    <field name="persname_ssm">Scheeder, Louis</field>
+    <field name="persname_ssm">Shakespeare, William, 1564-1616</field>
+    <field name="title_teim">Shakespeare in love (Motion picture)</field>
+    <field name="title_ssm">Shakespeare in love (Motion picture)</field>
+    <field name="ref_ssi">aspace_ref1368</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 92</field>
+    <field name="location_si">Box: 92</field>
+    <field name="name_sim">Tisch School of the Arts</field>
+    <field name="name_sim">Scheeder, Louis</field>
+    <field name="name_sim">Shakespeare, William, 1564-1616</field>
+    <field name="name_teim">Tisch School of the Arts</field>
+    <field name="name_teim">Scheeder, Louis</field>
+    <field name="name_teim">Shakespeare, William, 1564-1616</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Interview with Louis Scheeder on MSG Metro Learning Center TV show "School's Out" </field>
+    <field name="heading_ssm">Interview with Louis Scheeder on MSG Metro Learning Center TV show "School's Out" </field>
+    <field name="unitdate_ssm">February 23, 1999</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">832</field>
+  </doc>
+</add>

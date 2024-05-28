@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_rg_6aspace_ref390</field>
+    <field name="ead_ssi">rism_rg_6</field>
+    <field name="parent_ssi">aspace_ref389</field>
+    <field name="parent_ssm">aspace_ref379</field>
+    <field name="parent_ssm">aspace_ref389</field>
+    <field name="parent_unittitles_ssm">Series XV. Audiovisual Materials</field>
+    <field name="parent_unittitles_ssm">Subseries B. Appended materials</field>
+    <field name="parent_unittitles_teim">Series XV. Audiovisual Materials</field>
+    <field name="parent_unittitles_teim">Subseries B. Appended materials</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Jamaica Peace Corps Training Program</field>
+    <field name="collection_ssm">Records of the Jamaica Peace Corps Training Program</field>
+    <field name="collection_unitid_ssm">RISM.RG.6/repositories/6/resources/2268</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Two compact disc copies of Louise Bennett perforance at the Peace Corps graduation ceremony</field>
+    <field name="unittitle_teim">Two compact disc copies of Louise Bennett perforance at the Peace Corps graduation ceremony</field>
+    <field name="unitid_teim">cuid19</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/712667</field>
+    <field name="unitid_ssm">cuid19</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/712667</field>
+    <field name="unitdate_normal_ssm">1960/1982</field>
+    <field name="unitdate_normal_teim">1960/1982</field>
+    <field name="unitdate_normal_sim">1960/1982</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="ref_ssi">aspace_ref390</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 17</field>
+    <field name="location_si">Box: 17</field>
+    <field name="collection_teim">Records of the Jamaica Peace Corps Training Program</field>
+    <field name="collection_unitid_teim">RISM.RG.6/repositories/6/resources/2268</field>
+    <field name="series_sim">Series XV. Audiovisual Materials</field>
+    <field name="series_sim">Subseries B. Appended materials</field>
+    <field name="series_si">Series XV. Audiovisual Materials &gt;&gt; Subseries B. Appended materials &gt;&gt; Two compact disc copies of Louise Bennett perforance at the Peace Corps graduation ceremony</field>
+    <field name="heading_ssm">Two compact disc copies of Louise Bennett perforance at the Peace Corps graduation ceremony</field>
+    <field name="unitdate_start_sim">1960</field>
+    <field name="unitdate_start_ssm">1960</field>
+    <field name="unitdate_start_si">1960</field>
+    <field name="unitdate_end_sim">1982</field>
+    <field name="unitdate_end_ssm">1982</field>
+    <field name="unitdate_end_si">1982</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">299</field>
+  </doc>
+</add>

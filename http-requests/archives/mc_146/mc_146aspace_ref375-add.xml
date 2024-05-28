@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_146aspace_ref375</field>
+    <field name="ead_ssi">mc_146</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I: De Gaulle Materials and related materials</field>
+    <field name="parent_unittitles_teim">Series I: De Gaulle Materials and related materials</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Nicholas Wahl Papers</field>
+    <field name="collection_ssm">Nicholas Wahl Papers</field>
+    <field name="collection_unitid_ssm">MC.146/repositories/6/resources/1959</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries 2: Institut Charles de Gaulle</field>
+    <field name="unittitle_teim">Subseries 2: Institut Charles de Gaulle</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/602587</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/602587</field>
+    <field name="scopecontent_teim">This subseries consists of 1.5 linear feet and is organized chronologically by the date of the printed materials, conferences, and correspondence. Documents consist of reprints from conferences sponsored by this institute as well as correspondence from or addressed to the Institut. See www.charles-de-gaulle.org/ for descriptions of the Institut Charles de Gaulle.</field>
+    <field name="ref_ssi">aspace_ref375</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">Nicholas Wahl Papers</field>
+    <field name="collection_unitid_teim">MC.146/repositories/6/resources/1959</field>
+    <field name="series_sim">Series I: De Gaulle Materials and related materials</field>
+    <field name="series_si">Series I: De Gaulle Materials and related materials &gt;&gt; Subseries 2: Institut Charles de Gaulle</field>
+    <field name="heading_ssm">Subseries 2: Institut Charles de Gaulle</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">362</field>
+  </doc>
+</add>

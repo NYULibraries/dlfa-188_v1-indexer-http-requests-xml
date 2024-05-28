@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_8eba79e27b6de4c5d02ca4fba6a40736</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Mannes, Marya</field>
+    <field name="unittitle_teim">Mannes, Marya</field>
+    <field name="unitid_teim">AV59</field>
+    <field name="unitid_ssm">AV59</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="unitdate_teim"> </field>
+    <field name="phystech_teim">Original Format: ¼" Open Reel Audio, Duration: 15 min.</field>
+    <field name="ref_ssi">aspace_8eba79e27b6de4c5d02ca4fba6a40736</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, reel: AV59</field>
+    <field name="location_ssm">reel: AV59</field>
+    <field name="location_ssm">Box: Digitized Access Files, file: AV59</field>
+    <field name="location_ssm">file: AV59</field>
+    <field name="location_si">file: AV59</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Mannes, Marya</field>
+    <field name="heading_ssm">Mannes, Marya</field>
+    <field name="unitdate_ssm">undated  </field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">49</field>
+  </doc>
+</add>

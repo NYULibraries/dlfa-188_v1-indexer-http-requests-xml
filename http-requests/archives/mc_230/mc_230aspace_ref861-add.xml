@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_230aspace_ref861</field>
+    <field name="ead_ssi">mc_230</field>
+    <field name="parent_ssi">aspace_ref12</field>
+    <field name="parent_ssm">aspace_ref12</field>
+    <field name="parent_unittitles_ssm">Series VII. Lecture Presentation Support Images</field>
+    <field name="parent_unittitles_teim">Series VII. Lecture Presentation Support Images</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Collection of Late 19th Century Photographic Materials</field>
+    <field name="collection_ssm">New York University Archives Collection of Late 19th Century Photographic Materials</field>
+    <field name="collection_unitid_ssm">MC.230</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Chart -- Pleicedes Showing Nebula Around Stars Taken with 8 inch Telescope</field>
+    <field name="unittitle_teim">Chart -- Pleicedes Showing Nebula Around Stars Taken with 8 inch Telescope</field>
+    <field name="unitid_teim">cuid14772</field>
+    <field name="unitid_ssm">cuid14772</field>
+    <field name="unitdate_normal_ssm">1863/1899</field>
+    <field name="unitdate_normal_teim">1863/1899</field>
+    <field name="unitdate_normal_sim">1863/1899</field>
+    <field name="unitdate_inclusive_teim">undated</field>
+    <field name="scopecontent_teim">Sample sent to Mrs. Draper December 12 1897.</field>
+    <field name="dao_teim">Chart of Pleicedes showing nebula around stars taken with 8 inch telescope (14): undated</field>
+    <field name="dao_ssm">Chart of Pleicedes showing nebula around stars taken with 8 inch telescope (14): undated</field>
+    <field name="ref_ssi">aspace_ref861</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 33, Folder: 14</field>
+    <field name="location_ssm">Folder: 14</field>
+    <field name="location_si">Folder: 14</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Collection of Late 19th Century Photographic Materials</field>
+    <field name="collection_unitid_teim">MC.230</field>
+    <field name="series_sim">Series VII. Lecture Presentation Support Images</field>
+    <field name="series_si">Series VII. Lecture Presentation Support Images &gt;&gt; Chart -- Pleicedes Showing Nebula Around Stars Taken with 8 inch Telescope</field>
+    <field name="heading_ssm">Chart -- Pleicedes Showing Nebula Around Stars Taken with 8 inch Telescope</field>
+    <field name="unitdate_start_sim">1863</field>
+    <field name="unitdate_start_ssm">1863</field>
+    <field name="unitdate_start_si">1863</field>
+    <field name="unitdate_end_sim">1899</field>
+    <field name="unitdate_end_ssm">1899</field>
+    <field name="unitdate_end_si">1899</field>
+    <field name="unitdate_ssm">Inclusive, undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="sort_ii">508</field>
+  </doc>
+</add>

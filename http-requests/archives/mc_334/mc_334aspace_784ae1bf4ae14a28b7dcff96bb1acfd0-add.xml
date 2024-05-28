@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_334aspace_784ae1bf4ae14a28b7dcff96bb1acfd0</field>
+    <field name="ead_ssi">mc_334</field>
+    <field name="parent_ssi">aspace_ebf32d05709fe3f198ea0a99e79137af</field>
+    <field name="parent_ssm">aspace_ebf32d05709fe3f198ea0a99e79137af</field>
+    <field name="parent_unittitles_ssm">RG 25.0. College of Dentistry</field>
+    <field name="parent_unittitles_teim">RG 25.0. College of Dentistry</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
+    <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
+    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">
+      &lt;em&gt;New York University Journal of Dentistry&lt;/em&gt;
+    </field>
+    <field name="unittitle_teim">
+      New York University Journal of Dentistry
+    </field>
+    <field name="unitid_teim">/repositories/6/archival_objects/945322</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/945322</field>
+    <field name="unitdate_normal_ssm">1963/1969</field>
+    <field name="unitdate_normal_teim">1963/1969</field>
+    <field name="unitdate_normal_sim">1963/1969</field>
+    <field name="unitdate_inclusive_teim">1963-1969</field>
+    <field name="ref_ssi">aspace_784ae1bf4ae14a28b7dcff96bb1acfd0</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 233, Folder: 1-3</field>
+    <field name="location_ssm">Folder: 1-3</field>
+    <field name="location_si">Folder: 1-3</field>
+    <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
+    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="series_sim">RG 25.0. College of Dentistry</field>
+    <field name="series_si">RG 25.0. College of Dentistry &gt;&gt; 
+      &lt;em&gt;New York University Journal of Dentistry&lt;/em&gt;
+    </field>
+    <field name="heading_ssm">
+      New York University Journal of Dentistry
+    </field>
+    <field name="unitdate_start_sim">1963</field>
+    <field name="unitdate_start_ssm">1963</field>
+    <field name="unitdate_start_si">1963</field>
+    <field name="unitdate_end_sim">1969</field>
+    <field name="unitdate_end_ssm">1969</field>
+    <field name="unitdate_end_si">1969</field>
+    <field name="unitdate_ssm">Inclusive, 1963-1969</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">1011</field>
+  </doc>
+</add>

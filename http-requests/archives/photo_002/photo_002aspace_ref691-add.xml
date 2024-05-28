@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">photo_002aspace_ref691</field>
+    <field name="ead_ssi">photo_002</field>
+    <field name="parent_ssi">aspace_ref661</field>
+    <field name="parent_ssm">aspace_ref661</field>
+    <field name="parent_unittitles_ssm">Series II: Glass Plates</field>
+    <field name="parent_unittitles_teim">Series II: Glass Plates</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Historic Photographs and Drawings Collection</field>
+    <field name="collection_ssm">Historic Photographs and Drawings Collection</field>
+    <field name="collection_unitid_ssm">Photo.002/repositories/6/resources/2115</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Fly Lake</field>
+    <field name="unittitle_teim">Fly Lake</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/638420</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/638420</field>
+    <field name="unitdate_teim">1909</field>
+    <field name="dao_teim">#29 Fly Lake: 1909</field>
+    <field name="dao_ssm">#29 Fly Lake: 1909</field>
+    <field name="ref_ssi">aspace_ref691</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 1, Item: 29</field>
+    <field name="location_ssm">Item: 29</field>
+    <field name="location_si">Item: 29</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">Historic Photographs and Drawings Collection</field>
+    <field name="collection_unitid_teim">Photo.002/repositories/6/resources/2115</field>
+    <field name="series_sim">Series II: Glass Plates</field>
+    <field name="series_si">Series II: Glass Plates &gt;&gt; Fly Lake</field>
+    <field name="heading_ssm">Fly Lake</field>
+    <field name="unitdate_ssm">1909</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">279</field>
+  </doc>
+</add>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rg_3_0_3aspace_ref162</field>
+    <field name="ead_ssi">rg_3_0_3</field>
+    <field name="parent_ssi">aspace_ref160</field>
+    <field name="parent_ssm">aspace_ref152</field>
+    <field name="parent_ssm">aspace_ref160</field>
+    <field name="parent_unittitles_ssm">Series II: Finances</field>
+    <field name="parent_unittitles_ssm">Students</field>
+    <field name="parent_unittitles_teim">Series II: Finances</field>
+    <field name="parent_unittitles_teim">Students</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Office of the Chancellor (Henry MacCracken)</field>
+    <field name="collection_ssm">Records of the Office of the Chancellor (Henry MacCracken)</field>
+    <field name="collection_unitid_ssm">RG.3.0.3/repositories/6/resources/2171</field>
+    <field name="level_sim">otherlevel</field>
+    <field name="unittitle_ssm">Dormitory rentals, admission and scholarships</field>
+    <field name="unittitle_teim">Dormitory rentals, admission and scholarships</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/662647</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/662647</field>
+    <field name="unitdate_normal_ssm">1896/1901</field>
+    <field name="unitdate_normal_teim">1896/1901</field>
+    <field name="unitdate_normal_sim">1896/1901</field>
+    <field name="unitdate_inclusive_teim">1896, 1901, Undated</field>
+    <field name="ref_ssi">aspace_ref162</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 13, Folder: 2</field>
+    <field name="location_ssm">Folder: 2</field>
+    <field name="location_si">Folder: 2</field>
+    <field name="collection_teim">Records of the Office of the Chancellor (Henry MacCracken)</field>
+    <field name="collection_unitid_teim">RG.3.0.3/repositories/6/resources/2171</field>
+    <field name="series_sim">Series II: Finances</field>
+    <field name="series_sim">Students</field>
+    <field name="series_si">Series II: Finances &gt;&gt; Students &gt;&gt; Dormitory rentals, admission and scholarships</field>
+    <field name="heading_ssm">Dormitory rentals, admission and scholarships</field>
+    <field name="unitdate_start_sim">1896</field>
+    <field name="unitdate_start_ssm">1896</field>
+    <field name="unitdate_start_si">1896</field>
+    <field name="unitdate_end_sim">1901</field>
+    <field name="unitdate_end_ssm">1901</field>
+    <field name="unitdate_end_si">1901</field>
+    <field name="unitdate_ssm">Inclusive, 1896, 1901, Undated</field>
+    <field name="date_range_sim">1801-1900</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">147</field>
+  </doc>
+</add>

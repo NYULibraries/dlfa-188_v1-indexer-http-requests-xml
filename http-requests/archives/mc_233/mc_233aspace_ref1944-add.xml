@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_233aspace_ref1944</field>
+    <field name="ead_ssi">mc_233</field>
+    <field name="parent_ssi">aspace_ref1862</field>
+    <field name="parent_ssm">aspace_ref1744</field>
+    <field name="parent_ssm">aspace_ref1862</field>
+    <field name="parent_unittitles_ssm">Series VII: Correspondence</field>
+    <field name="parent_unittitles_ssm">Subseries B: By Correspondent</field>
+    <field name="parent_unittitles_teim">Series VII: Correspondence</field>
+    <field name="parent_unittitles_teim">Subseries B: By Correspondent</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Tony Judt Papers</field>
+    <field name="collection_ssm">Tony Judt Papers</field>
+    <field name="collection_unitid_ssm">MC.233</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Mitten, Richard</field>
+    <field name="unittitle_teim">Mitten, Richard</field>
+    <field name="unitdate_teim">undated</field>
+    <field name="ref_ssi">aspace_ref1944</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 26, Folder: 27</field>
+    <field name="location_ssm">Folder: 27</field>
+    <field name="location_si">Folder: 27</field>
+    <field name="collection_teim">Tony Judt Papers</field>
+    <field name="collection_unitid_teim">MC.233</field>
+    <field name="series_sim">Series VII: Correspondence</field>
+    <field name="series_sim">Subseries B: By Correspondent</field>
+    <field name="series_si">Series VII: Correspondence &gt;&gt; Subseries B: By Correspondent &gt;&gt; Mitten, Richard</field>
+    <field name="heading_ssm">Mitten, Richard</field>
+    <field name="unitdate_ssm">undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1863</field>
+  </doc>
+</add>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_2cb7cb2ead67f89f8adcc70843e3917d</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Odyssey of Runyon Jones, The</field>
+    <field name="unittitle_teim">Odyssey of Runyon Jones, The</field>
+    <field name="unitid_teim">cuid17540</field>
+    <field name="unitid_ssm">cuid17540</field>
+    <field name="unitdate_normal_ssm">1941-06-08/1941-06-08</field>
+    <field name="unitdate_normal_teim">1941-06-08/1941-06-08</field>
+    <field name="unitdate_normal_sim">1941-06-08/1941-06-08</field>
+    <field name="unitdate_teim">June 8, 1941</field>
+    <field name="phystech_teim">Duration: 15 minutes, Preservation Note: Multiple bad splices had to be repaired</field>
+    <field name="dao_teim">Odyssey of Runyon Jones, The, June 8, 1941</field>
+    <field name="dao_ssm">Odyssey of Runyon Jones, The, June 8, 1941</field>
+    <field name="ref_ssi">aspace_2cb7cb2ead67f89f8adcc70843e3917d</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 157, reel: AV_449</field>
+    <field name="location_ssm">reel: AV_449</field>
+    <field name="location_si">reel: AV_449</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Odyssey of Runyon Jones, The</field>
+    <field name="heading_ssm">Odyssey of Runyon Jones, The</field>
+    <field name="unitdate_ssm">June 8, 1941</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">398</field>
+  </doc>
+</add>

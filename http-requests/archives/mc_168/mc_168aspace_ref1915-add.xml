@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_168aspace_ref1915</field>
+    <field name="ead_ssi">mc_168</field>
+    <field name="parent_ssi">aspace_ref1290</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref1290</field>
+    <field name="parent_unittitles_ssm">Series I : Legislative</field>
+    <field name="parent_unittitles_ssm">Subseries V: Topical Files</field>
+    <field name="parent_unittitles_teim">Series I : Legislative</field>
+    <field name="parent_unittitles_teim">Subseries V: Topical Files</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">John Brademas Congressional Papers</field>
+    <field name="collection_ssm">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Holy Cross Hospital (Ester Hyman)</field>
+    <field name="unittitle_teim">Holy Cross Hospital (Ester Hyman)</field>
+    <field name="unitid_teim">cuid6157</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/609564</field>
+    <field name="unitid_ssm">cuid6157</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/609564</field>
+    <field name="unitdate_teim">May 1979-Jan 1980</field>
+    <field name="ref_ssi">aspace_ref1915</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: I:25, Folder: 4</field>
+    <field name="location_ssm">Folder: 4</field>
+    <field name="location_si">Folder: 4</field>
+    <field name="collection_teim">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="series_sim">Series I : Legislative</field>
+    <field name="series_sim">Subseries V: Topical Files</field>
+    <field name="series_si">Series I : Legislative &gt;&gt; Subseries V: Topical Files &gt;&gt; Holy Cross Hospital (Ester Hyman)</field>
+    <field name="heading_ssm">Holy Cross Hospital (Ester Hyman)</field>
+    <field name="unitdate_ssm">May 1979-Jan 1980</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">952</field>
+  </doc>
+</add>

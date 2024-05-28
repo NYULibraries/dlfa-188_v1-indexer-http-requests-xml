@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_258aspace_c5a8e82f95e6fdd49e0fc95b8a0ef2c5</field>
+    <field name="ead_ssi">mc_258</field>
+    <field name="parent_ssi">aspace_7b8578ec7a951aaedddf99de62d125bc</field>
+    <field name="parent_ssm">aspace_7b8578ec7a951aaedddf99de62d125bc</field>
+    <field name="parent_unittitles_ssm">Library Accession Books inventory</field>
+    <field name="parent_unittitles_teim">Library Accession Books inventory</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Library Accession Books</field>
+    <field name="collection_ssm">New York University Library Accession Books</field>
+    <field name="collection_unitid_ssm">MC.258</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Library Accession Book: Catalogue of Authors and Catalogue of Subjects</field>
+    <field name="unittitle_teim">Library Accession Book: Catalogue of Authors and Catalogue of Subjects</field>
+    <field name="unitdate_teim">Undated</field>
+    <field name="ref_ssi">aspace_c5a8e82f95e6fdd49e0fc95b8a0ef2c5</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 57</field>
+    <field name="location_si">Box: 57</field>
+    <field name="collection_teim">New York University Library Accession Books</field>
+    <field name="collection_unitid_teim">MC.258</field>
+    <field name="series_sim">Library Accession Books inventory</field>
+    <field name="series_si">Library Accession Books inventory &gt;&gt; Library Accession Book: Catalogue of Authors and Catalogue of Subjects</field>
+    <field name="heading_ssm">Library Accession Book: Catalogue of Authors and Catalogue of Subjects</field>
+    <field name="unitdate_ssm">Undated</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">59</field>
+  </doc>
+</add>

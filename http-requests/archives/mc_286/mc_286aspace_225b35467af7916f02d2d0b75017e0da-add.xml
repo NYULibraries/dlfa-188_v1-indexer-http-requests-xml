@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_286aspace_225b35467af7916f02d2d0b75017e0da</field>
+    <field name="ead_ssi">mc_286</field>
+    <field name="parent_ssi">aspace_73fd9e1d40b0d22b4464153ff53b115a</field>
+    <field name="parent_ssm">aspace_73fd9e1d40b0d22b4464153ff53b115a</field>
+    <field name="parent_unittitles_ssm">New York College of Music (RG 21.8)</field>
+    <field name="parent_unittitles_teim">New York College of Music (RG 21.8)</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Collection of Course Bulletins</field>
+    <field name="collection_ssm">New York University Archives Collection of Course Bulletins</field>
+    <field name="collection_unitid_ssm">MC.286/repositories/6/resources/2825</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Catalogue of the New York College of Music</field>
+    <field name="unittitle_teim">Catalogue of the New York College of Music</field>
+    <field name="unitid_teim">cuid18280</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/966167</field>
+    <field name="unitid_ssm">cuid18280</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/966167</field>
+    <field name="unitdate_normal_ssm">1924/1925</field>
+    <field name="unitdate_normal_teim">1924/1925</field>
+    <field name="unitdate_normal_sim">1924/1925</field>
+    <field name="unitdate_inclusive_teim">1924-1925</field>
+    <field name="ref_ssi">aspace_225b35467af7916f02d2d0b75017e0da</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 51, Folder: 12</field>
+    <field name="location_ssm">Folder: 12</field>
+    <field name="location_si">Folder: 12</field>
+    <field name="collection_teim">New York University Archives Collection of Course Bulletins</field>
+    <field name="collection_unitid_teim">MC.286/repositories/6/resources/2825</field>
+    <field name="series_sim">New York College of Music (RG 21.8)</field>
+    <field name="series_si">New York College of Music (RG 21.8) &gt;&gt; Catalogue of the New York College of Music</field>
+    <field name="heading_ssm">Catalogue of the New York College of Music</field>
+    <field name="unitdate_start_sim">1924</field>
+    <field name="unitdate_start_ssm">1924</field>
+    <field name="unitdate_start_si">1924</field>
+    <field name="unitdate_end_sim">1925</field>
+    <field name="unitdate_end_ssm">1925</field>
+    <field name="unitdate_end_si">1925</field>
+    <field name="unitdate_ssm">Inclusive, 1924-1925</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">373</field>
+  </doc>
+</add>

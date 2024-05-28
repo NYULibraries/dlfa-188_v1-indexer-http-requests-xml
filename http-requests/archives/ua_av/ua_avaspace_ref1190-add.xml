@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1190</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Highlights in Jazz #21: Chet Baker &amp;amp; Frank Foster (Tape 1 of 3) </field>
+    <field name="unittitle_teim">Highlights in Jazz #21: Chet Baker &amp; Frank Foster (Tape 1 of 3) </field>
+    <field name="unitid_teim">AV2091</field>
+    <field name="unitid_ssm">AV2091</field>
+    <field name="unitdate_normal_ssm">1975-06-16/1975-06-16</field>
+    <field name="unitdate_normal_teim">1975-06-16/1975-06-16</field>
+    <field name="unitdate_normal_sim">1975-06-16/1975-06-16</field>
+    <field name="unitdate_teim">1975-06-16</field>
+    <field name="scopecontent_teim">These recordings may be part of a long-running series of concerts produced by Jack Kleinsinger, titled "Highlights in Jazz." The intermission music is titled "Loud Majority."</field>
+    <field name="scopecontent_teim">Performers on this recording include Frank Foster, Chet Baker, Bob Mover, Hal Galper, Dave Shapiro, Jimmy Madison, and Gene Bertonicini.</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes: "As with other tapes in this collection, there is an inherent constant sync error that is stabilized by time base correction, but ultimately results in moderate to severe flagging throughout. Additionally, there is a frequently severe skew error during the first third of content, which is triggered by inherent exposure adjustments during the performance. Skew and flagging contribute to mild to moderate jitter. Elsewhere, there are occasional mild dropouts and tape wear. Occasional inherent exposure adjustments and mild ghosting. Luma is adjusted to mitigate clipping from glare."</field>
+    <field name="persname_teim">Kleinsinger, Jack</field>
+    <field name="persname_teim">Baker, Chet</field>
+    <field name="persname_teim">Baker, Chet</field>
+    <field name="persname_ssm">Kleinsinger, Jack</field>
+    <field name="persname_ssm">Baker, Chet</field>
+    <field name="persname_ssm">Baker, Chet</field>
+    <field name="dao_teim">Highlights in Jazz #21: Chet Baker &amp; Frank Foster (Tape 1 of 3)</field>
+    <field name="dao_ssm">Highlights in Jazz #21: Chet Baker &amp; Frank Foster (Tape 1 of 3)</field>
+    <field name="ref_ssi">aspace_ref1190</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 53, reel: 2091</field>
+    <field name="location_ssm">reel: 2091</field>
+    <field name="location_si">reel: 2091</field>
+    <field name="name_sim">Kleinsinger, Jack</field>
+    <field name="name_sim">Baker, Chet</field>
+    <field name="name_teim">Kleinsinger, Jack</field>
+    <field name="name_teim">Baker, Chet</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Highlights in Jazz #21: Chet Baker &amp;amp; Frank Foster (Tape 1 of 3) </field>
+    <field name="heading_ssm">Highlights in Jazz #21: Chet Baker &amp; Frank Foster (Tape 1 of 3) </field>
+    <field name="unitdate_ssm">1975-06-16</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">524</field>
+  </doc>
+</add>

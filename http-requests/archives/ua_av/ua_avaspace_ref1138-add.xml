@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1138</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Jazz, the American Invention #5: Rhythm &amp;amp; Contemporary Music - Les McCann Quartet</field>
+    <field name="unittitle_teim">Jazz, the American Invention #5: Rhythm &amp; Contemporary Music - Les McCann Quartet</field>
+    <field name="unitid_teim">AV2906</field>
+    <field name="unitid_ssm">AV2906</field>
+    <field name="unitdate_normal_ssm">1973-10-31/1973-10-31</field>
+    <field name="unitdate_normal_teim">1973-10-31/1973-10-31</field>
+    <field name="unitdate_normal_sim">1973-10-31/1973-10-31</field>
+    <field name="unitdate_teim">1973-10-31</field>
+    <field name="phystech_teim">Original format: 1/2 inch open reel video; Transfer Technician Notes AV2906: "First few minutes feature a number of establishing shots with occasional inherent edits and crash records. Main portion of content begins around 8 minutes in. Les McCann Ltd performance plays well throughout, with occasional tape damage, flicker, ghosting, and mild tube burn. There are occasional portions that exhibit a very mild skew error, but it doesn't persist throughout the performance. High head switch error visible throughout. Moderate inherent audio distortion throughout, particularly during performance."</field>
+    <field name="phystech_teim">Transfer Technician Notes AV2907: "Content exists on about a third of the tape. Performance plays well throughout, though there is significant inherent audio distortion. Occasional dropouts and mild tape wear, with one instance of tape damage. Occasional mild ghosting. High head switch error visible throughout."</field>
+    <field name="genreform_teim">Jazz</field>
+    <field name="genreform_ssm">Jazz</field>
+    <field name="persname_teim">McCann, Les, 1935-</field>
+    <field name="persname_teim">Kleinsinger, Jack</field>
+    <field name="persname_ssm">McCann, Les, 1935-</field>
+    <field name="persname_ssm">Kleinsinger, Jack</field>
+    <field name="dao_teim">Jazz, the American Invention #5: Rhythm &amp; Contemporary Music - Les McCann Quartet</field>
+    <field name="dao_teim">Jazz, the American Invention #5: Rhythm &amp; Contemporary Music - Les McCann Quartet</field>
+    <field name="dao_ssm">Jazz, the American Invention #5: Rhythm &amp; Contemporary Music - Les McCann Quartet</field>
+    <field name="dao_ssm">Jazz, the American Invention #5: Rhythm &amp; Contemporary Music - Les McCann Quartet</field>
+    <field name="ref_ssi">aspace_ref1138</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 75, reel: 2906</field>
+    <field name="location_ssm">reel: 2906</field>
+    <field name="location_ssm">Box: 75, reel: 2907</field>
+    <field name="location_ssm">reel: 2907</field>
+    <field name="location_si">reel: 2907</field>
+    <field name="name_sim">McCann, Les, 1935-</field>
+    <field name="name_sim">Kleinsinger, Jack</field>
+    <field name="name_teim">McCann, Les, 1935-</field>
+    <field name="name_teim">Kleinsinger, Jack</field>
+    <field name="dao_sim">Online Access</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Jazz, the American Invention #5: Rhythm &amp;amp; Contemporary Music - Les McCann Quartet</field>
+    <field name="material_type_sim">Jazz</field>
+    <field name="material_type_ssm">Jazz</field>
+    <field name="heading_ssm">Jazz, the American Invention #5: Rhythm &amp; Contemporary Music - Les McCann Quartet</field>
+    <field name="unitdate_ssm">1973-10-31</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">644</field>
+  </doc>
+</add>

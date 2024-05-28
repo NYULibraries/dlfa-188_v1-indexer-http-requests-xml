@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_346aspace_e663c2b982fd85a4d7e2993f6cfc9efa</field>
+    <field name="ead_ssi">mc_346</field>
+    <field name="parent_ssi">aspace_15bd886f7053e63050ca680698b819c5</field>
+    <field name="parent_ssm">aspace_15bd886f7053e63050ca680698b819c5</field>
+    <field name="parent_unittitles_ssm">Faculty of Arts and Science, RG 21</field>
+    <field name="parent_unittitles_teim">Faculty of Arts and Science, RG 21</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Collection of Minutes</field>
+    <field name="collection_ssm">New York University Archives Collection of Minutes</field>
+    <field name="collection_unitid_ssm">MC.346</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Faculty Minutes</field>
+    <field name="unittitle_teim">Faculty Minutes</field>
+    <field name="unitdate_normal_ssm">1978/1980</field>
+    <field name="unitdate_normal_teim">1978/1980</field>
+    <field name="unitdate_normal_sim">1978/1980</field>
+    <field name="unitdate_inclusive_teim">1978-1980</field>
+    <field name="ref_ssi">aspace_e663c2b982fd85a4d7e2993f6cfc9efa</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 106</field>
+    <field name="location_si">Box: 106</field>
+    <field name="collection_teim">New York University Archives Collection of Minutes</field>
+    <field name="collection_unitid_teim">MC.346</field>
+    <field name="series_sim">Faculty of Arts and Science, RG 21</field>
+    <field name="series_si">Faculty of Arts and Science, RG 21 &gt;&gt; Faculty Minutes</field>
+    <field name="heading_ssm">Faculty Minutes</field>
+    <field name="unitdate_start_sim">1978</field>
+    <field name="unitdate_start_ssm">1978</field>
+    <field name="unitdate_start_si">1978</field>
+    <field name="unitdate_end_sim">1980</field>
+    <field name="unitdate_end_ssm">1980</field>
+    <field name="unitdate_end_si">1980</field>
+    <field name="unitdate_ssm">Inclusive, 1978-1980</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">132</field>
+  </doc>
+</add>

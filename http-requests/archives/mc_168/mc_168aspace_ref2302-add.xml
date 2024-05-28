@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_168aspace_ref2302</field>
+    <field name="ead_ssi">mc_168</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I : Legislative</field>
+    <field name="parent_unittitles_teim">Series I : Legislative</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Brademas Congressional Papers</field>
+    <field name="collection_ssm">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V: Voting Record</field>
+    <field name="unittitle_teim">Subseries V: Voting Record</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/609757</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/609757</field>
+    <field name="scopecontent_teim">Records measure 2 linear feet of material and indicate how Brademas voted on each bill that came before the House of Representatives during his tenure in Congress. There are two types of voting records: those created by the Democratic Study Group (DSG) (92nd Congress through the 96th Congress) and personal voting records kept by Brademas and his staff (86th Congress through the 96th Congress). Files are arranged chronologically under the type of voting record. Additional files include Voting Record Material, which contains individual voting records from the Congressional Quarterly Service and handwritten records kept by Brademas' staff; and a file containing material discussing Brademas' missed votes, which contains letters to the Speaker of the House explaining how Brademas would have voted if he had been present to vote, as well as letters to the Congressional Quarterly of the same type. These two files are placed in between the DSG Record Votes files and the Personal files.</field>
+    <field name="ref_ssi">aspace_ref2302</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="series_sim">Series I : Legislative</field>
+    <field name="series_si">Series I : Legislative &gt;&gt; Subseries V: Voting Record</field>
+    <field name="heading_ssm">Subseries V: Voting Record</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">1145</field>
+  </doc>
+</add>

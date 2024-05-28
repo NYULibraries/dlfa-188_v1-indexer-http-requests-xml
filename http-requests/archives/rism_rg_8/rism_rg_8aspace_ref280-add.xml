@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_rg_8aspace_ref280</field>
+    <field name="ead_ssi">rism_rg_8</field>
+    <field name="parent_ssi">aspace_ref263</field>
+    <field name="parent_ssm">aspace_ref219</field>
+    <field name="parent_ssm">aspace_ref263</field>
+    <field name="parent_unittitles_ssm">Series IV. Epidemiological Research Records</field>
+    <field name="parent_unittitles_ssm">Subseries E. Epidemiological Study Documents</field>
+    <field name="parent_unittitles_teim">Series IV. Epidemiological Research Records</field>
+    <field name="parent_unittitles_teim">Subseries E. Epidemiological Study Documents</field>
+    <field name="component_level_isim">3</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">Records of the Research Institute for the Study of Man's (RISM) Medical and Social Anthropological Research in Bolivia</field>
+    <field name="collection_ssm">Records of the Research Institute for the Study of Man's (RISM) Medical and Social Anthropological Research in Bolivia</field>
+    <field name="collection_unitid_ssm">RISM.RG.8/repositories/6/resources/2270</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">Coroico School</field>
+    <field name="unittitle_teim">Coroico School</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/713038</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/713038</field>
+    <field name="unitdate_normal_ssm">1964/1965</field>
+    <field name="unitdate_normal_teim">1964/1965</field>
+    <field name="unitdate_normal_sim">1964/1965</field>
+    <field name="unitdate_inclusive_teim">1964-1965</field>
+    <field name="ref_ssi">aspace_ref280</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 212, Folder: 1-5</field>
+    <field name="location_ssm">Folder: 1-5</field>
+    <field name="location_si">Folder: 1-5</field>
+    <field name="collection_teim">Records of the Research Institute for the Study of Man's (RISM) Medical and Social Anthropological Research in Bolivia</field>
+    <field name="collection_unitid_teim">RISM.RG.8/repositories/6/resources/2270</field>
+    <field name="series_sim">Series IV. Epidemiological Research Records</field>
+    <field name="series_sim">Subseries E. Epidemiological Study Documents</field>
+    <field name="series_si">Series IV. Epidemiological Research Records &gt;&gt; Subseries E. Epidemiological Study Documents &gt;&gt; Coroico School</field>
+    <field name="heading_ssm">Coroico School</field>
+    <field name="unitdate_start_sim">1964</field>
+    <field name="unitdate_start_ssm">1964</field>
+    <field name="unitdate_start_si">1964</field>
+    <field name="unitdate_end_sim">1965</field>
+    <field name="unitdate_end_ssm">1965</field>
+    <field name="unitdate_end_si">1965</field>
+    <field name="unitdate_ssm">Inclusive, 1964-1965</field>
+    <field name="date_range_sim">1901-2000</field>
+    <field name="sort_ii">155</field>
+  </doc>
+</add>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">mc_168aspace_ref1290</field>
+    <field name="ead_ssi">mc_168</field>
+    <field name="parent_ssi">aspace_ref15</field>
+    <field name="parent_ssm">aspace_ref15</field>
+    <field name="parent_unittitles_ssm">Series I : Legislative</field>
+    <field name="parent_unittitles_teim">Series I : Legislative</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">John Brademas Congressional Papers</field>
+    <field name="collection_ssm">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Subseries V: Topical Files</field>
+    <field name="unittitle_teim">Subseries V: Topical Files</field>
+    <field name="unitid_teim">/repositories/6/archival_objects/609251</field>
+    <field name="unitid_ssm">/repositories/6/archival_objects/609251</field>
+    <field name="scopecontent_teim">This subseries consists 16 linear feet of subject files related to specific legislation and general issues maintained by legislative assistants and other staff members dated 1962 to 1980. Files are arranged alphabetically by subject. Materials include legislative matter; reference material; correspondence with colleagues, constituents, other interested members of the public, and persons in state and local government; and memoranda from staff outlining legislation, briefing Brademas on issues, and making recommendations as to what, if any, action he should take.</field>
+    <field name="scopecontent_teim">Topics parallel Brademas' committee interests (e.g., education, the handicapped, aging, arts and humanities), reflect subjects of interest to his district (Indiana Dunes, Federal Aid to States, energy), special interests of Brademas (in particular issues related to Greece, e.g. folders on Agora Project, Foreign Affairs: Cyprus, and Greece), and general issues affecting the nation (Economy, Congressional Reform, Impeachment).</field>
+    <field name="ref_ssi">aspace_ref1290</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="collection_teim">John Brademas Congressional Papers</field>
+    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="series_sim">Series I : Legislative</field>
+    <field name="series_si">Series I : Legislative &gt;&gt; Subseries V: Topical Files</field>
+    <field name="heading_ssm">Subseries V: Topical Files</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="sort_ii">640</field>
+  </doc>
+</add>

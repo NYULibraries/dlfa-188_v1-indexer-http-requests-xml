@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">rism_vf_001aspace_ref4003</field>
+    <field name="ead_ssi">rism_vf_001</field>
+    <field name="parent_ssi">aspace_ref2293</field>
+    <field name="parent_ssm">aspace_ref2293</field>
+    <field name="parent_unittitles_ssm">Caribbean Area</field>
+    <field name="parent_unittitles_teim">Caribbean Area</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_ssm">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_ssm">RISM.VF.001</field>
+    <field name="level_sim">subseries</field>
+    <field name="unittitle_ssm">Caribbean Area: Migration, Internal</field>
+    <field name="unittitle_teim">Caribbean Area: Migration, Internal</field>
+    <field name="ref_ssi">aspace_ref4003</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Series</field>
+    <field name="format_ssm">Archival Series</field>
+    <field name="location_ssm">Box: 6</field>
+    <field name="location_si">Box: 6</field>
+    <field name="collection_teim">Research Institute for the Study of Man (RISM) Vertical Files</field>
+    <field name="collection_unitid_teim">RISM.VF.001</field>
+    <field name="series_sim">Caribbean Area</field>
+    <field name="series_si">Caribbean Area &gt;&gt; Caribbean Area: Migration, Internal</field>
+    <field name="heading_ssm">Caribbean Area: Migration, Internal</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">1457</field>
+  </doc>
+</add>

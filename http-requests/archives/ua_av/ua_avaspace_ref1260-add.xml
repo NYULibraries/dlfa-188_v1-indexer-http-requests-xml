@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">ua_avaspace_ref1260</field>
+    <field name="ead_ssi">ua_av</field>
+    <field name="parent_ssi">aspace_ref1</field>
+    <field name="parent_ssm">aspace_ref1</field>
+    <field name="parent_unittitles_ssm">Audiovisual Recordings</field>
+    <field name="parent_unittitles_teim">Audiovisual Recordings</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">false</field>
+    <field name="collection_sim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_ssm">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_ssm">AV</field>
+    <field name="level_sim">item</field>
+    <field name="unittitle_ssm">Dental or Medical Lecture</field>
+    <field name="unittitle_teim">Dental or Medical Lecture</field>
+    <field name="unitid_teim">AV1999c</field>
+    <field name="unitid_ssm">AV1999c</field>
+    <field name="unitdate_teim">Around 1963</field>
+    <field name="scopecontent_teim">This appears to be a lecture or demonstration for a dental or medical class. The label indicated it to be recordings of Dr. Sidney Hook's 1963 Introduction to Ethics class from Sunrise Semester.</field>
+    <field name="ref_ssi">aspace_ref1260</field>
+    <field name="repository_ssi">archives</field>
+    <field name="repository_sim">archives</field>
+    <field name="repository_ssm">archives</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">New York University Archives Audiovisual Collection</field>
+    <field name="collection_unitid_teim">AV</field>
+    <field name="series_sim">Audiovisual Recordings</field>
+    <field name="series_si">Audiovisual Recordings &gt;&gt; Dental or Medical Lecture</field>
+    <field name="heading_ssm">Dental or Medical Lecture</field>
+    <field name="unitdate_ssm">Around 1963</field>
+    <field name="date_range_sim">undated &amp; other</field>
+    <field name="language_sim">English</field>
+    <field name="language_ssm">English</field>
+    <field name="sort_ii">796</field>
+  </doc>
+</add>
