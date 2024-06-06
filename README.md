@@ -25,9 +25,7 @@ done
 
 ## [dlfa-188\_v1-indexer-http-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/) commit
 
-[dlfa-188\_v1-indexer-http-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/) commit used: [95cba332e358281ce682d48472a0d35e36214ea0](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/commit/95cba332e358281ce682d48472a0d35e36214ea0)
-
-Note that this is not the exact commit that the generation job was run with, but it is equivalent.  Originally the entire set of HTTP request files were added to [dlfa\-188\_v1\-indexer\-http\-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests) in a single commit, and the generation job for this repo was run off of that.  Due to GitHub limits, it was necessary to start over and break up adding of the HTTP requests into smaller commits.  The commit identified above should be equivalent in terms of the state of _http-requests/_ in [dlfa\-188\_v1\-indexer\-http\-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests) when the generation job ran.
+[dlfa-188\_v1-indexer-http-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/) commit used: n/a because this batch has to be committed and pushed in pieces to work around the GitHub 2GB push limit.  The batch is based on [f4ef0e201f8514f5461f4e973f97477da8d0fbfc](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/commit/f4ef0e201f8514f5461f4e973f97477da8d0fbfc).  Once everything has been committed, this README.md will be updated to reflect that the two repos are fully sync'ed.
 
 ## How _index.txt_ was created
 
