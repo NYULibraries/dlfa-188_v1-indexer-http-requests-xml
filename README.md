@@ -25,7 +25,7 @@ done
 
 ## [dlfa-188\_v1-indexer-http-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/) commit
 
-[dlfa-188\_v1-indexer-http-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/) commit used: n/a because this batch has to be committed and pushed in pieces to work around the GitHub 2GB push limit.  The batch is based on [f4ef0e201f8514f5461f4e973f97477da8d0fbfc](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/commit/f4ef0e201f8514f5461f4e973f97477da8d0fbfc).  Once everything has been committed, this README.md will be updated to reflect that the two repos are fully sync'ed.
+[dlfa-188\_v1-indexer-http-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/) commit used: [f4ef0e201f8514f5461f4e973f97477da8d0fbfc](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/commit/f4ef0e201f8514f5461f4e973f97477da8d0fbfc)
 
 ## How _index.txt_ was created
 
