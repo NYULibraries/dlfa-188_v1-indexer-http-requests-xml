@@ -7,7 +7,7 @@
     <field name="component_children_bsi">true</field>
     <field name="collection_sim">New York Building Congress Records</field>
     <field name="collection_ssm">New York Building Congress Records</field>
-    <field name="collection_unitid_ssm">WAG.167/repositories/2/resources/1427</field>
+    <field name="collection_unitid_ssm">WAG.167</field>
     <field name="level_sim">series</field>
     <field name="unittitle_ssm">Series V: Oversized Materials</field>
     <field name="unittitle_teim">Series V: Oversized Materials</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Series</field>
     <field name="format_ssm">Archival Series</field>
     <field name="location_ssm">Box: Shared Tamiment MSXOS002, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: Shared Tamiment MSXOS002, Folder: 1</field>
     <field name="collection_teim">New York Building Congress Records</field>
-    <field name="collection_unitid_teim">WAG.167/repositories/2/resources/1427</field>
+    <field name="collection_unitid_teim">WAG.167</field>
     <field name="series_si">Series V: Oversized Materials</field>
     <field name="heading_ssm">Series V: Oversized Materials</field>
     <field name="unitdate_start_sim">1947</field>

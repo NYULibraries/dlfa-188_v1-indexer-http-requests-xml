@@ -28,10 +28,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, reel: 14</field>
-    <field name="location_ssm">reel: 14</field>
     <field name="location_ssm">Box: 12, CD: Reel 14</field>
-    <field name="location_ssm">CD: Reel 14</field>
-    <field name="location_si">CD: Reel 14</field>
+    <field name="location_si">Box: 12, CD: Reel 14</field>
     <field name="collection_teim">Southern Tenant Farmers' Union Collection</field>
     <field name="collection_unitid_teim">WAG.329</field>
     <field name="series_sim">Series II: Audio Recordings</field>

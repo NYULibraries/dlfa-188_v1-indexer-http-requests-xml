@@ -6,11 +6,12 @@
     <field name="unittitle_teim">New York State AFL-CIO Records</field>
     <field name="unittitle_ssm">New York State AFL-CIO Records</field>
     <field name="unitid_teim">WAG.031</field>
-    <field name="unitid_teim">/repositories/2/resources/1297</field>
     <field name="unitid_ssm">WAG.031</field>
-    <field name="unitid_ssm">/repositories/2/resources/1297</field>
     <field name="abstract_teim">The New York State AFL-CIO was founded in December 1958 by the merger of the separate state bodies of the American Federation of Labor and the Congress of Industrial Organizations.  Materials mostly relate to the role of the New York State AFL-CIO in state politics and legislative initiatives.  Among the issues well-documented in the collection are workers' compensation, unemployment insurance, minimum wage, education, and healthcare.</field>
     <field name="abstract_ssm">The New York State AFL-CIO was founded in December 1958 by the merger of the separate state bodies of the American Federation of Labor and the Congress of Industrial Organizations.  Materials mostly relate to the role of the New York State AFL-CIO in state politics and legislative initiatives.  Among the issues well-documented in the collection are workers' compensation, unemployment insurance, minimum wage, education, and healthcare.</field>
+    <field name="creator_teim">New York State AFL-CIO</field>
+    <field name="creator_ssm">New York State AFL-CIO</field>
+    <field name="creator_ssm">New York State AFL-CIO</field>
     <field name="unitdate_normal_ssm">1938/1997</field>
     <field name="unitdate_normal_teim">1938/1997</field>
     <field name="unitdate_normal_sim">1938/1997</field>
@@ -72,6 +73,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York State AFL-CIO</field>
     <field name="name_sim">New York State AFL-CIO</field>
     <field name="name_sim">New York State Federation of Labor</field>
     <field name="name_sim">New York State CIO Council</field>

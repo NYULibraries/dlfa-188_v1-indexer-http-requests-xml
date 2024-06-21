@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">United Telegraph Workers Records</field>
     <field name="collection_ssm">United Telegraph Workers Records</field>
-    <field name="collection_unitid_ssm">WAG.144/repositories/2/resources/1406</field>
+    <field name="collection_unitid_ssm">WAG.144</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Job Classification</field>
     <field name="unittitle_teim">Job Classification</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 11, Folder: 12</field>
-    <field name="location_ssm">Folder: 12</field>
-    <field name="location_si">Folder: 12</field>
+    <field name="location_si">Box: 11, Folder: 12</field>
     <field name="collection_teim">United Telegraph Workers Records</field>
-    <field name="collection_unitid_teim">WAG.144/repositories/2/resources/1406</field>
+    <field name="collection_unitid_teim">WAG.144</field>
     <field name="series_sim">Series VII: Collective Bargaining Materials</field>
     <field name="series_si">Series VII: Collective Bargaining Materials &gt;&gt; Job Classification</field>
     <field name="heading_ssm">Job Classification</field>

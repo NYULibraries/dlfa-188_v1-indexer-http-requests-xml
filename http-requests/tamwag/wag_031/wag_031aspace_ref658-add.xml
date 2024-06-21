@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York State AFL-CIO Records</field>
     <field name="collection_ssm">New York State AFL-CIO Records</field>
-    <field name="collection_unitid_ssm">WAG.031/repositories/2/resources/1297</field>
+    <field name="collection_unitid_ssm">WAG.031</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Legislation: 1975-1976 S.3555-S.3994 NYS AFL-CIO Positions</field>
     <field name="unittitle_teim">Legislation: 1975-1976 S.3555-S.3994 NYS AFL-CIO Positions</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 27, Folder: 10</field>
-    <field name="location_ssm">Folder: 10</field>
-    <field name="location_si">Folder: 10</field>
+    <field name="location_si">Box: 27, Folder: 10</field>
     <field name="collection_teim">New York State AFL-CIO Records</field>
-    <field name="collection_unitid_teim">WAG.031/repositories/2/resources/1297</field>
+    <field name="collection_unitid_teim">WAG.031</field>
     <field name="series_sim">Inventory</field>
     <field name="series_si">Inventory &gt;&gt; Legislation: 1975-1976 S.3555-S.3994 NYS AFL-CIO Positions</field>
     <field name="heading_ssm">Legislation: 1975-1976 S.3555-S.3994 NYS AFL-CIO Positions</field>

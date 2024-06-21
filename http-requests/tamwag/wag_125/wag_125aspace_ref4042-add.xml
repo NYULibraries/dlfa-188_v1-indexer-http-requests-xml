@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Newspaper Guild of New York Records</field>
     <field name="collection_ssm">Newspaper Guild of New York Records</field>
-    <field name="collection_unitid_ssm">WAG.125/repositories/2/resources/1387</field>
+    <field name="collection_unitid_ssm">WAG.125</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Executive Board (I)</field>
     <field name="unittitle_teim">Executive Board (I)</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 149, Folder: 2</field>
-    <field name="location_ssm">Folder: 2</field>
-    <field name="location_si">Folder: 2</field>
+    <field name="location_si">Box: 149, Folder: 2</field>
     <field name="collection_teim">Newspaper Guild of New York Records</field>
-    <field name="collection_unitid_teim">WAG.125/repositories/2/resources/1387</field>
+    <field name="collection_unitid_teim">WAG.125</field>
     <field name="series_sim">Series IV: Minutes</field>
     <field name="series_si">Series IV: Minutes &gt;&gt; Executive Board (I)</field>
     <field name="heading_ssm">Executive Board (I)</field>

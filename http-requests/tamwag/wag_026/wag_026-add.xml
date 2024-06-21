@@ -6,11 +6,12 @@
     <field name="unittitle_teim">National Writers Union Records</field>
     <field name="unittitle_ssm">National Writers Union Records</field>
     <field name="unitid_teim">WAG.026</field>
-    <field name="unitid_teim">/repositories/2/resources/1292</field>
     <field name="unitid_ssm">WAG.026</field>
-    <field name="unitid_ssm">/repositories/2/resources/1292</field>
     <field name="abstract_teim">The National Writers Union (NWU) represents freelance writers throughout the United States. The collection consists mostly of the records of the NWU's national office, New York and Los Angeles locals, as well as archived websites of the organization.</field>
     <field name="abstract_ssm">The National Writers Union (NWU) represents freelance writers throughout the United States. The collection consists mostly of the records of the NWU's national office, New York and Los Angeles locals, as well as archived websites of the organization.</field>
+    <field name="creator_teim">National Writers Union (U.S.)</field>
+    <field name="creator_ssm">National Writers Union (U.S.)</field>
+    <field name="creator_ssm">National Writers Union (U.S.)</field>
     <field name="unitdate_normal_ssm">1976/2023</field>
     <field name="unitdate_normal_teim">1976/2023</field>
     <field name="unitdate_normal_sim">1976/2023</field>
@@ -78,6 +79,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">National Writers Union (U.S.)</field>
     <field name="name_sim">National Writers Union (U.S.)</field>
     <field name="name_sim">National Writers Union (U.S.). New York Local</field>
     <field name="name_sim">Organizing Committee for a National Writers Union (U.S.)</field>

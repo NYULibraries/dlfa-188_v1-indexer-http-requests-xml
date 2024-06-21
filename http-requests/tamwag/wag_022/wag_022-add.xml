@@ -6,11 +6,12 @@
     <field name="unittitle_teim">United Federation of Teachers Records</field>
     <field name="unittitle_ssm">United Federation of Teachers Records</field>
     <field name="unitid_teim">WAG.022</field>
-    <field name="unitid_teim">/repositories/2/resources/1286</field>
     <field name="unitid_ssm">WAG.022</field>
-    <field name="unitid_ssm">/repositories/2/resources/1286</field>
     <field name="abstract_teim">The United Federation of Teachers (American Federation of Teachers, Local 2) represents public school teachers and associated personnel in New York City. It was formed in 1960 as a result of a merger between the Teachers Guild and the High School Teachers Association. Included in this collection are records of the UFT's two predecessor unions, the Teachers Union of the City of New York and the Teachers Guild. The main body of UFT records documents the administrations of the UFT's first three presidents, Charles Cogen, who served from 1960 to 1964, Albert Shanker, 1964 to 1986, and Sandra Feldman, 1986-1997. The collection also includes extensive staff and administrative files, records of the Grievance Department, the More Effective Schools Program and the Teacher Centers Consortium, websites, and subject files covering all aspects of UFT activity and a broad range of issues of concern to the union.</field>
     <field name="abstract_ssm">The United Federation of Teachers (American Federation of Teachers, Local 2) represents public school teachers and associated personnel in New York City. It was formed in 1960 as a result of a merger between the Teachers Guild and the High School Teachers Association. Included in this collection are records of the UFT's two predecessor unions, the Teachers Union of the City of New York and the Teachers Guild. The main body of UFT records documents the administrations of the UFT's first three presidents, Charles Cogen, who served from 1960 to 1964, Albert Shanker, 1964 to 1986, and Sandra Feldman, 1986-1997. The collection also includes extensive staff and administrative files, records of the Grievance Department, the More Effective Schools Program and the Teacher Centers Consortium, websites, and subject files covering all aspects of UFT activity and a broad range of issues of concern to the union.</field>
+    <field name="creator_teim">United Federation of Teachers</field>
+    <field name="creator_ssm">United Federation of Teachers</field>
+    <field name="creator_ssm">United Federation of Teachers</field>
     <field name="unitdate_normal_ssm">1916/2023</field>
     <field name="unitdate_normal_ssm">1960/1997</field>
     <field name="unitdate_normal_teim">1916/2023</field>
@@ -180,6 +181,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">United Federation of Teachers</field>
     <field name="name_sim">United Federation of Teachers</field>
     <field name="name_sim">American Federation of Teachers</field>
     <field name="name_sim">New York State United Teachers</field>

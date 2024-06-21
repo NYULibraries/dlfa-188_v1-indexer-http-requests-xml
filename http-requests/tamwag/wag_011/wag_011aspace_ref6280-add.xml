@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Actors' Equity Association Records</field>
     <field name="collection_ssm">Actors' Equity Association Records</field>
-    <field name="collection_unitid_ssm">WAG.011/repositories/2/resources/1275</field>
+    <field name="collection_unitid_ssm">WAG.011</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">&lt;em&gt;Action:&lt;/em&gt;New York "closed"</field>
     <field name="unittitle_teim">Action:New York "closed"</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 234, Folder: 21</field>
-    <field name="location_ssm">Folder: 21</field>
-    <field name="location_si">Folder: 21</field>
+    <field name="location_si">Box: 234, Folder: 21</field>
     <field name="collection_teim">Actors' Equity Association Records</field>
-    <field name="collection_unitid_teim">WAG.011/repositories/2/resources/1275</field>
+    <field name="collection_unitid_teim">WAG.011</field>
     <field name="series_sim">Series V: Contracts/Agreements/Codes</field>
     <field name="series_sim">Subseries H: Special Production Contract [also referred to/bonded as "Dramatic/Musical, Special Contract"]</field>
     <field name="series_si">Series V: Contracts/Agreements/Codes &gt;&gt; Subseries H: Special Production Contract [also referred to/bonded as "Dramatic/Musical, Special Contract"] &gt;&gt; &lt;em&gt;Action:&lt;/em&gt;New York "closed"</field>

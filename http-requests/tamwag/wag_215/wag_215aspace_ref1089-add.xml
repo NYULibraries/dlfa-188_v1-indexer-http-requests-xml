@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">AFSCME, Local 420, Hospital Workers Records</field>
     <field name="collection_ssm">AFSCME, Local 420, Hospital Workers Records</field>
-    <field name="collection_unitid_ssm">WAG.215/repositories/2/resources/1472</field>
+    <field name="collection_unitid_ssm">WAG.215</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">King, Martin Luther, Jr.: Holiday</field>
     <field name="unittitle_teim">King, Martin Luther, Jr.: Holiday</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 18, Folder: 51</field>
-    <field name="location_ssm">Folder: 51</field>
-    <field name="location_si">Folder: 51</field>
+    <field name="location_si">Box: 18, Folder: 51</field>
     <field name="collection_teim">AFSCME, Local 420, Hospital Workers Records</field>
-    <field name="collection_unitid_teim">WAG.215/repositories/2/resources/1472</field>
+    <field name="collection_unitid_teim">WAG.215</field>
     <field name="series_sim">Series III: Secretary-Treasurer's Files, 1967-2002.</field>
     <field name="series_si">Series III: Secretary-Treasurer's Files, 1967-2002. &gt;&gt; King, Martin Luther, Jr.: Holiday</field>
     <field name="heading_ssm">King, Martin Luther, Jr.: Holiday</field>

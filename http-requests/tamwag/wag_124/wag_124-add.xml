@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Communications Workers of America Records</field>
     <field name="unittitle_ssm">Communications Workers of America Records</field>
     <field name="unitid_teim">WAG.124</field>
-    <field name="unitid_teim">/repositories/2/resources/1385</field>
     <field name="unitid_ssm">WAG.124</field>
-    <field name="unitid_ssm">/repositories/2/resources/1385</field>
     <field name="abstract_teim">The Communications Workers of America (CWA) which was founded in 1947 as an industrial union of telephone industry workers is now one of the largest unions in the United States with an active public employees department. This collection documents the unionization of telephone workers beginning shortly after the First World War. It includes records of the National Federation of Telephone Workers (the CWA's predecessor) which describes union activities from the mid -1930s through the Second World War. Materials consists largely of records from the President's office (Joseph A. Beirne, Glenn E. Watts and Morton Bahr) describing all aspects of union operations: organizing, collective bargaining, contract administrations, strikes, grievances, arbitrations, political action, and relations with the AFL-CIO.</field>
     <field name="abstract_ssm">The Communications Workers of America (CWA) which was founded in 1947 as an industrial union of telephone industry workers is now one of the largest unions in the United States with an active public employees department. This collection documents the unionization of telephone workers beginning shortly after the First World War. It includes records of the National Federation of Telephone Workers (the CWA's predecessor) which describes union activities from the mid -1930s through the Second World War. Materials consists largely of records from the President's office (Joseph A. Beirne, Glenn E. Watts and Morton Bahr) describing all aspects of union operations: organizing, collective bargaining, contract administrations, strikes, grievances, arbitrations, political action, and relations with the AFL-CIO.</field>
+    <field name="creator_teim">Communications Workers of America</field>
+    <field name="creator_ssm">Communications Workers of America</field>
+    <field name="creator_ssm">Communications Workers of America</field>
     <field name="unitdate_normal_ssm">1908/2023</field>
     <field name="unitdate_normal_ssm">1947/1989</field>
     <field name="unitdate_normal_teim">1908/2023</field>
@@ -183,6 +184,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Communications Workers of America</field>
     <field name="name_sim">Communications Workers of America</field>
     <field name="name_sim">Postal, Telegraph and Telephone Workers' International</field>
     <field name="name_sim">United States. National Labor Relations Board</field>

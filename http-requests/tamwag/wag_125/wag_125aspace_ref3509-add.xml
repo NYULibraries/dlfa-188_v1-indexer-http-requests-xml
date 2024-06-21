@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Newspaper Guild of New York Records</field>
     <field name="collection_ssm">Newspaper Guild of New York Records</field>
-    <field name="collection_unitid_ssm">WAG.125/repositories/2/resources/1387</field>
+    <field name="collection_unitid_ssm">WAG.125</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Page One Advertising</field>
     <field name="unittitle_teim">Page One Advertising</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 125, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 125, Folder: 3</field>
     <field name="collection_teim">Newspaper Guild of New York Records</field>
-    <field name="collection_unitid_teim">WAG.125/repositories/2/resources/1387</field>
+    <field name="collection_unitid_teim">WAG.125</field>
     <field name="series_sim">Series III: General Files</field>
     <field name="series_si">Series III: General Files &gt;&gt; Page One Advertising</field>
     <field name="heading_ssm">Page One Advertising</field>

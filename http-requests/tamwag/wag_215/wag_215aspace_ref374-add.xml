@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">AFSCME, Local 420, Hospital Workers Records</field>
     <field name="collection_ssm">AFSCME, Local 420, Hospital Workers Records</field>
-    <field name="collection_unitid_ssm">WAG.215/repositories/2/resources/1472</field>
+    <field name="collection_unitid_ssm">WAG.215</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">HHC: Job Descriptions</field>
     <field name="unittitle_teim">HHC: Job Descriptions</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 9, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 9, Folder: 4</field>
     <field name="collection_teim">AFSCME, Local 420, Hospital Workers Records</field>
-    <field name="collection_unitid_teim">WAG.215/repositories/2/resources/1472</field>
+    <field name="collection_unitid_teim">WAG.215</field>
     <field name="series_sim">Series I: President's Office Files, 1967-2001.</field>
     <field name="series_si">Series I: President's Office Files, 1967-2001. &gt;&gt; HHC: Job Descriptions</field>
     <field name="heading_ssm">HHC: Job Descriptions</field>
