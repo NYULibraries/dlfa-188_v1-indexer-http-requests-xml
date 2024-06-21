@@ -22,12 +22,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 10</field>
-    <field name="location_ssm">Folder: 10</field>
     <field name="location_ssm">Box: 2, Cassette: 17A-C</field>
-    <field name="location_ssm">Cassette: 17A-C</field>
     <field name="location_ssm">Box: 3, CD: Geoghegan 1-4</field>
-    <field name="location_ssm">CD: Geoghegan 1-4</field>
-    <field name="location_si">CD: Geoghegan 1-4</field>
+    <field name="location_si">Box: 3, CD: Geoghegan 1-4</field>
     <field name="collection_teim">Burton Hall Union Democracy Oral History Collection</field>
     <field name="collection_unitid_teim">OH.034</field>
     <field name="series_si">James Geoghegan</field>

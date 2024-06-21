@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New Yorkers at Work Oral History Collection</field>
     <field name="collection_ssm">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_ssm">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_ssm">OH.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">George Culliman</field>
     <field name="unittitle_teim">George Culliman</field>
@@ -25,10 +25,9 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">CD: OH-01-243 / OH-01-244 / OH-01-245 / OH-01-246 / OH-01-247 / OH-01-248</field>
     <field name="location_ssm">Box: 23, audiocassette: 30A, 30B, 30C</field>
-    <field name="location_ssm">audiocassette: 30A, 30B, 30C</field>
-    <field name="location_si">audiocassette: 30A, 30B, 30C</field>
+    <field name="location_si">Box: 23, audiocassette: 30A, 30B, 30C</field>
     <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_teim">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_teim">OH.001</field>
     <field name="series_si">George Culliman</field>
     <field name="heading_ssm">George Culliman</field>
     <field name="unitdate_start_sim">1981</field>

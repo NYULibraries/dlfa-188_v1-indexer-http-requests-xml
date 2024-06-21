@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New Yorkers at Work Oral History Collection</field>
     <field name="collection_ssm">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_ssm">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_ssm">OH.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">George Meisler</field>
     <field name="unittitle_teim">George Meisler</field>
@@ -26,10 +26,9 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">CD: OH-01-411 / OH-01-412 / OH-01-413 / OH-01-414</field>
     <field name="location_ssm">Box: 26, audiocassette: 77A, 77B, 77C, 77D</field>
-    <field name="location_ssm">audiocassette: 77A, 77B, 77C, 77D</field>
-    <field name="location_si">audiocassette: 77A, 77B, 77C, 77D</field>
+    <field name="location_si">Box: 26, audiocassette: 77A, 77B, 77C, 77D</field>
     <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_teim">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_teim">OH.001</field>
     <field name="series_si">George Meisler</field>
     <field name="heading_ssm">George Meisler</field>
     <field name="unitdate_start_sim">1979</field>

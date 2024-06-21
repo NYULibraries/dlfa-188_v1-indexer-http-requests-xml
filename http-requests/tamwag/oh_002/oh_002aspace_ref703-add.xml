@@ -31,10 +31,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 21, CD: O'Hara 1</field>
-    <field name="location_ssm">CD: O'Hara 1</field>
     <field name="location_ssm">Box: 81, Cassette: 380</field>
-    <field name="location_ssm">Cassette: 380</field>
-    <field name="location_si">Cassette: 380</field>
+    <field name="location_si">Box: 81, Cassette: 380</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Oral History of the American Left Collection</field>
     <field name="collection_unitid_teim">OH.002</field>

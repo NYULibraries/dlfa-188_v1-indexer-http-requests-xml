@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New Yorkers at Work Oral History Collection</field>
     <field name="collection_ssm">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_ssm">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_ssm">OH.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Kitty Krupat</field>
     <field name="unittitle_teim">Kitty Krupat</field>
@@ -23,10 +23,9 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">CD: OH-01-403 / OH-01-404</field>
     <field name="location_ssm">Box: 25, audiocassette: 65A, 65B, 65C, 65D</field>
-    <field name="location_ssm">audiocassette: 65A, 65B, 65C, 65D</field>
-    <field name="location_si">audiocassette: 65A, 65B, 65C, 65D</field>
+    <field name="location_si">Box: 25, audiocassette: 65A, 65B, 65C, 65D</field>
     <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_teim">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_teim">OH.001</field>
     <field name="series_si">Kitty Krupat</field>
     <field name="heading_ssm">Kitty Krupat</field>
     <field name="unitdate_ssm">undated</field>

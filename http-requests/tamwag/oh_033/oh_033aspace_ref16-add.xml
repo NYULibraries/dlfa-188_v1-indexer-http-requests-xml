@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Department of History Oral History Class Collection</field>
     <field name="collection_ssm">New York University Department of History Oral History Class Collection</field>
-    <field name="collection_unitid_ssm">OH.033/repositories/2/resources/416</field>
+    <field name="collection_unitid_ssm">OH.033</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Baron, Samuel</field>
     <field name="unittitle_teim">Baron, Samuel</field>
@@ -46,12 +46,9 @@ For more interviews about the Music School at the Henry Street Settlement see Be
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 11, Cassette: 19A-19B</field>
-    <field name="location_ssm">Cassette: 19A-19B</field>
     <field name="location_ssm">Box: 1, Folder: 5</field>
-    <field name="location_ssm">Folder: 5</field>
     <field name="location_ssm">Box: 3, CD: ref16a, ref16b</field>
-    <field name="location_ssm">CD: ref16a, ref16b</field>
-    <field name="location_si">CD: ref16a, ref16b</field>
+    <field name="location_si">Box: 3, CD: ref16a, ref16b</field>
     <field name="name_sim">Juilliard School</field>
     <field name="name_sim">Spofford, Grace</field>
     <field name="name_sim">Galamian, Ivan</field>
@@ -63,7 +60,7 @@ For more interviews about the Music School at the Henry Street Settlement see Be
     <field name="subject_sim">Flute -- Instruction and study -- New York (State) -- New York.</field>
     <field name="subject_sim">Flute teachers -- United States -- Interviews.</field>
     <field name="collection_teim">New York University Department of History Oral History Class Collection</field>
-    <field name="collection_unitid_teim">OH.033/repositories/2/resources/416</field>
+    <field name="collection_unitid_teim">OH.033</field>
     <field name="series_sim">Series I. Lower East Side Oral History Project Interviews</field>
     <field name="series_si">Series I. Lower East Side Oral History Project Interviews &gt;&gt; Baron, Samuel</field>
     <field name="heading_ssm">Baron, Samuel</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Department of History Oral History Class Collection</field>
     <field name="collection_ssm">New York University Department of History Oral History Class Collection</field>
-    <field name="collection_unitid_ssm">OH.033/repositories/2/resources/416</field>
+    <field name="collection_unitid_ssm">OH.033</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Holtzman, Francine</field>
     <field name="unittitle_teim">Holtzman, Francine</field>
@@ -34,15 +34,12 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 47</field>
-    <field name="location_ssm">Folder: 47</field>
     <field name="location_ssm">Box: 15, Cassette: 121A-121B</field>
-    <field name="location_ssm">Cassette: 121A-121B</field>
     <field name="location_ssm">Box: 6, CD: ref111a, ref111b</field>
-    <field name="location_ssm">CD: ref111a, ref111b</field>
-    <field name="location_si">CD: ref111a, ref111b</field>
+    <field name="location_si">Box: 6, CD: ref111a, ref111b</field>
     <field name="subject_sim">Parental grief -- New York (State) -- New York.</field>
     <field name="collection_teim">New York University Department of History Oral History Class Collection</field>
-    <field name="collection_unitid_teim">OH.033/repositories/2/resources/416</field>
+    <field name="collection_unitid_teim">OH.033</field>
     <field name="series_sim">Series I. Lower East Side Oral History Project Interviews</field>
     <field name="series_si">Series I. Lower East Side Oral History Project Interviews &gt;&gt; Holtzman, Francine</field>
     <field name="heading_ssm">Holtzman, Francine</field>

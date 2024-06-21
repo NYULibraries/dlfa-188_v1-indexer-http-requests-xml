@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New Yorkers at Work Oral History Collection</field>
     <field name="collection_ssm">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_ssm">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_ssm">OH.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Paul Rubin</field>
     <field name="unittitle_teim">Paul Rubin</field>
@@ -23,11 +23,10 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">CD: OH-01-317</field>
     <field name="location_ssm">Box: 32, audiocassette: 204</field>
-    <field name="location_ssm">audiocassette: 204</field>
     <field name="location_ssm">Box: 40, audiocassette: 204</field>
-    <field name="location_si">audiocassette: 204</field>
+    <field name="location_si">Box: 40, audiocassette: 204</field>
     <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_teim">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_teim">OH.001</field>
     <field name="series_si">Paul Rubin</field>
     <field name="heading_ssm">Paul Rubin</field>
     <field name="unitdate_ssm">undated</field>

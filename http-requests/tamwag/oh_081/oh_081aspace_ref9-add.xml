@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Spargel Production Rosie the Riveter Media Collection</field>
     <field name="collection_ssm">Spargel Production Rosie the Riveter Media Collection</field>
-    <field name="collection_unitid_ssm">OH.081/repositories/2/resources/459</field>
+    <field name="collection_unitid_ssm">OH.081</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Susan Taylor King</field>
     <field name="unittitle_teim">Susan Taylor King</field>
@@ -24,14 +24,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, DVD: OH-81-006 Access Copy</field>
-    <field name="location_ssm">DVD: OH-81-006 Access Copy</field>
     <field name="location_ssm">Box: 3, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
     <field name="location_ssm">Box: 2, DVD: OH-81-006</field>
-    <field name="location_ssm">DVD: OH-81-006</field>
-    <field name="location_si">DVD: OH-81-006</field>
+    <field name="location_si">Box: 2, DVD: OH-81-006</field>
     <field name="collection_teim">Spargel Production Rosie the Riveter Media Collection</field>
-    <field name="collection_unitid_teim">OH.081/repositories/2/resources/459</field>
+    <field name="collection_unitid_teim">OH.081</field>
     <field name="series_si">Susan Taylor King</field>
     <field name="heading_ssm">Susan Taylor King</field>
     <field name="unitdate_ssm">April 16, 2010</field>

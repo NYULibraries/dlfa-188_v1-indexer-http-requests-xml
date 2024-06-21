@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Department of History Oral History Class Collection</field>
     <field name="collection_ssm">New York University Department of History Oral History Class Collection</field>
-    <field name="collection_unitid_ssm">OH.033/repositories/2/resources/416</field>
+    <field name="collection_unitid_ssm">OH.033</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Friedman, Mildred Arschin</field>
     <field name="unittitle_teim">Friedman, Mildred Arschin</field>
@@ -32,14 +32,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 36</field>
-    <field name="location_ssm">Folder: 36</field>
     <field name="location_ssm">Box: 11, Cassette: 5A-5B</field>
-    <field name="location_ssm">Cassette: 5A-5B</field>
     <field name="location_ssm">Box: 3, CD: ref6a, ref6b</field>
-    <field name="location_ssm">CD: ref6a, ref6b</field>
-    <field name="location_si">CD: ref6a, ref6b</field>
+    <field name="location_si">Box: 3, CD: ref6a, ref6b</field>
     <field name="collection_teim">New York University Department of History Oral History Class Collection</field>
-    <field name="collection_unitid_teim">OH.033/repositories/2/resources/416</field>
+    <field name="collection_unitid_teim">OH.033</field>
     <field name="series_sim">Series I. Lower East Side Oral History Project Interviews</field>
     <field name="series_si">Series I. Lower East Side Oral History Project Interviews &gt;&gt; Friedman, Mildred Arschin</field>
     <field name="heading_ssm">Friedman, Mildred Arschin</field>

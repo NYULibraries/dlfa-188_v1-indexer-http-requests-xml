@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New Yorkers at Work Oral History Collection</field>
     <field name="collection_ssm">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_ssm">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_ssm">OH.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Jimi Gavin National Maritime Union</field>
     <field name="unittitle_teim">Jimi Gavin National Maritime Union</field>
@@ -25,12 +25,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">CD: OH-01-068 / OH-01-069 / OH-01-070 / OH-01-071 / OH-01-072, CD: OH-01-073 / OH-01-074 / OH-01-075 / OH-01-076 / OH-01-077 / OH-01-078</field>
-    <field name="location_ssm">CD: OH-01-073 / OH-01-074 / OH-01-075 / OH-01-076 / OH-01-077 / OH-01-078</field>
     <field name="location_ssm">Box: 30, audiocassette: 163A, 163B, 163C, 163D, 163E, 163F</field>
-    <field name="location_ssm">audiocassette: 163A, 163B, 163C, 163D, 163E, 163F</field>
-    <field name="location_si">audiocassette: 163A, 163B, 163C, 163D, 163E, 163F</field>
+    <field name="location_si">Box: 30, audiocassette: 163A, 163B, 163C, 163D, 163E, 163F</field>
     <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_teim">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_teim">OH.001</field>
     <field name="series_si">Jimi Gavin National Maritime Union</field>
     <field name="heading_ssm">Jimi Gavin National Maritime Union</field>
     <field name="unitdate_start_sim">1986</field>

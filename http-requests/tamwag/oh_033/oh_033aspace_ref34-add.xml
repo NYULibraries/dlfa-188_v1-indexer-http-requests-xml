@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Department of History Oral History Class Collection</field>
     <field name="collection_ssm">New York University Department of History Oral History Class Collection</field>
-    <field name="collection_unitid_ssm">OH.033/repositories/2/resources/416</field>
+    <field name="collection_unitid_ssm">OH.033</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Singer, Rose</field>
     <field name="unittitle_teim">Singer, Rose</field>
@@ -32,14 +32,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 99</field>
-    <field name="location_ssm">Folder: 99</field>
     <field name="location_ssm">Box: 12, Cassette: 38A-38B</field>
-    <field name="location_ssm">Cassette: 38A-38B</field>
     <field name="location_ssm">Box: 4, CD: ref34a, ref34b</field>
-    <field name="location_ssm">CD: ref34a, ref34b</field>
-    <field name="location_si">CD: ref34a, ref34b</field>
+    <field name="location_si">Box: 4, CD: ref34a, ref34b</field>
     <field name="collection_teim">New York University Department of History Oral History Class Collection</field>
-    <field name="collection_unitid_teim">OH.033/repositories/2/resources/416</field>
+    <field name="collection_unitid_teim">OH.033</field>
     <field name="series_sim">Series I. Lower East Side Oral History Project Interviews</field>
     <field name="series_si">Series I. Lower East Side Oral History Project Interviews &gt;&gt; Singer, Rose</field>
     <field name="heading_ssm">Singer, Rose</field>

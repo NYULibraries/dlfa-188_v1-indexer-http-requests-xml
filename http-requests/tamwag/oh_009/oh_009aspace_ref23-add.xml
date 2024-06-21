@@ -23,12 +23,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 25</field>
-    <field name="location_ssm">Folder: 25</field>
     <field name="location_ssm">Box: 3, CD: ref23</field>
-    <field name="location_ssm">CD: ref23</field>
     <field name="location_ssm">Box: 6, Cassette: 23A-B</field>
-    <field name="location_ssm">Cassette: 23A-B</field>
-    <field name="location_si">Cassette: 23A-B</field>
+    <field name="location_si">Box: 6, Cassette: 23A-B</field>
     <field name="collection_teim">United Federation of Teachers Oral History Collection</field>
     <field name="collection_unitid_teim">OH.009</field>
     <field name="series_si">Ponsie Hillman</field>

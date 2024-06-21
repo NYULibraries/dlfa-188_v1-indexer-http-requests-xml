@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New Yorkers at Work Oral History Collection</field>
     <field name="collection_ssm">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_ssm">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_ssm">OH.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Harry Fleischman</field>
     <field name="unittitle_teim">Harry Fleischman</field>
@@ -25,11 +25,10 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">CD: OH-01-254 / OH-01-255 / OH-01-256 / OH-01-257 / OH-01-258 / OH-01-259</field>
     <field name="location_ssm">Box: 24, audiocassette: 41A, 41B, 41C, 41D</field>
-    <field name="location_ssm">audiocassette: 41A, 41B, 41C, 41D</field>
     <field name="location_ssm">Box: 36, audiocassette: 41A, 41B, 41C, 41D</field>
-    <field name="location_si">audiocassette: 41A, 41B, 41C, 41D</field>
+    <field name="location_si">Box: 36, audiocassette: 41A, 41B, 41C, 41D</field>
     <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_teim">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_teim">OH.001</field>
     <field name="series_si">Harry Fleischman</field>
     <field name="heading_ssm">Harry Fleischman</field>
     <field name="unitdate_start_sim">1981</field>

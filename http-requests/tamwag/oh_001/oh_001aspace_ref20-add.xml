@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New Yorkers at Work Oral History Collection</field>
     <field name="collection_ssm">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_ssm">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_ssm">OH.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Sylvia &amp;amp; George Aronov</field>
     <field name="unittitle_teim">Sylvia &amp; George Aronov</field>
@@ -23,14 +23,11 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">CD: OH-01-197 / OH-01-198 / OH-01-199 / OH-01-200, CD: OH-01-201 / OH-01-202 / OH-01-203 / OH-01-204</field>
-    <field name="location_ssm">CD: OH-01-201 / OH-01-202 / OH-01-203 / OH-01-204, CD: OH-01-205 / OH-01-206</field>
-    <field name="location_ssm">CD: OH-01-205 / OH-01-206</field>
+    <field name="location_ssm">CD: OH-01-197 / OH-01-198 / OH-01-199 / OH-01-200, CD: OH-01-201 / OH-01-202 / OH-01-203 / OH-01-204, CD: OH-01-205 / OH-01-206</field>
     <field name="location_ssm">Box: 30, audiocassette: 152A, 152B, 152C, 152D, 152E</field>
-    <field name="location_ssm">audiocassette: 152A, 152B, 152C, 152D, 152E</field>
-    <field name="location_si">audiocassette: 152A, 152B, 152C, 152D, 152E</field>
+    <field name="location_si">Box: 30, audiocassette: 152A, 152B, 152C, 152D, 152E</field>
     <field name="collection_teim">New Yorkers at Work Oral History Collection</field>
-    <field name="collection_unitid_teim">OH.001/repositories/2/resources/384</field>
+    <field name="collection_unitid_teim">OH.001</field>
     <field name="series_si">Sylvia &amp;amp; George Aronov</field>
     <field name="heading_ssm">Sylvia &amp; George Aronov</field>
     <field name="unitdate_start_sim">1995</field>
