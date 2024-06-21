@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Trayvon Martin Organizing Committee Archived Website</field>
     <field name="unittitle_teim">Trayvon Martin Organizing Committee Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/382137</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/382137</field>
+    <field name="creator_teim">Trayvon Martin Organizing Committee</field>
+    <field name="creator_ssm">Trayvon Martin Organizing Committee</field>
+    <field name="creator_ssm">Trayvon Martin Organizing Committee</field>
     <field name="unitdate_teim">Jul 16, 2013- ongoing</field>
     <field name="scopecontent_teim">The Trayvon Martin Organizing Committee is an organization that advocates for justice for Trayvon Martin. Martin was fatally shot by George Zimmerman on February 26, 2012. Zimmerman was tried on June 24, 2013, and found not guilty the following day. The organization believes that Martin's death was a race based murder and Zimmerman was not arrested because of white supremacy and classism inherent in the criminal justice system. The website contains information about rallies in response to the not guilty verdict, as well as reports from the rallies' aftermath.</field>
     <field name="corpname_teim">Trayvon Martin Organizing Committee</field>
@@ -30,6 +33,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Trayvon Martin Organizing Committee</field>
     <field name="name_sim">Trayvon Martin Organizing Committee</field>
     <field name="name_sim">Martin, Trayvon, 1995-2012</field>
     <field name="name_teim">Trayvon Martin Organizing Committee</field>
@@ -37,7 +41,7 @@
     <field name="dao_sim">Online Access</field>
     <field name="subject_sim">Discrimination -- United States</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Trayvon Martin Organizing Committee Archived Website</field>
     <field name="heading_ssm">Trayvon Martin Organizing Committee Archived Website</field>
     <field name="unitdate_ssm">Jul 16, 2013- ongoing</field>

@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">International Socialist Organization Archived Website</field>
     <field name="unittitle_teim">International Socialist Organization Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381953</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381953</field>
+    <field name="creator_teim">International Socialist Organization (U.S.)</field>
+    <field name="creator_ssm">International Socialist Organization (U.S.)</field>
+    <field name="creator_ssm">International Socialist Organization (U.S.)</field>
     <field name="unitdate_teim">Nov 20, 2008- ongoing</field>
     <field name="scopecontent_teim">The International Socialist Organization (U.S.), founded 1969, is a Trotskyist organization, and publishes Labor Notes, a national voice for progressive rank and file unionists (http://webarchives.cdlib.org/site/sw1862bf8f), the Socialist Worker and the International Socialist Review. Members are involved in helping to build a number of struggles: the movement to stop the war on Iraq, fights against racism and anti-immigrant scapegoating, the struggle for women's rights like the right to choose abortion, opposing anti-gay bigotry, and standing up for workers' rights. The website contains links to their publications, information on their branches, resources for socialists, and other materials.</field>
     <field name="corpname_teim">International Socialist Organization (U.S.)</field>
@@ -34,6 +37,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">International Socialist Organization (U.S.)</field>
     <field name="name_sim">International Socialist Organization (U.S.)</field>
     <field name="name_teim">International Socialist Organization (U.S.)</field>
     <field name="dao_sim">Online Access</field>
@@ -41,7 +45,7 @@
     <field name="subject_sim">Communism.</field>
     <field name="subject_sim">Socialism</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">International Socialist Organization Archived Website</field>
     <field name="heading_ssm">International Socialist Organization Archived Website</field>
     <field name="unitdate_ssm">Nov 20, 2008- ongoing</field>

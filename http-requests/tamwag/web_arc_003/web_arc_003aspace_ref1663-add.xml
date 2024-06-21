@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Rosenberg Fund for Children Archived Website</field>
     <field name="unittitle_teim">Rosenberg Fund for Children Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/382102</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/382102</field>
+    <field name="creator_teim">Rosenberg Fund for Children</field>
+    <field name="creator_ssm">Rosenberg Fund for Children</field>
+    <field name="creator_ssm">Rosenberg Fund for Children</field>
     <field name="unitdate_teim">Nov 11, 2013- ongoing</field>
     <field name="scopecontent_teim">The Rosenberg Fund for Children, established in 1990 by Robert Meeropol (son of Julius and Ethel Rosenberg), to aid the children of targeted activists that have participated in activities to preserve civil liberties, wage peace, safeguard the environment, combat racism and homophobia, and organize on behalf of workers, prisoners, immigrants and others. The website contains information on grant funding, news and events related to grantees, and information on the Rosenberg case.</field>
     <field name="corpname_teim">Rosenberg Fund for Children</field>
@@ -29,6 +32,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Rosenberg Fund for Children</field>
     <field name="name_sim">Rosenberg Fund for Children</field>
     <field name="name_sim">Rosenberg, Ethel, 1915-1953</field>
     <field name="name_sim">Rosenberg, Julius, 1918-1953</field>
@@ -37,7 +41,7 @@
     <field name="name_teim">Rosenberg, Julius, 1918-1953</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Rosenberg Fund for Children Archived Website</field>
     <field name="heading_ssm">Rosenberg Fund for Children Archived Website</field>
     <field name="unitdate_ssm">Nov 11, 2013- ongoing</field>

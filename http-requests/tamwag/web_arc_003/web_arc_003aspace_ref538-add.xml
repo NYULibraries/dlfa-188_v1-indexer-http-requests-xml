@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Early American Marxism: A Repository of Source Material, 1864-1946 Archived Website</field>
     <field name="unittitle_teim">Early American Marxism: A Repository of Source Material, 1864-1946 Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381917</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381917</field>
+    <field name="creator_teim">Davenport, Tim, 1961-</field>
+    <field name="creator_ssm">Davenport, Tim, 1961-</field>
+    <field name="creator_ssm">Davenport, Tim, 1961-</field>
     <field name="unitdate_teim">Sep 23, 2009- ongoing</field>
     <field name="scopecontent_teim">Early American Marxism is a repository of primary source Marxist materials dating from 1864-1946, collected by Tim Davenport. The website contains a historical background of significant groups established in the United States, including the First International, Language Federations, Socialist Labor Party, Socialist Party, Communist Party, Communist International, and other organizations. The primary resources are arranged by year, and summarized individually by Davenport.</field>
     <field name="persname_teim">Davenport, Tim, 1961-</field>
@@ -37,6 +40,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Davenport, Tim, 1961-</field>
     <field name="name_sim">Davenport, Tim, 1961-</field>
     <field name="name_teim">Davenport, Tim, 1961-</field>
     <field name="dao_sim">Online Access</field>
@@ -45,7 +49,7 @@
     <field name="subject_sim">Socialism -- United States.</field>
     <field name="subject_sim">Communism -- United States.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Early American Marxism: A Repository of Source Material, 1864-1946 Archived Website</field>
     <field name="heading_ssm">Early American Marxism: A Repository of Source Material, 1864-1946 Archived Website</field>
     <field name="unitdate_ssm">Sep 23, 2009- ongoing</field>

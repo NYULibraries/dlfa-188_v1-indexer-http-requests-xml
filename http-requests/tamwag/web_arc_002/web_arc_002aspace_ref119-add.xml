@@ -11,6 +11,9 @@
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Communications Workers of America Archived Website</field>
     <field name="unittitle_teim">Communications Workers of America Archived Website</field>
+    <field name="creator_teim">Communications Workers of America</field>
+    <field name="creator_ssm">Communications Workers of America</field>
+    <field name="creator_ssm">Communications Workers of America</field>
     <field name="unitdate_normal_ssm">2008/2008</field>
     <field name="unitdate_normal_teim">2008/2008</field>
     <field name="unitdate_normal_sim">2008/2008</field>
@@ -29,6 +32,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Communications Workers of America</field>
     <field name="name_sim">Communications Workers of America</field>
     <field name="name_teim">Communications Workers of America</field>
     <field name="dao_sim">Online Access</field>

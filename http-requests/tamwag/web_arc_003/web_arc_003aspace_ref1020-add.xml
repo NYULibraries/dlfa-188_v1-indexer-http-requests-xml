@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">National Committee to Free the Cuban Five Archived Website</field>
     <field name="unittitle_teim">National Committee to Free the Cuban Five Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381981</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381981</field>
+    <field name="creator_teim">National Committee to Free the Cuban Five</field>
+    <field name="creator_ssm">National Committee to Free the Cuban Five</field>
+    <field name="creator_ssm">National Committee to Free the Cuban Five</field>
     <field name="unitdate_teim">Aug 27, 2009- ongoing</field>
     <field name="scopecontent_teim">The Cuban Five (Gerardo Hernández, Antonio Guerrero, Ramón Labañino, Fernando González, and René González) are five Cubans convicted in Miami of conspiracy to commit espionage, conspiracy to commit murder, and other illegal activities in the United States. The Five were allegedly in the United States to observe and infiltrate the Cuban-American groups Alpha 66, the F4 Commandos, the Cuban American National Foundation, and Brothers to the Rescue. The Five appealed their convictions and the alleged lack of fairness in their trial. A three-judge panel of the 11th U.S. Circuit Court of Appeals in Atlanta overturned their convictions in 2005, citing the "prejudices" of Miami's anti-Castro Cubans, but the full court later reversed the five's bid for a new trial and reinstated the original convictions. In June 2009 the US Supreme Court declined to review the case. In Cuba, the Five are viewed as national heroes and portrayed as having sacrificed their liberty in the defense of their country. The main objective of the website is to raise awareness about the Cuban Five and work for their freedom.</field>
     <field name="corpname_teim">National Committee to Free the Cuban Five</field>
@@ -34,6 +37,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">National Committee to Free the Cuban Five</field>
     <field name="name_sim">National Committee to Free the Cuban Five</field>
     <field name="name_teim">National Committee to Free the Cuban Five</field>
     <field name="dao_sim">Online Access</field>
@@ -41,7 +45,7 @@
     <field name="subject_sim">Cuban Americans -- Florida -- Politics and government</field>
     <field name="subject_sim">Espionage, Cuban.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">National Committee to Free the Cuban Five Archived Website</field>
     <field name="heading_ssm">National Committee to Free the Cuban Five Archived Website</field>
     <field name="unitdate_ssm">Aug 27, 2009- ongoing</field>

@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">New York City Anarchist Book Fair Archived Website</field>
     <field name="unittitle_teim">New York City Anarchist Book Fair Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381996</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381996</field>
+    <field name="creator_teim">New York City Anarchist Book Fair Collective</field>
+    <field name="creator_ssm">New York City Anarchist Book Fair Collective</field>
+    <field name="creator_ssm">New York City Anarchist Book Fair Collective</field>
     <field name="unitdate_teim">Aug 28, 2009- ongoing</field>
     <field name="scopecontent_teim">The New York City Anarchist Book Fair is a yearly exposition of books, magazines, pamphlets, art, film/video, and other cultural and political productions of the anarchist scene worldwide. The first book fair was in 2007, organized by the New York Metro Anarchist Alliance. The Book Fair includes two days of panels, presentations, workshops, and skill shares on to provide further opportunities to learn more and share your own experience and creativity. The goal of the book fair is to enable people to connect with one another as well as to provide broader access to the rich and varied field of anarchist ideas and practices.</field>
     <field name="corpname_teim">New York City Anarchist Book Fair Collective</field>
@@ -34,6 +37,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">New York City Anarchist Book Fair Collective</field>
     <field name="name_sim">New York City Anarchist Book Fair Collective</field>
     <field name="name_teim">New York City Anarchist Book Fair Collective</field>
     <field name="dao_sim">Online Access</field>
@@ -41,7 +45,7 @@
     <field name="subject_sim">Anarchists -- New York (State) -- New York</field>
     <field name="subject_sim">Book industries and trade -- Exhibitions</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">New York City Anarchist Book Fair Archived Website</field>
     <field name="heading_ssm">New York City Anarchist Book Fair Archived Website</field>
     <field name="unitdate_ssm">Aug 28, 2009- ongoing</field>

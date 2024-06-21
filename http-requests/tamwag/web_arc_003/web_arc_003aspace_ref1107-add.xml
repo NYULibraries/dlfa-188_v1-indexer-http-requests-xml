@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">New York City General Assembly at #OccupyWallStreet Archived Website</field>
     <field name="unittitle_teim">New York City General Assembly at #OccupyWallStreet Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381997</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381997</field>
+    <field name="creator_teim">New York City General Assembly</field>
+    <field name="creator_ssm">New York City General Assembly</field>
+    <field name="creator_ssm">New York City General Assembly</field>
     <field name="unitdate_teim">Oct 5, 2011- ongoing</field>
     <field name="scopecontent_teim">The New York City General Assembly (NYCGA) is the governing body of the Occupy movement in New York City. The NYCGA is composed of smaller working groups that organize goals set by Occupy Wall Street movement. The assembly is an open, participatory and horizontally organized process. The website operates as a collaborative space for actions and working groups, contains general assembly meeting minutes, proposals, and activist resources. The website was launched in Fall, 2011.</field>
     <field name="corpname_teim">New York City General Assembly</field>
@@ -37,6 +40,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">New York City General Assembly</field>
     <field name="name_sim">New York City General Assembly</field>
     <field name="name_teim">New York City General Assembly</field>
     <field name="dao_sim">Online Access</field>
@@ -45,7 +49,7 @@
     <field name="subject_sim">Financial sector of the American economy.</field>
     <field name="subject_sim">Distributive justice.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">New York City General Assembly at #OccupyWallStreet Archived Website</field>
     <field name="heading_ssm">New York City General Assembly at #OccupyWallStreet Archived Website</field>
     <field name="unitdate_ssm">Oct 5, 2011- ongoing</field>

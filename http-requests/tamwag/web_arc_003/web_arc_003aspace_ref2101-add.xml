@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Women's International League for Peace and Freedom (WILPF) Archived Website</field>
     <field name="unittitle_teim">Women's International League for Peace and Freedom (WILPF) Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/382156</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/382156</field>
+    <field name="creator_teim">Women's International League for Peace and Freedom</field>
+    <field name="creator_ssm">Women's International League for Peace and Freedom</field>
+    <field name="creator_ssm">Women's International League for Peace and Freedom</field>
     <field name="unitdate_teim">Mar 8, 2010- ongoing</field>
     <field name="scopecontent_teim">The Women's International League for Peace and Freedom was founded in 1915 during World War I, with Jane Addams as its first president. WILPF works to achieve through peaceful means world disarmament, full rights for women, racial and economic justice, an end to all forms of violence, and to establish those political, social, and psychological conditions which can assure peace, freedom, and justice for all. WILPF works to create an environment of political, economic, social and psychological freedom for all members of the human community, so that true peace can be enjoyed by all.</field>
     <field name="corpname_teim">Women's International League for Peace and Freedom</field>
@@ -34,6 +37,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Women's International League for Peace and Freedom</field>
     <field name="name_sim">Women's International League for Peace and Freedom</field>
     <field name="name_teim">Women's International League for Peace and Freedom</field>
     <field name="dao_sim">Online Access</field>
@@ -41,7 +45,7 @@
     <field name="subject_sim">Feminism</field>
     <field name="subject_sim">Peace movements</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Women's International League for Peace and Freedom (WILPF) Archived Website</field>
     <field name="heading_ssm">Women's International League for Peace and Freedom (WILPF) Archived Website</field>
     <field name="unitdate_ssm">Mar 8, 2010- ongoing</field>

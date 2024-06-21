@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Asian American Arts Centre Archived Website</field>
     <field name="unittitle_teim">Asian American Arts Centre Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381876</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381876</field>
+    <field name="creator_teim">Asian American Arts Centre</field>
+    <field name="creator_ssm">Asian American Arts Centre</field>
+    <field name="creator_ssm">Asian American Arts Centre</field>
     <field name="unitdate_teim">Mar 25, 2014-ongoing</field>
     <field name="scopecontent_teim">The Asian American Arts Centre, founded in 1974 as Asian American Dance Theatre, is one of the older community arts organizations in New York City Chinatown. The current name, Asian American Arts Centre, was adopted in 1987 to encompass both the dance company (Asian American Dance Theatre) and the visual arts program, Asian Arts Institute, initiated in 1984. In 2007, the Asian American Art Centre created a new archive, the AAAC Artist Archive. 150 artists who exemplified the major issues that compose the subject of Asian American art were selected and their materials processed for long-term archival preservation. The website contains a blog with details on past and current exhibitions, the digital archive of art, and information related to community organizing in Chinatown.</field>
     <field name="corpname_teim">Asian American Arts Centre</field>
@@ -37,6 +40,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Asian American Arts Centre</field>
     <field name="name_sim">Asian American Arts Centre</field>
     <field name="name_teim">Asian American Arts Centre</field>
     <field name="dao_sim">Online Access</field>
@@ -45,7 +49,7 @@
     <field name="subject_sim">Art -- Political aspects -- New York (State) -- New York</field>
     <field name="subject_sim">Asian Americans -- New York (State) -- New York.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Asian American Arts Centre Archived Website</field>
     <field name="heading_ssm">Asian American Arts Centre Archived Website</field>
     <field name="unitdate_ssm">Mar 25, 2014-ongoing</field>

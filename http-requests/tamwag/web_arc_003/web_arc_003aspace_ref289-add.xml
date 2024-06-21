@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Brecht Forum Archived Website</field>
     <field name="unittitle_teim">Brecht Forum Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381883</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381883</field>
+    <field name="creator_teim">Brecht Forum (New York, N.Y.)</field>
+    <field name="creator_ssm">Brecht Forum (New York, N.Y.)</field>
+    <field name="creator_ssm">Brecht Forum (New York, N.Y.)</field>
     <field name="unitdate_teim">Aug 15, 2009- ongoing</field>
     <field name="scopecontent_teim">The Brecht Forum, originally located at 451 West Street in Manhattan, now at 388 Atlantic Avenue in Brooklyn, is a Marxist cultural and educational center. The Brecht Forum was founded in 1975 as The New York Marxist School. In 1984, the founding collective incorporated as The Brecht Forum with The New York Marxist School as the Forum's core project. In addition to the New York Marxist School, it also offers other programs, language classes, and arts and cultural events. The website contains information on their curriculum and classes, as well as economic news analysis.</field>
     <field name="corpname_teim">Brecht Forum (New York, N.Y.)</field>
@@ -30,6 +33,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Brecht Forum (New York, N.Y.)</field>
     <field name="name_sim">Brecht Forum (New York, N.Y.)</field>
     <field name="name_sim">New York Marxist School</field>
     <field name="name_teim">Brecht Forum (New York, N.Y.)</field>
@@ -37,7 +41,7 @@
     <field name="dao_sim">Online Access</field>
     <field name="subject_sim">Communism and education.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Brecht Forum Archived Website</field>
     <field name="heading_ssm">Brecht Forum Archived Website</field>
     <field name="unitdate_ssm">Aug 15, 2009- ongoing</field>

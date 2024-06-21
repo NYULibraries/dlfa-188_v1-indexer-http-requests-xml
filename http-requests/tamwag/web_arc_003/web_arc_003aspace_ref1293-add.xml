@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Occupy Our Homes Archived Website</field>
     <field name="unittitle_teim">Occupy Our Homes Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/382035</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/382035</field>
+    <field name="creator_teim">OccupyOurHomes</field>
+    <field name="creator_ssm">OccupyOurHomes</field>
+    <field name="creator_ssm">OccupyOurHomes</field>
     <field name="unitdate_teim">Dec 10, 2011- ongoing</field>
     <field name="scopecontent_teim">OccupyOurHomes is a website inspired about the Occupy Movement. The website works to negotiate with Wall Street banks and homeowners instead of foreclosing on homeowners. They believe that everyone has the right to affordable housing. Activists occupy foreclosed homes to work for change. The website contains videos, articles, and resources on how to protect homes from foreclosure.</field>
     <field name="corpname_teim">OccupyOurHomes</field>
@@ -37,6 +40,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">OccupyOurHomes</field>
     <field name="name_sim">OccupyOurHomes</field>
     <field name="name_teim">OccupyOurHomes</field>
     <field name="dao_sim">Online Access</field>
@@ -45,7 +49,7 @@
     <field name="subject_sim">Financial sector of the American economy.</field>
     <field name="subject_sim">Distributive justice.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Occupy Our Homes Archived Website</field>
     <field name="heading_ssm">Occupy Our Homes Archived Website</field>
     <field name="unitdate_ssm">Dec 10, 2011- ongoing</field>

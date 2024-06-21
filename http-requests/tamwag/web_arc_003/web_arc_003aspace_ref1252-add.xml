@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Occupy DC Archived Website</field>
     <field name="unittitle_teim">Occupy DC Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/382021</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/382021</field>
+    <field name="creator_teim">Occupy DC</field>
+    <field name="creator_ssm">Occupy DC</field>
+    <field name="creator_ssm">Occupy DC</field>
     <field name="unitdate_teim">Oct 22, 2011- ongoing</field>
     <field name="scopecontent_teim">Occupy DC is a nonviolent occupation of public space in solidarity with Occupy Wall Street and Occupy movements. Occupy DC was in McPherson Square in Washington during the Fall 2011 and Winter 2012, DC. The website contains event and action notices, news related to the occupation in DC, a blog called the Occupied Washington Times, a livestream, and a radio station.</field>
     <field name="corpname_teim">Occupy DC</field>
@@ -34,6 +37,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Occupy DC</field>
     <field name="name_sim">Occupy DC</field>
     <field name="name_teim">Occupy DC</field>
     <field name="dao_sim">Online Access</field>
@@ -41,7 +45,7 @@
     <field name="subject_sim">Occupy Wall Street (Movement).</field>
     <field name="subject_sim">Distributive justice.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Occupy DC Archived Website</field>
     <field name="heading_ssm">Occupy DC Archived Website</field>
     <field name="unitdate_ssm">Oct 22, 2011- ongoing</field>

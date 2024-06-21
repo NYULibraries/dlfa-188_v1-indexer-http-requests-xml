@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Grassroots Education Movement (NYC) Archived Website</field>
     <field name="unittitle_teim">Grassroots Education Movement (NYC) Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381932</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381932</field>
+    <field name="creator_teim">Grassroots Education Movement to Defend Public Education</field>
+    <field name="creator_ssm">Grassroots Education Movement to Defend Public Education</field>
+    <field name="creator_ssm">Grassroots Education Movement to Defend Public Education</field>
     <field name="unitdate_normal_ssm">2010/2013</field>
     <field name="unitdate_normal_teim">2010/2013</field>
     <field name="unitdate_normal_sim">2010/2013</field>
@@ -40,6 +43,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Grassroots Education Movement to Defend Public Education</field>
     <field name="name_sim">Grassroots Education Movement to Defend Public Education</field>
     <field name="name_sim">United Federation of Teachers</field>
     <field name="name_teim">Grassroots Education Movement to Defend Public Education</field>
@@ -49,7 +53,7 @@
     <field name="subject_sim">Teachers' unions -- New York (State) -- New York</field>
     <field name="subject_sim">Student movements -- New York (N.Y.)</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Grassroots Education Movement (NYC) Archived Website</field>
     <field name="heading_ssm">Grassroots Education Movement (NYC) Archived Website</field>
     <field name="unitdate_start_sim">2010</field>

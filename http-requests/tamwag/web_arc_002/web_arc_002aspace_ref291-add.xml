@@ -11,6 +11,9 @@
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">New York Taxi Workers Alliance Archived Website</field>
     <field name="unittitle_teim">New York Taxi Workers Alliance Archived Website</field>
+    <field name="creator_teim">New York Taxi Workers Alliance</field>
+    <field name="creator_ssm">New York Taxi Workers Alliance</field>
+    <field name="creator_ssm">New York Taxi Workers Alliance</field>
     <field name="unitdate_normal_ssm">2011/2011</field>
     <field name="unitdate_normal_teim">2011/2011</field>
     <field name="unitdate_normal_sim">2011/2011</field>
@@ -32,6 +35,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">New York Taxi Workers Alliance</field>
     <field name="name_sim">New York Taxi Workers Alliance</field>
     <field name="name_teim">New York Taxi Workers Alliance</field>
     <field name="dao_sim">Online Access</field>

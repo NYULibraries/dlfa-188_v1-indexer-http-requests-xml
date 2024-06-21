@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">International Freedom of Expression Exchange Archived Website</field>
     <field name="unittitle_teim">International Freedom of Expression Exchange Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381951</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381951</field>
+    <field name="creator_teim">International Freedom of Expression eXchange Network</field>
+    <field name="creator_ssm">International Freedom of Expression eXchange Network</field>
+    <field name="creator_ssm">International Freedom of Expression eXchange Network</field>
     <field name="unitdate_teim">Oct 15, 2011- ongoing</field>
     <field name="scopecontent_teim">International Freedom of Expression eXchange Network, created in 1992 in Montreal works to expose violations of free expression around the world and promote free expression. The website publishes news and runs advocacy campaigns. IFEX's positions are based upon the principles of Article 19 of the Universal Declaration of Human Rights. IFEX numbers 95 independent organizations worldwide and is managed by the Canadian Journalists for Free Expression (CJFE).</field>
     <field name="corpname_teim">International Freedom of Expression eXchange Network</field>
@@ -34,6 +37,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">International Freedom of Expression eXchange Network</field>
     <field name="name_sim">International Freedom of Expression eXchange Network</field>
     <field name="name_teim">International Freedom of Expression eXchange Network</field>
     <field name="dao_sim">Online Access</field>
@@ -41,7 +45,7 @@
     <field name="subject_sim">Freedom of speech -- United States.</field>
     <field name="subject_sim">Human rights.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">International Freedom of Expression Exchange Archived Website</field>
     <field name="heading_ssm">International Freedom of Expression Exchange Archived Website</field>
     <field name="unitdate_ssm">Oct 15, 2011- ongoing</field>

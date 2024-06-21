@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Highlander Research and Education Center Archived Website</field>
     <field name="unittitle_teim">Highlander Research and Education Center Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381943</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381943</field>
+    <field name="creator_teim">Highlander Education and Research Center</field>
+    <field name="creator_ssm">Highlander Education and Research Center</field>
+    <field name="creator_ssm">Highlander Education and Research Center</field>
     <field name="unitdate_teim">Jun 23, 2011- ongoing</field>
     <field name="scopecontent_teim">The Highlander Research and Education Center was created in1932 (as the Highlander Folk School) by Myles Horton and Don West in Grundy County, Tennessee, to serve as a grassroots organizing and movement building organization in Appalachia and the South that supported racial justice and the labor movement. They work with people fighting for economic and social justice, against environmental degradation. Through popular education, participatory research, and cultural work Highlander works to give people the ability to develop leadership and help create and support strong, democratic organizations.</field>
     <field name="corpname_teim">Highlander Education and Research Center</field>
@@ -40,6 +43,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Highlander Education and Research Center</field>
     <field name="name_sim">Highlander Education and Research Center</field>
     <field name="name_teim">Highlander Education and Research Center</field>
     <field name="dao_sim">Online Access</field>
@@ -49,7 +53,7 @@
     <field name="subject_sim">Labor movement -- Southern States</field>
     <field name="subject_sim">Civil rights -- Southern States</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Highlander Research and Education Center Archived Website</field>
     <field name="heading_ssm">Highlander Research and Education Center Archived Website</field>
     <field name="unitdate_ssm">Jun 23, 2011- ongoing</field>

@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">United States. Congress. Senate. Armed Services Committee Report: Inquiry into the treatment of detainees in U.S. custody, 11/20/2008 Archived Website</field>
     <field name="unittitle_teim">United States. Congress. Senate. Armed Services Committee Report: Inquiry into the treatment of detainees in U.S. custody, 11/20/2008 Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/382148</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/382148</field>
+    <field name="creator_teim">United States. Congress. Senate. Committee on Armed Services</field>
+    <field name="creator_ssm">United States. Congress. Senate. Committee on Armed Services</field>
+    <field name="creator_ssm">United States. Congress. Senate. Committee on Armed Services</field>
     <field name="unitdate_normal_ssm">2009/2009</field>
     <field name="unitdate_normal_teim">2009/2009</field>
     <field name="unitdate_normal_sim">2009/2009</field>
@@ -39,6 +42,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">United States. Congress. Senate. Committee on Armed Services</field>
     <field name="name_sim">United States. Congress. Senate. Committee on Armed Services</field>
     <field name="name_sim">Guantánamo Bay Detention Camp</field>
     <field name="name_teim">United States. Congress. Senate. Committee on Armed Services</field>
@@ -48,7 +52,7 @@
     <field name="subject_sim">Torture -- United States</field>
     <field name="subject_sim">Iraq War, 2003-2011 -- Moral and ethical aspects -- United States.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">United States. Congress. Senate. Armed Services Committee Report: Inquiry into the treatment of detainees in U.S. custody, 11/20/2008 Archived Website</field>
     <field name="heading_ssm">United States. Congress. Senate. Armed Services Committee Report: Inquiry into the treatment of detainees in U.S. custody, 11/20/2008 Archived Website</field>
     <field name="unitdate_start_sim">2009</field>

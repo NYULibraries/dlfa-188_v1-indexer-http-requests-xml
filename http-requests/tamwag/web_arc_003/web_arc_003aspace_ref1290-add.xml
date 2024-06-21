@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Occupy News Archived Website</field>
     <field name="unittitle_teim">Occupy News Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/382034</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/382034</field>
+    <field name="creator_teim">Occupy News</field>
+    <field name="creator_ssm">Occupy News</field>
+    <field name="creator_ssm">Occupy News</field>
     <field name="unitdate_teim">Dec 4, 2011- ongoing</field>
     <field name="scopecontent_teim">Occupy News is a news website that aggregates news on over 175 occupations that are part of the Occupy Wall Street movement across the United States.</field>
     <field name="corpname_teim">Occupy News</field>
@@ -37,6 +40,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Occupy News</field>
     <field name="name_sim">Occupy News</field>
     <field name="name_teim">Occupy News</field>
     <field name="dao_sim">Online Access</field>
@@ -45,7 +49,7 @@
     <field name="subject_sim">Occupy Wall Street (Movement).</field>
     <field name="subject_sim">Social responsibility in banking.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Occupy News Archived Website</field>
     <field name="heading_ssm">Occupy News Archived Website</field>
     <field name="unitdate_ssm">Dec 4, 2011- ongoing</field>

@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Occupy Together Archived Website</field>
     <field name="unittitle_teim">Occupy Together Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/382051</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/382051</field>
+    <field name="creator_teim">Occupy Together</field>
+    <field name="creator_ssm">Occupy Together</field>
+    <field name="creator_ssm">Occupy Together</field>
     <field name="unitdate_teim">Oct 6, 2011- ongoing</field>
     <field name="scopecontent_teim">Occupy Together is a website that lists events and actions around the world in solidarity with the Occupy Wall Street movement. The website lists major action projects of the Occupy movement, contains lists of occupy groups, and offers links to occupation planning websites.</field>
     <field name="corpname_teim">Occupy Together</field>
@@ -37,6 +40,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Occupy Together</field>
     <field name="name_sim">Occupy Together</field>
     <field name="name_teim">Occupy Together</field>
     <field name="dao_sim">Online Access</field>
@@ -45,7 +49,7 @@
     <field name="subject_sim">Occupy Wall Street (Movement).</field>
     <field name="subject_sim">Social responsibility of business.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Occupy Together Archived Website</field>
     <field name="heading_ssm">Occupy Together Archived Website</field>
     <field name="unitdate_ssm">Oct 6, 2011- ongoing</field>

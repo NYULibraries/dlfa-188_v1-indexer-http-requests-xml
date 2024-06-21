@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Asian CineVision Archived Website</field>
     <field name="unittitle_teim">Asian CineVision Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381875</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381875</field>
+    <field name="creator_teim">Asian CineVision (Organization)</field>
+    <field name="creator_ssm">Asian CineVision (Organization)</field>
+    <field name="creator_ssm">Asian CineVision (Organization)</field>
     <field name="unitdate_teim">Mar 27, 2014-ongoing</field>
     <field name="scopecontent_teim">Asian CineVision (ACV) is a non-profit media arts organization that develops, promotes and preserves media made by or about peoples of Asian descent. Asian CineVision was founded by grassroots media activists in New York's Chinatown in 1976 to raise social and cultural awareness of the Asian American experience, both in the Asian American community and among the general public. CineVue Online is ACV's media arts journal established in 1986. The website contains their media arts journal, information on their Asian American International Film Festival, news listings, event listings, and press releases.</field>
     <field name="corpname_teim">Asian CineVision (Organization)</field>
@@ -36,6 +39,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Asian CineVision (Organization)</field>
     <field name="name_sim">Asian CineVision (Organization)</field>
     <field name="name_sim">Asian American International Film Festival</field>
     <field name="name_teim">Asian CineVision (Organization)</field>
@@ -45,7 +49,7 @@
     <field name="subject_sim">Asian American motion picture producers and directors.</field>
     <field name="subject_sim">Asian Americans.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Asian CineVision Archived Website</field>
     <field name="heading_ssm">Asian CineVision Archived Website</field>
     <field name="unitdate_ssm">Mar 27, 2014-ongoing</field>

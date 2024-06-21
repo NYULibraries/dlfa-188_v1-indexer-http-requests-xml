@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">OccupyWriters.com Archived Website</field>
     <field name="unittitle_teim">OccupyWriters.com Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/382066</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/382066</field>
+    <field name="creator_teim">Wall Street Writers</field>
+    <field name="creator_ssm">Wall Street Writers</field>
+    <field name="creator_ssm">Wall Street Writers</field>
     <field name="unitdate_teim">Oct 26, 2011- ongoing</field>
     <field name="scopecontent_teim">Occupy Writers is a collection of writings by writers who support the Occupy Movement. The website contains short writings on observations, analysis, poetry, and prose on the occupy movement. The website links the names of writers and their writings contributed to the site.</field>
     <field name="corpname_teim">Wall Street Writers</field>
@@ -42,6 +45,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Wall Street Writers</field>
     <field name="name_sim">Wall Street Writers</field>
     <field name="name_teim">Wall Street Writers</field>
     <field name="dao_sim">Online Access</field>
@@ -51,7 +55,7 @@
     <field name="subject_sim">Social responsibility of business.</field>
     <field name="subject_sim">Occupy Wall Street (Movement).</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">OccupyWriters.com Archived Website</field>
     <field name="material_type_sim">Petitions.</field>
     <field name="material_type_ssm">Petitions.</field>

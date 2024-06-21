@@ -7,12 +7,15 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Web Collection on Organizations</field>
     <field name="collection_ssm">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_ssm">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_ssm">WEB.ARC.003</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Ferguson Action Archived Website</field>
     <field name="unittitle_teim">Ferguson Action Archived Website</field>
     <field name="unitid_teim">/repositories/2/archival_objects/381924</field>
     <field name="unitid_ssm">/repositories/2/archival_objects/381924</field>
+    <field name="creator_teim">Ferguson Action</field>
+    <field name="creator_ssm">Ferguson Action</field>
+    <field name="creator_ssm">Ferguson Action</field>
     <field name="unitdate_normal_ssm">2014-12/2021-09</field>
     <field name="unitdate_normal_teim">2014-12/2021-09</field>
     <field name="unitdate_normal_sim">2014-12/2021-09</field>
@@ -37,6 +40,7 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Ferguson Action</field>
     <field name="name_sim">Ferguson Action</field>
     <field name="name_teim">Ferguson Action</field>
     <field name="dao_sim">Online Access</field>
@@ -44,7 +48,7 @@
     <field name="subject_sim">Black power.</field>
     <field name="subject_sim">Police brutality.</field>
     <field name="collection_teim">Tamiment Library Web Collection on Organizations</field>
-    <field name="collection_unitid_teim">WEB.ARC.003/repositories/2/resources/1582</field>
+    <field name="collection_unitid_teim">WEB.ARC.003</field>
     <field name="series_si">Ferguson Action Archived Website</field>
     <field name="heading_ssm">Ferguson Action Archived Website</field>
     <field name="unitdate_ssm">Inclusive, December 2014-September 2021</field>
