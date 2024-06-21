@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Irish Repertory Theatre Records</field>
     <field name="collection_ssm">Irish Repertory Theatre Records</field>
-    <field name="collection_unitid_ssm">AIA.080/repositories/2/resources/2312</field>
+    <field name="collection_unitid_ssm">AIA.080</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Rejection letters</field>
     <field name="unittitle_teim">Rejection letters</field>
@@ -31,14 +31,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 21, Folder: 4-12</field>
-    <field name="location_ssm">Folder: 4-12</field>
     <field name="location_ssm">Box: 22, Folder: 1-10</field>
-    <field name="location_ssm">Folder: 1-10</field>
     <field name="location_ssm">Box: 23, Folder: 1-2</field>
-    <field name="location_ssm">Folder: 1-2</field>
-    <field name="location_si">Folder: 1-2</field>
+    <field name="location_si">Box: 23, Folder: 1-2</field>
     <field name="collection_teim">Irish Repertory Theatre Records</field>
-    <field name="collection_unitid_teim">AIA.080/repositories/2/resources/2312</field>
+    <field name="collection_unitid_teim">AIA.080</field>
     <field name="series_sim">Series II. Literary Department Records</field>
     <field name="series_sim">Subseries II. B. Rejected Script Files</field>
     <field name="series_si">Series II. Literary Department Records &gt;&gt; Subseries II. B. Rejected Script Files &gt;&gt; Rejection letters</field>

@@ -38,10 +38,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 9</field>
-    <field name="location_ssm">Folder: 9</field>
     <field name="location_ssm">Box: 5, Cassette: 030_00015</field>
-    <field name="location_ssm">Cassette: 030_00015</field>
-    <field name="location_si">Cassette: 030_00015</field>
+    <field name="location_si">Box: 5, Cassette: 030_00015</field>
     <field name="collection_teim">Ireland House Oral History Collection</field>
     <field name="collection_unitid_teim">AIA.030</field>
     <field name="series_sim">B</field>

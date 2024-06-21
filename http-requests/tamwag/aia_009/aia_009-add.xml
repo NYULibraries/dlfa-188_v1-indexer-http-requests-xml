@@ -6,11 +6,12 @@
     <field name="unittitle_teim">George Harrison Papers</field>
     <field name="unittitle_ssm">George Harrison Papers</field>
     <field name="unitid_teim">AIA.009</field>
-    <field name="unitid_teim">/repositories/2/resources/10</field>
     <field name="unitid_ssm">AIA.009</field>
-    <field name="unitid_ssm">/repositories/2/resources/10</field>
     <field name="abstract_teim">George Harrison (1915-2004) was a socialist and revolutionary Irish Republican who spent his life supporting the causes of oppressed peoples around the globe.  The collection consists of correspondence, legal files, memoranda, publications, ephemera, financial records, photographs, and material objects.  The materials document his family history, Harrison's gunrunning trial, and political affiliations and involvements.  This collection includes materials from many organizations in which Harrison was active during the period 1970-1995, especially the Irish American Defense Fund, the Irish Republican Socialist Committee of North America, the National Graves Association, and Republican Sinn Fein.  The materials also reflect his interests in liberation movements in South Africa, Cuba, Latin America, Palestine and the Philippines, particularly through a collection of political buttons.</field>
     <field name="abstract_ssm">George Harrison (1915-2004) was a socialist and revolutionary Irish Republican who spent his life supporting the causes of oppressed peoples around the globe.  The collection consists of correspondence, legal files, memoranda, publications, ephemera, financial records, photographs, and material objects.  The materials document his family history, Harrison's gunrunning trial, and political affiliations and involvements.  This collection includes materials from many organizations in which Harrison was active during the period 1970-1995, especially the Irish American Defense Fund, the Irish Republican Socialist Committee of North America, the National Graves Association, and Republican Sinn Fein.  The materials also reflect his interests in liberation movements in South Africa, Cuba, Latin America, Palestine and the Philippines, particularly through a collection of political buttons.</field>
+    <field name="creator_teim">Harrison, George, 1915-2004</field>
+    <field name="creator_ssm">Harrison, George, 1915-2004</field>
+    <field name="creator_ssm">Harrison, George, 1915-2004</field>
     <field name="unitdate_normal_ssm">1925/2003</field>
     <field name="unitdate_normal_ssm">1970/2000</field>
     <field name="unitdate_normal_teim">1925/2003</field>
@@ -116,6 +117,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Harrison, George, 1915-2004</field>
     <field name="name_sim">O'Dwyer &amp; Bernstien</field>
     <field name="name_sim">International Brotherhood of Teamsters. Local 807 (New York, N.Y.) </field>
     <field name="name_sim">International Brotherhood of Teamsters</field>

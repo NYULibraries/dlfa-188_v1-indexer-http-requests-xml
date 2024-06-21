@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Glucksman Ireland House Records</field>
     <field name="collection_ssm">Glucksman Ireland House Records</field>
-    <field name="collection_unitid_ssm">AIA.038/repositories/2/resources/42</field>
+    <field name="collection_unitid_ssm">AIA.038</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Mr. Peter Quinn</field>
     <field name="unittitle_teim">Mr. Peter Quinn</field>
@@ -27,10 +27,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, Folder: 23</field>
-    <field name="location_ssm">Folder: 23</field>
-    <field name="location_si">Folder: 23</field>
+    <field name="location_si">Box: 4, Folder: 23</field>
     <field name="collection_teim">Glucksman Ireland House Records</field>
-    <field name="collection_unitid_teim">AIA.038/repositories/2/resources/42</field>
+    <field name="collection_unitid_teim">AIA.038</field>
     <field name="series_sim">Series I: International Conference on Hunger</field>
     <field name="series_si">Series I: International Conference on Hunger &gt;&gt; Mr. Peter Quinn</field>
     <field name="heading_ssm">Mr. Peter Quinn</field>

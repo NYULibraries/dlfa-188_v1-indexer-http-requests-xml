@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sylvia O'Brien Papers</field>
     <field name="collection_ssm">Sylvia O'Brien Papers</field>
-    <field name="collection_unitid_ssm">AIA.054/repositories/2/resources/57</field>
+    <field name="collection_unitid_ssm">AIA.054</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Diaries</field>
     <field name="unittitle_teim">Diaries</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 25, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
-    <field name="location_si">Folder: 6</field>
+    <field name="location_si">Box: 25, Folder: 6</field>
     <field name="collection_teim">Sylvia O'Brien Papers</field>
-    <field name="collection_unitid_teim">AIA.054/repositories/2/resources/57</field>
+    <field name="collection_unitid_teim">AIA.054</field>
     <field name="series_sim">Series II. Personal Materials</field>
     <field name="series_si">Series II. Personal Materials &gt;&gt; Diaries</field>
     <field name="heading_ssm">Diaries</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Archives of Irish America Newspapers and Periodicals Collection</field>
     <field name="unittitle_ssm">Archives of Irish America Newspapers and Periodicals Collection</field>
     <field name="unitid_teim">AIA.004</field>
-    <field name="unitid_teim">/repositories/2/resources/5</field>
     <field name="unitid_ssm">AIA.004</field>
-    <field name="unitid_ssm">/repositories/2/resources/5</field>
     <field name="abstract_teim">The materials in this collection were collected and assembled by archives staff and various donors in an attempt to document the variety of newspapers and other publications produced by and for the Irish American community.  It consists of major runs of several prominent Irish American newspapers and periodicals, ranging from general interest weekly newspapers to more narrowly focused, overtly political publications.  The collection's major runs include An Phoblacht / Republican News (1906-present), the official organ of Sinn Féin; Irish Echo (1964-present); Irish People (1972-2004); Irish Voice (1987-2003).  The explicitly political publications focus mostly on Irish republicanism and conflict in Northern Ireland.</field>
     <field name="abstract_ssm">The materials in this collection were collected and assembled by archives staff and various donors in an attempt to document the variety of newspapers and other publications produced by and for the Irish American community.  It consists of major runs of several prominent Irish American newspapers and periodicals, ranging from general interest weekly newspapers to more narrowly focused, overtly political publications.  The collection's major runs include An Phoblacht / Republican News (1906-present), the official organ of Sinn Féin; Irish Echo (1964-present); Irish People (1972-2004); Irish Voice (1987-2003).  The explicitly political publications focus mostly on Irish republicanism and conflict in Northern Ireland.</field>
+    <field name="creator_teim">Archives of Irish America</field>
+    <field name="creator_ssm">Archives of Irish America</field>
+    <field name="creator_ssm">Archives of Irish America</field>
     <field name="unitdate_normal_ssm">1811/2020</field>
     <field name="unitdate_normal_ssm">1964/2010</field>
     <field name="unitdate_normal_teim">1811/2020</field>
@@ -111,6 +112,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Archives of Irish America</field>
     <field name="name_sim">Archives of Irish America</field>
     <field name="name_sim">Irish America</field>
     <field name="name_sim">Irish voice (New York, N.Y.) </field>

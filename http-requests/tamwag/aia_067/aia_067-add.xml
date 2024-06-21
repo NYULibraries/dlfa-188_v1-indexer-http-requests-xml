@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Jack O'Brien Papers</field>
     <field name="unittitle_ssm">Jack O'Brien Papers</field>
     <field name="unitid_teim">AIA.067</field>
-    <field name="unitid_teim">/repositories/2/resources/70</field>
     <field name="unitid_ssm">AIA.067</field>
-    <field name="unitid_ssm">/repositories/2/resources/70</field>
     <field name="abstract_teim">Jack O'Brien (May 16, 1938) is an engaged member of the Ancient Order of Hibernians (AOH) District of Columbia State Board. He has been active in various efforts to install memorials to significant Irish and Irish American people and serves as National Co-Chairman of the John Barry Memorial Project. In 2015, he was selected to be the Grand Marshal of the St. Patrick's Day Parade in Washington, D.C. This collection consists of materials created and collected by O'Brien regarding his involvement with the Washington, D.C. AOH, as well as his interest in republicanism related to Northern Ireland, Brexit's impact on Ireland, and Irish history and culture.</field>
     <field name="abstract_ssm">Jack O'Brien (May 16, 1938) is an engaged member of the Ancient Order of Hibernians (AOH) District of Columbia State Board. He has been active in various efforts to install memorials to significant Irish and Irish American people and serves as National Co-Chairman of the John Barry Memorial Project. In 2015, he was selected to be the Grand Marshal of the St. Patrick's Day Parade in Washington, D.C. This collection consists of materials created and collected by O'Brien regarding his involvement with the Washington, D.C. AOH, as well as his interest in republicanism related to Northern Ireland, Brexit's impact on Ireland, and Irish history and culture.</field>
+    <field name="creator_teim">O'Brien, Jack</field>
+    <field name="creator_ssm">O'Brien, Jack</field>
+    <field name="creator_ssm">O'Brien, Jack</field>
     <field name="unitdate_normal_ssm">1861/2021</field>
     <field name="unitdate_normal_ssm">1970/2018</field>
     <field name="unitdate_normal_teim">1861/2021</field>
@@ -148,6 +149,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">O'Brien, Jack</field>
     <field name="name_sim">Irish Northern Aid Committee</field>
     <field name="name_sim">United States. Army of the Potomac. Irish Brigade</field>
     <field name="name_sim">Irish American Unity Conference</field>

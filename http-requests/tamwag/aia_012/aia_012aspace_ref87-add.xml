@@ -32,13 +32,10 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 4, CD: 13</field>
-    <field name="location_ssm">CD: 13, track: 2</field>
-    <field name="location_ssm">track: 2</field>
-    <field name="location_ssm">Box: 3, CD: 13</field>
+    <field name="location_ssm">Box: 4, CD: 13, track: 2</field>
+    <field name="location_ssm">Box: 3, CD: 13, track: 2</field>
     <field name="location_ssm">Box: 1, Cassette: 13</field>
-    <field name="location_ssm">Cassette: 13</field>
-    <field name="location_si">Cassette: 13</field>
+    <field name="location_si">Box: 1, Cassette: 13</field>
     <field name="collection_teim">Jane Conlon Muller Oral History Collection</field>
     <field name="collection_unitid_teim">AIA.012</field>
     <field name="series_sim">Paul O'Dwyer (1907-1998)</field>

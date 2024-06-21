@@ -9,6 +9,9 @@
     <field name="unitid_ssm">AIA.041</field>
     <field name="abstract_teim">The Archives of Irish America (AIA) Material Culture and Ephemera Collection is an artificial collection composed of objects individually donated or found in other AIA collections. The collection consists of various items such as buttons, bumper stickers, hats, tickets, membership cards, pens, pins, musical instruments, and t-shirts -- many of which relate to Irish and Irish American organizations.</field>
     <field name="abstract_ssm">The Archives of Irish America (AIA) Material Culture and Ephemera Collection is an artificial collection composed of objects individually donated or found in other AIA collections. The collection consists of various items such as buttons, bumper stickers, hats, tickets, membership cards, pens, pins, musical instruments, and t-shirts -- many of which relate to Irish and Irish American organizations.</field>
+    <field name="creator_teim">Archives of Irish America</field>
+    <field name="creator_ssm">Archives of Irish America</field>
+    <field name="creator_ssm">Archives of Irish America</field>
     <field name="unitdate_normal_ssm">1915/2005</field>
     <field name="unitdate_normal_teim">1915/2005</field>
     <field name="unitdate_normal_sim">1915/2005</field>
@@ -57,6 +60,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Archives of Irish America</field>
     <field name="name_sim">Archives of Irish America</field>
     <field name="name_teim">Archives of Irish America</field>
     <field name="subject_sim">Irish Americans.</field>

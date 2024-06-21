@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Irish Echo Photographs</field>
     <field name="collection_ssm">Irish Echo Photographs</field>
-    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="collection_unitid_ssm">AIA.045</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Restored Synagogue, Jewish Museum - Dublin</field>
     <field name="unittitle_teim">Restored Synagogue, Jewish Museum - Dublin</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 24, Folder: 47</field>
-    <field name="location_ssm">Folder: 47</field>
-    <field name="location_si">Folder: 47</field>
+    <field name="location_si">Box: 24, Folder: 47</field>
     <field name="collection_teim">Irish Echo Photographs</field>
-    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="collection_unitid_teim">AIA.045</field>
     <field name="series_sim">Series II: Ireland</field>
     <field name="series_sim">Subseries II.A: Tourism</field>
     <field name="series_si">Series II: Ireland &gt;&gt; Subseries II.A: Tourism &gt;&gt; Restored Synagogue, Jewish Museum - Dublin</field>

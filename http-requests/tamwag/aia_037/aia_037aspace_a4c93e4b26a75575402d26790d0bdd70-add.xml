@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Gina Tlamsa Papers</field>
     <field name="collection_ssm">Gina Tlamsa Papers</field>
-    <field name="collection_unitid_ssm">AIA.037/repositories/2/resources/41</field>
+    <field name="collection_unitid_ssm">AIA.037</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Audiovisual material</field>
     <field name="unittitle_teim">Audiovisual material</field>
@@ -24,14 +24,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, Cassette: 037.0001</field>
-    <field name="location_ssm">Cassette: 037.0001</field>
     <field name="location_ssm">Box: 4, Cassette: 037.0002-037.0008</field>
-    <field name="location_ssm">Cassette: 037.0002-037.0008</field>
     <field name="location_ssm">Box: 5, reel: 037.0009-037.0014</field>
-    <field name="location_ssm">reel: 037.0009-037.0014</field>
-    <field name="location_si">reel: 037.0009-037.0014</field>
+    <field name="location_si">Box: 5, reel: 037.0009-037.0014</field>
     <field name="collection_teim">Gina Tlamsa Papers</field>
-    <field name="collection_unitid_teim">AIA.037/repositories/2/resources/41</field>
+    <field name="collection_unitid_teim">AIA.037</field>
     <field name="series_si">Audiovisual material</field>
     <field name="heading_ssm">Audiovisual material</field>
     <field name="unitdate_start_sim">1983</field>

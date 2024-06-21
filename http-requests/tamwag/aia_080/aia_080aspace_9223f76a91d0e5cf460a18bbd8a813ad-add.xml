@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Irish Repertory Theatre Records</field>
     <field name="collection_ssm">Irish Repertory Theatre Records</field>
-    <field name="collection_unitid_ssm">AIA.080/repositories/2/resources/2312</field>
+    <field name="collection_unitid_ssm">AIA.080</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">1999-2000 Season -- &lt;em&gt;Our Lady of Sligo&lt;/em&gt;</field>
     <field name="unittitle_teim">1999-2000 Season -- Our Lady of Sligo</field>
@@ -28,12 +28,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 7, Folder: 14-18</field>
-    <field name="location_ssm">Folder: 14-18</field>
     <field name="location_ssm">Box: 34, Cassette: 080.0042</field>
-    <field name="location_ssm">Cassette: 080.0042</field>
-    <field name="location_si">Cassette: 080.0042</field>
+    <field name="location_si">Box: 34, Cassette: 080.0042</field>
     <field name="collection_teim">Irish Repertory Theatre Records</field>
-    <field name="collection_unitid_teim">AIA.080/repositories/2/resources/2312</field>
+    <field name="collection_unitid_teim">AIA.080</field>
     <field name="series_sim">Series I. Production Materials</field>
     <field name="series_si">Series I. Production Materials &gt;&gt; 1999-2000 Season -- &lt;em&gt;Our Lady of Sligo&lt;/em&gt;</field>
     <field name="heading_ssm">1999-2000 Season -- Our Lady of Sligo</field>

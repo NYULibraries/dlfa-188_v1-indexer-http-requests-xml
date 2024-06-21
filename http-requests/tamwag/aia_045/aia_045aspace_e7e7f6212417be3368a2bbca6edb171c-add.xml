@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Irish Echo Photographs</field>
     <field name="collection_ssm">Irish Echo Photographs</field>
-    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="collection_unitid_ssm">AIA.045</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Burke, Bill</field>
     <field name="unittitle_teim">Burke, Bill</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 33, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 33, Folder: 3</field>
     <field name="collection_teim">Irish Echo Photographs</field>
-    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="collection_unitid_teim">AIA.045</field>
     <field name="series_sim">Series VII. Individuals</field>
     <field name="series_si">Series VII. Individuals &gt;&gt; Burke, Bill</field>
     <field name="heading_ssm">Burke, Bill</field>

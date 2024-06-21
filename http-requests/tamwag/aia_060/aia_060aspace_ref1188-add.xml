@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Ernie O'Malley Papers</field>
     <field name="collection_ssm">Ernie O'Malley Papers</field>
-    <field name="collection_unitid_ssm">AIA.060/repositories/2/resources/63</field>
+    <field name="collection_unitid_ssm">AIA.060</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Map: "Pictorial Map of Mexico" by Miguel Gomex Median (color reproduction) published by Fischgrund Publishng Co., Mexico (exclusive publishers of Diego River's Frescoes)</field>
     <field name="unittitle_teim">Map: "Pictorial Map of Mexico" by Miguel Gomex Median (color reproduction) published by Fischgrund Publishng Co., Mexico (exclusive publishers of Diego River's Frescoes)</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 8, Folder: 13</field>
-    <field name="location_ssm">Folder: 13</field>
-    <field name="location_si">Folder: 13</field>
+    <field name="location_si">Box: 8, Folder: 13</field>
     <field name="collection_teim">Ernie O'Malley Papers</field>
-    <field name="collection_unitid_teim">AIA.060/repositories/2/resources/63</field>
+    <field name="collection_unitid_teim">AIA.060</field>
     <field name="series_sim">Series XV. Printed Ephemera</field>
     <field name="series_si">Series XV. Printed Ephemera &gt;&gt; Map: "Pictorial Map of Mexico" by Miguel Gomex Median (color reproduction) published by Fischgrund Publishng Co., Mexico (exclusive publishers of Diego River's Frescoes)</field>
     <field name="heading_ssm">Map: "Pictorial Map of Mexico" by Miguel Gomex Median (color reproduction) published by Fischgrund Publishng Co., Mexico (exclusive publishers of Diego River's Frescoes)</field>

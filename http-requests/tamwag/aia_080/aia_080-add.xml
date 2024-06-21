@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Irish Repertory Theatre Records</field>
     <field name="unittitle_ssm">Irish Repertory Theatre Records</field>
     <field name="unitid_teim">AIA.080</field>
-    <field name="unitid_teim">/repositories/2/resources/2312</field>
     <field name="unitid_ssm">AIA.080</field>
-    <field name="unitid_ssm">/repositories/2/resources/2312</field>
     <field name="abstract_teim">The Irish Repertory Theatre (IRT) was founded in New York, New York in 1988 by Charlotte Moore and Ciarán O'Reilly.  The IRT produces Irish and Irish-American plays and musicals year-round.  The Irish Repertory Theatre Records document 28 seasons of productions, from 1988 to 2016.  Productions include The Plough and the Stars, The Irish...And How They Got That Way, and Finian's Rainbow.  The records contain press and marketing materials, correspondence, scripts, legal documents, financial documents, original artwork, video recordings, and posters.  The material consists of paper, born-digital, and audiovisual material.</field>
     <field name="abstract_ssm">The Irish Repertory Theatre (IRT) was founded in New York, New York in 1988 by Charlotte Moore and Ciarán O'Reilly.  The IRT produces Irish and Irish-American plays and musicals year-round.  The Irish Repertory Theatre Records document 28 seasons of productions, from 1988 to 2016.  Productions include The Plough and the Stars, The Irish...And How They Got That Way, and Finian's Rainbow.  The records contain press and marketing materials, correspondence, scripts, legal documents, financial documents, original artwork, video recordings, and posters.  The material consists of paper, born-digital, and audiovisual material.</field>
+    <field name="creator_teim">Irish Repertory Theatre</field>
+    <field name="creator_ssm">Irish Repertory Theatre</field>
+    <field name="creator_ssm">Irish Repertory Theatre</field>
     <field name="unitdate_normal_ssm">1988/2023</field>
     <field name="unitdate_normal_teim">1988/2023</field>
     <field name="unitdate_normal_sim">1988/2023</field>
@@ -72,6 +73,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Irish Repertory Theatre</field>
     <field name="name_sim">Irish Repertory Theatre</field>
     <field name="name_sim">O'Reilly, Ciarán</field>
     <field name="name_teim">Irish Repertory Theatre</field>

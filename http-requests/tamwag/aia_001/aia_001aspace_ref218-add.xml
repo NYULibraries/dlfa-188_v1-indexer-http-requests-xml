@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Dorothy Hayden Cudahy Papers</field>
     <field name="collection_ssm">Dorothy Hayden Cudahy Papers</field>
-    <field name="collection_unitid_ssm">AIA.001/repositories/2/resources/2</field>
+    <field name="collection_unitid_ssm">AIA.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Reel 151: Music (Dig. CD 1019, Tracks 2-11)</field>
     <field name="unittitle_teim">Reel 151: Music (Dig. CD 1019, Tracks 2-11)</field>
@@ -27,14 +27,11 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 44, CD: 1019</field>
-    <field name="location_ssm">CD: 1019, track: 2-11</field>
-    <field name="location_ssm">track: 2-11</field>
+    <field name="location_ssm">Box: 44, CD: 1019, track: 2-11</field>
     <field name="location_ssm">Box: 87, reel: 151</field>
-    <field name="location_ssm">reel: 151</field>
-    <field name="location_si">reel: 151</field>
+    <field name="location_si">Box: 87, reel: 151</field>
     <field name="collection_teim">Dorothy Hayden Cudahy Papers</field>
-    <field name="collection_unitid_teim">AIA.001/repositories/2/resources/2</field>
+    <field name="collection_unitid_teim">AIA.001</field>
     <field name="series_sim">Series VI. Irish Memories Radio Program Recordings</field>
     <field name="series_sim">Reel-to-Reel Tapes</field>
     <field name="series_si">Series VI. Irish Memories Radio Program Recordings &gt;&gt; Reel-to-Reel Tapes &gt;&gt; Reel 151: Music (Dig. CD 1019, Tracks 2-11)</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">George Harrison Papers</field>
     <field name="collection_ssm">George Harrison Papers</field>
-    <field name="collection_unitid_ssm">AIA.009/repositories/2/resources/10</field>
+    <field name="collection_unitid_ssm">AIA.009</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">&lt;em&gt;The Birmingham Framework&lt;/em&gt;: &lt;em&gt;Six Innocent Men Framed for the Birmingham Bombings&lt;/em&gt;. Fr. Denis Faul and Fr. Raymond Murray. </field>
     <field name="unittitle_teim">The Birmingham Framework: Six Innocent Men Framed for the Birmingham Bombings. Fr. Denis Faul and Fr. Raymond Murray. </field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 6, Folder: 33</field>
-    <field name="location_ssm">Folder: 33</field>
-    <field name="location_si">Folder: 33</field>
+    <field name="location_si">Box: 6, Folder: 33</field>
     <field name="collection_teim">George Harrison Papers</field>
-    <field name="collection_unitid_teim">AIA.009/repositories/2/resources/10</field>
+    <field name="collection_unitid_teim">AIA.009</field>
     <field name="series_sim">Series III. Pamphlets and Publications</field>
     <field name="series_sim">Subseries A. Irish </field>
     <field name="series_si">Series III. Pamphlets and Publications &gt;&gt; Subseries A. Irish  &gt;&gt; &lt;em&gt;The Birmingham Framework&lt;/em&gt;: &lt;em&gt;Six Innocent Men Framed for the Birmingham Bombings&lt;/em&gt;. Fr. Denis Faul and Fr. Raymond Murray. </field>

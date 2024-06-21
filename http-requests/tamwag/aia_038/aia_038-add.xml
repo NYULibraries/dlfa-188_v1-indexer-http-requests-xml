@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Glucksman Ireland House Records</field>
     <field name="unittitle_ssm">Glucksman Ireland House Records</field>
     <field name="unitid_teim">AIA.038</field>
-    <field name="unitid_teim">/repositories/2/resources/42</field>
     <field name="unitid_ssm">AIA.038</field>
-    <field name="unitid_ssm">/repositories/2/resources/42</field>
     <field name="abstract_teim">The Glucksman Ireland House, established in 1993, is the center for Irish Studies at New York University. It offers undergraduate and graduate courses in history, Irish language, literature, music, and politics. The Glucksman Ireland House Records roughly span from 1907 to 2002, with the bulk of the materials dating between 1993 to 2002. The collection documents various aspects of the 1995 International Conference on Hunger sponsored by Glucksman Ireland House, social and educational events hosted by the Irish Studies Department, as well as Glucksman Ireland House's administrative activities.</field>
     <field name="abstract_ssm">The Glucksman Ireland House, established in 1993, is the center for Irish Studies at New York University. It offers undergraduate and graduate courses in history, Irish language, literature, music, and politics. The Glucksman Ireland House Records roughly span from 1907 to 2002, with the bulk of the materials dating between 1993 to 2002. The collection documents various aspects of the 1995 International Conference on Hunger sponsored by Glucksman Ireland House, social and educational events hosted by the Irish Studies Department, as well as Glucksman Ireland House's administrative activities.</field>
+    <field name="creator_teim">Glucksman Ireland House</field>
+    <field name="creator_ssm">Glucksman Ireland House</field>
+    <field name="creator_ssm">Glucksman Ireland House</field>
     <field name="unitdate_normal_ssm">1907/2002</field>
     <field name="unitdate_normal_ssm">1993/2002</field>
     <field name="unitdate_normal_teim">1907/2002</field>
@@ -82,6 +83,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Glucksman Ireland House</field>
     <field name="name_sim">Glucksman Ireland House</field>
     <field name="name_teim">Glucksman Ireland House</field>
     <field name="place_sim">Ireland -- History -- Famine, 1845-1852</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Irish Echo Photographs</field>
     <field name="collection_ssm">Irish Echo Photographs</field>
-    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="collection_unitid_ssm">AIA.045</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Mitchell, George</field>
     <field name="unittitle_teim">Mitchell, George</field>
@@ -31,12 +31,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 6, Folder: 66</field>
-    <field name="location_ssm">Folder: 66</field>
     <field name="location_ssm">Box: 25, Folder: 43</field>
-    <field name="location_ssm">Folder: 43</field>
-    <field name="location_si">Folder: 43</field>
+    <field name="location_si">Box: 25, Folder: 43</field>
     <field name="collection_teim">Irish Echo Photographs</field>
-    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="collection_unitid_teim">AIA.045</field>
     <field name="series_sim">Series III: United States</field>
     <field name="series_sim">Subseries III.B: Politics</field>
     <field name="series_si">Series III: United States &gt;&gt; Subseries III.B: Politics &gt;&gt; Mitchell, George</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Archives of Irish America Irish Republicanism Collection</field>
     <field name="unittitle_ssm">Archives of Irish America Irish Republicanism Collection</field>
     <field name="unitid_teim">AIA.022</field>
-    <field name="unitid_teim">/repositories/2/resources/22</field>
     <field name="unitid_ssm">AIA.022</field>
-    <field name="unitid_ssm">/repositories/2/resources/22</field>
     <field name="abstract_teim">The collection documents Irish American support of civil rights and Republican activities in Northern Ireland, including anti-British demonstrations in the United States and activities in support of Irish Republicans subject to deportation proceedings in the United States.  Materials relating to Hunger Strikes and political prisoners in Ireland and the United States are also included.</field>
     <field name="abstract_ssm">The collection documents Irish American support of civil rights and Republican activities in Northern Ireland, including anti-British demonstrations in the United States and activities in support of Irish Republicans subject to deportation proceedings in the United States.  Materials relating to Hunger Strikes and political prisoners in Ireland and the United States are also included.</field>
+    <field name="creator_teim">Archives of Irish America</field>
+    <field name="creator_ssm">Archives of Irish America</field>
+    <field name="creator_ssm">Archives of Irish America</field>
     <field name="unitdate_normal_ssm">1937/2003</field>
     <field name="unitdate_normal_ssm">1970/1995</field>
     <field name="unitdate_normal_teim">1937/2003</field>
@@ -91,6 +92,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Archives of Irish America</field>
     <field name="name_sim">Archives of Irish America</field>
     <field name="name_sim">Irish American Unity Conference</field>
     <field name="name_sim">American Irish Unity Committee</field>

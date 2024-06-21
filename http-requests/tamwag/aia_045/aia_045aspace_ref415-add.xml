@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Irish Echo Photographs</field>
     <field name="collection_ssm">Irish Echo Photographs</field>
-    <field name="collection_unitid_ssm">AIA.045/repositories/2/resources/49</field>
+    <field name="collection_unitid_ssm">AIA.045</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Imports: Whiskey</field>
     <field name="unittitle_teim">Imports: Whiskey</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 6, Folder: 5</field>
-    <field name="location_ssm">Folder: 5</field>
-    <field name="location_si">Folder: 5</field>
+    <field name="location_si">Box: 6, Folder: 5</field>
     <field name="collection_teim">Irish Echo Photographs</field>
-    <field name="collection_unitid_teim">AIA.045/repositories/2/resources/49</field>
+    <field name="collection_unitid_teim">AIA.045</field>
     <field name="series_sim">Series III: United States</field>
     <field name="series_sim">Subseries III.A: Business</field>
     <field name="series_si">Series III: United States &gt;&gt; Subseries III.A: Business &gt;&gt; Imports: Whiskey</field>

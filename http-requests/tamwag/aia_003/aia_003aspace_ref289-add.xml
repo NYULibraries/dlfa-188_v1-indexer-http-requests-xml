@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Archives of Irish America County Societies Collection</field>
     <field name="collection_ssm">Archives of Irish America County Societies Collection</field>
-    <field name="collection_unitid_ssm">AIA.003/repositories/2/resources/4</field>
+    <field name="collection_unitid_ssm">AIA.003</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Financial: Auditor's Report</field>
     <field name="unittitle_teim">Financial: Auditor's Report</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 12, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
-    <field name="location_si">Folder: 6</field>
+    <field name="location_si">Box: 12, Folder: 6</field>
     <field name="collection_teim">Archives of Irish America County Societies Collection</field>
-    <field name="collection_unitid_teim">AIA.003/repositories/2/resources/4</field>
+    <field name="collection_unitid_teim">AIA.003</field>
     <field name="series_sim">XXV. Roscommon</field>
     <field name="series_si">XXV. Roscommon &gt;&gt; Financial: Auditor's Report</field>
     <field name="heading_ssm">Financial: Auditor's Report</field>
