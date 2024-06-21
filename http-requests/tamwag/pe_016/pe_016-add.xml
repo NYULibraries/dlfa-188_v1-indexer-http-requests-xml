@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the United Automobile Workers of America, District 65</field>
     <field name="unittitle_ssm">Tamiment Library and Robert F. Wagner Labor Archives Printed Ephemera Collection on the United Automobile Workers of America, District 65</field>
     <field name="unitid_teim">PE.016</field>
-    <field name="unitid_teim">/repositories/2/resources/486</field>
     <field name="unitid_ssm">PE.016</field>
-    <field name="unitid_ssm">/repositories/2/resources/486</field>
     <field name="abstract_teim">The Tamiment Library, New York University, a special collection documenting the history of United States radicalism, labor, and progressive social action, accumulated this artificial collection of printed ephemera gradually over the years through purchases, donations, standing orders with publishers, organizations, and bookstores, and through ongoing collecting by staff.</field>
     <field name="abstract_ssm">The Tamiment Library, New York University, a special collection documenting the history of United States radicalism, labor, and progressive social action, accumulated this artificial collection of printed ephemera gradually over the years through purchases, donations, standing orders with publishers, organizations, and bookstores, and through ongoing collecting by staff.</field>
+    <field name="creator_teim">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
     <field name="unitdate_normal_ssm">1950/1990</field>
     <field name="unitdate_normal_teim">1950/1990</field>
     <field name="unitdate_normal_sim">1950/1990</field>
@@ -53,6 +54,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library</field>
     <field name="name_sim">Tamiment Library</field>
     <field name="name_sim">International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America</field>
     <field name="name_sim">Distributive, Processing and Office Workers of America</field>

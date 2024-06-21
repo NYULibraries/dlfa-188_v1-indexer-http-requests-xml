@@ -9,6 +9,9 @@
     <field name="unitid_ssm">PE.001</field>
     <field name="abstract_teim">The Tamiment Library, New York University, founded in 1906 as the library of the Rand School of Social Science, is a special collection documenting the history of United States radicalism, labor, and progressive social action. The circa 1,300 files in the Printed Ephemera Collection on Trade Unions were created from the materials in an earlier Tamiment Library "vertical files" collection as well as a large accumulation of similar loose materials that came from varied sources.  They contain contracts, constitutions, flyers, broadsides, leaflets, clippings, reports, pamphlets, catalogs, brochures, bibliographies, press releases, programs, and other printed ephemera.</field>
     <field name="abstract_ssm">The Tamiment Library, New York University, founded in 1906 as the library of the Rand School of Social Science, is a special collection documenting the history of United States radicalism, labor, and progressive social action. The circa 1,300 files in the Printed Ephemera Collection on Trade Unions were created from the materials in an earlier Tamiment Library "vertical files" collection as well as a large accumulation of similar loose materials that came from varied sources.  They contain contracts, constitutions, flyers, broadsides, leaflets, clippings, reports, pamphlets, catalogs, brochures, bibliographies, press releases, programs, and other printed ephemera.</field>
+    <field name="creator_teim">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
     <field name="unitdate_normal_ssm">1837/2009</field>
     <field name="unitdate_normal_ssm">1880/2009</field>
     <field name="unitdate_normal_teim">1837/2009</field>
@@ -110,6 +113,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library</field>
     <field name="name_sim">Tamiment Library</field>
     <field name="name_teim">Tamiment Library</field>
     <field name="subject_sim">Strikes and lockouts -- United States.</field>

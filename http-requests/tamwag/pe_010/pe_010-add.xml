@@ -9,6 +9,9 @@
     <field name="unitid_ssm">PE.010</field>
     <field name="abstract_teim">The Printed Ephemera Collection on the United Mine Workers of Americais an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. Founded in 1890, the UMWA was and continues to be a leader in the labor movement in the United States, fighting for safe working conditions and good wages. Material in the collection ranges in date from the early 20th century through the present and consists of agreements, contracts, constitutions, and reports as well as printed ephemera such as fliers, brochures, leaflets, newspaper clippings, pamphlets and other publications.</field>
     <field name="abstract_ssm">The Printed Ephemera Collection on the United Mine Workers of Americais an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. Founded in 1890, the UMWA was and continues to be a leader in the labor movement in the United States, fighting for safe working conditions and good wages. Material in the collection ranges in date from the early 20th century through the present and consists of agreements, contracts, constitutions, and reports as well as printed ephemera such as fliers, brochures, leaflets, newspaper clippings, pamphlets and other publications.</field>
+    <field name="creator_teim">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
     <field name="unitdate_normal_ssm">1903/1995</field>
     <field name="unitdate_normal_teim">1903/1995</field>
     <field name="unitdate_normal_sim">1903/1995</field>
@@ -59,6 +62,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library</field>
     <field name="name_sim">Tamiment Library</field>
     <field name="name_sim">United Mine Workers of America</field>
     <field name="name_teim">Tamiment Library</field>
