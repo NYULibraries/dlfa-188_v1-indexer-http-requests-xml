@@ -34,8 +34,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: E-records, folder: AD_RG_030_010</field>
-    <field name="location_ssm">folder: AD_RG_030_010</field>
-    <field name="location_si">folder: AD_RG_030_010</field>
+    <field name="location_si">box: E-records, folder: AD_RG_030_010</field>
     <field name="collection_teim">NYU Abu Dhabi Covid Archive</field>
     <field name="collection_unitid_teim">AD.RG.030.2</field>
     <field name="series_sim">NYUAD Community Participatory Covid Archive</field>
@@ -44,6 +43,6 @@
     <field name="heading_ssm">Chavele Dastamani, Sofia. Student Model Arab League Conference Moves to Zoom [Photos]</field>
     <field name="unitdate_ssm">November 2020</field>
     <field name="date_range_sim">undated &amp; other</field>
-    <field name="sort_ii">16</field>
+    <field name="sort_ii">22</field>
   </doc>
 </add>

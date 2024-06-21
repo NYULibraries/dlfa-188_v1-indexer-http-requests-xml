@@ -45,8 +45,7 @@ After my go-local semester, I was interviewed by Jiefang Daily on my experience 
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: E-records, folder: AD_RG_030_006</field>
-    <field name="location_ssm">folder: AD_RG_030_006</field>
-    <field name="location_si">folder: AD_RG_030_006</field>
+    <field name="location_si">box: E-records, folder: AD_RG_030_006</field>
     <field name="collection_teim">NYU Abu Dhabi Covid Archive</field>
     <field name="collection_unitid_teim">AD.RG.030.2</field>
     <field name="series_sim">NYUAD Community Participatory Covid Archive</field>
@@ -55,6 +54,6 @@ After my go-local semester, I was interviewed by Jiefang Daily on my experience 
     <field name="heading_ssm">Li, Yihao (Rayna). Studying Away at Home </field>
     <field name="unitdate_ssm">2020-2021</field>
     <field name="date_range_sim">undated &amp; other</field>
-    <field name="sort_ii">10</field>
+    <field name="sort_ii">16</field>
   </doc>
 </add>

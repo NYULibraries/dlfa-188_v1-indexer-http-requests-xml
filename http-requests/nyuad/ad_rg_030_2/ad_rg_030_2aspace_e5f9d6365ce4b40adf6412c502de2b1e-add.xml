@@ -30,9 +30,8 @@
     <field name="repository_ssm">nyuad</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">box: E-records, folder: ad_rg_030_022</field>
-    <field name="location_ssm">folder: ad_rg_030_022</field>
-    <field name="location_si">folder: ad_rg_030_022</field>
+    <field name="location_ssm">box: E-records, folder: AD_RG_030_022</field>
+    <field name="location_si">box: E-records, folder: AD_RG_030_022</field>
     <field name="collection_teim">NYU Abu Dhabi Covid Archive</field>
     <field name="collection_unitid_teim">AD.RG.030.2</field>
     <field name="series_sim">NYUAD Community Participatory Covid Archive</field>
@@ -41,6 +40,6 @@
     <field name="heading_ssm">Anonymous. The world runs better on vaccines [screenshot]</field>
     <field name="unitdate_ssm">August, 2020</field>
     <field name="date_range_sim">undated &amp; other</field>
-    <field name="sort_ii">15</field>
+    <field name="sort_ii">21</field>
   </doc>
 </add>

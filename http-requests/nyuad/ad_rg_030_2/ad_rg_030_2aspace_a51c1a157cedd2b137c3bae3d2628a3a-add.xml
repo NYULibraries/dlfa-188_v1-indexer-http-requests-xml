@@ -15,18 +15,21 @@
     <field name="level_sim">subseries</field>
     <field name="unittitle_ssm">Digital Submissions</field>
     <field name="unittitle_teim">Digital Submissions</field>
+    <field name="dao_teim">NYUAD Covid Archive Digital Submissions</field>
+    <field name="dao_ssm">NYUAD Covid Archive Digital Submissions</field>
     <field name="ref_ssi">aspace_a51c1a157cedd2b137c3bae3d2628a3a</field>
     <field name="repository_ssi">nyuad</field>
     <field name="repository_sim">nyuad</field>
     <field name="repository_ssm">nyuad</field>
     <field name="format_sim">Archival Series</field>
     <field name="format_ssm">Archival Series</field>
+    <field name="dao_sim">Online Access</field>
     <field name="collection_teim">NYU Abu Dhabi Covid Archive</field>
     <field name="collection_unitid_teim">AD.RG.030.2</field>
     <field name="series_sim">NYUAD Community Participatory Covid Archive</field>
     <field name="series_si">NYUAD Community Participatory Covid Archive &gt;&gt; Digital Submissions</field>
     <field name="heading_ssm">Digital Submissions</field>
     <field name="date_range_sim">undated &amp; other</field>
-    <field name="sort_ii">8</field>
+    <field name="sort_ii">14</field>
   </doc>
 </add>
