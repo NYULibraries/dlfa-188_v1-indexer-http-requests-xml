@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Cooper Square Committee Records</field>
     <field name="unittitle_ssm">Cooper Square Committee Records</field>
     <field name="unitid_teim">TAM.356</field>
-    <field name="unitid_teim">/repositories/2/resources/979</field>
     <field name="unitid_ssm">TAM.356</field>
-    <field name="unitid_ssm">/repositories/2/resources/979</field>
     <field name="abstract_teim">The Cooper Square Committee Records (dates 1960-2005, bulk 1971-1993) contain minutes, reports, memoranda, correspondence, leaflets, petitions, permits, surveys, reports, and grant proposals related to the activities of the tenants' rights organization the Cooper Square Committee. The Cooper Square Committee is a nonprofit tenants' rights and arts advocacy group for residents of New York City's Lower East Side. The organization provides social services, including tenant counseling and eviction prevention, and works on community development issues to promote affordable, environmentally-friendly housing and diversity in the neighborhood. The collection contains internal records and published materials documenting the organization's role in tenants' rights campaigns, building negotiations, and New York City housing policy.</field>
     <field name="abstract_ssm">The Cooper Square Committee Records (dates 1960-2005, bulk 1971-1993) contain minutes, reports, memoranda, correspondence, leaflets, petitions, permits, surveys, reports, and grant proposals related to the activities of the tenants' rights organization the Cooper Square Committee. The Cooper Square Committee is a nonprofit tenants' rights and arts advocacy group for residents of New York City's Lower East Side. The organization provides social services, including tenant counseling and eviction prevention, and works on community development issues to promote affordable, environmentally-friendly housing and diversity in the neighborhood. The collection contains internal records and published materials documenting the organization's role in tenants' rights campaigns, building negotiations, and New York City housing policy.</field>
+    <field name="creator_teim">Cooper Square Committee</field>
+    <field name="creator_ssm">Cooper Square Committee</field>
+    <field name="creator_ssm">Cooper Square Committee</field>
     <field name="unitdate_normal_ssm">1960/2020</field>
     <field name="unitdate_normal_ssm">1971/1993</field>
     <field name="unitdate_normal_teim">1960/2020</field>
@@ -83,6 +84,7 @@ In the 1990s the organization found itself in the position of becoming a develop
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Cooper Square Committee</field>
     <field name="name_sim">Cooper Square Committee</field>
     <field name="name_sim">Cooper Square Mutual Housing Association</field>
     <field name="name_sim">Ravitz, Joyce</field>

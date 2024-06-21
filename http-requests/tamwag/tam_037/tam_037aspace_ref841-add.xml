@@ -28,12 +28,9 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 20, CD: 1</field>
-    <field name="location_ssm">CD: 1, track: 5</field>
-    <field name="location_ssm">track: 5</field>
+    <field name="location_ssm">Box: 20, CD: 1, track: 5</field>
     <field name="location_ssm">Box: 20, disk: 4</field>
-    <field name="location_ssm">disk: 4</field>
-    <field name="location_si">disk: 4</field>
+    <field name="location_si">Box: 20, disk: 4</field>
     <field name="collection_teim">Baruch Charney Vladeck Papers and Photographs</field>
     <field name="collection_unitid_teim">TAM.037</field>
     <field name="series_sim">Series V. Audio Recordings</field>

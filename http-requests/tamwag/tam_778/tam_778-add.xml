@@ -9,6 +9,15 @@
     <field name="unitid_ssm">TAM.778</field>
     <field name="abstract_teim">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Law Serials contains over 180 titles on legal issues in the United States, Europe, and Central America between 1935 and 2013.  The bulk of the collection consists of American serials published between the 1960s and the 1980s.  Topics include the legal system in the United States, human rights issues, and prison reform.</field>
     <field name="abstract_ssm">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Law Serials contains over 180 titles on legal issues in the United States, Europe, and Central America between 1935 and 2013.  The bulk of the collection consists of American serials published between the 1960s and the 1980s.  Topics include the legal system in the United States, human rights issues, and prison reform.</field>
+    <field name="creator_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_teim">Amnesty International</field>
+    <field name="creator_teim">National Lawyers Guild</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Amnesty International</field>
+    <field name="creator_ssm">National Lawyers Guild</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Amnesty International</field>
+    <field name="creator_ssm">National Lawyers Guild</field>
     <field name="unitdate_normal_ssm">1935/2013</field>
     <field name="unitdate_normal_ssm">1960/1989</field>
     <field name="unitdate_normal_teim">1935/2013</field>
@@ -58,6 +67,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_sim">Amnesty International</field>
+    <field name="creator_sim">National Lawyers Guild</field>
     <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">Amnesty International</field>
     <field name="name_sim">National Lawyers Guild</field>

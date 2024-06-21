@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Cedric Belfrage Papers</field>
     <field name="collection_ssm">Cedric Belfrage Papers</field>
-    <field name="collection_unitid_ssm">TAM.143/repositories/2/resources/779</field>
+    <field name="collection_unitid_ssm">TAM.143</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Passports, identification cards, press and literary contact list.</field>
     <field name="unittitle_teim">Passports, identification cards, press and literary contact list.</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 2</field>
-    <field name="location_ssm">Folder: 2</field>
-    <field name="location_si">Folder: 2</field>
+    <field name="location_si">Box: 1, Folder: 2</field>
     <field name="collection_teim">Cedric Belfrage Papers</field>
-    <field name="collection_unitid_teim">TAM.143/repositories/2/resources/779</field>
+    <field name="collection_unitid_teim">TAM.143</field>
     <field name="series_sim">Series I: Biographical Materials</field>
     <field name="series_si">Series I: Biographical Materials &gt;&gt; Passports, identification cards, press and literary contact list.</field>
     <field name="heading_ssm">Passports, identification cards, press and literary contact list.</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">TAM.039</field>
     <field name="abstract_teim">Contains anti-Castro letters by Cuban residents, solicited for a never-published supplement to the New Leader.</field>
     <field name="abstract_ssm">Contains anti-Castro letters by Cuban residents, solicited for a never-published supplement to the New Leader.</field>
+    <field name="creator_teim">The New Leader</field>
+    <field name="creator_ssm">The New Leader</field>
+    <field name="creator_ssm">The New Leader</field>
     <field name="unitdate_normal_ssm">1961/1963</field>
     <field name="unitdate_normal_teim">1961/1963</field>
     <field name="unitdate_normal_sim">1961/1963</field>
@@ -48,6 +51,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">The New Leader</field>
     <field name="name_sim">The New Leader</field>
     <field name="name_sim">Castro, Fidel, 1926-2016</field>
     <field name="name_sim">Jacobs, Norman</field>

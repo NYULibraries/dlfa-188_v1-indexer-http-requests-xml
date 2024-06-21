@@ -25,10 +25,8 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">reel: R-7860, Reel_Frame: 28-0008</field>
-    <field name="location_ssm">Reel_Frame: 28-0008, box-folder: 11-RC421</field>
-    <field name="location_ssm">box-folder: 11-RC421</field>
-    <field name="location_si">box-folder: 11-RC421</field>
+    <field name="location_ssm">reel: R-7860, Reel_Frame: 28-0008, box-folder: 11-RC421</field>
+    <field name="location_si">reel: R-7860, Reel_Frame: 28-0008, box-folder: 11-RC421</field>
     <field name="collection_teim">Investigation Files of the Rapp-Coudert Committee (New York State Legislature)</field>
     <field name="collection_unitid_teim">TAM.533</field>
     <field name="series_sim">Microfilm Reel List (with Cross-Reference to Original Box and Folder Locations)</field>

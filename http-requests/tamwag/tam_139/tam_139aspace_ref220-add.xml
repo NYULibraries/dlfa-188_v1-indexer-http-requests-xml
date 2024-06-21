@@ -17,7 +17,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Greenwich House Records</field>
     <field name="collection_ssm">Greenwich House Records</field>
-    <field name="collection_unitid_ssm">TAM.139/repositories/2/resources/775</field>
+    <field name="collection_unitid_ssm">TAM.139</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Minutes- Staff Meetings</field>
     <field name="unittitle_teim">Minutes- Staff Meetings</field>
@@ -34,10 +34,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, Folder: 41</field>
-    <field name="location_ssm">Folder: 41</field>
-    <field name="location_si">Folder: 41</field>
+    <field name="location_si">Box: 4, Folder: 41</field>
     <field name="collection_teim">Greenwich House Records</field>
-    <field name="collection_unitid_teim">TAM.139/repositories/2/resources/775</field>
+    <field name="collection_unitid_teim">TAM.139</field>
     <field name="series_sim">Series I: Administrative Records</field>
     <field name="series_sim">Subseries A: Corporate Records (Includes Director's Reports, Minutes)</field>
     <field name="series_sim">Sub-subseries 4: Minutes</field>

@@ -9,6 +9,12 @@
     <field name="unitid_ssm">TAM.757</field>
     <field name="abstract_teim">The Tamiment Library and Robert F. Wagner Labor Archives Collection of War and Peace Movements Serials contains over 500 titles on war, peace movements, disarmament, and related topics in the 20th century published in the United States, Asia, Europe, South America, Cuba, and Canada. The collection dates between 1914 and 2009, with the bulk of the material dating from the 1970s through 1980s.</field>
     <field name="abstract_ssm">The Tamiment Library and Robert F. Wagner Labor Archives Collection of War and Peace Movements Serials contains over 500 titles on war, peace movements, disarmament, and related topics in the 20th century published in the United States, Asia, Europe, South America, Cuba, and Canada. The collection dates between 1914 and 2009, with the bulk of the material dating from the 1970s through 1980s.</field>
+    <field name="creator_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_teim">American Friends Service Committee</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">American Friends Service Committee</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">American Friends Service Committee</field>
     <field name="unitdate_normal_ssm">1914/2009</field>
     <field name="unitdate_normal_ssm">1970/1989</field>
     <field name="unitdate_normal_teim">1914/2009</field>
@@ -64,6 +70,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_sim">American Friends Service Committee</field>
     <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">American Friends Service Committee</field>
     <field name="name_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>

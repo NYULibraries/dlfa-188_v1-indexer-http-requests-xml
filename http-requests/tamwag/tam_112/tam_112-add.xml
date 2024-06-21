@@ -9,6 +9,12 @@
     <field name="unitid_ssm">TAM.112</field>
     <field name="abstract_teim">The collection consists of photocopies and photostats of published materials, written by Marx and Engels, relating to the United States. The material, which dates from 1846 to 1898, was collected by Louis Lazarus in 1963. Much of it was originally published in England. Also included are Lazarus's research notes, the research notes of Louise Heinze.</field>
     <field name="abstract_ssm">The collection consists of photocopies and photostats of published materials, written by Marx and Engels, relating to the United States. The material, which dates from 1846 to 1898, was collected by Louis Lazarus in 1963. Much of it was originally published in England. Also included are Lazarus's research notes, the research notes of Louise Heinze.</field>
+    <field name="creator_teim">Lazarus, Louis</field>
+    <field name="creator_teim">Heinze, Louise</field>
+    <field name="creator_ssm">Lazarus, Louis</field>
+    <field name="creator_ssm">Heinze, Louise</field>
+    <field name="creator_ssm">Lazarus, Louis</field>
+    <field name="creator_ssm">Heinze, Louise</field>
     <field name="unitdate_normal_ssm">1846/1898</field>
     <field name="unitdate_normal_teim">1846/1898</field>
     <field name="unitdate_normal_sim">1846/1898</field>
@@ -67,6 +73,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Lazarus, Louis</field>
+    <field name="creator_sim">Heinze, Louise</field>
     <field name="name_sim">Lazarus, Louis</field>
     <field name="name_sim">Heinze, Louise</field>
     <field name="name_sim">Lazarus, Marc S.</field>

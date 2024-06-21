@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Adelaide Bean Papers</field>
     <field name="unittitle_ssm">Adelaide Bean Papers</field>
     <field name="unitid_teim">TAM.756</field>
-    <field name="unitid_teim">/repositories/2/resources/2753</field>
     <field name="unitid_ssm">TAM.756</field>
-    <field name="unitid_ssm">/repositories/2/resources/2753</field>
     <field name="abstract_teim">Adelaide Bean was an actress, a journalist, and a member of the Communist Party of the United States of America (CPUSA). The Adelaide Bean Papers consist of working papers, correspondence, drafts, publications, ephemera, audio reels, and audiocassettes created and collected by Bean documenting her personal and political life, as well as her career in theater and journalism.</field>
     <field name="abstract_ssm">Adelaide Bean was an actress, a journalist, and a member of the Communist Party of the United States of America (CPUSA). The Adelaide Bean Papers consist of working papers, correspondence, drafts, publications, ephemera, audio reels, and audiocassettes created and collected by Bean documenting her personal and political life, as well as her career in theater and journalism.</field>
+    <field name="creator_teim">Bean, Adelaide</field>
+    <field name="creator_ssm">Bean, Adelaide</field>
+    <field name="creator_ssm">Bean, Adelaide</field>
     <field name="unitdate_normal_ssm">1921/1999</field>
     <field name="unitdate_normal_teim">1921/1999</field>
     <field name="unitdate_normal_sim">1921/1999</field>
@@ -97,6 +98,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Bean, Adelaide</field>
     <field name="name_sim">Communist Party of the United States of America</field>
     <field name="name_sim">SAG-AFTRA (Organization)</field>
     <field name="name_sim">Actors' Equity Association</field>

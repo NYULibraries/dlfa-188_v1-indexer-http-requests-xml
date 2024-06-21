@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Communist Party of the United States of America Records</field>
     <field name="collection_ssm">Communist Party of the United States of America Records</field>
-    <field name="collection_unitid_ssm">TAM.132/repositories/2/resources/765</field>
+    <field name="collection_unitid_ssm">TAM.132</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">I Have Been, I Am, I Will Be</field>
     <field name="unittitle_teim">I Have Been, I Am, I Will Be</field>
@@ -36,15 +36,12 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">reel: CP 027, Film: CP 027</field>
-    <field name="location_ssm">Film: CP 027</field>
     <field name="location_ssm">reel: CP 028, Film: CP 028</field>
-    <field name="location_ssm">Film: CP 028</field>
     <field name="location_ssm">reel: CP 029, Film: CP 029</field>
-    <field name="location_ssm">Film: CP 029</field>
-    <field name="location_si">Film: CP 029</field>
+    <field name="location_si">reel: CP 029, Film: CP 029</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Communist Party of the United States of America Records</field>
-    <field name="collection_unitid_teim">TAM.132/repositories/2/resources/765</field>
+    <field name="collection_unitid_teim">TAM.132</field>
     <field name="series_sim">Series XIII: Collected Film and Audio Library</field>
     <field name="series_sim">Subseries XIII.B: Films</field>
     <field name="series_si">Series XIII: Collected Film and Audio Library &gt;&gt; Subseries XIII.B: Films &gt;&gt; I Have Been, I Am, I Will Be</field>

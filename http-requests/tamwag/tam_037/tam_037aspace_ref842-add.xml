@@ -28,11 +28,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 20, disk: 5-7</field>
-    <field name="location_ssm">disk: 5-7</field>
-    <field name="location_ssm">Box: 20, CD: 1</field>
-    <field name="location_ssm">CD: 1, track: 6-11</field>
-    <field name="location_ssm">track: 6-11</field>
-    <field name="location_si">track: 6-11</field>
+    <field name="location_ssm">Box: 20, CD: 1, track: 6-11</field>
+    <field name="location_si">Box: 20, CD: 1, track: 6-11</field>
     <field name="collection_teim">Baruch Charney Vladeck Papers and Photographs</field>
     <field name="collection_unitid_teim">TAM.037</field>
     <field name="series_sim">Series V. Audio Recordings</field>

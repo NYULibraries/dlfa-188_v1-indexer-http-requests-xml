@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Tamiment Library Manuscript Files</field>
     <field name="unittitle_ssm">Tamiment Library Manuscript Files</field>
     <field name="unitid_teim">TAM.245</field>
-    <field name="unitid_teim">/repositories/2/resources/877</field>
     <field name="unitid_ssm">TAM.245</field>
-    <field name="unitid_ssm">/repositories/2/resources/877</field>
     <field name="abstract_teim">The Tamiment Library, founded in 1906 as the library of the Rand School of Social Science, is a special collection documenting the history of United States radicalism, labor, and progressive social action. It accumulated this artificial collection of brief manuscript files over the years. The files pertain largely to individuals, and also to organizations, events and topics, and contain correspondence, manuscripts and typescripts, as well as a few items of printed ephemera.</field>
     <field name="abstract_ssm">The Tamiment Library, founded in 1906 as the library of the Rand School of Social Science, is a special collection documenting the history of United States radicalism, labor, and progressive social action. It accumulated this artificial collection of brief manuscript files over the years. The files pertain largely to individuals, and also to organizations, events and topics, and contain correspondence, manuscripts and typescripts, as well as a few items of printed ephemera.</field>
+    <field name="creator_teim">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
     <field name="unitdate_normal_ssm">1749/1988</field>
     <field name="unitdate_normal_ssm">1910/1965</field>
     <field name="unitdate_normal_teim">1749/1988</field>
@@ -251,6 +252,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library</field>
     <field name="name_sim">Tamiment Library</field>
     <field name="name_sim">American Labor Party</field>
     <field name="name_sim">American Workers Party. Provisional Organizing Committee</field>

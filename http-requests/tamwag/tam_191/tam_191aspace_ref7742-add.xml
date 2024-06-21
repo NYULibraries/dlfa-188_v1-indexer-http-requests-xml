@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">National Lawyers Guild Records</field>
     <field name="collection_ssm">National Lawyers Guild Records</field>
-    <field name="collection_unitid_ssm">TAM.191/repositories/2/resources/825</field>
+    <field name="collection_unitid_ssm">TAM.191</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Memos</field>
     <field name="unittitle_teim">Memos</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 292, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 292, Folder: 1</field>
     <field name="collection_teim">National Lawyers Guild Records</field>
-    <field name="collection_unitid_teim">TAM.191/repositories/2/resources/825</field>
+    <field name="collection_unitid_teim">TAM.191</field>
     <field name="series_sim">Part 2, Series XII: NLG v. AG - Administrative Material</field>
     <field name="series_si">Part 2, Series XII: NLG v. AG - Administrative Material &gt;&gt; Memos</field>
     <field name="heading_ssm">Memos</field>

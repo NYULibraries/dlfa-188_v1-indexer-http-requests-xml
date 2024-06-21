@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New Jewish Agenda Records</field>
     <field name="collection_ssm">New Jewish Agenda Records</field>
-    <field name="collection_unitid_ssm">TAM.183/repositories/2/resources/817</field>
+    <field name="collection_unitid_ssm">TAM.183</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Articles</field>
     <field name="unittitle_teim">Articles</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 44, Folder: 16</field>
-    <field name="location_ssm">Folder: 16</field>
-    <field name="location_si">Folder: 16</field>
+    <field name="location_si">Box: 44, Folder: 16</field>
     <field name="collection_teim">New Jewish Agenda Records</field>
-    <field name="collection_unitid_teim">TAM.183/repositories/2/resources/817</field>
+    <field name="collection_unitid_teim">TAM.183</field>
     <field name="series_sim">Series VI: Ithaca, New York Chapter Records</field>
     <field name="series_si">Series VI: Ithaca, New York Chapter Records &gt;&gt; Articles</field>
     <field name="heading_ssm">Articles</field>

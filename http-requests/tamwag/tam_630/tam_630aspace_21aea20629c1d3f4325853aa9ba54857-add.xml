@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Occupy Wall Street Archives Working Group Records</field>
     <field name="collection_ssm">Occupy Wall Street Archives Working Group Records</field>
-    <field name="collection_unitid_ssm">TAM.630/repositories/2/resources/1185</field>
+    <field name="collection_unitid_ssm">TAM.630</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Posters</field>
     <field name="unittitle_teim">Posters</field>
@@ -24,7 +24,6 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 5-6</field>
-    <field name="location_ssm">Folder: 5-6</field>
     <field name="location_ssm">Box: 5</field>
     <field name="location_ssm">Box: 6</field>
     <field name="location_ssm">Box: 7</field>
@@ -36,11 +35,8 @@
     <field name="location_ssm">Box: 15</field>
     <field name="location_ssm">Box: 16</field>
     <field name="location_ssm">Box: 17, Folder: 1-6</field>
-    <field name="location_ssm">Folder: 1-6</field>
     <field name="location_ssm">Box: 18, Folder: 4-5</field>
-    <field name="location_ssm">Folder: 4-5</field>
     <field name="location_ssm">Box: 19, Folder: 3-13</field>
-    <field name="location_ssm">Folder: 3-13</field>
     <field name="location_ssm">Box: 20</field>
     <field name="location_ssm">Box: 21</field>
     <field name="location_ssm">Box: 22</field>
@@ -53,14 +49,11 @@
     <field name="location_ssm">Box: 29</field>
     <field name="location_ssm">Box: 30</field>
     <field name="location_ssm">Box: 31, Folder: 1-8</field>
-    <field name="location_ssm">Folder: 1-8</field>
     <field name="location_ssm">Box: 32</field>
     <field name="location_ssm">Box: 33</field>
     <field name="location_ssm">Box: 34, Folder: 1-10</field>
-    <field name="location_ssm">Folder: 1-10</field>
     <field name="location_ssm">Box: 35, Folder: 1-6</field>
     <field name="location_ssm">Box: 36, Folder: 8-9</field>
-    <field name="location_ssm">Folder: 8-9</field>
     <field name="location_ssm">Box: 37</field>
     <field name="location_ssm">Box: 39</field>
     <field name="location_ssm">Flat-File-Folder: 4</field>
@@ -69,7 +62,7 @@
     <field name="location_ssm">Flat-File-Folder: 6</field>
     <field name="location_si">Flat-File-Folder: 4</field>
     <field name="collection_teim">Occupy Wall Street Archives Working Group Records</field>
-    <field name="collection_unitid_teim">TAM.630/repositories/2/resources/1185</field>
+    <field name="collection_unitid_teim">TAM.630</field>
     <field name="series_si">Posters</field>
     <field name="heading_ssm">Posters</field>
     <field name="unitdate_start_sim">2011</field>

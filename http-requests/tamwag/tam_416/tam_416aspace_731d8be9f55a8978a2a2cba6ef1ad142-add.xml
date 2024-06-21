@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Asian CineVision Records</field>
     <field name="collection_ssm">Asian CineVision Records</field>
-    <field name="collection_unitid_ssm">TAM.416/repositories/2/resources/1247</field>
+    <field name="collection_unitid_ssm">TAM.416</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Video 154: November 5, 1978 Broadcast tape</field>
     <field name="unittitle_teim">Video 154: November 5, 1978 Broadcast tape</field>
@@ -29,11 +29,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 85, Half_Inch_Video_Reel: 154</field>
-    <field name="location_ssm">Half_Inch_Video_Reel: 154</field>
-    <field name="location_si">Half_Inch_Video_Reel: 154</field>
+    <field name="location_si">Box: 85, Half_Inch_Video_Reel: 154</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Asian CineVision Records</field>
-    <field name="collection_unitid_teim">TAM.416/repositories/2/resources/1247</field>
+    <field name="collection_unitid_teim">TAM.416</field>
     <field name="series_sim">Series III: Video Recordings</field>
     <field name="series_si">Series III: Video Recordings &gt;&gt; Video 154: November 5, 1978 Broadcast tape</field>
     <field name="heading_ssm">Video 154: November 5, 1978 Broadcast tape</field>

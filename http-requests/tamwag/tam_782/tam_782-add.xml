@@ -9,6 +9,9 @@
     <field name="unitid_ssm">TAM.782</field>
     <field name="abstract_teim">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Africa Serials contains over 50 titles published in Africa, the United States, and Europe on political, cultural, and social issues in sub-Saharan Africa between 1951 and 2009.  The bulk of the collection consists of serials published between the 1970s and the 1980s on South Africa and anti-apartheid movements in Africa, the United States, and the United Kingdom.</field>
     <field name="abstract_ssm">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Africa Serials contains over 50 titles published in Africa, the United States, and Europe on political, cultural, and social issues in sub-Saharan Africa between 1951 and 2009.  The bulk of the collection consists of serials published between the 1970s and the 1980s on South Africa and anti-apartheid movements in Africa, the United States, and the United Kingdom.</field>
+    <field name="creator_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="unitdate_normal_ssm">1951/2009</field>
     <field name="unitdate_normal_ssm">1970/1989</field>
     <field name="unitdate_normal_teim">1951/2009</field>
@@ -44,6 +47,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="place_sim">Africa -- Politics and government -- 20th century</field>

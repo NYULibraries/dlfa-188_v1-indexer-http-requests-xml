@@ -22,13 +22,9 @@
     <field name="repository_ssm">tamwag</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 31, Folder: 1-7</field>
-    <field name="location_ssm">Folder: 1-7, Page: 17-82</field>
-    <field name="location_ssm">Page: 17-82</field>
-    <field name="location_ssm">Box: 32, Folder: 1-5</field>
-    <field name="location_ssm">Folder: 1-5, Page: 1-16</field>
-    <field name="location_ssm">Page: 1-16</field>
-    <field name="location_si">Page: 1-16</field>
+    <field name="location_ssm">Box: 31, Folder: 1-7, Page: 17-82</field>
+    <field name="location_ssm">Box: 32, Folder: 1-5, Page: 1-16</field>
+    <field name="location_si">Box: 32, Folder: 1-5, Page: 1-16</field>
     <field name="collection_teim">Tamiment Library Scrapbook Collections</field>
     <field name="collection_unitid_teim">TAM.262</field>
     <field name="series_sim">Series I: Tamiment Library Clippings Scrapbooks.</field>

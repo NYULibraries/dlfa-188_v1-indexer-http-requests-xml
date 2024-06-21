@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Lowenthal Papers</field>
     <field name="collection_ssm">John Lowenthal Papers</field>
-    <field name="collection_unitid_ssm">TAM.190/repositories/2/resources/824</field>
+    <field name="collection_unitid_ssm">TAM.190</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Libyan Technical Assistance - "International Conciliation"</field>
     <field name="unittitle_teim">"Libyan Technical Assistance - "International Conciliation"</field>
@@ -35,12 +35,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">reel: 38, reel: cuid8996</field>
-    <field name="location_ssm">reel: cuid8996</field>
     <field name="location_ssm">E-records: tamwag_tam190, E-records: cuid8996</field>
-    <field name="location_ssm">E-records: cuid8996</field>
-    <field name="location_si">E-records: cuid8996</field>
+    <field name="location_si">E-records: tamwag_tam190, E-records: cuid8996</field>
     <field name="collection_teim">John Lowenthal Papers</field>
-    <field name="collection_unitid_teim">TAM.190/repositories/2/resources/824</field>
+    <field name="collection_unitid_teim">TAM.190</field>
     <field name="series_sim">Series VI: Unprocessed Materials</field>
     <field name="series_si">Series VI: Unprocessed Materials &gt;&gt; "Libyan Technical Assistance - "International Conciliation"</field>
     <field name="heading_ssm">"Libyan Technical Assistance - "International Conciliation"</field>

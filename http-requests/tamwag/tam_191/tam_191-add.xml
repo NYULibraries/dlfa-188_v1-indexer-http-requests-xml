@@ -6,11 +6,12 @@
     <field name="unittitle_teim">National Lawyers Guild Records</field>
     <field name="unittitle_ssm">National Lawyers Guild Records</field>
     <field name="unitid_teim">TAM.191</field>
-    <field name="unitid_teim">/repositories/2/resources/825</field>
     <field name="unitid_ssm">TAM.191</field>
-    <field name="unitid_ssm">/repositories/2/resources/825</field>
     <field name="abstract_teim">The National Lawyers Guild (NLG) was founded in 1937 as an association of progressive lawyers and jurists who believed that lawyers had a major role to play in reconstructing legal values by emphasizing human rights over property rights. The Guild is the oldest and most extensive network of public interest and human rights activists working within the legal system. This collection includes early administrative records of the Guild, primarily those of its National Office and New York City Chapter, as well as materials describing legal and political activities of many of the Guild's chapters and committees. The bulk of the collection, however, is focused on the court case which revealed that the Guild had been the target of a forty-year covert Federal Bureau of Investigation campaign of surveillance, infiltration and intimidation (National Lawyers Guild v. Attorney General, 1977-1989). Through this legal action, the Guild successfully compelled the release of more than 400,000 pages of FBI documentation on the Guild and its members. This material, along with associated case files, is included in the collection.</field>
     <field name="abstract_ssm">The National Lawyers Guild (NLG) was founded in 1937 as an association of progressive lawyers and jurists who believed that lawyers had a major role to play in reconstructing legal values by emphasizing human rights over property rights. The Guild is the oldest and most extensive network of public interest and human rights activists working within the legal system. This collection includes early administrative records of the Guild, primarily those of its National Office and New York City Chapter, as well as materials describing legal and political activities of many of the Guild's chapters and committees. The bulk of the collection, however, is focused on the court case which revealed that the Guild had been the target of a forty-year covert Federal Bureau of Investigation campaign of surveillance, infiltration and intimidation (National Lawyers Guild v. Attorney General, 1977-1989). Through this legal action, the Guild successfully compelled the release of more than 400,000 pages of FBI documentation on the Guild and its members. This material, along with associated case files, is included in the collection.</field>
+    <field name="creator_teim">National Lawyers Guild</field>
+    <field name="creator_ssm">National Lawyers Guild</field>
+    <field name="creator_ssm">National Lawyers Guild</field>
     <field name="unitdate_normal_ssm">1921/2014</field>
     <field name="unitdate_normal_ssm">1937/1990</field>
     <field name="unitdate_normal_teim">1921/2014</field>
@@ -144,6 +145,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">National Lawyers Guild</field>
     <field name="name_sim">National Lawyers Guild</field>
     <field name="name_sim">National Lawyers Guild. New York City Chapter</field>
     <field name="name_sim">National Lawyers Guild. National Office</field>

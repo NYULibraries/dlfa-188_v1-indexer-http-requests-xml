@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
     <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
-    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="collection_unitid_ssm">TAM.616</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Smith, Wayne: Interview (part 2)</field>
     <field name="unittitle_teim">Smith, Wayne: Interview (part 2)</field>
@@ -32,10 +32,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 98, DVD: ref1171</field>
-    <field name="location_ssm">DVD: ref1171</field>
-    <field name="location_si">DVD: ref1171</field>
+    <field name="location_si">Box: 98, DVD: ref1171</field>
     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
-    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="collection_unitid_teim">TAM.616</field>
     <field name="series_sim">Series VI: The Cuban Excludables</field>
     <field name="series_si">Series VI: The Cuban Excludables &gt;&gt; Smith, Wayne: Interview (part 2)</field>
     <field name="heading_ssm">Smith, Wayne: Interview (part 2)</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Chiapas Media Project Records</field>
     <field name="unittitle_ssm">Chiapas Media Project Records</field>
     <field name="unitid_teim">TAM.774</field>
-    <field name="unitid_teim">/repositories/2/resources/2776</field>
     <field name="unitid_ssm">TAM.774</field>
-    <field name="unitid_ssm">/repositories/2/resources/2776</field>
     <field name="abstract_teim">The Chiapas Media Project Records (dated 1995-2010) consist of materials created and collected by Chiapas Media Project documenting its ongoing operations, film and video production and distribution, participation in film festivals, and engagement with indigenous communities. Materials in this collection include video recordings; correspondence with speakers, filmmakers, and festival organizers; newspaper and magazine clippings; academic research; notes and notebooks for the organization's projects; distribution and festival ephemera, including brochures, programs, posters, and catalogs; and objects, including a banner, t-shirts, and badges and press passes from festivals and conferences. The collection documents the ongoing activities of the Chiapas Media Project; the ability of indigenous and other marginalized communities to advocate for themselves through media; and topics and issues concerning indigenous human rights documented in individual works, such as agricultural collectives, indigenous land ownership claims, environmental sustainability, and the Zapatista indigenous movement.</field>
     <field name="abstract_ssm">The Chiapas Media Project Records (dated 1995-2010) consist of materials created and collected by Chiapas Media Project documenting its ongoing operations, film and video production and distribution, participation in film festivals, and engagement with indigenous communities. Materials in this collection include video recordings; correspondence with speakers, filmmakers, and festival organizers; newspaper and magazine clippings; academic research; notes and notebooks for the organization's projects; distribution and festival ephemera, including brochures, programs, posters, and catalogs; and objects, including a banner, t-shirts, and badges and press passes from festivals and conferences. The collection documents the ongoing activities of the Chiapas Media Project; the ability of indigenous and other marginalized communities to advocate for themselves through media; and topics and issues concerning indigenous human rights documented in individual works, such as agricultural collectives, indigenous land ownership claims, environmental sustainability, and the Zapatista indigenous movement.</field>
+    <field name="creator_teim">Chiapas Media Project</field>
+    <field name="creator_ssm">Chiapas Media Project</field>
+    <field name="creator_ssm">Chiapas Media Project</field>
     <field name="unitdate_normal_ssm">1995/2011</field>
     <field name="unitdate_normal_teim">1995/2011</field>
     <field name="unitdate_normal_sim">1995/2011</field>
@@ -78,6 +79,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Chiapas Media Project</field>
     <field name="name_sim">Chiapas Media Project</field>
     <field name="name_sim">Americas Media Initiative</field>
     <field name="name_sim">Ejército Zapatista de Liberación Nacional (Mexico)</field>

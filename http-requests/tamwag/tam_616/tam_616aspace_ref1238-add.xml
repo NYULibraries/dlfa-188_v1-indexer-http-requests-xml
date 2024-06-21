@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
     <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
-    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="collection_unitid_ssm">TAM.616</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Flotilla 6  Aireye VHS Dub"</field>
     <field name="unittitle_teim">"Flotilla 6  Aireye VHS Dub"</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 54, Cassette: ref1238</field>
-    <field name="location_ssm">Cassette: ref1238</field>
-    <field name="location_si">Cassette: ref1238</field>
+    <field name="location_si">Box: 54, Cassette: ref1238</field>
     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
-    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="collection_unitid_teim">TAM.616</field>
     <field name="series_sim">Series IX: Flotilla to Cuba</field>
     <field name="series_si">Series IX: Flotilla to Cuba &gt;&gt; "Flotilla 6  Aireye VHS Dub"</field>
     <field name="heading_ssm">"Flotilla 6  Aireye VHS Dub"</field>

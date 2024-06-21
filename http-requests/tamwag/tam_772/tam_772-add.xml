@@ -9,6 +9,9 @@
     <field name="unitid_ssm">TAM.772</field>
     <field name="abstract_teim">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Arts and Media Serials contains over 200 titles on arts and media in the United States, Europe, and other countries in the 19th and 20th centuries.  The collection dates between 1893 and 2013, with the bulk of the material dating from the 1960s through the 1980s.  Topics include literature, broadcast media, journalism, theater, and literature and communication studies in colleges and universities.</field>
     <field name="abstract_ssm">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Arts and Media Serials contains over 200 titles on arts and media in the United States, Europe, and other countries in the 19th and 20th centuries.  The collection dates between 1893 and 2013, with the bulk of the material dating from the 1960s through the 1980s.  Topics include literature, broadcast media, journalism, theater, and literature and communication studies in colleges and universities.</field>
+    <field name="creator_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="unitdate_normal_ssm">1893/2013</field>
     <field name="unitdate_normal_ssm">1960/1989</field>
     <field name="unitdate_normal_teim">1893/2013</field>
@@ -48,6 +51,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="subject_sim">Literature, Modern -- History and criticism.</field>

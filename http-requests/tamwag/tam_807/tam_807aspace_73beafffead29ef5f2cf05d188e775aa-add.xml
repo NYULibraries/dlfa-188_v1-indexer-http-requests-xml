@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="id">tam_807aspace_73beafffead29ef5f2cf05d188e775aa</field>
+    <field name="ead_ssi">tam_807</field>
+    <field name="parent_ssi">aspace_e2193bba963c3fbb6c3c3ad5ee2e34b7</field>
+    <field name="parent_ssm">aspace_e2193bba963c3fbb6c3c3ad5ee2e34b7</field>
+    <field name="parent_unittitles_ssm">Series I. Personal</field>
+    <field name="parent_unittitles_teim">Series I. Personal</field>
+    <field name="component_level_isim">2</field>
+    <field name="component_children_bsi">true</field>
+    <field name="collection_sim">Cecily McMillan Papers</field>
+    <field name="collection_ssm">Cecily McMillan Papers</field>
+    <field name="collection_unitid_ssm">TAM.807</field>
+    <field name="level_sim">file</field>
+    <field name="unittitle_ssm">High School</field>
+    <field name="unittitle_teim">High School</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/998220</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/998220</field>
+    <field name="unitdate_normal_ssm">2003/2007</field>
+    <field name="unitdate_normal_teim">2003/2007</field>
+    <field name="unitdate_normal_sim">2003/2007</field>
+    <field name="unitdate_inclusive_teim">2003-2007</field>
+    <field name="ref_ssi">aspace_73beafffead29ef5f2cf05d188e775aa</field>
+    <field name="repository_ssi">tamwag</field>
+    <field name="repository_sim">tamwag</field>
+    <field name="repository_ssm">tamwag</field>
+    <field name="format_sim">Archival Object</field>
+    <field name="format_ssm">Archival Object</field>
+    <field name="collection_teim">Cecily McMillan Papers</field>
+    <field name="collection_unitid_teim">TAM.807</field>
+    <field name="series_sim">Series I. Personal</field>
+    <field name="series_si">Series I. Personal &gt;&gt; High School</field>
+    <field name="heading_ssm">High School</field>
+    <field name="unitdate_start_sim">2003</field>
+    <field name="unitdate_start_ssm">2003</field>
+    <field name="unitdate_start_si">2003</field>
+    <field name="unitdate_end_sim">2007</field>
+    <field name="unitdate_end_ssm">2007</field>
+    <field name="unitdate_end_si">2007</field>
+    <field name="unitdate_ssm">Inclusive, 2003-2007</field>
+    <field name="date_range_sim">2001-2100</field>
+    <field name="sort_ii">7</field>
+  </doc>
+</add>

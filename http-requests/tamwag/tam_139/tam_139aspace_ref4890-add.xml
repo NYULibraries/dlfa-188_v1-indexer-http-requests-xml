@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Greenwich House Records</field>
     <field name="collection_ssm">Greenwich House Records</field>
-    <field name="collection_unitid_ssm">TAM.139/repositories/2/resources/775</field>
+    <field name="collection_unitid_ssm">TAM.139</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Director's Reports</field>
     <field name="unittitle_teim">Director's Reports</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 48, Folder: 18</field>
-    <field name="location_ssm">Folder: 18</field>
-    <field name="location_si">Folder: 18</field>
+    <field name="location_si">Box: 48, Folder: 18</field>
     <field name="collection_teim">Greenwich House Records</field>
-    <field name="collection_unitid_teim">TAM.139/repositories/2/resources/775</field>
+    <field name="collection_unitid_teim">TAM.139</field>
     <field name="series_sim">Series IV: Music School</field>
     <field name="series_sim">Subseries A: Corporate Records</field>
     <field name="series_si">Series IV: Music School &gt;&gt; Subseries A: Corporate Records &gt;&gt; Director's Reports</field>

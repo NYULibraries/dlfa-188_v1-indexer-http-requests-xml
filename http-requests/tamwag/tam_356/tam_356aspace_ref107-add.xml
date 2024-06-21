@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Cooper Square Committee Records</field>
     <field name="collection_ssm">Cooper Square Committee Records</field>
-    <field name="collection_unitid_ssm">TAM.356/repositories/2/resources/979</field>
+    <field name="collection_unitid_ssm">TAM.356</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Courthouse Site</field>
     <field name="unittitle_teim">Courthouse Site</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 5, Folder: 35</field>
-    <field name="location_ssm">Folder: 35</field>
-    <field name="location_si">Folder: 35</field>
+    <field name="location_si">Box: 5, Folder: 35</field>
     <field name="collection_teim">Cooper Square Committee Records</field>
-    <field name="collection_unitid_teim">TAM.356/repositories/2/resources/979</field>
+    <field name="collection_unitid_teim">TAM.356</field>
     <field name="series_sim">Records</field>
     <field name="series_si">Records &gt;&gt; Courthouse Site</field>
     <field name="heading_ssm">Courthouse Site</field>

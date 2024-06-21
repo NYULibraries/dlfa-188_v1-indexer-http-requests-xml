@@ -17,7 +17,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Greenwich House Records</field>
     <field name="collection_ssm">Greenwich House Records</field>
-    <field name="collection_unitid_ssm">TAM.139/repositories/2/resources/775</field>
+    <field name="collection_unitid_ssm">TAM.139</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">MKS- Statement re Conference on Unemployment Insurance</field>
     <field name="unittitle_teim">MKS- Statement re Conference on Unemployment Insurance</field>
@@ -34,10 +34,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 22, Folder: 105</field>
-    <field name="location_ssm">Folder: 105</field>
-    <field name="location_si">Folder: 105</field>
+    <field name="location_si">Box: 22, Folder: 105</field>
     <field name="collection_teim">Greenwich House Records</field>
-    <field name="collection_unitid_teim">TAM.139/repositories/2/resources/775</field>
+    <field name="collection_unitid_teim">TAM.139</field>
     <field name="series_sim">Series II: Directors' and Executives' Records</field>
     <field name="series_sim">Subseries A: Director (Mary K. Simkhovitch)</field>
     <field name="series_sim">Sub-subseries 6: Speeches and Writings</field>

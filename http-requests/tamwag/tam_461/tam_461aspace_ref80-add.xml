@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">William Asadorian Collection</field>
     <field name="collection_ssm">William Asadorian Collection</field>
-    <field name="collection_unitid_ssm">TAM.461/repositories/2/resources/1062</field>
+    <field name="collection_unitid_ssm">TAM.461</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Unidentified Correspondence (includes photos)</field>
     <field name="unittitle_teim">Unidentified Correspondence (includes photos)</field>
@@ -24,10 +24,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 22</field>
-    <field name="location_ssm">Folder: 22</field>
-    <field name="location_si">Folder: 22</field>
+    <field name="location_si">Box: 3, Folder: 22</field>
     <field name="collection_teim">William Asadorian Collection</field>
-    <field name="collection_unitid_teim">TAM.461/repositories/2/resources/1062</field>
+    <field name="collection_unitid_teim">TAM.461</field>
     <field name="series_si">Unidentified Correspondence (includes photos)</field>
     <field name="heading_ssm">Unidentified Correspondence (includes photos)</field>
     <field name="unitdate_start_sim">1945</field>

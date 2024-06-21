@@ -27,10 +27,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 11</field>
-    <field name="location_ssm">Folder: 11</field>
     <field name="location_ssm">Box: 3, Cassette: 187</field>
-    <field name="location_ssm">Cassette: 187</field>
-    <field name="location_si">Cassette: 187</field>
+    <field name="location_si">Box: 3, Cassette: 187</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">The Nation Institute Oral History Collection on Alger Hiss</field>
     <field name="collection_unitid_teim">TAM.709</field>

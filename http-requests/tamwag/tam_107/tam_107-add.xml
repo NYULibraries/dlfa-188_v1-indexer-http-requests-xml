@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Tamiment Playhouse Records</field>
     <field name="unittitle_ssm">Tamiment Playhouse Records</field>
     <field name="unitid_teim">TAM.107</field>
-    <field name="unitid_teim">/repositories/2/resources/741</field>
     <field name="unitid_ssm">TAM.107</field>
-    <field name="unitid_ssm">/repositories/2/resources/741</field>
     <field name="abstract_teim">The Tamiment Playhouse was a summer theater at Camp Tamiment which from 1921-1965 was an educational and recreational summer resort (originally) for socialists near Bushkill, Pa. The TPH became a workshop for theater, dance, film, and television and included entertainment figures such as actors Danny Kaye, Bea Arthur, Imogene Coca, and Carol Burnett; directors Max Liebman, Herb Ross, and Joe Layton; choreographer Jerome Robbins; and writers Woody Allen and Neil Simon. The collection includes scores, scripts, clippings, correspondence, ephemera, and casefiles for interviews with TPH alumni.</field>
     <field name="abstract_ssm">The Tamiment Playhouse was a summer theater at Camp Tamiment which from 1921-1965 was an educational and recreational summer resort (originally) for socialists near Bushkill, Pa. The TPH became a workshop for theater, dance, film, and television and included entertainment figures such as actors Danny Kaye, Bea Arthur, Imogene Coca, and Carol Burnett; directors Max Liebman, Herb Ross, and Joe Layton; choreographer Jerome Robbins; and writers Woody Allen and Neil Simon. The collection includes scores, scripts, clippings, correspondence, ephemera, and casefiles for interviews with TPH alumni.</field>
+    <field name="creator_teim">Tamiment Playhouse</field>
+    <field name="creator_ssm">Tamiment Playhouse</field>
+    <field name="creator_ssm">Tamiment Playhouse</field>
     <field name="unitdate_normal_ssm">1927/1987</field>
     <field name="unitdate_normal_teim">1927/1987</field>
     <field name="unitdate_normal_sim">1927/1987</field>
@@ -127,6 +128,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Playhouse</field>
     <field name="name_sim">Tamiment Playhouse</field>
     <field name="name_sim">Tamiment Institute</field>
     <field name="name_sim">Camp Tamiment (Pa.)</field>

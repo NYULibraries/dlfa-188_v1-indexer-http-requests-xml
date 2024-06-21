@@ -9,6 +9,12 @@
     <field name="unitid_ssm">TAM.771</field>
     <field name="abstract_teim">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Civil Rights Serials contains over 240 titles on civil rights and civil liberties in the United States (US) and Europe in the 20th century.  The collection dates between 1923 and 2010, with the bulk of the material dating from the 1960s through the 1970s.  Topics include the civil rights movement in the US in the 1960s, issues surrounding civil liberties for racial and religious minorities in the US and Europe in the mid to late 20th century, and the work of the American Civil Liberties Union in these areas.</field>
     <field name="abstract_ssm">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Civil Rights Serials contains over 240 titles on civil rights and civil liberties in the United States (US) and Europe in the 20th century.  The collection dates between 1923 and 2010, with the bulk of the material dating from the 1960s through the 1970s.  Topics include the civil rights movement in the US in the 1960s, issues surrounding civil liberties for racial and religious minorities in the US and Europe in the mid to late 20th century, and the work of the American Civil Liberties Union in these areas.</field>
+    <field name="creator_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_teim">American Civil Liberties Union</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">American Civil Liberties Union</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">American Civil Liberties Union</field>
     <field name="unitdate_normal_ssm">1923/2003</field>
     <field name="unitdate_normal_ssm">1960/1979</field>
     <field name="unitdate_normal_teim">1923/2003</field>
@@ -50,6 +56,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_sim">American Civil Liberties Union</field>
     <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">American Civil Liberties Union</field>
     <field name="name_sim">Black Panther Party</field>

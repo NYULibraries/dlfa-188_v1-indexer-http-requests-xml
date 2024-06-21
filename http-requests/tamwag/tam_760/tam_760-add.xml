@@ -9,6 +9,9 @@
     <field name="unitid_ssm">TAM.760</field>
     <field name="abstract_teim">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Ireland Serials contains 28 titles published in Ireland, the United Kingdom, and the United States between 1946 and 2003 on topics related to the political situation in Ireland in the 20th century.  The majority of the serials are about the Irish republican movement and the conflict in Northern Ireland in the 1970s and 1980s.</field>
     <field name="abstract_ssm">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Ireland Serials contains 28 titles published in Ireland, the United Kingdom, and the United States between 1946 and 2003 on topics related to the political situation in Ireland in the 20th century.  The majority of the serials are about the Irish republican movement and the conflict in Northern Ireland in the 1970s and 1980s.</field>
+    <field name="creator_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="unitdate_normal_ssm">1946/2003</field>
     <field name="unitdate_normal_ssm">1973/1988</field>
     <field name="unitdate_normal_teim">1946/2003</field>
@@ -47,6 +50,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="place_sim">Ireland -- History -- 20th century.</field>

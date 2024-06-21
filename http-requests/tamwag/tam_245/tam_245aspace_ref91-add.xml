@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library Manuscript Files</field>
     <field name="collection_ssm">Tamiment Library Manuscript Files</field>
-    <field name="collection_unitid_ssm">TAM.245/repositories/2/resources/877</field>
+    <field name="collection_unitid_ssm">TAM.245</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Cornell, Frederic: "History of the Rand School" (Ph.D. Dissertation)</field>
     <field name="unittitle_teim">Cornell, Frederic: "History of the Rand School" (Ph.D. Dissertation)</field>
@@ -24,10 +24,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 2, Folder: 34</field>
-    <field name="location_ssm">Folder: 34</field>
-    <field name="location_si">Folder: 34</field>
+    <field name="location_si">Box: 2, Folder: 34</field>
     <field name="collection_teim">Tamiment Library Manuscript Files</field>
-    <field name="collection_unitid_teim">TAM.245/repositories/2/resources/877</field>
+    <field name="collection_unitid_teim">TAM.245</field>
     <field name="series_si">Cornell, Frederic: "History of the Rand School" (Ph.D. Dissertation)</field>
     <field name="heading_ssm">Cornell, Frederic: "History of the Rand School" (Ph.D. Dissertation)</field>
     <field name="unitdate_start_sim">1962</field>

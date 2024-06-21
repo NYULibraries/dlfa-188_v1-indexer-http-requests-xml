@@ -4,9 +4,10 @@
     <field name="unittitle_teim">William Asadorian Collection</field>
     <field name="unittitle_ssm">William Asadorian Collection</field>
     <field name="unitid_teim">TAM.461</field>
-    <field name="unitid_teim">/repositories/2/resources/1062</field>
     <field name="unitid_ssm">TAM.461</field>
-    <field name="unitid_ssm">/repositories/2/resources/1062</field>
+    <field name="creator_teim">Asadorian, William</field>
+    <field name="creator_ssm">Asadorian, William</field>
+    <field name="creator_ssm">Asadorian, William</field>
     <field name="unitdate_normal_ssm">1720/2011</field>
     <field name="unitdate_normal_teim">1720/2011</field>
     <field name="unitdate_normal_sim">1720/2011</field>
@@ -46,6 +47,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Asadorian, William</field>
     <field name="name_sim">Asadorian, William</field>
     <field name="name_teim">Asadorian, William</field>
     <field name="place_sim">United States -- History -- 1783-1865.</field>

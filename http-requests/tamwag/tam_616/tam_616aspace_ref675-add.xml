@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Estela and Ernesto Bravo Film and Video Collection</field>
     <field name="collection_ssm">Estela and Ernesto Bravo Film and Video Collection</field>
-    <field name="collection_unitid_ssm">TAM.616/repositories/2/resources/1174</field>
+    <field name="collection_unitid_ssm">TAM.616</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Tres Balseros</field>
     <field name="unittitle_teim">Tres Balseros</field>
@@ -34,13 +34,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 31, Cassette: ref675</field>
-    <field name="location_ssm">Cassette: ref675</field>
     <field name="location_ssm">Box: 95, DVD: ref675</field>
-    <field name="location_ssm">DVD: ref675</field>
-    <field name="location_si">DVD: ref675</field>
+    <field name="location_si">Box: 95, DVD: ref675</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Estela and Ernesto Bravo Film and Video Collection</field>
-    <field name="collection_unitid_teim">TAM.616/repositories/2/resources/1174</field>
+    <field name="collection_unitid_teim">TAM.616</field>
     <field name="series_sim">Series XXVI: The Three Rafters</field>
     <field name="series_si">Series XXVI: The Three Rafters &gt;&gt; Tres Balseros</field>
     <field name="heading_ssm">Tres Balseros</field>

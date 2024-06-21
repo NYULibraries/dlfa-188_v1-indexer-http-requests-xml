@@ -7,6 +7,9 @@
     <field name="unittitle_ssm">European Anarchists Autograph Collection</field>
     <field name="unitid_teim">TAM.013</field>
     <field name="unitid_ssm">TAM.013</field>
+    <field name="creator_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="unitdate_normal_ssm">1874/1928</field>
     <field name="unitdate_normal_teim">1874/1928</field>
     <field name="unitdate_normal_sim">1874/1928</field>
@@ -36,6 +39,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="subject_sim">Anarchists -- France.</field>

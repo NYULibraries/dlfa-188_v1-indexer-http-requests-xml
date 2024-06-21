@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Greenwich House Records</field>
     <field name="collection_ssm">Greenwich House Records</field>
-    <field name="collection_unitid_ssm">TAM.139/repositories/2/resources/775</field>
+    <field name="collection_unitid_ssm">TAM.139</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Lehman, Herbert H.</field>
     <field name="unittitle_teim">Lehman, Herbert H.</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 92, Folder: 25</field>
-    <field name="location_ssm">Folder: 25</field>
-    <field name="location_si">Folder: 25</field>
+    <field name="location_si">Box: 92, Folder: 25</field>
     <field name="collection_teim">Greenwich House Records</field>
-    <field name="collection_unitid_teim">TAM.139/repositories/2/resources/775</field>
+    <field name="collection_unitid_teim">TAM.139</field>
     <field name="series_sim">Series VIII: Greenwich House post-Simkhovitch records (NOT microfilmed)</field>
     <field name="series_sim">Subseries 2: Director's Files</field>
     <field name="series_si">Series VIII: Greenwich House post-Simkhovitch records (NOT microfilmed) &gt;&gt; Subseries 2: Director's Files &gt;&gt; Lehman, Herbert H.</field>

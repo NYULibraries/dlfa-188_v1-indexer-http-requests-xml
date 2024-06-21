@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Playhouse Records</field>
     <field name="collection_ssm">Tamiment Playhouse Records</field>
-    <field name="collection_unitid_ssm">TAM.107/repositories/2/resources/741</field>
+    <field name="collection_unitid_ssm">TAM.107</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">
       &lt;em&gt;That's How I Feel&lt;/em&gt;
@@ -34,10 +34,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 27, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
-    <field name="location_si">Folder: 6</field>
+    <field name="location_si">Box: 27, Folder: 6</field>
     <field name="collection_teim">Tamiment Playhouse Records</field>
-    <field name="collection_unitid_teim">TAM.107/repositories/2/resources/741</field>
+    <field name="collection_unitid_teim">TAM.107</field>
     <field name="series_sim">Series IV: Music</field>
     <field name="series_si">Series IV: Music &gt;&gt; 
       &lt;em&gt;That's How I Feel&lt;/em&gt;

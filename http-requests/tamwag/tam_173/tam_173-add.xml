@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Metropolitan Council on Housing Records</field>
     <field name="unittitle_ssm">Metropolitan Council on Housing Records</field>
     <field name="unitid_teim">TAM.173</field>
-    <field name="unitid_teim">/repositories/2/resources/808</field>
     <field name="unitid_ssm">TAM.173</field>
-    <field name="unitid_ssm">/repositories/2/resources/808</field>
     <field name="abstract_teim">The Metropolitan Council on Housing Records (dates 1949-2014) contain correspondence, board meeting minutes, press releases, reports, printed ephemera, government documents, and audio and video recording related to the organizing efforts of the Metropolitan Council on Housing (MCH). The Metropolitan Council on Housing is a membership organization for New York City tenants that focuses on expanding affordable housing and protecting tenants' rights. The organization was formed in 1959 by several labor and housing rights activists, including longtime MCH leaders Jane Benedict and Esther Rand. The collection contains internal records and published materials documenting lobbying campaigns and demonstrations organized by the MCH to promote affordable housing in New York City.</field>
     <field name="abstract_ssm">The Metropolitan Council on Housing Records (dates 1949-2014) contain correspondence, board meeting minutes, press releases, reports, printed ephemera, government documents, and audio and video recording related to the organizing efforts of the Metropolitan Council on Housing (MCH). The Metropolitan Council on Housing is a membership organization for New York City tenants that focuses on expanding affordable housing and protecting tenants' rights. The organization was formed in 1959 by several labor and housing rights activists, including longtime MCH leaders Jane Benedict and Esther Rand. The collection contains internal records and published materials documenting lobbying campaigns and demonstrations organized by the MCH to promote affordable housing in New York City.</field>
+    <field name="creator_teim">Metropolitan Council on Housing (New York, N.Y.)</field>
+    <field name="creator_ssm">Metropolitan Council on Housing (New York, N.Y.)</field>
+    <field name="creator_ssm">Metropolitan Council on Housing (New York, N.Y.)</field>
     <field name="unitdate_normal_ssm">1939/2014</field>
     <field name="unitdate_normal_ssm">1959/1995</field>
     <field name="unitdate_normal_teim">1939/2014</field>
@@ -116,6 +117,7 @@ Materials not yet digitized will need to have access copies made before they can
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Metropolitan Council on Housing (New York, N.Y.)</field>
     <field name="name_sim">Metropolitan Council on Housing (New York, N.Y.)</field>
     <field name="name_sim">National Tenants Organization</field>
     <field name="name_sim">Cooper Square Committee</field>
