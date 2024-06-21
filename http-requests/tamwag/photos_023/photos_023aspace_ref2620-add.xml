@@ -23,6 +23,12 @@
     <field name="unittitle_teim">Night Club Entertainment</field>
     <field name="unitid_teim">7273; 7274; 7275; 7276; 7277; 7278; 7279; 7280; 7281; 7282; 7283; 7284</field>
     <field name="unitid_ssm">7273; 7274; 7275; 7276; 7277; 7278; 7279; 7280; 7281; 7282; 7283; 7284</field>
+    <field name="creator_teim">Wolpert, Al</field>
+    <field name="creator_teim">Yellin, Hy</field>
+    <field name="creator_ssm">Wolpert, Al</field>
+    <field name="creator_ssm">Yellin, Hy</field>
+    <field name="creator_ssm">Wolpert, Al</field>
+    <field name="creator_ssm">Yellin, Hy</field>
     <field name="unitdate_teim">undated</field>
     <field name="persname_teim">Wolpert, Al</field>
     <field name="persname_teim">Yellin, Hy</field>
@@ -38,6 +44,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 7</field>
     <field name="location_si">Box: 7</field>
+    <field name="creator_sim">Wolpert, Al</field>
+    <field name="creator_sim">Yellin, Hy</field>
     <field name="name_sim">Wolpert, Al</field>
     <field name="name_sim">Yellin, Hy</field>
     <field name="name_teim">Wolpert, Al</field>

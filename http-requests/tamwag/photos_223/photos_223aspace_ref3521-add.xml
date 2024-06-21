@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Daily Worker and The Daily World Photographs Collection</field>
     <field name="collection_ssm">The Daily Worker and The Daily World Photographs Collection</field>
-    <field name="collection_unitid_ssm">PHOTOS.223/repositories/2/resources/601</field>
+    <field name="collection_unitid_ssm">PHOTOS.223</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Labor History - Clippings and Graphics</field>
     <field name="unittitle_teim">Labor History - Clippings and Graphics</field>
@@ -48,8 +48,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 515, Folder: 22451</field>
-    <field name="location_ssm">Folder: 22451</field>
-    <field name="location_si">Folder: 22451</field>
+    <field name="location_si">Box: 515, Folder: 22451</field>
     <field name="name_sim">Midwest Labor Institute for Social Studies</field>
     <field name="name_sim">Molly Maguires</field>
     <field name="subject_sim">Communist Party of the United States of America - History</field>
@@ -57,7 +56,7 @@
     <field name="subject_sim">Labor Heritage Foundation - Great Labor Arts Exchange</field>
     <field name="subject_sim">Labor Organizations - International Ladies Garment Workers Union - History</field>
     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
-    <field name="collection_unitid_teim">PHOTOS.223/repositories/2/resources/601</field>
+    <field name="collection_unitid_teim">PHOTOS.223</field>
     <field name="series_sim">Series II: Subject Files</field>
     <field name="series_si">Series II: Subject Files &gt;&gt; Labor History - Clippings and Graphics</field>
     <field name="heading_ssm">Labor History - Clippings and Graphics</field>

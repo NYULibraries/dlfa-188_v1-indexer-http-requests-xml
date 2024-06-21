@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Daily Worker and The Daily World Photographs Collection</field>
     <field name="collection_ssm">The Daily Worker and The Daily World Photographs Collection</field>
-    <field name="collection_unitid_ssm">PHOTOS.223/repositories/2/resources/601</field>
+    <field name="collection_unitid_ssm">PHOTOS.223</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Agriculture - Clippings and Graphics</field>
     <field name="unittitle_teim">Agriculture - Clippings and Graphics</field>
@@ -64,8 +64,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 354, Folder: 19390</field>
-    <field name="location_ssm">Folder: 19390</field>
-    <field name="location_si">Folder: 19390</field>
+    <field name="location_si">Box: 354, Folder: 19390</field>
     <field name="subject_sim">African Americans - Southern United States</field>
     <field name="subject_sim">Cattle</field>
     <field name="subject_sim">Cotton</field>
@@ -79,7 +78,7 @@
     <field name="subject_sim">Workers - African Americans - Men</field>
     <field name="subject_sim">Workers - Women - History</field>
     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
-    <field name="collection_unitid_teim">PHOTOS.223/repositories/2/resources/601</field>
+    <field name="collection_unitid_teim">PHOTOS.223</field>
     <field name="series_sim">Series II: Subject Files</field>
     <field name="series_si">Series II: Subject Files &gt;&gt; Agriculture - Clippings and Graphics</field>
     <field name="heading_ssm">Agriculture - Clippings and Graphics</field>

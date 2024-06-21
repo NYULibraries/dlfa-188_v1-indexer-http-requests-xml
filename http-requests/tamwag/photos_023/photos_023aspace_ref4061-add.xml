@@ -23,6 +23,12 @@
     <field name="unittitle_teim">Warsaw Ghetto Memorial</field>
     <field name="unitid_teim">8703; 8704; 8705; 8706; 8707</field>
     <field name="unitid_ssm">8703; 8704; 8705; 8706; 8707</field>
+    <field name="creator_teim">Stutz, Irving</field>
+    <field name="creator_teim">Schiller, Leon</field>
+    <field name="creator_ssm">Stutz, Irving</field>
+    <field name="creator_ssm">Schiller, Leon</field>
+    <field name="creator_ssm">Stutz, Irving</field>
+    <field name="creator_ssm">Schiller, Leon</field>
     <field name="unitdate_teim">undated</field>
     <field name="persname_teim">Stutz, Irving</field>
     <field name="persname_teim">Schiller, Leon</field>
@@ -38,6 +44,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 8</field>
     <field name="location_si">Box: 8</field>
+    <field name="creator_sim">Stutz, Irving</field>
+    <field name="creator_sim">Schiller, Leon</field>
     <field name="name_sim">Stutz, Irving</field>
     <field name="name_sim">Schiller, Leon</field>
     <field name="name_teim">Stutz, Irving</field>

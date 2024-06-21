@@ -20,6 +20,9 @@
     <field name="unittitle_teim">May Day Parade</field>
     <field name="unitid_teim">5909; 5910; 5911; 5912; 5913; 5914; 5915; 5916; 5917; 5918; 5919; 5920; 5921; 5922; 5923; 5924; 5925; 5926; 5927; 5928; 5929; 5930; 5931; 5932; 5933; 5934; 5935; 5936; 5937; 5938; 5939; 5940; 5941; 5942; 5943; 5944; 5945; 5946; 5947; 5948; 5949; 5950</field>
     <field name="unitid_ssm">5909; 5910; 5911; 5912; 5913; 5914; 5915; 5916; 5917; 5918; 5919; 5920; 5921; 5922; 5923; 5924; 5925; 5926; 5927; 5928; 5929; 5930; 5931; 5932; 5933; 5934; 5935; 5936; 5937; 5938; 5939; 5940; 5941; 5942; 5943; 5944; 5945; 5946; 5947; 5948; 5949; 5950</field>
+    <field name="creator_teim">Franklin, Robert</field>
+    <field name="creator_ssm">Franklin, Robert</field>
+    <field name="creator_ssm">Franklin, Robert</field>
     <field name="unitdate_teim">undated</field>
     <field name="persname_teim">Franklin, Robert</field>
     <field name="persname_ssm">Franklin, Robert</field>
@@ -33,6 +36,7 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 6</field>
     <field name="location_si">Box: 6</field>
+    <field name="creator_sim">Franklin, Robert</field>
     <field name="name_sim">Franklin, Robert</field>
     <field name="name_teim">Franklin, Robert</field>
     <field name="dao_sim">Online Access</field>

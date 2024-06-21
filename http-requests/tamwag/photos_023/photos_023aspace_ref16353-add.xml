@@ -20,6 +20,12 @@
     <field name="unittitle_teim">Headquarters Scenes</field>
     <field name="unitid_teim">1639; 1640; 1641</field>
     <field name="unitid_ssm">1639; 1640; 1641</field>
+    <field name="creator_teim">Franklin, Robert</field>
+    <field name="creator_teim">Erdberg, Al</field>
+    <field name="creator_ssm">Franklin, Robert</field>
+    <field name="creator_ssm">Erdberg, Al</field>
+    <field name="creator_ssm">Franklin, Robert</field>
+    <field name="creator_ssm">Erdberg, Al</field>
     <field name="unitdate_teim">Mar 1944</field>
     <field name="persname_teim">Franklin, Robert</field>
     <field name="persname_teim">Erdberg, Al</field>
@@ -35,6 +41,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 2</field>
     <field name="location_si">Box: 2</field>
+    <field name="creator_sim">Franklin, Robert</field>
+    <field name="creator_sim">Erdberg, Al</field>
     <field name="name_sim">Franklin, Robert</field>
     <field name="name_sim">Erdberg, Al</field>
     <field name="name_teim">Franklin, Robert</field>

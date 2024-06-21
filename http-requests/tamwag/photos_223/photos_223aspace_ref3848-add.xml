@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Daily Worker and The Daily World Photographs Collection</field>
     <field name="collection_ssm">The Daily Worker and The Daily World Photographs Collection</field>
-    <field name="collection_unitid_ssm">PHOTOS.223/repositories/2/resources/601</field>
+    <field name="collection_unitid_ssm">PHOTOS.223</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Oil Industry and Workers - Clippings and Graphics</field>
     <field name="unittitle_teim">Oil Industry and Workers - Clippings and Graphics</field>
@@ -59,8 +59,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 593, Folder: 23859</field>
-    <field name="location_ssm">Folder: 23859</field>
-    <field name="location_si">Folder: 23859</field>
+    <field name="location_si">Box: 593, Folder: 23859</field>
     <field name="name_sim">United States Steel Corporation</field>
     <field name="subject_sim">Accidents - Industrial</field>
     <field name="subject_sim">Angola</field>
@@ -71,7 +70,7 @@
     <field name="subject_sim">Venezuela - Oil</field>
     <field name="subject_sim">Water Pollution</field>
     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
-    <field name="collection_unitid_teim">PHOTOS.223/repositories/2/resources/601</field>
+    <field name="collection_unitid_teim">PHOTOS.223</field>
     <field name="series_sim">Series II: Subject Files</field>
     <field name="series_si">Series II: Subject Files &gt;&gt; Oil Industry and Workers - Clippings and Graphics</field>
     <field name="heading_ssm">Oil Industry and Workers - Clippings and Graphics</field>

@@ -6,11 +6,15 @@
     <field name="unittitle_teim">Tamiment Library and Robert F. Wagner Labor Archives Labor and Radicalism Photograph Collection</field>
     <field name="unittitle_ssm">Tamiment Library and Robert F. Wagner Labor Archives Labor and Radicalism Photograph Collection</field>
     <field name="unitid_teim">PHOTOS.001</field>
-    <field name="unitid_teim">/repositories/2/resources/517</field>
     <field name="unitid_ssm">PHOTOS.001</field>
-    <field name="unitid_ssm">/repositories/2/resources/517</field>
     <field name="abstract_teim">The Tamiment Library and Robert F. Wagner Labor Archives Labor and Radicalism Photograph Collection is an assemblage of photographs collected by or separated from manuscript collections or organizational records in the library's holdings. Materials include original photographs, reproductions from books, pamphlets, periodicals, and photoreproductions of engravings, drawings, and cartoons concerning radicalism and the trade union movement in Europe and the United States.</field>
     <field name="abstract_ssm">The Tamiment Library and Robert F. Wagner Labor Archives Labor and Radicalism Photograph Collection is an assemblage of photographs collected by or separated from manuscript collections or organizational records in the library's holdings. Materials include original photographs, reproductions from books, pamphlets, periodicals, and photoreproductions of engravings, drawings, and cartoons concerning radicalism and the trade union movement in Europe and the United States.</field>
+    <field name="creator_teim">Robert F. Wagner Labor Archives</field>
+    <field name="creator_teim">Tamiment Library</field>
+    <field name="creator_ssm">Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library</field>
+    <field name="creator_ssm">Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library</field>
     <field name="unitdate_normal_ssm">1860/1985</field>
     <field name="unitdate_normal_ssm">1940/1965</field>
     <field name="unitdate_normal_teim">1860/1985</field>
@@ -136,6 +140,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Robert F. Wagner Labor Archives</field>
+    <field name="creator_sim">Tamiment Library</field>
     <field name="name_sim">Robert F. Wagner Labor Archives</field>
     <field name="name_sim">Tamiment Library</field>
     <field name="name_sim">McLaughlin, Brian M.</field>

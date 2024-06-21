@@ -7,7 +7,7 @@
     <field name="component_children_bsi">true</field>
     <field name="collection_sim">New York City Central Labor Council Photographs</field>
     <field name="collection_ssm">New York City Central Labor Council Photographs</field>
-    <field name="collection_unitid_ssm">PHOTOS.020/repositories/2/resources/536</field>
+    <field name="collection_unitid_ssm">PHOTOS.020</field>
     <field name="level_sim">series</field>
     <field name="unittitle_ssm">Series X: Community Services</field>
     <field name="unittitle_teim">Series X: Community Services</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Series</field>
     <field name="format_ssm">Archival Series</field>
     <field name="location_ssm">Box: 18, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 18, Folder: 4</field>
     <field name="collection_teim">New York City Central Labor Council Photographs</field>
-    <field name="collection_unitid_teim">PHOTOS.020/repositories/2/resources/536</field>
+    <field name="collection_unitid_teim">PHOTOS.020</field>
     <field name="series_si">Series X: Community Services</field>
     <field name="heading_ssm">Series X: Community Services</field>
     <field name="unitdate_start_sim">1963</field>

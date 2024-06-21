@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Daily Worker and The Daily World Photographs Collection</field>
     <field name="collection_ssm">The Daily Worker and The Daily World Photographs Collection</field>
-    <field name="collection_unitid_ssm">PHOTOS.223/repositories/2/resources/601</field>
+    <field name="collection_unitid_ssm">PHOTOS.223</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Floods - Clippings and Pre-Press Prints</field>
     <field name="unittitle_teim">Floods - Clippings and Pre-Press Prints</field>
@@ -49,8 +49,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 457, Folder: 21449</field>
-    <field name="location_ssm">Folder: 21449</field>
-    <field name="location_si">Folder: 21449</field>
+    <field name="location_si">Box: 457, Folder: 21449</field>
     <field name="subject_sim">Idaho</field>
     <field name="subject_sim">Italy</field>
     <field name="subject_sim">Georgia - Floods</field>
@@ -59,7 +58,7 @@
     <field name="subject_sim">Vanport (Oregon) Flood</field>
     <field name="subject_sim">West Virgina - Buffalo Creek Flood</field>
     <field name="collection_teim">The Daily Worker and The Daily World Photographs Collection</field>
-    <field name="collection_unitid_teim">PHOTOS.223/repositories/2/resources/601</field>
+    <field name="collection_unitid_teim">PHOTOS.223</field>
     <field name="series_sim">Series II: Subject Files</field>
     <field name="series_si">Series II: Subject Files &gt;&gt; Floods - Clippings and Pre-Press Prints</field>
     <field name="heading_ssm">Floods - Clippings and Pre-Press Prints</field>

@@ -23,6 +23,15 @@
     <field name="unittitle_teim">Purim Party</field>
     <field name="unitid_teim">8575; 8576; 8577; 8578; 8579; 8580; 8581; 8582; 8583; 8584; 8585; 8586; 8587; 8588; 8589; 8590; 8591</field>
     <field name="unitid_ssm">8575; 8576; 8577; 8578; 8579; 8580; 8581; 8582; 8583; 8584; 8585; 8586; 8587; 8588; 8589; 8590; 8591</field>
+    <field name="creator_teim">Weinstein, Moe</field>
+    <field name="creator_teim">Wolpert, Al</field>
+    <field name="creator_teim">Bortnick, Lynn</field>
+    <field name="creator_ssm">Weinstein, Moe</field>
+    <field name="creator_ssm">Wolpert, Al</field>
+    <field name="creator_ssm">Bortnick, Lynn</field>
+    <field name="creator_ssm">Weinstein, Moe</field>
+    <field name="creator_ssm">Wolpert, Al</field>
+    <field name="creator_ssm">Bortnick, Lynn</field>
     <field name="unitdate_teim">undated</field>
     <field name="persname_teim">Weinstein, Moe</field>
     <field name="persname_teim">Wolpert, Al</field>
@@ -40,6 +49,9 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 8</field>
     <field name="location_si">Box: 8</field>
+    <field name="creator_sim">Weinstein, Moe</field>
+    <field name="creator_sim">Wolpert, Al</field>
+    <field name="creator_sim">Bortnick, Lynn</field>
     <field name="name_sim">Weinstein, Moe</field>
     <field name="name_sim">Wolpert, Al</field>
     <field name="name_sim">Bortnick, Lynn</field>

@@ -20,6 +20,15 @@
     <field name="unittitle_teim">Security Plan, A. Cohen - Physical Exam Volunteers</field>
     <field name="unitid_teim">5740; 5741</field>
     <field name="unitid_ssm">5740; 5741</field>
+    <field name="creator_teim">Weinstein, Moe</field>
+    <field name="creator_teim">Franklin, Robert</field>
+    <field name="creator_teim">Di Spes, Caesar</field>
+    <field name="creator_ssm">Weinstein, Moe</field>
+    <field name="creator_ssm">Franklin, Robert</field>
+    <field name="creator_ssm">Di Spes, Caesar</field>
+    <field name="creator_ssm">Weinstein, Moe</field>
+    <field name="creator_ssm">Franklin, Robert</field>
+    <field name="creator_ssm">Di Spes, Caesar</field>
     <field name="unitdate_teim">Nov 1949</field>
     <field name="persname_teim">Weinstein, Moe</field>
     <field name="persname_teim">Franklin, Robert</field>
@@ -35,6 +44,9 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 5</field>
     <field name="location_si">Box: 5</field>
+    <field name="creator_sim">Weinstein, Moe</field>
+    <field name="creator_sim">Franklin, Robert</field>
+    <field name="creator_sim">Di Spes, Caesar</field>
     <field name="name_sim">Weinstein, Moe</field>
     <field name="name_sim">Franklin, Robert</field>
     <field name="name_sim">Di Spes, Caesar</field>

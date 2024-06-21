@@ -23,6 +23,12 @@
     <field name="unittitle_teim">Art Exhibit Opening [Livingston]</field>
     <field name="unitid_teim">19902; 19903; 19904; 19905</field>
     <field name="unitid_ssm">19902; 19903; 19904; 19905</field>
+    <field name="creator_teim">Gross, S.</field>
+    <field name="creator_teim">Coty, Bob</field>
+    <field name="creator_ssm">Gross, S.</field>
+    <field name="creator_ssm">Coty, Bob</field>
+    <field name="creator_ssm">Gross, S.</field>
+    <field name="creator_ssm">Coty, Bob</field>
     <field name="unitdate_teim">undated</field>
     <field name="persname_teim">Gross, S.</field>
     <field name="persname_teim">Coty, Bob</field>
@@ -36,6 +42,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 16</field>
     <field name="location_si">Box: 16</field>
+    <field name="creator_sim">Gross, S.</field>
+    <field name="creator_sim">Coty, Bob</field>
     <field name="name_sim">Gross, S.</field>
     <field name="name_sim">Coty, Bob</field>
     <field name="name_teim">Gross, S.</field>

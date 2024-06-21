@@ -20,6 +20,12 @@
     <field name="unittitle_teim">Lord and Taylor Demonstration</field>
     <field name="unitid_teim">21461; 21462; 21463; 21464; 21465; 21466; 21467; 21468; 21469; 21470; 21471; 21472; 21473; 21474; 21475; 21476; 21477; 21478; 21479; 21480; 21481; 21482; 21483; 21484; 21485; 21486; 21487; 21488; 21489; 21490</field>
     <field name="unitid_ssm">21461; 21462; 21463; 21464; 21465; 21466; 21467; 21468; 21469; 21470; 21471; 21472; 21473; 21474; 21475; 21476; 21477; 21478; 21479; 21480; 21481; 21482; 21483; 21484; 21485; 21486; 21487; 21488; 21489; 21490</field>
+    <field name="creator_teim">Dobbs, Bob</field>
+    <field name="creator_teim">Wolff, Leo</field>
+    <field name="creator_ssm">Dobbs, Bob</field>
+    <field name="creator_ssm">Wolff, Leo</field>
+    <field name="creator_ssm">Dobbs, Bob</field>
+    <field name="creator_ssm">Wolff, Leo</field>
     <field name="unitdate_teim">undated</field>
     <field name="persname_teim">Dobbs, Bob</field>
     <field name="persname_teim">Wolff, Leo</field>
@@ -33,6 +39,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 17</field>
     <field name="location_si">Box: 17</field>
+    <field name="creator_sim">Dobbs, Bob</field>
+    <field name="creator_sim">Wolff, Leo</field>
     <field name="name_sim">Dobbs, Bob</field>
     <field name="name_sim">Wolff, Leo</field>
     <field name="name_teim">Dobbs, Bob</field>

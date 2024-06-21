@@ -20,6 +20,12 @@
     <field name="unittitle_teim">Miles Arbitration</field>
     <field name="unitid_teim">983; 984</field>
     <field name="unitid_ssm">983; 984</field>
+    <field name="creator_teim">Schneider, Edward</field>
+    <field name="creator_teim">Weissman, Leon</field>
+    <field name="creator_ssm">Schneider, Edward</field>
+    <field name="creator_ssm">Weissman, Leon</field>
+    <field name="creator_ssm">Schneider, Edward</field>
+    <field name="creator_ssm">Weissman, Leon</field>
     <field name="unitdate_teim">Feb 1942</field>
     <field name="persname_teim">Schneider, Edward</field>
     <field name="persname_teim">Weissman, Leon</field>
@@ -35,6 +41,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1</field>
     <field name="location_si">Box: 1</field>
+    <field name="creator_sim">Schneider, Edward</field>
+    <field name="creator_sim">Weissman, Leon</field>
     <field name="name_sim">Schneider, Edward</field>
     <field name="name_sim">Weissman, Leon</field>
     <field name="name_teim">Schneider, Edward</field>

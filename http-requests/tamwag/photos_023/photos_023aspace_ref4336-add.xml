@@ -23,6 +23,12 @@
     <field name="unittitle_teim">Education Program Registration for Classes</field>
     <field name="unitid_teim">23000; 23001; 23002</field>
     <field name="unitid_ssm">23000; 23001; 23002</field>
+    <field name="creator_teim">Berkman, Dave</field>
+    <field name="creator_teim">Wolff, Leo</field>
+    <field name="creator_ssm">Berkman, Dave</field>
+    <field name="creator_ssm">Wolff, Leo</field>
+    <field name="creator_ssm">Berkman, Dave</field>
+    <field name="creator_ssm">Wolff, Leo</field>
     <field name="unitdate_teim">undated</field>
     <field name="persname_teim">Berkman, Dave</field>
     <field name="persname_teim">Wolff, Leo</field>
@@ -36,6 +42,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 18</field>
     <field name="location_si">Box: 18</field>
+    <field name="creator_sim">Berkman, Dave</field>
+    <field name="creator_sim">Wolff, Leo</field>
     <field name="name_sim">Berkman, Dave</field>
     <field name="name_sim">Wolff, Leo</field>
     <field name="name_teim">Berkman, Dave</field>

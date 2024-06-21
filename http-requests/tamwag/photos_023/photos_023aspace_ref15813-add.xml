@@ -20,6 +20,12 @@
     <field name="unittitle_teim">Election 65</field>
     <field name="unitid_teim">20221; 20222; 20223; 20224; 20225; 20226; 20227; 20228; 20229</field>
     <field name="unitid_ssm">20221; 20222; 20223; 20224; 20225; 20226; 20227; 20228; 20229</field>
+    <field name="creator_teim">Wolff, Leo</field>
+    <field name="creator_teim">Dobbs, Bob</field>
+    <field name="creator_ssm">Wolff, Leo</field>
+    <field name="creator_ssm">Dobbs, Bob</field>
+    <field name="creator_ssm">Wolff, Leo</field>
+    <field name="creator_ssm">Dobbs, Bob</field>
     <field name="unitdate_teim">undated</field>
     <field name="persname_teim">Wolff, Leo</field>
     <field name="persname_teim">Dobbs, Bob</field>
@@ -33,6 +39,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 16</field>
     <field name="location_si">Box: 16</field>
+    <field name="creator_sim">Wolff, Leo</field>
+    <field name="creator_sim">Dobbs, Bob</field>
     <field name="name_sim">Wolff, Leo</field>
     <field name="name_sim">Dobbs, Bob</field>
     <field name="name_teim">Wolff, Leo</field>

@@ -23,6 +23,12 @@
     <field name="unittitle_teim">Photocopies of Art Exhibit Paintings</field>
     <field name="unitid_teim">13631; 13632; 13633; 13634; 13635; 13636; 13637; 13638; 13639; 13640; 13641; 13642; 13643; 13644</field>
     <field name="unitid_ssm">13631; 13632; 13633; 13634; 13635; 13636; 13637; 13638; 13639; 13640; 13641; 13642; 13643; 13644</field>
+    <field name="creator_teim">Stutz, Irving</field>
+    <field name="creator_teim">Willoughby, Roland</field>
+    <field name="creator_ssm">Stutz, Irving</field>
+    <field name="creator_ssm">Willoughby, Roland</field>
+    <field name="creator_ssm">Stutz, Irving</field>
+    <field name="creator_ssm">Willoughby, Roland</field>
     <field name="unitdate_teim">undated</field>
     <field name="persname_teim">Stutz, Irving</field>
     <field name="persname_teim">Willoughby, Roland</field>
@@ -38,6 +44,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 12</field>
     <field name="location_si">Box: 12</field>
+    <field name="creator_sim">Stutz, Irving</field>
+    <field name="creator_sim">Willoughby, Roland</field>
     <field name="name_sim">Stutz, Irving</field>
     <field name="name_sim">Willoughby, Roland</field>
     <field name="name_teim">Stutz, Irving</field>

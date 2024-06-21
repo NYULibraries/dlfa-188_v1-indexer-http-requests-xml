@@ -20,6 +20,9 @@
     <field name="unittitle_teim">Sears Roebuck Demonstration</field>
     <field name="unitid_teim">352; 353</field>
     <field name="unitid_ssm">352; 353</field>
+    <field name="creator_teim">Choplin, Leo</field>
+    <field name="creator_ssm">Choplin, Leo</field>
+    <field name="creator_ssm">Choplin, Leo</field>
     <field name="unitdate_normal_ssm">1940/1940</field>
     <field name="unitdate_normal_teim">1940/1940</field>
     <field name="unitdate_normal_sim">1940/1940</field>
@@ -36,6 +39,7 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1</field>
     <field name="location_si">Box: 1</field>
+    <field name="creator_sim">Choplin, Leo</field>
     <field name="name_sim">Choplin, Leo</field>
     <field name="name_teim">Choplin, Leo</field>
     <field name="dao_sim">Online Access</field>

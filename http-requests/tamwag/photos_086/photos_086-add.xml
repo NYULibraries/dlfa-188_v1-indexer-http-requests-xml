@@ -6,11 +6,15 @@
     <field name="unittitle_teim">Communications Workers of America Photographs and Videos</field>
     <field name="unittitle_ssm">Communications Workers of America Photographs and Videos</field>
     <field name="unitid_teim">PHOTOS.086</field>
-    <field name="unitid_teim">/repositories/2/resources/571</field>
     <field name="unitid_ssm">PHOTOS.086</field>
-    <field name="unitid_ssm">/repositories/2/resources/571</field>
     <field name="abstract_teim">The Communications Workers of America (CWA) was founded in 1947 as an industrial union of telephone industry workers.  This collection documents the union's activities, including strikes and national conventions, through photographic prints, slides, a scrapbook, and videos.</field>
     <field name="abstract_ssm">The Communications Workers of America (CWA) was founded in 1947 as an industrial union of telephone industry workers.  This collection documents the union's activities, including strikes and national conventions, through photographic prints, slides, a scrapbook, and videos.</field>
+    <field name="creator_teim">Communications Workers of America</field>
+    <field name="creator_teim">Rairdon, Horace</field>
+    <field name="creator_ssm">Communications Workers of America</field>
+    <field name="creator_ssm">Rairdon, Horace</field>
+    <field name="creator_ssm">Communications Workers of America</field>
+    <field name="creator_ssm">Rairdon, Horace</field>
     <field name="unitdate_normal_ssm">1915/1995</field>
     <field name="unitdate_normal_ssm">1960/1988</field>
     <field name="unitdate_normal_teim">1915/1995</field>
@@ -99,6 +103,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Communications Workers of America</field>
+    <field name="creator_sim">Rairdon, Horace</field>
     <field name="name_sim">Communications Workers of America</field>
     <field name="name_sim">American Institute for Free Labor Development</field>
     <field name="name_sim">Association of Communications Equipment Workers</field>
