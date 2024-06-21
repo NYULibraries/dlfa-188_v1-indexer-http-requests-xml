@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Army Corps of Engineers</field>
     <field name="unittitle_teim">Army Corps of Engineers</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: I:17, Folder: 10</field>
-    <field name="location_ssm">Folder: 10</field>
-    <field name="location_si">Folder: 10</field>
+    <field name="location_si">Box: I:17, Folder: 10</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series I : Legislative</field>
     <field name="series_sim">Subseries V: Topical Files</field>
     <field name="series_si">Series I : Legislative &gt;&gt; Subseries V: Topical Files &gt;&gt; Army Corps of Engineers</field>

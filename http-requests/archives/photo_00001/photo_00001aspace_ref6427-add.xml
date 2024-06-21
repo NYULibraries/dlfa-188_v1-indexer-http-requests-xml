@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Coles Sports Center, Weight Room, Female Student Using Upper Body Exercise Equipment Closeup</field>
     <field name="unittitle_teim">Coles Sports Center, Weight Room, Female Student Using Upper Body Exercise Equipment Closeup</field>
@@ -22,6 +22,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/637138</field>
     <field name="unitid_ssm">UA_PHOTO_001_ref6427</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/637138</field>
+    <field name="creator_teim">Giese, Al</field>
+    <field name="creator_ssm">Giese, Al</field>
+    <field name="creator_ssm">Giese, Al</field>
     <field name="unitdate_teim">undated</field>
     <field name="corpname_teim">New York University. Washington Square Campus</field>
     <field name="corpname_teim">New York University -- Buildings</field>
@@ -35,10 +38,9 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 188, Folder: 1</field>
-    <field name="location_ssm">Folder: 1, Item: 83</field>
-    <field name="location_ssm">Item: 83</field>
-    <field name="location_si">Item: 83</field>
+    <field name="location_ssm">Box: 188, Folder: 1, Item: 83</field>
+    <field name="location_si">Box: 188, Folder: 1, Item: 83</field>
+    <field name="creator_sim">Giese, Al</field>
     <field name="name_sim">New York University. Washington Square Campus</field>
     <field name="name_sim">New York University -- Buildings</field>
     <field name="name_sim">Giese, Al</field>
@@ -46,7 +48,7 @@
     <field name="name_teim">New York University -- Buildings</field>
     <field name="name_teim">Giese, Al</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Campus Buildings</field>
     <field name="series_sim">Coles Sports Center</field>
     <field name="series_si">Washington Square Campus Buildings &gt;&gt; Coles Sports Center &gt;&gt; Coles Sports Center, Weight Room, Female Student Using Upper Body Exercise Equipment Closeup</field>

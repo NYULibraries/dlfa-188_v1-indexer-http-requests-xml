@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Provincetown Playhouse, 133 MacDougal Street</field>
     <field name="unittitle_teim">Provincetown Playhouse, 133 MacDougal Street</field>
@@ -22,6 +22,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/636273</field>
     <field name="unitid_ssm">wsa_3_14_01</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/636273</field>
+    <field name="creator_teim">Abbott, Berenice, 1898-1991</field>
+    <field name="creator_ssm">Abbott, Berenice, 1898-1991</field>
+    <field name="creator_ssm">Abbott, Berenice, 1898-1991</field>
     <field name="unitdate_normal_ssm">1936/1936</field>
     <field name="unitdate_normal_teim">1936/1936</field>
     <field name="unitdate_normal_sim">1936/1936</field>
@@ -38,12 +41,13 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 178</field>
     <field name="location_si">Box: 178</field>
+    <field name="creator_sim">Abbott, Berenice, 1898-1991</field>
     <field name="name_sim">Abbott, Berenice, 1898-1991</field>
     <field name="name_teim">Abbott, Berenice, 1898-1991</field>
     <field name="place_ssm">Greenwich Village (New York, N.Y.)</field>
     <field name="place_sim">Greenwich Village (New York, N.Y.)</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Area</field>
     <field name="series_sim">Provincetown Playhouse</field>
     <field name="series_si">Washington Square Area &gt;&gt; Provincetown Playhouse &gt;&gt; Provincetown Playhouse, 133 MacDougal Street</field>

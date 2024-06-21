@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MC.106</field>
     <field name="abstract_teim">This collection inculdes John G. Stephenson's patent for the first streetcar, developed in 1831.  Stephenson (1809-1893) invented and patented the first streetcar that ran on rails in the United States.</field>
     <field name="abstract_ssm">This collection inculdes John G. Stephenson's patent for the first streetcar, developed in 1831.  Stephenson (1809-1893) invented and patented the first streetcar that ran on rails in the United States.</field>
+    <field name="creator_teim">Stephenson, John G.</field>
+    <field name="creator_ssm">Stephenson, John G.</field>
+    <field name="creator_ssm">Stephenson, John G.</field>
     <field name="unitdate_normal_ssm">1831/1831</field>
     <field name="unitdate_normal_teim">1831/1831</field>
     <field name="unitdate_normal_sim">1831/1831</field>
@@ -34,6 +37,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Stephenson, John G.</field>
     <field name="name_sim">Stephenson, John G.</field>
     <field name="name_teim">Stephenson, John G.</field>
     <field name="subject_sim">Patents</field>

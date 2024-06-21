@@ -6,11 +6,12 @@
     <field name="unittitle_teim">New York University Archives Biographical Files</field>
     <field name="unittitle_ssm">New York University Archives Biographical Files</field>
     <field name="unitid_teim">MC.317</field>
-    <field name="unitid_teim">/repositories/6/resources/3266</field>
     <field name="unitid_ssm">MC.317</field>
-    <field name="unitid_ssm">/repositories/6/resources/3266</field>
     <field name="abstract_teim">The New York University Archives Biographical Files consist of files containing biographical material on people connected with New York University or are notable for other reasons.  The collection was created by the University Archives to make a central collection for reference staff fulfilling requests for information on individuals associated with the University.  Materials date from the late 19th century through the early 21st century.</field>
     <field name="abstract_ssm">The New York University Archives Biographical Files consist of files containing biographical material on people connected with New York University or are notable for other reasons.  The collection was created by the University Archives to make a central collection for reference staff fulfilling requests for information on individuals associated with the University.  Materials date from the late 19th century through the early 21st century.</field>
+    <field name="creator_teim">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
     <field name="unitdate_normal_ssm">1861/2018</field>
     <field name="unitdate_normal_teim">1861/2018</field>
     <field name="unitdate_normal_sim">1861/2018</field>
@@ -37,6 +38,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University Archives</field>
     <field name="name_sim">New York University Archives</field>
     <field name="name_teim">New York University Archives</field>
     <field name="material_type_sim">Biographical files.</field>

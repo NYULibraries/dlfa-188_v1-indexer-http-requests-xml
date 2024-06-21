@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_ssm">MC.334</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">
       &lt;em&gt;Platypus&lt;/em&gt;
@@ -32,12 +32,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 408, Folder: 7</field>
-    <field name="location_ssm">Folder: 7</field>
     <field name="location_ssm">Box: 409, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 409, Folder: 1</field>
     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_teim">MC.334</field>
     <field name="series_sim">RG 39.181. Platypus</field>
     <field name="series_si">RG 39.181. Platypus &gt;&gt; 
       &lt;em&gt;Platypus&lt;/em&gt;
@@ -53,6 +51,6 @@
     <field name="unitdate_end_si">2011</field>
     <field name="unitdate_ssm">Inclusive, 2007-2011</field>
     <field name="date_range_sim">2001-2100</field>
-    <field name="sort_ii">2114</field>
+    <field name="sort_ii">2112</field>
   </doc>
 </add>

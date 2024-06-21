@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">D'Agostino Law Dorm, The Commons, Reception Room and Staircase</field>
     <field name="unittitle_teim">D'Agostino Law Dorm, The Commons, Reception Room and Staircase</field>
@@ -22,6 +22,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/637233</field>
     <field name="unitid_ssm">UA_PHOTO_001_ref6620</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/637233</field>
+    <field name="creator_teim">Pellettieri, Luigi</field>
+    <field name="creator_ssm">Pellettieri, Luigi</field>
+    <field name="creator_ssm">Pellettieri, Luigi</field>
     <field name="unitdate_normal_ssm">1990/1990</field>
     <field name="unitdate_normal_teim">1990/1990</field>
     <field name="unitdate_normal_sim">1990/1990</field>
@@ -38,10 +41,9 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 189, Folder: 11</field>
-    <field name="location_ssm">Folder: 11, Item: 11</field>
-    <field name="location_ssm">Item: 11</field>
-    <field name="location_si">Item: 11</field>
+    <field name="location_ssm">Box: 189, Folder: 11, Item: 11</field>
+    <field name="location_si">Box: 189, Folder: 11, Item: 11</field>
+    <field name="creator_sim">Pellettieri, Luigi</field>
     <field name="name_sim">New York University. Washington Square Campus</field>
     <field name="name_sim">New York University -- Buildings</field>
     <field name="name_sim">Pellettieri, Luigi</field>
@@ -49,7 +51,7 @@
     <field name="name_teim">New York University -- Buildings</field>
     <field name="name_teim">Pellettieri, Luigi</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Campus Buildings</field>
     <field name="series_sim">D'Agostino Hall Interiors</field>
     <field name="series_si">Washington Square Campus Buildings &gt;&gt; D'Agostino Hall Interiors &gt;&gt; D'Agostino Law Dorm, The Commons, Reception Room and Staircase</field>

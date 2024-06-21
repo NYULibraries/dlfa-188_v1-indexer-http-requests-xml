@@ -17,7 +17,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Washington Square South</field>
     <field name="unittitle_teim">Washington Square South</field>
@@ -25,6 +25,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/635481</field>
     <field name="unitid_ssm">wsp_ls_6_3_06</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/635481</field>
+    <field name="creator_teim">Rosenfeld, David</field>
+    <field name="creator_ssm">Rosenfeld, David</field>
+    <field name="creator_ssm">Rosenfeld, David</field>
     <field name="unitdate_normal_ssm">1925/1925</field>
     <field name="unitdate_normal_teim">1925/1925</field>
     <field name="unitdate_normal_sim">1925/1925</field>
@@ -37,14 +40,13 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 213, Folder: 3</field>
-    <field name="location_ssm">Folder: 3, Item: 2</field>
-    <field name="location_ssm">Item: 2</field>
-    <field name="location_si">Item: 2</field>
+    <field name="location_ssm">Box: 213, Folder: 3, Item: 2</field>
+    <field name="location_si">Box: 213, Folder: 3, Item: 2</field>
+    <field name="creator_sim">Rosenfeld, David</field>
     <field name="name_sim">Rosenfeld, David</field>
     <field name="name_teim">Rosenfeld, David</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Park</field>
     <field name="series_sim">Subseries E: Looking South</field>
     <field name="series_sim">Looking South, 1920-1929</field>

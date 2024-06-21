@@ -7,6 +7,9 @@
     <field name="unitid_ssm">MC.83</field>
     <field name="abstract_teim">The New York University Archives Collection of Student Theses consists of five theses written by New York University students in the late 19th and early 20th centuries.  The collection was created by the New York University Archives in 2019.</field>
     <field name="abstract_ssm">The New York University Archives Collection of Student Theses consists of five theses written by New York University students in the late 19th and early 20th centuries.  The collection was created by the New York University Archives in 2019.</field>
+    <field name="creator_teim">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
     <field name="unitdate_normal_ssm">1894/1912</field>
     <field name="unitdate_normal_teim">1894/1912</field>
     <field name="unitdate_normal_sim">1894/1912</field>
@@ -35,6 +38,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University Archives</field>
     <field name="name_sim">New York University Archives</field>
     <field name="name_teim">New York University Archives</field>
     <field name="subject_sim">College students -- New York (N.Y.)</field>

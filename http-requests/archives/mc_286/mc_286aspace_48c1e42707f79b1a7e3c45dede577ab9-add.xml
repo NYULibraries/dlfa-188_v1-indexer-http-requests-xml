@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Course Bulletins</field>
     <field name="collection_ssm">New York University Archives Collection of Course Bulletins</field>
-    <field name="collection_unitid_ssm">MC.286/repositories/6/resources/2825</field>
+    <field name="collection_unitid_ssm">MC.286</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm"> Catalogue of the Officers, Alumni, and Students, of the University of the City of New-York</field>
     <field name="unittitle_teim"> Catalogue of the Officers, Alumni, and Students, of the University of the City of New-York</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 10</field>
-    <field name="location_ssm">Folder: 10</field>
-    <field name="location_si">Folder: 10</field>
+    <field name="location_si">Box: 1, Folder: 10</field>
     <field name="collection_teim">New York University Archives Collection of Course Bulletins</field>
-    <field name="collection_unitid_teim">MC.286/repositories/6/resources/2825</field>
+    <field name="collection_unitid_teim">MC.286</field>
     <field name="series_sim">All University (RG 1)</field>
     <field name="series_si">All University (RG 1) &gt;&gt;  Catalogue of the Officers, Alumni, and Students, of the University of the City of New-York</field>
     <field name="heading_ssm"> Catalogue of the Officers, Alumni, and Students, of the University of the City of New-York</field>

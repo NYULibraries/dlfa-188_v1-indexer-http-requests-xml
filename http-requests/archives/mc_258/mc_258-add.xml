@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MC.258</field>
     <field name="abstract_teim">The collection contains ledgers recording the accession of books, periodicals, manuscripts, and other items by various New York University libraries between 1830 and 1967. Some ledgers contain catalogs of authors, theses, and bill payments.</field>
     <field name="abstract_ssm">The collection contains ledgers recording the accession of books, periodicals, manuscripts, and other items by various New York University libraries between 1830 and 1967. Some ledgers contain catalogs of authors, theses, and bill payments.</field>
+    <field name="creator_teim">New York University. Library Division</field>
+    <field name="creator_ssm">New York University. Library Division</field>
+    <field name="creator_ssm">New York University. Library Division</field>
     <field name="unitdate_normal_ssm">1830/1967</field>
     <field name="unitdate_normal_teim">1830/1967</field>
     <field name="unitdate_normal_sim">1830/1967</field>
@@ -31,6 +34,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University. Library Division</field>
     <field name="name_sim">New York University. Library Division</field>
     <field name="name_teim">New York University. Library Division</field>
     <field name="heading_ssm">New York University Library Accession Books</field>

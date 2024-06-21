@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Senior Ball</field>
     <field name="unittitle_teim">Senior Ball</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: Shared University Archives 091, Folder: 8</field>
-    <field name="location_ssm">Folder: 8</field>
-    <field name="location_si">Folder: 8</field>
+    <field name="location_si">Box: Shared University Archives 091, Folder: 8</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Miscellaneous</field>
     <field name="series_si">Miscellaneous &gt;&gt; Senior Ball</field>
     <field name="heading_ssm">Senior Ball</field>

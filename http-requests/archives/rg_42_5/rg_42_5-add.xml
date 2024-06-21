@@ -9,6 +9,12 @@
     <field name="unitid_ssm">RG.42.5</field>
     <field name="abstract_teim">The Grey Art Gallery and Study Center is New York University's fine arts museum and was established in 1975 due to a financial contribution by Abby Weed Grey. Its function is to collect, preserve, study, document, interpret, and exhibit the evidence of human culture. Building on the New York University's Art Collection, established in 1958, the gallery hosts exhibitions of local, national and international interest. The collection consists of correspondence, exhibit press releases, catalogs, catalog drafts, exhibit labels, exhibition checklists, floor plans, research materials, grant applications; shipping, transportation, and insurance information. The collection also includes a small amount of audio recordings, video recordings, and electronic records. The materials date from 1957 to 2019.</field>
     <field name="abstract_ssm">The Grey Art Gallery and Study Center is New York University's fine arts museum and was established in 1975 due to a financial contribution by Abby Weed Grey. Its function is to collect, preserve, study, document, interpret, and exhibit the evidence of human culture. Building on the New York University's Art Collection, established in 1958, the gallery hosts exhibitions of local, national and international interest. The collection consists of correspondence, exhibit press releases, catalogs, catalog drafts, exhibit labels, exhibition checklists, floor plans, research materials, grant applications; shipping, transportation, and insurance information. The collection also includes a small amount of audio recordings, video recordings, and electronic records. The materials date from 1957 to 2019.</field>
+    <field name="creator_teim">Grey Art Gallery &amp; Study Center</field>
+    <field name="creator_teim">New York University. Art Collection</field>
+    <field name="creator_ssm">Grey Art Gallery &amp; Study Center</field>
+    <field name="creator_ssm">New York University. Art Collection</field>
+    <field name="creator_ssm">Grey Art Gallery &amp; Study Center</field>
+    <field name="creator_ssm">New York University. Art Collection</field>
     <field name="unitdate_normal_ssm">1957/2022</field>
     <field name="unitdate_normal_ssm">1975/1997</field>
     <field name="unitdate_normal_teim">1957/2022</field>
@@ -83,6 +89,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Grey Art Gallery &amp; Study Center</field>
+    <field name="creator_sim">New York University. Art Collection</field>
     <field name="name_sim">Grey Art Gallery &amp; Study Center</field>
     <field name="name_sim">New York University. Art Collection</field>
     <field name="name_sim">Bowman, Ruth, 1923-</field>

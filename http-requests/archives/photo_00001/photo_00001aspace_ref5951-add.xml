@@ -11,7 +11,7 @@
     <field name="component_children_bsi">true</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Brittany Residence Hall - Interiors</field>
     <field name="unittitle_teim">Brittany Residence Hall - Interiors</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 186, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
-    <field name="location_si">Folder: 6</field>
+    <field name="location_si">Box: 186, Folder: 6</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Campus Buildings</field>
     <field name="series_si">Washington Square Campus Buildings &gt;&gt; Brittany Residence Hall - Interiors</field>
     <field name="heading_ssm">Brittany Residence Hall - Interiors</field>

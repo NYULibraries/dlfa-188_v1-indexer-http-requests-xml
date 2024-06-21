@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Andiron Club of New York City</field>
     <field name="collection_ssm">Records of the Andiron Club of New York City</field>
-    <field name="collection_unitid_ssm">MC.19/repositories/6/resources/1994</field>
+    <field name="collection_unitid_ssm">MC.19</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Ledgers</field>
     <field name="unittitle_teim">Ledgers</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 16, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 16, Folder: 3</field>
     <field name="collection_teim">Records of the Andiron Club of New York City</field>
-    <field name="collection_unitid_teim">MC.19/repositories/6/resources/1994</field>
+    <field name="collection_unitid_teim">MC.19</field>
     <field name="series_sim">Series IV: Ledgers</field>
     <field name="series_si">Series IV: Ledgers &gt;&gt; Ledgers</field>
     <field name="heading_ssm">Ledgers</field>

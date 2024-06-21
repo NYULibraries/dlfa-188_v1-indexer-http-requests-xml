@@ -21,6 +21,9 @@
 </field>
     <field name="unitid_teim">AV2896</field>
     <field name="unitid_ssm">AV2896</field>
+    <field name="creator_teim">Breslin, Jimmy</field>
+    <field name="creator_ssm">Breslin, Jimmy</field>
+    <field name="creator_ssm">Breslin, Jimmy</field>
     <field name="unitdate_normal_ssm">1974-02-28/1974-02-28</field>
     <field name="unitdate_normal_teim">1974-02-28/1974-02-28</field>
     <field name="unitdate_normal_sim">1974-02-28/1974-02-28</field>
@@ -37,8 +40,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 75, reel: 2896</field>
-    <field name="location_ssm">reel: 2896</field>
-    <field name="location_si">reel: 2896</field>
+    <field name="location_si">Box: 75, reel: 2896</field>
+    <field name="creator_sim">Breslin, Jimmy</field>
     <field name="name_sim">Breslin, Jimmy</field>
     <field name="name_teim">Breslin, Jimmy</field>
     <field name="dao_sim">Online Access</field>

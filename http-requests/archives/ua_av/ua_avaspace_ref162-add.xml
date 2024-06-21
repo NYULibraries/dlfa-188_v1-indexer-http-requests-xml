@@ -17,6 +17,9 @@
     <field name="unittitle_teim">Commencement Exercises (tape 1 of 2)</field>
     <field name="unitid_teim">AV2306</field>
     <field name="unitid_ssm">AV2306</field>
+    <field name="creator_teim">Goldberg, Arthur J.</field>
+    <field name="creator_ssm">Goldberg, Arthur J.</field>
+    <field name="creator_ssm">Goldberg, Arthur J.</field>
     <field name="unitdate_normal_ssm">1966/1966</field>
     <field name="unitdate_normal_teim">1966/1966</field>
     <field name="unitdate_normal_sim">1966/1966</field>
@@ -33,10 +36,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 61, disc: 2306</field>
-    <field name="location_ssm">disc: 2306</field>
     <field name="location_ssm">Box: 61, Quarter_Inch_Audio_Reel: 2306</field>
-    <field name="location_ssm">Quarter_Inch_Audio_Reel: 2306</field>
-    <field name="location_si">Quarter_Inch_Audio_Reel: 2306</field>
+    <field name="location_si">Box: 61, Quarter_Inch_Audio_Reel: 2306</field>
+    <field name="creator_sim">Goldberg, Arthur J.</field>
     <field name="name_sim">Goldberg, Arthur J.</field>
     <field name="name_teim">Goldberg, Arthur J.</field>
     <field name="dao_sim">Online Access</field>

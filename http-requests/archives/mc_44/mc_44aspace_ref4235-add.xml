@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Bayrd Still Papers</field>
     <field name="collection_ssm">Bayrd Still Papers</field>
-    <field name="collection_unitid_ssm">MC.44/repositories/6/resources/2063</field>
+    <field name="collection_unitid_ssm">MC.44</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Savoy Plaza</field>
     <field name="unittitle_teim">Savoy Plaza</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 53, Folder: 31</field>
-    <field name="location_ssm">Folder: 31</field>
-    <field name="location_si">Folder: 31</field>
+    <field name="location_si">Box: 53, Folder: 31</field>
     <field name="collection_teim">Bayrd Still Papers</field>
-    <field name="collection_unitid_teim">MC.44/repositories/6/resources/2063</field>
+    <field name="collection_unitid_teim">MC.44</field>
     <field name="series_sim">Series V: Correspondence</field>
     <field name="series_sim">Subseries B: NYC Research</field>
     <field name="series_si">Series V: Correspondence &gt;&gt; Subseries B: NYC Research &gt;&gt; Savoy Plaza</field>

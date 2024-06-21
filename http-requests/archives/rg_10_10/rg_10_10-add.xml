@@ -9,6 +9,12 @@
     <field name="unitid_ssm">RG.10.10</field>
     <field name="abstract_teim">The collection contains ledgers recording incnome, expenditures, vouchers, receipts and salary information pertaining to New York University between 1829 and 1960.</field>
     <field name="abstract_ssm">The collection contains ledgers recording incnome, expenditures, vouchers, receipts and salary information pertaining to New York University between 1829 and 1960.</field>
+    <field name="creator_teim">New York University</field>
+    <field name="creator_teim">Bellevue Hospital Medical College</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">Bellevue Hospital Medical College</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">Bellevue Hospital Medical College</field>
     <field name="unitdate_normal_ssm">1829/1960</field>
     <field name="unitdate_normal_teim">1829/1960</field>
     <field name="unitdate_normal_sim">1829/1960</field>
@@ -40,6 +46,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University</field>
+    <field name="creator_sim">Bellevue Hospital Medical College</field>
     <field name="name_sim">New York University</field>
     <field name="name_sim">Bellevue Hospital Medical College</field>
     <field name="name_teim">New York University</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">University Building, Interior - Hennessy's Studio</field>
     <field name="unittitle_teim">University Building, Interior - Hennessy's Studio</field>
@@ -22,6 +22,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/636680</field>
     <field name="unitid_ssm">CB_UB_4_7_01</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/636680</field>
+    <field name="creator_teim">Jones, Theodore Francis, 1885-1968</field>
+    <field name="creator_ssm">Jones, Theodore Francis, 1885-1968</field>
+    <field name="creator_ssm">Jones, Theodore Francis, 1885-1968</field>
     <field name="unitdate_normal_ssm">1866/1866</field>
     <field name="unitdate_normal_teim">1866/1866</field>
     <field name="unitdate_normal_sim">1866/1866</field>
@@ -40,10 +43,9 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 249, Folder: 7</field>
-    <field name="location_ssm">Folder: 7, Item: 1</field>
-    <field name="location_ssm">Item: 1</field>
-    <field name="location_si">Item: 1</field>
+    <field name="location_ssm">Box: 249, Folder: 7, Item: 1</field>
+    <field name="location_si">Box: 249, Folder: 7, Item: 1</field>
+    <field name="creator_sim">Jones, Theodore Francis, 1885-1968</field>
     <field name="name_sim">New York University -- Buildings</field>
     <field name="name_sim">Jones, Theodore Francis, 1885-1968</field>
     <field name="name_sim">Hennessy, William John, 1839-1917</field>
@@ -52,7 +54,7 @@
     <field name="name_teim">Hennessy, William John, 1839-1917</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">University Building</field>
     <field name="series_sim">University Building - Interior, Hennessy's Studio</field>
     <field name="series_si">University Building &gt;&gt; University Building - Interior, Hennessy's Studio &gt;&gt; University Building, Interior - Hennessy's Studio</field>

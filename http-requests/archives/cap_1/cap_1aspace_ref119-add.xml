@@ -17,6 +17,9 @@
     <field name="unittitle_teim">Portrait Veritar Lens</field>
     <field name="unitid_teim">cap1_ref119</field>
     <field name="unitid_ssm">cap1_ref119</field>
+    <field name="creator_teim">Wollensak Opitcal Co.</field>
+    <field name="creator_ssm">Wollensak Opitcal Co.</field>
+    <field name="creator_ssm">Wollensak Opitcal Co.</field>
     <field name="unitdate_teim">Unknown</field>
     <field name="corpname_teim">Wollensak Opitcal Co.</field>
     <field name="corpname_ssm">Wollensak Opitcal Co.</field>
@@ -35,6 +38,7 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">object: 32</field>
     <field name="location_si">object: 32</field>
+    <field name="creator_sim">Wollensak Opitcal Co.</field>
     <field name="name_sim">Wollensak Opitcal Co.</field>
     <field name="name_teim">Wollensak Opitcal Co.</field>
     <field name="dao_sim">Online Access</field>

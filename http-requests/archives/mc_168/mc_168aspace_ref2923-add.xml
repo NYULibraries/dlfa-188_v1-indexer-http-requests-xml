@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">H.R. 15196: 91st Congress, 1st Session</field>
     <field name="unittitle_teim">H.R. 15196: 91st Congress, 1st Session</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: I:41, Folder: 49</field>
-    <field name="location_ssm">Folder: 49</field>
-    <field name="location_si">Folder: 49</field>
+    <field name="location_si">Box: I:41, Folder: 49</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series I : Legislative</field>
     <field name="series_sim">Subseries VI: Bills</field>
     <field name="series_si">Series I : Legislative &gt;&gt; Subseries VI: Bills &gt;&gt; H.R. 15196: 91st Congress, 1st Session</field>

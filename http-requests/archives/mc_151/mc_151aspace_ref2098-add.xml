@@ -30,10 +30,8 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 38, Folder: 3</field>
-    <field name="location_ssm">Folder: 3, Item: 14</field>
-    <field name="location_ssm">Item: 14</field>
-    <field name="location_si">Item: 14</field>
+    <field name="location_ssm">Box: 38, Folder: 3, Item: 14</field>
+    <field name="location_si">Box: 38, Folder: 3, Item: 14</field>
     <field name="collection_teim">Abby Weed Grey Papers</field>
     <field name="collection_unitid_teim">MC.151</field>
     <field name="series_sim">Series XVII: Abby Weed Grey Photographs</field>

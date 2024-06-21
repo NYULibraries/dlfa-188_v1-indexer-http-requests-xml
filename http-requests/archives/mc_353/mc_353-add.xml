@@ -9,6 +9,15 @@
     <field name="unitid_ssm">MC.353</field>
     <field name="abstract_teim">This collection contains websites regarding New York University's response to the COVID-19 pandemic, starting in March 2020. It includes webpages from the University's campuses worldwide that represent advocacy, information, policies, protest, research, and scholarship created by individuals and communities within NYU, including administrators, faculty, students, staff, alumni, and prospective students at the New York campus, study away sites, and the campuses in Shanghai and Abu Dhabi.</field>
     <field name="abstract_ssm">This collection contains websites regarding New York University's response to the COVID-19 pandemic, starting in March 2020. It includes webpages from the University's campuses worldwide that represent advocacy, information, policies, protest, research, and scholarship created by individuals and communities within NYU, including administrators, faculty, students, staff, alumni, and prospective students at the New York campus, study away sites, and the campuses in Shanghai and Abu Dhabi.</field>
+    <field name="creator_teim">New York University</field>
+    <field name="creator_teim">New York University in Abu Dhabi</field>
+    <field name="creator_teim">New York University in Shanghai</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">New York University in Abu Dhabi</field>
+    <field name="creator_ssm">New York University in Shanghai</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">New York University in Abu Dhabi</field>
+    <field name="creator_ssm">New York University in Shanghai</field>
     <field name="unitdate_normal_ssm">2020-03-10/2020-03-10</field>
     <field name="unitdate_normal_teim">2020-03-10/2020-03-10</field>
     <field name="unitdate_normal_sim">2020-03-10/2020-03-10</field>
@@ -55,6 +64,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University</field>
+    <field name="creator_sim">New York University in Abu Dhabi</field>
+    <field name="creator_sim">New York University in Shanghai</field>
     <field name="name_sim">New York University</field>
     <field name="name_sim">New York University in Abu Dhabi</field>
     <field name="name_sim">New York University in Shanghai</field>

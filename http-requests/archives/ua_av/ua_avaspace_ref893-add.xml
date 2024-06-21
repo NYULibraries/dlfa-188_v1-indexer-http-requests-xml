@@ -17,6 +17,9 @@
     <field name="unittitle_teim">NYU vs. University of Michigan</field>
     <field name="unitid_teim">AV3012</field>
     <field name="unitid_ssm">AV3012</field>
+    <field name="creator_teim">Rush Sports Films</field>
+    <field name="creator_ssm">Rush Sports Films</field>
+    <field name="creator_ssm">Rush Sports Films</field>
     <field name="unitdate_normal_ssm">1963/1963</field>
     <field name="unitdate_normal_teim">1963/1963</field>
     <field name="unitdate_normal_sim">1963/1963</field>
@@ -40,10 +43,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: Shared University Archives 115, Item: 16</field>
-    <field name="location_ssm">Item: 16</field>
     <field name="location_ssm">Box: 164, reel: AV3012 / Av_ref893</field>
-    <field name="location_ssm">reel: AV3012 / Av_ref893</field>
-    <field name="location_si">reel: AV3012 / Av_ref893</field>
+    <field name="location_si">Box: 164, reel: AV3012 / Av_ref893</field>
+    <field name="creator_sim">Rush Sports Films</field>
     <field name="name_sim">Rush Sports Films</field>
     <field name="name_sim">University of Michigan</field>
     <field name="name_sim">New York University -- Sports</field>

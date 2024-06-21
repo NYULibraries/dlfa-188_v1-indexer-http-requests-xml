@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">East Side of Sixth Avenue looking south from West 4th Street</field>
     <field name="unittitle_teim">East Side of Sixth Avenue looking south from West 4th Street</field>
@@ -33,15 +33,13 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 177, Folder: 10</field>
-    <field name="location_ssm">Folder: 10, Item: 16</field>
-    <field name="location_ssm">Item: 16</field>
-    <field name="location_si">Item: 16</field>
+    <field name="location_ssm">Box: 177, Folder: 10, Item: 16</field>
+    <field name="location_si">Box: 177, Folder: 10, Item: 16</field>
     <field name="dao_sim">Online Access</field>
     <field name="place_ssm">Greenwich Village (New York, N.Y.)</field>
     <field name="place_sim">Greenwich Village (New York, N.Y.)</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Area</field>
     <field name="series_sim">MacDougal Street</field>
     <field name="series_si">Washington Square Area &gt;&gt; MacDougal Street &gt;&gt; East Side of Sixth Avenue looking south from West 4th Street</field>

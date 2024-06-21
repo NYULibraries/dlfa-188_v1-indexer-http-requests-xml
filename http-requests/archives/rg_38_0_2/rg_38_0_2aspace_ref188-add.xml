@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Office of the Associate Dean of Libraries</field>
     <field name="collection_ssm">Records of the Office of the Associate Dean of Libraries</field>
-    <field name="collection_unitid_ssm">RG.38.0.2/repositories/6/resources/2195</field>
+    <field name="collection_unitid_ssm">RG.38.0.2</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">NOTIS Customers</field>
     <field name="unittitle_teim">NOTIS Customers</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 11</field>
-    <field name="location_ssm">Folder: 11</field>
-    <field name="location_si">Folder: 11</field>
+    <field name="location_si">Box: 3, Folder: 11</field>
     <field name="collection_teim">Records of the Office of the Associate Dean of Libraries</field>
-    <field name="collection_unitid_teim">RG.38.0.2/repositories/6/resources/2195</field>
+    <field name="collection_unitid_teim">RG.38.0.2</field>
     <field name="series_sim">Series I: Correspondence</field>
     <field name="series_sim">Subseries I: Accession 01-007</field>
     <field name="series_si">Series I: Correspondence &gt;&gt; Subseries I: Accession 01-007 &gt;&gt; NOTIS Customers</field>

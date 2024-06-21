@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MC.70</field>
     <field name="abstract_teim">This collection consists of seven bound guest books recording visitors to New York University's (NYU) University Archives and other NYU locations.</field>
     <field name="abstract_ssm">This collection consists of seven bound guest books recording visitors to New York University's (NYU) University Archives and other NYU locations.</field>
+    <field name="creator_teim">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
     <field name="unitdate_normal_ssm">1911/1989</field>
     <field name="unitdate_normal_teim">1911/1989</field>
     <field name="unitdate_normal_sim">1911/1989</field>
@@ -33,6 +36,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University Archives</field>
     <field name="name_sim">New York University Archives</field>
     <field name="name_teim">New York University Archives</field>
     <field name="material_type_sim">Visitors' books.</field>

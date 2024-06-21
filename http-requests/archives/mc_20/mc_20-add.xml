@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MC.20</field>
     <field name="abstract_teim">The American and Foreign Christian Union (AFCU) was founded in 1849 as an interdenominational organization with the purpose of converting Roman Catholics to evangelical Protestantism. Headquartered in New York City, the AFCU was founded by the union of the American Protestant Society (1844-1849), the Christian Alliance (1842-1849), and the Foreign Evangelical Society (1839-1849). The AFCU employed domestic missionaries; supported individual missionary efforts and kindred societies in Europe, Canada, and South America; published a monthly journal, The Christian World (1850-1884). In 1884 the AFCU discontinued its active missionary work but continued to support the American Church in Paris.</field>
     <field name="abstract_ssm">The American and Foreign Christian Union (AFCU) was founded in 1849 as an interdenominational organization with the purpose of converting Roman Catholics to evangelical Protestantism. Headquartered in New York City, the AFCU was founded by the union of the American Protestant Society (1844-1849), the Christian Alliance (1842-1849), and the Foreign Evangelical Society (1839-1849). The AFCU employed domestic missionaries; supported individual missionary efforts and kindred societies in Europe, Canada, and South America; published a monthly journal, The Christian World (1850-1884). In 1884 the AFCU discontinued its active missionary work but continued to support the American Church in Paris.</field>
+    <field name="creator_teim">American and Foreign Christian Union</field>
+    <field name="creator_ssm">American and Foreign Christian Union</field>
+    <field name="creator_ssm">American and Foreign Christian Union</field>
     <field name="unitdate_normal_ssm">1851/1884</field>
     <field name="unitdate_normal_teim">1851/1884</field>
     <field name="unitdate_normal_sim">1851/1884</field>
@@ -249,6 +252,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">American and Foreign Christian Union</field>
     <field name="name_sim">American and Foreign Christian Union</field>
     <field name="name_sim">Roman Catholics</field>
     <field name="name_sim">AFCU,</field>

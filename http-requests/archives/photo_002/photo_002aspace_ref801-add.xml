@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Historic Photographs and Drawings Collection</field>
     <field name="collection_ssm">Historic Photographs and Drawings Collection</field>
-    <field name="collection_unitid_ssm">Photo.002/repositories/6/resources/2115</field>
+    <field name="collection_unitid_ssm">Photo.002</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Chemistry Lab</field>
     <field name="unittitle_teim">Chemistry Lab</field>
@@ -27,11 +27,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 2, Item: 18</field>
-    <field name="location_ssm">Item: 18</field>
-    <field name="location_si">Item: 18</field>
+    <field name="location_si">Box: 2, Item: 18</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Historic Photographs and Drawings Collection</field>
-    <field name="collection_unitid_teim">Photo.002/repositories/6/resources/2115</field>
+    <field name="collection_unitid_teim">Photo.002</field>
     <field name="series_sim">Series II: Glass Plates</field>
     <field name="series_si">Series II: Glass Plates &gt;&gt; Chemistry Lab</field>
     <field name="heading_ssm">Chemistry Lab</field>

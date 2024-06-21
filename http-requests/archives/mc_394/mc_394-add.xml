@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Joseph Delafield Mineral Collection Catalog</field>
     <field name="unittitle_ssm">Joseph Delafield Mineral Collection Catalog</field>
     <field name="unitid_teim">MC.394</field>
-    <field name="unitid_teim">/repositories/6/resources/3477</field>
     <field name="unitid_ssm">MC.394</field>
-    <field name="unitid_ssm">/repositories/6/resources/3477</field>
     <field name="abstract_teim">Joseph Delafield (1790-1875) was a lawyer, veteran of the War of 1812, and a member of the University Council at the time of the founding of New York University. He collected minerals and was an active member of scientific associations in the United States and Europe. This collection includes a catalog of his collection of minerals, as well as correspondence and sales catalogs related to minerology and mineral collecting in the 19th century.</field>
     <field name="abstract_ssm">Joseph Delafield (1790-1875) was a lawyer, veteran of the War of 1812, and a member of the University Council at the time of the founding of New York University. He collected minerals and was an active member of scientific associations in the United States and Europe. This collection includes a catalog of his collection of minerals, as well as correspondence and sales catalogs related to minerology and mineral collecting in the 19th century.</field>
+    <field name="creator_teim">Delafield, Joseph, 1790-1875</field>
+    <field name="creator_ssm">Delafield, Joseph, 1790-1875</field>
+    <field name="creator_ssm">Delafield, Joseph, 1790-1875</field>
     <field name="unitdate_normal_ssm">1842/1902</field>
     <field name="unitdate_normal_teim">1842/1902</field>
     <field name="unitdate_normal_sim">1842/1902</field>
@@ -40,6 +41,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Delafield, Joseph, 1790-1875</field>
     <field name="name_sim">Delafield, Joseph, 1790-1875</field>
     <field name="name_teim">Delafield, Joseph, 1790-1875</field>
     <field name="subject_sim">Collectors and collecting.</field>

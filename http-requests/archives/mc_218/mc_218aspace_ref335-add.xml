@@ -17,6 +17,9 @@
     <field name="unittitle_teim">Plate 97</field>
     <field name="unitid_teim">ssh_97</field>
     <field name="unitid_ssm">ssh_97</field>
+    <field name="creator_teim">Sailors' Snug Harbor (Institution)</field>
+    <field name="creator_ssm">Sailors' Snug Harbor (Institution)</field>
+    <field name="creator_ssm">Sailors' Snug Harbor (Institution)</field>
     <field name="unitdate_normal_ssm">1895/1905</field>
     <field name="unitdate_normal_teim">1895/1905</field>
     <field name="unitdate_normal_sim">1895/1905</field>
@@ -32,8 +35,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 14, Item: 3</field>
-    <field name="location_ssm">Item: 3</field>
-    <field name="location_si">Item: 3</field>
+    <field name="location_si">Box: 14, Item: 3</field>
+    <field name="creator_sim">Sailors' Snug Harbor (Institution)</field>
     <field name="name_sim">Sailors' Snug Harbor (Institution)</field>
     <field name="name_teim">Sailors' Snug Harbor (Institution)</field>
     <field name="dao_sim">Online Access</field>

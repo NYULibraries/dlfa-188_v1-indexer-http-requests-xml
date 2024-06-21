@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Building Drawings and Large-Format Materials</field>
     <field name="collection_ssm">New York University Archives Collection of Building Drawings and Large-Format Materials</field>
-    <field name="collection_unitid_ssm">OS/repositories/6/resources/2114</field>
+    <field name="collection_unitid_ssm">OS</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Sawhill, John</field>
     <field name="unittitle_teim">Sawhill, John</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: Shared University Archives 126, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: Shared University Archives 126, Folder: 1</field>
     <field name="collection_teim">New York University Archives Collection of Building Drawings and Large-Format Materials</field>
-    <field name="collection_unitid_teim">OS/repositories/6/resources/2114</field>
+    <field name="collection_unitid_teim">OS</field>
     <field name="series_sim">Series V: Images and Photographs</field>
     <field name="series_si">Series V: Images and Photographs &gt;&gt; Sawhill, John</field>
     <field name="heading_ssm">Sawhill, John</field>

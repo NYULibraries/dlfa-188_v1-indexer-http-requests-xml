@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Eucleian Society</field>
     <field name="collection_ssm">Records of the Eucleian Society</field>
-    <field name="collection_unitid_ssm">RG.39.1/repositories/6/resources/2201</field>
+    <field name="collection_unitid_ssm">RG.39.1</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Farewell addresses</field>
     <field name="unittitle_teim">Farewell addresses</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 11, Folder: 8</field>
-    <field name="location_ssm">Folder: 8</field>
-    <field name="location_si">Folder: 8</field>
+    <field name="location_si">Box: 11, Folder: 8</field>
     <field name="collection_teim">Records of the Eucleian Society</field>
-    <field name="collection_unitid_teim">RG.39.1/repositories/6/resources/2201</field>
+    <field name="collection_unitid_teim">RG.39.1</field>
     <field name="series_sim">Series 1: Official records and correspondence</field>
     <field name="series_si">Series 1: Official records and correspondence &gt;&gt; Farewell addresses</field>
     <field name="heading_ssm">Farewell addresses</field>

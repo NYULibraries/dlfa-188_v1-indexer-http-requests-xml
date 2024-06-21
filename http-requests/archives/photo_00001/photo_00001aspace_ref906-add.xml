@@ -17,7 +17,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Pencil Drawing of Washington Square Arch, looking South</field>
     <field name="unittitle_teim">Pencil Drawing of Washington Square Arch, looking South</field>
@@ -39,13 +39,11 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 473, Folder: 5</field>
-    <field name="location_ssm">Folder: 5, Item: 12</field>
-    <field name="location_ssm">Item: 12</field>
-    <field name="location_si">Item: 12</field>
+    <field name="location_ssm">Box: 473, Folder: 5, Item: 12</field>
+    <field name="location_si">Box: 473, Folder: 5, Item: 12</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Park</field>
     <field name="series_sim">Subseries B: Arch</field>
     <field name="series_sim">Arch, 1950s</field>

@@ -17,6 +17,12 @@
     <field name="unittitle_teim">A Child Went Forth</field>
     <field name="unitid_teim">AV5142</field>
     <field name="unitid_ssm">AV5142</field>
+    <field name="creator_teim">New York University</field>
+    <field name="creator_teim">Leaf, Munro, 1905-1976</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">Leaf, Munro, 1905-1976</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">Leaf, Munro, 1905-1976</field>
     <field name="unitdate_normal_ssm">1950/1979</field>
     <field name="unitdate_normal_teim">1950/1979</field>
     <field name="unitdate_normal_sim">1950/1979</field>
@@ -32,8 +38,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: n/a, reel: 5142</field>
-    <field name="location_ssm">reel: 5142</field>
-    <field name="location_si">reel: 5142</field>
+    <field name="location_si">Box: n/a, reel: 5142</field>
+    <field name="creator_sim">New York University</field>
+    <field name="creator_sim">Leaf, Munro, 1905-1976</field>
     <field name="name_sim">New York University</field>
     <field name="name_sim">Leaf, Munro, 1905-1976</field>
     <field name="name_teim">New York University</field>

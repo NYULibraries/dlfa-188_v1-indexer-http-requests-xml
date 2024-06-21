@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the James Arthur Collection of Clocks and Watches</field>
     <field name="collection_ssm">Records of the James Arthur Collection of Clocks and Watches</field>
-    <field name="collection_unitid_ssm">RG.42.1/repositories/6/resources/2217</field>
+    <field name="collection_unitid_ssm">RG.42.1</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Reports - May, 1930 (2 copies); Nov., 1930 (2 copies); April, 1931 (2 copies); Nov. 1933 (2 copies)</field>
     <field name="unittitle_teim">Reports - May, 1930 (2 copies); Nov., 1930 (2 copies); April, 1931 (2 copies); Nov. 1933 (2 copies)</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 3, Folder: 3</field>
     <field name="collection_teim">Records of the James Arthur Collection of Clocks and Watches</field>
-    <field name="collection_unitid_teim">RG.42.1/repositories/6/resources/2217</field>
+    <field name="collection_unitid_teim">RG.42.1</field>
     <field name="series_sim">Series III: Reports from the Curator and report summaries</field>
     <field name="series_si">Series III: Reports from the Curator and report summaries &gt;&gt; Reports - May, 1930 (2 copies); Nov., 1930 (2 copies); April, 1931 (2 copies); Nov. 1933 (2 copies)</field>
     <field name="heading_ssm">Reports - May, 1930 (2 copies); Nov., 1930 (2 copies); April, 1931 (2 copies); Nov. 1933 (2 copies)</field>

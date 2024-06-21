@@ -14,7 +14,7 @@
     <field name="component_children_bsi">true</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">General Views - Acrylic Painting, undated</field>
     <field name="unittitle_teim">General Views - Acrylic Painting, undated</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 215, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 215, Folder: 1</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Park</field>
     <field name="series_sim">Subseries G: General Views</field>
     <field name="series_si">Washington Square Park &gt;&gt; Subseries G: General Views &gt;&gt; General Views - Acrylic Painting, undated</field>

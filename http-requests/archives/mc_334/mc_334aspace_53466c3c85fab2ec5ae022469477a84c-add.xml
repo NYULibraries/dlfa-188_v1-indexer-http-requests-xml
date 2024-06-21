@@ -7,7 +7,7 @@
     <field name="component_children_bsi">true</field>
     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_ssm">MC.334</field>
     <field name="level_sim">series</field>
     <field name="unittitle_ssm">RG 39.67. International Socialist Organization</field>
     <field name="unittitle_teim">RG 39.67. International Socialist Organization</field>
@@ -24,7 +24,7 @@
     <field name="format_sim">Archival Series</field>
     <field name="format_ssm">Archival Series</field>
     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_teim">MC.334</field>
     <field name="series_si">RG 39.67. International Socialist Organization</field>
     <field name="heading_ssm">RG 39.67. International Socialist Organization</field>
     <field name="unitdate_start_sim">1987</field>
@@ -35,6 +35,6 @@
     <field name="unitdate_end_si">1987</field>
     <field name="unitdate_ssm">1987</field>
     <field name="date_range_sim">1901-2000</field>
-    <field name="sort_ii">1878</field>
+    <field name="sort_ii">1875</field>
   </doc>
 </add>

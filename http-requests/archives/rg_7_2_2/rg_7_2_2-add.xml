@@ -9,6 +9,9 @@
     <field name="unitid_ssm">RG.7.2.2</field>
     <field name="abstract_teim">The NYU Photo Bureau offers photographic services to the New York University (NYU) community through portraits of staff, students, and trustees, many of which are used in NYU-related publications and marketing material. These records contain images, NYU printed matter, and administrative files for the NYU Photo Bureau Department, dating from 1952 and 1970 to 2009.</field>
     <field name="abstract_ssm">The NYU Photo Bureau offers photographic services to the New York University (NYU) community through portraits of staff, students, and trustees, many of which are used in NYU-related publications and marketing material. These records contain images, NYU printed matter, and administrative files for the NYU Photo Bureau Department, dating from 1952 and 1970 to 2009.</field>
+    <field name="creator_teim">New York University. Photo Bureau</field>
+    <field name="creator_ssm">New York University. Photo Bureau</field>
+    <field name="creator_ssm">New York University. Photo Bureau</field>
     <field name="unitdate_normal_ssm">1952/2014</field>
     <field name="unitdate_normal_teim">1952/2014</field>
     <field name="unitdate_normal_sim">1952/2014</field>
@@ -52,6 +55,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University. Photo Bureau</field>
     <field name="name_sim">New York University. Photo Bureau</field>
     <field name="name_teim">New York University. Photo Bureau</field>
     <field name="subject_sim">College students -- New York (N.Y.)</field>

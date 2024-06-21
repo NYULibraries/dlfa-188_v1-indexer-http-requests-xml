@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Julius Silver Papers</field>
     <field name="unittitle_ssm">Julius Silver Papers</field>
     <field name="unitid_teim">MC.165</field>
-    <field name="unitid_teim">/repositories/6/resources/1976</field>
     <field name="unitid_ssm">MC.165</field>
-    <field name="unitid_ssm">/repositories/6/resources/1976</field>
     <field name="abstract_teim">Julius Silver graduated from New York University's University College of Arts and Science in 1922.  After graduating from Columbia University's School of Law, Silver served as partner in a law firm and also as vice-president of the Polaroid Corporation. Throughout his life, Silver donated generously to a variety of universities and research centers. His papers primarily focus on his business and philanthropic activities, including the construction of NYU residential centers, Columbia's Silver Center of Law, Science, and Technology, and the Julius Silver Institute of Biomedical Engineering Sciences at Technion-Israel Institute of Technology.</field>
     <field name="abstract_ssm">Julius Silver graduated from New York University's University College of Arts and Science in 1922.  After graduating from Columbia University's School of Law, Silver served as partner in a law firm and also as vice-president of the Polaroid Corporation. Throughout his life, Silver donated generously to a variety of universities and research centers. His papers primarily focus on his business and philanthropic activities, including the construction of NYU residential centers, Columbia's Silver Center of Law, Science, and Technology, and the Julius Silver Institute of Biomedical Engineering Sciences at Technion-Israel Institute of Technology.</field>
+    <field name="creator_teim">Silver, Julius</field>
+    <field name="creator_ssm">Silver, Julius</field>
+    <field name="creator_ssm">Silver, Julius</field>
     <field name="unitdate_normal_ssm">1945/1990</field>
     <field name="unitdate_normal_ssm">1962/1980</field>
     <field name="unitdate_normal_teim">1945/1990</field>
@@ -53,6 +54,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Silver, Julius</field>
     <field name="name_sim">Columbia University. School of Law</field>
     <field name="name_sim">New York University. University College of Arts and Pure Science</field>
     <field name="name_sim">Jewish Theological Seminary of America</field>

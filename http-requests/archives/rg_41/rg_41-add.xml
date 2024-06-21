@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Records of Athletics Programs at New York University</field>
     <field name="unittitle_ssm">Records of Athletics Programs at New York University</field>
     <field name="unitid_teim">RG.41</field>
-    <field name="unitid_teim">/repositories/6/resources/2216</field>
     <field name="unitid_ssm">RG.41</field>
-    <field name="unitid_ssm">/repositories/6/resources/2216</field>
     <field name="abstract_teim">This collection contains the records of the New York University Athletics Department, including materials related to intercollegiate and intramural teams, player information, newspaper clippings, press releases, photographs, and team rosters and schedules. The collection spans from approximately 1889 to the 2010s.</field>
     <field name="abstract_ssm">This collection contains the records of the New York University Athletics Department, including materials related to intercollegiate and intramural teams, player information, newspaper clippings, press releases, photographs, and team rosters and schedules. The collection spans from approximately 1889 to the 2010s.</field>
+    <field name="creator_teim">New York University. Athletics Department</field>
+    <field name="creator_ssm">New York University. Athletics Department</field>
+    <field name="creator_ssm">New York University. Athletics Department</field>
     <field name="unitdate_normal_ssm">1889/2015</field>
     <field name="unitdate_normal_teim">1889/2015</field>
     <field name="unitdate_normal_sim">1889/2015</field>
@@ -91,6 +92,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University. Athletics Department</field>
     <field name="name_sim">New York University. Athletics Department</field>
     <field name="name_sim">New York University</field>
     <field name="name_sim">New York University -- Sports</field>

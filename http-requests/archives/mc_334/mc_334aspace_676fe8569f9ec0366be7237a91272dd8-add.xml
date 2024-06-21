@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_ssm">MC.334</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Promotional Material and Ephemera -- Posters</field>
     <field name="unittitle_teim">Promotional Material and Ephemera -- Posters</field>
@@ -28,12 +28,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 195, Folder: 13</field>
-    <field name="location_ssm">Folder: 13</field>
     <field name="location_ssm">Box: 167, Folder: 10</field>
-    <field name="location_ssm">Folder: 10</field>
-    <field name="location_si">Folder: 10</field>
+    <field name="location_si">Box: 167, Folder: 10</field>
     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_teim">MC.334</field>
     <field name="series_sim">RG 26.11. Center for Music Performance / Department of Music and Performing Arts Professions</field>
     <field name="series_si">RG 26.11. Center for Music Performance / Department of Music and Performing Arts Professions &gt;&gt; Promotional Material and Ephemera -- Posters</field>
     <field name="heading_ssm">Promotional Material and Ephemera -- Posters</field>
@@ -45,6 +43,6 @@
     <field name="unitdate_end_si">2006</field>
     <field name="unitdate_ssm">Inclusive, 2005-2006, 2010</field>
     <field name="date_range_sim">2001-2100</field>
-    <field name="sort_ii">1075</field>
+    <field name="sort_ii">1072</field>
   </doc>
 </add>

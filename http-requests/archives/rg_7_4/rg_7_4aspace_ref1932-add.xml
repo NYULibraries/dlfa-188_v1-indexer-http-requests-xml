@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Office of External Affairs, Commencement and Special Events</field>
     <field name="collection_ssm">Records of the Office of External Affairs, Commencement and Special Events</field>
-    <field name="collection_unitid_ssm">RG.7.4/repositories/6/resources/2246</field>
+    <field name="collection_unitid_ssm">RG.7.4</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Instructions for Students Procession Marshals</field>
     <field name="unittitle_teim">Instructions for Students Procession Marshals</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 42, Folder: 18</field>
-    <field name="location_ssm">Folder: 18</field>
-    <field name="location_si">Folder: 18</field>
+    <field name="location_si">Box: 42, Folder: 18</field>
     <field name="collection_teim">Records of the Office of External Affairs, Commencement and Special Events</field>
-    <field name="collection_unitid_teim">RG.7.4/repositories/6/resources/2246</field>
+    <field name="collection_unitid_teim">RG.7.4</field>
     <field name="series_sim">Series III: Commencement</field>
     <field name="series_si">Series III: Commencement &gt;&gt; Instructions for Students Procession Marshals</field>
     <field name="heading_ssm">Instructions for Students Procession Marshals</field>

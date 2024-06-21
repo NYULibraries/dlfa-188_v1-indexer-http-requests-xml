@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Pot - Pz</field>
     <field name="unittitle_teim">Pot - Pz</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: IV:21, Folder: 45</field>
-    <field name="location_ssm">Folder: 45</field>
-    <field name="location_si">Folder: 45</field>
+    <field name="location_si">Box: IV:21, Folder: 45</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series IV: Office Administration</field>
     <field name="series_sim">Subseries II: Correspondence</field>
     <field name="series_si">Series IV: Office Administration &gt;&gt; Subseries II: Correspondence &gt;&gt; Pot - Pz</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MC.346</field>
     <field name="abstract_teim">The New York University Archives Collection of Minutes was created by the University Archives to group together minutes documenting meetings of various university entities.  Groups represented in this collection include the University Senate; university officers; the medical, dental, education, professional, and engineering schools; the College of Arts and Sciences; and the Student Council.  Material dates from 1832 to 2016.</field>
     <field name="abstract_ssm">The New York University Archives Collection of Minutes was created by the University Archives to group together minutes documenting meetings of various university entities.  Groups represented in this collection include the University Senate; university officers; the medical, dental, education, professional, and engineering schools; the College of Arts and Sciences; and the Student Council.  Material dates from 1832 to 2016.</field>
+    <field name="creator_teim">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
     <field name="unitdate_normal_ssm">1832/2016</field>
     <field name="unitdate_normal_teim">1832/2016</field>
     <field name="unitdate_normal_sim">1832/2016</field>
@@ -36,6 +39,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University Archives</field>
     <field name="name_sim">New York University Archives</field>
     <field name="name_teim">New York University Archives</field>
     <field name="subject_sim">College administrators -- United States</field>

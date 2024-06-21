@@ -9,6 +9,9 @@
     <field name="unitid_ssm">RG.12.3</field>
     <field name="abstract_teim">This collection contains websites related to undergraduate admissions to attract new students to the university and help adjust them to NYU life.</field>
     <field name="abstract_ssm">This collection contains websites related to undergraduate admissions to attract new students to the university and help adjust them to NYU life.</field>
+    <field name="creator_teim">New York University</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">New York University</field>
     <field name="unitdate_normal_ssm">2013/2013</field>
     <field name="unitdate_normal_teim">2013/2013</field>
     <field name="unitdate_normal_sim">2013/2013</field>
@@ -38,6 +41,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University</field>
     <field name="name_sim">New York University</field>
     <field name="name_teim">New York University</field>
     <field name="subject_sim">Universities and Colleges -- Admission.</field>

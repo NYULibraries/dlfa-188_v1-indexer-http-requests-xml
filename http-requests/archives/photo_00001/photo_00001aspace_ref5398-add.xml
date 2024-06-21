@@ -11,7 +11,7 @@
     <field name="component_children_bsi">true</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">University Building - Exterior, 1850, Hoff View</field>
     <field name="unittitle_teim">University Building - Exterior, 1850, Hoff View</field>
@@ -32,14 +32,13 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 246, Folder: 12</field>
-    <field name="location_ssm">Folder: 12</field>
-    <field name="location_si">Folder: 12</field>
+    <field name="location_si">Box: 246, Folder: 12</field>
     <field name="name_sim">New York University -- Buildings</field>
     <field name="name_teim">New York University -- Buildings</field>
     <field name="place_ssm">Washington Square (New York, N.Y.)</field>
     <field name="place_sim">Washington Square (New York, N.Y.)</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">University Building</field>
     <field name="series_si">University Building &gt;&gt; University Building - Exterior, 1850, Hoff View</field>
     <field name="heading_ssm">University Building - Exterior, 1850, Hoff View</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">South Side of Washington Mews, Looking East</field>
     <field name="unittitle_teim">South Side of Washington Mews, Looking East</field>
@@ -22,6 +22,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/636271</field>
     <field name="unitid_ssm">wsa_3_13_08</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/636271</field>
+    <field name="creator_teim">Simmons, William</field>
+    <field name="creator_ssm">Simmons, William</field>
+    <field name="creator_ssm">Simmons, William</field>
     <field name="unitdate_normal_ssm">1955/1955</field>
     <field name="unitdate_normal_teim">1955/1955</field>
     <field name="unitdate_normal_sim">1955/1955</field>
@@ -40,10 +43,9 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 177, Folder: 13</field>
-    <field name="location_ssm">Folder: 13, Item: 8</field>
-    <field name="location_ssm">Item: 8</field>
-    <field name="location_si">Item: 8</field>
+    <field name="location_ssm">Box: 177, Folder: 13, Item: 8</field>
+    <field name="location_si">Box: 177, Folder: 13, Item: 8</field>
+    <field name="creator_sim">Simmons, William</field>
     <field name="name_sim">Simmons, William</field>
     <field name="name_teim">Simmons, William</field>
     <field name="dao_sim">Online Access</field>
@@ -52,7 +54,7 @@
     <field name="place_sim">Greenwich Village (New York, N.Y.)</field>
     <field name="place_sim">Washington Square (New York, N.Y.)</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Area</field>
     <field name="series_sim">New Sailors' Snug Harbor Properties</field>
     <field name="series_si">Washington Square Area &gt;&gt; New Sailors' Snug Harbor Properties &gt;&gt; South Side of Washington Mews, Looking East</field>

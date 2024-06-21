@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Brademas Host South Bend Blacks" South Bend Communicator</field>
     <field name="unittitle_teim">"Brademas Host South Bend Blacks" South Bend Communicator</field>
@@ -32,10 +32,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: III:20, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: III:20, Folder: 1</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series III: Media</field>
     <field name="series_sim">Subseries IV: Clippings</field>
     <field name="series_si">Series III: Media &gt;&gt; Subseries IV: Clippings &gt;&gt; "Brademas Host South Bend Blacks" South Bend Communicator</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Bayrd Still Papers</field>
     <field name="unittitle_ssm">Bayrd Still Papers</field>
     <field name="unitid_teim">MC.44</field>
-    <field name="unitid_teim">/repositories/6/resources/2063</field>
     <field name="unitid_ssm">MC.44</field>
-    <field name="unitid_ssm">/repositories/6/resources/2063</field>
     <field name="abstract_teim">From 1947 to 1987, Bayrd Still served New York University (NYU) as historian, archivist, teacher, and administrator. An authority on urban history and development, Still also studied landmark preservation in New York City. This collection documents Still's professional life at NYU. It also contains some personal materials.</field>
     <field name="abstract_ssm">From 1947 to 1987, Bayrd Still served New York University (NYU) as historian, archivist, teacher, and administrator. An authority on urban history and development, Still also studied landmark preservation in New York City. This collection documents Still's professional life at NYU. It also contains some personal materials.</field>
+    <field name="creator_teim">Still, Bayrd</field>
+    <field name="creator_ssm">Still, Bayrd</field>
+    <field name="creator_ssm">Still, Bayrd</field>
     <field name="unitdate_normal_ssm">1926/1988</field>
     <field name="unitdate_normal_ssm">1950/1980</field>
     <field name="unitdate_normal_teim">1926/1988</field>
@@ -29,7 +30,7 @@
     <field name="bioghist_teim">Sources: </field>
     <field name="bioghist_teim">New York Community Trust, "The Heritage of New York". (New York: Fordham University Press): xviiiKald, Milt "Meeting The Guardian of NYU's Past." Washington Square News. (September 29, 1980): 3 Bayrd Still: vita </field>
     <field name="acqinfo_teim">Given to University Archives by Bayrd Still in 1985. One student notebook in Series VIII was transferred to the University Archives in 1993 by Fred Schult, the Director of Undergraduate Studies in the Department of History. It was added to Series I, Subseries D, of this collection in 2016. The accession number related to this collection is 85.033.</field>
-    <field name="acqinfo_teim">Materials found in Series III: NYC Research, Subseries D: Mirror For Gotham Research Materials were transferred from the New York University Archives Photograph Collection (PHOTO.00001) in May 2024. The accession number associated with this accretion is 2024.031.</field>
+    <field name="acqinfo_teim">Materials found in Series III: NYC Research, Subseries D: Mirror For Gotham Research Materials were transferred from the New York University Archives Photograph Collection (PHOTO 00001) in May 2024. The accession number associated with this accretion is 2024.031.</field>
     <field name="corpname_teim">New York University Archives</field>
     <field name="corpname_teim">New York University. Council</field>
     <field name="corpname_teim">New York University -- Faculty -- History</field>
@@ -90,6 +91,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Still, Bayrd</field>
     <field name="name_sim">New York University. Council</field>
     <field name="name_sim">New York University -- Faculty -- History</field>
     <field name="name_sim">New York Community Trust</field>

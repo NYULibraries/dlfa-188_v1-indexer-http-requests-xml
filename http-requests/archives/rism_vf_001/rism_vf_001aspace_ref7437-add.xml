@@ -18,6 +18,9 @@
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Explanation of the Map of the Island of Grenada made by Thomas Jeffereys, 1760</field>
     <field name="unittitle_teim">Explanation of the Map of the Island of Grenada made by Thomas Jeffereys, 1760</field>
+    <field name="creator_teim">Jeffreys, Thomas</field>
+    <field name="creator_ssm">Jeffreys, Thomas</field>
+    <field name="creator_ssm">Jeffreys, Thomas</field>
     <field name="unitdate_normal_ssm">1780/1780</field>
     <field name="unitdate_normal_teim">1780/1780</field>
     <field name="unitdate_normal_sim">1780/1780</field>
@@ -34,6 +37,7 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 10</field>
     <field name="location_si">Box: 10</field>
+    <field name="creator_sim">Jeffreys, Thomas</field>
     <field name="name_sim">Jeffreys, Thomas</field>
     <field name="name_teim">Jeffreys, Thomas</field>
     <field name="place_ssm">Grenada.</field>

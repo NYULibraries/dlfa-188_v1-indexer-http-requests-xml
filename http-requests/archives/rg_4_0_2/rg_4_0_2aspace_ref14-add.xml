@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Office of the Vice President and Secretary (Pollock, Thomas)</field>
     <field name="collection_ssm">Records of the Office of the Vice President and Secretary (Pollock, Thomas)</field>
-    <field name="collection_unitid_ssm">RG.4.0.2/repositories/6/resources/2210</field>
+    <field name="collection_unitid_ssm">RG.4.0.2</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">CREF/TIAA Records, Reports, Minutes</field>
     <field name="unittitle_teim">CREF/TIAA Records, Reports, Minutes</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 2, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 2, Folder: 4</field>
     <field name="collection_teim">Records of the Office of the Vice President and Secretary (Pollock, Thomas)</field>
-    <field name="collection_unitid_teim">RG.4.0.2/repositories/6/resources/2210</field>
+    <field name="collection_unitid_teim">RG.4.0.2</field>
     <field name="series_sim">Series I</field>
     <field name="series_si">Series I &gt;&gt; CREF/TIAA Records, Reports, Minutes</field>
     <field name="heading_ssm">CREF/TIAA Records, Reports, Minutes</field>

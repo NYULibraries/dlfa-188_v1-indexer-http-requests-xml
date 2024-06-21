@@ -6,11 +6,12 @@
     <field name="unittitle_teim">New York University Archives Collection of NYU Postcards</field>
     <field name="unittitle_ssm">New York University Archives Collection of NYU Postcards</field>
     <field name="unitid_teim">MC.356</field>
-    <field name="unitid_teim">/repositories/6/resources/3381</field>
     <field name="unitid_ssm">MC.356</field>
-    <field name="unitid_ssm">/repositories/6/resources/3381</field>
     <field name="abstract_teim">The New York University Archives serves as the final repository for the historical records of NYU. Its primary purpose is to document the history of the University and to provide source material for administrators, faculty, students, alumni, and other members of the University community, as well as scholars, authors, and other interested persons who seek to evaluate the impact of the University's activities on the history of American social, cultural, and intellectual development. The New York University Archives Collection of NYU Postcards consists of three undated postcards and one copper plate related to NYU's Camp Sebago. The collection also contains several postcards depicting Washington Square Park, Washington Square campus buildings, and University Heights campus buildings.</field>
     <field name="abstract_ssm">The New York University Archives serves as the final repository for the historical records of NYU. Its primary purpose is to document the history of the University and to provide source material for administrators, faculty, students, alumni, and other members of the University community, as well as scholars, authors, and other interested persons who seek to evaluate the impact of the University's activities on the history of American social, cultural, and intellectual development. The New York University Archives Collection of NYU Postcards consists of three undated postcards and one copper plate related to NYU's Camp Sebago. The collection also contains several postcards depicting Washington Square Park, Washington Square campus buildings, and University Heights campus buildings.</field>
+    <field name="creator_teim">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
     <field name="unitdate_normal_ssm">1907/1983</field>
     <field name="unitdate_normal_teim">1907/1983</field>
     <field name="unitdate_normal_sim">1907/1983</field>
@@ -18,7 +19,7 @@
     <field name="scopecontent_teim">The New York University Archives Collection of NYU Postcards consists of three undated postcards and one copper plate related to NYU's Camp Sebago. The collection also contains several postcards depicting Washington Square Park, Washington Square campus buildings, and University Heights campus buildings.</field>
     <field name="bioghist_teim">The New York University Archives serves as the final repository for the historical records of NYU. Its primary purpose is to document the history of the University and to provide source material for administrators, faculty, students, alumni, and other members of the University community, as well as scholars, authors, and other interested persons who seek to evaluate the impact of the University's activities on the history of American social, cultural, and intellectual development.</field>
     <field name="acqinfo_teim">The provenance of these materials is unknown. Items were received in the mail with no letter or return address in January 2021. The accession number associated with this gift is 2022.023.</field>
-    <field name="acqinfo_teim">In May 2024, the folder entitled "Washington Square Park, Washington Square Campus, and University Heights Campus" was transferred from the New York University Archives Photograph Collection (PHOTO.00001). The accession number associated with this accretion is 2024.033.</field>
+    <field name="acqinfo_teim">In May 2024, the folder entitled "Washington Square Park, Washington Square Campus, and University Heights Campus" was transferred from the New York University Archives Photograph Collection (PHOTO 00001). The accession number associated with this accretion is 2024.033.</field>
     <field name="corpname_teim">New York University Archives</field>
     <field name="corpname_teim">New York University Archives</field>
     <field name="corpname_teim">New York University</field>
@@ -44,6 +45,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University Archives</field>
     <field name="name_sim">New York University Archives</field>
     <field name="name_sim">New York University</field>
     <field name="name_teim">New York University Archives</field>

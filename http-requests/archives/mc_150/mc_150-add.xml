@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Richard Courant Papers</field>
     <field name="unittitle_ssm">Richard Courant Papers</field>
     <field name="unitid_teim">MC.150</field>
-    <field name="unitid_teim">/repositories/6/resources/1964</field>
     <field name="unitid_ssm">MC.150</field>
-    <field name="unitid_ssm">/repositories/6/resources/1964</field>
     <field name="abstract_teim">Richard Courant developed New York University's graduate program in mathematics and established the Institute for Mathematical Sciences, later named for him. The collection spans the entire length of Courant's career as a mathematician from his student days in Germany to his work at NYU. It includes administrative and personal correspondence, published works as well as lecture material.</field>
     <field name="abstract_ssm">Richard Courant developed New York University's graduate program in mathematics and established the Institute for Mathematical Sciences, later named for him. The collection spans the entire length of Courant's career as a mathematician from his student days in Germany to his work at NYU. It includes administrative and personal correspondence, published works as well as lecture material.</field>
+    <field name="creator_teim">Courant, Richard, 1888-1972</field>
+    <field name="creator_ssm">Courant, Richard, 1888-1972</field>
+    <field name="creator_ssm">Courant, Richard, 1888-1972</field>
     <field name="unitdate_normal_ssm">1902/1976</field>
     <field name="unitdate_normal_ssm">1944/1971</field>
     <field name="unitdate_normal_teim">1902/1976</field>
@@ -189,6 +190,7 @@ The Nazis' rise to power meant disaster for the math and science communities in 
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Courant, Richard, 1888-1972</field>
     <field name="name_sim">Courant Institute of Mathematical Sciences</field>
     <field name="name_sim">Springer-Verlag</field>
     <field name="name_sim">American Mathematical Society</field>

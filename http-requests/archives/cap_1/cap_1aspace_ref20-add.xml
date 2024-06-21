@@ -17,6 +17,12 @@
     <field name="unittitle_teim">Photography: A Treatise on the Chemical</field>
     <field name="unitid_teim">cap1_ref20</field>
     <field name="unitid_ssm">cap1_ref20</field>
+    <field name="creator_teim">Hunt, Robert, 1807-1887</field>
+    <field name="creator_teim">John Joseph Griffin and Company</field>
+    <field name="creator_ssm">Hunt, Robert, 1807-1887</field>
+    <field name="creator_ssm">John Joseph Griffin and Company</field>
+    <field name="creator_ssm">John Joseph Griffin and Company</field>
+    <field name="creator_ssm">Hunt, Robert, 1807-1887</field>
     <field name="unitdate_teim">1851</field>
     <field name="corpname_teim">John Joseph Griffin and Company</field>
     <field name="corpname_ssm">John Joseph Griffin and Company</field>
@@ -35,6 +41,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">object: 6</field>
     <field name="location_si">object: 6</field>
+    <field name="creator_sim">John Joseph Griffin and Company</field>
+    <field name="creator_sim">Hunt, Robert, 1807-1887</field>
     <field name="name_sim">John Joseph Griffin and Company</field>
     <field name="name_sim">Hunt, Robert, 1807-1887</field>
     <field name="name_teim">John Joseph Griffin and Company</field>

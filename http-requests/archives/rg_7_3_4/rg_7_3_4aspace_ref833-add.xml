@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Office of Media Production</field>
     <field name="collection_ssm">Records of the Office of Media Production</field>
-    <field name="collection_unitid_ssm">RG.7.3.4/repositories/6/resources/2245</field>
+    <field name="collection_unitid_ssm">RG.7.3.4</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Pitch Reel Dub</field>
     <field name="unittitle_teim">Pitch Reel Dub</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 54, reel: 2</field>
-    <field name="location_ssm">reel: 2</field>
-    <field name="location_si">reel: 2</field>
+    <field name="location_si">Box: 54, reel: 2</field>
     <field name="collection_teim">Records of the Office of Media Production</field>
-    <field name="collection_unitid_teim">RG.7.3.4/repositories/6/resources/2245</field>
+    <field name="collection_unitid_teim">RG.7.3.4</field>
     <field name="series_sim">Series I: Projects</field>
     <field name="series_sim">Beat Conference (Project 0065)</field>
     <field name="series_si">Series I: Projects &gt;&gt; Beat Conference (Project 0065) &gt;&gt; Pitch Reel Dub</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Records of the College of Engineering, Research Division</field>
     <field name="unittitle_ssm">Records of the College of Engineering, Research Division</field>
     <field name="unitid_teim">RG.24.1</field>
-    <field name="unitid_teim">/repositories/6/resources/3395</field>
     <field name="unitid_ssm">RG.24.1</field>
-    <field name="unitid_ssm">/repositories/6/resources/3395</field>
     <field name="abstract_teim">The New York University School of Engineering was founded in 1854 as the School of Civil Engineering and Architecture. In 1973, the School merged with the Polytechnic Institute of Brooklyn. The Records of the College of Engineering, Research Division (dated 1936-1964) documents the College's research output, and includes project reports, as well as policy and procedure documents.</field>
     <field name="abstract_ssm">The New York University School of Engineering was founded in 1854 as the School of Civil Engineering and Architecture. In 1973, the School merged with the Polytechnic Institute of Brooklyn. The Records of the College of Engineering, Research Division (dated 1936-1964) documents the College's research output, and includes project reports, as well as policy and procedure documents.</field>
+    <field name="creator_teim">New York University. College of Engineering</field>
+    <field name="creator_ssm">New York University. College of Engineering</field>
+    <field name="creator_ssm">New York University. College of Engineering</field>
     <field name="unitdate_normal_ssm">1936/1964</field>
     <field name="unitdate_normal_teim">1936/1964</field>
     <field name="unitdate_normal_sim">1936/1964</field>
@@ -42,6 +43,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University. College of Engineering</field>
     <field name="name_sim">New York University. College of Engineering</field>
     <field name="name_teim">New York University. College of Engineering</field>
     <field name="subject_sim">Engineering -- Study and teaching</field>

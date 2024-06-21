@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Office of the University Architect/Joseph J. Roberto Collection</field>
     <field name="collection_ssm">Records of the Office of the University Architect/Joseph J. Roberto Collection</field>
-    <field name="collection_unitid_ssm">RG.11.4/repositories/6/resources/2127</field>
+    <field name="collection_unitid_ssm">RG.11.4</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Brown Building -- Plans</field>
     <field name="unittitle_teim">Brown Building -- Plans</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 42, Folder: 14</field>
-    <field name="location_ssm">Folder: 14</field>
-    <field name="location_si">Folder: 14</field>
+    <field name="location_si">Box: 42, Folder: 14</field>
     <field name="collection_teim">Records of the Office of the University Architect/Joseph J. Roberto Collection</field>
-    <field name="collection_unitid_teim">RG.11.4/repositories/6/resources/2127</field>
+    <field name="collection_unitid_teim">RG.11.4</field>
     <field name="series_sim">Series XVII: Blueprints</field>
     <field name="series_sim">Subseries III: OTHER UNIVERSITY CENTERS</field>
     <field name="series_si">Series XVII: Blueprints &gt;&gt; Subseries III: OTHER UNIVERSITY CENTERS &gt;&gt; Brown Building -- Plans</field>

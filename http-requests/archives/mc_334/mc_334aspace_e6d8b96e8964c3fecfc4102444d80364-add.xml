@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_ssm">MC.334</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">
       &lt;em&gt;The New York University Lancet&lt;/em&gt;
@@ -32,11 +32,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 186, Item: 4</field>
-    <field name="location_ssm">Item: 4</field>
     <field name="location_ssm">Box: 187, Item: 4</field>
-    <field name="location_si">Item: 4</field>
+    <field name="location_si">Box: 187, Item: 4</field>
     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_teim">MC.334</field>
     <field name="series_sim">RG 23.0. Robert I. Grossman School of Medicine</field>
     <field name="series_si">RG 23.0. Robert I. Grossman School of Medicine &gt;&gt; 
       &lt;em&gt;The New York University Lancet&lt;/em&gt;
@@ -52,6 +51,6 @@
     <field name="unitdate_end_si">1842</field>
     <field name="unitdate_ssm">1842</field>
     <field name="date_range_sim">1801-1900</field>
-    <field name="sort_ii">900</field>
+    <field name="sort_ii">897</field>
   </doc>
 </add>

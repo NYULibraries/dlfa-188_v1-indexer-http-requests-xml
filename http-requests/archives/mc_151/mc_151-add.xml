@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MC.151</field>
     <field name="abstract_teim">The Abby Weed Grey Papers span the years 1922-1978, with the bulk of the material covering the period 1960-1974. The papers document Grey's world travels, published and unpublished works, and her collection and curation of art.</field>
     <field name="abstract_ssm">The Abby Weed Grey Papers span the years 1922-1978, with the bulk of the material covering the period 1960-1974. The papers document Grey's world travels, published and unpublished works, and her collection and curation of art.</field>
+    <field name="creator_teim">Grey, Abby Weed, 1902-1983</field>
+    <field name="creator_ssm">Grey, Abby Weed, 1902-1983</field>
+    <field name="creator_ssm">Grey, Abby Weed, 1902-1983</field>
     <field name="unitdate_normal_ssm">1922/1978</field>
     <field name="unitdate_normal_teim">1922/1978</field>
     <field name="unitdate_normal_sim">1922/1978</field>
@@ -162,6 +165,7 @@ The contents of each series and subseries are described in more detail in the se
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Grey, Abby Weed, 1902-1983</field>
     <field name="name_sim">Vassar College</field>
     <field name="name_sim">The Ben &amp; Abby Grey Foundation, Inc.</field>
     <field name="name_sim"> "Minnesota Art Portfolio" exhibit (MAP)</field>

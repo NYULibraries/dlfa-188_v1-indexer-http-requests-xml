@@ -17,6 +17,9 @@
     <field name="unittitle_teim">N.Y. Philharmonic Young People's Concert (Part I)</field>
     <field name="unitid_teim">AV5165</field>
     <field name="unitid_ssm">AV5165</field>
+    <field name="creator_teim">CBS Television Network</field>
+    <field name="creator_ssm">CBS Television Network</field>
+    <field name="creator_ssm">CBS Television Network</field>
     <field name="unitdate_teim">undated</field>
     <field name="scopecontent_teim">The University Archives does not have recordings of this content aside from this recording (labeled Part I).</field>
     <field name="corpname_teim">CBS Television Network</field>
@@ -28,9 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 146, reel: 5165</field>
-    <field name="location_ssm">reel: 5165</field>
     <field name="location_ssm">Box: 147, reel: 5165</field>
-    <field name="location_si">reel: 5165</field>
+    <field name="location_si">Box: 147, reel: 5165</field>
+    <field name="creator_sim">CBS Television Network</field>
     <field name="name_sim">CBS Television Network</field>
     <field name="name_teim">CBS Television Network</field>
     <field name="collection_teim">New York University Archives Audiovisual Collection</field>

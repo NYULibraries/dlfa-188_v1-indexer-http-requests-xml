@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Judiciary: General -1</field>
     <field name="unittitle_teim">Judiciary: General -1</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: V:14, Folder: 9</field>
-    <field name="location_ssm">Folder: 9</field>
-    <field name="location_si">Folder: 9</field>
+    <field name="location_si">Box: V:14, Folder: 9</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series V: Constituent Services</field>
     <field name="series_sim">Subseries I: Legislative Mail</field>
     <field name="series_si">Series V: Constituent Services &gt;&gt; Subseries I: Legislative Mail &gt;&gt; Judiciary: General -1</field>

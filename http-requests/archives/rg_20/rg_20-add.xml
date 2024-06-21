@@ -9,6 +9,12 @@
     <field name="unitid_ssm">RG.20</field>
     <field name="abstract_teim">In September 1977, NYU and Manhattanville College (located in Purchase, NY) began offering joint master's programs in NYU's Graduate School of Arts and Science (GSAS) and Graduate School of Business Administration (GSBA). The programs were designed for part-time students with family and/or work responsibilities and to enable currently employed professionals to further their education and increase their knowledge in their specific field.</field>
     <field name="abstract_ssm">In September 1977, NYU and Manhattanville College (located in Purchase, NY) began offering joint master's programs in NYU's Graduate School of Arts and Science (GSAS) and Graduate School of Business Administration (GSBA). The programs were designed for part-time students with family and/or work responsibilities and to enable currently employed professionals to further their education and increase their knowledge in their specific field.</field>
+    <field name="creator_teim">Manhattanville College</field>
+    <field name="creator_teim">New York University</field>
+    <field name="creator_ssm">Manhattanville College</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">Manhattanville College</field>
+    <field name="creator_ssm">New York University</field>
     <field name="unitdate_normal_ssm">1954/1983</field>
     <field name="unitdate_normal_ssm">1977/1979</field>
     <field name="unitdate_normal_teim">1954/1983</field>
@@ -60,6 +66,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Manhattanville College</field>
+    <field name="creator_sim">New York University</field>
     <field name="name_sim">Manhattanville College</field>
     <field name="name_sim">New York University</field>
     <field name="name_sim">New York (State). Board of Regents</field>

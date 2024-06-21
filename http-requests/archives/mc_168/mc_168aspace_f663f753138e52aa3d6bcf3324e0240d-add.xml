@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Richard M. Nixon in Germany MC 168-23</field>
     <field name="unittitle_teim">Richard M. Nixon in Germany MC 168-23</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: III:31, reel: MC 168-23</field>
-    <field name="location_ssm">reel: MC 168-23</field>
-    <field name="location_si">reel: MC 168-23</field>
+    <field name="location_si">Box: III:31, reel: MC 168-23</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series III: Media</field>
     <field name="series_sim">Subseries V: Audiovisual Materials</field>
     <field name="series_si">Series III: Media &gt;&gt; Subseries V: Audiovisual Materials &gt;&gt; Richard M. Nixon in Germany MC 168-23</field>

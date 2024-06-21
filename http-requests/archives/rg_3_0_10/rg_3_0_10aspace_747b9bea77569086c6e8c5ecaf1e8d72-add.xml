@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Office of the President (John Brademas)</field>
     <field name="collection_ssm">Records of the Office of the President (John Brademas)</field>
-    <field name="collection_unitid_ssm">RG.3.0.10/repositories/6/resources/2118</field>
+    <field name="collection_unitid_ssm">RG.3.0.10</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Introducing Honorees at the International Rescue Committee Freedom Award Luncheon (New York, NY)</field>
     <field name="unittitle_teim">Introducing Honorees at the International Rescue Committee Freedom Award Luncheon (New York, NY)</field>
@@ -27,12 +27,10 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 302, Folder: 25</field>
-    <field name="location_ssm">Folder: 25, Box: 101</field>
-    <field name="location_ssm">Box: 101</field>
-    <field name="location_si">Box: 101</field>
+    <field name="location_ssm">Box: 302, Folder: 25, Box: 101</field>
+    <field name="location_si">Box: 302, Folder: 25, Box: 101</field>
     <field name="collection_teim">Records of the Office of the President (John Brademas)</field>
-    <field name="collection_unitid_teim">RG.3.0.10/repositories/6/resources/2118</field>
+    <field name="collection_unitid_teim">RG.3.0.10</field>
     <field name="series_sim">Series XIII. Speeches and Writings</field>
     <field name="series_si">Series XIII. Speeches and Writings &gt;&gt; Introducing Honorees at the International Rescue Committee Freedom Award Luncheon (New York, NY)</field>
     <field name="heading_ssm">Introducing Honorees at the International Rescue Committee Freedom Award Luncheon (New York, NY)</field>

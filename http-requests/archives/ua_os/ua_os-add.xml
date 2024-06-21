@@ -6,11 +6,13 @@
     <field name="unittitle_teim">New York University Archives Collection of Building Drawings and Large-Format Materials</field>
     <field name="unittitle_ssm">New York University Archives Collection of Building Drawings and Large-Format Materials</field>
     <field name="unitid_teim">OS</field>
-    <field name="unitid_teim">/repositories/6/resources/2114</field>
     <field name="unitid_ssm">OS</field>
-    <field name="unitid_ssm">/repositories/6/resources/2114</field>
     <field name="abstract_teim">This artificially constructed collection contains oversized and larger-scale materials from various University Archives collections, stored together in flat-file drawers and oversized boxes. This collection includes university building plans; NYU diplomas, certificates, and proclamations; photographs of buildings, student groups, University Presidents, and events; and NYU event posters.</field>
     <field name="abstract_ssm">This artificially constructed collection contains oversized and larger-scale materials from various University Archives collections, stored together in flat-file drawers and oversized boxes. This collection includes university building plans; NYU diplomas, certificates, and proclamations; photographs of buildings, student groups, University Presidents, and events; and NYU event posters.</field>
+    <field name="creator_teim">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">Fisher, William</field>
     <field name="unitdate_normal_ssm">1735/2013</field>
     <field name="unitdate_normal_teim">1735/2013</field>
     <field name="unitdate_normal_sim">1735/2013</field>
@@ -70,6 +72,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University Archives</field>
+    <field name="creator_sim">Fisher, William</field>
     <field name="name_sim">New York University Archives</field>
     <field name="name_sim">New York University. University Heights</field>
     <field name="name_sim">New York University. Washington Square Campus</field>

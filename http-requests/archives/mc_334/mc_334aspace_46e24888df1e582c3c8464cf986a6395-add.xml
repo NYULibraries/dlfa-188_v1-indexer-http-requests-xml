@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_ssm">MC.334</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Promotional Material and Ephemera -- Volume I and II -- Institute of Environmental Medicine, N.Y.U. Medical Center</field>
     <field name="unittitle_teim">Promotional Material and Ephemera -- Volume I and II -- Institute of Environmental Medicine, N.Y.U. Medical Center</field>
@@ -28,12 +28,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 191, Item: 1-2</field>
-    <field name="location_ssm">Item: 1-2</field>
     <field name="location_ssm">Box: 192, Item: 1</field>
-    <field name="location_ssm">Item: 1</field>
-    <field name="location_si">Item: 1</field>
+    <field name="location_si">Box: 192, Item: 1</field>
     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_teim">MC.334</field>
     <field name="series_sim">RG 23.4. Institute of Environmental Medicine</field>
     <field name="series_si">RG 23.4. Institute of Environmental Medicine &gt;&gt; Promotional Material and Ephemera -- Volume I and II -- Institute of Environmental Medicine, N.Y.U. Medical Center</field>
     <field name="heading_ssm">Promotional Material and Ephemera -- Volume I and II -- Institute of Environmental Medicine, N.Y.U. Medical Center</field>
@@ -45,6 +43,6 @@
     <field name="unitdate_end_si">1964</field>
     <field name="unitdate_ssm">Inclusive, 1962-1964</field>
     <field name="date_range_sim">1901-2000</field>
-    <field name="sort_ii">917</field>
+    <field name="sort_ii">914</field>
   </doc>
 </add>

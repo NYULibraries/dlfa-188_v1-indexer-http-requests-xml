@@ -17,6 +17,9 @@
     <field name="unittitle_teim">The Ferrotyper's Guide</field>
     <field name="unitid_teim">cap1_ref30</field>
     <field name="unitid_ssm">cap1_ref30</field>
+    <field name="creator_teim">Scovill and Adams Company</field>
+    <field name="creator_ssm">Scovill and Adams Company</field>
+    <field name="creator_ssm">Scovill and Adams Company</field>
     <field name="unitdate_teim">1896</field>
     <field name="corpname_teim">Scovill and Adams Company</field>
     <field name="corpname_ssm">Scovill and Adams Company</field>
@@ -38,6 +41,7 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">object: 16</field>
     <field name="location_si">object: 16</field>
+    <field name="creator_sim">Scovill and Adams Company</field>
     <field name="name_sim">Scovill and Adams Company</field>
     <field name="name_teim">Scovill and Adams Company</field>
     <field name="dao_sim">Online Access</field>

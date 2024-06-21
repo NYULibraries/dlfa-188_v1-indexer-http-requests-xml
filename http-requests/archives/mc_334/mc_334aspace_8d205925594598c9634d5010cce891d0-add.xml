@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_ssm">MC.334</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">
       &lt;em&gt;NYU Business&lt;/em&gt;
@@ -32,12 +32,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 264, Folder: 5-10</field>
-    <field name="location_ssm">Folder: 5-10</field>
     <field name="location_ssm">Box: 265, Folder: 1-2</field>
-    <field name="location_ssm">Folder: 1-2</field>
-    <field name="location_si">Folder: 1-2</field>
+    <field name="location_si">Box: 265, Folder: 1-2</field>
     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_teim">MC.334</field>
     <field name="series_sim">RG 28.0. Stern School of Business, the Graduate Division</field>
     <field name="series_si">RG 28.0. Stern School of Business, the Graduate Division &gt;&gt; 
       &lt;em&gt;NYU Business&lt;/em&gt;
@@ -53,6 +51,6 @@
     <field name="unitdate_end_si">1990</field>
     <field name="unitdate_ssm">Inclusive, 1982-1990</field>
     <field name="date_range_sim">1901-2000</field>
-    <field name="sort_ii">1175</field>
+    <field name="sort_ii">1172</field>
   </doc>
 </add>

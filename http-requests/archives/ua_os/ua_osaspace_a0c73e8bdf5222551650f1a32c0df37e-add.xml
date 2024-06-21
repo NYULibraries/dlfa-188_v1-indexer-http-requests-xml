@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Building Drawings and Large-Format Materials</field>
     <field name="collection_ssm">New York University Archives Collection of Building Drawings and Large-Format Materials</field>
-    <field name="collection_unitid_ssm">OS/repositories/6/resources/2114</field>
+    <field name="collection_unitid_ssm">OS</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Scroll of Honor to NYU from Histadruth Ivrit of America</field>
     <field name="unittitle_teim">Scroll of Honor to NYU from Histadruth Ivrit of America</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: Shared University Archives 126, Folder: 2</field>
-    <field name="location_ssm">Folder: 2</field>
-    <field name="location_si">Folder: 2</field>
+    <field name="location_si">Box: Shared University Archives 126, Folder: 2</field>
     <field name="collection_teim">New York University Archives Collection of Building Drawings and Large-Format Materials</field>
-    <field name="collection_unitid_teim">OS/repositories/6/resources/2114</field>
+    <field name="collection_unitid_teim">OS</field>
     <field name="series_sim">Series IV: Certificates, Diplomas, and Proclamations</field>
     <field name="series_sim">Subseries A: Awards and Certificates</field>
     <field name="series_si">Series IV: Certificates, Diplomas, and Proclamations &gt;&gt; Subseries A: Awards and Certificates &gt;&gt; Scroll of Honor to NYU from Histadruth Ivrit of America</field>

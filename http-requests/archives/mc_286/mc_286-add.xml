@@ -6,11 +6,12 @@
     <field name="unittitle_teim">New York University Archives Collection of Course Bulletins</field>
     <field name="unittitle_ssm">New York University Archives Collection of Course Bulletins</field>
     <field name="unitid_teim">MC.286</field>
-    <field name="unitid_teim">/repositories/6/resources/2825</field>
     <field name="unitid_ssm">MC.286</field>
-    <field name="unitid_ssm">/repositories/6/resources/2825</field>
     <field name="abstract_teim">The collection consists of publications (bulletins, catalogs, announcements, etc.) that outline the course of study at New York University and its component schools, dating from 1832 to the present day. The publications are a mix of bound and unbound materials, as well as electronic records in pdf and .doc format and websites containing details about course offerings at NYU. They typically include an overview of the school, degree requirements, lists of faculty and administrators, and course descriptions. Early publications sometimes include lists of students and degrees conferred.</field>
     <field name="abstract_ssm">The collection consists of publications (bulletins, catalogs, announcements, etc.) that outline the course of study at New York University and its component schools, dating from 1832 to the present day. The publications are a mix of bound and unbound materials, as well as electronic records in pdf and .doc format and websites containing details about course offerings at NYU. They typically include an overview of the school, degree requirements, lists of faculty and administrators, and course descriptions. Early publications sometimes include lists of students and degrees conferred.</field>
+    <field name="creator_teim">New York University</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">New York University</field>
     <field name="unitdate_normal_ssm">1832/2017</field>
     <field name="unitdate_normal_teim">1832/2017</field>
     <field name="unitdate_normal_sim">1832/2017</field>
@@ -40,6 +41,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University</field>
     <field name="name_sim">New York University</field>
     <field name="name_teim">New York University</field>
     <field name="subject_sim">Education, Higher.</field>

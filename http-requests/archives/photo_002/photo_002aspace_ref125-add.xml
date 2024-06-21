@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Historic Photographs and Drawings Collection</field>
     <field name="collection_ssm">Historic Photographs and Drawings Collection</field>
-    <field name="collection_unitid_ssm">Photo.002/repositories/6/resources/2115</field>
+    <field name="collection_unitid_ssm">Photo.002</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Gould Memorial Library- NYU Heights Campus</field>
     <field name="unittitle_teim">Gould Memorial Library- NYU Heights Campus</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">flat-file: 8, drawer: 1</field>
-    <field name="location_ssm">drawer: 1</field>
-    <field name="location_si">drawer: 1</field>
+    <field name="location_si">flat-file: 8, drawer: 1</field>
     <field name="collection_teim">Historic Photographs and Drawings Collection</field>
-    <field name="collection_unitid_teim">Photo.002/repositories/6/resources/2115</field>
+    <field name="collection_unitid_teim">Photo.002</field>
     <field name="series_sim">Series I: Oversized Photographs and Drawings</field>
     <field name="series_si">Series I: Oversized Photographs and Drawings &gt;&gt; Gould Memorial Library- NYU Heights Campus</field>
     <field name="heading_ssm">Gould Memorial Library- NYU Heights Campus</field>

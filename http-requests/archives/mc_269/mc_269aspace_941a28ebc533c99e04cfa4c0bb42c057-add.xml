@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">University Heights Time Capsule</field>
     <field name="collection_ssm">University Heights Time Capsule</field>
-    <field name="collection_unitid_ssm">MC.269/repositories/6/resources/2375</field>
+    <field name="collection_unitid_ssm">MC.269</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Recording of NYU Student Sit-in at Silver Hall, Led by Irv. Rome</field>
     <field name="unittitle_teim">Recording of NYU Student Sit-in at Silver Hall, Led by Irv. Rome</field>
@@ -27,10 +27,9 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3</field>
     <field name="location_ssm">Box: Shared University Archives 117, disk: 33</field>
-    <field name="location_ssm">disk: 33</field>
-    <field name="location_si">disk: 33</field>
+    <field name="location_si">Box: Shared University Archives 117, disk: 33</field>
     <field name="collection_teim">University Heights Time Capsule</field>
-    <field name="collection_unitid_teim">MC.269/repositories/6/resources/2375</field>
+    <field name="collection_unitid_teim">MC.269</field>
     <field name="series_si">Recording of NYU Student Sit-in at Silver Hall, Led by Irv. Rome</field>
     <field name="heading_ssm">Recording of NYU Student Sit-in at Silver Hall, Led by Irv. Rome</field>
     <field name="unitdate_ssm">1962-04-12</field>

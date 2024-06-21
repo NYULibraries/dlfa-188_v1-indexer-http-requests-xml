@@ -32,10 +32,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 61, disc: 2307</field>
-    <field name="location_ssm">disc: 2307</field>
     <field name="location_ssm">Box: 123, Quarter_Inch_Audio_Reel: 2307</field>
-    <field name="location_ssm">Quarter_Inch_Audio_Reel: 2307</field>
-    <field name="location_si">Quarter_Inch_Audio_Reel: 2307</field>
+    <field name="location_si">Box: 123, Quarter_Inch_Audio_Reel: 2307</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">New York University Archives Audiovisual Collection</field>
     <field name="collection_unitid_teim">AV</field>

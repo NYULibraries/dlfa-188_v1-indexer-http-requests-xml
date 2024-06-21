@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Office of Media Production</field>
     <field name="collection_ssm">Records of the Office of Media Production</field>
-    <field name="collection_unitid_ssm">RG.7.3.4/repositories/6/resources/2245</field>
+    <field name="collection_unitid_ssm">RG.7.3.4</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">King Hussein of Jordan at NYU: Set-up Tape 5</field>
     <field name="unittitle_teim">King Hussein of Jordan at NYU: Set-up Tape 5</field>
@@ -28,13 +28,11 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="location_ssm">Box: 73, Folder: Project 134, reel: 5</field>
     <field name="location_ssm">Box: 73, Folder: Project 134</field>
-    <field name="location_ssm">Folder: Project 134, reel: 5</field>
-    <field name="location_ssm">reel: 5</field>
-    <field name="location_ssm">Folder: Project 134</field>
-    <field name="location_si">Folder: Project 134</field>
+    <field name="location_si">Box: 73, Folder: Project 134</field>
     <field name="collection_teim">Records of the Office of Media Production</field>
-    <field name="collection_unitid_teim">RG.7.3.4/repositories/6/resources/2245</field>
+    <field name="collection_unitid_teim">RG.7.3.4</field>
     <field name="series_sim">Series I: Projects</field>
     <field name="series_sim">King Hussein of Jordan at NYU</field>
     <field name="series_si">Series I: Projects &gt;&gt; King Hussein of Jordan at NYU &gt;&gt; King Hussein of Jordan at NYU: Set-up Tape 5</field>

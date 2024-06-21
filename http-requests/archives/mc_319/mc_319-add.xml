@@ -7,6 +7,12 @@
     <field name="unitid_ssm">MC.319</field>
     <field name="abstract_teim">The New York University Archives Portrait Files was created by the University Archives to make a central collection for reference staff fulfilling requests for information on individuals associated with the University.  The collection consists of files containing photographs and negatives of portraits of New York University administrators, faculty, staff, alumni, donors, or invited guests.  Materials date from the late 19th century through the early 21st century.</field>
     <field name="abstract_ssm">The New York University Archives Portrait Files was created by the University Archives to make a central collection for reference staff fulfilling requests for information on individuals associated with the University.  The collection consists of files containing photographs and negatives of portraits of New York University administrators, faculty, staff, alumni, donors, or invited guests.  Materials date from the late 19th century through the early 21st century.</field>
+    <field name="creator_teim">New York University Archives</field>
+    <field name="creator_teim">New York University. Photo Bureau</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">New York University. Photo Bureau</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">New York University. Photo Bureau</field>
     <field name="unitdate_normal_ssm">1830/2018</field>
     <field name="unitdate_normal_teim">1830/2018</field>
     <field name="unitdate_normal_sim">1830/2018</field>
@@ -35,6 +41,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University Archives</field>
+    <field name="creator_sim">New York University. Photo Bureau</field>
     <field name="name_sim">New York University Archives</field>
     <field name="name_sim">New York University. Photo Bureau</field>
     <field name="name_teim">New York University Archives</field>

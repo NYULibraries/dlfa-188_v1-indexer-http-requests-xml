@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">LaPorte Sewer Project</field>
     <field name="unittitle_teim">LaPorte Sewer Project</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: V:73, Folder: 7</field>
-    <field name="location_ssm">Folder: 7</field>
-    <field name="location_si">Folder: 7</field>
+    <field name="location_si">Box: V:73, Folder: 7</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series V: Constituent Services</field>
     <field name="series_sim">Subseries III: Project</field>
     <field name="series_si">Series V: Constituent Services &gt;&gt; Subseries III: Project &gt;&gt; LaPorte Sewer Project</field>

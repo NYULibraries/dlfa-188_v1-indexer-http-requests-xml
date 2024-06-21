@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Course Bulletins</field>
     <field name="collection_ssm">New York University Archives Collection of Course Bulletins</field>
-    <field name="collection_unitid_ssm">MC.286/repositories/6/resources/2825</field>
+    <field name="collection_unitid_ssm">MC.286</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Catalogue of the New York College of Music</field>
     <field name="unittitle_teim">Catalogue of the New York College of Music</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 51, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 51, Folder: 1</field>
     <field name="collection_teim">New York University Archives Collection of Course Bulletins</field>
-    <field name="collection_unitid_teim">MC.286/repositories/6/resources/2825</field>
+    <field name="collection_unitid_teim">MC.286</field>
     <field name="series_sim">New York College of Music (RG 21.8)</field>
     <field name="series_si">New York College of Music (RG 21.8) &gt;&gt; Catalogue of the New York College of Music</field>
     <field name="heading_ssm">Catalogue of the New York College of Music</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">HUD/2 Federal Housing Administration</field>
     <field name="unittitle_teim">HUD/2 Federal Housing Administration</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: V:64, Folder: 20</field>
-    <field name="location_ssm">Folder: 20</field>
-    <field name="location_si">Folder: 20</field>
+    <field name="location_si">Box: V:64, Folder: 20</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series V: Constituent Services</field>
     <field name="series_sim">Subseries II: Subject/Agency</field>
     <field name="series_si">Series V: Constituent Services &gt;&gt; Subseries II: Subject/Agency &gt;&gt; HUD/2 Federal Housing Administration</field>

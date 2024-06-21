@@ -17,6 +17,9 @@
     <field name="unittitle_teim">Great Speakers Series 1974 #1: Ramsey Clark </field>
     <field name="unitid_teim">AV2894</field>
     <field name="unitid_ssm">AV2894</field>
+    <field name="creator_teim">Clark, Ramsey, 1927-</field>
+    <field name="creator_ssm">Clark, Ramsey, 1927-</field>
+    <field name="creator_ssm">Clark, Ramsey, 1927-</field>
     <field name="unitdate_normal_ssm">1974-02-21/1974-02-21</field>
     <field name="unitdate_normal_teim">1974-02-21/1974-02-21</field>
     <field name="unitdate_normal_sim">1974-02-21/1974-02-21</field>
@@ -36,10 +39,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 155, reel: 2894</field>
-    <field name="location_ssm">reel: 2894</field>
     <field name="location_ssm">Box: 75, reel: 2895</field>
-    <field name="location_ssm">reel: 2895</field>
-    <field name="location_si">reel: 2895</field>
+    <field name="location_si">Box: 75, reel: 2895</field>
+    <field name="creator_sim">Clark, Ramsey, 1927-</field>
     <field name="name_sim">Clark, Ramsey, 1927-</field>
     <field name="name_teim">Clark, Ramsey, 1927-</field>
     <field name="dao_sim">Online Access</field>

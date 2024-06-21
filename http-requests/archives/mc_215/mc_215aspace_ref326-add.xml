@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Edith Kramer Papers</field>
     <field name="collection_ssm">Edith Kramer Papers</field>
-    <field name="collection_unitid_ssm">MC.215/repositories/6/resources/2013</field>
+    <field name="collection_unitid_ssm">MC.215</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Elena" </field>
     <field name="unittitle_teim">"Elena" </field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 9, disc: 27</field>
-    <field name="location_ssm">disc: 27</field>
-    <field name="location_si">disc: 27</field>
+    <field name="location_si">Box: 9, disc: 27</field>
     <field name="collection_teim">Edith Kramer Papers</field>
-    <field name="collection_unitid_teim">MC.215/repositories/6/resources/2013</field>
+    <field name="collection_unitid_teim">MC.215</field>
     <field name="series_sim">Series IV: Audiovisual Material </field>
     <field name="series_si">Series IV: Audiovisual Material  &gt;&gt; "Elena" </field>
     <field name="heading_ssm">"Elena" </field>

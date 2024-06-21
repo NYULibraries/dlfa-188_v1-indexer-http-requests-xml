@@ -9,6 +9,12 @@
     <field name="unitid_ssm">MC.86</field>
     <field name="abstract_teim">The Prize Winning Student Essays Collection contains student writing dating between 1900 and 1963, which received one of six annual prizes given by New York University:  the James Gordon Bennett Prize, the Minnie Kramer Cowin Prize, the Frederick Seward Gibson Prize, the Helen M. Jones Prize in History, the Maas Essay Prize in American History, and the New York University Philosophical Society Prize.  Each prize was awarded for student work in specific fields of the humanities and social sciences including political science, history, English literature, and philosophy.</field>
     <field name="abstract_ssm">The Prize Winning Student Essays Collection contains student writing dating between 1900 and 1963, which received one of six annual prizes given by New York University:  the James Gordon Bennett Prize, the Minnie Kramer Cowin Prize, the Frederick Seward Gibson Prize, the Helen M. Jones Prize in History, the Maas Essay Prize in American History, and the New York University Philosophical Society Prize.  Each prize was awarded for student work in specific fields of the humanities and social sciences including political science, history, English literature, and philosophy.</field>
+    <field name="creator_teim">New York University. Washington Square College of Arts and Science</field>
+    <field name="creator_teim">New York University. University College of Arts and Pure Science</field>
+    <field name="creator_ssm">New York University. Washington Square College of Arts and Science</field>
+    <field name="creator_ssm">New York University. University College of Arts and Pure Science</field>
+    <field name="creator_ssm">New York University. Washington Square College of Arts and Science</field>
+    <field name="creator_ssm">New York University. University College of Arts and Pure Science</field>
     <field name="unitdate_normal_ssm">1900/1963</field>
     <field name="unitdate_normal_ssm">1922/1960</field>
     <field name="unitdate_normal_teim">1900/1963</field>
@@ -64,6 +70,8 @@ The Prize Winning Student Essays Collection is not an exhaustive collection of t
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University. Washington Square College of Arts and Science</field>
+    <field name="creator_sim">New York University. University College of Arts and Pure Science</field>
     <field name="name_sim">New York University. Washington Square College of Arts and Science</field>
     <field name="name_sim">New York University. University College of Arts and Pure Science</field>
     <field name="name_sim">New York University -- Students</field>

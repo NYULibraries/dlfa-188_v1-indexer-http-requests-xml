@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">[Untitled Film Reels]</field>
     <field name="unittitle_teim">[Untitled Film Reels]</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: III:32, reel: MC 168-81, MC 168-656, MC 168-657, MC 168-658, MC 168-659, MC 168-660, MC 168-665</field>
-    <field name="location_ssm">reel: MC 168-81, MC 168-656, MC 168-657, MC 168-658, MC 168-659, MC 168-660, MC 168-665</field>
-    <field name="location_si">reel: MC 168-81, MC 168-656, MC 168-657, MC 168-658, MC 168-659, MC 168-660, MC 168-665</field>
+    <field name="location_si">Box: III:32, reel: MC 168-81, MC 168-656, MC 168-657, MC 168-658, MC 168-659, MC 168-660, MC 168-665</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series III: Media</field>
     <field name="series_sim">Subseries V: Audiovisual Materials</field>
     <field name="series_si">Series III: Media &gt;&gt; Subseries V: Audiovisual Materials &gt;&gt; [Untitled Film Reels]</field>

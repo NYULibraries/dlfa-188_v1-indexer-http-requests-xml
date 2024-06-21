@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of NYU Postcards</field>
     <field name="collection_ssm">New York University Archives Collection of NYU Postcards</field>
-    <field name="collection_unitid_ssm">MC.356/repositories/6/resources/3381</field>
+    <field name="collection_unitid_ssm">MC.356</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Washington Square Park, Washington Square Campus, and University Heights Campus</field>
     <field name="unittitle_teim">Washington Square Park, Washington Square Campus, and University Heights Campus</field>
@@ -24,10 +24,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: Shared University Archives 149, Folder: 12</field>
-    <field name="location_ssm">Folder: 12</field>
-    <field name="location_si">Folder: 12</field>
+    <field name="location_si">Box: Shared University Archives 149, Folder: 12</field>
     <field name="collection_teim">New York University Archives Collection of NYU Postcards</field>
-    <field name="collection_unitid_teim">MC.356/repositories/6/resources/3381</field>
+    <field name="collection_unitid_teim">MC.356</field>
     <field name="series_si">Washington Square Park, Washington Square Campus, and University Heights Campus</field>
     <field name="heading_ssm">Washington Square Park, Washington Square Campus, and University Heights Campus</field>
     <field name="unitdate_start_sim">1907</field>

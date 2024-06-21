@@ -35,14 +35,10 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 42, Folder: 13</field>
-    <field name="location_ssm">Folder: 13, Cassette: cuid471</field>
-    <field name="location_ssm">Cassette: cuid471</field>
+    <field name="location_ssm">Box: 42, Folder: 13, Cassette: cuid471</field>
     <field name="location_ssm">Box: Digitized Access Files, E-records: nyuarchives_rg37.4_cuid471</field>
-    <field name="location_ssm">E-records: nyuarchives_rg37.4_cuid471</field>
     <field name="location_ssm">Box: Shared University Archives 118, CD: rg37.4_cuid471</field>
-    <field name="location_ssm">CD: rg37.4_cuid471</field>
-    <field name="location_si">CD: rg37.4_cuid471</field>
+    <field name="location_si">Box: Shared University Archives 118, CD: rg37.4_cuid471</field>
     <field name="collection_teim">Records of the New York Institute for the Humanities</field>
     <field name="collection_unitid_teim">RG.37.4</field>
     <field name="series_sim">Series III: Audio and Video Recordings</field>

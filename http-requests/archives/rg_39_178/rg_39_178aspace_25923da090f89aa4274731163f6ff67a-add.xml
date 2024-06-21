@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of the Washington Square News</field>
     <field name="collection_ssm">New York University Archives Collection of the Washington Square News</field>
-    <field name="collection_unitid_ssm">RG.39.178/repositories/6/resources/2896</field>
+    <field name="collection_unitid_ssm">RG.39.178</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Washington Square News</field>
     <field name="unittitle_teim">Washington Square News</field>
@@ -30,7 +30,7 @@
     <field name="location_ssm">volume: Bound August-December 1997</field>
     <field name="location_si">volume: Bound August-December 1997</field>
     <field name="collection_teim">New York University Archives Collection of the Washington Square News</field>
-    <field name="collection_unitid_teim">RG.39.178/repositories/6/resources/2896</field>
+    <field name="collection_unitid_teim">RG.39.178</field>
     <field name="series_sim">Bound print copies</field>
     <field name="series_si">Bound print copies &gt;&gt; Washington Square News</field>
     <field name="heading_ssm">Washington Square News</field>
@@ -42,6 +42,6 @@
     <field name="unitdate_end_si">1997</field>
     <field name="unitdate_ssm">August 26, 1997-December 10, 1997</field>
     <field name="date_range_sim">1901-2000</field>
-    <field name="sort_ii">47</field>
+    <field name="sort_ii">48</field>
   </doc>
 </add>

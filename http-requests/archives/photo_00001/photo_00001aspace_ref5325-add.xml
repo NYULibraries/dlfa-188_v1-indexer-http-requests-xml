@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">East Side of West Broadway Looking North from West 3rd Street</field>
     <field name="unittitle_teim">East Side of West Broadway Looking North from West 3rd Street</field>
@@ -31,13 +31,11 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 182, Folder: 6</field>
-    <field name="location_ssm">Folder: 6, Item: 3</field>
-    <field name="location_ssm">Item: 3</field>
-    <field name="location_si">Item: 3</field>
+    <field name="location_ssm">Box: 182, Folder: 6, Item: 3</field>
+    <field name="location_si">Box: 182, Folder: 6, Item: 3</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Area</field>
     <field name="series_sim">Wooster Street</field>
     <field name="series_si">Washington Square Area &gt;&gt; Wooster Street &gt;&gt; East Side of West Broadway Looking North from West 3rd Street</field>

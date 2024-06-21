@@ -20,6 +20,9 @@
     <field name="unittitle_teim">A James Lecture by Joseph Brodsky</field>
     <field name="unitid_teim">cuid4291</field>
     <field name="unitid_ssm">cuid4291</field>
+    <field name="creator_teim">Brodsky, Joseph, 1940-1996</field>
+    <field name="creator_ssm">Brodsky, Joseph, 1940-1996</field>
+    <field name="creator_ssm">Brodsky, Joseph, 1940-1996</field>
     <field name="unitdate_normal_ssm">1979/1979</field>
     <field name="unitdate_normal_teim">1979/1979</field>
     <field name="unitdate_normal_sim">1979/1979</field>
@@ -44,10 +47,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 74, Folder: 20</field>
-    <field name="location_ssm">Folder: 20</field>
     <field name="location_ssm">Box: Shared University Archives 107, Item: 16A-16B</field>
-    <field name="location_ssm">Item: 16A-16B</field>
-    <field name="location_si">Item: 16A-16B</field>
+    <field name="location_si">Box: Shared University Archives 107, Item: 16A-16B</field>
+    <field name="creator_sim">Brodsky, Joseph, 1940-1996</field>
     <field name="name_sim">Brodsky, Joseph, 1940-1996</field>
     <field name="name_teim">Brodsky, Joseph, 1940-1996</field>
     <field name="subject_sim">tape reels</field>

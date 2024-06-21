@@ -17,6 +17,9 @@
     <field name="unittitle_teim">Speech at School of Law</field>
     <field name="unitid_teim">AV161</field>
     <field name="unitid_ssm">AV161</field>
+    <field name="creator_teim">Nixon, Richard M. (Richard Milhous), 1913-1994</field>
+    <field name="creator_ssm">Nixon, Richard M. (Richard Milhous), 1913-1994</field>
+    <field name="creator_ssm">Nixon, Richard M. (Richard Milhous), 1913-1994</field>
     <field name="unitdate_normal_ssm">1960-10-20/1960-10-20</field>
     <field name="unitdate_normal_teim">1960-10-20/1960-10-20</field>
     <field name="unitdate_normal_sim">1960-10-20/1960-10-20</field>
@@ -33,10 +36,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, reel: AV161</field>
-    <field name="location_ssm">reel: AV161</field>
     <field name="location_ssm">Box: Digitized Access Files, file: AV161</field>
-    <field name="location_ssm">file: AV161</field>
-    <field name="location_si">file: AV161</field>
+    <field name="location_si">Box: Digitized Access Files, file: AV161</field>
+    <field name="creator_sim">Nixon, Richard M. (Richard Milhous), 1913-1994</field>
     <field name="name_sim">New York University. School of Law</field>
     <field name="name_sim">Nixon, Richard M. (Richard Milhous), 1913-1994</field>
     <field name="name_teim">New York University. School of Law</field>

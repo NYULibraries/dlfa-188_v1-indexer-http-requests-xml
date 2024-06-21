@@ -20,6 +20,9 @@
     <field name="unittitle_teim">"Acting In Everyday Life and Everyday Life in Acting" A James Lecture by Victor Turner </field>
     <field name="unitid_teim">cuid4305</field>
     <field name="unitid_ssm">cuid4305</field>
+    <field name="creator_teim">Turner, Victor W. (Victor Witter), 1920-1983</field>
+    <field name="creator_ssm">Turner, Victor W. (Victor Witter), 1920-1983</field>
+    <field name="creator_ssm">Turner, Victor W. (Victor Witter), 1920-1983</field>
     <field name="unitdate_normal_ssm">1980/1980</field>
     <field name="unitdate_normal_teim">1980/1980</field>
     <field name="unitdate_normal_sim">1980/1980</field>
@@ -49,10 +52,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 74, Folder: 39</field>
-    <field name="location_ssm">Folder: 39</field>
     <field name="location_ssm">Box: Shared University Archives 107, Item: 22A-22B</field>
-    <field name="location_ssm">Item: 22A-22B</field>
-    <field name="location_si">Item: 22A-22B</field>
+    <field name="location_si">Box: Shared University Archives 107, Item: 22A-22B</field>
+    <field name="creator_sim">Turner, Victor W. (Victor Witter), 1920-1983</field>
     <field name="name_sim">Turner, Victor W. (Victor Witter), 1920-1983</field>
     <field name="name_teim">Turner, Victor W. (Victor Witter), 1920-1983</field>
     <field name="subject_sim">Acting</field>

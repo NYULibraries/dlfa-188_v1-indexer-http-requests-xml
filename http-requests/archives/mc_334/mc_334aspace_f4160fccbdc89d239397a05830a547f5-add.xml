@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_ssm">MC.334</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Glee Club Signs</field>
     <field name="unittitle_teim">Glee Club Signs</field>
@@ -25,15 +25,14 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: Shared University Archives 149, Folder: 13</field>
-    <field name="location_ssm">Folder: 13</field>
-    <field name="location_si">Folder: 13</field>
+    <field name="location_si">Box: Shared University Archives 149, Folder: 13</field>
     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_teim">MC.334</field>
     <field name="series_sim">RG 39.12. Glee Club</field>
     <field name="series_si">RG 39.12. Glee Club &gt;&gt; Glee Club Signs</field>
     <field name="heading_ssm">Glee Club Signs</field>
     <field name="unitdate_ssm">undated</field>
     <field name="date_range_sim">undated &amp; other</field>
-    <field name="sort_ii">1745</field>
+    <field name="sort_ii">1742</field>
   </doc>
 </add>

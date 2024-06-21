@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">View of the Front Exterior</field>
     <field name="unittitle_teim">View of the Front Exterior</field>
@@ -37,15 +37,13 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 185, Folder: 2</field>
-    <field name="location_ssm">Folder: 2, Item: 3</field>
-    <field name="location_ssm">Item: 3</field>
-    <field name="location_si">Item: 3</field>
+    <field name="location_ssm">Box: 185, Folder: 2, Item: 3</field>
+    <field name="location_si">Box: 185, Folder: 2, Item: 3</field>
     <field name="name_sim">New York University -- Buildings</field>
     <field name="name_teim">New York University -- Buildings</field>
     <field name="subject_sim">Church buildings.</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Campus Buildings</field>
     <field name="series_sim">Asbury Methodist Church (Formerly Dutch Reformed Church)</field>
     <field name="series_si">Washington Square Campus Buildings &gt;&gt; Asbury Methodist Church (Formerly Dutch Reformed Church) &gt;&gt; View of the Front Exterior</field>

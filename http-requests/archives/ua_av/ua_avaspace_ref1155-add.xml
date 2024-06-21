@@ -17,6 +17,12 @@
     <field name="unittitle_teim">Alumni Fun (Episode 8, Season 3)</field>
     <field name="unitid_teim">AV5166</field>
     <field name="unitid_ssm">AV5166</field>
+    <field name="creator_teim">Reeves Sound Studios</field>
+    <field name="creator_teim">Columbia Broadcasting System, Inc.</field>
+    <field name="creator_ssm">Reeves Sound Studios</field>
+    <field name="creator_ssm">Columbia Broadcasting System, Inc.</field>
+    <field name="creator_ssm">Reeves Sound Studios</field>
+    <field name="creator_ssm">Columbia Broadcasting System, Inc.</field>
     <field name="unitdate_normal_ssm">1966/1966</field>
     <field name="unitdate_normal_teim">1966/1966</field>
     <field name="unitdate_normal_sim">1966/1966</field>
@@ -47,6 +53,8 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Reeves Sound Studios</field>
+    <field name="creator_sim">Columbia Broadcasting System, Inc.</field>
     <field name="name_sim">Reeves Sound Studios</field>
     <field name="name_sim">Columbia Broadcasting System, Inc.</field>
     <field name="name_sim">University of Colorado</field>

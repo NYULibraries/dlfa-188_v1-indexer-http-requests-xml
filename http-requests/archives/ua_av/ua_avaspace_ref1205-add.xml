@@ -19,6 +19,9 @@
 </field>
     <field name="unitid_teim">AV2573</field>
     <field name="unitid_ssm">AV2573</field>
+    <field name="creator_teim">Kleinsinger, Jack</field>
+    <field name="creator_ssm">Kleinsinger, Jack</field>
+    <field name="creator_ssm">Kleinsinger, Jack</field>
     <field name="unitdate_normal_ssm">1974-12-16/1974-12-16</field>
     <field name="unitdate_normal_teim">1974-12-16/1974-12-16</field>
     <field name="unitdate_normal_sim">1974-12-16/1974-12-16</field>
@@ -37,8 +40,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 155, reel: 2573</field>
-    <field name="location_ssm">reel: 2573</field>
-    <field name="location_si">reel: 2573</field>
+    <field name="location_si">Box: 155, reel: 2573</field>
+    <field name="creator_sim">Kleinsinger, Jack</field>
     <field name="name_sim">Kleinsinger, Jack</field>
     <field name="name_teim">Kleinsinger, Jack</field>
     <field name="dao_sim">Online Access</field>

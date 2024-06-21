@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Film Being Projected</field>
     <field name="unittitle_teim">Film Being Projected</field>
@@ -31,13 +31,11 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 176, Folder: 5</field>
-    <field name="location_ssm">Folder: 5, Item: 33</field>
-    <field name="location_ssm">Item: 33</field>
-    <field name="location_si">Item: 33</field>
+    <field name="location_ssm">Box: 176, Folder: 5, Item: 33</field>
+    <field name="location_si">Box: 176, Folder: 5, Item: 33</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Area</field>
     <field name="series_sim">Films and Filming in NYU Area</field>
     <field name="series_si">Washington Square Area &gt;&gt; Films and Filming in NYU Area &gt;&gt; Film Being Projected</field>

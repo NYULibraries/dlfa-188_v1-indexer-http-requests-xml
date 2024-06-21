@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Historic Photographs and Drawings Collection</field>
     <field name="collection_ssm">Historic Photographs and Drawings Collection</field>
-    <field name="collection_unitid_ssm">Photo.002/repositories/6/resources/2115</field>
+    <field name="collection_unitid_ssm">Photo.002</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Visit of Major General John F. O'Ryan, N.Y.N.G., to NYU</field>
     <field name="unittitle_teim">Visit of Major General John F. O'Ryan, N.Y.N.G., to NYU</field>
@@ -32,12 +32,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">flat-file: 8, drawer: 5</field>
-    <field name="location_ssm">drawer: 5</field>
-    <field name="location_si">drawer: 5</field>
+    <field name="location_si">flat-file: 8, drawer: 5</field>
     <field name="name_sim">O'Ryan, John F. (John Francis), 1874-1961</field>
     <field name="name_teim">O'Ryan, John F. (John Francis), 1874-1961</field>
     <field name="collection_teim">Historic Photographs and Drawings Collection</field>
-    <field name="collection_unitid_teim">Photo.002/repositories/6/resources/2115</field>
+    <field name="collection_unitid_teim">Photo.002</field>
     <field name="series_sim">Series I: Oversized Photographs and Drawings</field>
     <field name="series_si">Series I: Oversized Photographs and Drawings &gt;&gt; Visit of Major General John F. O'Ryan, N.Y.N.G., to NYU</field>
     <field name="material_type_sim">Photographs.</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Records of the Office of the University Architect/Joseph J. Roberto Collection</field>
     <field name="collection_ssm">Records of the Office of the University Architect/Joseph J. Roberto Collection</field>
-    <field name="collection_unitid_ssm">RG.11.4/repositories/6/resources/2127</field>
+    <field name="collection_unitid_ssm">RG.11.4</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Gould Dormitory</field>
     <field name="unittitle_teim">Gould Dormitory</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 25, Folder: 18</field>
-    <field name="location_ssm">Folder: 18</field>
-    <field name="location_si">Folder: 18</field>
+    <field name="location_si">Box: 25, Folder: 18</field>
     <field name="collection_teim">Records of the Office of the University Architect/Joseph J. Roberto Collection</field>
-    <field name="collection_unitid_teim">RG.11.4/repositories/6/resources/2127</field>
+    <field name="collection_unitid_teim">RG.11.4</field>
     <field name="series_sim">Series XII: Building files: University Heights Center</field>
     <field name="series_si">Series XII: Building files: University Heights Center &gt;&gt; Gould Dormitory</field>
     <field name="heading_ssm">Gould Dormitory</field>

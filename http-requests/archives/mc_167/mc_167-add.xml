@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Records of the September 11, 2001 Exhibit</field>
     <field name="unittitle_ssm">Records of the September 11, 2001 Exhibit</field>
     <field name="unitid_teim">MC.167</field>
-    <field name="unitid_teim">/repositories/6/resources/2929</field>
     <field name="unitid_ssm">MC.167</field>
-    <field name="unitid_ssm">/repositories/6/resources/2929</field>
     <field name="abstract_teim">Terrorists attacked the World Trade Center Twin Towers in New York on September 11, 2001. This collection consists of materials from an exhibit at New York University commemorating that event.</field>
     <field name="abstract_ssm">Terrorists attacked the World Trade Center Twin Towers in New York on September 11, 2001. This collection consists of materials from an exhibit at New York University commemorating that event.</field>
+    <field name="creator_teim">New York University. Office of Public Affairs</field>
+    <field name="creator_ssm">New York University. Office of Public Affairs</field>
+    <field name="creator_ssm">New York University. Office of Public Affairs</field>
     <field name="unitdate_normal_ssm">2001/2005</field>
     <field name="unitdate_normal_teim">2001/2005</field>
     <field name="unitdate_normal_sim">2001/2005</field>
@@ -36,6 +37,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University. Office of Public Affairs</field>
     <field name="name_sim">New York University. Office of Public Affairs</field>
     <field name="name_teim">New York University. Office of Public Affairs</field>
     <field name="subject_sim">September 11 Terrorist Attacks, 2001.</field>

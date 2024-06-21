@@ -9,6 +9,12 @@
     <field name="unitid_ssm">RG.38.16.1</field>
     <field name="abstract_teim">This collection contains videotapes from the NYU TV and Media Services department, part of the Division of Libraries. The videotapes come from NYU-TV and the Television Center (TVCenter), two of the three departments within NYU TV and Media Services, and include both NYU-produced and commercially produced television shows, educational programming, and recordings of NYU events from 1993 to 2017.</field>
     <field name="abstract_ssm">This collection contains videotapes from the NYU TV and Media Services department, part of the Division of Libraries. The videotapes come from NYU-TV and the Television Center (TVCenter), two of the three departments within NYU TV and Media Services, and include both NYU-produced and commercially produced television shows, educational programming, and recordings of NYU events from 1993 to 2017.</field>
+    <field name="creator_teim">New York University</field>
+    <field name="creator_teim">NYU-TV</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">NYU-TV</field>
+    <field name="creator_ssm">New York University</field>
+    <field name="creator_ssm">NYU-TV</field>
     <field name="unitdate_normal_ssm">1993/2017</field>
     <field name="unitdate_normal_teim">1993/2017</field>
     <field name="unitdate_normal_sim">1993/2017</field>
@@ -47,6 +53,8 @@ NYU-TV and Media Services. "About Us." NYU TV and Media Services. http://www.nyu
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University</field>
+    <field name="creator_sim">NYU-TV</field>
     <field name="name_sim">New York University</field>
     <field name="name_sim">NYU-TV</field>
     <field name="name_sim">New York University. Libraries</field>

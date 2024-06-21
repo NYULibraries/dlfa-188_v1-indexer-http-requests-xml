@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Historic Photographs and Drawings Collection</field>
     <field name="unittitle_ssm">Historic Photographs and Drawings Collection</field>
     <field name="unitid_teim">Photo.002</field>
-    <field name="unitid_teim">/repositories/6/resources/2115</field>
     <field name="unitid_ssm">Photo.002</field>
-    <field name="unitid_ssm">/repositories/6/resources/2115</field>
     <field name="abstract_teim">This collection contains photographs, drawings, glass plate negatives, and other documentary materials depicting student life and activities, campus architecture, city maps, faculty portraits, and other aspects of NYU culture from 1800-1980.</field>
     <field name="abstract_ssm">This collection contains photographs, drawings, glass plate negatives, and other documentary materials depicting student life and activities, campus architecture, city maps, faculty portraits, and other aspects of NYU culture from 1800-1980.</field>
+    <field name="creator_teim">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
+    <field name="creator_ssm">New York University Archives</field>
     <field name="unitdate_normal_ssm">1800/1980</field>
     <field name="unitdate_normal_teim">1800/1980</field>
     <field name="unitdate_normal_sim">1800/1980</field>
@@ -87,6 +88,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University Archives</field>
     <field name="name_sim">New York University Archives</field>
     <field name="name_sim">New York University. University Heights</field>
     <field name="name_sim">New York University</field>

@@ -7,7 +7,7 @@
     <field name="component_children_bsi">true</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">series</field>
     <field name="unittitle_ssm">University Building</field>
     <field name="unittitle_teim">University Building</field>
@@ -29,10 +29,9 @@
     <field name="format_sim">Archival Series</field>
     <field name="format_ssm">Archival Series</field>
     <field name="location_ssm">Box: 246, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 246, Folder: 1</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_si">University Building</field>
     <field name="heading_ssm">University Building</field>
     <field name="unitdate_start_sim">1832</field>

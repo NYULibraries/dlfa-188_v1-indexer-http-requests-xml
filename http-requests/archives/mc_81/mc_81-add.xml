@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Charles Butler Papers</field>
     <field name="unittitle_ssm">Charles Butler Papers</field>
     <field name="unitid_teim">MC.81</field>
-    <field name="unitid_teim">/repositories/6/resources/2096</field>
     <field name="unitid_ssm">MC.81</field>
-    <field name="unitid_ssm">/repositories/6/resources/2096</field>
     <field name="abstract_teim">Charles Butler was born in New York in 1802. He was a lawyer whose endeavors included anti-Masonry, New York politics, western state bond issues and speculation, canal, road and railroad construction, and philanthropy. The papers of Charles Butler span the years 1817 to 1908, and include correspondence, business papers, legal documents, ledger books, pamphlets, and maps.</field>
     <field name="abstract_ssm">Charles Butler was born in New York in 1802. He was a lawyer whose endeavors included anti-Masonry, New York politics, western state bond issues and speculation, canal, road and railroad construction, and philanthropy. The papers of Charles Butler span the years 1817 to 1908, and include correspondence, business papers, legal documents, ledger books, pamphlets, and maps.</field>
+    <field name="creator_teim">Butler, Charles, 1802-1897</field>
+    <field name="creator_ssm">Butler, Charles, 1802-1897</field>
+    <field name="creator_ssm">Butler, Charles, 1802-1897</field>
     <field name="unitdate_normal_ssm">1817/1908</field>
     <field name="unitdate_normal_ssm">1837/1882</field>
     <field name="unitdate_normal_teim">1817/1908</field>
@@ -117,6 +118,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Butler, Charles, 1802-1897</field>
     <field name="name_sim">American Land Company</field>
     <field name="name_sim">Albany Argus</field>
     <field name="name_sim">Indiana. Board of Trustees of the Wabash and Erie Canal</field>

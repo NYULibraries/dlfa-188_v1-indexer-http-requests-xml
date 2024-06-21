@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Still from the film "Children of the Corn"</field>
     <field name="unittitle_teim">Still from the film "Children of the Corn"</field>
@@ -22,6 +22,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/636130</field>
     <field name="unitid_ssm">wsa_2_5_07</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/636130</field>
+    <field name="creator_teim">New World Pictures (Firm)</field>
+    <field name="creator_ssm">New World Pictures (Firm)</field>
+    <field name="creator_ssm">New World Pictures (Firm)</field>
     <field name="unitdate_normal_ssm">1984/1984</field>
     <field name="unitdate_normal_teim">1984/1984</field>
     <field name="unitdate_normal_sim">1984/1984</field>
@@ -34,14 +37,13 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 176, Folder: 5</field>
-    <field name="location_ssm">Folder: 5, Item: 7</field>
-    <field name="location_ssm">Item: 7</field>
-    <field name="location_si">Item: 7</field>
+    <field name="location_ssm">Box: 176, Folder: 5, Item: 7</field>
+    <field name="location_si">Box: 176, Folder: 5, Item: 7</field>
+    <field name="creator_sim">New World Pictures (Firm)</field>
     <field name="name_sim">New World Pictures (Firm)</field>
     <field name="name_teim">New World Pictures (Firm)</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Area</field>
     <field name="series_sim">Films and Filming in NYU Area</field>
     <field name="series_si">Washington Square Area &gt;&gt; Films and Filming in NYU Area &gt;&gt; Still from the film "Children of the Corn"</field>

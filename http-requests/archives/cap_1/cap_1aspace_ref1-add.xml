@@ -17,6 +17,12 @@
     <field name="unittitle_teim">Photographic Printing Methods</field>
     <field name="unitid_teim">cap1_ref1</field>
     <field name="unitid_ssm">cap1_ref1</field>
+    <field name="creator_teim">Burbank, W. H. (William Henry)</field>
+    <field name="creator_teim">Scoville Press</field>
+    <field name="creator_ssm">Burbank, W. H. (William Henry)</field>
+    <field name="creator_ssm">Scoville Press</field>
+    <field name="creator_ssm">Scoville Press</field>
+    <field name="creator_ssm">Burbank, W. H. (William Henry)</field>
     <field name="unitdate_normal_ssm">1887/1887</field>
     <field name="unitdate_normal_teim">1887/1887</field>
     <field name="unitdate_normal_sim">1887/1887</field>
@@ -40,6 +46,8 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">object: 1</field>
     <field name="location_si">object: 1</field>
+    <field name="creator_sim">Scoville Press</field>
+    <field name="creator_sim">Burbank, W. H. (William Henry)</field>
     <field name="name_sim">Scoville Press</field>
     <field name="name_sim">Burbank, W. H. (William Henry)</field>
     <field name="name_teim">Scoville Press</field>

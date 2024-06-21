@@ -26,8 +26,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">flat-file: 5, drawer: 17</field>
-    <field name="location_ssm">drawer: 17</field>
-    <field name="location_si">drawer: 17</field>
+    <field name="location_si">flat-file: 5, drawer: 17</field>
     <field name="collection_teim">H. Robert Otness Collection of New York City Postcards and Photographs</field>
     <field name="collection_unitid_teim">MC.245</field>
     <field name="series_sim">Series III:  Personal Materials</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Records of the Andiron Club of New York City</field>
     <field name="unittitle_ssm">Records of the Andiron Club of New York City</field>
     <field name="unitid_teim">MC.19</field>
-    <field name="unitid_teim">/repositories/6/resources/1994</field>
     <field name="unitid_ssm">MC.19</field>
-    <field name="unitid_ssm">/repositories/6/resources/1994</field>
     <field name="abstract_teim">The collection documents the operation of the Andiron Club of New York City since its founding in 1907. It includes correspondence with members and visiting speakers; minutes of Council and general meetings; curricula vitae and lists of the membership; financial records; photographs; publications; and reprints.</field>
     <field name="abstract_ssm">The collection documents the operation of the Andiron Club of New York City since its founding in 1907. It includes correspondence with members and visiting speakers; minutes of Council and general meetings; curricula vitae and lists of the membership; financial records; photographs; publications; and reprints.</field>
+    <field name="creator_teim">Andiron Club of New York City</field>
+    <field name="creator_ssm">Andiron Club of New York City</field>
+    <field name="creator_ssm">Andiron Club of New York City</field>
     <field name="unitdate_normal_ssm">1907/1982</field>
     <field name="unitdate_normal_ssm">1907/1943</field>
     <field name="unitdate_normal_teim">1907/1982</field>
@@ -116,6 +117,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Andiron Club of New York City</field>
     <field name="name_sim">Andiron Club of New York City</field>
     <field name="name_sim">New York University -- Societies, etc.</field>
     <field name="name_sim">Volpe, Edmond Loris</field>

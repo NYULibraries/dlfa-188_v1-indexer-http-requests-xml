@@ -20,6 +20,9 @@
     <field name="unittitle_teim">"Second Thoughts On Consistency" A James Lecture by Hans Magnus Enzensberger </field>
     <field name="unitid_teim">cuid4315</field>
     <field name="unitid_ssm">cuid4315</field>
+    <field name="creator_teim">Enzensberger, Hans Magnus</field>
+    <field name="creator_ssm">Enzensberger, Hans Magnus</field>
+    <field name="creator_ssm">Enzensberger, Hans Magnus</field>
     <field name="unitdate_normal_ssm">1981/1981</field>
     <field name="unitdate_normal_teim">1981/1981</field>
     <field name="unitdate_normal_sim">1981/1981</field>
@@ -42,10 +45,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 75, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
     <field name="location_ssm">Box: Shared University Archives 107, Item: 17</field>
-    <field name="location_ssm">Item: 17</field>
-    <field name="location_si">Item: 17</field>
+    <field name="location_si">Box: Shared University Archives 107, Item: 17</field>
+    <field name="creator_sim">Enzensberger, Hans Magnus</field>
     <field name="name_sim">Enzensberger, Hans Magnus</field>
     <field name="name_sim">Cleaver, Eldridge, 1935-1998 -- History</field>
     <field name="name_teim">Enzensberger, Hans Magnus</field>

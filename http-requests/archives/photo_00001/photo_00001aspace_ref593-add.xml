@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Aerial Views, North - Undated</field>
     <field name="unittitle_teim">Aerial Views, North - Undated</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 207, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 207, Folder: 4</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Park</field>
     <field name="series_sim">Subseries A: Aerial Views</field>
     <field name="series_si">Washington Square Park &gt;&gt; Subseries A: Aerial Views &gt;&gt; Aerial Views, North - Undated</field>

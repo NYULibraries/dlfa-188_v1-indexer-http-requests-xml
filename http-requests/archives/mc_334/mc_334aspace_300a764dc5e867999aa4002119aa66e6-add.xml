@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_ssm">MC.334</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Promotional Material and Ephemera -- Department of French</field>
     <field name="unittitle_teim">Promotional Material and Ephemera -- Department of French</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 155, Folder: 1-4</field>
-    <field name="location_ssm">Folder: 1-4</field>
-    <field name="location_si">Folder: 1-4</field>
+    <field name="location_si">Box: 155, Folder: 1-4</field>
     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_teim">MC.334</field>
     <field name="series_sim">RG 21.19. Department of French and Italian</field>
     <field name="series_si">RG 21.19. Department of French and Italian &gt;&gt; Promotional Material and Ephemera -- Department of French</field>
     <field name="heading_ssm">Promotional Material and Ephemera -- Department of French</field>
@@ -44,6 +43,6 @@
     <field name="unitdate_ssm">Inclusive, circa 1925, 1973-2003</field>
     <field name="date_range_sim">1901-2000</field>
     <field name="date_range_sim">2001-2100</field>
-    <field name="sort_ii">672</field>
+    <field name="sort_ii">669</field>
   </doc>
 </add>

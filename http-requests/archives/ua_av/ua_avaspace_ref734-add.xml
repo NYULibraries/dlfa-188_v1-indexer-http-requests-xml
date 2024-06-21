@@ -17,6 +17,9 @@
     <field name="unittitle_teim">New York 1 news broadcast about L. Jay Oliva (2 tapes)</field>
     <field name="unitid_teim">AV3875</field>
     <field name="unitid_ssm">AV3875</field>
+    <field name="creator_teim">NY1</field>
+    <field name="creator_ssm">NY1</field>
+    <field name="creator_ssm">NY1</field>
     <field name="unitdate_normal_ssm">1950/2013</field>
     <field name="unitdate_normal_teim">1950/2013</field>
     <field name="unitdate_normal_sim">1950/2013</field>
@@ -32,8 +35,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 124, Cassette: 3875</field>
-    <field name="location_ssm">Cassette: 3875</field>
-    <field name="location_si">Cassette: 3875</field>
+    <field name="location_si">Box: 124, Cassette: 3875</field>
+    <field name="creator_sim">NY1</field>
     <field name="name_sim">NY1</field>
     <field name="name_sim">Oliva, L. Jay (Lawrence Jay), 1933-2014</field>
     <field name="name_teim">NY1</field>

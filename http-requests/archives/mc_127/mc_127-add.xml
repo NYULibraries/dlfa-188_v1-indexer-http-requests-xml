@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Howard Cann Collection</field>
     <field name="unittitle_ssm">Howard Cann Collection</field>
     <field name="unitid_teim">MC.127</field>
-    <field name="unitid_teim">/repositories/6/resources/3024</field>
     <field name="unitid_ssm">MC.127</field>
-    <field name="unitid_ssm">/repositories/6/resources/3024</field>
     <field name="abstract_teim">Howard Cann coached basketball for thirty-five years at New York University, from 1923-1958.</field>
     <field name="abstract_ssm">Howard Cann coached basketball for thirty-five years at New York University, from 1923-1958.</field>
+    <field name="creator_teim">Cann, Howard</field>
+    <field name="creator_ssm">Cann, Howard</field>
+    <field name="creator_ssm">Cann, Howard</field>
     <field name="unitdate_normal_ssm">1915/1991</field>
     <field name="unitdate_normal_teim">1915/1991</field>
     <field name="unitdate_normal_sim">1915/1991</field>
@@ -38,6 +39,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Cann, Howard</field>
     <field name="name_sim">Cann, Howard</field>
     <field name="name_teim">Cann, Howard</field>
     <field name="material_type_sim">Certificates.</field>

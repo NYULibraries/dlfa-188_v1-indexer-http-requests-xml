@@ -6,11 +6,12 @@
     <field name="unittitle_teim">University Heights Time Capsule</field>
     <field name="unittitle_ssm">University Heights Time Capsule</field>
     <field name="unitid_teim">MC.269</field>
-    <field name="unitid_teim">/repositories/6/resources/2375</field>
     <field name="unitid_ssm">MC.269</field>
-    <field name="unitid_ssm">/repositories/6/resources/2375</field>
     <field name="abstract_teim">This collection consists of a time capsule assembled in the early 1960s by members of the Perstare et Praestare Society, an academic honor society for NYU students at the University Heights Campus. The collection includes the titanium time capsule container as well as the items selected for inclusion. These items include a variety of NYU-produced publications, course syllabi, audio recordings, and ephemera documenting the different student populations, extracurricular student activities such as student productions of dramatic works, and notable campus events such as commencement. The collection also reflects the larger political climate of the early 1960s, through materials like election leaflets, publications concerning the John F. Kennedy presidential administration and his assassination, and ephemera from the Student Nonviolent Coordinating Committee (SNCC) documenting on-campus civil rights. This collection also includes numerous programs for ceremonies for the Hall of Fame of Great Americans, an outdoor sculpture garden on campus featuring portrait busts of noted artists, intellectuals, and politicians.</field>
     <field name="abstract_ssm">This collection consists of a time capsule assembled in the early 1960s by members of the Perstare et Praestare Society, an academic honor society for NYU students at the University Heights Campus. The collection includes the titanium time capsule container as well as the items selected for inclusion. These items include a variety of NYU-produced publications, course syllabi, audio recordings, and ephemera documenting the different student populations, extracurricular student activities such as student productions of dramatic works, and notable campus events such as commencement. The collection also reflects the larger political climate of the early 1960s, through materials like election leaflets, publications concerning the John F. Kennedy presidential administration and his assassination, and ephemera from the Student Nonviolent Coordinating Committee (SNCC) documenting on-campus civil rights. This collection also includes numerous programs for ceremonies for the Hall of Fame of Great Americans, an outdoor sculpture garden on campus featuring portrait busts of noted artists, intellectuals, and politicians.</field>
+    <field name="creator_teim">New York University. University Heights</field>
+    <field name="creator_ssm">New York University. University Heights</field>
+    <field name="creator_ssm">New York University. University Heights</field>
     <field name="unitdate_normal_ssm">1891/1964</field>
     <field name="unitdate_normal_ssm">1956/1964</field>
     <field name="unitdate_normal_teim">1891/1964</field>
@@ -48,6 +49,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University. University Heights</field>
     <field name="name_sim">New York University. University Heights</field>
     <field name="name_sim">Kennedy, John F. (John Fitzgerald), 1917-1963</field>
     <field name="name_teim">New York University. University Heights</field>

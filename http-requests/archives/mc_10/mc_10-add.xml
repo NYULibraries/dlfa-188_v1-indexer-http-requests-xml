@@ -7,6 +7,12 @@
     <field name="unittitle_ssm">Samuel F.B. Morse Papers</field>
     <field name="unitid_teim">MC.10</field>
     <field name="unitid_ssm">MC.10</field>
+    <field name="creator_teim">Morse, Samuel Finley Breese, 1791-1872</field>
+    <field name="creator_teim">Still, Bayrd</field>
+    <field name="creator_ssm">Morse, Samuel Finley Breese, 1791-1872</field>
+    <field name="creator_ssm">Still, Bayrd</field>
+    <field name="creator_ssm">Morse, Samuel Finley Breese, 1791-1872</field>
+    <field name="creator_ssm">Still, Bayrd</field>
     <field name="unitdate_normal_ssm">1838/1984</field>
     <field name="unitdate_normal_teim">1838/1984</field>
     <field name="unitdate_normal_sim">1838/1984</field>
@@ -73,6 +79,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Morse, Samuel Finley Breese, 1791-1872</field>
+    <field name="creator_sim">Still, Bayrd</field>
     <field name="name_sim">New York University. Department of Fine Arts. Sculpture and Painting</field>
     <field name="name_sim">New York University. School of Design</field>
     <field name="name_sim">Morse Society</field>

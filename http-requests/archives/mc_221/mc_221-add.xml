@@ -7,6 +7,9 @@
     <field name="unitid_ssm">MC.221</field>
     <field name="abstract_teim">Isaac Allen attended courses related to architecture at New York University (NYU) in the early to mid-twentieth century. Materials include four textbooks related to architecture and architectural drawing.</field>
     <field name="abstract_ssm">Isaac Allen attended courses related to architecture at New York University (NYU) in the early to mid-twentieth century. Materials include four textbooks related to architecture and architectural drawing.</field>
+    <field name="creator_teim">Allen, Isaac</field>
+    <field name="creator_ssm">Allen, Isaac</field>
+    <field name="creator_ssm">Allen, Isaac</field>
     <field name="unitdate_normal_ssm">1922/1930</field>
     <field name="unitdate_normal_ssm">1922/1927</field>
     <field name="unitdate_normal_teim">1922/1930</field>
@@ -36,6 +39,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Allen, Isaac</field>
     <field name="name_sim">Allen, Isaac</field>
     <field name="name_teim">Allen, Isaac</field>
     <field name="subject_sim">Architecture</field>

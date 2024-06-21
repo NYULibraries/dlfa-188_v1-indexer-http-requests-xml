@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Edith Kramer Papers</field>
     <field name="unittitle_ssm">Edith Kramer Papers</field>
     <field name="unitid_teim">MC.215</field>
-    <field name="unitid_teim">/repositories/6/resources/2013</field>
     <field name="unitid_ssm">MC.215</field>
-    <field name="unitid_ssm">/repositories/6/resources/2013</field>
     <field name="abstract_teim">Edith Kramer (1916-2014) was an Austrian artist, author, teacher, and art therapist. She emigrated to the United States in 1938 and in the following decades worked with children as an art teacher and art therapist in a variety of institutions. Kramer joined the faculty of New York University in 1973 in order to help develop an art therapy graduate program. The collection documents her academic career with her publications, lecture notes, and syllabi; her work as an art therapist with patient notes and artwork created by patients; and her career as a working artist with artworks created by Kramer throughout her life.</field>
     <field name="abstract_ssm">Edith Kramer (1916-2014) was an Austrian artist, author, teacher, and art therapist. She emigrated to the United States in 1938 and in the following decades worked with children as an art teacher and art therapist in a variety of institutions. Kramer joined the faculty of New York University in 1973 in order to help develop an art therapy graduate program. The collection documents her academic career with her publications, lecture notes, and syllabi; her work as an art therapist with patient notes and artwork created by patients; and her career as a working artist with artworks created by Kramer throughout her life.</field>
+    <field name="creator_teim">Kramer, Edith, 1916-2014</field>
+    <field name="creator_ssm">Kramer, Edith, 1916-2014</field>
+    <field name="creator_ssm">Kramer, Edith, 1916-2014</field>
     <field name="unitdate_normal_ssm">1920/2010</field>
     <field name="unitdate_normal_teim">1920/2010</field>
     <field name="unitdate_normal_sim">1920/2010</field>
@@ -94,6 +95,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Kramer, Edith, 1916-2014</field>
     <field name="name_sim">New York University -- History</field>
     <field name="name_sim">Wiltwyck School for Boys (Esopus, N.Y.)</field>
     <field name="name_sim">New York Transit Museum</field>

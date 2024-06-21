@@ -16,7 +16,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Coles Sports Center, Gym and Pool Level Plan</field>
     <field name="unittitle_teim">Coles Sports Center, Gym and Pool Level Plan</field>
@@ -24,6 +24,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/637018</field>
     <field name="unitid_ssm">UA_PHOTO_001_ref6187</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/637018</field>
+    <field name="creator_teim">Eggers &amp; Higgins</field>
+    <field name="creator_ssm">Eggers &amp; Higgins</field>
+    <field name="creator_ssm">Eggers &amp; Higgins</field>
     <field name="unitdate_normal_ssm">1968/1968</field>
     <field name="unitdate_normal_teim">1968/1968</field>
     <field name="unitdate_normal_sim">1968/1968</field>
@@ -40,10 +43,9 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 187, Folder: 9</field>
-    <field name="location_ssm">Folder: 9, Item: 10</field>
-    <field name="location_ssm">Item: 10</field>
-    <field name="location_si">Item: 10</field>
+    <field name="location_ssm">Box: 187, Folder: 9, Item: 10</field>
+    <field name="location_si">Box: 187, Folder: 9, Item: 10</field>
+    <field name="creator_sim">Eggers &amp; Higgins</field>
     <field name="name_sim">Eggers &amp; Higgins</field>
     <field name="name_sim">New York University. Washington Square Campus</field>
     <field name="name_sim">New York University -- Buildings</field>
@@ -51,7 +53,7 @@
     <field name="name_teim">New York University. Washington Square Campus</field>
     <field name="name_teim">New York University -- Buildings</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Campus Buildings</field>
     <field name="series_sim">Coles Sports Center Artists' Rendering
 </field>

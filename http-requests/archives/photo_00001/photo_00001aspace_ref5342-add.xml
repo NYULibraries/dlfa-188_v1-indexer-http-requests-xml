@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">University Building, Exterior</field>
     <field name="unittitle_teim">University Building, Exterior</field>
@@ -22,6 +22,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/636568</field>
     <field name="unitid_ssm">CB_UB_1_2_02</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/636568</field>
+    <field name="creator_teim">Davis, Alexander Jackson</field>
+    <field name="creator_ssm">Davis, Alexander Jackson</field>
+    <field name="creator_ssm">Davis, Alexander Jackson</field>
     <field name="unitdate_normal_ssm">1833/1833</field>
     <field name="unitdate_normal_teim">1833/1833</field>
     <field name="unitdate_normal_sim">1833/1833</field>
@@ -38,10 +41,9 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 246, Folder: 2</field>
-    <field name="location_ssm">Folder: 2, Item: 2</field>
-    <field name="location_ssm">Item: 2</field>
-    <field name="location_si">Item: 2</field>
+    <field name="location_ssm">Box: 246, Folder: 2, Item: 2</field>
+    <field name="location_si">Box: 246, Folder: 2, Item: 2</field>
+    <field name="creator_sim">Davis, Alexander Jackson</field>
     <field name="name_sim">New York University -- Buildings</field>
     <field name="name_sim">Davis, Alexander Jackson</field>
     <field name="name_teim">New York University -- Buildings</field>
@@ -49,7 +51,7 @@
     <field name="place_ssm">Washington Square (New York, N.Y.)</field>
     <field name="place_sim">Washington Square (New York, N.Y.)</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">University Building</field>
     <field name="series_sim">University Building - Exterior, c. 1833, Watercolor &amp;amp; Engraving, A.J. Davis</field>
     <field name="series_si">University Building &gt;&gt; University Building - Exterior, c. 1833, Watercolor &amp;amp; Engraving, A.J. Davis &gt;&gt; University Building, Exterior</field>

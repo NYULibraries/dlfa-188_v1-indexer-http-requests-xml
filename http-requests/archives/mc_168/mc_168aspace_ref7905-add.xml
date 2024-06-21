@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Brademas Congressional Papers</field>
     <field name="collection_ssm">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_ssm">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_ssm">MC.168</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Press Releases</field>
     <field name="unittitle_teim">Press Releases</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: III:01, Folder: 55</field>
-    <field name="location_ssm">Folder: 55</field>
-    <field name="location_si">Folder: 55</field>
+    <field name="location_si">Box: III:01, Folder: 55</field>
     <field name="collection_teim">John Brademas Congressional Papers</field>
-    <field name="collection_unitid_teim">MC.168/repositories/6/resources/1978</field>
+    <field name="collection_unitid_teim">MC.168</field>
     <field name="series_sim">Series III: Media</field>
     <field name="series_sim">Subseries I: Press Communications</field>
     <field name="series_si">Series III: Media &gt;&gt; Subseries I: Press Communications &gt;&gt; Press Releases</field>

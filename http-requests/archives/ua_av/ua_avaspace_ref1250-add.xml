@@ -17,6 +17,9 @@
     <field name="unittitle_teim">"Television News as a Communications Form"</field>
     <field name="unitid_teim">AV4450</field>
     <field name="unitid_ssm">AV4450</field>
+    <field name="creator_teim">Postman, Neil</field>
+    <field name="creator_ssm">Postman, Neil</field>
+    <field name="creator_ssm">Postman, Neil</field>
     <field name="unitdate_normal_ssm">1976/1976</field>
     <field name="unitdate_normal_teim">1976/1976</field>
     <field name="unitdate_normal_sim">1976/1976</field>
@@ -31,12 +34,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 118, Cassette: 4450</field>
-    <field name="location_ssm">Cassette: 4450</field>
     <field name="location_ssm">Box: Shared University Archives 108, Item: 38</field>
-    <field name="location_ssm">Item: 38</field>
     <field name="location_ssm">Box: Shared University Archives 116, Item: 5</field>
-    <field name="location_ssm">Item: 5</field>
-    <field name="location_si">Item: 5</field>
+    <field name="location_si">Box: Shared University Archives 116, Item: 5</field>
+    <field name="creator_sim">Postman, Neil</field>
     <field name="name_sim">Postman, Neil</field>
     <field name="name_teim">Postman, Neil</field>
     <field name="collection_teim">New York University Archives Audiovisual Collection</field>

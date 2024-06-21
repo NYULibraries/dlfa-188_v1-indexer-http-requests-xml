@@ -21,12 +21,9 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 18, Folder: 19</field>
-    <field name="location_ssm">Folder: 19, disc: 1</field>
-    <field name="location_ssm">disc: 1</field>
+    <field name="location_ssm">Box: 18, Folder: 19, disc: 1</field>
     <field name="location_ssm">Box: Shared University Archives 116, Item: 52</field>
-    <field name="location_ssm">Item: 52</field>
-    <field name="location_si">Item: 52</field>
+    <field name="location_si">Box: Shared University Archives 116, Item: 52</field>
     <field name="collection_teim">Carl L. Withers Manuscript Collection</field>
     <field name="collection_unitid_teim">RISM.MC.1</field>
     <field name="series_sim">Series XI. AV Materials (Material from Jorge Giovanetti)</field>

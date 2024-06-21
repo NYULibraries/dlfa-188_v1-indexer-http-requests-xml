@@ -18,6 +18,9 @@
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Anthropology News</field>
     <field name="unittitle_teim">Anthropology News</field>
+    <field name="creator_teim">American Anthropological Association</field>
+    <field name="creator_ssm">American Anthropological Association</field>
+    <field name="creator_ssm">American Anthropological Association</field>
     <field name="unitdate_normal_ssm">2002/2002</field>
     <field name="unitdate_normal_teim">2002/2002</field>
     <field name="unitdate_normal_sim">2002/2002</field>
@@ -38,6 +41,7 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 25</field>
     <field name="location_si">Box: 25</field>
+    <field name="creator_sim">American Anthropological Association</field>
     <field name="name_sim">American Anthropological Association</field>
     <field name="name_teim">American Anthropological Association</field>
     <field name="subject_sim">Anthropology.</field>

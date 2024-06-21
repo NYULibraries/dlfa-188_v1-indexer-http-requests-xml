@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Publications and Ephemera</field>
     <field name="collection_ssm">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_ssm">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_ssm">MC.334</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Promotional Material and Ephemera</field>
     <field name="unittitle_teim">Promotional Material and Ephemera</field>
@@ -28,12 +28,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 139, Folder: 9-10</field>
-    <field name="location_ssm">Folder: 9-10</field>
     <field name="location_ssm">Box: 166, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 166, Folder: 4</field>
     <field name="collection_teim">New York University Archives Collection of Publications and Ephemera</field>
-    <field name="collection_unitid_teim">MC.334/repositories/6/resources/3050</field>
+    <field name="collection_unitid_teim">MC.334</field>
     <field name="series_sim">RG 20.10. NYU / Manhattanville College</field>
     <field name="series_si">RG 20.10. NYU / Manhattanville College &gt;&gt; Promotional Material and Ephemera</field>
     <field name="heading_ssm">Promotional Material and Ephemera</field>
@@ -45,6 +43,6 @@
     <field name="unitdate_end_si">1983</field>
     <field name="unitdate_ssm">Inclusive, 1977-1983</field>
     <field name="date_range_sim">1901-2000</field>
-    <field name="sort_ii">567</field>
+    <field name="sort_ii">564</field>
   </doc>
 </add>

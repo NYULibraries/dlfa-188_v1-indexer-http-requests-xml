@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Filomen D'Agostino Hall, Artist's Rendering</field>
     <field name="unittitle_teim">Filomen D'Agostino Hall, Artist's Rendering</field>
@@ -22,6 +22,9 @@
     <field name="unitid_teim">/repositories/6/archival_objects/637206</field>
     <field name="unitid_ssm">UA_PHOTO_001_ref6564</field>
     <field name="unitid_ssm">/repositories/6/archival_objects/637206</field>
+    <field name="creator_teim">Pagnano, Patrick D.</field>
+    <field name="creator_ssm">Pagnano, Patrick D.</field>
+    <field name="creator_ssm">Pagnano, Patrick D.</field>
     <field name="unitdate_teim">undated</field>
     <field name="corpname_teim">New York University. Washington Square Campus</field>
     <field name="corpname_teim">New York University -- Buildings</field>
@@ -35,10 +38,9 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 189, Folder: 8</field>
-    <field name="location_ssm">Folder: 8, Item: 1</field>
-    <field name="location_ssm">Item: 1</field>
-    <field name="location_si">Item: 1</field>
+    <field name="location_ssm">Box: 189, Folder: 8, Item: 1</field>
+    <field name="location_si">Box: 189, Folder: 8, Item: 1</field>
+    <field name="creator_sim">Pagnano, Patrick D.</field>
     <field name="name_sim">New York University. Washington Square Campus</field>
     <field name="name_sim">New York University -- Buildings</field>
     <field name="name_sim">Pagnano, Patrick D.</field>
@@ -46,7 +48,7 @@
     <field name="name_teim">New York University -- Buildings</field>
     <field name="name_teim">Pagnano, Patrick D.</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Campus Buildings</field>
     <field name="series_sim">D'Agostino Hall Artist's Rendering/Plans</field>
     <field name="series_si">Washington Square Campus Buildings &gt;&gt; D'Agostino Hall Artist's Rendering/Plans &gt;&gt; Filomen D'Agostino Hall, Artist's Rendering</field>

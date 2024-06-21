@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Collection of Course Bulletins</field>
     <field name="collection_ssm">New York University Archives Collection of Course Bulletins</field>
-    <field name="collection_unitid_ssm">MC.286/repositories/6/resources/2825</field>
+    <field name="collection_unitid_ssm">MC.286</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">A General Catalogue of the University of the City of New York, Departments of Arts and Science</field>
     <field name="unittitle_teim">A General Catalogue of the University of the City of New York, Departments of Arts and Science</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 186, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
-    <field name="location_si">Folder: 6</field>
+    <field name="location_si">Box: 186, Folder: 6</field>
     <field name="collection_teim">New York University Archives Collection of Course Bulletins</field>
-    <field name="collection_unitid_teim">MC.286/repositories/6/resources/2825</field>
+    <field name="collection_unitid_teim">MC.286</field>
     <field name="series_sim">All University (RG 1)</field>
     <field name="series_si">All University (RG 1) &gt;&gt; A General Catalogue of the University of the City of New York, Departments of Arts and Science</field>
     <field name="heading_ssm">A General Catalogue of the University of the City of New York, Departments of Arts and Science</field>

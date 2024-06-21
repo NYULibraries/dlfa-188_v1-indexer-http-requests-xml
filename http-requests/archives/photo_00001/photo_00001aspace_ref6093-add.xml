@@ -16,7 +16,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">New York University Archives Photograph Collection</field>
     <field name="collection_ssm">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_ssm">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_ssm">PHOTO.00001</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Cantor Film Center Dedication with Norman F. Cantor, Alec Baldwin and Spike Lee. </field>
     <field name="unittitle_teim">Cantor Film Center Dedication with Norman F. Cantor, Alec Baldwin and Spike Lee. </field>
@@ -41,10 +41,8 @@
     <field name="repository_ssm">archives</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 187, Folder: 3</field>
-    <field name="location_ssm">Folder: 3, Item: 3</field>
-    <field name="location_ssm">Item: 3</field>
-    <field name="location_si">Item: 3</field>
+    <field name="location_ssm">Box: 187, Folder: 3, Item: 3</field>
+    <field name="location_si">Box: 187, Folder: 3, Item: 3</field>
     <field name="name_sim">New York University. Washington Square Campus</field>
     <field name="name_sim">New York University -- Buildings</field>
     <field name="name_sim">Lee, Spike</field>
@@ -56,7 +54,7 @@
     <field name="name_teim">Baldwin, Alec, 1958-</field>
     <field name="name_teim">Cantor, Norman F.</field>
     <field name="collection_teim">New York University Archives Photograph Collection</field>
-    <field name="collection_unitid_teim">PHOTO.00001/repositories/6/resources/2112</field>
+    <field name="collection_unitid_teim">PHOTO.00001</field>
     <field name="series_sim">Washington Square Campus Buildings</field>
     <field name="series_sim">Iris and B. Gerald Cantor Film Center
 </field>

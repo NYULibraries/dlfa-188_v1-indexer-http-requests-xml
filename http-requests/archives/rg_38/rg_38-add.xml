@@ -9,6 +9,9 @@
     <field name="unitid_ssm">RG.38</field>
     <field name="abstract_teim">The NYU Libraries website is made up of information about Bobst Library, built in 1973, resources and affiliate libraries in New York City and abroad. The website contains information on the library's resources and services.</field>
     <field name="abstract_ssm">The NYU Libraries website is made up of information about Bobst Library, built in 1973, resources and affiliate libraries in New York City and abroad. The website contains information on the library's resources and services.</field>
+    <field name="creator_teim">New York University. Libraries</field>
+    <field name="creator_ssm">New York University. Libraries</field>
+    <field name="creator_ssm">New York University. Libraries</field>
     <field name="unitdate_normal_ssm">2009/2022</field>
     <field name="unitdate_normal_teim">2009/2022</field>
     <field name="unitdate_normal_sim">2009/2022</field>
@@ -46,6 +49,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University. Libraries</field>
     <field name="name_sim">New York University. Libraries</field>
     <field name="name_sim">Elmer Holmes Bobst Library</field>
     <field name="name_teim">New York University. Libraries</field>
