@@ -26,8 +26,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 10, folder: 2</field>
-    <field name="location_ssm">folder: 2</field>
-    <field name="location_si">folder: 2</field>
+    <field name="location_si">box: 10, folder: 2</field>
     <field name="collection_teim">A. Michael Noll Papers</field>
     <field name="collection_unitid_teim">RG.047</field>
     <field name="series_sim">Series VII: Papers and Talks</field>

@@ -26,8 +26,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 4, item: 7</field>
-    <field name="location_ssm">item: 7</field>
-    <field name="location_si">item: 7</field>
+    <field name="location_si">box: 4, item: 7</field>
     <field name="collection_teim">Ernst Weber Collection</field>
     <field name="collection_unitid_teim">RG.033</field>
     <field name="series_sim">Series I: Biographical</field>

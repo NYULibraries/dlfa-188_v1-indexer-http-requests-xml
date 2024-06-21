@@ -28,8 +28,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 20, item: 8</field>
-    <field name="location_ssm">item: 8</field>
-    <field name="location_si">item: 8</field>
+    <field name="location_si">box: 20, item: 8</field>
     <field name="collection_teim">Herman F. Mark Collection</field>
     <field name="collection_unitid_teim">RG.002</field>
     <field name="series_sim">Series VI: Polytechnic Institute of Brooklyn and the Polymer Research Institute</field>

@@ -26,8 +26,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">carton: 6, item: 4</field>
-    <field name="location_ssm">item: 4</field>
-    <field name="location_si">item: 4</field>
+    <field name="location_si">carton: 6, item: 4</field>
     <field name="collection_teim">Herbert Morawetz Collection</field>
     <field name="collection_unitid_teim">RG.037</field>
     <field name="series_sim">Series VI: Publications</field>

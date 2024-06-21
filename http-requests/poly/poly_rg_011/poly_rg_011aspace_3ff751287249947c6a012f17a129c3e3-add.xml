@@ -29,8 +29,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 1, item: 7</field>
-    <field name="location_ssm">item: 7</field>
-    <field name="location_si">item: 7</field>
+    <field name="location_si">box: 1, item: 7</field>
     <field name="collection_teim">Vintage Equipment Collection</field>
     <field name="collection_unitid_teim">RG.011</field>
     <field name="series_sim">Series II: 2021 Accretion</field>

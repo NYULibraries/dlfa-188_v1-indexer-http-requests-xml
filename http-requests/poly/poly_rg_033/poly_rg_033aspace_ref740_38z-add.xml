@@ -26,8 +26,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 32, item: 5</field>
-    <field name="location_ssm">item: 5</field>
-    <field name="location_si">item: 5</field>
+    <field name="location_si">box: 32, item: 5</field>
     <field name="collection_teim">Ernst Weber Collection</field>
     <field name="collection_unitid_teim">RG.033</field>
     <field name="series_sim">Series VII: Oversize</field>

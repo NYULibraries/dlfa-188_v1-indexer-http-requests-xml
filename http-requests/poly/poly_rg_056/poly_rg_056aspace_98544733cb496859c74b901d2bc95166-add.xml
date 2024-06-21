@@ -23,8 +23,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">bin: 8, frame: 8</field>
-    <field name="location_ssm">frame: 8</field>
-    <field name="location_si">frame: 8</field>
+    <field name="location_si">bin: 8, frame: 8</field>
     <field name="collection_teim">Poly Archives Frame Rack</field>
     <field name="collection_unitid_teim">RG.056</field>
     <field name="series_sim">Series VIII: Shelf 8</field>

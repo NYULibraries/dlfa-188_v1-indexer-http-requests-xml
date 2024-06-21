@@ -25,10 +25,8 @@
     <field name="repository_ssm">poly</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">box: 24, folder: 8</field>
-    <field name="location_ssm">folder: 8, object: 1</field>
-    <field name="location_ssm">object: 1</field>
-    <field name="location_si">object: 1</field>
+    <field name="location_ssm">box: 24, folder: 8, object: 1</field>
+    <field name="location_si">box: 24, folder: 8, object: 1</field>
     <field name="collection_teim">Keller Mechanical Engineering Corporation Collection</field>
     <field name="collection_unitid_teim">RG.001</field>
     <field name="series_sim">Series V: Publications</field>
