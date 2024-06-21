@@ -26,10 +26,8 @@
     <field name="repository_ssm">nyhs</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Offsite-Box: 45, Folder: 13</field>
-    <field name="location_ssm">Folder: 13, item: 2</field>
-    <field name="location_ssm">item: 2</field>
-    <field name="location_si">item: 2</field>
+    <field name="location_ssm">Offsite-Box: 45, Folder: 13, item: 2</field>
+    <field name="location_si">Offsite-Box: 45, Folder: 13, item: 2</field>
     <field name="collection_teim">Billie Jean King collection</field>
     <field name="collection_unitid_teim">MS 3147</field>
     <field name="series_sim">Series VII. Print matter</field>

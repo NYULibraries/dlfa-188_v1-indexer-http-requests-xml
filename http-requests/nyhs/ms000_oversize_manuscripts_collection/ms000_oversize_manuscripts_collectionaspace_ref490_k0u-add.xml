@@ -12,7 +12,7 @@
     <field name="collection_sim">Oversize manuscripts collection</field>
     <field name="collection_ssm">Oversize manuscripts collection</field>
     <field name="collection_unitid_ssm">MS OS</field>
-    <field name="level_sim">item</field>
+    <field name="level_sim">file</field>
     <field name="unittitle_ssm">[Y-1685] Dongan's Patent - Queen's Village Manor</field>
     <field name="unittitle_teim">[Y-1685] Dongan's Patent - Queen's Village Manor</field>
     <field name="ref_ssi">aspace_ref490_k0u</field>
@@ -22,8 +22,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">oversize: medium, Folder: Y-1685 (Dongan)</field>
-    <field name="location_ssm">Folder: Y-1685 (Dongan)</field>
-    <field name="location_si">Folder: Y-1685 (Dongan)</field>
+    <field name="location_si">oversize: medium, Folder: Y-1685 (Dongan)</field>
     <field name="collection_teim">Oversize manuscripts collection</field>
     <field name="collection_unitid_teim">MS OS</field>
     <field name="series_sim">Series I. Individual Oversize Manuscripts</field>

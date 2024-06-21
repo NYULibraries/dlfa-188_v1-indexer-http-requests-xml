@@ -9,6 +9,12 @@
     <field name="unitid_ssm">MS 3237</field>
     <field name="abstract_teim">The Hendrick Institute papers consist of documents relating to the founding and operation of the Hendrick Institute, a school founded by Susan L. Hendrick with the mission of combining knowledge and health of the body with more conventional education.</field>
     <field name="abstract_ssm">The Hendrick Institute papers consist of documents relating to the founding and operation of the Hendrick Institute, a school founded by Susan L. Hendrick with the mission of combining knowledge and health of the body with more conventional education.</field>
+    <field name="creator_teim">Hendrick Institute</field>
+    <field name="creator_teim">Hendrick, Susan L.</field>
+    <field name="creator_ssm">Hendrick Institute</field>
+    <field name="creator_ssm">Hendrick, Susan L.</field>
+    <field name="creator_ssm">Hendrick Institute</field>
+    <field name="creator_ssm">Hendrick, Susan L.</field>
     <field name="unitdate_normal_ssm">1875/1875</field>
     <field name="unitdate_normal_teim">1875/1875</field>
     <field name="unitdate_normal_sim">1875/1875</field>
@@ -46,6 +52,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Hendrick Institute</field>
+    <field name="creator_sim">Hendrick, Susan L.</field>
     <field name="name_sim">Hendrick Institute</field>
     <field name="name_sim">Hendrick, Susan L.</field>
     <field name="name_teim">Hendrick Institute</field>

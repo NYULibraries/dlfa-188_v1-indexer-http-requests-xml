@@ -17,10 +17,8 @@
     <field name="repository_ssm">nyhs</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Offsite-Box: 9, Box: 17</field>
-    <field name="location_ssm">Box: 17, item: 323</field>
-    <field name="location_ssm">item: 323</field>
-    <field name="location_si">item: 323</field>
+    <field name="location_ssm">Offsite-Box: 9, Box: 17, item: 323</field>
+    <field name="location_si">Offsite-Box: 9, Box: 17, item: 323</field>
     <field name="collection_teim">Doris Ulmann Photograph Collection</field>
     <field name="collection_unitid_teim">PR 72</field>
     <field name="series_si">river, same image as 322</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">NYHS-RG 15</field>
     <field name="abstract_teim">The New-York Historical Society collections accession registers include records from 1841-1962 concerning donations to and purchases for the institution. It is unknown how complete the records are. Museum objects were entered to the registers until the early 1940s. Library acquisitions, including books, manuscripts, photographs, maps, and Print Room material, were entered to the registers until 1962.</field>
     <field name="abstract_ssm">The New-York Historical Society collections accession registers include records from 1841-1962 concerning donations to and purchases for the institution. It is unknown how complete the records are. Museum objects were entered to the registers until the early 1940s. Library acquisitions, including books, manuscripts, photographs, maps, and Print Room material, were entered to the registers until 1962.</field>
+    <field name="creator_teim">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
     <field name="unitdate_inclusive_teim">1841-1962, 2002</field>
     <field name="scopecontent_teim">The record group includes the oversize registers of accessions (or, "additions") to New-York Historical Society's collections from December 1841 to 1962. The comprehensiveness of these registers is not known. Recognizable gaps occur in the 1840s and 1850s, with sustained entries beginning in 1861. The earliest entries seem to be donations only; it is unclear when purchases began to be recorded, though these seem to appear regularly by 1879. </field>
     <field name="scopecontent_teim">There is one set of registers that include accessions of all types of material until 1924. Beginning in 1924, different registers were used for museum, manuscript and library materials. Beginning in 1942, map and Print Room materials, formerly found in the Library register, were entered to a separate register. </field>
@@ -58,6 +61,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New-York Historical Society</field>
     <field name="name_sim">New-York Historical Society</field>
     <field name="name_sim">New-York Historical Society -- Archives.</field>
     <field name="name_teim">New-York Historical Society</field>

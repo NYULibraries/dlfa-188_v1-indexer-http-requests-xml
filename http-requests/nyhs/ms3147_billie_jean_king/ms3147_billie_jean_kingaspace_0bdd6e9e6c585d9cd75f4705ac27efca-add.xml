@@ -23,10 +23,8 @@
     <field name="repository_ssm">nyhs</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Offsite-Box: 4, Box: 4D</field>
-    <field name="location_ssm">Box: 4D, Volume: 2</field>
-    <field name="location_ssm">Volume: 2</field>
-    <field name="location_si">Volume: 2</field>
+    <field name="location_ssm">Offsite-Box: 4, Box: 4D, Volume: 2</field>
+    <field name="location_si">Offsite-Box: 4, Box: 4D, Volume: 2</field>
     <field name="collection_teim">Billie Jean King collection</field>
     <field name="collection_unitid_teim">MS 3147</field>
     <field name="series_sim">Series II. Albums</field>

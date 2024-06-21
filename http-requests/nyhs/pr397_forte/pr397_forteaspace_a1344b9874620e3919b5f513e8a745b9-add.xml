@@ -24,10 +24,8 @@
     <field name="repository_ssm">nyhs</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Offsite-Box: 1, Folder: 3</field>
-    <field name="location_ssm">Folder: 3, Item: 23</field>
-    <field name="location_ssm">Item: 23</field>
-    <field name="location_si">Item: 23</field>
+    <field name="location_ssm">Offsite-Box: 1, Folder: 3, Item: 23</field>
+    <field name="location_si">Offsite-Box: 1, Folder: 3, Item: 23</field>
     <field name="collection_teim">Lorraine Forte photographs</field>
     <field name="collection_unitid_teim">PR 397</field>
     <field name="series_sim">[Catalog sheet 3 + prints]</field>

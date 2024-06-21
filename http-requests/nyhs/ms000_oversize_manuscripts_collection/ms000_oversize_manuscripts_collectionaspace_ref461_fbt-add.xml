@@ -23,8 +23,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">oversize: medium, Folder: Y-1806, February (Lawrence)</field>
-    <field name="location_ssm">Folder: Y-1806, February (Lawrence)</field>
-    <field name="location_si">Folder: Y-1806, February (Lawrence)</field>
+    <field name="location_si">oversize: medium, Folder: Y-1806, February (Lawrence)</field>
     <field name="collection_teim">Oversize manuscripts collection</field>
     <field name="collection_unitid_teim">MS OS</field>
     <field name="series_sim">Series I. Individual Oversize Manuscripts</field>
@@ -32,6 +31,6 @@
     <field name="heading_ssm">[Y-1806 February] Deed for land in New York City from the estate of James Lawrence</field>
     <field name="unitdate_ssm">1806</field>
     <field name="date_range_sim">undated &amp; other</field>
-    <field name="sort_ii">166</field>
+    <field name="sort_ii">167</field>
   </doc>
 </add>

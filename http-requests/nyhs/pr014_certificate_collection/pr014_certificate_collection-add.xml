@@ -9,6 +9,9 @@
     <field name="unitid_ssm">PR 014</field>
     <field name="abstract_teim">The New-York Historical Society Collection of Certificates (formerly known as the Certificate File) contains certificates from private and civic societies, clubs, and organizations. Diplomas, certificates of merit and various financial and legal documents are also included. The collection contains fine examples of engravings, lithographs, and typography.</field>
     <field name="abstract_ssm">The New-York Historical Society Collection of Certificates (formerly known as the Certificate File) contains certificates from private and civic societies, clubs, and organizations. Diplomas, certificates of merit and various financial and legal documents are also included. The collection contains fine examples of engravings, lithographs, and typography.</field>
+    <field name="creator_teim">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
     <field name="unitdate_inclusive_teim">1700-1991</field>
     <field name="scopecontent_teim">The New-York Historical Society Collection of Certificates (formerly known as the Certificate File) spans the period from 1700 to 1991 and contains certificates issued by a wide
 variey of societies, clubs and organizations. Diplomas, certificates of merit and various financial and legal
@@ -84,6 +87,7 @@ and typography.</field>
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New-York Historical Society</field>
     <field name="name_sim">New-York Historical Society</field>
     <field name="name_teim">New-York Historical Society</field>
     <field name="subject_sim">Associations, institutions, etc</field>

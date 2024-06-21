@@ -9,6 +9,9 @@
     <field name="unitid_ssm">PR 54</field>
     <field name="abstract_teim">The New-York Historical Society Postcard Collection contains approximately 62,000 postcard views of the United States, New York State, New York City and international geographic locations, depicting, buildings, historical scenes, modes of transportation, tourist attractions, holiday greetings and other subjects. The collection is strongest for New York City.</field>
     <field name="abstract_ssm">The New-York Historical Society Postcard Collection contains approximately 62,000 postcard views of the United States, New York State, New York City and international geographic locations, depicting, buildings, historical scenes, modes of transportation, tourist attractions, holiday greetings and other subjects. The collection is strongest for New York City.</field>
+    <field name="creator_teim">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
     <field name="unitdate_inclusive_teim">circa 1898-1965</field>
     <field name="scopecontent_teim">The New-York Historical Society Postcard Collection is an artificial collection, built up over time. It contains approximately 62,000 postcards which depict geographic views, buildings, historical scenes, modes of transportation, holiday greetings, and other subjects from about 1898 through roughly 1965. A variety of printing processes and postcard types are represented in the collection, including photographic, lithographic, photomechanically printed, and novelty cards, included scattered examples of hold-to-light cards, which typically depict buildings with windows that shine when the card is held to a light source.</field>
     <field name="scopecontent_teim">The majority of the postcards are in excellent condition; approximately half were never mailed. Those that were mailed usually communicate simple messages that share experiences and connect the senders to family and friends.</field>
@@ -141,6 +144,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New-York Historical Society</field>
     <field name="name_sim">New-York Historical Society</field>
     <field name="name_teim">New-York Historical Society</field>
     <field name="place_sim">New York (N.Y.) -- Description and travel.</field>

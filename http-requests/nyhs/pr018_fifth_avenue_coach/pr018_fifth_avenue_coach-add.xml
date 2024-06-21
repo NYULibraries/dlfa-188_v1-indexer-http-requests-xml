@@ -9,6 +9,9 @@
     <field name="unitid_ssm">PR 18</field>
     <field name="abstract_teim">The Fifth Avenue Coach Collection of photographs dates from 1895 through 1962. The photos document the company's buses, bus operations, bus construction, bus repair and maintenance, bus stops and routes, and facilities. Views include work areas, as well as leisure areas for employees, and special events such as public service projects. Photos also show street scenes of the city. The albums contain clippings and other items documenting the company and its public relations.</field>
     <field name="abstract_ssm">The Fifth Avenue Coach Collection of photographs dates from 1895 through 1962. The photos document the company's buses, bus operations, bus construction, bus repair and maintenance, bus stops and routes, and facilities. Views include work areas, as well as leisure areas for employees, and special events such as public service projects. Photos also show street scenes of the city. The albums contain clippings and other items documenting the company and its public relations.</field>
+    <field name="creator_teim">Fifth Avenue Coach Company</field>
+    <field name="creator_ssm">Fifth Avenue Coach Company</field>
+    <field name="creator_ssm">Fifth Avenue Coach Company</field>
     <field name="unitdate_normal_ssm">1895/1962</field>
     <field name="unitdate_normal_teim">1895/1962</field>
     <field name="unitdate_normal_sim">1895/1962</field>
@@ -67,6 +70,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Fifth Avenue Coach Company</field>
     <field name="name_sim">Fifth Avenue Coach Company</field>
     <field name="name_sim">Fifth Avenue Transportation Company</field>
     <field name="name_sim">New York City Omnibus Corporation</field>

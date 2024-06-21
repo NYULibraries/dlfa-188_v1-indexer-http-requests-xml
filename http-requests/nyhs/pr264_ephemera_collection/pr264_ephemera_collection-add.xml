@@ -9,6 +9,9 @@
     <field name="unitid_ssm">PR 264</field>
     <field name="abstract_teim">The Ephemera Collection (formerly called the Ephemera File) contains a variety of print ephemera, such as advertisements, calendars, theatrical posters, political broadsides, event announcements, etc.</field>
     <field name="abstract_ssm">The Ephemera Collection (formerly called the Ephemera File) contains a variety of print ephemera, such as advertisements, calendars, theatrical posters, political broadsides, event announcements, etc.</field>
+    <field name="creator_teim">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
     <field name="unitdate_inclusive_teim">1800s-2021</field>
     <field name="scopecontent_teim">The Ephemera Collection (formerly referred to as the Ephemera File) spans the period from approximately mid-19th century to the present, and contains a variety of printed ephemera, including advertisements, flyers, calendars, event announcements and programs, greeting cards, and other disposable or everyday items.</field>
     <field name="scopecontent_teim">The collection is divided into 5 series. Series I, Ephemera, includes material relating to products (food, clothing, household items, etc.); establishments such as hotels and restaurants, charitable and other organizations; and cultural and political events, primarily in New York City. </field>
@@ -59,6 +62,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New-York Historical Society</field>
     <field name="name_sim">New-York Historical Society</field>
     <field name="name_teim">New-York Historical Society</field>
     <field name="subject_sim">Advertising -- United States.</field>

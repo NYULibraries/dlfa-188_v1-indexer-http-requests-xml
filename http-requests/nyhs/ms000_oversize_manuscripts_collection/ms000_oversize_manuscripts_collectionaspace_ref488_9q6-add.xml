@@ -26,8 +26,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">oversize: small, Folder: Y-1813, June (Wardell)</field>
-    <field name="location_ssm">Folder: Y-1813, June (Wardell)</field>
-    <field name="location_si">Folder: Y-1813, June (Wardell)</field>
+    <field name="location_si">oversize: small, Folder: Y-1813, June (Wardell)</field>
     <field name="collection_teim">Oversize manuscripts collection</field>
     <field name="collection_unitid_teim">MS OS</field>
     <field name="series_sim">Series I. Individual Oversize Manuscripts</field>
@@ -41,6 +40,6 @@
     <field name="unitdate_end_si">1813</field>
     <field name="unitdate_ssm">Inclusive, 1813 June 29</field>
     <field name="date_range_sim">1801-1900</field>
-    <field name="sort_ii">180</field>
+    <field name="sort_ii">181</field>
   </doc>
 </add>

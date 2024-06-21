@@ -9,6 +9,12 @@
     <field name="unitid_ssm">PR 345</field>
     <field name="abstract_teim">The collection includes 22 prints produced by 17 artists in connection with the Works Progress Administration's Federal Art Project (1935-1943), specifically from New York City.</field>
     <field name="abstract_ssm">The collection includes 22 prints produced by 17 artists in connection with the Works Progress Administration's Federal Art Project (1935-1943), specifically from New York City.</field>
+    <field name="creator_teim">Federal Art Project</field>
+    <field name="creator_teim">New-York Historical Society</field>
+    <field name="creator_ssm">Federal Art Project</field>
+    <field name="creator_ssm">New-York Historical Society</field>
+    <field name="creator_ssm">Federal Art Project</field>
+    <field name="creator_ssm">New-York Historical Society</field>
     <field name="unitdate_inclusive_teim">1935-1943</field>
     <field name="scopecontent_teim">The collection includes 22 prints produced by 17 artists in connection with the Works Progress Administration's Federal Art Program, specifically from New York City. The specific artists and works included in the collection are detailed in the container list. Generally, the works focus on people, rather than structures or landscapes, in urban settings such as street scenes, getting tattoos, street cart sales, recreation, laborers, and searching through a garbage can.</field>
     <field name="bioghist_teim">The Federal Art Project (1935-1943) was a Depression-era relief program run by the Works Progress Administration. The art project employed thousands of artists across the United States to create paintings, murals, photographs, and other art forms for the public. This collection includes a relatively small number of the thousands of "portable" works, specifically prints from New York City, created during the program.</field>
@@ -72,6 +78,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Federal Art Project</field>
+    <field name="creator_sim">New-York Historical Society</field>
     <field name="name_sim">Federal Art Project</field>
     <field name="name_sim">New-York Historical Society</field>
     <field name="name_sim">Abramovitz, Albert, 1879-1963</field>

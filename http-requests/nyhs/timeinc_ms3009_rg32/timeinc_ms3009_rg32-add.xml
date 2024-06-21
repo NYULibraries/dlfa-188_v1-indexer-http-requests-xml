@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MS 3009-RG 32</field>
     <field name="abstract_teim">The Time Inc. Time Covers contains a chronological run of detached covers.</field>
     <field name="abstract_ssm">The Time Inc. Time Covers contains a chronological run of detached covers.</field>
+    <field name="creator_teim">Time, inc.</field>
+    <field name="creator_ssm">Time, inc.</field>
+    <field name="creator_ssm">Time, inc.</field>
     <field name="unitdate_normal_ssm">1923/2015</field>
     <field name="unitdate_normal_teim">1923/2015</field>
     <field name="unitdate_normal_sim">1923/2015</field>
@@ -61,6 +64,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Time, inc.</field>
     <field name="name_sim">Time, inc.</field>
     <field name="name_sim">Time, inc. -- Archives.</field>
     <field name="name_sim">Time, inc. -- History.</field>

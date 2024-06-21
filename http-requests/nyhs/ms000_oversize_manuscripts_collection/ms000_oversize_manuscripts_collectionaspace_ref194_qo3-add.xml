@@ -23,8 +23,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">oversize: medium, Folder: Y-1839, November (Widows)</field>
-    <field name="location_ssm">Folder: Y-1839, November (Widows)</field>
-    <field name="location_si">Folder: Y-1839, November (Widows)</field>
+    <field name="location_si">oversize: medium, Folder: Y-1839, November (Widows)</field>
     <field name="collection_teim">Oversize manuscripts collection</field>
     <field name="collection_unitid_teim">MS OS</field>
     <field name="series_sim">Series I. Individual Oversize Manuscripts</field>
@@ -34,6 +33,6 @@
     <field name="date_range_sim">undated &amp; other</field>
     <field name="language_sim">English</field>
     <field name="language_ssm">English</field>
-    <field name="sort_ii">199</field>
+    <field name="sort_ii">200</field>
   </doc>
 </add>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MS 3009-RG 20</field>
     <field name="abstract_teim">The Time Inc. News Clippings contain copies of news articles about Time Warner and AOL Time Warner, its publications, and its subsidiaries.</field>
     <field name="abstract_ssm">The Time Inc. News Clippings contain copies of news articles about Time Warner and AOL Time Warner, its publications, and its subsidiaries.</field>
+    <field name="creator_teim">Time, inc.</field>
+    <field name="creator_ssm">Time, inc.</field>
+    <field name="creator_ssm">Time, inc.</field>
     <field name="unitdate_normal_ssm">1999/2012</field>
     <field name="unitdate_normal_teim">1999/2012</field>
     <field name="unitdate_normal_sim">1999/2012</field>
@@ -49,6 +52,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Time, inc.</field>
     <field name="name_sim">Time, inc.</field>
     <field name="name_sim">Time, inc. -- Archives.</field>
     <field name="name_sim">Time, inc. -- History.</field>

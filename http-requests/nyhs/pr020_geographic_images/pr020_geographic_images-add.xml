@@ -15,6 +15,9 @@ newspaper clippings of street views and buildings in the five
 boroughs of New York City (Series I through V), arranged by location or by type
 of structure. Series VI contains views of the United
 States outside of New York City, and Series VII consists of views outside of the United States.</field>
+    <field name="creator_teim">New-York Historical Society. Library</field>
+    <field name="creator_ssm">New-York Historical Society. Library</field>
+    <field name="creator_ssm">New-York Historical Society. Library</field>
     <field name="unitdate_normal_ssm">1850/1950</field>
     <field name="unitdate_normal_teim">1850/1950</field>
     <field name="unitdate_normal_sim">1850/1950</field>
@@ -133,6 +136,7 @@ verso of most items.</field>
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New-York Historical Society. Library</field>
     <field name="name_sim">New-York Historical Society. Library</field>
     <field name="name_teim">New-York Historical Society. Library</field>
     <field name="subject_sim">Buildings -- New York (State) </field>

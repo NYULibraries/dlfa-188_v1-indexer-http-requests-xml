@@ -22,10 +22,8 @@
     <field name="repository_ssm">nyhs</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Offsite-Box: 1, Box: 1</field>
-    <field name="location_ssm">Box: 1, Folder: 9</field>
-    <field name="location_ssm">Folder: 9</field>
-    <field name="location_si">Folder: 9</field>
+    <field name="location_ssm">Offsite-Box: 1, Box: 1, Folder: 9</field>
+    <field name="location_si">Offsite-Box: 1, Box: 1, Folder: 9</field>
     <field name="collection_teim">Irwin Silver photographs</field>
     <field name="collection_unitid_teim">PR 209</field>
     <field name="series_sim">Series IV. Nightwalks</field>

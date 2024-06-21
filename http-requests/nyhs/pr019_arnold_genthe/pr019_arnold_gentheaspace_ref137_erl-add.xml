@@ -25,10 +25,8 @@
     <field name="repository_ssm">nyhs</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Offsite-Box: 4, Box: 8</field>
-    <field name="location_ssm">Box: 8, Folder: 61</field>
-    <field name="location_ssm">Folder: 61</field>
-    <field name="location_si">Folder: 61</field>
+    <field name="location_ssm">Offsite-Box: 4, Box: 8, Folder: 61</field>
+    <field name="location_si">Offsite-Box: 4, Box: 8, Folder: 61</field>
     <field name="collection_teim">Arnold Genthe Photograph Collection</field>
     <field name="collection_unitid_teim">PR 19</field>
     <field name="series_sim">Series II: Portraits</field>

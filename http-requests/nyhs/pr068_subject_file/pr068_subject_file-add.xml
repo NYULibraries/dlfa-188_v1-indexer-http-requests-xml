@@ -9,6 +9,9 @@
     <field name="unitid_ssm">PR 68</field>
     <field name="abstract_teim">The collection, compiled by New-York Historical from various donations and purchases, consists of prints and photographs filed by subject.</field>
     <field name="abstract_ssm">The collection, compiled by New-York Historical from various donations and purchases, consists of prints and photographs filed by subject.</field>
+    <field name="creator_teim">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
+    <field name="creator_ssm">New-York Historical Society</field>
     <field name="unitdate_inclusive_teim">circa 1600-1976 (bulk 1800-1950)</field>
     <field name="scopecontent_teim">The Subject File spans the period from ca. 1600 to ca. 1976 and primarily contains images of American history and life. The collection is divided into three series by size: Boxed Files holds material smaller than 9 by 14 inches, Flat Files holds items between 9 by 14 and 24 by 40 inches, and Oversize Files holds material larger than 24 by 40 inches. All series include an immense range of printed material and photographs; snapshots, cyanotypes, news release photos, etchings, engravings, photogravures, lithographs and chromolithographs, albumen prints, silver gelatin prints, cabinet cards, book plates, and second generation copy photography are represented throughout the Subject File.</field>
     <field name="scopecontent_teim">The hierarchy is the same throughout the collection, although all categories do not appear in each series. Cross-references are made within the container list when appropriate. Where possible, Library of Congress subject headings and organizational terms have been used. This file is meant to be an open and active file, and will most likely see many new additions. The following description is current only as of December 2002.</field>
@@ -134,6 +137,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New-York Historical Society</field>
     <field name="name_sim">New-York Historical Society</field>
     <field name="name_sim">Currier &amp; Ives</field>
     <field name="name_sim">E.B. &amp; E.C. Kellogg (Firm)</field>

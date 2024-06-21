@@ -24,8 +24,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">oversize: small, Folder: Y-1862 (Conover)</field>
-    <field name="location_ssm">Folder: Y-1862 (Conover)</field>
-    <field name="location_si">Folder: Y-1862 (Conover)</field>
+    <field name="location_si">oversize: small, Folder: Y-1862 (Conover)</field>
     <field name="collection_teim">Oversize manuscripts collection</field>
     <field name="collection_unitid_teim">MS OS</field>
     <field name="series_sim">Series I. Individual Oversize Manuscripts</field>
@@ -33,6 +32,6 @@
     <field name="heading_ssm">[Y-1862] Conover family certificates</field>
     <field name="unitdate_ssm">Inclusive, 1862-1894</field>
     <field name="date_range_sim">undated &amp; other</field>
-    <field name="sort_ii">222</field>
+    <field name="sort_ii">223</field>
   </doc>
 </add>
