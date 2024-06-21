@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Veterans of the Abraham Lincoln Brigade Photographs</field>
     <field name="unittitle_ssm">Veterans of the Abraham Lincoln Brigade Photographs</field>
     <field name="unitid_teim">ALBA.PHOTO.015</field>
-    <field name="unitid_teim">/repositories/2/resources/299</field>
     <field name="unitid_ssm">ALBA.PHOTO.015</field>
-    <field name="unitid_ssm">/repositories/2/resources/299</field>
     <field name="abstract_teim">The organization Veterans of the Abraham Lincoln Brigade (VALB) was begun informally in 1937 and officially in 1939 by U.S. volunteers returning from the Spanish Civil War. The VALB Photograph Collection contains photographic prints, slides and negatives collected by VALB, donated to the organization over the years, and occasionally used in their New York City offices for publicity purposes, exhibits, etc. The collection is comprised mostly of images of American volunteers in Spain during the Spanish Civil War, including portraits, group shots, and battlefield scenes; it also includes images of demonstrations, support activities, and commemorative events in the United States. There are some photographs of volunteers of other nationalities, of supporters and relatives of the U.S. volunteers, and of prominent individuals such as Paul Robeson and Franklin Delano Roosevelt, as well as images documenting the volunteers' activities in more recent years, including Lincoln Brigade veterans' trips to Spain, Nicaragua, the People's Republic of China, and East Germany.</field>
     <field name="abstract_ssm">The organization Veterans of the Abraham Lincoln Brigade (VALB) was begun informally in 1937 and officially in 1939 by U.S. volunteers returning from the Spanish Civil War. The VALB Photograph Collection contains photographic prints, slides and negatives collected by VALB, donated to the organization over the years, and occasionally used in their New York City offices for publicity purposes, exhibits, etc. The collection is comprised mostly of images of American volunteers in Spain during the Spanish Civil War, including portraits, group shots, and battlefield scenes; it also includes images of demonstrations, support activities, and commemorative events in the United States. There are some photographs of volunteers of other nationalities, of supporters and relatives of the U.S. volunteers, and of prominent individuals such as Paul Robeson and Franklin Delano Roosevelt, as well as images documenting the volunteers' activities in more recent years, including Lincoln Brigade veterans' trips to Spain, Nicaragua, the People's Republic of China, and East Germany.</field>
+    <field name="creator_teim">Veterans of the Abraham Lincoln Brigade</field>
+    <field name="creator_ssm">Veterans of the Abraham Lincoln Brigade</field>
+    <field name="creator_ssm">Veterans of the Abraham Lincoln Brigade</field>
     <field name="unitdate_normal_ssm">1927/2000</field>
     <field name="unitdate_normal_teim">1927/2000</field>
     <field name="unitdate_normal_sim">1927/2000</field>
@@ -81,6 +82,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Veterans of the Abraham Lincoln Brigade</field>
     <field name="name_sim">Veterans of the Abraham Lincoln Brigade</field>
     <field name="name_sim">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</field>
     <field name="name_sim">Spain. Ejército Popular de la República. Brigada Internacional, XV</field>

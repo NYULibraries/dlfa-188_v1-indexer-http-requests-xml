@@ -28,10 +28,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, CD: ALBA A 18-147</field>
-    <field name="location_ssm">CD: ALBA A 18-147</field>
     <field name="location_ssm">Box: 7, audiocassette: 18_147</field>
-    <field name="location_ssm">audiocassette: 18_147</field>
-    <field name="location_si">audiocassette: 18_147</field>
+    <field name="location_si">Box: 7, audiocassette: 18_147</field>
     <field name="collection_teim">John Gerassi Oral History Collection</field>
     <field name="collection_unitid_teim">ALBA.AUDIO.018</field>
     <field name="series_sim">Series I: Oral History Interviews</field>

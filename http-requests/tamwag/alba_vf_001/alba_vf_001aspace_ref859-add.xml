@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Abraham Lincoln Brigade Archives Subject Files</field>
     <field name="collection_ssm">Abraham Lincoln Brigade Archives Subject Files</field>
-    <field name="collection_unitid_ssm">ALBA.VF.001/repositories/2/resources/336</field>
+    <field name="collection_unitid_ssm">ALBA.VF.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Film: "A Valley in Spain"</field>
     <field name="unittitle_teim">Film: "A Valley in Spain"</field>
@@ -20,10 +20,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, Folder: 12</field>
-    <field name="location_ssm">Folder: 12</field>
-    <field name="location_si">Folder: 12</field>
+    <field name="location_si">Box: 4, Folder: 12</field>
     <field name="collection_teim">Abraham Lincoln Brigade Archives Subject Files</field>
-    <field name="collection_unitid_teim">ALBA.VF.001/repositories/2/resources/336</field>
+    <field name="collection_unitid_teim">ALBA.VF.001</field>
     <field name="series_si">Film: "A Valley in Spain"</field>
     <field name="heading_ssm">Film: "A Valley in Spain"</field>
     <field name="date_range_sim">undated &amp; other</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Abraham Lincoln Brigade Archives Subject Files</field>
     <field name="unittitle_ssm">Abraham Lincoln Brigade Archives Subject Files</field>
     <field name="unitid_teim">ALBA.VF.001</field>
-    <field name="unitid_teim">/repositories/2/resources/336</field>
     <field name="unitid_ssm">ALBA.VF.001</field>
-    <field name="unitid_ssm">/repositories/2/resources/336</field>
     <field name="abstract_teim">The Abraham Lincoln Brigade Archives (ALBA) Subject Files are a rich source for background information on the people, events and topics related to the ALBA collections in the Tamiment Library and include coverage of the International Brigades as well. The files contain a variety of documents such as newspaper clippings, flyers, brochures, biographical material, anniversary and exhibit programs, obituaries, and other items. Consult the folder list in this collection to find material on specific events or topics. See the ALBA Vertical File on Individuals to find biographical material on specific individuals.</field>
     <field name="abstract_ssm">The Abraham Lincoln Brigade Archives (ALBA) Subject Files are a rich source for background information on the people, events and topics related to the ALBA collections in the Tamiment Library and include coverage of the International Brigades as well. The files contain a variety of documents such as newspaper clippings, flyers, brochures, biographical material, anniversary and exhibit programs, obituaries, and other items. Consult the folder list in this collection to find material on specific events or topics. See the ALBA Vertical File on Individuals to find biographical material on specific individuals.</field>
+    <field name="creator_teim">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
     <field name="unitdate_normal_ssm">1930/2023</field>
     <field name="unitdate_normal_teim">1930/2023</field>
     <field name="unitdate_normal_sim">1930/2023</field>
@@ -90,6 +91,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library</field>
     <field name="name_sim">Czech Liberty Fighters Association Archives</field>
     <field name="name_sim">Tamiment Library</field>
     <field name="name_sim">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</field>

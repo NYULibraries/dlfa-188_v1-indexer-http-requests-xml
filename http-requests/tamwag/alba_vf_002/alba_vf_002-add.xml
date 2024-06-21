@@ -9,12 +9,17 @@
     <field name="unitid_ssm">ALBA.VF.002</field>
     <field name="abstract_teim">The Abraham Lincoln Brigade Archives (ALBA) Vertical Files are a rich source for background information on the people, events and topics related to the ALBA collections in the Tamiment Library and include coverage of the International Brigades as well. The files contain a variety of documents such as newspaper clippings, flyers, brochures, biographical material, anniversary and exhibit programs, obituaries, and other items.</field>
     <field name="abstract_ssm">The Abraham Lincoln Brigade Archives (ALBA) Vertical Files are a rich source for background information on the people, events and topics related to the ALBA collections in the Tamiment Library and include coverage of the International Brigades as well. The files contain a variety of documents such as newspaper clippings, flyers, brochures, biographical material, anniversary and exhibit programs, obituaries, and other items.</field>
+    <field name="creator_teim">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
     <field name="unitdate_normal_ssm">1930/2011</field>
     <field name="unitdate_normal_teim">1930/2011</field>
     <field name="unitdate_normal_sim">1930/2011</field>
     <field name="unitdate_inclusive_teim">1930-2011</field>
     <field name="scopecontent_teim">The collection consists of files of printed ephemera such as biographical data, broadsides, brochures, bulletins, clippings, flyers, leaflets, obituaries, pamphlets, reprints, unpublished papers and other documents relating to a broad range of individuals connected in some way with the Abraham Lincoln Brigade. The bulk of the collection consists of files on individual Lincoln Brigade volunteers, but there are also files on Spanish participants in the Civil War, International Brigade volunteers from other nationality groups, journalists, visitors to Spain, and historians and others who have studied the conflict. (Some files include non-print items such as donor correspondence, typed notes, etc.)</field>
     <field name="custodhist_teim">The provenance of the materials is varied; much of it came to the Tamiment Library with the original acquisition of ALBA collections in 2001. Other items were obtained through donations, arrangements with organizations, and ongoing collecting by Tamiment staff.</field>
+    <field name="appraisal_teim">In May 2024, the physical folder for Aris Hagis (Box 9, Folder 39) was deaccessioned. The folder contained print-outs of scanned photographs and documents that were transferred to the Tamiment Library on optical discs. The files from the discs have been preserved and are accessible through standard born-digital processes.</field>
+    <field name="phystech_teim">Advance notice is required for the use of computer records. Original physical digital media is restricted. An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</field>
     <field name="corpname_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="corpname_teim">Tamiment Library</field>
     <field name="corpname_teim">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</field>
@@ -72,6 +77,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library</field>
     <field name="name_sim">Tamiment Library</field>
     <field name="name_sim">Spain. Ejército Popular de la República. Abraham Lincoln Battalion</field>
     <field name="name_sim">Abraham Lincoln Brigade Archives</field>
@@ -84,6 +90,7 @@
     <field name="place_sim">Spain -- History -- Civil War, 1936-1939 -- Veterans.</field>
     <field name="place_sim">Spain -- History -- Civil War, 1936-1939 -- Participation, Jewish.</field>
     <field name="place_sim">Spain -- History -- Civil War, 1936-1939 -- Personal narratives.</field>
+    <field name="dao_sim">Online Access</field>
     <field name="material_type_sim">Pamphlets.</field>
     <field name="material_type_sim">Programs (documents)</field>
     <field name="material_type_sim">Obituaries.</field>

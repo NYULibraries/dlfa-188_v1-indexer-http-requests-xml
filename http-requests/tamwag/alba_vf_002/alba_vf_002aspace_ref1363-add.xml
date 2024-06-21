@@ -15,6 +15,8 @@
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Busch, Dr. Irving</field>
     <field name="unittitle_teim">Busch, Dr. Irving</field>
+    <field name="unitid_teim">/repositories/2/archival_objects/36053</field>
+    <field name="unitid_ssm">/repositories/2/archival_objects/36053</field>
     <field name="ref_ssi">aspace_ref1363</field>
     <field name="repository_ssi">tamwag</field>
     <field name="repository_sim">tamwag</field>
@@ -22,8 +24,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 40</field>
-    <field name="location_ssm">Folder: 40</field>
-    <field name="location_si">Folder: 40</field>
+    <field name="location_si">Box: 3, Folder: 40</field>
     <field name="collection_teim">Abraham Lincoln Brigade Archives Vertical Files: Individuals</field>
     <field name="collection_unitid_teim">ALBA.VF.002</field>
     <field name="series_sim">Series I: ALBA Individual Files</field>
