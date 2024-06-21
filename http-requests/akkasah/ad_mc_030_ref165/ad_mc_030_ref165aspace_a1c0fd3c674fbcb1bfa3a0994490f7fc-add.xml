@@ -20,6 +20,9 @@
     <field name="unittitle_teim">A clipping of a promotional image of the promenade deck of a Nile steamer.</field>
     <field name="unitid_teim">AD_MC_030_ref165_000029a_000001</field>
     <field name="unitid_ssm">AD_MC_030_ref165_000029a_000001</field>
+    <field name="creator_teim">Thomas Cook and Son Ltd</field>
+    <field name="creator_ssm">Thomas Cook and Son Ltd</field>
+    <field name="creator_ssm">Thomas Cook and Son Ltd</field>
     <field name="unitdate_normal_ssm">1929/1929</field>
     <field name="unitdate_normal_teim">1929/1929</field>
     <field name="unitdate_normal_sim">1929/1929</field>
@@ -50,6 +53,7 @@
     <field name="repository_ssm">akkasah</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
+    <field name="creator_sim">Thomas Cook and Son Ltd</field>
     <field name="name_sim">Thomas Cook and Son Ltd</field>
     <field name="name_teim">Thomas Cook and Son Ltd</field>
     <field name="place_ssm">Nile River</field>

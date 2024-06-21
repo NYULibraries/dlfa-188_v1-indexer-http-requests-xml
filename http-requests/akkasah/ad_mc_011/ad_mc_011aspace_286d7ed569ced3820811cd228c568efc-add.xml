@@ -19,6 +19,9 @@
 | Actors in Image: Rafeaa El Shal, Sabah</field>
     <field name="unitid_teim">ref84_000002</field>
     <field name="unitid_ssm">ref84_000002</field>
+    <field name="creator_teim">Omara, Ibrahim</field>
+    <field name="creator_ssm">Omara, Ibrahim</field>
+    <field name="creator_ssm">Omara, Ibrahim</field>
     <field name="unitdate_normal_ssm">1956/1956</field>
     <field name="unitdate_normal_teim">1956/1956</field>
     <field name="unitdate_normal_sim">1956/1956</field>
@@ -60,8 +63,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 11, folder: 41</field>
-    <field name="location_ssm">folder: 41</field>
-    <field name="location_si">folder: 41</field>
+    <field name="location_si">box: 11, folder: 41</field>
+    <field name="creator_sim">Omara, Ibrahim</field>
     <field name="name_sim">Omara, Ibrahim</field>
     <field name="name_teim">Omara, Ibrahim</field>
     <field name="dao_sim">Online Access</field>

@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A group portrait of two men, including Jareh Krikorian, and Marie Rose Krikorian around a dinner table.</field>
     <field name="unitid_teim">ref773</field>
     <field name="unitid_ssm">ref773</field>
+    <field name="creator_teim">Issa Freres, Beyrouth (Beirut, Lebanon)</field>
+    <field name="creator_ssm">Issa Freres, Beyrouth (Beirut, Lebanon)</field>
+    <field name="creator_ssm">Issa Freres, Beyrouth (Beirut, Lebanon)</field>
     <field name="unitdate_normal_ssm">1950/1970</field>
     <field name="unitdate_normal_teim">1950/1970</field>
     <field name="unitdate_normal_sim">1950/1970</field>
@@ -61,8 +64,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 5, folder: 6</field>
-    <field name="location_ssm">folder: 6</field>
-    <field name="location_si">folder: 6</field>
+    <field name="location_si">box: 5, folder: 6</field>
+    <field name="creator_sim">Issa Freres, Beyrouth (Beirut, Lebanon)</field>
     <field name="name_sim">Issa Freres, Beyrouth (Beirut, Lebanon)</field>
     <field name="name_teim">Issa Freres, Beyrouth (Beirut, Lebanon)</field>
     <field name="dao_sim">Online Access</field>

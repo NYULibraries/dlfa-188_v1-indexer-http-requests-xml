@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a man wearing glasses with a mustache. </field>
     <field name="unitid_teim">ref962</field>
     <field name="unitid_ssm">ref962</field>
+    <field name="creator_teim">Studio Star, Damascus, Syria </field>
+    <field name="creator_ssm">Studio Star, Damascus, Syria </field>
+    <field name="creator_ssm">Studio Star, Damascus, Syria </field>
     <field name="unitdate_teim">22 April 1982</field>
     <field name="corpname_teim">Studio Star, Damascus, Syria </field>
     <field name="corpname_ssm">Studio Star, Damascus, Syria </field>
@@ -50,8 +53,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 7, folder: 2</field>
-    <field name="location_ssm">folder: 2</field>
-    <field name="location_si">folder: 2</field>
+    <field name="location_si">box: 7, folder: 2</field>
+    <field name="creator_sim">Studio Star, Damascus, Syria </field>
     <field name="name_sim">Studio Star, Damascus, Syria </field>
     <field name="name_teim">Studio Star, Damascus, Syria </field>
     <field name="dao_sim">Online Access</field>

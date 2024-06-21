@@ -20,6 +20,9 @@
     <field name="unittitle_teim">Wedding Portrait Series - A bride and groom standing next to some furniture, holding hands. 38.7 x 26.6 cm</field>
     <field name="unitid_teim">cuid1227</field>
     <field name="unitid_ssm">cuid1227</field>
+    <field name="creator_teim">C. Zoulis, Photo Helios, Le Caire (Cairo, Egypt)</field>
+    <field name="creator_ssm">C. Zoulis, Photo Helios, Le Caire (Cairo, Egypt)</field>
+    <field name="creator_ssm">C. Zoulis, Photo Helios, Le Caire (Cairo, Egypt)</field>
     <field name="unitdate_teim">Undated</field>
     <field name="corpname_teim">C. Zoulis, Photo Helios, Le Caire (Cairo, Egypt)</field>
     <field name="corpname_ssm">C. Zoulis, Photo Helios, Le Caire (Cairo, Egypt)</field>
@@ -66,10 +69,9 @@
     <field name="repository_ssm">akkasah</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">box: 7, folder: 1</field>
-    <field name="location_ssm">folder: 1, oversize: unknown container</field>
-    <field name="location_ssm">oversize: unknown container</field>
-    <field name="location_si">oversize: unknown container</field>
+    <field name="location_ssm">box: 7, folder: 1, oversize: unknown container</field>
+    <field name="location_si">box: 7, folder: 1, oversize: unknown container</field>
+    <field name="creator_sim">C. Zoulis, Photo Helios, Le Caire (Cairo, Egypt)</field>
     <field name="name_sim">C. Zoulis, Photo Helios, Le Caire (Cairo, Egypt)</field>
     <field name="name_teim">C. Zoulis, Photo Helios, Le Caire (Cairo, Egypt)</field>
     <field name="dao_sim">Online Access</field>

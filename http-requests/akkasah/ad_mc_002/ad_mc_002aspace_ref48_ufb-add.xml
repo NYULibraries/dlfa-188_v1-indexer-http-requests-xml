@@ -17,6 +17,12 @@
     <field name="unittitle_teim">A roundabout in front of a military compound. 11.9 x 7.1 cm</field>
     <field name="unitid_teim">cuid39</field>
     <field name="unitid_ssm">cuid39</field>
+    <field name="creator_teim">A. Kazandjian, P. O. B. 280, Khartoum</field>
+    <field name="creator_teim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
+    <field name="creator_ssm">A. Kazandjian, P. O. B. 280, Khartoum</field>
+    <field name="creator_ssm">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
+    <field name="creator_ssm">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
+    <field name="creator_ssm">A. Kazandjian, P. O. B. 280, Khartoum</field>
     <field name="unitdate_teim">Undated</field>
     <field name="corpname_teim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
     <field name="corpname_ssm">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
@@ -65,8 +71,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 1, folder: 4</field>
-    <field name="location_ssm">folder: 4</field>
-    <field name="location_si">folder: 4</field>
+    <field name="location_si">box: 1, folder: 4</field>
+    <field name="creator_sim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
+    <field name="creator_sim">A. Kazandjian, P. O. B. 280, Khartoum</field>
     <field name="name_sim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
     <field name="name_sim">A. Kazandjian, P. O. B. 280, Khartoum</field>
     <field name="name_teim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>

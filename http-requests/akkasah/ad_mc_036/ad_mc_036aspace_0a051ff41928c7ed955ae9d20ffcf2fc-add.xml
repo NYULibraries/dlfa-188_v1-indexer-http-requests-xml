@@ -56,8 +56,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 3, folder: 18</field>
-    <field name="location_ssm">folder: 18</field>
-    <field name="location_si">folder: 18</field>
+    <field name="location_si">box: 3, folder: 18</field>
     <field name="dao_sim">Online Access</field>
     <field name="place_ssm">Damascus, Syria</field>
     <field name="place_sim">Damascus, Syria</field>

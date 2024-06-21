@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a man wearing a uniform and a cap.</field>
     <field name="unitid_teim">ref607</field>
     <field name="unitid_ssm">ref607</field>
+    <field name="creator_teim">Studio Alsabah, Damascus, Syria </field>
+    <field name="creator_ssm">Studio Alsabah, Damascus, Syria </field>
+    <field name="creator_ssm">Studio Alsabah, Damascus, Syria </field>
     <field name="unitdate_teim">3 February 1974</field>
     <field name="corpname_teim">Studio Alsabah, Damascus, Syria </field>
     <field name="corpname_ssm">Studio Alsabah, Damascus, Syria </field>
@@ -61,8 +64,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 4, folder: 7</field>
-    <field name="location_ssm">folder: 7</field>
-    <field name="location_si">folder: 7</field>
+    <field name="location_si">box: 4, folder: 7</field>
+    <field name="creator_sim">Studio Alsabah, Damascus, Syria </field>
     <field name="name_sim">Studio Alsabah, Damascus, Syria </field>
     <field name="name_teim">Studio Alsabah, Damascus, Syria </field>
     <field name="dao_sim">Online Access</field>

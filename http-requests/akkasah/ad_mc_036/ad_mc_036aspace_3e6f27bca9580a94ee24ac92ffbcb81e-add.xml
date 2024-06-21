@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A group portrait of several people near a picnic blanket, including Marie (far left) and Jareh Krikorian (center).</field>
     <field name="unitid_teim">ref709</field>
     <field name="unitid_ssm">ref709</field>
+    <field name="creator_teim">Photo Boyadjian, 65 Avenue Barada, Damascus, Syria</field>
+    <field name="creator_ssm">Photo Boyadjian, 65 Avenue Barada, Damascus, Syria</field>
+    <field name="creator_ssm">Photo Boyadjian, 65 Avenue Barada, Damascus, Syria</field>
     <field name="unitdate_normal_ssm">1940/1950</field>
     <field name="unitdate_normal_teim">1940/1950</field>
     <field name="unitdate_normal_sim">1940/1950</field>
@@ -61,8 +64,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 5, folder: 2</field>
-    <field name="location_ssm">folder: 2</field>
-    <field name="location_si">folder: 2</field>
+    <field name="location_si">box: 5, folder: 2</field>
+    <field name="creator_sim">Photo Boyadjian, 65 Avenue Barada, Damascus, Syria</field>
     <field name="name_sim">Photo Boyadjian, 65 Avenue Barada, Damascus, Syria</field>
     <field name="name_teim">Photo Boyadjian, 65 Avenue Barada, Damascus, Syria</field>
     <field name="dao_sim">Online Access</field>

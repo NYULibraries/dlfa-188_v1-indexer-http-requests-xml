@@ -17,6 +17,9 @@
     <field name="unittitle_teim">The Three Bachelors</field>
     <field name="unitid_teim">ref141_000008</field>
     <field name="unitid_ssm">ref141_000008</field>
+    <field name="creator_teim">Mustafa, Hossam Dine </field>
+    <field name="creator_ssm">Mustafa, Hossam Dine </field>
+    <field name="creator_ssm">Mustafa, Hossam Dine </field>
     <field name="unitdate_normal_ssm">1962/1962</field>
     <field name="unitdate_normal_teim">1962/1962</field>
     <field name="unitdate_normal_sim">1962/1962</field>
@@ -30,8 +33,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 23, folder: 33</field>
-    <field name="location_ssm">folder: 33</field>
-    <field name="location_si">folder: 33</field>
+    <field name="location_si">box: 23, folder: 33</field>
+    <field name="creator_sim">Mustafa, Hossam Dine </field>
     <field name="name_sim">Mustafa, Hossam Dine </field>
     <field name="name_teim">Mustafa, Hossam Dine </field>
     <field name="collection_teim">Samir Farid Collection</field>

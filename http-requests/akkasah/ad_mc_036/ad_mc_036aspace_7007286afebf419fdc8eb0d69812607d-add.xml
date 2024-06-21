@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a man with a mustache. </field>
     <field name="unitid_teim">ref989</field>
     <field name="unitid_ssm">ref989</field>
+    <field name="creator_teim">Studio Mallouhy, Syria </field>
+    <field name="creator_ssm">Studio Mallouhy, Syria </field>
+    <field name="creator_ssm">Studio Mallouhy, Syria </field>
     <field name="unitdate_normal_ssm">1950/1975</field>
     <field name="unitdate_normal_teim">1950/1975</field>
     <field name="unitdate_normal_sim">1950/1975</field>
@@ -52,8 +55,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 7, folder: 5</field>
-    <field name="location_ssm">folder: 5</field>
-    <field name="location_si">folder: 5</field>
+    <field name="location_si">box: 7, folder: 5</field>
+    <field name="creator_sim">Studio Mallouhy, Syria </field>
     <field name="name_sim">Studio Mallouhy, Syria </field>
     <field name="name_teim">Studio Mallouhy, Syria </field>
     <field name="dao_sim">Online Access</field>

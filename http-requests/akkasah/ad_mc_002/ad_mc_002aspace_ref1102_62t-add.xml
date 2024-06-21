@@ -65,8 +65,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 5, folder: 19</field>
-    <field name="location_ssm">folder: 19</field>
-    <field name="location_si">folder: 19</field>
+    <field name="location_si">box: 5, folder: 19</field>
     <field name="dao_sim">Online Access</field>
     <field name="place_ssm">Paris, France</field>
     <field name="place_sim">Paris, France</field>

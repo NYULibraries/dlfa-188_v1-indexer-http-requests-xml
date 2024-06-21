@@ -19,6 +19,9 @@
 | Actors in Image: Emad Hamdy</field>
     <field name="unitid_teim">ref102_000015</field>
     <field name="unitid_ssm">ref102_000015</field>
+    <field name="creator_teim">al Sheikh, Kamal</field>
+    <field name="creator_ssm">al Sheikh, Kamal</field>
+    <field name="creator_ssm">al Sheikh, Kamal</field>
     <field name="unitdate_normal_ssm">1959/1959</field>
     <field name="unitdate_normal_teim">1959/1959</field>
     <field name="unitdate_normal_sim">1959/1959</field>
@@ -72,8 +75,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 14, folder: 31</field>
-    <field name="location_ssm">folder: 31</field>
-    <field name="location_si">folder: 31</field>
+    <field name="location_si">box: 14, folder: 31</field>
+    <field name="creator_sim">al Sheikh, Kamal</field>
     <field name="name_sim">al Sheikh, Kamal</field>
     <field name="name_teim">al Sheikh, Kamal</field>
     <field name="dao_sim">Online Access</field>

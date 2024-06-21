@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A portrait of a man leaning on a fence. </field>
     <field name="unitid_teim">ref1162</field>
     <field name="unitid_ssm">ref1162</field>
+    <field name="creator_teim">Photo Cine, Syria </field>
+    <field name="creator_ssm">Photo Cine, Syria </field>
+    <field name="creator_ssm">Photo Cine, Syria </field>
     <field name="unitdate_normal_ssm">1960/1980</field>
     <field name="unitdate_normal_teim">1960/1980</field>
     <field name="unitdate_normal_sim">1960/1980</field>
@@ -50,8 +53,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 9, folder: 8</field>
-    <field name="location_ssm">folder: 8</field>
-    <field name="location_si">folder: 8</field>
+    <field name="location_si">box: 9, folder: 8</field>
+    <field name="creator_sim">Photo Cine, Syria </field>
     <field name="name_sim">Photo Cine, Syria </field>
     <field name="name_teim">Photo Cine, Syria </field>
     <field name="place_ssm">Zurich, Switzerland </field>

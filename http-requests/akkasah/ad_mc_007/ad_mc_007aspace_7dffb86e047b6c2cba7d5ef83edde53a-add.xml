@@ -45,8 +45,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 25, folder: 1</field>
-    <field name="location_ssm">folder: 1</field>
-    <field name="location_si">folder: 1</field>
+    <field name="location_si">box: 25, folder: 1</field>
     <field name="place_ssm">Beyoglu, Istanbul, Turkey</field>
     <field name="place_sim">Beyoglu, Istanbul, Turkey</field>
     <field name="subject_sim">Group Portraits</field>

@@ -13,6 +13,9 @@
     <field name="unittitle_teim">Article: The Camera Overseas: Egypt Sends a Carpet to Mecca - Life Magazine.</field>
     <field name="unitid_teim">ref184_000036</field>
     <field name="unitid_ssm">ref184_000036</field>
+    <field name="creator_teim">LIFE magazine</field>
+    <field name="creator_ssm">LIFE magazine</field>
+    <field name="creator_ssm">LIFE magazine</field>
     <field name="unitdate_teim">15 March 1937</field>
     <field name="corpname_teim">LIFE magazine</field>
     <field name="corpname_ssm">LIFE magazine</field>
@@ -75,8 +78,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">object: Digital copy only: 030_ref184, object: ref184_000036</field>
-    <field name="location_ssm">object: ref184_000036</field>
-    <field name="location_si">object: ref184_000036</field>
+    <field name="location_si">object: Digital copy only: 030_ref184, object: ref184_000036</field>
+    <field name="creator_sim">LIFE magazine</field>
     <field name="name_sim">LIFE magazine</field>
     <field name="name_teim">LIFE magazine</field>
     <field name="dao_sim">Online Access</field>

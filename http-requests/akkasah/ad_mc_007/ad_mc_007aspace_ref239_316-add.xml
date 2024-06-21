@@ -49,10 +49,8 @@
     <field name="repository_ssm">akkasah</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">box: 2, folder: 15</field>
-    <field name="location_ssm">folder: 15, oversize: unknown container</field>
-    <field name="location_ssm">oversize: unknown container</field>
-    <field name="location_si">oversize: unknown container</field>
+    <field name="location_ssm">box: 2, folder: 15, oversize: unknown container</field>
+    <field name="location_si">box: 2, folder: 15, oversize: unknown container</field>
     <field name="dao_sim">Online Access</field>
     <field name="place_ssm">Turkey</field>
     <field name="place_sim">Turkey</field>

@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A group portrait of Jareh Krikorian and a man and woman in front of a body of water (linked ref1246, 1247). </field>
     <field name="unitid_teim">ref1245</field>
     <field name="unitid_ssm">ref1245</field>
+    <field name="creator_teim">Photo Storm, Hildesheim, Germany </field>
+    <field name="creator_ssm">Photo Storm, Hildesheim, Germany </field>
+    <field name="creator_ssm">Photo Storm, Hildesheim, Germany </field>
     <field name="unitdate_normal_ssm">1970/1980</field>
     <field name="unitdate_normal_teim">1970/1980</field>
     <field name="unitdate_normal_sim">1970/1980</field>
@@ -56,8 +59,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 9, folder: 17</field>
-    <field name="location_ssm">folder: 17</field>
-    <field name="location_si">folder: 17</field>
+    <field name="location_si">box: 9, folder: 17</field>
+    <field name="creator_sim">Photo Storm, Hildesheim, Germany </field>
     <field name="name_sim">Photo Storm, Hildesheim, Germany </field>
     <field name="name_teim">Photo Storm, Hildesheim, Germany </field>
     <field name="place_ssm">Hildesheim, Germany</field>

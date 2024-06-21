@@ -19,6 +19,9 @@
 | Actor in image: Ismail Yasin</field>
     <field name="unitid_teim">ref96_000002</field>
     <field name="unitid_ssm">ref96_000002</field>
+    <field name="creator_teim">Rafla, Helmy </field>
+    <field name="creator_ssm">Rafla, Helmy </field>
+    <field name="creator_ssm">Rafla, Helmy </field>
     <field name="unitdate_normal_ssm">1958/1958</field>
     <field name="unitdate_normal_teim">1958/1958</field>
     <field name="unitdate_normal_sim">1958/1958</field>
@@ -63,8 +66,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 13, folder: 35</field>
-    <field name="location_ssm">folder: 35</field>
-    <field name="location_si">folder: 35</field>
+    <field name="location_si">box: 13, folder: 35</field>
+    <field name="creator_sim">Rafla, Helmy </field>
     <field name="name_sim">Rafla, Helmy </field>
     <field name="name_teim">Rafla, Helmy </field>
     <field name="dao_sim">Online Access</field>

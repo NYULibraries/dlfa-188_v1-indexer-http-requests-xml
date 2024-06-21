@@ -19,6 +19,9 @@
 | Actors in Image: Ahmed Abaza, Lobna Abdelaziz, Mohamed Hamdy</field>
     <field name="unitid_teim">ref112_000003</field>
     <field name="unitid_ssm">ref112_000003</field>
+    <field name="creator_teim">Naguib, Ramsis</field>
+    <field name="creator_ssm">Naguib, Ramsis</field>
+    <field name="creator_ssm">Naguib, Ramsis</field>
     <field name="unitdate_normal_ssm">1960/1960</field>
     <field name="unitdate_normal_teim">1960/1960</field>
     <field name="unitdate_normal_sim">1960/1960</field>
@@ -72,8 +75,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 16, folder: 35</field>
-    <field name="location_ssm">folder: 35</field>
-    <field name="location_si">folder: 35</field>
+    <field name="location_si">box: 16, folder: 35</field>
+    <field name="creator_sim">Naguib, Ramsis</field>
     <field name="name_sim">Naguib, Ramsis</field>
     <field name="name_teim">Naguib, Ramsis</field>
     <field name="dao_sim">Online Access</field>

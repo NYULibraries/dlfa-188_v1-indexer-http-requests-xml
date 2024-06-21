@@ -19,6 +19,9 @@
 | Actors in Image: Abdelsalam El Nabolsi, Soad Hosny</field>
     <field name="unitid_teim">ref118_000002</field>
     <field name="unitid_ssm">ref118_000002</field>
+    <field name="creator_teim">Halim, Helmy</field>
+    <field name="creator_ssm">Halim, Helmy</field>
+    <field name="creator_ssm">Halim, Helmy</field>
     <field name="unitdate_normal_ssm">1960/1960</field>
     <field name="unitdate_normal_teim">1960/1960</field>
     <field name="unitdate_normal_sim">1960/1960</field>
@@ -60,8 +63,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 17, folder: 25</field>
-    <field name="location_ssm">folder: 25</field>
-    <field name="location_si">folder: 25</field>
+    <field name="location_si">box: 17, folder: 25</field>
+    <field name="creator_sim">Halim, Helmy</field>
     <field name="name_sim">Halim, Helmy</field>
     <field name="name_teim">Halim, Helmy</field>
     <field name="dao_sim">Online Access</field>

@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a boy with a plaid shirt.</field>
     <field name="unitid_teim">ref173</field>
     <field name="unitid_ssm">ref173</field>
+    <field name="creator_teim">Hadad, Damascus (Syria)</field>
+    <field name="creator_ssm">Hadad, Damascus (Syria)</field>
+    <field name="creator_ssm">Hadad, Damascus (Syria)</field>
     <field name="unitdate_teim">17 July 1971</field>
     <field name="corpname_teim">Hadad, Damascus (Syria)</field>
     <field name="corpname_ssm">Hadad, Damascus (Syria)</field>
@@ -52,8 +55,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 2, folder: 5</field>
-    <field name="location_ssm">folder: 5</field>
-    <field name="location_si">folder: 5</field>
+    <field name="location_si">box: 2, folder: 5</field>
+    <field name="creator_sim">Hadad, Damascus (Syria)</field>
     <field name="name_sim">Hadad, Damascus (Syria)</field>
     <field name="name_teim">Hadad, Damascus (Syria)</field>
     <field name="dao_sim">Online Access</field>

@@ -19,6 +19,9 @@
 | Actors in Image: Aziz Othman, Laila Fawzy</field>
     <field name="unitid_teim">ref34_000001</field>
     <field name="unitid_ssm">ref34_000001</field>
+    <field name="creator_teim">Omara, Ibrahim</field>
+    <field name="creator_ssm">Omara, Ibrahim</field>
+    <field name="creator_ssm">Omara, Ibrahim</field>
     <field name="unitdate_normal_ssm">1949/1949</field>
     <field name="unitdate_normal_teim">1949/1949</field>
     <field name="unitdate_normal_sim">1949/1949</field>
@@ -66,8 +69,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 5, folder: 12</field>
-    <field name="location_ssm">folder: 12</field>
-    <field name="location_si">folder: 12</field>
+    <field name="location_si">box: 5, folder: 12</field>
+    <field name="creator_sim">Omara, Ibrahim</field>
     <field name="name_sim">Omara, Ibrahim</field>
     <field name="name_teim">Omara, Ibrahim</field>
     <field name="dao_sim">Online Access</field>

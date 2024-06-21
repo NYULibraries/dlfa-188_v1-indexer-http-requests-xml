@@ -19,6 +19,12 @@
 | Actors in Image: Mohamed Kamel, Madiha Yousri</field>
     <field name="unitid_teim">ref31_000004</field>
     <field name="unitid_ssm">ref31_000004</field>
+    <field name="creator_teim">Salem, Ahmad</field>
+    <field name="creator_teim">Abdel Wahab, Fateen </field>
+    <field name="creator_ssm">Salem, Ahmad</field>
+    <field name="creator_ssm">Abdel Wahab, Fateen </field>
+    <field name="creator_ssm">Salem, Ahmad</field>
+    <field name="creator_ssm">Abdel Wahab, Fateen </field>
     <field name="unitdate_normal_ssm">1948/1948</field>
     <field name="unitdate_normal_teim">1948/1948</field>
     <field name="unitdate_normal_sim">1948/1948</field>
@@ -71,8 +77,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 4, folder: 54</field>
-    <field name="location_ssm">folder: 54</field>
-    <field name="location_si">folder: 54</field>
+    <field name="location_si">box: 4, folder: 54</field>
+    <field name="creator_sim">Salem, Ahmad</field>
+    <field name="creator_sim">Abdel Wahab, Fateen </field>
     <field name="name_sim">Salem, Ahmad</field>
     <field name="name_sim">Abdel Wahab, Fateen </field>
     <field name="name_teim">Salem, Ahmad</field>

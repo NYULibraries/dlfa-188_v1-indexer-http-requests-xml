@@ -19,6 +19,9 @@
 | Actors in Image: Hoda Soltan, Farid Shawqy</field>
     <field name="unitid_teim">ref75_000001</field>
     <field name="unitid_ssm">ref75_000001</field>
+    <field name="creator_teim">Mostafa, Niazi</field>
+    <field name="creator_ssm">Mostafa, Niazi</field>
+    <field name="creator_ssm">Mostafa, Niazi</field>
     <field name="unitdate_normal_ssm">1954/1954</field>
     <field name="unitdate_normal_teim">1954/1954</field>
     <field name="unitdate_normal_sim">1954/1954</field>
@@ -69,8 +72,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 10, folder: 1</field>
-    <field name="location_ssm">folder: 1</field>
-    <field name="location_si">folder: 1</field>
+    <field name="location_si">box: 10, folder: 1</field>
+    <field name="creator_sim">Mostafa, Niazi</field>
     <field name="name_sim">Mostafa, Niazi</field>
     <field name="name_teim">Mostafa, Niazi</field>
     <field name="dao_sim">Online Access</field>

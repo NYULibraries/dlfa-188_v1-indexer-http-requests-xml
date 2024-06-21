@@ -66,10 +66,8 @@
     <field name="repository_ssm">akkasah</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">box: 7, folder: 2</field>
-    <field name="location_ssm">folder: 2, oversize: unknown container</field>
-    <field name="location_ssm">oversize: unknown container</field>
-    <field name="location_si">oversize: unknown container</field>
+    <field name="location_ssm">box: 7, folder: 2, oversize: unknown container</field>
+    <field name="location_si">box: 7, folder: 2, oversize: unknown container</field>
     <field name="dao_sim">Online Access</field>
     <field name="place_ssm">Choubra/Shubra, Egypt</field>
     <field name="place_sim">Choubra/Shubra, Egypt</field>

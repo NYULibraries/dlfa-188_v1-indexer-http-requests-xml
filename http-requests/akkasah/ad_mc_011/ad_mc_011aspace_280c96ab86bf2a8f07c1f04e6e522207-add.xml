@@ -19,6 +19,9 @@
 | Actors in Image: Taheyya Kariokka</field>
     <field name="unitid_teim">ref41_000001</field>
     <field name="unitid_ssm">ref41_000001</field>
+    <field name="creator_teim">Madkour, Gamal</field>
+    <field name="creator_ssm">Madkour, Gamal</field>
+    <field name="creator_ssm">Madkour, Gamal</field>
     <field name="unitdate_normal_ssm">1950/1950</field>
     <field name="unitdate_normal_teim">1950/1950</field>
     <field name="unitdate_normal_sim">1950/1950</field>
@@ -78,8 +81,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 5, folder: 40</field>
-    <field name="location_ssm">folder: 40</field>
-    <field name="location_si">folder: 40</field>
+    <field name="location_si">box: 5, folder: 40</field>
+    <field name="creator_sim">Madkour, Gamal</field>
     <field name="name_sim">Madkour, Gamal</field>
     <field name="name_teim">Madkour, Gamal</field>
     <field name="dao_sim">Online Access</field>

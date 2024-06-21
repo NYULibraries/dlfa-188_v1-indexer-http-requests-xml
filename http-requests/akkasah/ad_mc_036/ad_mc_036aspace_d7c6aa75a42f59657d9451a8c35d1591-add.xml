@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A group portrait of men, including Adel Bassem (right), eating food outdoors.</field>
     <field name="unitid_teim">ref265</field>
     <field name="unitid_ssm">ref265</field>
+    <field name="creator_teim">Tirage Photo Dadour,  Alep (Aleppo, Syria)</field>
+    <field name="creator_ssm">Tirage Photo Dadour,  Alep (Aleppo, Syria)</field>
+    <field name="creator_ssm">Tirage Photo Dadour,  Alep (Aleppo, Syria)</field>
     <field name="unitdate_normal_ssm">1940/1965</field>
     <field name="unitdate_normal_teim">1940/1965</field>
     <field name="unitdate_normal_sim">1940/1965</field>
@@ -70,8 +73,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 2, folder: 15</field>
-    <field name="location_ssm">folder: 15</field>
-    <field name="location_si">folder: 15</field>
+    <field name="location_si">box: 2, folder: 15</field>
+    <field name="creator_sim">Tirage Photo Dadour,  Alep (Aleppo, Syria)</field>
     <field name="name_sim">Tirage Photo Dadour,  Alep (Aleppo, Syria)</field>
     <field name="name_teim">Tirage Photo Dadour,  Alep (Aleppo, Syria)</field>
     <field name="dao_sim">Online Access</field>

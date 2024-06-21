@@ -19,6 +19,12 @@
 | Actors in Image: Laila Fawzy</field>
     <field name="unitid_teim">ref20_000010</field>
     <field name="unitid_ssm">ref20_000010</field>
+    <field name="creator_teim">Al Imam, Hassan</field>
+    <field name="creator_teim">Abdel Wahab, Fateen </field>
+    <field name="creator_ssm">Al Imam, Hassan</field>
+    <field name="creator_ssm">Abdel Wahab, Fateen </field>
+    <field name="creator_ssm">Al Imam, Hassan</field>
+    <field name="creator_ssm">Abdel Wahab, Fateen </field>
     <field name="unitdate_normal_ssm">1947/1947</field>
     <field name="unitdate_normal_teim">1947/1947</field>
     <field name="unitdate_normal_sim">1947/1947</field>
@@ -68,8 +74,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 3, folder: 10</field>
-    <field name="location_ssm">folder: 10</field>
-    <field name="location_si">folder: 10</field>
+    <field name="location_si">box: 3, folder: 10</field>
+    <field name="creator_sim">Al Imam, Hassan</field>
+    <field name="creator_sim">Abdel Wahab, Fateen </field>
     <field name="name_sim">Al Imam, Hassan</field>
     <field name="name_sim">Abdel Wahab, Fateen </field>
     <field name="name_teim">Al Imam, Hassan</field>

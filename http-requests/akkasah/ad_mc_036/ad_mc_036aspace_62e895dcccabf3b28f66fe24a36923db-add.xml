@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A group portrait of a crowd (linked ref1007, 1009). </field>
     <field name="unitid_teim">ref1008</field>
     <field name="unitid_ssm">ref1008</field>
+    <field name="creator_teim">Studio Al Ahram, Aleppo, (Syria) </field>
+    <field name="creator_ssm">Studio Al Ahram, Aleppo, (Syria) </field>
+    <field name="creator_ssm">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="unitdate_teim">12 June 1974</field>
     <field name="corpname_teim">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="corpname_ssm">Studio Al Ahram, Aleppo, (Syria) </field>
@@ -58,8 +61,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 7, folder: 2</field>
-    <field name="location_ssm">folder: 2</field>
-    <field name="location_si">folder: 2</field>
+    <field name="location_si">box: 7, folder: 2</field>
+    <field name="creator_sim">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="name_sim">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="name_teim">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="dao_sim">Online Access</field>

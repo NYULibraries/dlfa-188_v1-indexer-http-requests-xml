@@ -20,6 +20,9 @@
     <field name="unittitle_teim">A hand-colored postcard of two doves perching on some flowers, in a park. Greek text "Happy Birthday". 9.0 x 13.9 cm</field>
     <field name="unitid_teim">cuid1096</field>
     <field name="unitid_ssm">cuid1096</field>
+    <field name="creator_teim">The Cairo Postcard Trust, Cairo (Egypt) </field>
+    <field name="creator_ssm">The Cairo Postcard Trust, Cairo (Egypt) </field>
+    <field name="creator_ssm">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="unitdate_teim">4 June 1927</field>
     <field name="corpname_teim">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="corpname_ssm">The Cairo Postcard Trust, Cairo (Egypt) </field>
@@ -55,8 +58,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 5, folder: 22</field>
-    <field name="location_ssm">folder: 22</field>
-    <field name="location_si">folder: 22</field>
+    <field name="location_si">box: 5, folder: 22</field>
+    <field name="creator_sim">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="name_sim">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="name_teim">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="dao_sim">Online Access</field>

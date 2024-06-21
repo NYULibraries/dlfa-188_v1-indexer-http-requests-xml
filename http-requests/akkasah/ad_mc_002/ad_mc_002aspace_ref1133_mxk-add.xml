@@ -20,6 +20,9 @@
     <field name="unittitle_teim">A hand-colored postcard of an orange and a purple flower with a lake in the background. 13.7 x 8.7 cm</field>
     <field name="unitid_teim">cuid1105</field>
     <field name="unitid_ssm">cuid1105</field>
+    <field name="creator_teim">Alfred Noyer Studio, Paris</field>
+    <field name="creator_ssm">Alfred Noyer Studio, Paris</field>
+    <field name="creator_ssm">Alfred Noyer Studio, Paris</field>
     <field name="unitdate_teim">Undated</field>
     <field name="corpname_teim">Alfred Noyer Studio, Paris</field>
     <field name="corpname_ssm">Alfred Noyer Studio, Paris</field>
@@ -52,8 +55,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 5, folder: 23</field>
-    <field name="location_ssm">folder: 23</field>
-    <field name="location_si">folder: 23</field>
+    <field name="location_si">box: 5, folder: 23</field>
+    <field name="creator_sim">Alfred Noyer Studio, Paris</field>
     <field name="name_sim">Alfred Noyer Studio, Paris</field>
     <field name="name_teim">Alfred Noyer Studio, Paris</field>
     <field name="dao_sim">Online Access</field>

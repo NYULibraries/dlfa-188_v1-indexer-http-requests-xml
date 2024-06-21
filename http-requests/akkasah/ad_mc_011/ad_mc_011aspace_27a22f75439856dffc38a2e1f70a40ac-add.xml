@@ -19,6 +19,9 @@
 | Actors in Image: Mohamed Fawzy, Aziza Helmy</field>
     <field name="unitid_teim">ref29_000003</field>
     <field name="unitid_ssm">ref29_000003</field>
+    <field name="creator_teim">Hassan, Abdel Fattah</field>
+    <field name="creator_ssm">Hassan, Abdel Fattah</field>
+    <field name="creator_ssm">Hassan, Abdel Fattah</field>
     <field name="unitdate_normal_ssm">1948/1948</field>
     <field name="unitdate_normal_teim">1948/1948</field>
     <field name="unitdate_normal_sim">1948/1948</field>
@@ -60,8 +63,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 4, folder: 33</field>
-    <field name="location_ssm">folder: 33</field>
-    <field name="location_si">folder: 33</field>
+    <field name="location_si">box: 4, folder: 33</field>
+    <field name="creator_sim">Hassan, Abdel Fattah</field>
     <field name="name_sim">Hassan, Abdel Fattah</field>
     <field name="name_teim">Hassan, Abdel Fattah</field>
     <field name="dao_sim">Online Access</field>

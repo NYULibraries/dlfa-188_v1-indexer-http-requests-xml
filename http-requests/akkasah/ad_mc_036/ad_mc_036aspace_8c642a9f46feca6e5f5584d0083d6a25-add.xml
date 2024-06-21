@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a boy (linked ref 949, 970, 971, 973, 974, 975, 976, 982, 983, 984, 986). </field>
     <field name="unitid_teim">ref987</field>
     <field name="unitid_ssm">ref987</field>
+    <field name="creator_teim">Studio Mallouhy, Syria </field>
+    <field name="creator_ssm">Studio Mallouhy, Syria </field>
+    <field name="creator_ssm">Studio Mallouhy, Syria </field>
     <field name="unitdate_teim">1961</field>
     <field name="corpname_teim">Studio Mallouhy, Syria </field>
     <field name="corpname_ssm">Studio Mallouhy, Syria </field>
@@ -44,8 +47,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 7, folder: 5</field>
-    <field name="location_ssm">folder: 5</field>
-    <field name="location_si">folder: 5</field>
+    <field name="location_si">box: 7, folder: 5</field>
+    <field name="creator_sim">Studio Mallouhy, Syria </field>
     <field name="name_sim">Studio Mallouhy, Syria </field>
     <field name="name_teim">Studio Mallouhy, Syria </field>
     <field name="dao_sim">Online Access</field>

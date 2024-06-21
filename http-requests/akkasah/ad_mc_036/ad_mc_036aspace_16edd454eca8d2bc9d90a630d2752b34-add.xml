@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a couple in their wedding outfits. </field>
     <field name="unitid_teim">ref1280</field>
     <field name="unitid_ssm">ref1280</field>
+    <field name="creator_teim">Photo Kevork, Syria</field>
+    <field name="creator_ssm">Photo Kevork, Syria</field>
+    <field name="creator_ssm">Photo Kevork, Syria</field>
     <field name="unitdate_normal_ssm">1960/1960</field>
     <field name="unitdate_normal_teim">1960/1960</field>
     <field name="unitdate_normal_sim">1960/1960</field>
@@ -57,8 +60,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 9, folder: 21</field>
-    <field name="location_ssm">folder: 21</field>
-    <field name="location_si">folder: 21</field>
+    <field name="location_si">box: 9, folder: 21</field>
+    <field name="creator_sim">Photo Kevork, Syria</field>
     <field name="name_sim">Photo Kevork, Syria</field>
     <field name="name_teim">Photo Kevork, Syria</field>
     <field name="place_ssm">Syria</field>

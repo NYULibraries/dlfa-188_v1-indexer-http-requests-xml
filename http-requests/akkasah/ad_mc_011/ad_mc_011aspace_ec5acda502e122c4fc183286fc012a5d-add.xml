@@ -19,6 +19,9 @@
 | Actors in Image: Abbas Fares, Elham Hussein</field>
     <field name="unitid_teim">ref7_000003</field>
     <field name="unitid_ssm">ref7_000003</field>
+    <field name="creator_teim">Morsi, Ahmed Kamel</field>
+    <field name="creator_ssm">Morsi, Ahmed Kamel</field>
+    <field name="creator_ssm">Morsi, Ahmed Kamel</field>
     <field name="unitdate_normal_ssm">1945/1945</field>
     <field name="unitdate_normal_teim">1945/1945</field>
     <field name="unitdate_normal_sim">1945/1945</field>
@@ -78,8 +81,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 1, folder: 41</field>
-    <field name="location_ssm">folder: 41</field>
-    <field name="location_si">folder: 41</field>
+    <field name="location_si">box: 1, folder: 41</field>
+    <field name="creator_sim">Morsi, Ahmed Kamel</field>
     <field name="name_sim">Morsi, Ahmed Kamel</field>
     <field name="name_teim">Morsi, Ahmed Kamel</field>
     <field name="dao_sim">Online Access</field>

@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a man wearing a uniform and a cap.</field>
     <field name="unitid_teim">ref435</field>
     <field name="unitid_ssm">ref435</field>
+    <field name="creator_teim">Studio Al-Rabih, (Syria) </field>
+    <field name="creator_ssm">Studio Al-Rabih, (Syria) </field>
+    <field name="creator_ssm">Studio Al-Rabih, (Syria) </field>
     <field name="unitdate_normal_ssm">1955/1975</field>
     <field name="unitdate_normal_teim">1955/1975</field>
     <field name="unitdate_normal_sim">1955/1975</field>
@@ -60,8 +63,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 3, folder: 17</field>
-    <field name="location_ssm">folder: 17</field>
-    <field name="location_si">folder: 17</field>
+    <field name="location_si">box: 3, folder: 17</field>
+    <field name="creator_sim">Studio Al-Rabih, (Syria) </field>
     <field name="name_sim">Studio Al-Rabih, (Syria) </field>
     <field name="name_teim">Studio Al-Rabih, (Syria) </field>
     <field name="dao_sim">Online Access</field>

@@ -44,8 +44,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 17, folder: 12</field>
-    <field name="location_ssm">folder: 12</field>
-    <field name="location_si">folder: 12</field>
+    <field name="location_si">box: 17, folder: 12</field>
     <field name="dao_sim">Online Access</field>
     <field name="place_ssm">Germany</field>
     <field name="place_sim">Germany</field>

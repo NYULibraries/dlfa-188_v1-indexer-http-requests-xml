@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a young man.</field>
     <field name="unitid_teim">ref482</field>
     <field name="unitid_ssm">ref482</field>
+    <field name="creator_teim">Studio Al Assime, (Syria) </field>
+    <field name="creator_ssm">Studio Al Assime, (Syria) </field>
+    <field name="creator_ssm">Studio Al Assime, (Syria) </field>
     <field name="unitdate_teim">12 July 1970</field>
     <field name="corpname_teim">Studio Al Assime, (Syria) </field>
     <field name="corpname_ssm">Studio Al Assime, (Syria) </field>
@@ -52,8 +55,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 3, folder: 21</field>
-    <field name="location_ssm">folder: 21</field>
-    <field name="location_si">folder: 21</field>
+    <field name="location_si">box: 3, folder: 21</field>
+    <field name="creator_sim">Studio Al Assime, (Syria) </field>
     <field name="name_sim">Studio Al Assime, (Syria) </field>
     <field name="name_teim">Studio Al Assime, (Syria) </field>
     <field name="dao_sim">Online Access</field>

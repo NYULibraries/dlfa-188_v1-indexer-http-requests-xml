@@ -35,8 +35,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 6, folder: 4</field>
-    <field name="location_ssm">folder: 4</field>
-    <field name="location_si">folder: 4</field>
+    <field name="location_si">box: 6, folder: 4</field>
     <field name="dao_sim">Online Access</field>
     <field name="place_ssm">Adapazari, Turkey</field>
     <field name="place_sim">Adapazari, Turkey</field>

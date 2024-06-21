@@ -17,6 +17,12 @@
     <field name="unittitle_teim">The Alexandria Corniche and Saad Zaghloul Square. 11.4 x 7.2 cm</field>
     <field name="unitid_teim">cuid18</field>
     <field name="unitid_ssm">cuid18</field>
+    <field name="creator_teim">A. Kazandjian, P. O. B. 280, Khartoum</field>
+    <field name="creator_teim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
+    <field name="creator_ssm">A. Kazandjian, P. O. B. 280, Khartoum</field>
+    <field name="creator_ssm">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
+    <field name="creator_ssm">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
+    <field name="creator_ssm">A. Kazandjian, P. O. B. 280, Khartoum</field>
     <field name="unitdate_teim">Undated</field>
     <field name="corpname_teim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
     <field name="corpname_ssm">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
@@ -54,8 +60,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 1, folder: 2</field>
-    <field name="location_ssm">folder: 2</field>
-    <field name="location_si">folder: 2</field>
+    <field name="location_si">box: 1, folder: 2</field>
+    <field name="creator_sim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
+    <field name="creator_sim">A. Kazandjian, P. O. B. 280, Khartoum</field>
     <field name="name_sim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>
     <field name="name_sim">A. Kazandjian, P. O. B. 280, Khartoum</field>
     <field name="name_teim">Gordon Studio, A. Kazandjian, PO Box 280, Khartoum, Sudan</field>

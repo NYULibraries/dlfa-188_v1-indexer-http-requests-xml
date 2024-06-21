@@ -19,6 +19,9 @@
 | Actors in Image: Ragaa Abdo, Ismail Yasin</field>
     <field name="unitid_teim">ref47_000002</field>
     <field name="unitid_ssm">ref47_000002</field>
+    <field name="creator_teim">Attia, Kamal</field>
+    <field name="creator_ssm">Attia, Kamal</field>
+    <field name="creator_ssm">Attia, Kamal</field>
     <field name="unitdate_normal_ssm">1950/1950</field>
     <field name="unitdate_normal_teim">1950/1950</field>
     <field name="unitdate_normal_sim">1950/1950</field>
@@ -60,8 +63,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 6, folder: 19</field>
-    <field name="location_ssm">folder: 19</field>
-    <field name="location_si">folder: 19</field>
+    <field name="location_si">box: 6, folder: 19</field>
+    <field name="creator_sim">Attia, Kamal</field>
     <field name="name_sim">Attia, Kamal</field>
     <field name="name_teim">Attia, Kamal</field>
     <field name="dao_sim">Online Access</field>

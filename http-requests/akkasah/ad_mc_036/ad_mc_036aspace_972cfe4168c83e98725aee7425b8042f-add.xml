@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A group portrait of several nurses.</field>
     <field name="unitid_teim">ref1000</field>
     <field name="unitid_ssm">ref1000</field>
+    <field name="creator_teim">Studio Al Ahram, Aleppo, (Syria) </field>
+    <field name="creator_ssm">Studio Al Ahram, Aleppo, (Syria) </field>
+    <field name="creator_ssm">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="unitdate_teim">12 November 1973</field>
     <field name="corpname_teim">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="corpname_ssm">Studio Al Ahram, Aleppo, (Syria) </field>
@@ -47,8 +50,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 8, folder: 1</field>
-    <field name="location_ssm">folder: 1</field>
-    <field name="location_si">folder: 1</field>
+    <field name="location_si">box: 8, folder: 1</field>
+    <field name="creator_sim">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="name_sim">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="name_teim">Studio Al Ahram, Aleppo, (Syria) </field>
     <field name="dao_sim">Online Access</field>

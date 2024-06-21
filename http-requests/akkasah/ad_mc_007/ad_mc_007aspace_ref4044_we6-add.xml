@@ -53,8 +53,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 20, folder: 5</field>
-    <field name="location_ssm">folder: 5</field>
-    <field name="location_si">folder: 5</field>
+    <field name="location_si">box: 20, folder: 5</field>
     <field name="dao_sim">Online Access</field>
     <field name="place_ssm">Ankara, Turkey</field>
     <field name="place_sim">Ankara, Turkey</field>

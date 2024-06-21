@@ -11,6 +11,9 @@
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">A studio portrait of a man. 8.6 x 6.1 cm</field>
     <field name="unittitle_teim">A studio portrait of a man. 8.6 x 6.1 cm</field>
+    <field name="creator_teim">Foto Örnek</field>
+    <field name="creator_ssm">Foto Örnek</field>
+    <field name="creator_ssm">Foto Örnek</field>
     <field name="unitdate_teim">8 March 1947</field>
     <field name="corpname_teim">Foto Örnek</field>
     <field name="corpname_ssm">Foto Örnek</field>
@@ -49,8 +52,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 23, folder: 20</field>
-    <field name="location_ssm">folder: 20</field>
-    <field name="location_si">folder: 20</field>
+    <field name="location_si">box: 23, folder: 20</field>
+    <field name="creator_sim">Foto Örnek</field>
     <field name="name_sim">Foto Örnek</field>
     <field name="name_teim">Foto Örnek</field>
     <field name="dao_sim">Online Access</field>

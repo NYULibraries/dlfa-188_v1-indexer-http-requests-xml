@@ -17,6 +17,9 @@
     <field name="unittitle_teim">Congratulations To You (Mabrouk aleki)</field>
     <field name="unitid_teim">ref33_000005</field>
     <field name="unitid_ssm">ref33_000005</field>
+    <field name="creator_teim">Hassan, Abdel Fattah</field>
+    <field name="creator_ssm">Hassan, Abdel Fattah</field>
+    <field name="creator_ssm">Hassan, Abdel Fattah</field>
     <field name="unitdate_normal_ssm">1949/1949</field>
     <field name="unitdate_normal_teim">1949/1949</field>
     <field name="unitdate_normal_sim">1949/1949</field>
@@ -54,8 +57,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 5, folder: 5</field>
-    <field name="location_ssm">folder: 5</field>
-    <field name="location_si">folder: 5</field>
+    <field name="location_si">box: 5, folder: 5</field>
+    <field name="creator_sim">Hassan, Abdel Fattah</field>
     <field name="name_sim">Hassan, Abdel Fattah</field>
     <field name="name_teim">Hassan, Abdel Fattah</field>
     <field name="dao_sim">Online Access</field>

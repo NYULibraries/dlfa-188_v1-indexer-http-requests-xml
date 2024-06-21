@@ -56,8 +56,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 8, folder: 23</field>
-    <field name="location_ssm">folder: 23</field>
-    <field name="location_si">folder: 23</field>
+    <field name="location_si">box: 8, folder: 23</field>
     <field name="dao_sim">Online Access</field>
     <field name="subject_sim">Hats</field>
     <field name="subject_sim">Outdoors</field>

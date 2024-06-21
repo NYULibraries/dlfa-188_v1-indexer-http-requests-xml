@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a man wearing a leather jacket (linked ref 949, 970, 971, 972, 973, 974, 975, 976, 982, 983, 986, 987).</field>
     <field name="unitid_teim">ref984</field>
     <field name="unitid_ssm">ref984</field>
+    <field name="creator_teim">Studio Jacques, Damascus, Syria </field>
+    <field name="creator_ssm">Studio Jacques, Damascus, Syria </field>
+    <field name="creator_ssm">Studio Jacques, Damascus, Syria </field>
     <field name="unitdate_teim">15 February 1967</field>
     <field name="corpname_teim">Studio Jacques, Damascus, Syria </field>
     <field name="corpname_ssm">Studio Jacques, Damascus, Syria </field>
@@ -44,8 +47,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 7, folder: 4</field>
-    <field name="location_ssm">folder: 4</field>
-    <field name="location_si">folder: 4</field>
+    <field name="location_si">box: 7, folder: 4</field>
+    <field name="creator_sim">Studio Jacques, Damascus, Syria </field>
     <field name="name_sim">Studio Jacques, Damascus, Syria </field>
     <field name="name_teim">Studio Jacques, Damascus, Syria </field>
     <field name="dao_sim">Online Access</field>

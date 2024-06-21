@@ -19,6 +19,9 @@
 | Actors in Image: Mahmoud El Meleigy</field>
     <field name="unitid_teim">ref24_000003</field>
     <field name="unitid_ssm">ref24_000003</field>
+    <field name="creator_teim">Jamee'i, Omar</field>
+    <field name="creator_ssm">Jamee'i, Omar</field>
+    <field name="creator_ssm">Jamee'i, Omar</field>
     <field name="unitdate_normal_ssm">1948/1948</field>
     <field name="unitdate_normal_teim">1948/1948</field>
     <field name="unitdate_normal_sim">1948/1948</field>
@@ -69,8 +72,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 3, folder: 49</field>
-    <field name="location_ssm">folder: 49</field>
-    <field name="location_si">folder: 49</field>
+    <field name="location_si">box: 3, folder: 49</field>
+    <field name="creator_sim">Jamee'i, Omar</field>
     <field name="name_sim">Jamee'i, Omar</field>
     <field name="name_teim">Jamee'i, Omar</field>
     <field name="dao_sim">Online Access</field>

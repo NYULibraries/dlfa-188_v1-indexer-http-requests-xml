@@ -19,6 +19,9 @@
 | Actors Image: Mahmoud El Meleigy, Hussein Riad</field>
     <field name="unitid_teim">ref101_000005</field>
     <field name="unitid_ssm">ref101_000005</field>
+    <field name="creator_teim">Al Imam, Hassan</field>
+    <field name="creator_ssm">Al Imam, Hassan</field>
+    <field name="creator_ssm">Al Imam, Hassan</field>
     <field name="unitdate_normal_ssm">1958/1958</field>
     <field name="unitdate_normal_teim">1958/1958</field>
     <field name="unitdate_normal_sim">1958/1958</field>
@@ -63,8 +66,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 14, folder: 10</field>
-    <field name="location_ssm">folder: 10</field>
-    <field name="location_si">folder: 10</field>
+    <field name="location_si">box: 14, folder: 10</field>
+    <field name="creator_sim">Al Imam, Hassan</field>
     <field name="name_sim">Al Imam, Hassan</field>
     <field name="name_teim">Al Imam, Hassan</field>
     <field name="dao_sim">Online Access</field>

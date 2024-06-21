@@ -72,10 +72,8 @@
     <field name="repository_ssm">akkasah</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">box: 6, folder: 3</field>
-    <field name="location_ssm">folder: 3, oversize: unknown container</field>
-    <field name="location_ssm">oversize: unknown container</field>
-    <field name="location_si">oversize: unknown container</field>
+    <field name="location_ssm">box: 6, folder: 3, oversize: unknown container</field>
+    <field name="location_si">box: 6, folder: 3, oversize: unknown container</field>
     <field name="name_sim">Nasser, Gamal Abdel, 1918-1970</field>
     <field name="name_teim">Nasser, Gamal Abdel, 1918-1970</field>
     <field name="dao_sim">Online Access</field>

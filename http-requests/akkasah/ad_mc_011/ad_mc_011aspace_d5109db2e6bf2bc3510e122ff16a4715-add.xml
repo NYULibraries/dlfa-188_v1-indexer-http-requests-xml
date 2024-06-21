@@ -19,6 +19,9 @@
 | Actors in Image: Abbas Fares, Hassan Kamel</field>
     <field name="unitid_teim">ref3_000002</field>
     <field name="unitid_ssm">ref3_000002</field>
+    <field name="creator_teim">Selim, Kamal</field>
+    <field name="creator_ssm">Selim, Kamal</field>
+    <field name="creator_ssm">Selim, Kamal</field>
     <field name="unitdate_normal_ssm">1943/1943</field>
     <field name="unitdate_normal_teim">1943/1943</field>
     <field name="unitdate_normal_sim">1943/1943</field>
@@ -69,8 +72,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 1, folder: 12</field>
-    <field name="location_ssm">folder: 12</field>
-    <field name="location_si">folder: 12</field>
+    <field name="location_si">box: 1, folder: 12</field>
+    <field name="creator_sim">Selim, Kamal</field>
     <field name="name_sim">Selim, Kamal</field>
     <field name="name_teim">Selim, Kamal</field>
     <field name="dao_sim">Online Access</field>

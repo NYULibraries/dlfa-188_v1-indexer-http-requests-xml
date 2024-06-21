@@ -17,6 +17,9 @@
     <field name="unittitle_teim">Platform Number 5 (Rasif rakam khamsa)</field>
     <field name="unitid_teim">ref85_000021</field>
     <field name="unitid_ssm">ref85_000021</field>
+    <field name="creator_teim">Mostafa, Niazi</field>
+    <field name="creator_ssm">Mostafa, Niazi</field>
+    <field name="creator_ssm">Mostafa, Niazi</field>
     <field name="unitdate_normal_ssm">1956/1956</field>
     <field name="unitdate_normal_teim">1956/1956</field>
     <field name="unitdate_normal_sim">1956/1956</field>
@@ -57,8 +60,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 12, folder: 21</field>
-    <field name="location_ssm">folder: 21</field>
-    <field name="location_si">folder: 21</field>
+    <field name="location_si">box: 12, folder: 21</field>
+    <field name="creator_sim">Mostafa, Niazi</field>
     <field name="name_sim">Mostafa, Niazi</field>
     <field name="name_teim">Mostafa, Niazi</field>
     <field name="dao_sim">Online Access</field>

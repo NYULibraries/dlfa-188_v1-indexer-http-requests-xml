@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A studio portrait of a woman.</field>
     <field name="unitid_teim">ref540</field>
     <field name="unitid_ssm">ref540</field>
+    <field name="creator_teim">Studio Le Caire, Rue Fardos, Damas (Damascus, Syria) </field>
+    <field name="creator_ssm">Studio Le Caire, Rue Fardos, Damas (Damascus, Syria) </field>
+    <field name="creator_ssm">Studio Le Caire, Rue Fardos, Damas (Damascus, Syria) </field>
     <field name="unitdate_teim">10 August 1972</field>
     <field name="corpname_teim">Studio Le Caire, Rue Fardos, Damas (Damascus, Syria) </field>
     <field name="corpname_ssm">Studio Le Caire, Rue Fardos, Damas (Damascus, Syria) </field>
@@ -49,8 +52,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 4, folder: 1</field>
-    <field name="location_ssm">folder: 1</field>
-    <field name="location_si">folder: 1</field>
+    <field name="location_si">box: 4, folder: 1</field>
+    <field name="creator_sim">Studio Le Caire, Rue Fardos, Damas (Damascus, Syria) </field>
     <field name="name_sim">Studio Le Caire, Rue Fardos, Damas (Damascus, Syria) </field>
     <field name="name_teim">Studio Le Caire, Rue Fardos, Damas (Damascus, Syria) </field>
     <field name="dao_sim">Online Access</field>

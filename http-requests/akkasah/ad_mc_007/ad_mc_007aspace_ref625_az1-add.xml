@@ -11,6 +11,9 @@
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Alexandria - Nabi Daniel Mosque - The Nabi Daniel Mosque in Alexandria, Egypt. 9.0 x 14.9 cm</field>
     <field name="unittitle_teim">Alexandria - Nabi Daniel Mosque - The Nabi Daniel Mosque in Alexandria, Egypt. 9.0 x 14.9 cm</field>
+    <field name="creator_teim">The Cairo Postcard Trust, Cairo (Egypt) </field>
+    <field name="creator_ssm">The Cairo Postcard Trust, Cairo (Egypt) </field>
+    <field name="creator_ssm">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="unitdate_teim">Undated</field>
     <field name="corpname_teim">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="corpname_ssm">The Cairo Postcard Trust, Cairo (Egypt) </field>
@@ -47,8 +50,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 4, folder: 1</field>
-    <field name="location_ssm">folder: 1</field>
-    <field name="location_si">folder: 1</field>
+    <field name="location_si">box: 4, folder: 1</field>
+    <field name="creator_sim">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="name_sim">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="name_teim">The Cairo Postcard Trust, Cairo (Egypt) </field>
     <field name="dao_sim">Online Access</field>

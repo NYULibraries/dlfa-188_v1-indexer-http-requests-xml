@@ -19,6 +19,9 @@
 | Actors in Image: Nagah Salem</field>
     <field name="unitid_teim">ref63_000007</field>
     <field name="unitid_ssm">ref63_000007</field>
+    <field name="creator_teim">Saifi, Hassan</field>
+    <field name="creator_ssm">Saifi, Hassan</field>
+    <field name="creator_ssm">Saifi, Hassan</field>
     <field name="unitdate_normal_ssm">1953/1953</field>
     <field name="unitdate_normal_teim">1953/1953</field>
     <field name="unitdate_normal_sim">1953/1953</field>
@@ -69,8 +72,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">box: 7, folder: 60</field>
-    <field name="location_ssm">folder: 60</field>
-    <field name="location_si">folder: 60</field>
+    <field name="location_si">box: 7, folder: 60</field>
+    <field name="creator_sim">Saifi, Hassan</field>
     <field name="name_sim">Saifi, Hassan</field>
     <field name="name_teim">Saifi, Hassan</field>
     <field name="dao_sim">Online Access</field>
