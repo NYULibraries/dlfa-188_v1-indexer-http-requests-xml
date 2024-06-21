@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">David Loeb Weiss Film Collection</field>
     <field name="collection_ssm">David Loeb Weiss Film Collection</field>
-    <field name="collection_unitid_ssm">FILMS.002/repositories/2/resources/353</field>
+    <field name="collection_unitid_ssm">FILMS.002</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Univeristy of Mexico Trotsky Colloquium Tape 8 -- Peter Katel, Ricardo Perez Montfort</field>
     <field name="unittitle_teim">Univeristy of Mexico Trotsky Colloquium Tape 8 -- Peter Katel, Ricardo Perez Montfort</field>
@@ -31,11 +31,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 29, Quarter_Inch_Audio_Reel: 002_0056</field>
-    <field name="location_ssm">Quarter_Inch_Audio_Reel: 002_0056</field>
-    <field name="location_si">Quarter_Inch_Audio_Reel: 002_0056</field>
+    <field name="location_si">Box: 29, Quarter_Inch_Audio_Reel: 002_0056</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">David Loeb Weiss Film Collection</field>
-    <field name="collection_unitid_teim">FILMS.002/repositories/2/resources/353</field>
+    <field name="collection_unitid_teim">FILMS.002</field>
     <field name="series_sim">Series II. Planet Without a Visa</field>
     <field name="series_si">Series II. Planet Without a Visa &gt;&gt; Univeristy of Mexico Trotsky Colloquium Tape 8 -- Peter Katel, Ricardo Perez Montfort</field>
     <field name="heading_ssm">Univeristy of Mexico Trotsky Colloquium Tape 8 -- Peter Katel, Ricardo Perez Montfort</field>

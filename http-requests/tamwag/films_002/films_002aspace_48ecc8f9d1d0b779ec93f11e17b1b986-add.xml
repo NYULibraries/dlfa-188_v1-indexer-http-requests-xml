@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">David Loeb Weiss Film Collection</field>
     <field name="collection_ssm">David Loeb Weiss Film Collection</field>
-    <field name="collection_unitid_ssm">FILMS.002/repositories/2/resources/353</field>
+    <field name="collection_unitid_ssm">FILMS.002</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Narration</field>
     <field name="unittitle_teim">Narration</field>
@@ -28,12 +28,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 17, Quarter_Inch_Audio_Reel: 002_0007</field>
-    <field name="location_ssm">Quarter_Inch_Audio_Reel: 002_0007</field>
     <field name="location_ssm">Box: 17, 16mm_Magnetic_Full_Coat_Rolls: 002_0070</field>
-    <field name="location_ssm">16mm_Magnetic_Full_Coat_Rolls: 002_0070</field>
-    <field name="location_si">16mm_Magnetic_Full_Coat_Rolls: 002_0070</field>
+    <field name="location_si">Box: 17, 16mm_Magnetic_Full_Coat_Rolls: 002_0070</field>
     <field name="collection_teim">David Loeb Weiss Film Collection</field>
-    <field name="collection_unitid_teim">FILMS.002/repositories/2/resources/353</field>
+    <field name="collection_unitid_teim">FILMS.002</field>
     <field name="series_sim">Series I. Farewell, Etaoin Shrdlu</field>
     <field name="series_si">Series I. Farewell, Etaoin Shrdlu &gt;&gt; Narration</field>
     <field name="heading_ssm">Narration</field>

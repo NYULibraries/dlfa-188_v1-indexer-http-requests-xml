@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">David Loeb Weiss Film Collection</field>
     <field name="collection_ssm">David Loeb Weiss Film Collection</field>
-    <field name="collection_unitid_ssm">FILMS.002/repositories/2/resources/353</field>
+    <field name="collection_unitid_ssm">FILMS.002</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">J. P. Cannon Roll 3 Part 2</field>
     <field name="unittitle_teim">J. P. Cannon Roll 3 Part 2</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 30, Film: 1</field>
-    <field name="location_ssm">Film: 1</field>
-    <field name="location_si">Film: 1</field>
+    <field name="location_si">Box: 30, Film: 1</field>
     <field name="collection_teim">David Loeb Weiss Film Collection</field>
-    <field name="collection_unitid_teim">FILMS.002/repositories/2/resources/353</field>
+    <field name="collection_unitid_teim">FILMS.002</field>
     <field name="series_sim">Series II. Planet Without a Visa</field>
     <field name="series_si">Series II. Planet Without a Visa &gt;&gt; J. P. Cannon Roll 3 Part 2</field>
     <field name="heading_ssm">J. P. Cannon Roll 3 Part 2</field>

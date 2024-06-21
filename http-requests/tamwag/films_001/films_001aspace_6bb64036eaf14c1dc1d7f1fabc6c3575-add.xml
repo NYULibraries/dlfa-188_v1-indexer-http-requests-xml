@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
     <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
-    <field name="collection_unitid_ssm">FILMS.001/repositories/2/resources/352</field>
+    <field name="collection_unitid_ssm">FILMS.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Trims</field>
     <field name="unittitle_teim">Trims</field>
@@ -32,12 +32,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Film_Canister: c236, 16mm_film_reels: 001_0034, 001_0035, 001_0036, 001_0037, 001_0038, 001_0039, 001_0040, 001_0041, 001_0042</field>
-    <field name="location_ssm">16mm_film_reels: 001_0034, 001_0035, 001_0036, 001_0037, 001_0038, 001_0039, 001_0040, 001_0041, 001_0042</field>
     <field name="location_ssm">Film_Canister: c236, 16mm_film_reels: 001_0043, 001_0044, 001_0045, 001_0046, 001_0047, 001_0048, 001_0049, 001_0050, 001_0051, 001_0052</field>
-    <field name="location_ssm">16mm_film_reels: 001_0043, 001_0044, 001_0045, 001_0046, 001_0047, 001_0048, 001_0049, 001_0050, 001_0051, 001_0052</field>
-    <field name="location_si">16mm_film_reels: 001_0043, 001_0044, 001_0045, 001_0046, 001_0047, 001_0048, 001_0049, 001_0050, 001_0051, 001_0052</field>
+    <field name="location_si">Film_Canister: c236, 16mm_film_reels: 001_0043, 001_0044, 001_0045, 001_0046, 001_0047, 001_0048, 001_0049, 001_0050, 001_0051, 001_0052</field>
     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
-    <field name="collection_unitid_teim">FILMS.001/repositories/2/resources/352</field>
+    <field name="collection_unitid_teim">FILMS.001</field>
     <field name="series_sim">Series I. Transport Workers Union of America Films</field>
     <field name="series_sim">Subseries I.A. Films</field>
     <field name="series_si">Series I. Transport Workers Union of America Films &gt;&gt; Subseries I.A. Films &gt;&gt; Trims</field>

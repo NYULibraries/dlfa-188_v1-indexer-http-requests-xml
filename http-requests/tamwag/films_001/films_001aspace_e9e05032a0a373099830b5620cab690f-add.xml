@@ -21,7 +21,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
     <field name="collection_ssm">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
-    <field name="collection_unitid_ssm">FILMS.001/repositories/2/resources/352</field>
+    <field name="collection_unitid_ssm">FILMS.001</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Trims</field>
     <field name="unittitle_teim">Trims</field>
@@ -35,12 +35,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Film_Canister: c234, 16mm_film_reels: 001_0001, 001_0002, 001_0003, 001_0004, 001_0005, 001_0006, 001_0007, 001_0008, 001_0009, 001_0010, 001_0011, 001_0012</field>
-    <field name="location_ssm">16mm_film_reels: 001_0001, 001_0002, 001_0003, 001_0004, 001_0005, 001_0006, 001_0007, 001_0008, 001_0009, 001_0010, 001_0011, 001_0012</field>
     <field name="location_ssm">Film_Canister: c234, 16mm_film_reels: 001_0013, 001_0014, 001_0015, 001_0016, 001_0017, 001_0018, 001_0019, 001_0020, 001_0021, 001_0022, 001_0023, 001_0024, 001_0025</field>
-    <field name="location_ssm">16mm_film_reels: 001_0013, 001_0014, 001_0015, 001_0016, 001_0017, 001_0018, 001_0019, 001_0020, 001_0021, 001_0022, 001_0023, 001_0024, 001_0025</field>
-    <field name="location_si">16mm_film_reels: 001_0013, 001_0014, 001_0015, 001_0016, 001_0017, 001_0018, 001_0019, 001_0020, 001_0021, 001_0022, 001_0023, 001_0024, 001_0025</field>
+    <field name="location_si">Film_Canister: c234, 16mm_film_reels: 001_0013, 001_0014, 001_0015, 001_0016, 001_0017, 001_0018, 001_0019, 001_0020, 001_0021, 001_0022, 001_0023, 001_0024, 001_0025</field>
     <field name="collection_teim">Tamiment Library and Robert F. Wagner Labor Archives Moving Images Collection</field>
-    <field name="collection_unitid_teim">FILMS.001/repositories/2/resources/352</field>
+    <field name="collection_unitid_teim">FILMS.001</field>
     <field name="series_sim">Series I. Transport Workers Union of America Films</field>
     <field name="series_sim">Subseries I.A. Films</field>
     <field name="series_sim">
