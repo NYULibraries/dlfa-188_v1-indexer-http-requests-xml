@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.054</field>
     <field name="abstract_teim">The George R. Howell papers include two items pertaining to Howell's work as an historian and genealogist. The first item is a small journal, dated 1876, containing Howell's handwritten notes on birth, marriage, and death records taken from the Southampton Town Clerk's Office, tombstone inscriptions, and family Bibles. The second item in the collection is a bound, handwritten speech delivered by Howell at the 225th anniversary of the Settlement of Southampton, Long Island, dated 1865. Also included in the back of the volume is an extract from the genealogies of the Howell and Rogers families of Southampton for the years 1625 to 1858.</field>
     <field name="abstract_ssm">The George R. Howell papers include two items pertaining to Howell's work as an historian and genealogist. The first item is a small journal, dated 1876, containing Howell's handwritten notes on birth, marriage, and death records taken from the Southampton Town Clerk's Office, tombstone inscriptions, and family Bibles. The second item in the collection is a bound, handwritten speech delivered by Howell at the 225th anniversary of the Settlement of Southampton, Long Island, dated 1865. Also included in the back of the volume is an extract from the genealogies of the Howell and Rogers families of Southampton for the years 1625 to 1858.</field>
+    <field name="creator_teim">Howell, George Rogers</field>
+    <field name="creator_ssm">Howell, George Rogers</field>
+    <field name="creator_ssm">Howell, George Rogers</field>
     <field name="unitdate_normal_ssm">1615/1886</field>
     <field name="unitdate_normal_teim">1615/1886</field>
     <field name="unitdate_normal_sim">1615/1886</field>
@@ -46,6 +49,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Howell, George Rogers</field>
     <field name="name_sim">Howell, George Rogers</field>
     <field name="name_teim">Howell, George Rogers</field>
     <field name="place_sim">Southampton (N.Y.) -- History</field>

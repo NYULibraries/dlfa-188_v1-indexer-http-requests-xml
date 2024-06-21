@@ -9,6 +9,12 @@
     <field name="unitid_ssm">2005.002</field>
     <field name="abstract_teim">The Schenck and Pettit familes collection spans the period 1821 to 1904 and measures 0.2 linear feet. The collection consists of miscellaneous materials pertaining to these to families, including a piece of cross-stitch embroidery crafted by Letty H. Pettit, a receipt from John R. Hull and Co. to Clinton Pettit for headstones for Letty and Jane Pettit, legal and probate inventory documents pertaining to members of the Pettit and Schenck families, photographs of Pettit family burial plots at Trinity Church in Hewlett, Long Island, and two journals, authors unknown.</field>
     <field name="abstract_ssm">The Schenck and Pettit familes collection spans the period 1821 to 1904 and measures 0.2 linear feet. The collection consists of miscellaneous materials pertaining to these to families, including a piece of cross-stitch embroidery crafted by Letty H. Pettit, a receipt from John R. Hull and Co. to Clinton Pettit for headstones for Letty and Jane Pettit, legal and probate inventory documents pertaining to members of the Pettit and Schenck families, photographs of Pettit family burial plots at Trinity Church in Hewlett, Long Island, and two journals, authors unknown.</field>
+    <field name="creator_teim">Schenck family</field>
+    <field name="creator_teim">Pettit family</field>
+    <field name="creator_ssm">Schenck family</field>
+    <field name="creator_ssm">Pettit family</field>
+    <field name="creator_ssm">Schenck family</field>
+    <field name="creator_ssm">Pettit family</field>
     <field name="unitdate_normal_ssm">1816/1904</field>
     <field name="unitdate_normal_teim">1816/1904</field>
     <field name="unitdate_normal_sim">1816/1904</field>
@@ -57,6 +63,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Schenck family</field>
+    <field name="creator_sim">Pettit family</field>
     <field name="name_sim">Schenck family</field>
     <field name="name_sim">Pettit family</field>
     <field name="name_teim">Schenck family</field>

@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1974.006</field>
     <field name="abstract_teim">The Jacob and Isaac Rapelye papers contain four documents relating to Jacob and Isaac Rapelye, members of the prominent Rapelye family of New York and descendents of Joris Jansen de Rapalie, an early settler of Long Island.  The documents span the period 1812 to 1820 and are honorary in nature, celebrating the establishment of Isaac's medical career, Jacob's military appointments during the War of 1812, and Jacob's political appointments in the State of South Carolina.</field>
     <field name="abstract_ssm">The Jacob and Isaac Rapelye papers contain four documents relating to Jacob and Isaac Rapelye, members of the prominent Rapelye family of New York and descendents of Joris Jansen de Rapalie, an early settler of Long Island.  The documents span the period 1812 to 1820 and are honorary in nature, celebrating the establishment of Isaac's medical career, Jacob's military appointments during the War of 1812, and Jacob's political appointments in the State of South Carolina.</field>
+    <field name="creator_teim">Rapelye, Jacob</field>
+    <field name="creator_teim">Rapelye, Isaac</field>
+    <field name="creator_ssm">Rapelye, Jacob</field>
+    <field name="creator_ssm">Rapelye, Isaac</field>
+    <field name="creator_ssm">Rapelye, Jacob</field>
+    <field name="creator_ssm">Rapelye, Isaac</field>
     <field name="unitdate_normal_ssm">1812/1820</field>
     <field name="unitdate_normal_teim">1812/1820</field>
     <field name="unitdate_normal_sim">1812/1820</field>
@@ -63,6 +69,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Rapelye, Jacob</field>
+    <field name="creator_sim">Rapelye, Isaac</field>
     <field name="name_sim">Rapelye, Jacob</field>
     <field name="name_sim">Rapelye, Isaac</field>
     <field name="name_teim">Rapelye, Jacob</field>

@@ -9,6 +9,15 @@
     <field name="unitid_ssm">ARC.221</field>
     <field name="abstract_teim">Three land deeds, dated 1803 and 1805, between Robert Doty, an African American of Jericho in the town of Oyster Bay, Queens County, and George and Jeremiah Tappin, also of Oyster Bay.</field>
     <field name="abstract_ssm">Three land deeds, dated 1803 and 1805, between Robert Doty, an African American of Jericho in the town of Oyster Bay, Queens County, and George and Jeremiah Tappin, also of Oyster Bay.</field>
+    <field name="creator_teim">Tappin, Jeremiah</field>
+    <field name="creator_teim">Doty, Robert</field>
+    <field name="creator_teim">Tappin, George</field>
+    <field name="creator_ssm">Tappin, Jeremiah</field>
+    <field name="creator_ssm">Doty, Robert</field>
+    <field name="creator_ssm">Tappin, George</field>
+    <field name="creator_ssm">Tappin, Jeremiah</field>
+    <field name="creator_ssm">Doty, Robert</field>
+    <field name="creator_ssm">Tappin, George</field>
     <field name="unitdate_normal_ssm">1803/1805</field>
     <field name="unitdate_normal_teim">1803/1805</field>
     <field name="unitdate_normal_sim">1803/1805</field>
@@ -55,6 +64,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tappin, Jeremiah</field>
+    <field name="creator_sim">Doty, Robert</field>
+    <field name="creator_sim">Tappin, George</field>
     <field name="name_sim">Tappin, Jeremiah</field>
     <field name="name_sim">Doty, Robert</field>
     <field name="name_sim">Tappin, George</field>

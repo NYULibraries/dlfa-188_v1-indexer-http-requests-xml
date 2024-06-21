@@ -9,6 +9,15 @@
     <field name="unitid_ssm">ARC.027</field>
     <field name="abstract_teim">The Edna Volck collection contains a scrapbook and photographs from the Volck family of Brooklyn, N.Y. during the late 19th and early 20th centuries.</field>
     <field name="abstract_ssm">The Edna Volck collection contains a scrapbook and photographs from the Volck family of Brooklyn, N.Y. during the late 19th and early 20th centuries.</field>
+    <field name="creator_teim">Volck, Elizabeth Andrews</field>
+    <field name="creator_teim">Volck, Edna</field>
+    <field name="creator_teim">Cronshaw, Margery L.</field>
+    <field name="creator_ssm">Volck, Elizabeth Andrews</field>
+    <field name="creator_ssm">Volck, Edna</field>
+    <field name="creator_ssm">Cronshaw, Margery L.</field>
+    <field name="creator_ssm">Volck, Elizabeth Andrews</field>
+    <field name="creator_ssm">Volck, Edna</field>
+    <field name="creator_ssm">Cronshaw, Margery L.</field>
     <field name="unitdate_normal_ssm">1875/1986</field>
     <field name="unitdate_normal_teim">1875/1986</field>
     <field name="unitdate_normal_sim">1875/1986</field>
@@ -50,6 +59,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Volck, Elizabeth Andrews</field>
+    <field name="creator_sim">Volck, Edna</field>
+    <field name="creator_sim">Cronshaw, Margery L.</field>
     <field name="name_sim">Consolidated Edison Company of New York, inc</field>
     <field name="name_sim">Volck family</field>
     <field name="name_sim">Volck, Elizabeth Andrews</field>

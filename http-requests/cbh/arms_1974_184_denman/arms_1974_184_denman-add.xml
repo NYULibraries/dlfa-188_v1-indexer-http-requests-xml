@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1974.184</field>
     <field name="abstract_teim">A handwritten deed from Samuel Denman to Jesse Morrell for a parcel of land in Newtown, Queens County, dated 1806.</field>
     <field name="abstract_ssm">A handwritten deed from Samuel Denman to Jesse Morrell for a parcel of land in Newtown, Queens County, dated 1806.</field>
+    <field name="creator_teim">Denman, Samuel</field>
+    <field name="creator_ssm">Denman, Samuel</field>
+    <field name="creator_ssm">Denman, Samuel</field>
     <field name="unitdate_normal_ssm">1806/1806</field>
     <field name="unitdate_normal_teim">1806/1806</field>
     <field name="unitdate_normal_sim">1806/1806</field>
@@ -43,6 +46,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Denman, Samuel</field>
     <field name="name_sim">Denman, Samuel</field>
     <field name="name_sim">Morrell, Jesse</field>
     <field name="name_teim">Denman, Samuel</field>

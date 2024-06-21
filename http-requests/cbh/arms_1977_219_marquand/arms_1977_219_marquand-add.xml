@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.219</field>
     <field name="abstract_teim">One scrapbook containing items dating from 1761 to 1882 collected by Frederick and Hetty Marquand, including correspondence, calling cards, event programs, certificates, photographs and engravings, clippings, drawings, and various other memorabilia generally relating to the political, social, cultural, and intellectual life of the northeastern region of the United States.</field>
     <field name="abstract_ssm">One scrapbook containing items dating from 1761 to 1882 collected by Frederick and Hetty Marquand, including correspondence, calling cards, event programs, certificates, photographs and engravings, clippings, drawings, and various other memorabilia generally relating to the political, social, cultural, and intellectual life of the northeastern region of the United States.</field>
+    <field name="creator_teim">Marquand, Hetty</field>
+    <field name="creator_teim">Marquand, Frederick</field>
+    <field name="creator_ssm">Marquand, Hetty</field>
+    <field name="creator_ssm">Marquand, Frederick</field>
+    <field name="creator_ssm">Marquand, Hetty</field>
+    <field name="creator_ssm">Marquand, Frederick</field>
     <field name="unitdate_normal_ssm">1761/1882</field>
     <field name="unitdate_normal_teim">1761/1882</field>
     <field name="unitdate_normal_sim">1761/1882</field>
@@ -85,6 +91,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Marquand, Hetty</field>
+    <field name="creator_sim">Marquand, Frederick</field>
     <field name="name_sim">Marquand, Hetty</field>
     <field name="name_sim">Marquand, Frederick</field>
     <field name="name_teim">Marquand, Hetty</field>

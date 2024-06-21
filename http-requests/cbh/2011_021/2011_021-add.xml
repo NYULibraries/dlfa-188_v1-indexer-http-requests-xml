@@ -9,6 +9,15 @@
     <field name="unitid_ssm">2011.021</field>
     <field name="abstract_teim">The First Baptist Church in Pierrepont Street records document the church's activities from its founding in 1823 to its 200th anniversary celebration. Items include registers, member lists, church trustee and committee minutes, building and construction records, and orders of service. Materials from the church's Bible School and choir are also included.</field>
     <field name="abstract_ssm">The First Baptist Church in Pierrepont Street records document the church's activities from its founding in 1823 to its 200th anniversary celebration. Items include registers, member lists, church trustee and committee minutes, building and construction records, and orders of service. Materials from the church's Bible School and choir are also included.</field>
+    <field name="creator_teim">First Baptist Church in Pierrepont Street</field>
+    <field name="creator_teim">First Baptist Church</field>
+    <field name="creator_teim">Pierrepont Street Baptist Church</field>
+    <field name="creator_ssm">First Baptist Church in Pierrepont Street</field>
+    <field name="creator_ssm">First Baptist Church</field>
+    <field name="creator_ssm">Pierrepont Street Baptist Church</field>
+    <field name="creator_ssm">First Baptist Church in Pierrepont Street</field>
+    <field name="creator_ssm">First Baptist Church</field>
+    <field name="creator_ssm">Pierrepont Street Baptist Church</field>
     <field name="unitdate_normal_ssm">1823/2023</field>
     <field name="unitdate_normal_teim">1823/2023</field>
     <field name="unitdate_normal_sim">1823/2023</field>
@@ -99,6 +108,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">First Baptist Church in Pierrepont Street</field>
+    <field name="creator_sim">First Baptist Church</field>
+    <field name="creator_sim">Pierrepont Street Baptist Church</field>
     <field name="name_sim">First Baptist Church in Pierrepont Street</field>
     <field name="name_sim">First Baptist Church</field>
     <field name="name_sim">Pierrepont Street Baptist Church</field>

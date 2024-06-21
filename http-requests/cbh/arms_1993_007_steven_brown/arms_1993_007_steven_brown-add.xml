@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1993.007</field>
     <field name="abstract_teim">Collections contains items which were collected by Steven W. Brown (also known as Rogen S. Brown), dating from 1974 to around 1990. Most items relate to the history of Brooklyn, or to the brownstone revival movement of the 1960s to the 1980s. The Brooklyn neighborhoods of Clinton Hill and Fort Greene are especially well represented in the collection.</field>
     <field name="abstract_ssm">Collections contains items which were collected by Steven W. Brown (also known as Rogen S. Brown), dating from 1974 to around 1990. Most items relate to the history of Brooklyn, or to the brownstone revival movement of the 1960s to the 1980s. The Brooklyn neighborhoods of Clinton Hill and Fort Greene are especially well represented in the collection.</field>
+    <field name="creator_teim">Brown, Steven W.</field>
+    <field name="creator_teim">Brown, Rogen S.</field>
+    <field name="creator_ssm">Brown, Steven W.</field>
+    <field name="creator_ssm">Brown, Rogen S.</field>
+    <field name="creator_ssm">Brown, Steven W.</field>
+    <field name="creator_ssm">Brown, Rogen S.</field>
     <field name="unitdate_normal_ssm">1974/1990</field>
     <field name="unitdate_normal_teim">1974/1990</field>
     <field name="unitdate_normal_sim">1974/1990</field>
@@ -76,6 +82,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brown, Steven W.</field>
+    <field name="creator_sim">Brown, Rogen S.</field>
     <field name="name_sim">Brooklyn Historical Society (Brooklyn, New York, N.Y.)</field>
     <field name="name_sim">Lefferts-Laidlaw House (New York, N.Y.)</field>
     <field name="name_sim">Back to the City Conference</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.058</field>
     <field name="abstract_teim">The Kings County Historical Society records provide a window into the activities of the Society and its membership throughout its history, circa 1911 through the 1940s. With both administrative and financial records, the collection details the Society's regular events, such as celebrations of historical anniversaries, speeches and lectures, and dinners. Included in the collection are correspondence; secretary's minutes; event programs and planning documents; speeches and short research articles; annual reports; financial documents, such as ledgers, check books, invoices, and bank statements; membership applications, which include genealogical information; membership ledgers; publications; notecards, possibly containing Society accession records; photographs; founding documents; and dissolution documents.</field>
     <field name="abstract_ssm">The Kings County Historical Society records provide a window into the activities of the Society and its membership throughout its history, circa 1911 through the 1940s. With both administrative and financial records, the collection details the Society's regular events, such as celebrations of historical anniversaries, speeches and lectures, and dinners. Included in the collection are correspondence; secretary's minutes; event programs and planning documents; speeches and short research articles; annual reports; financial documents, such as ledgers, check books, invoices, and bank statements; membership applications, which include genealogical information; membership ledgers; publications; notecards, possibly containing Society accession records; photographs; founding documents; and dissolution documents.</field>
+    <field name="creator_teim">Kings County Historical Society</field>
+    <field name="creator_ssm">Kings County Historical Society</field>
+    <field name="creator_ssm">Kings County Historical Society</field>
     <field name="unitdate_normal_ssm">1911/1947</field>
     <field name="unitdate_normal_teim">1911/1947</field>
     <field name="unitdate_normal_sim">1911/1947</field>
@@ -57,6 +60,7 @@ Its objectives included the dissemination of knowledge of the early history of K
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Kings County Historical Society</field>
     <field name="name_sim">Kings County Historical Society</field>
     <field name="name_teim">Kings County Historical Society</field>
     <field name="place_sim">Brooklyn (New York, N.Y.) -- History</field>

@@ -7,6 +7,12 @@
     <field name="unitid_ssm">1978.143</field>
     <field name="abstract_teim">Property appraisals, sale contracts, and other documents from the records of the Frank Deutscher Company, a real estate firm located at 16 Court Street in Brooklyn.</field>
     <field name="abstract_ssm">Property appraisals, sale contracts, and other documents from the records of the Frank Deutscher Company, a real estate firm located at 16 Court Street in Brooklyn.</field>
+    <field name="creator_teim">Frank Deutscher Company</field>
+    <field name="creator_teim">Gray-Pyle Real Estate Company</field>
+    <field name="creator_ssm">Frank Deutscher Company</field>
+    <field name="creator_ssm">Gray-Pyle Real Estate Company</field>
+    <field name="creator_ssm">Frank Deutscher Company</field>
+    <field name="creator_ssm">Gray-Pyle Real Estate Company</field>
     <field name="unitdate_normal_ssm">1905/1962</field>
     <field name="unitdate_normal_teim">1905/1962</field>
     <field name="unitdate_normal_sim">1905/1962</field>
@@ -87,6 +93,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Frank Deutscher Company</field>
+    <field name="creator_sim">Gray-Pyle Real Estate Company</field>
     <field name="name_sim">Frank Deutscher Company</field>
     <field name="name_sim">Gray-Pyle Real Estate Company</field>
     <field name="name_sim">Edison Electric Illuminating Co. of New York</field>

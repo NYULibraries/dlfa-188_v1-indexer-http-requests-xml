@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.222</field>
     <field name="abstract_teim">The Brooklyn Navy Yard publications and ephemera collection spans the period 1936 to 1966 and measures 0.63 linear feet. Materials in the collection primarily document workers and employment at the Navy Yard during this time period.</field>
     <field name="abstract_ssm">The Brooklyn Navy Yard publications and ephemera collection spans the period 1936 to 1966 and measures 0.63 linear feet. Materials in the collection primarily document workers and employment at the Navy Yard during this time period.</field>
+    <field name="creator_teim">New York Naval Shipyard</field>
+    <field name="creator_ssm">New York Naval Shipyard</field>
+    <field name="creator_ssm">New York Naval Shipyard</field>
     <field name="unitdate_normal_ssm">1865/1966</field>
     <field name="unitdate_normal_teim">1865/1966</field>
     <field name="unitdate_normal_sim">1865/1966</field>
@@ -75,6 +78,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York Naval Shipyard</field>
     <field name="name_sim">New York Naval Shipyard</field>
     <field name="name_sim">United States. Navy</field>
     <field name="name_sim">Independence (Ship : 1959-1998)</field>

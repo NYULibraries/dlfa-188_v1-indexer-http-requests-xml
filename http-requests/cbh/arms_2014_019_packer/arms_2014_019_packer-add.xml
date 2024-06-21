@@ -9,6 +9,12 @@
     <field name="unitid_ssm">2014.019</field>
     <field name="abstract_teim">The Packer Collegiate Institute records contain administrative records, financial records, architectural records, Board of Trustees records, student and faculty records, publications, photographs, audiovisual media, event ephemera, and memorabilia, dating from circa 1780 to 2016.</field>
     <field name="abstract_ssm">The Packer Collegiate Institute records contain administrative records, financial records, architectural records, Board of Trustees records, student and faculty records, publications, photographs, audiovisual media, event ephemera, and memorabilia, dating from circa 1780 to 2016.</field>
+    <field name="creator_teim">Packer Collegiate Institute</field>
+    <field name="creator_teim">Brooklyn Female Academy</field>
+    <field name="creator_ssm">Packer Collegiate Institute</field>
+    <field name="creator_ssm">Brooklyn Female Academy</field>
+    <field name="creator_ssm">Packer Collegiate Institute</field>
+    <field name="creator_ssm">Brooklyn Female Academy</field>
     <field name="unitdate_normal_ssm">1775/2020</field>
     <field name="unitdate_normal_teim">1775/2020</field>
     <field name="unitdate_normal_sim">1775/2020</field>
@@ -200,6 +206,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Packer Collegiate Institute</field>
+    <field name="creator_sim">Brooklyn Female Academy</field>
     <field name="name_sim">Packer Collegiate Institute</field>
     <field name="name_sim">Brooklyn Female Academy</field>
     <field name="name_sim">Packer family</field>

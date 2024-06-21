@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1974.049</field>
     <field name="abstract_teim">One bound volume containing orders given by British loyalists Archibald Hamilton, commander of the Queens County Militia, and Oliver De Lancy, commander of De Lancey's Brigade on Long Island, during the American Revolutionary War.  Orders date from 1779 and 1780 and are mostly from Hamilton.</field>
     <field name="abstract_ssm">One bound volume containing orders given by British loyalists Archibald Hamilton, commander of the Queens County Militia, and Oliver De Lancy, commander of De Lancey's Brigade on Long Island, during the American Revolutionary War.  Orders date from 1779 and 1780 and are mostly from Hamilton.</field>
+    <field name="creator_teim">De Lancey, Oliver</field>
+    <field name="creator_teim">Hamilton, Archibald</field>
+    <field name="creator_ssm">De Lancey, Oliver</field>
+    <field name="creator_ssm">Hamilton, Archibald</field>
+    <field name="creator_ssm">De Lancey, Oliver</field>
+    <field name="creator_ssm">Hamilton, Archibald</field>
     <field name="unitdate_normal_ssm">1779/1780</field>
     <field name="unitdate_normal_teim">1779/1780</field>
     <field name="unitdate_normal_sim">1779/1780</field>
@@ -39,6 +45,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">De Lancey, Oliver</field>
+    <field name="creator_sim">Hamilton, Archibald</field>
     <field name="name_sim">De Lancey, Oliver</field>
     <field name="name_sim">Hamilton, Archibald</field>
     <field name="name_teim">De Lancey, Oliver</field>

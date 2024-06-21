@@ -9,6 +9,15 @@
     <field name="unitid_ssm">1977.496</field>
     <field name="abstract_teim">An 1814 deed for property in New York City owned by the deceased Vincent Tilyou and his widow Mary Tilyou and sold to Richard Doty.</field>
     <field name="abstract_ssm">An 1814 deed for property in New York City owned by the deceased Vincent Tilyou and his widow Mary Tilyou and sold to Richard Doty.</field>
+    <field name="creator_teim">Doty, Richard</field>
+    <field name="creator_teim">Tilyou, Mary</field>
+    <field name="creator_teim">Tilyou, Vincent</field>
+    <field name="creator_ssm">Doty, Richard</field>
+    <field name="creator_ssm">Tilyou, Mary</field>
+    <field name="creator_ssm">Tilyou, Vincent</field>
+    <field name="creator_ssm">Doty, Richard</field>
+    <field name="creator_ssm">Tilyou, Mary</field>
+    <field name="creator_ssm">Tilyou, Vincent</field>
     <field name="unitdate_normal_ssm">1814/1814</field>
     <field name="unitdate_normal_teim">1814/1814</field>
     <field name="unitdate_normal_sim">1814/1814</field>
@@ -51,6 +60,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Doty, Richard</field>
+    <field name="creator_sim">Tilyou, Mary</field>
+    <field name="creator_sim">Tilyou, Vincent</field>
     <field name="name_sim">Doty, Richard</field>
     <field name="name_sim">Tilyou, Mary</field>
     <field name="name_sim">Tilyou, Vincent</field>

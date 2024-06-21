@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.307</field>
     <field name="abstract_teim">A collection of various certificates issued by government bodies and other institutions in Brooklyn, dated 1809 to 1962. The types of certificates contained in the collection include marriage certificates, military discharge and exemption certificates, merit awards to students and public servants, scholarship awards to students, etc.</field>
     <field name="abstract_ssm">A collection of various certificates issued by government bodies and other institutions in Brooklyn, dated 1809 to 1962. The types of certificates contained in the collection include marriage certificates, military discharge and exemption certificates, merit awards to students and public servants, scholarship awards to students, etc.</field>
+    <field name="creator_teim">New York (State). National Guard</field>
+    <field name="creator_teim">Brooklyn (New York, N.Y.)</field>
+    <field name="creator_ssm">New York (State). National Guard</field>
+    <field name="creator_ssm">Brooklyn (New York, N.Y.)</field>
+    <field name="creator_ssm">New York (State). National Guard</field>
+    <field name="creator_ssm">Brooklyn (New York, N.Y.)</field>
     <field name="unitdate_normal_ssm">1809/1962</field>
     <field name="unitdate_normal_teim">1809/1962</field>
     <field name="unitdate_normal_sim">1809/1962</field>
@@ -46,6 +52,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York (State). National Guard</field>
+    <field name="creator_sim">Brooklyn (New York, N.Y.)</field>
     <field name="name_sim">New York (State). National Guard</field>
     <field name="name_sim">Brooklyn (New York, N.Y.)</field>
     <field name="name_teim">New York (State). National Guard</field>

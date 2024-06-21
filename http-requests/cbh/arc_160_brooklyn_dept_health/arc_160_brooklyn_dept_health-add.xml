@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.160</field>
     <field name="abstract_teim">The City of Brooklyn, Department of Health vital statistics collection measures 1 linear foot and spans the dates 1873 to 1897. The collection consists of bound volumes of weekly vital statistics reports compiled and published by the Department of Health for each year covered in the date span. The reports list the number of deaths for each week, the causes of those deaths, the number of deaths in each voting ward, and general demographic information about the deceased (including gender, ethnicity/nationality, age, etc). The reports do not list the names of the deceased.</field>
     <field name="abstract_ssm">The City of Brooklyn, Department of Health vital statistics collection measures 1 linear foot and spans the dates 1873 to 1897. The collection consists of bound volumes of weekly vital statistics reports compiled and published by the Department of Health for each year covered in the date span. The reports list the number of deaths for each week, the causes of those deaths, the number of deaths in each voting ward, and general demographic information about the deceased (including gender, ethnicity/nationality, age, etc). The reports do not list the names of the deceased.</field>
+    <field name="creator_teim">Brooklyn (New York, N.Y.). Dept. of Health</field>
+    <field name="creator_ssm">Brooklyn (New York, N.Y.). Dept. of Health</field>
+    <field name="creator_ssm">Brooklyn (New York, N.Y.). Dept. of Health</field>
     <field name="unitdate_normal_ssm">1873/1897</field>
     <field name="unitdate_normal_teim">1873/1897</field>
     <field name="unitdate_normal_sim">1873/1897</field>
@@ -41,6 +44,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brooklyn (New York, N.Y.). Dept. of Health</field>
     <field name="name_sim">Brooklyn (New York, N.Y.). Dept. of Health</field>
     <field name="name_teim">Brooklyn (New York, N.Y.). Dept. of Health</field>
     <field name="place_sim">Brooklyn (New York, N.Y.)</field>

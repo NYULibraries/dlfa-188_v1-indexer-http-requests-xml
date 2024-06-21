@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.007</field>
     <field name="abstract_teim">This collection consists of four deeds recording Robert Benson's land transactions in what is now the Brooklyn Heights neighborhood of Brooklyn, 1795-1804. The collection includes a 1795 deed, George Powers to James Arden; 1801 deed, John H. and Brockholst Livingston to Robert Benson for land on Joralemon Street; 1802 deed, James Arden to Robert Benson; and 1804 deed, Robert Benson to Hezekiah B. Pierpont (Pierrepont). The 1801 deed was transcribed by Washington Irving.</field>
     <field name="abstract_ssm">This collection consists of four deeds recording Robert Benson's land transactions in what is now the Brooklyn Heights neighborhood of Brooklyn, 1795-1804. The collection includes a 1795 deed, George Powers to James Arden; 1801 deed, John H. and Brockholst Livingston to Robert Benson for land on Joralemon Street; 1802 deed, James Arden to Robert Benson; and 1804 deed, Robert Benson to Hezekiah B. Pierpont (Pierrepont). The 1801 deed was transcribed by Washington Irving.</field>
+    <field name="creator_teim">Arden, James</field>
+    <field name="creator_teim">Benson, Robert</field>
+    <field name="creator_ssm">Arden, James</field>
+    <field name="creator_ssm">Benson, Robert</field>
+    <field name="creator_ssm">Arden, James</field>
+    <field name="creator_ssm">Benson, Robert</field>
     <field name="unitdate_normal_ssm">1795/1804</field>
     <field name="unitdate_normal_teim">1795/1804</field>
     <field name="unitdate_normal_sim">1795/1804</field>
@@ -48,6 +54,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Arden, James</field>
+    <field name="creator_sim">Benson, Robert</field>
     <field name="name_sim">Arden, James</field>
     <field name="name_sim">Benson, Robert</field>
     <field name="name_teim">Arden, James</field>

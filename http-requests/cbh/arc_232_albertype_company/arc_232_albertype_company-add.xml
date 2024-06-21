@@ -9,6 +9,15 @@
     <field name="unitid_ssm">ARC.232</field>
     <field name="abstract_teim">The Albertype Company viewbooks of New York City consist of three viewbooks published by the Albertype Company, from 1902 to 1939. The majority of the images from the viewbooks are views of New York City, though several images relating to Brooklyn are included.</field>
     <field name="abstract_ssm">The Albertype Company viewbooks of New York City consist of three viewbooks published by the Albertype Company, from 1902 to 1939. The majority of the images from the viewbooks are views of New York City, though several images relating to Brooklyn are included.</field>
+    <field name="creator_teim">Albertype Co</field>
+    <field name="creator_teim">Wittemann, A. (Adolph)</field>
+    <field name="creator_teim">Wittemann, H. L.</field>
+    <field name="creator_ssm">Albertype Co</field>
+    <field name="creator_ssm">Wittemann, A. (Adolph)</field>
+    <field name="creator_ssm">Wittemann, H. L.</field>
+    <field name="creator_ssm">Albertype Co</field>
+    <field name="creator_ssm">Wittemann, A. (Adolph)</field>
+    <field name="creator_ssm">Wittemann, H. L.</field>
     <field name="unitdate_normal_ssm">1902/1939</field>
     <field name="unitdate_normal_teim">1902/1939</field>
     <field name="unitdate_normal_sim">1902/1939</field>
@@ -53,6 +62,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Albertype Co</field>
+    <field name="creator_sim">Wittemann, A. (Adolph)</field>
+    <field name="creator_sim">Wittemann, H. L.</field>
     <field name="name_sim">Albertype Co</field>
     <field name="name_sim">Wittemann, A. (Adolph)</field>
     <field name="name_sim">Wittemann, H. L.</field>

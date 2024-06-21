@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1973.282</field>
     <field name="abstract_teim">Scrapbook of Montgomery Queen (d. 1901), consisting of collected newspaper clippings, poetry and images dating from 1874 to 1897.</field>
     <field name="abstract_ssm">Scrapbook of Montgomery Queen (d. 1901), consisting of collected newspaper clippings, poetry and images dating from 1874 to 1897.</field>
+    <field name="creator_teim">Queen, Montgomery</field>
+    <field name="creator_ssm">Queen, Montgomery</field>
+    <field name="creator_ssm">Queen, Montgomery</field>
     <field name="unitdate_normal_ssm">1874/1897</field>
     <field name="unitdate_normal_teim">1874/1897</field>
     <field name="unitdate_normal_sim">1874/1897</field>
@@ -55,6 +58,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Queen, Montgomery</field>
     <field name="name_sim">Queen, Montgomery</field>
     <field name="name_sim">Beecher, Henry Ward</field>
     <field name="name_sim">Lincoln, Abraham</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">2007.002</field>
     <field name="abstract_teim">Extensive collection of children's books published by the McLoughlin Bros. publishing company of New York City.</field>
     <field name="abstract_ssm">Extensive collection of children's books published by the McLoughlin Bros. publishing company of New York City.</field>
+    <field name="creator_teim">McLoughlin Bros., inc</field>
+    <field name="creator_ssm">McLoughlin Bros., inc</field>
+    <field name="creator_ssm">McLoughlin Bros., inc</field>
     <field name="unitdate_normal_ssm">1840/1910</field>
     <field name="unitdate_normal_teim">1840/1910</field>
     <field name="unitdate_normal_sim">1840/1910</field>
@@ -37,6 +40,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">McLoughlin Bros., inc</field>
     <field name="name_sim">McLoughlin Bros., inc</field>
     <field name="name_teim">McLoughlin Bros., inc</field>
     <field name="subject_sim">Publishers and publishing -- New York (State) -- New York</field>

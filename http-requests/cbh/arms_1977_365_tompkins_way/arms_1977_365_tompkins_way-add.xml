@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.365</field>
     <field name="abstract_teim">This collection consists of a receipt, dated 1795, and an agreement, dated 1811, between Edward Tompkins and Thomas Way, both of the town of Newtown in Queens County.</field>
     <field name="abstract_ssm">This collection consists of a receipt, dated 1795, and an agreement, dated 1811, between Edward Tompkins and Thomas Way, both of the town of Newtown in Queens County.</field>
+    <field name="creator_teim">Way, Thomas</field>
+    <field name="creator_teim">Tompkins, Edward</field>
+    <field name="creator_ssm">Way, Thomas</field>
+    <field name="creator_ssm">Tompkins, Edward</field>
+    <field name="creator_ssm">Way, Thomas</field>
+    <field name="creator_ssm">Tompkins, Edward</field>
     <field name="unitdate_normal_ssm">1795/1811</field>
     <field name="unitdate_normal_teim">1795/1811</field>
     <field name="unitdate_normal_sim">1795/1811</field>
@@ -48,6 +54,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Way, Thomas</field>
+    <field name="creator_sim">Tompkins, Edward</field>
     <field name="name_sim">Way, Thomas</field>
     <field name="name_sim">Tompkins, Edward</field>
     <field name="name_teim">Way, Thomas</field>

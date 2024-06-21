@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.012</field>
     <field name="abstract_teim">The Brooklyn Art Association records span the period 1861 to 1970 and consists primarily of catalogs of exhibitions produced by the Association. Other materials include janitorial accounts, checks, bills, receipts, proxies, lists of stockholders and annual and life members, a photocopy of a certificate of incorporation for the association, and various annual reports.</field>
     <field name="abstract_ssm">The Brooklyn Art Association records span the period 1861 to 1970 and consists primarily of catalogs of exhibitions produced by the Association. Other materials include janitorial accounts, checks, bills, receipts, proxies, lists of stockholders and annual and life members, a photocopy of a certificate of incorporation for the association, and various annual reports.</field>
+    <field name="creator_teim">Brooklyn Art Association</field>
+    <field name="creator_ssm">Brooklyn Art Association</field>
+    <field name="creator_ssm">Brooklyn Art Association</field>
     <field name="unitdate_normal_ssm">1861/1970</field>
     <field name="unitdate_normal_teim">1861/1970</field>
     <field name="unitdate_normal_sim">1861/1970</field>
@@ -53,6 +56,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brooklyn Art Association</field>
     <field name="name_sim">Brooklyn Art Association</field>
     <field name="name_teim">Brooklyn Art Association</field>
     <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>

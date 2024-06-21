@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.485</field>
     <field name="abstract_teim">Inventory of the goods and chattels of the deceased William Mott, merchant, conducted by Isaac Wright and Isaac Doty on January 14, 1796.</field>
     <field name="abstract_ssm">Inventory of the goods and chattels of the deceased William Mott, merchant, conducted by Isaac Wright and Isaac Doty on January 14, 1796.</field>
+    <field name="creator_teim">Wright, Isaac</field>
+    <field name="creator_teim">Doty, Isaac</field>
+    <field name="creator_ssm">Wright, Isaac</field>
+    <field name="creator_ssm">Doty, Isaac</field>
+    <field name="creator_ssm">Wright, Isaac</field>
+    <field name="creator_ssm">Doty, Isaac</field>
     <field name="unitdate_normal_ssm">1796/1796</field>
     <field name="unitdate_normal_teim">1796/1796</field>
     <field name="unitdate_normal_sim">1796/1796</field>
@@ -44,6 +50,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Wright, Isaac</field>
+    <field name="creator_sim">Doty, Isaac</field>
     <field name="name_sim">Wright, Isaac</field>
     <field name="name_sim">Doty, Isaac</field>
     <field name="name_sim">Mott, William</field>

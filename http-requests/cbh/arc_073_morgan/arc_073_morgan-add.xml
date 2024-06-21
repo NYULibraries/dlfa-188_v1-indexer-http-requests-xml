@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.073</field>
     <field name="abstract_teim">The Morgan family papers, dated 1882 to 1929, contain ephemera and photographs from Thomas Morgan and members of his family.</field>
     <field name="abstract_ssm">The Morgan family papers, dated 1882 to 1929, contain ephemera and photographs from Thomas Morgan and members of his family.</field>
+    <field name="creator_teim">Morgan, Charlotte E. (Charlotte Elizabeth)</field>
+    <field name="creator_teim">Morgan, Thomas</field>
+    <field name="creator_ssm">Morgan, Charlotte E. (Charlotte Elizabeth)</field>
+    <field name="creator_ssm">Morgan, Thomas</field>
+    <field name="creator_ssm">Morgan, Charlotte E. (Charlotte Elizabeth)</field>
+    <field name="creator_ssm">Morgan, Thomas</field>
     <field name="unitdate_normal_ssm">1882/1929</field>
     <field name="unitdate_normal_teim">1882/1929</field>
     <field name="unitdate_normal_sim">1882/1929</field>
@@ -56,6 +62,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Morgan, Charlotte E. (Charlotte Elizabeth)</field>
+    <field name="creator_sim">Morgan, Thomas</field>
     <field name="name_sim">Hotel St. George (Brooklyn, New York, N.Y.)</field>
     <field name="name_sim">P.S. 26 (Brooklyn, New York, N.Y.)</field>
     <field name="name_sim">P.S. 56 (Brooklyn, New York, N.Y.)</field>

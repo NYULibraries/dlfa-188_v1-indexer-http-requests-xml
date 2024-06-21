@@ -9,6 +9,15 @@
     <field name="unitid_ssm">1977.517</field>
     <field name="abstract_teim">One 1859 deed for land in Newtown, Queens County owned by George R. and Sarah Ann Brinkerhoff and sold to James Wallace.</field>
     <field name="abstract_ssm">One 1859 deed for land in Newtown, Queens County owned by George R. and Sarah Ann Brinkerhoff and sold to James Wallace.</field>
+    <field name="creator_teim">Brinkerhoff, George R.</field>
+    <field name="creator_teim">Wallace, James</field>
+    <field name="creator_teim">Brinkerhoff, Sarah Ann</field>
+    <field name="creator_ssm">Brinkerhoff, George R.</field>
+    <field name="creator_ssm">Wallace, James</field>
+    <field name="creator_ssm">Brinkerhoff, Sarah Ann</field>
+    <field name="creator_ssm">Brinkerhoff, George R.</field>
+    <field name="creator_ssm">Wallace, James</field>
+    <field name="creator_ssm">Brinkerhoff, Sarah Ann</field>
     <field name="unitdate_normal_ssm">1859/1859</field>
     <field name="unitdate_normal_teim">1859/1859</field>
     <field name="unitdate_normal_sim">1859/1859</field>
@@ -52,6 +61,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brinkerhoff, George R.</field>
+    <field name="creator_sim">Wallace, James</field>
+    <field name="creator_sim">Brinkerhoff, Sarah Ann</field>
     <field name="name_sim">Brinkerhoff, George R.</field>
     <field name="name_sim">Wallace, James</field>
     <field name="name_sim">Brinkerhoff, Sarah Ann</field>

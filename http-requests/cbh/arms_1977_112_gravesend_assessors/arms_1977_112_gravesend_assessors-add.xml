@@ -9,6 +9,15 @@
     <field name="unitid_ssm">1977.112</field>
     <field name="abstract_teim">Order, dated 1746, to the assessors and collectors of the town of Gravesend in Kings County to collect taxes and deliver them to County Treasurer Peter Lefferts. Signed by S. Gerrtisen, Rutgert Van Brunt, and others.</field>
     <field name="abstract_ssm">Order, dated 1746, to the assessors and collectors of the town of Gravesend in Kings County to collect taxes and deliver them to County Treasurer Peter Lefferts. Signed by S. Gerrtisen, Rutgert Van Brunt, and others.</field>
+    <field name="creator_teim">Van Brunt, Rutgert</field>
+    <field name="creator_teim">Lefferts, Peter</field>
+    <field name="creator_teim">Gerritsen, S.</field>
+    <field name="creator_ssm">Van Brunt, Rutgert</field>
+    <field name="creator_ssm">Lefferts, Peter</field>
+    <field name="creator_ssm">Gerritsen, S.</field>
+    <field name="creator_ssm">Van Brunt, Rutgert</field>
+    <field name="creator_ssm">Lefferts, Peter</field>
+    <field name="creator_ssm">Gerritsen, S.</field>
     <field name="unitdate_normal_ssm">1746/1746</field>
     <field name="unitdate_normal_teim">1746/1746</field>
     <field name="unitdate_normal_sim">1746/1746</field>
@@ -47,6 +56,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Van Brunt, Rutgert</field>
+    <field name="creator_sim">Lefferts, Peter</field>
+    <field name="creator_sim">Gerritsen, S.</field>
     <field name="name_sim">Van Brunt, Rutgert</field>
     <field name="name_sim">Lefferts, Peter</field>
     <field name="name_sim">Gerritsen, S.</field>

@@ -9,6 +9,15 @@
     <field name="unitid_ssm">1987.018</field>
     <field name="abstract_teim">The collection contains a certificate for an award presented to James F. Kelly from the Department of the Navy; his identification badge; a program for the commissioning ceremony of the U.S.S. Independence; a copy of a publication titled National Association of Supervisors: 1952 Review.</field>
     <field name="abstract_ssm">The collection contains a certificate for an award presented to James F. Kelly from the Department of the Navy; his identification badge; a program for the commissioning ceremony of the U.S.S. Independence; a copy of a publication titled National Association of Supervisors: 1952 Review.</field>
+    <field name="creator_teim">Kelly, James F.</field>
+    <field name="creator_teim">New York Naval Shipyard</field>
+    <field name="creator_teim">United States. Navy</field>
+    <field name="creator_ssm">Kelly, James F.</field>
+    <field name="creator_ssm">New York Naval Shipyard</field>
+    <field name="creator_ssm">United States. Navy</field>
+    <field name="creator_ssm">New York Naval Shipyard</field>
+    <field name="creator_ssm">United States. Navy</field>
+    <field name="creator_ssm">Kelly, James F.</field>
     <field name="unitdate_normal_ssm">1950/1952</field>
     <field name="unitdate_normal_teim">1950/1952</field>
     <field name="unitdate_normal_sim">1950/1952</field>
@@ -51,6 +60,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York Naval Shipyard</field>
+    <field name="creator_sim">United States. Navy</field>
+    <field name="creator_sim">Kelly, James F.</field>
     <field name="name_sim">New York Naval Shipyard</field>
     <field name="name_sim">United States. Navy</field>
     <field name="name_sim">Independence (Ship : 1959-1998)</field>

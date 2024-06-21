@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.397</field>
     <field name="abstract_teim">One 1775 bill of sale for a canoe between Rem Cowenhoven of Brooklyn and Hendrick Brant of New York City.</field>
     <field name="abstract_ssm">One 1775 bill of sale for a canoe between Rem Cowenhoven of Brooklyn and Hendrick Brant of New York City.</field>
+    <field name="creator_teim">Brant, Hendrick</field>
+    <field name="creator_teim">Cowenhoven, Rem</field>
+    <field name="creator_ssm">Brant, Hendrick</field>
+    <field name="creator_ssm">Cowenhoven, Rem</field>
+    <field name="creator_ssm">Brant, Hendrick</field>
+    <field name="creator_ssm">Cowenhoven, Rem</field>
     <field name="unitdate_normal_ssm">1775/1775</field>
     <field name="unitdate_normal_teim">1775/1775</field>
     <field name="unitdate_normal_sim">1775/1775</field>
@@ -47,6 +53,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brant, Hendrick</field>
+    <field name="creator_sim">Cowenhoven, Rem</field>
     <field name="name_sim">Brant, Hendrick</field>
     <field name="name_sim">Cowenhoven, Rem</field>
     <field name="name_teim">Brant, Hendrick</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1985.045</field>
     <field name="abstract_teim">A logbook of arrests by police officers in Brooklyn, dated 1860 to 1863 and measuring 0.25 linear feet. The logbook records individuals who were arrested and booked by the Brooklyn Police. Each entry includes the name of the individual arrested, the date on which the arrest and booking took place, the time at which the person was booked, and the offense for which the person was arrested. The specific precinct to which this logbook belonged is not specified.</field>
     <field name="abstract_ssm">A logbook of arrests by police officers in Brooklyn, dated 1860 to 1863 and measuring 0.25 linear feet. The logbook records individuals who were arrested and booked by the Brooklyn Police. Each entry includes the name of the individual arrested, the date on which the arrest and booking took place, the time at which the person was booked, and the offense for which the person was arrested. The specific precinct to which this logbook belonged is not specified.</field>
+    <field name="creator_teim">New York (N.Y.). Police Department</field>
+    <field name="creator_ssm">New York (N.Y.). Police Department</field>
+    <field name="creator_ssm">New York (N.Y.). Police Department</field>
     <field name="unitdate_normal_ssm">1860/1863</field>
     <field name="unitdate_normal_teim">1860/1863</field>
     <field name="unitdate_normal_sim">1860/1863</field>
@@ -45,6 +48,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York (N.Y.). Police Department</field>
     <field name="name_sim">New York (N.Y.). Police Department</field>
     <field name="name_teim">New York (N.Y.). Police Department</field>
     <field name="subject_sim">Law enforcement -- New York (State) -- Kings County</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.166</field>
     <field name="abstract_teim">The Brooklyn Art Club annual exhibition catalogs span the years 1882 to 1898 and are housed in one half manuscript box. The collection consists of both originals and photocopies of annual exhibition catalogs of the Brooklyn Art Club.</field>
     <field name="abstract_ssm">The Brooklyn Art Club annual exhibition catalogs span the years 1882 to 1898 and are housed in one half manuscript box. The collection consists of both originals and photocopies of annual exhibition catalogs of the Brooklyn Art Club.</field>
+    <field name="creator_teim">Brooklyn Art Club</field>
+    <field name="creator_ssm">Brooklyn Art Club</field>
+    <field name="creator_ssm">Brooklyn Art Club</field>
     <field name="unitdate_normal_ssm">1882/1898</field>
     <field name="unitdate_normal_teim">1882/1898</field>
     <field name="unitdate_normal_sim">1882/1898</field>
@@ -56,6 +59,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brooklyn Art Club</field>
     <field name="name_sim">Brooklyn Art Club</field>
     <field name="name_teim">Brooklyn Art Club</field>
     <field name="place_sim">Brooklyn (New York, N.Y.)</field>

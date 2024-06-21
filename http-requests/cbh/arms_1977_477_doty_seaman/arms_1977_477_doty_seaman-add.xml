@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.477</field>
     <field name="abstract_teim">One 1767 deed for land in Jericho, Queens County, N.Y., sold by Jacob Seaman to Joseph Doty.</field>
     <field name="abstract_ssm">One 1767 deed for land in Jericho, Queens County, N.Y., sold by Jacob Seaman to Joseph Doty.</field>
+    <field name="creator_teim">Doty, Joseph</field>
+    <field name="creator_teim">Seaman, Jacob</field>
+    <field name="creator_ssm">Doty, Joseph</field>
+    <field name="creator_ssm">Seaman, Jacob</field>
+    <field name="creator_ssm">Doty, Joseph</field>
+    <field name="creator_ssm">Seaman, Jacob</field>
     <field name="unitdate_normal_ssm">1767/1767</field>
     <field name="unitdate_normal_teim">1767/1767</field>
     <field name="unitdate_normal_sim">1767/1767</field>
@@ -49,6 +55,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Doty, Joseph</field>
+    <field name="creator_sim">Seaman, Jacob</field>
     <field name="name_sim">Doty, Joseph</field>
     <field name="name_sim">Seaman, Jacob</field>
     <field name="name_teim">Doty, Joseph</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1973.301</field>
     <field name="abstract_teim">Visitor's book for the Brooklyn Chess Club, dated 1886 to 1928.  The book consists of a single hardbound volume with handwritten entries that record the first and last names of visitors to the club, as well as each visitor's hometown or address.</field>
     <field name="abstract_ssm">Visitor's book for the Brooklyn Chess Club, dated 1886 to 1928.  The book consists of a single hardbound volume with handwritten entries that record the first and last names of visitors to the club, as well as each visitor's hometown or address.</field>
+    <field name="creator_teim">Brooklyn Chess Club</field>
+    <field name="creator_ssm">Brooklyn Chess Club</field>
+    <field name="creator_ssm">Brooklyn Chess Club</field>
     <field name="unitdate_normal_ssm">1886/1928</field>
     <field name="unitdate_normal_teim">1886/1928</field>
     <field name="unitdate_normal_sim">1886/1928</field>
@@ -42,6 +45,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brooklyn Chess Club</field>
     <field name="name_sim">Brooklyn Chess Club</field>
     <field name="name_teim">Brooklyn Chess Club</field>
     <field name="place_sim">Brooklyn (New York, N.Y.) -- Social life and customs</field>

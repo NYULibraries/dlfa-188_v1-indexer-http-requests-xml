@@ -17,6 +17,9 @@
     <field name="unittitle_teim">A housing project of the Bedford Stuyvesant Restoration Corporation</field>
     <field name="unitid_teim">V1987.48.2</field>
     <field name="unitid_ssm">V1987.48.2</field>
+    <field name="creator_teim">Brown, Larry</field>
+    <field name="creator_ssm">Brown, Larry</field>
+    <field name="creator_ssm">Brown, Larry</field>
     <field name="unitdate_normal_ssm">1987/1987</field>
     <field name="unitdate_normal_teim">1987/1987</field>
     <field name="unitdate_normal_sim">1987/1987</field>
@@ -32,8 +35,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 12</field>
-    <field name="location_ssm">Folder: 12</field>
-    <field name="location_si">Folder: 12</field>
+    <field name="location_si">Box: 1, Folder: 12</field>
+    <field name="creator_sim">Brown, Larry</field>
     <field name="name_sim">Brown, Larry</field>
     <field name="name_teim">Brown, Larry</field>
     <field name="collection_teim">Bedford Stuyvesant Restoration Corporation publication and photograph collection</field>

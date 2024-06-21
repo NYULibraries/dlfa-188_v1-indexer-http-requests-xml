@@ -9,6 +9,15 @@
     <field name="unitid_ssm">ARC.139</field>
     <field name="abstract_teim">The Long Island College Hospital was founded in 1858 and functioned as both a hospital and medical school.  Its original building was located on the west side of Henry Street between Pacific and Amity Streets in the Brooklyn neighborhood of Cobble Hill.  The Hospital later moved to 339 Hicks Street.  The Long Island College Hospital collection spans the period 1861 to 1969 and contains publications and ephemera documenting the activities of the Hospital and its medical school, including annual reports, yearbooks, catalogs, newsletters, bulletins, programs, brochures, and pamphlets.</field>
     <field name="abstract_ssm">The Long Island College Hospital was founded in 1858 and functioned as both a hospital and medical school.  Its original building was located on the west side of Henry Street between Pacific and Amity Streets in the Brooklyn neighborhood of Cobble Hill.  The Hospital later moved to 339 Hicks Street.  The Long Island College Hospital collection spans the period 1861 to 1969 and contains publications and ephemera documenting the activities of the Hospital and its medical school, including annual reports, yearbooks, catalogs, newsletters, bulletins, programs, brochures, and pamphlets.</field>
+    <field name="creator_teim">Long Island College of Medicine</field>
+    <field name="creator_teim">Long Island College Hospital</field>
+    <field name="creator_teim">Long Island College Hospital. Guild</field>
+    <field name="creator_ssm">Long Island College of Medicine</field>
+    <field name="creator_ssm">Long Island College Hospital</field>
+    <field name="creator_ssm">Long Island College Hospital. Guild</field>
+    <field name="creator_ssm">Long Island College of Medicine</field>
+    <field name="creator_ssm">Long Island College Hospital</field>
+    <field name="creator_ssm">Long Island College Hospital. Guild</field>
     <field name="unitdate_normal_ssm">1861/1969</field>
     <field name="unitdate_normal_teim">1861/1969</field>
     <field name="unitdate_normal_sim">1861/1969</field>
@@ -97,6 +106,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Long Island College of Medicine</field>
+    <field name="creator_sim">Long Island College Hospital</field>
+    <field name="creator_sim">Long Island College Hospital. Guild</field>
     <field name="name_sim">Long Island College of Medicine</field>
     <field name="name_sim">Long Island College Hospital</field>
     <field name="name_sim">Long Island College Hospital. Guild</field>

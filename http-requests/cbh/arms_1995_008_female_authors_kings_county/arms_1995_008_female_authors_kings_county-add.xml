@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1995.008</field>
     <field name="abstract_teim">A bound volume, titled Model County Records. County of Kings, that features a typewritten list of female authors who resided in Kings County, N.Y. during the 19th century. The list is typewritten, alphabetical by surname, and lists the titles of books, magazine, and newspaper articles written by each author. In the back of the volume is an index organized alphabetically by surname.</field>
     <field name="abstract_ssm">A bound volume, titled Model County Records. County of Kings, that features a typewritten list of female authors who resided in Kings County, N.Y. during the 19th century. The list is typewritten, alphabetical by surname, and lists the titles of books, magazine, and newspaper articles written by each author. In the back of the volume is an index organized alphabetically by surname.</field>
+    <field name="creator_teim">Bellamy, Frederick P., Mrs.</field>
+    <field name="creator_teim">Packer, Harriet L., 1820-1892</field>
+    <field name="creator_ssm">Bellamy, Frederick P., Mrs.</field>
+    <field name="creator_ssm">Packer, Harriet L., 1820-1892</field>
+    <field name="creator_ssm">Bellamy, Frederick P., Mrs.</field>
+    <field name="creator_ssm">Packer, Harriet L., 1820-1892</field>
     <field name="unitdate_normal_ssm">1810/1910</field>
     <field name="unitdate_normal_teim">1810/1910</field>
     <field name="unitdate_normal_sim">1810/1910</field>
@@ -49,6 +55,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Bellamy, Frederick P., Mrs.</field>
+    <field name="creator_sim">Packer, Harriet L., 1820-1892</field>
     <field name="name_sim">Bellamy, Frederick P., Mrs.</field>
     <field name="name_sim">Packer, Harriet L., 1820-1892</field>
     <field name="name_teim">Bellamy, Frederick P., Mrs.</field>

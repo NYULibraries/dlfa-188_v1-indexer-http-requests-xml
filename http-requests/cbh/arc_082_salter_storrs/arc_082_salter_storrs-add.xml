@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.082</field>
     <field name="abstract_teim">The Storrs family collection, dated 1764 to 1900, contains sermons, lectures, correspondence, and a listing of accounts belonging to Rev. Richard Salter Storrs and his great-grandfather, Rev. John Storrs, as well as the 1897 diary of Mary Storrs Packard.</field>
     <field name="abstract_ssm">The Storrs family collection, dated 1764 to 1900, contains sermons, lectures, correspondence, and a listing of accounts belonging to Rev. Richard Salter Storrs and his great-grandfather, Rev. John Storrs, as well as the 1897 diary of Mary Storrs Packard.</field>
+    <field name="creator_teim">Storrs, John</field>
+    <field name="creator_teim">Storrs, Richard S. (Richard Salter)</field>
+    <field name="creator_ssm">Storrs, John</field>
+    <field name="creator_ssm">Storrs, Richard S. (Richard Salter)</field>
+    <field name="creator_ssm">Storrs, John</field>
+    <field name="creator_ssm">Storrs, Richard S. (Richard Salter)</field>
     <field name="unitdate_normal_ssm">1764/1900</field>
     <field name="unitdate_normal_teim">1764/1900</field>
     <field name="unitdate_normal_sim">1764/1900</field>
@@ -54,6 +60,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Storrs, John</field>
+    <field name="creator_sim">Storrs, Richard S. (Richard Salter)</field>
     <field name="name_sim">Church of the Pilgrims (Brooklyn, New York, N.Y.)</field>
     <field name="name_sim">Storrs, John</field>
     <field name="name_sim">Storrs, Richard S. (Richard Salter)</field>

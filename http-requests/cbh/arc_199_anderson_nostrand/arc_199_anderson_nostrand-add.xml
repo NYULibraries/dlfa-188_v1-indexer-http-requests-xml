@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.199</field>
     <field name="abstract_teim">This collection dates from 1844 to 1914 and documents three generations of the Nostrand and Anderson families through photographs, documents, and ephemera.</field>
     <field name="abstract_ssm">This collection dates from 1844 to 1914 and documents three generations of the Nostrand and Anderson families through photographs, documents, and ephemera.</field>
+    <field name="creator_teim">Nostrand, Lewis Pease</field>
+    <field name="creator_teim">Anderson family</field>
+    <field name="creator_ssm">Nostrand, Lewis Pease</field>
+    <field name="creator_ssm">Anderson family</field>
+    <field name="creator_ssm">Anderson family</field>
+    <field name="creator_ssm">Nostrand, Lewis Pease</field>
     <field name="unitdate_normal_ssm">1844/1914</field>
     <field name="unitdate_normal_teim">1844/1914</field>
     <field name="unitdate_normal_sim">1844/1914</field>
@@ -111,6 +117,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Anderson family</field>
+    <field name="creator_sim">Nostrand, Lewis Pease</field>
     <field name="name_sim">Anderson family</field>
     <field name="name_sim">Nostrand family</field>
     <field name="name_sim">Nostrand, Lewis Pease</field>

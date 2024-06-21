@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1974.024</field>
     <field name="abstract_teim">Journals, written by Jasper Danckaerts and Peter Sluyter of the Netherlands, describing two voyages to and tours of the American colonies, particularly New York, during the period 1679 to 1681 and the year 1683.  Danckaerts and Sluyter made the journeys under the names J. Schilders and P. Vorstman.  The journals are written entirely in Dutch.</field>
     <field name="abstract_ssm">Journals, written by Jasper Danckaerts and Peter Sluyter of the Netherlands, describing two voyages to and tours of the American colonies, particularly New York, during the period 1679 to 1681 and the year 1683.  Danckaerts and Sluyter made the journeys under the names J. Schilders and P. Vorstman.  The journals are written entirely in Dutch.</field>
+    <field name="creator_teim">Danckaerts, Jasper</field>
+    <field name="creator_teim">Sluyter, Peter</field>
+    <field name="creator_ssm">Danckaerts, Jasper</field>
+    <field name="creator_ssm">Sluyter, Peter</field>
+    <field name="creator_ssm">Danckaerts, Jasper</field>
+    <field name="creator_ssm">Sluyter, Peter</field>
     <field name="unitdate_normal_ssm">1679/1683</field>
     <field name="unitdate_normal_teim">1679/1683</field>
     <field name="unitdate_normal_sim">1679/1683</field>
@@ -39,6 +45,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Danckaerts, Jasper</field>
+    <field name="creator_sim">Sluyter, Peter</field>
     <field name="name_sim">Danckaerts, Jasper</field>
     <field name="name_sim">Sluyter, Peter</field>
     <field name="name_teim">Danckaerts, Jasper</field>

@@ -37,10 +37,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 11, Cassette: 24</field>
-    <field name="location_ssm">Cassette: 24</field>
     <field name="location_ssm">Box: 12, Cassette: 23</field>
-    <field name="location_ssm">Cassette: 23</field>
-    <field name="location_si">Cassette: 23</field>
+    <field name="location_si">Box: 12, Cassette: 23</field>
     <field name="name_sim">ACT UP New York (Organization)</field>
     <field name="name_teim">ACT UP New York (Organization)</field>
     <field name="dao_sim">Online Access</field>

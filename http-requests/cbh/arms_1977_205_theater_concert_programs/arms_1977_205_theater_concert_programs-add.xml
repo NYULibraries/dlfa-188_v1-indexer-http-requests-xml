@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.205</field>
     <field name="abstract_teim">One scrapbook containing programs from theatrical productions and concerts at various Brooklyn and Manhattan venues during the period 1875 to 1885, particularly performances by the Philharmonic Society of Brooklyn at the Brooklyn Academy of Music.  There is an inscription on the inside front cover indicating that the scrapbook may have belonged to Bessie S. Gilbert.</field>
     <field name="abstract_ssm">One scrapbook containing programs from theatrical productions and concerts at various Brooklyn and Manhattan venues during the period 1875 to 1885, particularly performances by the Philharmonic Society of Brooklyn at the Brooklyn Academy of Music.  There is an inscription on the inside front cover indicating that the scrapbook may have belonged to Bessie S. Gilbert.</field>
+    <field name="creator_teim">Philharmonic Society of Brooklyn</field>
+    <field name="creator_teim">Brooklyn Academy of Music</field>
+    <field name="creator_ssm">Philharmonic Society of Brooklyn</field>
+    <field name="creator_ssm">Brooklyn Academy of Music</field>
+    <field name="creator_ssm">Philharmonic Society of Brooklyn</field>
+    <field name="creator_ssm">Brooklyn Academy of Music</field>
     <field name="unitdate_normal_ssm">1875/1885</field>
     <field name="unitdate_normal_teim">1875/1885</field>
     <field name="unitdate_normal_sim">1875/1885</field>
@@ -69,6 +75,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Philharmonic Society of Brooklyn</field>
+    <field name="creator_sim">Brooklyn Academy of Music</field>
     <field name="name_sim">Philharmonic Society of Brooklyn</field>
     <field name="name_sim">Brooklyn Academy of Music</field>
     <field name="name_teim">Philharmonic Society of Brooklyn</field>

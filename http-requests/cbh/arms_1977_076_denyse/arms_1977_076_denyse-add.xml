@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.076</field>
     <field name="abstract_teim">One document, dated April 12, 1796, that appoints Adam Denyse and John Denyse as administrators of the estate of Jacques Denyse.</field>
     <field name="abstract_ssm">One document, dated April 12, 1796, that appoints Adam Denyse and John Denyse as administrators of the estate of Jacques Denyse.</field>
+    <field name="creator_teim">Lefferts, Jacobus L.</field>
+    <field name="creator_teim">Denyse, Jacques</field>
+    <field name="creator_ssm">Lefferts, Jacobus L.</field>
+    <field name="creator_ssm">Denyse, Jacques</field>
+    <field name="creator_ssm">Lefferts, Jacobus L.</field>
+    <field name="creator_ssm">Denyse, Jacques</field>
     <field name="unitdate_normal_ssm">1796/1796</field>
     <field name="unitdate_normal_teim">1796/1796</field>
     <field name="unitdate_normal_sim">1796/1796</field>
@@ -41,6 +47,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Lefferts, Jacobus L.</field>
+    <field name="creator_sim">Denyse, Jacques</field>
     <field name="name_sim">Lefferts, Jacobus L.</field>
     <field name="name_sim">Denyse, Jacques</field>
     <field name="name_teim">Lefferts, Jacobus L.</field>

@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.013</field>
     <field name="abstract_teim">This collection contains a subscription book to the capital stock of the Long Island Insurance Company, dated 1833, and an architectural drawing of the Company's building by Richard Laurence, dated 1834.</field>
     <field name="abstract_ssm">This collection contains a subscription book to the capital stock of the Long Island Insurance Company, dated 1833, and an architectural drawing of the Company's building by Richard Laurence, dated 1834.</field>
+    <field name="creator_teim">Laurence, Richard</field>
+    <field name="creator_teim">Long Island Insurance Company</field>
+    <field name="creator_ssm">Laurence, Richard</field>
+    <field name="creator_ssm">Long Island Insurance Company</field>
+    <field name="creator_ssm">Long Island Insurance Company</field>
+    <field name="creator_ssm">Laurence, Richard</field>
     <field name="unitdate_normal_ssm">1833/1834</field>
     <field name="unitdate_normal_teim">1833/1834</field>
     <field name="unitdate_normal_sim">1833/1834</field>
@@ -47,6 +53,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Long Island Insurance Company</field>
+    <field name="creator_sim">Laurence, Richard</field>
     <field name="name_sim">Long Island Insurance Company</field>
     <field name="name_sim">Laurence, Richard</field>
     <field name="name_teim">Long Island Insurance Company</field>

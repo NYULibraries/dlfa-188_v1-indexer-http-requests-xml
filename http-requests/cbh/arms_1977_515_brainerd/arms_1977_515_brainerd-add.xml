@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.515</field>
     <field name="abstract_teim">One 1869 quit claim deed between Elizabeth Brainerd and her daughter, Lucy E. (Brainerd) Barron, regarding the estate of Elizabeth Brainerd's father, Adrian Martense.</field>
     <field name="abstract_ssm">One 1869 quit claim deed between Elizabeth Brainerd and her daughter, Lucy E. (Brainerd) Barron, regarding the estate of Elizabeth Brainerd's father, Adrian Martense.</field>
+    <field name="creator_teim">Barron, Lucy E.</field>
+    <field name="creator_teim">Brainerd, Elizabeth</field>
+    <field name="creator_ssm">Barron, Lucy E.</field>
+    <field name="creator_ssm">Brainerd, Elizabeth</field>
+    <field name="creator_ssm">Barron, Lucy E.</field>
+    <field name="creator_ssm">Brainerd, Elizabeth</field>
     <field name="unitdate_normal_ssm">1869/1869</field>
     <field name="unitdate_normal_teim">1869/1869</field>
     <field name="unitdate_normal_sim">1869/1869</field>
@@ -52,6 +58,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Barron, Lucy E.</field>
+    <field name="creator_sim">Brainerd, Elizabeth</field>
     <field name="name_sim">Barron, Lucy E.</field>
     <field name="name_sim">Brainerd, Elizabeth</field>
     <field name="name_sim">Martense, Adrian</field>

@@ -9,6 +9,15 @@
     <field name="unitid_ssm">1977.570</field>
     <field name="abstract_teim">Quit claim deed for property in the town of Jamaica, Queens County known as the Silas Butler property between William J. and Eleanor Copeland and Rudolf Reimer. Dated 1880.</field>
     <field name="abstract_ssm">Quit claim deed for property in the town of Jamaica, Queens County known as the Silas Butler property between William J. and Eleanor Copeland and Rudolf Reimer. Dated 1880.</field>
+    <field name="creator_teim">Reimer, Rudolf</field>
+    <field name="creator_teim">Copeland, Eleanor</field>
+    <field name="creator_teim">Copeland, William J.</field>
+    <field name="creator_ssm">Reimer, Rudolf</field>
+    <field name="creator_ssm">Copeland, Eleanor</field>
+    <field name="creator_ssm">Copeland, William J.</field>
+    <field name="creator_ssm">Reimer, Rudolf</field>
+    <field name="creator_ssm">Copeland, Eleanor</field>
+    <field name="creator_ssm">Copeland, William J.</field>
     <field name="unitdate_normal_ssm">1880/1880</field>
     <field name="unitdate_normal_teim">1880/1880</field>
     <field name="unitdate_normal_sim">1880/1880</field>
@@ -54,6 +63,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Reimer, Rudolf</field>
+    <field name="creator_sim">Copeland, Eleanor</field>
+    <field name="creator_sim">Copeland, William J.</field>
     <field name="name_sim">Reimer, Rudolf</field>
     <field name="name_sim">Copeland, Eleanor</field>
     <field name="name_sim">Copeland, William J.</field>

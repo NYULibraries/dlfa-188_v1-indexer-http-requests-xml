@@ -9,6 +9,12 @@
     <field name="unitid_ssm">2012.002</field>
     <field name="abstract_teim">The Brooklyn Home for Aged Men records date from 1844 to 2011. The bulk of the records document the affairs of the Home from its incorporation in 1878, until the closing of its residence homes in 1969. Later records document the organization's continued charitable efforts after closing its residences. The collection includes administrative records, financial records, legal documents, resident files, Board meeting minutes, photographs (prints, negatives, and digital images), and memorabilia.</field>
     <field name="abstract_ssm">The Brooklyn Home for Aged Men records date from 1844 to 2011. The bulk of the records document the affairs of the Home from its incorporation in 1878, until the closing of its residence homes in 1969. Later records document the organization's continued charitable efforts after closing its residences. The collection includes administrative records, financial records, legal documents, resident files, Board meeting minutes, photographs (prints, negatives, and digital images), and memorabilia.</field>
+    <field name="creator_teim">Brooklyn Home for Aged Men</field>
+    <field name="creator_teim">Brooklyn Home for Aged Men and Couples</field>
+    <field name="creator_ssm">Brooklyn Home for Aged Men</field>
+    <field name="creator_ssm">Brooklyn Home for Aged Men and Couples</field>
+    <field name="creator_ssm">Brooklyn Home for Aged Men</field>
+    <field name="creator_ssm">Brooklyn Home for Aged Men and Couples</field>
     <field name="unitdate_normal_ssm">1844/2011</field>
     <field name="unitdate_normal_ssm">1878/1970</field>
     <field name="unitdate_normal_teim">1844/2011</field>
@@ -129,6 +135,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brooklyn Home for Aged Men</field>
+    <field name="creator_sim">Brooklyn Home for Aged Men and Couples</field>
     <field name="name_sim">Brooklyn Home for Aged Men</field>
     <field name="name_sim">Brooklyn Home for Aged Men and Couples</field>
     <field name="name_sim">Tiffany and Company</field>

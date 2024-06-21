@@ -9,6 +9,9 @@
     <field name="unitid_ssm">BCMS.0035</field>
     <field name="abstract_teim">Inactive records of the Brooklyn Heights Association consisting of news clippings, correspondence, financial records, lawsuits, reports, and memorabilia.</field>
     <field name="abstract_ssm">Inactive records of the Brooklyn Heights Association consisting of news clippings, correspondence, financial records, lawsuits, reports, and memorabilia.</field>
+    <field name="creator_teim">Brooklyn Heights Association</field>
+    <field name="creator_ssm">Brooklyn Heights Association</field>
+    <field name="creator_ssm">Brooklyn Heights Association</field>
     <field name="unitdate_normal_ssm">1917/1990</field>
     <field name="unitdate_normal_teim">1917/1990</field>
     <field name="unitdate_normal_sim">1917/1990</field>
@@ -46,6 +49,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brooklyn Heights Association</field>
     <field name="name_sim">Brooklyn Heights Association</field>
     <field name="name_teim">Brooklyn Heights Association</field>
     <field name="subject_sim">Brooklyn Heights (New York, N.Y.)</field>

@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.297</field>
     <field name="abstract_teim">The collection contains scorecards, programs, yearbooks, magazines, clippings, scrapbooks, posters, and other items related to the Brooklyn Dodgers, dating from 1884 to 2002, which have been collection by Brooklyn Historical Society. It also includes a small amount of items related to the Los Angeles Dodgers and pre-Brooklyn Dodgers baseball teams. Of note are several late 19th century Brooklyn baseball scorecards.</field>
     <field name="abstract_ssm">The collection contains scorecards, programs, yearbooks, magazines, clippings, scrapbooks, posters, and other items related to the Brooklyn Dodgers, dating from 1884 to 2002, which have been collection by Brooklyn Historical Society. It also includes a small amount of items related to the Los Angeles Dodgers and pre-Brooklyn Dodgers baseball teams. Of note are several late 19th century Brooklyn baseball scorecards.</field>
+    <field name="creator_teim">Los Angeles Dodgers (Baseball team)</field>
+    <field name="creator_teim">Brooklyn Dodgers (Baseball team)</field>
+    <field name="creator_ssm">Los Angeles Dodgers (Baseball team)</field>
+    <field name="creator_ssm">Brooklyn Dodgers (Baseball team)</field>
+    <field name="creator_ssm">Los Angeles Dodgers (Baseball team)</field>
+    <field name="creator_ssm">Brooklyn Dodgers (Baseball team)</field>
     <field name="unitdate_normal_ssm">1884/2002</field>
     <field name="unitdate_normal_ssm">1941/1957</field>
     <field name="unitdate_normal_teim">1884/2002</field>
@@ -119,6 +125,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Los Angeles Dodgers (Baseball team)</field>
+    <field name="creator_sim">Brooklyn Dodgers (Baseball team)</field>
     <field name="name_sim">Los Angeles Dodgers (Baseball team)</field>
     <field name="name_sim">Brooklyn Dodgers (Baseball team)</field>
     <field name="name_sim">Ebbets Field (New York, N.Y.)</field>

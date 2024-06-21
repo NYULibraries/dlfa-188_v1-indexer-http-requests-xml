@@ -9,6 +9,12 @@
     <field name="unitid_ssm">BCMS.0048</field>
     <field name="abstract_teim">Materials collected by Puerto Rican author, activist, and labor organizer Jesús Colón. Materials cover various labor, political and social organizations in New York.</field>
     <field name="abstract_ssm">Materials collected by Puerto Rican author, activist, and labor organizer Jesús Colón. Materials cover various labor, political and social organizations in New York.</field>
+    <field name="creator_teim">Colón, Jesús</field>
+    <field name="creator_teim">Colon, Jesus</field>
+    <field name="creator_ssm">Colón, Jesús</field>
+    <field name="creator_ssm">Colon, Jesus</field>
+    <field name="creator_ssm">Colón, Jesús</field>
+    <field name="creator_ssm">Colon, Jesus</field>
     <field name="unitdate_normal_ssm">1917/1969</field>
     <field name="unitdate_normal_ssm">1930/1965</field>
     <field name="unitdate_normal_teim">1917/1969</field>
@@ -43,6 +49,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Colón, Jesús</field>
+    <field name="creator_sim">Colon, Jesus</field>
     <field name="name_sim">Colón, Jesús</field>
     <field name="name_sim">Colon, Jesus</field>
     <field name="name_teim">Colón, Jesús</field>

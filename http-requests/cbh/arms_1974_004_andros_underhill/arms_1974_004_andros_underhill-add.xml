@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1974.004</field>
     <field name="abstract_teim">The collection includes one item, the 1672 judgment of British colonial New York governor Edmond Andros (1637-1714) concerning the estate of the late Captain John Underhill (circa 1597-1672) of Oyster Bay, Long Island. In his will, Underhill had left his estate to his wife, Elizabeth. Elizabeth died intestate. Andros's judgment named Underhill's eldest son, John, administrator of the estate.</field>
     <field name="abstract_ssm">The collection includes one item, the 1672 judgment of British colonial New York governor Edmond Andros (1637-1714) concerning the estate of the late Captain John Underhill (circa 1597-1672) of Oyster Bay, Long Island. In his will, Underhill had left his estate to his wife, Elizabeth. Elizabeth died intestate. Andros's judgment named Underhill's eldest son, John, administrator of the estate.</field>
+    <field name="creator_teim">Andros, Edmund, Sir</field>
+    <field name="creator_teim">New York (Colony)</field>
+    <field name="creator_ssm">Andros, Edmund, Sir</field>
+    <field name="creator_ssm">New York (Colony)</field>
+    <field name="creator_ssm">New York (Colony)</field>
+    <field name="creator_ssm">Andros, Edmund, Sir</field>
     <field name="unitdate_normal_ssm">1672/1672</field>
     <field name="unitdate_normal_teim">1672/1672</field>
     <field name="unitdate_normal_sim">1672/1672</field>
@@ -49,6 +55,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York (Colony)</field>
+    <field name="creator_sim">Andros, Edmund, Sir</field>
     <field name="name_sim">New York (Colony)</field>
     <field name="name_sim">Andros, Edmund, Sir</field>
     <field name="name_sim">Underhill, John</field>

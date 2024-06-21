@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.393</field>
     <field name="abstract_teim">One deed for land in the town of Hempstead in Queens County (later Nassau County), sold to William Smith by Leffert Haugewort. The deed is dated May 4, 1749.</field>
     <field name="abstract_ssm">One deed for land in the town of Hempstead in Queens County (later Nassau County), sold to William Smith by Leffert Haugewort. The deed is dated May 4, 1749.</field>
+    <field name="creator_teim">Smith, William</field>
+    <field name="creator_teim">Haugewort, Leffert</field>
+    <field name="creator_ssm">Smith, William</field>
+    <field name="creator_ssm">Haugewort, Leffert</field>
+    <field name="creator_ssm">Smith, William</field>
+    <field name="creator_ssm">Haugewort, Leffert</field>
     <field name="unitdate_normal_ssm">1749/1749</field>
     <field name="unitdate_normal_teim">1749/1749</field>
     <field name="unitdate_normal_sim">1749/1749</field>
@@ -49,6 +55,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Smith, William</field>
+    <field name="creator_sim">Haugewort, Leffert</field>
     <field name="name_sim">Smith, William</field>
     <field name="name_sim">Haugewort, Leffert</field>
     <field name="name_teim">Smith, William</field>

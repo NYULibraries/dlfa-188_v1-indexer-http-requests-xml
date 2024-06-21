@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1991.024</field>
     <field name="abstract_teim">This accession consists of one certificate of sale to Thomas Gascoyne for property in Brooklyn on Myrtle and Tillary Streets in 1841.  The document also records the selling of the property by Edward Gascoyne to Jacque Cortelyou in 1845.</field>
     <field name="abstract_ssm">This accession consists of one certificate of sale to Thomas Gascoyne for property in Brooklyn on Myrtle and Tillary Streets in 1841.  The document also records the selling of the property by Edward Gascoyne to Jacque Cortelyou in 1845.</field>
+    <field name="creator_teim">Gascoyne, Edward</field>
+    <field name="creator_teim">Gascoyne, Thomas</field>
+    <field name="creator_ssm">Gascoyne, Edward</field>
+    <field name="creator_ssm">Gascoyne, Thomas</field>
+    <field name="creator_ssm">Gascoyne, Edward</field>
+    <field name="creator_ssm">Gascoyne, Thomas</field>
     <field name="unitdate_normal_ssm">1841/1845</field>
     <field name="unitdate_normal_teim">1841/1845</field>
     <field name="unitdate_normal_sim">1841/1845</field>
@@ -46,6 +52,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Gascoyne, Edward</field>
+    <field name="creator_sim">Gascoyne, Thomas</field>
     <field name="name_sim">Gascoyne, Edward</field>
     <field name="name_sim">Apfelbaum, Charles</field>
     <field name="name_sim">Gascoyne, Thomas</field>

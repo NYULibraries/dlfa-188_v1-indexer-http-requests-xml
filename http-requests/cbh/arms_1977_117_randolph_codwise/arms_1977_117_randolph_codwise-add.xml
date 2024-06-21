@@ -9,6 +9,15 @@
     <field name="unitid_ssm">1977.117</field>
     <field name="abstract_teim">Accounts, correspondence, and property documents spanning the period 1849 to 1896 and relating to the property dispute between the Codwise and Randolph families. Materials mostly derive from the two families' dealings with the law firm Storrs and Sedgwick and the realtors who managed the property in question.</field>
     <field name="abstract_ssm">Accounts, correspondence, and property documents spanning the period 1849 to 1896 and relating to the property dispute between the Codwise and Randolph families. Materials mostly derive from the two families' dealings with the law firm Storrs and Sedgwick and the realtors who managed the property in question.</field>
+    <field name="creator_teim">Codwise family</field>
+    <field name="creator_teim">Randolph family</field>
+    <field name="creator_teim">Storrs and Sedgwick (Firm)</field>
+    <field name="creator_ssm">Codwise family</field>
+    <field name="creator_ssm">Randolph family</field>
+    <field name="creator_ssm">Storrs and Sedgwick (Firm)</field>
+    <field name="creator_ssm">Storrs and Sedgwick (Firm)</field>
+    <field name="creator_ssm">Codwise family</field>
+    <field name="creator_ssm">Randolph family</field>
     <field name="unitdate_normal_ssm">1849/1896</field>
     <field name="unitdate_normal_teim">1849/1896</field>
     <field name="unitdate_normal_sim">1849/1896</field>
@@ -56,6 +65,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Storrs and Sedgwick (Firm)</field>
+    <field name="creator_sim">Codwise family</field>
+    <field name="creator_sim">Randolph family</field>
     <field name="name_sim">Storrs and Sedgwick (Firm)</field>
     <field name="name_sim">Codwise family</field>
     <field name="name_sim">Randolph family</field>

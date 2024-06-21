@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1990.010</field>
     <field name="abstract_teim">A fire insurance certificate for a building located at 113 Carroll Street in Brooklyn, dated 1890.</field>
     <field name="abstract_ssm">A fire insurance certificate for a building located at 113 Carroll Street in Brooklyn, dated 1890.</field>
+    <field name="creator_teim">Guardian Assurance Company</field>
+    <field name="creator_ssm">Guardian Assurance Company</field>
+    <field name="creator_ssm">Guardian Assurance Company</field>
     <field name="unitdate_normal_ssm">1890/1890</field>
     <field name="unitdate_normal_teim">1890/1890</field>
     <field name="unitdate_normal_sim">1890/1890</field>
@@ -42,6 +45,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Guardian Assurance Company</field>
     <field name="name_sim">Guardian Assurance Company</field>
     <field name="name_teim">Guardian Assurance Company</field>
     <field name="place_sim">Brooklyn (New York, N.Y.)</field>

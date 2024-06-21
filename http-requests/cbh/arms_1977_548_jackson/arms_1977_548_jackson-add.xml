@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1977.548</field>
     <field name="abstract_teim">Last will and testament of Samuel Jackson of Hempstead in Queens County, the Province of New York. The will is dated April 22, 1728 and contains a reference to an enslaved Black person.</field>
     <field name="abstract_ssm">Last will and testament of Samuel Jackson of Hempstead in Queens County, the Province of New York. The will is dated April 22, 1728 and contains a reference to an enslaved Black person.</field>
+    <field name="creator_teim">Jackson, Samuel</field>
+    <field name="creator_ssm">Jackson, Samuel</field>
+    <field name="creator_ssm">Jackson, Samuel</field>
     <field name="unitdate_normal_ssm">1728/1728</field>
     <field name="unitdate_normal_teim">1728/1728</field>
     <field name="unitdate_normal_sim">1728/1728</field>
@@ -44,6 +47,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Jackson, Samuel</field>
     <field name="name_sim">Jackson, Samuel</field>
     <field name="name_teim">Jackson, Samuel</field>
     <field name="place_sim">Queens County (N.Y.)</field>

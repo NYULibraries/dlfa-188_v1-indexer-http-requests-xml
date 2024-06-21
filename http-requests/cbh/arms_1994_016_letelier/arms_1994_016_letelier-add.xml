@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1994.016</field>
     <field name="abstract_teim">The will and estate inventory of Jan LeTelier of New Utrecht, New York (which later became part of the Bensonhurst neighborhood of Brooklyn). Both documents are dated 1671 and are written in Dutch.</field>
     <field name="abstract_ssm">The will and estate inventory of Jan LeTelier of New Utrecht, New York (which later became part of the Bensonhurst neighborhood of Brooklyn). Both documents are dated 1671 and are written in Dutch.</field>
+    <field name="creator_teim">LeTelier, Jan</field>
+    <field name="creator_ssm">LeTelier, Jan</field>
+    <field name="creator_ssm">LeTelier, Jan</field>
     <field name="unitdate_normal_ssm">1671/1671</field>
     <field name="unitdate_normal_teim">1671/1671</field>
     <field name="unitdate_normal_sim">1671/1671</field>
@@ -45,6 +48,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">LeTelier, Jan</field>
     <field name="name_sim">LeTelier, Jan</field>
     <field name="name_teim">LeTelier, Jan</field>
     <field name="place_sim">New Utrecht (New York, N.Y.)</field>

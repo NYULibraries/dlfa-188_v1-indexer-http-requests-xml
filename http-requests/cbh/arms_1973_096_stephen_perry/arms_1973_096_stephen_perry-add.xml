@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1973.095</field>
     <field name="abstract_teim">The Stephen Perry account book lists Dr. Perry's financial transactions for the period 1840 to 1870, and also includes copies of several birth and death certificates.</field>
     <field name="abstract_ssm">The Stephen Perry account book lists Dr. Perry's financial transactions for the period 1840 to 1870, and also includes copies of several birth and death certificates.</field>
+    <field name="creator_teim">Perry, Stephen</field>
+    <field name="creator_ssm">Perry, Stephen</field>
+    <field name="creator_ssm">Perry, Stephen</field>
     <field name="unitdate_normal_ssm">1840/1884</field>
     <field name="unitdate_normal_ssm">1840/1870</field>
     <field name="unitdate_normal_teim">1840/1884</field>
@@ -51,6 +54,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Perry, Stephen</field>
     <field name="name_sim">Perry, Stephen</field>
     <field name="name_teim">Perry, Stephen</field>
     <field name="place_sim">Northport (N.Y.)</field>

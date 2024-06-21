@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.013</field>
     <field name="abstract_teim">The Ralph Marx real estate records contain appraisals, property information, and photographs for Brooklyn properties in the 1960s and 1970s. All records were created by Ralph Marx during the course of his career as a real estate broker in New York City.</field>
     <field name="abstract_ssm">The Ralph Marx real estate records contain appraisals, property information, and photographs for Brooklyn properties in the 1960s and 1970s. All records were created by Ralph Marx during the course of his career as a real estate broker in New York City.</field>
+    <field name="creator_teim">Marx, Ralph</field>
+    <field name="creator_ssm">Marx, Ralph</field>
+    <field name="creator_ssm">Marx, Ralph</field>
     <field name="unitdate_normal_ssm">1967/1975</field>
     <field name="unitdate_normal_teim">1967/1975</field>
     <field name="unitdate_normal_sim">1967/1975</field>
@@ -49,6 +52,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Marx, Ralph</field>
     <field name="name_sim">Marx, Ralph</field>
     <field name="name_teim">Marx, Ralph</field>
     <field name="place_sim">Brooklyn (New York, N.Y.) -- Buildings, structures, etc.</field>

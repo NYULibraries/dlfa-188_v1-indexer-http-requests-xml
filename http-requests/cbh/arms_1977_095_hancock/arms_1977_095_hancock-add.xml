@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1977.095</field>
     <field name="abstract_teim">Handwritten letter from John Hancock to the Constitutional Convention of New York, dated June 17, 1776.</field>
     <field name="abstract_ssm">Handwritten letter from John Hancock to the Constitutional Convention of New York, dated June 17, 1776.</field>
+    <field name="creator_teim">Hancock, John</field>
+    <field name="creator_ssm">Hancock, John</field>
+    <field name="creator_ssm">Hancock, John</field>
     <field name="unitdate_normal_ssm">1776/1776</field>
     <field name="unitdate_normal_teim">1776/1776</field>
     <field name="unitdate_normal_sim">1776/1776</field>
@@ -47,6 +50,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Hancock, John</field>
     <field name="name_sim">New York (State). Constitutional Convention (1776)</field>
     <field name="name_sim">Hancock, John</field>
     <field name="name_sim">Howe, William Howe, 5th Viscount</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1977.632</field>
     <field name="abstract_teim">This collection contains the Holmes family's legal papers relating to deaths and estates from 1798-1851. The Holmes family lived in various counties in upstate New York.</field>
     <field name="abstract_ssm">This collection contains the Holmes family's legal papers relating to deaths and estates from 1798-1851. The Holmes family lived in various counties in upstate New York.</field>
+    <field name="creator_teim">Holmes family</field>
+    <field name="creator_ssm">Holmes family</field>
+    <field name="creator_ssm">Holmes family</field>
     <field name="unitdate_normal_ssm">1798/1851</field>
     <field name="unitdate_normal_teim">1798/1851</field>
     <field name="unitdate_normal_sim">1798/1851</field>
@@ -49,6 +52,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Holmes family</field>
     <field name="name_sim">Holmes family</field>
     <field name="name_teim">Holmes family</field>
     <field name="place_sim">New York (State)</field>

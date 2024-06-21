@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.254</field>
     <field name="abstract_teim">The Forbes family photographs include five black-and-white photographic prints (three mounted) dating from circa 1920 to 1925.</field>
     <field name="abstract_ssm">The Forbes family photographs include five black-and-white photographic prints (three mounted) dating from circa 1920 to 1925.</field>
+    <field name="creator_teim">Forbes family</field>
+    <field name="creator_ssm">Forbes family</field>
+    <field name="creator_ssm">Forbes family</field>
     <field name="unitdate_normal_ssm">1910/1935</field>
     <field name="unitdate_normal_teim">1910/1935</field>
     <field name="unitdate_normal_sim">1910/1935</field>
@@ -54,6 +57,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Forbes family</field>
     <field name="name_sim">Forbes family</field>
     <field name="name_sim">Forbes, Anne McAlpin</field>
     <field name="name_sim">Forbes, Norma Harriet</field>

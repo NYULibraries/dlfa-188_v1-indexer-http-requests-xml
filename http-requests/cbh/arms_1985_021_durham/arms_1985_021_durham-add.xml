@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.322</field>
     <field name="abstract_teim">Papers relating to the family of Knowlton Durham (1880-1961), a New York City lawyer.</field>
     <field name="abstract_ssm">Papers relating to the family of Knowlton Durham (1880-1961), a New York City lawyer.</field>
+    <field name="creator_teim">Durham, Knowlton</field>
+    <field name="creator_teim">Durham family</field>
+    <field name="creator_ssm">Durham, Knowlton</field>
+    <field name="creator_ssm">Durham family</field>
+    <field name="creator_ssm">Durham family</field>
+    <field name="creator_ssm">Durham, Knowlton</field>
     <field name="unitdate_normal_ssm">1815/1960</field>
     <field name="unitdate_normal_teim">1815/1960</field>
     <field name="unitdate_normal_sim">1815/1960</field>
@@ -105,6 +111,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Durham family</field>
+    <field name="creator_sim">Durham, Knowlton</field>
     <field name="name_sim">Durham family</field>
     <field name="name_sim">Durham, Knowlton</field>
     <field name="name_teim">Durham family</field>

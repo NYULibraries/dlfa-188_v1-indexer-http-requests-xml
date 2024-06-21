@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1978.036</field>
     <field name="abstract_teim">The U.S.S. Gemsbok records date from 1864 to 1865 and include a collection of vouchers for expenditures of various departments aboard the ship, which was used throughout the American Civil War.</field>
     <field name="abstract_ssm">The U.S.S. Gemsbok records date from 1864 to 1865 and include a collection of vouchers for expenditures of various departments aboard the ship, which was used throughout the American Civil War.</field>
+    <field name="creator_teim">Gemsbok (Bark)</field>
+    <field name="creator_ssm">Gemsbok (Bark)</field>
+    <field name="creator_ssm">Gemsbok (Bark)</field>
     <field name="unitdate_normal_ssm">1864/1865</field>
     <field name="unitdate_normal_teim">1864/1865</field>
     <field name="unitdate_normal_sim">1864/1865</field>
@@ -45,6 +48,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Gemsbok (Bark)</field>
     <field name="name_sim">Gemsbok (Bark)</field>
     <field name="name_teim">Gemsbok (Bark)</field>
     <field name="place_sim">United States -- History -- Civil War, 1861-1865</field>

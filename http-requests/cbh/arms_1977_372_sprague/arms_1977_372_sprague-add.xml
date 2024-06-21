@@ -9,6 +9,15 @@
     <field name="unitid_ssm">1977.372</field>
     <field name="abstract_teim">Deed and title search (1875) for land transferred between George and Isabella Sprague and Herman Nickerson, all of Huntington, Long Island.</field>
     <field name="abstract_ssm">Deed and title search (1875) for land transferred between George and Isabella Sprague and Herman Nickerson, all of Huntington, Long Island.</field>
+    <field name="creator_teim">Sprague, George</field>
+    <field name="creator_teim">Nickerson, Herman</field>
+    <field name="creator_teim">Sprague, Isabella</field>
+    <field name="creator_ssm">Sprague, George</field>
+    <field name="creator_ssm">Nickerson, Herman</field>
+    <field name="creator_ssm">Sprague, Isabella</field>
+    <field name="creator_ssm">Sprague, George</field>
+    <field name="creator_ssm">Nickerson, Herman</field>
+    <field name="creator_ssm">Sprague, Isabella</field>
     <field name="unitdate_normal_ssm">1832/1875</field>
     <field name="unitdate_normal_teim">1832/1875</field>
     <field name="unitdate_normal_sim">1832/1875</field>
@@ -54,6 +63,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Sprague, George</field>
+    <field name="creator_sim">Nickerson, Herman</field>
+    <field name="creator_sim">Sprague, Isabella</field>
     <field name="name_sim">Sprague, George</field>
     <field name="name_sim">Nickerson, Herman</field>
     <field name="name_sim">Sprague, Isabella</field>

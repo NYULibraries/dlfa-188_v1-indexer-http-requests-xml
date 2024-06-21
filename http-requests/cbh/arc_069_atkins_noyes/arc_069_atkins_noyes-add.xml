@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.069</field>
     <field name="abstract_teim">The James Atkins Noyes collection spans 1865-1890, though the bulk of the collection pertains to Noyes' early life spent in Brooklyn, N.Y., 1865-1874. Included in the collection are 11 copybooks, one scrapbook, and one letter of correspondence.</field>
     <field name="abstract_ssm">The James Atkins Noyes collection spans 1865-1890, though the bulk of the collection pertains to Noyes' early life spent in Brooklyn, N.Y., 1865-1874. Included in the collection are 11 copybooks, one scrapbook, and one letter of correspondence.</field>
+    <field name="creator_teim">Chadwick, John White</field>
+    <field name="creator_teim">Noyes, James Atkins</field>
+    <field name="creator_ssm">Chadwick, John White</field>
+    <field name="creator_ssm">Noyes, James Atkins</field>
+    <field name="creator_ssm">Chadwick, John White</field>
+    <field name="creator_ssm">Noyes, James Atkins</field>
     <field name="unitdate_normal_ssm">1865/1890</field>
     <field name="unitdate_normal_teim">1865/1890</field>
     <field name="unitdate_normal_sim">1865/1890</field>
@@ -59,6 +65,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Chadwick, John White</field>
+    <field name="creator_sim">Noyes, James Atkins</field>
     <field name="name_sim">Brooklyn Academy of Music</field>
     <field name="name_sim">Second Unitarian Church (Brooklyn, New York, N.Y.)</field>
     <field name="name_sim">Chadwick, John White</field>

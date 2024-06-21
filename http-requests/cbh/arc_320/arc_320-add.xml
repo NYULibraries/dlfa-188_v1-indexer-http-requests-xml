@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.320</field>
     <field name="abstract_teim">This collection is dated 1853-1963 and documents the Matson, Netterville, and Glover families in documents, letters, and an account book.</field>
     <field name="abstract_ssm">This collection is dated 1853-1963 and documents the Matson, Netterville, and Glover families in documents, letters, and an account book.</field>
+    <field name="creator_teim">Matson family</field>
+    <field name="creator_teim">Matson, Nathaniel</field>
+    <field name="creator_ssm">Matson family</field>
+    <field name="creator_ssm">Matson, Nathaniel</field>
+    <field name="creator_ssm">Matson family</field>
+    <field name="creator_ssm">Matson, Nathaniel</field>
     <field name="unitdate_normal_ssm">1853/1963</field>
     <field name="unitdate_normal_teim">1853/1963</field>
     <field name="unitdate_normal_sim">1853/1963</field>
@@ -70,6 +76,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Matson family</field>
+    <field name="creator_sim">Matson, Nathaniel</field>
     <field name="name_sim">Matson family</field>
     <field name="name_sim">Netterville family</field>
     <field name="name_sim">Matson, Nathaniel</field>

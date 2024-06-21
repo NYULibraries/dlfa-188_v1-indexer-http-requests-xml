@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1990.015</field>
     <field name="abstract_teim">A bound volume of school work by several students at the Holy Cross School in the Flatbush neighborhood of Brooklyn.  The volume was created to commemorate the Columbian Exposition in Chicago in 1893.</field>
     <field name="abstract_ssm">A bound volume of school work by several students at the Holy Cross School in the Flatbush neighborhood of Brooklyn.  The volume was created to commemorate the Columbian Exposition in Chicago in 1893.</field>
+    <field name="creator_teim">Holy Cross School</field>
+    <field name="creator_ssm">Holy Cross School</field>
+    <field name="creator_ssm">Holy Cross School</field>
     <field name="unitdate_normal_ssm">1893/1893</field>
     <field name="unitdate_normal_teim">1893/1893</field>
     <field name="unitdate_normal_sim">1893/1893</field>
@@ -45,6 +48,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Holy Cross School</field>
     <field name="name_sim">Holy Cross School</field>
     <field name="name_teim">Holy Cross School</field>
     <field name="place_sim">Brooklyn (New York, N.Y.)</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.161</field>
     <field name="abstract_teim">The Brooklyn Public Library (BPL) publications span the years 1898 to 1965 and are housed in six and one half manuscript boxes. Materials represented in the collection include annual reports; bulletins; newsletters; book lists (bibliographies); and miscellaneous programs, publications, and ephemera. The formation of the Brooklyn Public Library (BPL) system was approved by the New York State legislature in 1892 and was officially organized in 1897. As of 2010, the BPL system consisted of 60 locations including the Central Library, the Business Library, and 58 branch libraries located throughout Brooklyn.</field>
     <field name="abstract_ssm">The Brooklyn Public Library (BPL) publications span the years 1898 to 1965 and are housed in six and one half manuscript boxes. Materials represented in the collection include annual reports; bulletins; newsletters; book lists (bibliographies); and miscellaneous programs, publications, and ephemera. The formation of the Brooklyn Public Library (BPL) system was approved by the New York State legislature in 1892 and was officially organized in 1897. As of 2010, the BPL system consisted of 60 locations including the Central Library, the Business Library, and 58 branch libraries located throughout Brooklyn.</field>
+    <field name="creator_teim">Brooklyn Public Library</field>
+    <field name="creator_ssm">Brooklyn Public Library</field>
+    <field name="creator_ssm">Brooklyn Public Library</field>
     <field name="unitdate_normal_ssm">1898/1965</field>
     <field name="unitdate_normal_teim">1898/1965</field>
     <field name="unitdate_normal_sim">1898/1965</field>
@@ -79,6 +82,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Brooklyn Public Library</field>
     <field name="name_sim">Brooklyn Public Library</field>
     <field name="name_teim">Brooklyn Public Library</field>
     <field name="place_sim">Brooklyn (New York, N.Y.) -- Intellectual life -- 19th century</field>

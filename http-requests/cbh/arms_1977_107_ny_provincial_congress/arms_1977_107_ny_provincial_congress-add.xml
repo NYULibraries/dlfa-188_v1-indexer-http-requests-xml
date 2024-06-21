@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.107</field>
     <field name="abstract_teim">A blank certificate of appointment to the New York Militia issued by the New York Provincial Congress, dated August 22, 1775 and signed by Nathaniel Woodhull.</field>
     <field name="abstract_ssm">A blank certificate of appointment to the New York Militia issued by the New York Provincial Congress, dated August 22, 1775 and signed by Nathaniel Woodhull.</field>
+    <field name="creator_teim">Woodhull, Nathaniel</field>
+    <field name="creator_teim">New York (Colony). Provincial Congress</field>
+    <field name="creator_ssm">Woodhull, Nathaniel</field>
+    <field name="creator_ssm">New York (Colony). Provincial Congress</field>
+    <field name="creator_ssm">New York (Colony). Provincial Congress</field>
+    <field name="creator_ssm">Woodhull, Nathaniel</field>
     <field name="unitdate_normal_ssm">1775/1775</field>
     <field name="unitdate_normal_teim">1775/1775</field>
     <field name="unitdate_normal_sim">1775/1775</field>
@@ -36,6 +42,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York (Colony). Provincial Congress</field>
+    <field name="creator_sim">Woodhull, Nathaniel</field>
     <field name="name_sim">New York (Colony). Provincial Congress</field>
     <field name="name_sim">Woodhull, Nathaniel</field>
     <field name="name_teim">New York (Colony). Provincial Congress</field>

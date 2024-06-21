@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1974.253</field>
     <field name="abstract_teim">Letter from Jack Harris, an enslaved man in Augusta, GA, to his owner Robert Haviland in New York City, seeking an arrangement to buy his freedom.</field>
     <field name="abstract_ssm">Letter from Jack Harris, an enslaved man in Augusta, GA, to his owner Robert Haviland in New York City, seeking an arrangement to buy his freedom.</field>
+    <field name="creator_teim">Harris, Jack</field>
+    <field name="creator_teim">Haviland, Robert</field>
+    <field name="creator_ssm">Harris, Jack</field>
+    <field name="creator_ssm">Haviland, Robert</field>
+    <field name="creator_ssm">Harris, Jack</field>
+    <field name="creator_ssm">Haviland, Robert</field>
     <field name="unitdate_normal_ssm">1850/1850</field>
     <field name="unitdate_normal_teim">1850/1850</field>
     <field name="unitdate_normal_sim">1850/1850</field>
@@ -46,6 +52,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Harris, Jack</field>
+    <field name="creator_sim">Haviland, Robert</field>
     <field name="name_sim">Harris, Jack</field>
     <field name="name_sim">Haviland, Robert</field>
     <field name="name_teim">Harris, Jack</field>

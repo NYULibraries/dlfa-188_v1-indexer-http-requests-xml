@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.043</field>
     <field name="abstract_teim">One deed, dated 1813, between Jonathan Howard, Sheriff of Queens County, and Nicholas Anderson of New York, N.Y.  The deed grants Anderson land in Newtown in Queens County, which Howard had formerly seized from James Waldron for failing to pay his debts.</field>
     <field name="abstract_ssm">One deed, dated 1813, between Jonathan Howard, Sheriff of Queens County, and Nicholas Anderson of New York, N.Y.  The deed grants Anderson land in Newtown in Queens County, which Howard had formerly seized from James Waldron for failing to pay his debts.</field>
+    <field name="creator_teim">Howard, Jonathan</field>
+    <field name="creator_teim">Anderson, Nicholas</field>
+    <field name="creator_ssm">Howard, Jonathan</field>
+    <field name="creator_ssm">Anderson, Nicholas</field>
+    <field name="creator_ssm">Howard, Jonathan</field>
+    <field name="creator_ssm">Anderson, Nicholas</field>
     <field name="unitdate_normal_ssm">1813/1813</field>
     <field name="unitdate_normal_teim">1813/1813</field>
     <field name="unitdate_normal_sim">1813/1813</field>
@@ -48,6 +54,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Howard, Jonathan</field>
+    <field name="creator_sim">Anderson, Nicholas</field>
     <field name="name_sim">Howard, Jonathan</field>
     <field name="name_sim">Anderson, Nicholas</field>
     <field name="name_teim">Howard, Jonathan</field>

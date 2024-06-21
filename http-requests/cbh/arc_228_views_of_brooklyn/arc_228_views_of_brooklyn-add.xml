@@ -9,6 +9,9 @@
     <field name="unitid_ssm">ARC.228</field>
     <field name="abstract_teim">The Views of Brooklyn viewbooks contain black-and-white non-photographic prints of photographs documenting the built environment in Brooklyn, circa 1905. The viewbooks were published by L. H. Nelson Company of Portland, ME in 1905 and 1910.</field>
     <field name="abstract_ssm">The Views of Brooklyn viewbooks contain black-and-white non-photographic prints of photographs documenting the built environment in Brooklyn, circa 1905. The viewbooks were published by L. H. Nelson Company of Portland, ME in 1905 and 1910.</field>
+    <field name="creator_teim">L.H. Nelson Company</field>
+    <field name="creator_ssm">L.H. Nelson Company</field>
+    <field name="creator_ssm">L.H. Nelson Company</field>
     <field name="unitdate_normal_ssm">1905/1910</field>
     <field name="unitdate_normal_teim">1905/1910</field>
     <field name="unitdate_normal_sim">1905/1910</field>
@@ -62,6 +65,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">L.H. Nelson Company</field>
     <field name="name_sim">L.H. Nelson Company</field>
     <field name="name_sim">New York Naval Shipyard</field>
     <field name="name_teim">L.H. Nelson Company</field>

@@ -9,6 +9,15 @@
     <field name="unitid_ssm">1974.188</field>
     <field name="abstract_teim">A handwritten deed for a tract of land in North Hempstead, Long Island between James Smith, Philip Valentine and Hendrick Hagner, dated 1793.</field>
     <field name="abstract_ssm">A handwritten deed for a tract of land in North Hempstead, Long Island between James Smith, Philip Valentine and Hendrick Hagner, dated 1793.</field>
+    <field name="creator_teim">Smith, James</field>
+    <field name="creator_teim">Valentine, Philip</field>
+    <field name="creator_teim">Hagner, Hendrick</field>
+    <field name="creator_ssm">Smith, James</field>
+    <field name="creator_ssm">Valentine, Philip</field>
+    <field name="creator_ssm">Hagner, Hendrick</field>
+    <field name="creator_ssm">Smith, James</field>
+    <field name="creator_ssm">Valentine, Philip</field>
+    <field name="creator_ssm">Hagner, Hendrick</field>
     <field name="unitdate_normal_ssm">1793/1793</field>
     <field name="unitdate_normal_teim">1793/1793</field>
     <field name="unitdate_normal_sim">1793/1793</field>
@@ -47,6 +56,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Smith, James</field>
+    <field name="creator_sim">Valentine, Philip</field>
+    <field name="creator_sim">Hagner, Hendrick</field>
     <field name="name_sim">Smith, James</field>
     <field name="name_sim">Valentine, Philip</field>
     <field name="name_sim">Hagner, Hendrick</field>

@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.541</field>
     <field name="abstract_teim">One 1868 award of merit issued to Christine Armbruster from the Bions Academy and one 1874 confirmation certificate issued to Armbruster from the Evangelical Lutheran Church in Brooklyn and written in German.</field>
     <field name="abstract_ssm">One 1868 award of merit issued to Christine Armbruster from the Bions Academy and one 1874 confirmation certificate issued to Armbruster from the Evangelical Lutheran Church in Brooklyn and written in German.</field>
+    <field name="creator_teim">Evangelical Lutheran Church (Brooklyn, New York, N.Y.)</field>
+    <field name="creator_teim">Bions Academy (Brooklyn, New York, N.Y.)</field>
+    <field name="creator_ssm">Evangelical Lutheran Church (Brooklyn, New York, N.Y.)</field>
+    <field name="creator_ssm">Bions Academy (Brooklyn, New York, N.Y.)</field>
+    <field name="creator_ssm">Evangelical Lutheran Church (Brooklyn, New York, N.Y.)</field>
+    <field name="creator_ssm">Bions Academy (Brooklyn, New York, N.Y.)</field>
     <field name="unitdate_normal_ssm">1868/1874</field>
     <field name="unitdate_normal_teim">1868/1874</field>
     <field name="unitdate_normal_sim">1868/1874</field>
@@ -54,6 +60,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Evangelical Lutheran Church (Brooklyn, New York, N.Y.)</field>
+    <field name="creator_sim">Bions Academy (Brooklyn, New York, N.Y.)</field>
     <field name="name_sim">Evangelical Lutheran Church (Brooklyn, New York, N.Y.)</field>
     <field name="name_sim">Bions Academy (Brooklyn, New York, N.Y.)</field>
     <field name="name_sim">Armbruster, Christine</field>

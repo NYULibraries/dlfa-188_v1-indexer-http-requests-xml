@@ -9,6 +9,15 @@
     <field name="unitid_ssm">ARC.216</field>
     <field name="abstract_teim">This collection includes materials dating from 1863 to 1957 documenting the peacetime activities of the NGSNY 23rd (later 106th) Infantry Regiment, as well as the Regiment's service in the Civil War and World War I.</field>
     <field name="abstract_ssm">This collection includes materials dating from 1863 to 1957 documenting the peacetime activities of the NGSNY 23rd (later 106th) Infantry Regiment, as well as the Regiment's service in the Civil War and World War I.</field>
+    <field name="creator_teim">New York (State). National Guard. Infantry Regiment, 23rd. Company A. Veteran Association</field>
+    <field name="creator_teim">New York (State). National Guard. Infantry Regiment, 106th</field>
+    <field name="creator_teim">New York (State). National Guard. Infantry Regiment, 23rd</field>
+    <field name="creator_ssm">New York (State). National Guard. Infantry Regiment, 23rd. Company A. Veteran Association</field>
+    <field name="creator_ssm">New York (State). National Guard. Infantry Regiment, 106th</field>
+    <field name="creator_ssm">New York (State). National Guard. Infantry Regiment, 23rd</field>
+    <field name="creator_ssm">New York (State). National Guard. Infantry Regiment, 23rd. Company A. Veteran Association</field>
+    <field name="creator_ssm">New York (State). National Guard. Infantry Regiment, 106th</field>
+    <field name="creator_ssm">New York (State). National Guard. Infantry Regiment, 23rd</field>
     <field name="unitdate_normal_ssm">1863/1957</field>
     <field name="unitdate_normal_teim">1863/1957</field>
     <field name="unitdate_normal_sim">1863/1957</field>
@@ -79,6 +88,9 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York (State). National Guard. Infantry Regiment, 23rd. Company A. Veteran Association</field>
+    <field name="creator_sim">New York (State). National Guard. Infantry Regiment, 106th</field>
+    <field name="creator_sim">New York (State). National Guard. Infantry Regiment, 23rd</field>
     <field name="name_sim">New York (State). National Guard. Infantry Regiment, 23rd. Company A. Veteran Association</field>
     <field name="name_sim">New York (State). National Guard. Infantry Regiment, 106th</field>
     <field name="name_sim">New York (State). National Guard. Infantry Regiment, 23rd</field>

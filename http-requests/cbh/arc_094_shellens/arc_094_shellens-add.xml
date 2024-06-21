@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.094</field>
     <field name="abstract_teim">The Michael Shellens family collection contains personal and business correspondence, business and financial records, books, photographs, and ephemera related to Michael Shellens (1854-1944) and his family. The materials date from 1865 to 1984 and are principally about Shellens's life and career as a mariner who advanced in rank to captain, afterward becoming a successful real estate businessman in Brooklyn.</field>
     <field name="abstract_ssm">The Michael Shellens family collection contains personal and business correspondence, business and financial records, books, photographs, and ephemera related to Michael Shellens (1854-1944) and his family. The materials date from 1865 to 1984 and are principally about Shellens's life and career as a mariner who advanced in rank to captain, afterward becoming a successful real estate businessman in Brooklyn.</field>
+    <field name="creator_teim">Shellens, Michael</field>
+    <field name="creator_teim">Shellens, Ruth M.</field>
+    <field name="creator_ssm">Shellens, Michael</field>
+    <field name="creator_ssm">Shellens, Ruth M.</field>
+    <field name="creator_ssm">Shellens, Michael</field>
+    <field name="creator_ssm">Shellens, Ruth M.</field>
     <field name="unitdate_normal_ssm">1865/1984</field>
     <field name="unitdate_normal_ssm">1880/1927</field>
     <field name="unitdate_normal_teim">1865/1984</field>
@@ -148,6 +154,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Shellens, Michael</field>
+    <field name="creator_sim">Shellens, Ruth M.</field>
     <field name="name_sim">Agenor (Ship)</field>
     <field name="name_sim">Freemasons. Grand Lodge of Scotland</field>
     <field name="name_sim">Marine Society of the City of New York, in the State of New York</field>

@@ -9,6 +9,9 @@
     <field name="unitid_ssm">V1986.017</field>
     <field name="abstract_teim">The Albertype Company viewbooks of Brooklyn was published in 1903 and 1904 and contain images of Brooklyn including parks, buildings, and monuments located throughout the borough.</field>
     <field name="abstract_ssm">The Albertype Company viewbooks of Brooklyn was published in 1903 and 1904 and contain images of Brooklyn including parks, buildings, and monuments located throughout the borough.</field>
+    <field name="creator_teim">Albertype Co</field>
+    <field name="creator_ssm">Albertype Co</field>
+    <field name="creator_ssm">Albertype Co</field>
     <field name="unitdate_normal_ssm">1903/1904</field>
     <field name="unitdate_normal_teim">1903/1904</field>
     <field name="unitdate_normal_sim">1903/1904</field>
@@ -54,6 +57,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Albertype Co</field>
     <field name="name_sim">Albertype Co</field>
     <field name="name_sim">New York Naval Shipyard</field>
     <field name="name_sim">Wallabout Market (Brooklyn, New York, N.Y.)</field>

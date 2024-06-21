@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1974.050</field>
     <field name="abstract_teim">Original land deed, dated 1661, granting land in Oyster Bay, Long Island to Henry Townsend, signed by 18 Oyster Bay inhabitants.</field>
     <field name="abstract_ssm">Original land deed, dated 1661, granting land in Oyster Bay, Long Island to Henry Townsend, signed by 18 Oyster Bay inhabitants.</field>
+    <field name="creator_teim">Townsend, Henry</field>
+    <field name="creator_ssm">Townsend, Henry</field>
+    <field name="creator_ssm">Townsend, Henry</field>
     <field name="unitdate_normal_ssm">1661/1661</field>
     <field name="unitdate_normal_teim">1661/1661</field>
     <field name="unitdate_normal_sim">1661/1661</field>
@@ -44,6 +47,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Townsend, Henry</field>
     <field name="name_sim">Townsend, Henry</field>
     <field name="name_teim">Townsend, Henry</field>
     <field name="place_sim">Oyster Bay (N.Y.)</field>

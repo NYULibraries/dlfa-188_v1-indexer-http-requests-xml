@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1991.027</field>
     <field name="abstract_teim">A conveyance of property between Thomas Talmadge, Mayor of the City of Brooklyn, and Benjamin Stillwell for property located in Brooklyn at Navy Street. The conveyance is dated 1845.</field>
     <field name="abstract_ssm">A conveyance of property between Thomas Talmadge, Mayor of the City of Brooklyn, and Benjamin Stillwell for property located in Brooklyn at Navy Street. The conveyance is dated 1845.</field>
+    <field name="creator_teim">Talmadge, Thomas</field>
+    <field name="creator_teim">Stillwell, Benjamin</field>
+    <field name="creator_ssm">Talmadge, Thomas</field>
+    <field name="creator_ssm">Stillwell, Benjamin</field>
+    <field name="creator_ssm">Talmadge, Thomas</field>
+    <field name="creator_ssm">Stillwell, Benjamin</field>
     <field name="unitdate_normal_ssm">1845/1845</field>
     <field name="unitdate_normal_teim">1845/1845</field>
     <field name="unitdate_normal_sim">1845/1845</field>
@@ -41,6 +47,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Talmadge, Thomas</field>
+    <field name="creator_sim">Stillwell, Benjamin</field>
     <field name="name_sim">Talmadge, Thomas</field>
     <field name="name_sim">Stillwell, Benjamin</field>
     <field name="name_teim">Talmadge, Thomas</field>

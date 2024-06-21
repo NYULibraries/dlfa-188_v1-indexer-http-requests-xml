@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1992.007</field>
     <field name="abstract_teim">This document, signed by Mayor Martin Kalbfleish of the City of Brooklyn, confirms an agreement between the city and the Flatbush Railroad Company for the laying of streetcar tracks in conformity with Brooklyn city streets.  The agreement also stipulates that the railroad tracks should not hinder or obstruct public traffic.</field>
     <field name="abstract_ssm">This document, signed by Mayor Martin Kalbfleish of the City of Brooklyn, confirms an agreement between the city and the Flatbush Railroad Company for the laying of streetcar tracks in conformity with Brooklyn city streets.  The agreement also stipulates that the railroad tracks should not hinder or obstruct public traffic.</field>
+    <field name="creator_teim">Kalbfleish, Martin</field>
+    <field name="creator_teim">Flatbush Railroad Company</field>
+    <field name="creator_ssm">Kalbfleish, Martin</field>
+    <field name="creator_ssm">Flatbush Railroad Company</field>
+    <field name="creator_ssm">Flatbush Railroad Company</field>
+    <field name="creator_ssm">Kalbfleish, Martin</field>
     <field name="unitdate_normal_ssm">1870/1870</field>
     <field name="unitdate_normal_teim">1870/1870</field>
     <field name="unitdate_normal_sim">1870/1870</field>
@@ -45,6 +51,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Flatbush Railroad Company</field>
+    <field name="creator_sim">Kalbfleish, Martin</field>
     <field name="name_sim">Flatbush Railroad Company</field>
     <field name="name_sim">Karnbach, William F.</field>
     <field name="name_sim">Kalbfleish, Martin</field>

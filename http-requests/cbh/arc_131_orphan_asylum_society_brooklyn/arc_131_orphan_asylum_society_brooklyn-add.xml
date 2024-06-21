@@ -9,6 +9,12 @@
     <field name="unitid_ssm">ARC.131</field>
     <field name="abstract_teim">The Orphan Asylum Society of the City of Brooklyn records, dated 1834 to 1998, contains the annual reports, photographs, and register of the Orphan Asylum Society of the City of Brooklyn, later named Brookwood Child Care.</field>
     <field name="abstract_ssm">The Orphan Asylum Society of the City of Brooklyn records, dated 1834 to 1998, contains the annual reports, photographs, and register of the Orphan Asylum Society of the City of Brooklyn, later named Brookwood Child Care.</field>
+    <field name="creator_teim">Orphan Asylum Society of the City of Brooklyn</field>
+    <field name="creator_teim">Brookwood Child Care</field>
+    <field name="creator_ssm">Orphan Asylum Society of the City of Brooklyn</field>
+    <field name="creator_ssm">Brookwood Child Care</field>
+    <field name="creator_ssm">Orphan Asylum Society of the City of Brooklyn</field>
+    <field name="creator_ssm">Brookwood Child Care</field>
     <field name="unitdate_normal_ssm">1834/1998</field>
     <field name="unitdate_normal_teim">1834/1998</field>
     <field name="unitdate_normal_sim">1834/1998</field>
@@ -89,6 +95,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Orphan Asylum Society of the City of Brooklyn</field>
+    <field name="creator_sim">Brookwood Child Care</field>
     <field name="name_sim">Orphan Asylum Society of the City of Brooklyn</field>
     <field name="name_sim">Brookwood Child Care</field>
     <field name="name_sim">Collins, Janna</field>

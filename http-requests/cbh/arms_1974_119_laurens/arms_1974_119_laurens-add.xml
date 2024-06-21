@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1974.119</field>
     <field name="abstract_teim">The collection contains correspondence, reports, and memoirs of Henry Laurens (1724-1792), as well as memoirs of his son John Laurens (1754-1782).</field>
     <field name="abstract_ssm">The collection contains correspondence, reports, and memoirs of Henry Laurens (1724-1792), as well as memoirs of his son John Laurens (1754-1782).</field>
+    <field name="creator_teim">Laurens, Henry</field>
+    <field name="creator_teim">Laurens, John</field>
+    <field name="creator_ssm">Laurens, Henry</field>
+    <field name="creator_ssm">Laurens, John</field>
+    <field name="creator_ssm">Laurens, Henry</field>
+    <field name="creator_ssm">Laurens, John</field>
     <field name="unitdate_normal_ssm">1773/1790</field>
     <field name="unitdate_normal_teim">1773/1790</field>
     <field name="unitdate_normal_sim">1773/1790</field>
@@ -69,6 +75,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Laurens, Henry</field>
+    <field name="creator_sim">Laurens, John</field>
     <field name="name_sim">United States. Continental Congress</field>
     <field name="name_sim">United States. Continental Army</field>
     <field name="name_sim">Laurens, Henry</field>

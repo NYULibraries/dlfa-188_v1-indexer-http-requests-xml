@@ -9,6 +9,12 @@
     <field name="unitid_ssm">V1986.027</field>
     <field name="abstract_teim">Images in the viewbook include numerous beach views and informal group portraits of people on beaches, views of street scenes and buildings at Coney Island, as well as views of Luna Park, Dreamland, and Steeplechase Park.</field>
     <field name="abstract_ssm">Images in the viewbook include numerous beach views and informal group portraits of people on beaches, views of street scenes and buildings at Coney Island, as well as views of Luna Park, Dreamland, and Steeplechase Park.</field>
+    <field name="creator_teim">Staley, Frank W.</field>
+    <field name="creator_teim">Charles Francis Press</field>
+    <field name="creator_ssm">Staley, Frank W.</field>
+    <field name="creator_ssm">Charles Francis Press</field>
+    <field name="creator_ssm">Charles Francis Press</field>
+    <field name="creator_ssm">Staley, Frank W.</field>
     <field name="unitdate_normal_ssm">1908/1908</field>
     <field name="unitdate_normal_teim">1908/1908</field>
     <field name="unitdate_normal_sim">1908/1908</field>
@@ -64,6 +70,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Charles Francis Press</field>
+    <field name="creator_sim">Staley, Frank W.</field>
     <field name="name_sim">Charles Francis Press</field>
     <field name="name_sim">Dreamland (New York, N.Y.)</field>
     <field name="name_sim">Luna Park (New York, N.Y.)</field>

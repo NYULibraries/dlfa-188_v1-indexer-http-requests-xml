@@ -9,6 +9,12 @@
     <field name="unitid_ssm">2014.008</field>
     <field name="abstract_teim">The collection is composed of Brooklyn-related literature which was collected by Kathy Hayes. Included in the collection are four children's book by Richard Rosenblum and four books by Norman Rosten. Additionally, the collection includes four manuscripts by Rosten, as well as his obituary (New York Newsday).</field>
     <field name="abstract_ssm">The collection is composed of Brooklyn-related literature which was collected by Kathy Hayes. Included in the collection are four children's book by Richard Rosenblum and four books by Norman Rosten. Additionally, the collection includes four manuscripts by Rosten, as well as his obituary (New York Newsday).</field>
+    <field name="creator_teim">Rosten, Norman</field>
+    <field name="creator_teim">Rosenblum, Richard</field>
+    <field name="creator_ssm">Rosten, Norman</field>
+    <field name="creator_ssm">Rosenblum, Richard</field>
+    <field name="creator_ssm">Rosten, Norman</field>
+    <field name="creator_ssm">Rosenblum, Richard</field>
     <field name="unitdate_normal_ssm">1968/1995</field>
     <field name="unitdate_normal_teim">1968/1995</field>
     <field name="unitdate_normal_sim">1968/1995</field>
@@ -95,6 +101,8 @@ Inventory
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Rosten, Norman</field>
+    <field name="creator_sim">Rosenblum, Richard</field>
     <field name="name_sim">Brooklyn Dodgers (Baseball team)</field>
     <field name="name_sim">Hayes, Kathy</field>
     <field name="name_sim">Rosten, Norman</field>

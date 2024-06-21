@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.358</field>
     <field name="abstract_teim">This collection consists of photocopies of the will of Thomas Cooper, dated 1742, and photocopies of a letter of administration of the estate of John Cooper to executor Annanias Cooper, dated 1756. The Cooper family lived in Southampton, Long Island.</field>
     <field name="abstract_ssm">This collection consists of photocopies of the will of Thomas Cooper, dated 1742, and photocopies of a letter of administration of the estate of John Cooper to executor Annanias Cooper, dated 1756. The Cooper family lived in Southampton, Long Island.</field>
+    <field name="creator_teim">Cooper, Thomas</field>
+    <field name="creator_teim">Cooper, John</field>
+    <field name="creator_ssm">Cooper, Thomas</field>
+    <field name="creator_ssm">Cooper, John</field>
+    <field name="creator_ssm">Cooper, Thomas</field>
+    <field name="creator_ssm">Cooper, John</field>
     <field name="unitdate_normal_ssm">1742/1756</field>
     <field name="unitdate_normal_teim">1742/1756</field>
     <field name="unitdate_normal_sim">1742/1756</field>
@@ -53,6 +59,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Cooper, Thomas</field>
+    <field name="creator_sim">Cooper, John</field>
     <field name="name_sim">Cooper family</field>
     <field name="name_sim">Cooper, Thomas</field>
     <field name="name_sim">Cooper, John</field>

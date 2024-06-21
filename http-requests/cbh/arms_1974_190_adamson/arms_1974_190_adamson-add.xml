@@ -9,6 +9,9 @@
     <field name="unitid_ssm">1974.190</field>
     <field name="abstract_teim">A certificate of issued by the New York State Artillery, 2nd Regiment, 1st Brigade to John Adamson, exempting him from military duty for the remainder of his life following eleven years of service in the Brigade. The document is dated 1819.</field>
     <field name="abstract_ssm">A certificate of issued by the New York State Artillery, 2nd Regiment, 1st Brigade to John Adamson, exempting him from military duty for the remainder of his life following eleven years of service in the Brigade. The document is dated 1819.</field>
+    <field name="creator_teim">New York State Artillery</field>
+    <field name="creator_ssm">New York State Artillery</field>
+    <field name="creator_ssm">New York State Artillery</field>
     <field name="unitdate_normal_ssm">1819/1819</field>
     <field name="unitdate_normal_teim">1819/1819</field>
     <field name="unitdate_normal_sim">1819/1819</field>
@@ -38,6 +41,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York State Artillery</field>
     <field name="name_sim">New York State Artillery</field>
     <field name="name_sim">Adamson, John</field>
     <field name="name_teim">New York State Artillery</field>

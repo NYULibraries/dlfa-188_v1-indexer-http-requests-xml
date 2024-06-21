@@ -9,6 +9,12 @@
     <field name="unitid_ssm">1977.583</field>
     <field name="abstract_teim">Bill of sale for Sine (b. 1817), an enslaved African American woman, from John Ditmars of the town of Flatlands, Kings County, to Jacob Duryee of the town of Flatbush. The bill is dated June 16, 1825.</field>
     <field name="abstract_ssm">Bill of sale for Sine (b. 1817), an enslaved African American woman, from John Ditmars of the town of Flatlands, Kings County, to Jacob Duryee of the town of Flatbush. The bill is dated June 16, 1825.</field>
+    <field name="creator_teim">Ditmars, John</field>
+    <field name="creator_teim">Duryee, Jacob</field>
+    <field name="creator_ssm">Ditmars, John</field>
+    <field name="creator_ssm">Duryee, Jacob</field>
+    <field name="creator_ssm">Ditmars, John</field>
+    <field name="creator_ssm">Duryee, Jacob</field>
     <field name="unitdate_normal_ssm">1825/1825</field>
     <field name="unitdate_normal_teim">1825/1825</field>
     <field name="unitdate_normal_sim">1825/1825</field>
@@ -48,6 +54,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Ditmars, John</field>
+    <field name="creator_sim">Duryee, Jacob</field>
     <field name="name_sim">Ditmars, John</field>
     <field name="name_sim">Duryee, Jacob</field>
     <field name="name_teim">Ditmars, John</field>
