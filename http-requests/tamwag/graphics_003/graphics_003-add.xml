@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Charters and Certificates of Affiliation Collection</field>
     <field name="unittitle_ssm">Charters and Certificates of Affiliation Collection</field>
     <field name="unitid_teim">GRAPHICS.003</field>
-    <field name="unitid_teim">/repositories/2/resources/367</field>
     <field name="unitid_ssm">GRAPHICS.003</field>
-    <field name="unitid_ssm">/repositories/2/resources/367</field>
     <field name="abstract_teim">The Charters and Certificates of Affiliation Collection is an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. It consists of charters and certificates from a number of trade unions and organizations, several of which have manuscript collections at the Tamiment Library. The material in the collection ranges in date from 1888 through 1986, with the bulk of material falling between the 1920s and the 1960s.</field>
     <field name="abstract_ssm">The Charters and Certificates of Affiliation Collection is an artificial collection, collected and assembled by the Tamiment Library over the course of several decades. It consists of charters and certificates from a number of trade unions and organizations, several of which have manuscript collections at the Tamiment Library. The material in the collection ranges in date from 1888 through 1986, with the bulk of material falling between the 1920s and the 1960s.</field>
+    <field name="creator_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="unitdate_normal_ssm">1888/1986</field>
     <field name="unitdate_normal_teim">1888/1986</field>
     <field name="unitdate_normal_sim">1888/1986</field>
@@ -59,6 +60,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">AFSCME</field>
     <field name="name_sim">United Hebrew Trades</field>

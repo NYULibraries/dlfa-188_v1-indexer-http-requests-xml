@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Tamiment Library Poster and Broadside Collection</field>
     <field name="unittitle_ssm">Tamiment Library Poster and Broadside Collection</field>
     <field name="unitid_teim">GRAPHICS.002</field>
-    <field name="unitid_teim">/repositories/2/resources/366</field>
     <field name="unitid_ssm">GRAPHICS.002</field>
-    <field name="unitid_ssm">/repositories/2/resources/366</field>
     <field name="abstract_teim">The Tamiment Library Poster Collection consists of items published between 1904 and 2019, that relate to left-radicalism, progressive movements, labor unions, and counter-culture in the United States, and in over thirty other countries. With new additions being received on a regular basis, the collection can be expected to grow well beyond its present size of 2,165 posters and broadsides.</field>
     <field name="abstract_ssm">The Tamiment Library Poster Collection consists of items published between 1904 and 2019, that relate to left-radicalism, progressive movements, labor unions, and counter-culture in the United States, and in over thirty other countries. With new additions being received on a regular basis, the collection can be expected to grow well beyond its present size of 2,165 posters and broadsides.</field>
+    <field name="creator_teim">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
+    <field name="creator_ssm">Tamiment Library</field>
     <field name="unitdate_normal_ssm">1904/2019</field>
     <field name="unitdate_normal_ssm">1970/1990</field>
     <field name="unitdate_normal_teim">1904/2019</field>
@@ -144,6 +145,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library</field>
     <field name="name_sim">Tamiment Library</field>
     <field name="name_sim">Workers Party (1940-1949)</field>
     <field name="name_sim">Communist Party of the United States of America</field>

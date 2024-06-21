@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Tamiment Library Artwork Collection</field>
     <field name="unittitle_ssm">Tamiment Library Artwork Collection</field>
     <field name="unitid_teim">GRAPHICS.039</field>
-    <field name="unitid_teim">/repositories/2/resources/382</field>
     <field name="unitid_ssm">GRAPHICS.039</field>
-    <field name="unitid_ssm">/repositories/2/resources/382</field>
     <field name="abstract_teim">The Tamiment Library Artwork Collection consists of artworks found in the collection and artworks donated to the Tamiment Library &amp; Robert F. Wagner Labor Archives.  The artworks consist of paintings, drawings, sculptures, and plaques and depict labor and political leaders from the United States and other countries.  The artworks date from 1880 to 2010.</field>
     <field name="abstract_ssm">The Tamiment Library Artwork Collection consists of artworks found in the collection and artworks donated to the Tamiment Library &amp; Robert F. Wagner Labor Archives.  The artworks consist of paintings, drawings, sculptures, and plaques and depict labor and political leaders from the United States and other countries.  The artworks date from 1880 to 2010.</field>
+    <field name="creator_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
+    <field name="creator_ssm">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="unitdate_normal_ssm">1880/2010</field>
     <field name="unitdate_normal_teim">1880/2010</field>
     <field name="unitdate_normal_sim">1880/2010</field>
@@ -43,6 +44,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_sim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="name_teim">Tamiment Library and Robert F. Wagner Labor Archives</field>
     <field name="subject_sim">Art, American -- 20th century</field>
