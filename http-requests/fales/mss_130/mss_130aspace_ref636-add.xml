@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Liederkranz Collection</field>
     <field name="collection_ssm">Liederkranz Collection</field>
-    <field name="collection_unitid_ssm">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_ssm">MSS.130</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"L.K. News," vol. 27, no 2.</field>
     <field name="unittitle_teim">"L.K. News," vol. 27, no 2.</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: II.FG.III.AB.23, Folder: 300</field>
-    <field name="location_ssm">Folder: 300</field>
-    <field name="location_si">Folder: 300</field>
+    <field name="location_si">Box: II.FG.III.AB.23, Folder: 300</field>
     <field name="collection_teim">Liederkranz Collection</field>
-    <field name="collection_unitid_teim">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_teim">MSS.130</field>
     <field name="series_sim">Series II: Liederkranz Produced/Obtained Documents/Objects</field>
     <field name="series_sim">Subseries F: "L.K. News"[letter]</field>
     <field name="series_si">Series II: Liederkranz Produced/Obtained Documents/Objects &gt;&gt; Subseries F: "L.K. News"[letter] &gt;&gt; "L.K. News," vol. 27, no 2.</field>

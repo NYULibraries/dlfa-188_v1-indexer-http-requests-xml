@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">John Canemaker Animation Collection</field>
     <field name="collection_ssm">John Canemaker Animation Collection</field>
-    <field name="collection_unitid_ssm">MSS.040/repositories/3/resources/1625</field>
+    <field name="collection_unitid_ssm">MSS.040</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">[unidentified]</field>
     <field name="unittitle_teim">[unidentified]</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 94, Folder: 20</field>
-    <field name="location_ssm">Folder: 20</field>
-    <field name="location_si">Folder: 20</field>
+    <field name="location_si">Box: 94, Folder: 20</field>
     <field name="collection_teim">John Canemaker Animation Collection</field>
-    <field name="collection_unitid_teim">MSS.040/repositories/3/resources/1625</field>
+    <field name="collection_unitid_teim">MSS.040</field>
     <field name="series_sim">Series III: Book Collection</field>
     <field name="series_si">Series III: Book Collection &gt;&gt; [unidentified]</field>
     <field name="heading_ssm">[unidentified]</field>

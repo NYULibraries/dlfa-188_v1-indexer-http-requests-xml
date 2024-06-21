@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Public Art Fund Archive</field>
     <field name="collection_ssm">Public Art Fund Archive</field>
-    <field name="collection_unitid_ssm">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_ssm">MSS.270</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Boltanski: 1. Announce, 2. Party, 3. Multiple</field>
     <field name="unittitle_teim">Boltanski: 1. Announce, 2. Party, 3. Multiple</field>
@@ -26,10 +26,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 110, Media: ID: 270.3.0093</field>
-    <field name="location_ssm">Media: ID: 270.3.0093</field>
-    <field name="location_si">Media: ID: 270.3.0093</field>
+    <field name="location_si">Box: 110, Media: ID: 270.3.0093</field>
     <field name="collection_teim">Public Art Fund Archive</field>
-    <field name="collection_unitid_teim">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_teim">MSS.270</field>
     <field name="series_sim">Series XIII: Data Storage</field>
     <field name="series_si">Series XIII: Data Storage &gt;&gt; Boltanski: 1. Announce, 2. Party, 3. Multiple</field>
     <field name="heading_ssm">Boltanski: 1. Announce, 2. Party, 3. Multiple</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Theodore Bonin Collection on Downtown Artists</field>
     <field name="unittitle_ssm">Theodore Bonin Collection on Downtown Artists</field>
     <field name="unitid_teim">MSS.486</field>
-    <field name="unitid_teim">/repositories/3/resources/2413</field>
     <field name="unitid_ssm">MSS.486</field>
-    <field name="unitid_ssm">/repositories/3/resources/2413</field>
     <field name="abstract_teim">This collection was assembled by gallery owner Theodore Bonin, containing 61 artworks and publications from over 20 artists including Tom Otterness, Lisa Bowman, Judy Rifka, Janine Antoni, and Luis Frangella, who were active in New York's downtown art scene during the 1980s and 1990s. Artwork mediums include hand colored and painted works on paper, wood sculpture, ceramic sculptures, prints, and assemblages.</field>
     <field name="abstract_ssm">This collection was assembled by gallery owner Theodore Bonin, containing 61 artworks and publications from over 20 artists including Tom Otterness, Lisa Bowman, Judy Rifka, Janine Antoni, and Luis Frangella, who were active in New York's downtown art scene during the 1980s and 1990s. Artwork mediums include hand colored and painted works on paper, wood sculpture, ceramic sculptures, prints, and assemblages.</field>
+    <field name="creator_teim">Bonin, Theodore</field>
+    <field name="creator_ssm">Bonin, Theodore</field>
+    <field name="creator_ssm">Bonin, Theodore</field>
     <field name="unitdate_normal_ssm">1981/1998</field>
     <field name="unitdate_normal_teim">1981/1998</field>
     <field name="unitdate_normal_sim">1981/1998</field>
@@ -70,6 +71,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Bonin, Theodore</field>
     <field name="name_sim">Momenta Art (Organization)</field>
     <field name="name_sim">Bonin, Theodore</field>
     <field name="name_sim">Rifka, Judy, 1945-</field>

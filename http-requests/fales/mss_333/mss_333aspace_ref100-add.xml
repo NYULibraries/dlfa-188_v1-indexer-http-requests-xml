@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Parasite Archive</field>
     <field name="collection_ssm">Parasite Archive</field>
-    <field name="collection_unitid_ssm">MSS.333/repositories/3/resources/1836</field>
+    <field name="collection_unitid_ssm">MSS.333</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Parasite at The Clocktower</field>
     <field name="unittitle_teim">Parasite at The Clocktower</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, Folder: 91</field>
-    <field name="location_ssm">Folder: 91</field>
-    <field name="location_si">Folder: 91</field>
+    <field name="location_si">Box: 4, Folder: 91</field>
     <field name="collection_teim">Parasite Archive</field>
-    <field name="collection_unitid_teim">MSS.333/repositories/3/resources/1836</field>
+    <field name="collection_unitid_teim">MSS.333</field>
     <field name="series_sim">Series III: Administrative</field>
     <field name="series_sim">Subseries A: Parasite Files</field>
     <field name="series_si">Series III: Administrative &gt;&gt; Subseries A: Parasite Files &gt;&gt; Parasite at The Clocktower</field>

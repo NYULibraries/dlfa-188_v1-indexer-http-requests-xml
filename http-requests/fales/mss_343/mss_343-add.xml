@@ -6,11 +6,15 @@
     <field name="unittitle_teim">Exit Art Archive</field>
     <field name="unittitle_ssm">Exit Art Archive</field>
     <field name="unitid_teim">MSS.343</field>
-    <field name="unitid_teim">/repositories/3/resources/1844</field>
     <field name="unitid_ssm">MSS.343</field>
-    <field name="unitid_ssm">/repositories/3/resources/1844</field>
     <field name="abstract_teim">Founded in 1982 by Jeanette Ingberman and Papo Colo, Exit Art was an interdisciplinary cultural center in New York City that presented innovative exhibitions, films and performances that reflected a commitment to contemporary issues and ideas. The Exit Art Archive includes exhibition administrative files, artist research and records, events promotional and press materials, correspondence, ephemera, photographic elements, audiovisual, and data storage components.</field>
     <field name="abstract_ssm">Founded in 1982 by Jeanette Ingberman and Papo Colo, Exit Art was an interdisciplinary cultural center in New York City that presented innovative exhibitions, films and performances that reflected a commitment to contemporary issues and ideas. The Exit Art Archive includes exhibition administrative files, artist research and records, events promotional and press materials, correspondence, ephemera, photographic elements, audiovisual, and data storage components.</field>
+    <field name="creator_teim">Ingberman, Jeanette</field>
+    <field name="creator_teim">Colo, Papo</field>
+    <field name="creator_ssm">Ingberman, Jeanette</field>
+    <field name="creator_ssm">Colo, Papo</field>
+    <field name="creator_ssm">Ingberman, Jeanette</field>
+    <field name="creator_ssm">Colo, Papo</field>
     <field name="unitdate_normal_ssm">1979/2014</field>
     <field name="unitdate_normal_ssm">1982/2010</field>
     <field name="unitdate_normal_teim">1979/2014</field>
@@ -220,6 +224,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Ingberman, Jeanette</field>
+    <field name="creator_sim">Colo, Papo</field>
     <field name="name_sim">Exit Art (Gallery : New York, N.Y.)</field>
     <field name="name_sim">Ingberman, Jeanette</field>
     <field name="name_sim">Colo, Papo</field>

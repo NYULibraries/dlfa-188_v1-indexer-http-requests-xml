@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Martin Wong Papers</field>
     <field name="collection_ssm">Martin Wong Papers</field>
-    <field name="collection_unitid_ssm">MSS.102/repositories/3/resources/1672</field>
+    <field name="collection_unitid_ssm">MSS.102</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Sotheby Parke Bernet Inc. Fine Oriental Miniatures, Manuscripts and Islamic Works of Art Including the Fraser Album. New York: Sotheby Parke Bernet, 1980</field>
     <field name="unittitle_teim">Sotheby Parke Bernet Inc. Fine Oriental Miniatures, Manuscripts and Islamic Works of Art Including the Fraser Album. New York: Sotheby Parke Bernet, 1980</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 25, Folder: 83</field>
-    <field name="location_ssm">Folder: 83</field>
-    <field name="location_si">Folder: 83</field>
+    <field name="location_si">Box: 25, Folder: 83</field>
     <field name="collection_teim">Martin Wong Papers</field>
-    <field name="collection_unitid_teim">MSS.102/repositories/3/resources/1672</field>
+    <field name="collection_unitid_teim">MSS.102</field>
     <field name="series_sim">Series VII: Personal Library</field>
     <field name="series_si">Series VII: Personal Library &gt;&gt; Sotheby Parke Bernet Inc. Fine Oriental Miniatures, Manuscripts and Islamic Works of Art Including the Fraser Album. New York: Sotheby Parke Bernet, 1980</field>
     <field name="heading_ssm">Sotheby Parke Bernet Inc. Fine Oriental Miniatures, Manuscripts and Islamic Works of Art Including the Fraser Album. New York: Sotheby Parke Bernet, 1980</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Jack Smith Papers</field>
     <field name="collection_ssm">Jack Smith Papers</field>
-    <field name="collection_unitid_ssm">MSS.440/repositories/3/resources/1896</field>
+    <field name="collection_unitid_ssm">MSS.440</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">New American Cinema Group</field>
     <field name="unittitle_teim">New American Cinema Group</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 8, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 8, Folder: 1</field>
     <field name="collection_teim">Jack Smith Papers</field>
-    <field name="collection_unitid_teim">MSS.440/repositories/3/resources/1896</field>
+    <field name="collection_unitid_teim">MSS.440</field>
     <field name="series_sim">Series IV. Business and Financial Records</field>
     <field name="series_si">Series IV. Business and Financial Records &gt;&gt; New American Cinema Group</field>
     <field name="heading_ssm">New American Cinema Group</field>

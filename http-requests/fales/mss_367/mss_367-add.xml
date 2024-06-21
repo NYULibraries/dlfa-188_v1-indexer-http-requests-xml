@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Epoxy Art Group Archive</field>
     <field name="unittitle_ssm">Epoxy Art Group Archive</field>
     <field name="unitid_teim">MSS.367</field>
-    <field name="unitid_teim">/repositories/3/resources/1860</field>
     <field name="unitid_ssm">MSS.367</field>
-    <field name="unitid_ssm">/repositories/3/resources/1860</field>
     <field name="abstract_teim">Epoxy was an art collective that specialized in collaborative, multi-media, and experimental projects. Active between the years of 1982 and around 1992, Epoxy was founded by Ming Fay, Jerry Kwan, Kwok, Bing Lee, Kang Lok Chung, and Eric Chan — all New York City based visual artists with cultural ties to Hong Kong. The Archive includes original artwork, photographs, slides, press releases, press coverage, some business files and correspondence, and internal meeting minutes as well as other writings.</field>
     <field name="abstract_ssm">Epoxy was an art collective that specialized in collaborative, multi-media, and experimental projects. Active between the years of 1982 and around 1992, Epoxy was founded by Ming Fay, Jerry Kwan, Kwok, Bing Lee, Kang Lok Chung, and Eric Chan — all New York City based visual artists with cultural ties to Hong Kong. The Archive includes original artwork, photographs, slides, press releases, press coverage, some business files and correspondence, and internal meeting minutes as well as other writings.</field>
+    <field name="creator_teim">Fay, Ming, 1943-</field>
+    <field name="creator_ssm">Fay, Ming, 1943-</field>
+    <field name="creator_ssm">Fay, Ming, 1943-</field>
     <field name="unitdate_normal_ssm">1982/1992</field>
     <field name="unitdate_normal_teim">1982/1992</field>
     <field name="unitdate_normal_sim">1982/1992</field>
@@ -99,6 +100,7 @@ Subseries C: Objects</field>
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Fay, Ming, 1943-</field>
     <field name="name_sim">Fay, Ming, 1943-</field>
     <field name="name_sim">Lee, Bing (artist)</field>
     <field name="name_sim">Kwok, Mang Ho</field>

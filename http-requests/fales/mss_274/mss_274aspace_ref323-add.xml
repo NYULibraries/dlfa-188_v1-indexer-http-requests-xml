@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Guerrilla Girls Archive</field>
     <field name="collection_ssm">Guerrilla Girls Archive</field>
-    <field name="collection_unitid_ssm">MSS.274/repositories/3/resources/1799</field>
+    <field name="collection_unitid_ssm">MSS.274</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Guerrilla Girls BroadBand recorded by Creative Time @ Armory "Democracy in America" video 10/24/08</field>
     <field name="unittitle_teim">Guerrilla Girls BroadBand recorded by Creative Time @ Armory "Democracy in America" video 10/24/08</field>
@@ -35,12 +35,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 9, Media: ID: 274.0009</field>
-    <field name="location_ssm">Media: ID: 274.0009</field>
     <field name="location_ssm">E-records: fales_mss274, E-records: FA_MSS_274_1</field>
-    <field name="location_ssm">E-records: FA_MSS_274_1</field>
-    <field name="location_si">E-records: FA_MSS_274_1</field>
+    <field name="location_si">E-records: fales_mss274, E-records: FA_MSS_274_1</field>
     <field name="collection_teim">Guerrilla Girls Archive</field>
-    <field name="collection_unitid_teim">MSS.274/repositories/3/resources/1799</field>
+    <field name="collection_unitid_teim">MSS.274</field>
     <field name="series_sim">Series VII: Media</field>
     <field name="series_sim">Subseries A: Originals</field>
     <field name="series_si">Series VII: Media &gt;&gt; Subseries A: Originals &gt;&gt; Guerrilla Girls BroadBand recorded by Creative Time @ Armory "Democracy in America" video 10/24/08</field>

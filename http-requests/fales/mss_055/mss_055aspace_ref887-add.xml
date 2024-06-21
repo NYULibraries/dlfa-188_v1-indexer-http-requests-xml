@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Richard Maass Westchester and New York State History Collection</field>
     <field name="collection_ssm">Richard Maass Westchester and New York State History Collection</field>
-    <field name="collection_unitid_ssm">MSS.055/repositories/3/resources/1638</field>
+    <field name="collection_unitid_ssm">MSS.055</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">&lt;strong&gt;creator&lt;/strong&gt;: Philips, Frederick.&lt;strong&gt;place&lt;/strong&gt;: New York</field>
     <field name="unittitle_teim">creator: Philips, Frederick.place: New York</field>
@@ -36,11 +36,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 7, Folder: 85</field>
-    <field name="location_ssm">Folder: 85</field>
-    <field name="location_si">Folder: 85</field>
+    <field name="location_si">Box: 7, Folder: 85</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Richard Maass Westchester and New York State History Collection</field>
-    <field name="collection_unitid_teim">MSS.055/repositories/3/resources/1638</field>
+    <field name="collection_unitid_teim">MSS.055</field>
     <field name="series_sim">Series II: Westchester</field>
     <field name="series_sim">Subseries A: Letters and Documents</field>
     <field name="series_si">Series II: Westchester &gt;&gt; Subseries A: Letters and Documents &gt;&gt; &lt;strong&gt;creator&lt;/strong&gt;: Philips, Frederick.&lt;strong&gt;place&lt;/strong&gt;: New York</field>

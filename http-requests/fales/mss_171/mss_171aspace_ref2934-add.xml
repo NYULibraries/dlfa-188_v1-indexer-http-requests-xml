@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Harold and Joyce Pomeroy Schwartz Public Art Archive</field>
     <field name="collection_ssm">Harold and Joyce Pomeroy Schwartz Public Art Archive</field>
-    <field name="collection_unitid_ssm">MSS.171/repositories/3/resources/1729</field>
+    <field name="collection_unitid_ssm">MSS.171</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Wolf, Silvio</field>
     <field name="unittitle_teim">Wolf, Silvio</field>
@@ -29,12 +29,10 @@ back cover: Silvio Wolf - VIA COMPAGNONI 3 - 20129 MILANO - ITALY, Tel/fax: +39.
     <field name="repository_ssm">fales</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 55, Folder: 22</field>
-    <field name="location_ssm">Folder: 22, Media: ID: 171.3.0034</field>
-    <field name="location_ssm">Media: ID: 171.3.0034</field>
-    <field name="location_si">Media: ID: 171.3.0034</field>
+    <field name="location_ssm">Box: 55, Folder: 22, Media: ID: 171.3.0034</field>
+    <field name="location_si">Box: 55, Folder: 22, Media: ID: 171.3.0034</field>
     <field name="collection_teim">Harold and Joyce Pomeroy Schwartz Public Art Archive</field>
-    <field name="collection_unitid_teim">MSS.171/repositories/3/resources/1729</field>
+    <field name="collection_unitid_teim">MSS.171</field>
     <field name="series_sim">Series III: Data Storage</field>
     <field name="series_si">Series III: Data Storage &gt;&gt; Wolf, Silvio</field>
     <field name="heading_ssm">Wolf, Silvio</field>

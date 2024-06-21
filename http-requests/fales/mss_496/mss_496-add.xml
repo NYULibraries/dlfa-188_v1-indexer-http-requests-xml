@@ -6,9 +6,7 @@
     <field name="unittitle_teim">New York University Collection of Contemporary Composers' Websites</field>
     <field name="unittitle_ssm">New York University Collection of Contemporary Composers' Websites</field>
     <field name="unitid_teim">MSS.496</field>
-    <field name="unitid_teim">/repositories/3/resources/2414</field>
     <field name="unitid_ssm">MSS.496</field>
-    <field name="unitid_ssm">/repositories/3/resources/2414</field>
     <field name="abstract_teim">This collection consists of a selection of websites produced and operated by contemporary
 composers for the promotion of their work and careers. "Contemporary" we define as living or,
 in a few cases, very recently deceased. "Composers" we define as creative musicians who are
@@ -27,6 +25,18 @@ whose work embraces improvisation, collaborative composition, and other post-mod
 classical creative practices. The curatorial emphasis is on young, emerging American composers.
 Their sites typically include biographical data, calendars of performances, catalogs of scores and
 recordings, and embedded audio and video. Capture of the sites began in 2014 and is ongoing.</field>
+    <field name="creator_teim">New York University. Libraries. Avery Fisher Center</field>
+    <field name="creator_ssm">New York University. Libraries. Avery Fisher Center</field>
+    <field name="creator_ssm">New York University. Libraries. Avery Fisher Center</field>
+    <field name="creator_ssm">Aftab, Arooj</field>
+    <field name="creator_ssm">Cale, John</field>
+    <field name="creator_ssm">Faingold, Noam, 1984-</field>
+    <field name="creator_ssm">Gordon, Geoffrey</field>
+    <field name="creator_ssm">Hagen, Daron, 1961-</field>
+    <field name="creator_ssm">Hartman, Jonathan</field>
+    <field name="creator_ssm">Krimitzá, Vasilikí</field>
+    <field name="creator_ssm">Roussel, Patrice, 1956-</field>
+    <field name="creator_ssm">Silva, Pedro Henriques da</field>
     <field name="unitdate_normal_ssm">2017/2017</field>
     <field name="unitdate_normal_teim">2017/2017</field>
     <field name="unitdate_normal_sim">2017/2017</field>
@@ -57,6 +67,16 @@ Please include the following in your notice:  Identification of the material tha
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">New York University. Libraries. Avery Fisher Center</field>
+    <field name="creator_sim">Aftab, Arooj</field>
+    <field name="creator_sim">Cale, John</field>
+    <field name="creator_sim">Faingold, Noam, 1984-</field>
+    <field name="creator_sim">Gordon, Geoffrey</field>
+    <field name="creator_sim">Hagen, Daron, 1961-</field>
+    <field name="creator_sim">Hartman, Jonathan</field>
+    <field name="creator_sim">Krimitzá, Vasilikí</field>
+    <field name="creator_sim">Roussel, Patrice, 1956-</field>
+    <field name="creator_sim">Silva, Pedro Henriques da</field>
     <field name="name_sim">New York University. Libraries. Avery Fisher Center</field>
     <field name="name_sim">Rhys Chatham Ensemble</field>
     <field name="name_sim">Charming Hostess (Musical group)</field>

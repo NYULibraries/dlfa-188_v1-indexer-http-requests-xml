@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">JDub Records Archive</field>
     <field name="collection_ssm">JDub Records Archive</field>
-    <field name="collection_unitid_ssm">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_ssm">MSS.330</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Eshy - "Attention Deficit Disorder"</field>
     <field name="unittitle_teim">Eshy - "Attention Deficit Disorder"</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 17, disk: ID: 330.0088</field>
-    <field name="location_ssm">disk: ID: 330.0088</field>
-    <field name="location_si">disk: ID: 330.0088</field>
+    <field name="location_si">Box: 17, disk: ID: 330.0088</field>
     <field name="collection_teim">JDub Records Archive</field>
-    <field name="collection_unitid_teim">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_teim">MSS.330</field>
     <field name="series_sim">Series VI: Original Media</field>
     <field name="series_sim">Subseries A: Media</field>
     <field name="series_si">Series VI: Original Media &gt;&gt; Subseries A: Media &gt;&gt; Eshy - "Attention Deficit Disorder"</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Public Art Fund Archive</field>
     <field name="collection_ssm">Public Art Fund Archive</field>
-    <field name="collection_unitid_ssm">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_ssm">MSS.270</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Newsstand Exhibition</field>
     <field name="unittitle_teim">Newsstand Exhibition</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 69, Folder: 8</field>
-    <field name="location_ssm">Folder: 8</field>
-    <field name="location_si">Folder: 8</field>
+    <field name="location_si">Box: 69, Folder: 8</field>
     <field name="collection_teim">Public Art Fund Archive</field>
-    <field name="collection_unitid_teim">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_teim">MSS.270</field>
     <field name="series_sim">Series VI: Public Art Fund - Project Files</field>
     <field name="series_sim">Subseries VI.F: Newsstand Project</field>
     <field name="series_si">Series VI: Public Art Fund - Project Files &gt;&gt; Subseries VI.F: Newsstand Project &gt;&gt; Newsstand Exhibition</field>

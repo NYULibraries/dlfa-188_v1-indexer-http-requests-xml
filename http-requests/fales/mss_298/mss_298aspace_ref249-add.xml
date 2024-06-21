@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Annina Nosei Gallery Archive</field>
     <field name="collection_ssm">Annina Nosei Gallery Archive</field>
-    <field name="collection_unitid_ssm">MSS.298/repositories/3/resources/1812</field>
+    <field name="collection_unitid_ssm">MSS.298</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">"Shipment Record Book"</field>
     <field name="unittitle_teim">"Shipment Record Book"</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 13, Folder: 24</field>
-    <field name="location_ssm">Folder: 24</field>
-    <field name="location_si">Folder: 24</field>
+    <field name="location_si">Box: 13, Folder: 24</field>
     <field name="collection_teim">Annina Nosei Gallery Archive</field>
-    <field name="collection_unitid_teim">MSS.298/repositories/3/resources/1812</field>
+    <field name="collection_unitid_teim">MSS.298</field>
     <field name="series_sim">Series I: Transaction Records</field>
     <field name="series_sim">Subseries I: Shipment Records</field>
     <field name="series_si">Series I: Transaction Records &gt;&gt; Subseries I: Shipment Records &gt;&gt; "Shipment Record Book"</field>

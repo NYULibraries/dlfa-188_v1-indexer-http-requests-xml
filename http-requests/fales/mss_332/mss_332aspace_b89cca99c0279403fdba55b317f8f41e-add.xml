@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Jim Neu Papers</field>
     <field name="collection_ssm">Jim Neu Papers</field>
-    <field name="collection_unitid_ssm">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_ssm">MSS.332</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Lenny Project</field>
     <field name="unittitle_teim">Lenny Project</field>
@@ -21,12 +21,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 10, Folder: 8</field>
-    <field name="location_ssm">Folder: 8</field>
     <field name="location_ssm">Box: 27, audiocassette: 332.0054-332.0055, 332.0079, 332.0093, 332.0148-332.0149</field>
-    <field name="location_ssm">audiocassette: 332.0054-332.0055, 332.0079, 332.0093, 332.0148-332.0149</field>
-    <field name="location_si">audiocassette: 332.0054-332.0055, 332.0079, 332.0093, 332.0148-332.0149</field>
+    <field name="location_si">Box: 27, audiocassette: 332.0054-332.0055, 332.0079, 332.0093, 332.0148-332.0149</field>
     <field name="collection_teim">Jim Neu Papers</field>
-    <field name="collection_unitid_teim">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_teim">MSS.332</field>
     <field name="series_si">Lenny Project</field>
     <field name="heading_ssm">Lenny Project</field>
     <field name="unitdate_ssm">undated</field>

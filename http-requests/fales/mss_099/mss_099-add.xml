@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Tommy Turner Film Collection</field>
     <field name="unittitle_ssm">Tommy Turner Film Collection</field>
     <field name="unitid_teim">MSS.099</field>
-    <field name="unitid_teim">/repositories/3/resources/1669</field>
     <field name="unitid_ssm">MSS.099</field>
-    <field name="unitid_ssm">/repositories/3/resources/1669</field>
     <field name="abstract_teim">The Tommy Turner Film Collection encompass the filmmaker's original film elements for "Where Evil Dwells" (1985, created in collaboration with Daid Wojnarowicz), as well as prints of "Simonland "(1984, created in collaboration with Richard Kern) and "Rat Trap" (1986, created in collaboration with Tessa Hughes-Freeland).</field>
     <field name="abstract_ssm">The Tommy Turner Film Collection encompass the filmmaker's original film elements for "Where Evil Dwells" (1985, created in collaboration with Daid Wojnarowicz), as well as prints of "Simonland "(1984, created in collaboration with Richard Kern) and "Rat Trap" (1986, created in collaboration with Tessa Hughes-Freeland).</field>
+    <field name="creator_teim">Turner, Tommy, 1959-</field>
+    <field name="creator_ssm">Turner, Tommy, 1959-</field>
+    <field name="creator_ssm">Turner, Tommy, 1959-</field>
     <field name="unitdate_normal_ssm">1980/1989</field>
     <field name="unitdate_normal_teim">1980/1989</field>
     <field name="unitdate_normal_sim">1980/1989</field>
@@ -39,6 +40,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Turner, Tommy, 1959-</field>
     <field name="name_sim">Turner, Tommy, 1959-</field>
     <field name="name_teim">Turner, Tommy, 1959-</field>
     <field name="place_sim">New York (N.Y.).</field>

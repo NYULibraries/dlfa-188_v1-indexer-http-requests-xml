@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Patty Mucha Papers</field>
     <field name="collection_ssm">Patty Mucha Papers</field>
-    <field name="collection_unitid_ssm">MSS.342/repositories/3/resources/1843</field>
+    <field name="collection_unitid_ssm">MSS.342</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Stockholm Dream Book #2" [Black Notebook]</field>
     <field name="unittitle_teim">"Stockholm Dream Book #2" [Black Notebook]</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 2</field>
-    <field name="location_ssm">Folder: 2</field>
-    <field name="location_si">Folder: 2</field>
+    <field name="location_si">Box: 1, Folder: 2</field>
     <field name="collection_teim">Patty Mucha Papers</field>
-    <field name="collection_unitid_teim">MSS.342/repositories/3/resources/1843</field>
+    <field name="collection_unitid_teim">MSS.342</field>
     <field name="series_sim">Series I: Journals</field>
     <field name="series_si">Series I: Journals &gt;&gt; "Stockholm Dream Book #2" [Black Notebook]</field>
     <field name="heading_ssm">"Stockholm Dream Book #2" [Black Notebook]</field>

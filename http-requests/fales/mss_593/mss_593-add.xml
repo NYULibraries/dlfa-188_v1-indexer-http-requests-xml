@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Dixon Place Archived Websites</field>
     <field name="unittitle_ssm">Dixon Place Archived Websites</field>
     <field name="unitid_teim">MSS.593</field>
-    <field name="unitid_teim">/repositories/3/resources/3235</field>
     <field name="unitid_ssm">MSS.593</field>
-    <field name="unitid_ssm">/repositories/3/resources/3235</field>
     <field name="abstract_teim">Dixon Place is an experimental nonprofit theater located on Chrystie Street in New York that supports original theater, puppetry, dance, music, and circus arts. The collection contains their website and calendar, with captures of the website dating back to 2017.</field>
     <field name="abstract_ssm">Dixon Place is an experimental nonprofit theater located on Chrystie Street in New York that supports original theater, puppetry, dance, music, and circus arts. The collection contains their website and calendar, with captures of the website dating back to 2017.</field>
+    <field name="creator_teim">Dixon Place</field>
+    <field name="creator_ssm">Dixon Place</field>
+    <field name="creator_ssm">Dixon Place</field>
     <field name="unitdate_normal_ssm">2017-11-21/2017-11-21</field>
     <field name="unitdate_normal_teim">2017-11-21/2017-11-21</field>
     <field name="unitdate_normal_sim">2017-11-21/2017-11-21</field>
@@ -49,6 +50,7 @@ In December 2020, https://sites.google.com/view/blackbladeatdp/home was added. T
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Dixon Place</field>
     <field name="name_sim">Dixon Place</field>
     <field name="name_teim">Dixon Place</field>
     <field name="subject_sim">Performing arts -- Production and direction.</field>

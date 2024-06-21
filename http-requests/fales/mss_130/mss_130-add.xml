@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Liederkranz Collection</field>
     <field name="unittitle_ssm">Liederkranz Collection</field>
     <field name="unitid_teim">MSS.130</field>
-    <field name="unitid_teim">/repositories/3/resources/1693</field>
     <field name="unitid_ssm">MSS.130</field>
-    <field name="unitid_ssm">/repositories/3/resources/1693</field>
     <field name="abstract_teim">The Liederkranz of the City of New York is an amateur organization, founded in 1847 as a male singing society, that grew to include choruses, an orchestra, a scholarship competition and fund (the Liederkranz Foundation), and a membership "Dedicated to the Promotion of MUSIC and CULTURE." The Liederkranz Collection is comprised of music scores and parts, documents produced by the Liederkranz of the City of New York, and related documents and items that have been obtained by the club since it began in 1847. The bulk of the collection is choral and orchestral scores and parts.</field>
     <field name="abstract_ssm">The Liederkranz of the City of New York is an amateur organization, founded in 1847 as a male singing society, that grew to include choruses, an orchestra, a scholarship competition and fund (the Liederkranz Foundation), and a membership "Dedicated to the Promotion of MUSIC and CULTURE." The Liederkranz Collection is comprised of music scores and parts, documents produced by the Liederkranz of the City of New York, and related documents and items that have been obtained by the club since it began in 1847. The bulk of the collection is choral and orchestral scores and parts.</field>
+    <field name="creator_teim">Deutscher Liederkranz der Stadt New York</field>
+    <field name="creator_ssm">Deutscher Liederkranz der Stadt New York</field>
+    <field name="creator_ssm">Deutscher Liederkranz der Stadt New York</field>
     <field name="unitdate_normal_ssm">1837/1987</field>
     <field name="unitdate_normal_teim">1837/1987</field>
     <field name="unitdate_normal_sim">1837/1987</field>
@@ -181,6 +182,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Deutscher Liederkranz der Stadt New York</field>
     <field name="name_sim">Deutscher Liederkranz der Stadt New York</field>
     <field name="name_sim">Metropolitan Opera (New York, N.Y.)</field>
     <field name="name_sim">Mendelssohn Glee Club (New York, N.Y.)</field>

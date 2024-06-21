@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tim Smith Collection on The Saint</field>
     <field name="collection_ssm">Tim Smith Collection on The Saint</field>
-    <field name="collection_unitid_ssm">MSS.418/repositories/3/resources/2469</field>
+    <field name="collection_unitid_ssm">MSS.418</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Matchbooks</field>
     <field name="unittitle_teim">Matchbooks</field>
@@ -24,10 +24,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 1, Folder: 3</field>
     <field name="collection_teim">Tim Smith Collection on The Saint</field>
-    <field name="collection_unitid_teim">MSS.418/repositories/3/resources/2469</field>
+    <field name="collection_unitid_teim">MSS.418</field>
     <field name="series_si">Matchbooks</field>
     <field name="heading_ssm">Matchbooks</field>
     <field name="unitdate_start_sim">1980</field>

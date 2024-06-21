@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fales Library Collection of Publishers Galleys</field>
     <field name="collection_ssm">Fales Library Collection of Publishers Galleys</field>
-    <field name="collection_unitid_ssm">MSS.553/repositories/3/resources/2748</field>
+    <field name="collection_unitid_ssm">MSS.553</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">&lt;em&gt;Love and the Lieutenant&lt;/em&gt;, Robert W. Chambers</field>
     <field name="unittitle_teim">Love and the Lieutenant, Robert W. Chambers</field>
@@ -24,10 +24,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 9, Folder: 8</field>
-    <field name="location_ssm">Folder: 8</field>
-    <field name="location_si">Folder: 8</field>
+    <field name="location_si">Box: 9, Folder: 8</field>
     <field name="collection_teim">Fales Library Collection of Publishers Galleys</field>
-    <field name="collection_unitid_teim">MSS.553/repositories/3/resources/2748</field>
+    <field name="collection_unitid_teim">MSS.553</field>
     <field name="series_si">&lt;em&gt;Love and the Lieutenant&lt;/em&gt;, Robert W. Chambers</field>
     <field name="heading_ssm">Love and the Lieutenant, Robert W. Chambers</field>
     <field name="unitdate_start_sim">1900</field>

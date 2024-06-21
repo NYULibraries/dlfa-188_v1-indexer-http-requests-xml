@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Group Material Archive</field>
     <field name="unittitle_ssm">Group Material Archive</field>
     <field name="unitid_teim">MSS.215</field>
-    <field name="unitid_teim">/repositories/3/resources/1758</field>
     <field name="unitid_ssm">MSS.215</field>
-    <field name="unitid_ssm">/repositories/3/resources/1758</field>
     <field name="abstract_teim">Active from 1979-1996, Group Material was an artists' collaboration that produced over forty-five projects addressing a wide range of social, political, and artistic issues.  Members included Doug Ashford, Julie Ault, Felix Gonzalez-Torres, Mundy McLaughlin, Karen Ramspacher and Tim Rollins, among others.  The collective also worked with artists such as Vito Acconci, Mike Glier, Barbara Kruger, Mierle Laderman Ukeles, Faith Ringgold, Martha Rosler, Andres Serrano, Nancy Spero, Anton van Dalen, Carrie Mae Weems, and many others.  Materials in the collection document the origins, processes and context of Group Material's activities.</field>
     <field name="abstract_ssm">Active from 1979-1996, Group Material was an artists' collaboration that produced over forty-five projects addressing a wide range of social, political, and artistic issues.  Members included Doug Ashford, Julie Ault, Felix Gonzalez-Torres, Mundy McLaughlin, Karen Ramspacher and Tim Rollins, among others.  The collective also worked with artists such as Vito Acconci, Mike Glier, Barbara Kruger, Mierle Laderman Ukeles, Faith Ringgold, Martha Rosler, Andres Serrano, Nancy Spero, Anton van Dalen, Carrie Mae Weems, and many others.  Materials in the collection document the origins, processes and context of Group Material's activities.</field>
+    <field name="creator_teim">Group Material (Firm : New York, N.Y.)</field>
+    <field name="creator_ssm">Group Material (Firm : New York, N.Y.)</field>
+    <field name="creator_ssm">Group Material (Firm : New York, N.Y.)</field>
     <field name="unitdate_normal_ssm">1976/2009</field>
     <field name="unitdate_normal_ssm">1979/1996</field>
     <field name="unitdate_normal_teim">1976/2009</field>
@@ -363,6 +364,7 @@ mixture of several individuals' saving habits stimulated by idiosyncratic, conce
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Group Material (Firm : New York, N.Y.)</field>
     <field name="name_sim">Group Material (Firm : New York, N.Y.)</field>
     <field name="name_sim">Guerrilla Girls (Group of artists)</field>
     <field name="name_sim">New York State Council on the Arts</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Deep Dish TV Records</field>
     <field name="collection_ssm">Deep Dish TV Records</field>
-    <field name="collection_unitid_ssm">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_ssm">MSS.312</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Workshop on Archaeology and Computers</field>
     <field name="unittitle_teim">Workshop on Archaeology and Computers</field>
@@ -28,12 +28,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 160, MiniDV: 312_1760, 312_1761, 312_1762, 312_1763, 312_1764, 312_1765, 312_1766, 312_1767, 312_1768, 312_1769, 312_1771, 312_1775, 312_1776, 312_1780</field>
-    <field name="location_ssm">MiniDV: 312_1760, 312_1761, 312_1762, 312_1763, 312_1764, 312_1765, 312_1766, 312_1767, 312_1768, 312_1769, 312_1771, 312_1775, 312_1776, 312_1780</field>
     <field name="location_ssm">Box: 161, MiniDV: 312_1790</field>
-    <field name="location_ssm">MiniDV: 312_1790</field>
-    <field name="location_si">MiniDV: 312_1790</field>
+    <field name="location_si">Box: 161, MiniDV: 312_1790</field>
     <field name="collection_teim">Deep Dish TV Records</field>
-    <field name="collection_unitid_teim">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_teim">MSS.312</field>
     <field name="series_sim">Series III. Events</field>
     <field name="series_si">Series III. Events &gt;&gt; Workshop on Archaeology and Computers</field>
     <field name="heading_ssm">Workshop on Archaeology and Computers</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Mark Bloch Postal Art Network (PAN) Archive</field>
     <field name="collection_ssm">Mark Bloch Postal Art Network (PAN) Archive</field>
-    <field name="collection_unitid_ssm">MSS.170/repositories/3/resources/1728</field>
+    <field name="collection_unitid_ssm">MSS.170</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Fine Art Network Issue #9D-1 (#55)</field>
     <field name="unittitle_teim">Fine Art Network Issue #9D-1 (#55)</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 51, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 51, Folder: 4</field>
     <field name="collection_teim">Mark Bloch Postal Art Network (PAN) Archive</field>
-    <field name="collection_unitid_teim">MSS.170/repositories/3/resources/1728</field>
+    <field name="collection_unitid_teim">MSS.170</field>
     <field name="series_sim">OVERSIZE Series II: Junk Mail</field>
     <field name="series_sim">Subseries A: Sorted</field>
     <field name="series_si">OVERSIZE Series II: Junk Mail &gt;&gt; Subseries A: Sorted &gt;&gt; Fine Art Network Issue #9D-1 (#55)</field>

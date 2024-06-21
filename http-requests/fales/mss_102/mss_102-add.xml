@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Martin Wong Papers</field>
     <field name="unittitle_ssm">Martin Wong Papers</field>
     <field name="unitid_teim">MSS.102</field>
-    <field name="unitid_teim">/repositories/3/resources/1672</field>
     <field name="unitid_ssm">MSS.102</field>
-    <field name="unitid_ssm">/repositories/3/resources/1672</field>
     <field name="abstract_teim">Artist Martin Wong (1946-1999) was a respected and prolific painter in New York's downtown art scene. He also cultivated both working and personal relationships with graffiti artists and enthusiasts. The Martin Wong Papers date from 1982 to 1999 and contain Wong's artwork, including sketches, drawings, and graffiti, as well as correspondence, poetry, prose, and source material that informed his artwork.</field>
     <field name="abstract_ssm">Artist Martin Wong (1946-1999) was a respected and prolific painter in New York's downtown art scene. He also cultivated both working and personal relationships with graffiti artists and enthusiasts. The Martin Wong Papers date from 1982 to 1999 and contain Wong's artwork, including sketches, drawings, and graffiti, as well as correspondence, poetry, prose, and source material that informed his artwork.</field>
+    <field name="creator_teim">Wong, Martin</field>
+    <field name="creator_ssm">Wong, Martin</field>
+    <field name="creator_ssm">Wong, Martin</field>
     <field name="unitdate_normal_ssm">1982/1999</field>
     <field name="unitdate_normal_ssm">1939/1999</field>
     <field name="unitdate_normal_teim">1982/1999</field>
@@ -122,6 +123,7 @@ Sweet Oblivion: the urban landscape of Martin Wong. (New York: Rizzoli Books, c1
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Wong, Martin</field>
     <field name="name_sim">Wong, Martin</field>
     <field name="name_sim">Daze</field>
     <field name="name_sim">Herron, Annie</field>

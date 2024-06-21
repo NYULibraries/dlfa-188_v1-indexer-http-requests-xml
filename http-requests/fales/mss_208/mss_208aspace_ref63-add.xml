@@ -11,12 +11,18 @@
     <field name="component_children_bsi">true</field>
     <field name="collection_sim">Sylvester Manor Archive</field>
     <field name="collection_ssm">Sylvester Manor Archive</field>
-    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
     <field name="level_sim">subseries</field>
     <field name="unittitle_ssm">Series B: Brinley Family </field>
     <field name="unittitle_teim">Series B: Brinley Family </field>
     <field name="unitid_teim">/repositories/3/archival_objects/507281</field>
     <field name="unitid_ssm">/repositories/3/archival_objects/507281</field>
+    <field name="creator_teim">Brinley, Francis, 1632-1719</field>
+    <field name="creator_teim">Brandon, Thomas</field>
+    <field name="creator_ssm">Brinley, Francis, 1632-1719</field>
+    <field name="creator_ssm">Brandon, Thomas</field>
+    <field name="creator_ssm">Brinley, Francis, 1632-1719</field>
+    <field name="creator_ssm">Brandon, Thomas</field>
     <field name="scopecontent_teim">Record Group I, Series B: Brinley Family consists of financial records, legal records, and personal and professional correspondence. Genres range from affidavits, deeds of property sales, indentures, inventories, memorandums, and wills, to bills, receipts, and statements of account, to letters, notation, and genealogical research. While this series lightly refers to family conversations about estate settlements, financial transition, and marriage, it is dominated by property management dealings in Rhode Island and records documenting trade in Boston, MA from Francis Brinley, the eldest son of Thomas Brinley, brother of Nathaniel Sylvester's wife Grissell (Grizzell). This series' provenance is unique within the Sylvester Manor Archive as it is largely a research series, full of records purchased by Andrew Fiske and added for relevance. These records are marked with [Fiske Purchase] to indicate this difference. See Record Group V: Fiske Family, Series A: Correspondence and Research for documentation of Fiske's genealogical work behind these purchases. </field>
     <field name="scopecontent_teim">These materials are arranged chronologically. In the case that a record includes more than one date expression, the listing will begin with its earliest. If an item is physically undated, approximate ranges are provided. These records are noted "undated" and followed by a "circa" estimate determined by the range represented in the same series.</field>
     <field name="bioghist_teim">The Brinley Family Papers are preserved at the University of Massachusetts at Amherst, Special Collections and University Archives in the W.E.B. Du Bois Library, in which the following biographical and historical content is provided:</field>
@@ -62,6 +68,8 @@
     <field name="repository_ssm">fales</field>
     <field name="format_sim">Archival Series</field>
     <field name="format_ssm">Archival Series</field>
+    <field name="creator_sim">Brinley, Francis, 1632-1719</field>
+    <field name="creator_sim">Brandon, Thomas</field>
     <field name="name_sim">Brinley, Francis, 1632-1719</field>
     <field name="name_sim">Brandon, Thomas</field>
     <field name="name_teim">Brinley, Francis, 1632-1719</field>
@@ -71,7 +79,7 @@
     <field name="place_sim">Boston, Massachusetts</field>
     <field name="place_sim">Newport, Rhode Island</field>
     <field name="collection_teim">Sylvester Manor Archive</field>
-    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_teim">MSS.208</field>
     <field name="series_sim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
     <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series B: Brinley Family </field>
     <field name="material_type_sim">Commercial correspondence</field>

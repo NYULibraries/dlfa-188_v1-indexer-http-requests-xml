@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MSS.126</field>
     <field name="abstract_teim">The IBM European Business Archive contains administrative and legal materials documenting the relationship between IBM and its subsidiaries in Germany, with the bulk of the materials deriving from 1933-1945.  Much of the remainder of the collection relates to IBM's subsequent efforts to regain shareholder control of its German subsidiaries and machines after Allied victory.</field>
     <field name="abstract_ssm">The IBM European Business Archive contains administrative and legal materials documenting the relationship between IBM and its subsidiaries in Germany, with the bulk of the materials deriving from 1933-1945.  Much of the remainder of the collection relates to IBM's subsequent efforts to regain shareholder control of its German subsidiaries and machines after Allied victory.</field>
+    <field name="creator_teim">International Business Machines Corporation</field>
+    <field name="creator_ssm">International Business Machines Corporation</field>
+    <field name="creator_ssm">International Business Machines Corporation</field>
     <field name="unitdate_normal_ssm">1910/1960</field>
     <field name="unitdate_normal_ssm">1933/1945</field>
     <field name="unitdate_normal_teim">1910/1960</field>
@@ -76,6 +79,7 @@ BCRC?vrsn=unknown&amp;locID=nysl_me_tnypl&amp;srchtp=glbc&amp;cc=1&amp;c=1&amp;m
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">International Business Machines Corporation</field>
     <field name="name_sim">International Business Machines Corporation</field>
     <field name="name_sim">Gegemag</field>
     <field name="name_sim">Ingemag</field>

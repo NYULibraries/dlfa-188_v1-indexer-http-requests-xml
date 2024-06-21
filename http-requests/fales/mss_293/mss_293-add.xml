@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Larry Rivers Papers</field>
     <field name="unittitle_ssm">Larry Rivers Papers</field>
     <field name="unitid_teim">MSS.293</field>
-    <field name="unitid_teim">/repositories/3/resources/1810</field>
     <field name="unitid_ssm">MSS.293</field>
-    <field name="unitid_ssm">/repositories/3/resources/1810</field>
     <field name="abstract_teim">The Larry Rivers Papers include correspondence, manuscripts, source material, financial and administrative records, photographic material, project files, and audiovisual material related to the life of Larry Rivers, and to his work as an artist, poet, filmmaker and musician.</field>
     <field name="abstract_ssm">The Larry Rivers Papers include correspondence, manuscripts, source material, financial and administrative records, photographic material, project files, and audiovisual material related to the life of Larry Rivers, and to his work as an artist, poet, filmmaker and musician.</field>
+    <field name="creator_teim">Rivers, Larry, 1925-2002</field>
+    <field name="creator_ssm">Rivers, Larry, 1925-2002</field>
+    <field name="creator_ssm">Rivers, Larry, 1925-2002</field>
     <field name="unitdate_normal_ssm">1952/2010</field>
     <field name="unitdate_normal_teim">1952/2010</field>
     <field name="unitdate_normal_sim">1952/2010</field>
@@ -282,6 +283,7 @@ For comprehensive biographical information and chronology, visit the Larry River
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Rivers, Larry, 1925-2002</field>
     <field name="name_sim">Nassau County Museum of Art</field>
     <field name="name_sim">Marlborough Gallery</field>
     <field name="name_sim">United States. Works Progress Administration</field>

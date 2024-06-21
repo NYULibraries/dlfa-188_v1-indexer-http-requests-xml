@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sylvester Manor Archive</field>
     <field name="collection_ssm">Sylvester Manor Archive</field>
-    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Financial Record with Notation</field>
     <field name="unittitle_teim">Financial Record with Notation</field>
@@ -43,11 +43,10 @@ In Reference To: Business / Crime / Legal / Professional</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 147, Folder: 47</field>
-    <field name="location_ssm">Folder: 47</field>
-    <field name="location_si">Folder: 47</field>
+    <field name="location_si">Box: 147, Folder: 47</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Sylvester Manor Archive</field>
-    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_teim">MSS.208</field>
     <field name="series_sim">Record Group I: Sylvester, Brinley, and Lloyd Families</field>
     <field name="series_sim">Series A: Sylvester Family </field>
     <field name="series_si">Record Group I: Sylvester, Brinley, and Lloyd Families &gt;&gt; Series A: Sylvester Family  &gt;&gt; Financial Record with Notation</field>

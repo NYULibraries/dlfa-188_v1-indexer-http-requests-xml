@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">JDub Records Archive</field>
     <field name="collection_ssm">JDub Records Archive</field>
-    <field name="collection_unitid_ssm">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_ssm">MSS.330</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Just for a Day" poster - signed</field>
     <field name="unittitle_teim">"Just for a Day" poster - signed</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 22, Folder: 5</field>
-    <field name="location_ssm">Folder: 5</field>
-    <field name="location_si">Folder: 5</field>
+    <field name="location_si">Box: 22, Folder: 5</field>
     <field name="collection_teim">JDub Records Archive</field>
-    <field name="collection_unitid_teim">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_teim">MSS.330</field>
     <field name="series_sim">Oversize Series II: Promotion and Events</field>
     <field name="series_si">Oversize Series II: Promotion and Events &gt;&gt; "Just for a Day" poster - signed</field>
     <field name="heading_ssm">"Just for a Day" poster - signed</field>

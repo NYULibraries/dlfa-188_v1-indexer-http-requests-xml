@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Ron Kolm Papers</field>
     <field name="collection_ssm">Ron Kolm Papers</field>
-    <field name="collection_unitid_ssm">MSS.079/repositories/3/resources/1650</field>
+    <field name="collection_unitid_ssm">MSS.079</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Kitchen Sink</field>
     <field name="unittitle_teim">Kitchen Sink</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 12, Folder: 33</field>
-    <field name="location_ssm">Folder: 33</field>
-    <field name="location_si">Folder: 33</field>
+    <field name="location_si">Box: 12, Folder: 33</field>
     <field name="collection_teim">Ron Kolm Papers</field>
-    <field name="collection_unitid_teim">MSS.079/repositories/3/resources/1650</field>
+    <field name="collection_unitid_teim">MSS.079</field>
     <field name="series_sim">Series XII: Catalogs</field>
     <field name="series_si">Series XII: Catalogs &gt;&gt; Kitchen Sink</field>
     <field name="heading_ssm">Kitchen Sink</field>

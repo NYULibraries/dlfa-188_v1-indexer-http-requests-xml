@@ -6,11 +6,12 @@
     <field name="unittitle_teim">The Mix Collection</field>
     <field name="unittitle_ssm">The Mix Collection</field>
     <field name="unitid_teim">MSS.143</field>
-    <field name="unitid_teim">/repositories/3/resources/1706</field>
     <field name="unitid_ssm">MSS.143</field>
-    <field name="unitid_ssm">/repositories/3/resources/1706</field>
     <field name="abstract_teim">The Mix Collection contains the paper and media files for the Mix: New York Lesbian and Gay Experimental Film and Video Festival. Started in 1987 by filmmaker Jim Hubbard and novelist Sarah Schulman, Mix is the longest-running experimental film festival and the largest queer film festival in the United States. The Festival has been instrumental in both launching the careers of filmmakers such as Todd Haynes and Sadie Benning and in providing an exhibition space for and preservation of the work of older filmmakers such as Barbara Hammer and James Broughton. Mix was also one of the first film festivals to embrace installations and online artwork to showcase the depth and breadth of queer digital media. The Festival has traditionally been held annually at the Anthology Film Archives in New York City.</field>
     <field name="abstract_ssm">The Mix Collection contains the paper and media files for the Mix: New York Lesbian and Gay Experimental Film and Video Festival. Started in 1987 by filmmaker Jim Hubbard and novelist Sarah Schulman, Mix is the longest-running experimental film festival and the largest queer film festival in the United States. The Festival has been instrumental in both launching the careers of filmmakers such as Todd Haynes and Sadie Benning and in providing an exhibition space for and preservation of the work of older filmmakers such as Barbara Hammer and James Broughton. Mix was also one of the first film festivals to embrace installations and online artwork to showcase the depth and breadth of queer digital media. The Festival has traditionally been held annually at the Anthology Film Archives in New York City.</field>
+    <field name="creator_teim">MIX NYC</field>
+    <field name="creator_ssm">MIX NYC</field>
+    <field name="creator_ssm">MIX NYC</field>
     <field name="unitdate_normal_ssm">1987/2014</field>
     <field name="unitdate_normal_teim">1987/2014</field>
     <field name="unitdate_normal_sim">1987/2014</field>
@@ -267,6 +268,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">MIX NYC</field>
     <field name="name_sim">MIX NYC</field>
     <field name="name_sim">Manhattan Neighborhood Community Network</field>
     <field name="name_sim">Millennium Film Workshop</field>

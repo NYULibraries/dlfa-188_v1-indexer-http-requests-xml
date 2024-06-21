@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Redtape Archive</field>
     <field name="collection_ssm">Redtape Archive</field>
-    <field name="collection_unitid_ssm">MSS.088/repositories/3/resources/1658</field>
+    <field name="collection_unitid_ssm">MSS.088</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Richard Armijo</field>
     <field name="unittitle_teim">Richard Armijo</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 2, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 2, Folder: 1</field>
     <field name="collection_teim">Redtape Archive</field>
-    <field name="collection_unitid_teim">MSS.088/repositories/3/resources/1658</field>
+    <field name="collection_unitid_teim">MSS.088</field>
     <field name="series_sim">Series II: Art/Comix</field>
     <field name="series_sim">Subseries B: Copy</field>
     <field name="series_si">Series II: Art/Comix &gt;&gt; Subseries B: Copy &gt;&gt; Richard Armijo</field>

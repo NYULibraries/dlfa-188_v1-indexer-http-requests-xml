@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Elmer Holmes Bobst Collection</field>
     <field name="collection_ssm">Elmer Holmes Bobst Collection</field>
-    <field name="collection_unitid_ssm">MSS.067/repositories/3/resources/2701</field>
+    <field name="collection_unitid_ssm">MSS.067</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Christmas Message</field>
     <field name="unittitle_teim">Christmas Message</field>
@@ -33,13 +33,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 57, disc: Part 1</field>
-    <field name="location_ssm">disc: Part 1</field>
     <field name="location_ssm">Box: 57, disc: Part 2</field>
-    <field name="location_ssm">disc: Part 2</field>
-    <field name="location_si">disc: Part 2</field>
+    <field name="location_si">Box: 57, disc: Part 2</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Elmer Holmes Bobst Collection</field>
-    <field name="collection_unitid_teim">MSS.067/repositories/3/resources/2701</field>
+    <field name="collection_unitid_teim">MSS.067</field>
     <field name="series_sim">Series V: Film, Audio and Video Tape, Slides and Recordings.</field>
     <field name="series_si">Series V: Film, Audio and Video Tape, Slides and Recordings. &gt;&gt; Christmas Message</field>
     <field name="heading_ssm">Christmas Message</field>

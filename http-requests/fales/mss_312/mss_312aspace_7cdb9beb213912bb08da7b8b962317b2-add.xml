@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Deep Dish TV Records</field>
     <field name="collection_ssm">Deep Dish TV Records</field>
-    <field name="collection_unitid_ssm">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_ssm">MSS.312</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Bicentennial," "Soap Opera Magazine"</field>
     <field name="unittitle_teim">"Bicentennial," "Soap Opera Magazine"</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 312_1852, 1_Inch_Video_Reel: 312_1852</field>
-    <field name="location_ssm">1_Inch_Video_Reel: 312_1852</field>
-    <field name="location_si">1_Inch_Video_Reel: 312_1852</field>
+    <field name="location_si">Box: 312_1852, 1_Inch_Video_Reel: 312_1852</field>
     <field name="collection_teim">Deep Dish TV Records</field>
-    <field name="collection_unitid_teim">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_teim">MSS.312</field>
     <field name="series_sim">Series I. Video Productions</field>
     <field name="series_si">Series I. Video Productions &gt;&gt; "Bicentennial," "Soap Opera Magazine"</field>
     <field name="heading_ssm">"Bicentennial," "Soap Opera Magazine"</field>

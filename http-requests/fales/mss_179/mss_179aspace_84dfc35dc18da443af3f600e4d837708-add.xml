@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Creative Time Records</field>
     <field name="collection_ssm">Creative Time Records</field>
-    <field name="collection_unitid_ssm">MSS.179/repositories/3/resources/1736</field>
+    <field name="collection_unitid_ssm">MSS.179</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">&lt;em&gt;Leap&lt;/em&gt; by Chris Doyle</field>
     <field name="unittitle_teim">Leap by Chris Doyle</field>
@@ -28,11 +28,8 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 53, Folder: 3-4</field>
-    <field name="location_ssm">Folder: 3-4</field>
     <field name="location_ssm">Box: 19, Folder: 277</field>
-    <field name="location_ssm">Folder: 277</field>
     <field name="location_ssm">Box: 129, Folder: Sleeves 26-27</field>
-    <field name="location_ssm">Folder: Sleeves 26-27</field>
     <field name="location_ssm">case: 179.0455</field>
     <field name="location_ssm">case: 179.0449</field>
     <field name="location_ssm">case: 179.0451</field>
@@ -40,12 +37,10 @@
     <field name="location_ssm">case: 179.0453</field>
     <field name="location_ssm">case: 179.0457</field>
     <field name="location_ssm">Box: 28, Folder: ID: 179.0448, ID: 179.0450, ID: 179.0452, ID: 179.0454, ID: 179.0456</field>
-    <field name="location_ssm">Folder: ID: 179.0448, ID: 179.0450, ID: 179.0452, ID: 179.0454, ID: 179.0456</field>
     <field name="location_ssm">Box: 29, Folder: ID: 179.0514</field>
-    <field name="location_ssm">Folder: ID: 179.0514</field>
-    <field name="location_si">Folder: ID: 179.0514</field>
+    <field name="location_si">Box: 29, Folder: ID: 179.0514</field>
     <field name="collection_teim">Creative Time Records</field>
-    <field name="collection_unitid_teim">MSS.179/repositories/3/resources/1736</field>
+    <field name="collection_unitid_teim">MSS.179</field>
     <field name="series_sim">Series I: Exhibitions and Projects</field>
     <field name="series_si">Series I: Exhibitions and Projects &gt;&gt; &lt;em&gt;Leap&lt;/em&gt; by Chris Doyle</field>
     <field name="heading_ssm">Leap by Chris Doyle</field>

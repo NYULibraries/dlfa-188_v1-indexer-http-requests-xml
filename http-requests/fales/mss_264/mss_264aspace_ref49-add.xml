@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Christopher D'Arcangelo Papers</field>
     <field name="collection_ssm">Christopher D'Arcangelo Papers</field>
-    <field name="collection_unitid_ssm">MSS.264/repositories/3/resources/1792</field>
+    <field name="collection_unitid_ssm">MSS.264</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Louvre</field>
     <field name="unittitle_teim">Louvre</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 3, Folder: 4</field>
     <field name="collection_teim">Christopher D'Arcangelo Papers</field>
-    <field name="collection_unitid_teim">MSS.264/repositories/3/resources/1792</field>
+    <field name="collection_unitid_teim">MSS.264</field>
     <field name="series_sim">Series I: Work Files</field>
     <field name="series_si">Series I: Work Files &gt;&gt; Louvre</field>
     <field name="heading_ssm">Louvre</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Richard Hell Papers</field>
     <field name="unittitle_ssm">Richard Hell Papers</field>
     <field name="unitid_teim">MSS.140</field>
-    <field name="unitid_teim">/repositories/3/resources/1703</field>
     <field name="unitid_ssm">MSS.140</field>
-    <field name="unitid_ssm">/repositories/3/resources/1703</field>
     <field name="abstract_teim">The Richard Hell Papers consist of comprehensive documentation of Richard Hell's career as a poet, novelist, author, publisher, musician, and filmmaker. Materials include personal journals, manuscripts and materials relating to the publication of several works, correspondence, clippings, reviews, posters, photographs, film, video and audio materials and objects and artifacts. In addition the collection contains financial and legal documents pertaining to Hell's publications, and musical career. The materials span 1944-2003 with the bulk of the material covering 1969-2003.</field>
     <field name="abstract_ssm">The Richard Hell Papers consist of comprehensive documentation of Richard Hell's career as a poet, novelist, author, publisher, musician, and filmmaker. Materials include personal journals, manuscripts and materials relating to the publication of several works, correspondence, clippings, reviews, posters, photographs, film, video and audio materials and objects and artifacts. In addition the collection contains financial and legal documents pertaining to Hell's publications, and musical career. The materials span 1944-2003 with the bulk of the material covering 1969-2003.</field>
+    <field name="creator_teim">Hell, Richard</field>
+    <field name="creator_ssm">Hell, Richard</field>
+    <field name="creator_ssm">Hell, Richard</field>
     <field name="unitdate_normal_ssm">1944/2010</field>
     <field name="unitdate_normal_ssm">1969/2003</field>
     <field name="unitdate_normal_teim">1944/2010</field>
@@ -264,6 +265,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Hell, Richard</field>
     <field name="name_sim">Dot Books</field>
     <field name="name_sim">Heartbreakers (Musical group)</field>
     <field name="name_sim">St. Mark's Church In-the-Bowery (New York, N.Y.). Poetry Project</field>

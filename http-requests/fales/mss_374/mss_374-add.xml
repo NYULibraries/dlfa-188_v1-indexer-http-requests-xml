@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MSS.374</field>
     <field name="abstract_teim">The Fales Zine Collection includes zines donated to the Fales Library &amp; Special Collections and zines created through various projects.  The collection was created by the Fales Library &amp; Special Collections to house the zines in its collections that did not belong to any collection already.</field>
     <field name="abstract_ssm">The Fales Zine Collection includes zines donated to the Fales Library &amp; Special Collections and zines created through various projects.  The collection was created by the Fales Library &amp; Special Collections to house the zines in its collections that did not belong to any collection already.</field>
+    <field name="creator_teim">Fales Library</field>
+    <field name="creator_ssm">Fales Library</field>
+    <field name="creator_ssm">Fales Library</field>
     <field name="unitdate_normal_ssm">1990/2013</field>
     <field name="unitdate_normal_teim">1990/2013</field>
     <field name="unitdate_normal_sim">1990/2013</field>
@@ -36,6 +39,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Fales Library</field>
     <field name="name_sim">Fales Library</field>
     <field name="name_teim">Fales Library</field>
     <field name="subject_sim">Zine libraries.</field>

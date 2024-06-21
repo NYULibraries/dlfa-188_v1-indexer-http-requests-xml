@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Felice Picano Collection on Sea Horse Press and The Gay Presses of New York</field>
     <field name="collection_ssm">Felice Picano Collection on Sea Horse Press and The Gay Presses of New York</field>
-    <field name="collection_unitid_ssm">MSS.444/repositories/3/resources/1900</field>
+    <field name="collection_unitid_ssm">MSS.444</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Letter Announcing Formation of Sea Horse Press</field>
     <field name="unittitle_teim">Letter Announcing Formation of Sea Horse Press</field>
@@ -24,10 +24,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 1, Folder: 4</field>
     <field name="collection_teim">Felice Picano Collection on Sea Horse Press and The Gay Presses of New York</field>
-    <field name="collection_unitid_teim">MSS.444/repositories/3/resources/1900</field>
+    <field name="collection_unitid_teim">MSS.444</field>
     <field name="series_si">Letter Announcing Formation of Sea Horse Press</field>
     <field name="heading_ssm">Letter Announcing Formation of Sea Horse Press</field>
     <field name="unitdate_ssm">1978-03-07</field>

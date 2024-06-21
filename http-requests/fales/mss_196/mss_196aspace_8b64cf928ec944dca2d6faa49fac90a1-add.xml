@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Hal Sirowitz Papers</field>
     <field name="collection_ssm">Hal Sirowitz Papers</field>
-    <field name="collection_unitid_ssm">MSS.196/repositories/3/resources/1745</field>
+    <field name="collection_unitid_ssm">MSS.196</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Manuscripts</field>
     <field name="unittitle_teim">Manuscripts</field>
@@ -24,14 +24,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 28-37</field>
-    <field name="location_ssm">Folder: 28-37</field>
     <field name="location_ssm">Box: 4, Folder: 1-30</field>
-    <field name="location_ssm">Folder: 1-30</field>
     <field name="location_ssm">Box: 5, Folder: 1-26</field>
-    <field name="location_ssm">Folder: 1-26</field>
-    <field name="location_si">Folder: 1-26</field>
+    <field name="location_si">Box: 5, Folder: 1-26</field>
     <field name="collection_teim">Hal Sirowitz Papers</field>
-    <field name="collection_unitid_teim">MSS.196/repositories/3/resources/1745</field>
+    <field name="collection_unitid_teim">MSS.196</field>
     <field name="series_si">Manuscripts</field>
     <field name="heading_ssm">Manuscripts</field>
     <field name="unitdate_start_sim">1978</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fales Manuscript Collection</field>
     <field name="collection_ssm">Fales Manuscript Collection</field>
-    <field name="collection_unitid_ssm">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_ssm">MSS.001</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Caldwell, Erskine (1903-1987) : 26 T.L.s. [to/from NAL], 1 T.L.s. to F. W. Dupee (in The Miscellany) [1930], 1 T.L.s. to Stanley Rinehart [1940], 1 T.L.s. [1947?], [&lt;em&gt;24 NAL letters not to be seen without NAL permission&lt;/em&gt;]</field>
     <field name="unittitle_teim">Caldwell, Erskine (1903-1987) : 26 T.L.s. [to/from NAL], 1 T.L.s. to F. W. Dupee (in The Miscellany) [1930], 1 T.L.s. to Stanley Rinehart [1940], 1 T.L.s. [1947?], [24 NAL letters not to be seen without NAL permission]</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 23, Folder: 17</field>
-    <field name="location_ssm">Folder: 17</field>
-    <field name="location_si">Folder: 17</field>
+    <field name="location_si">Box: 23, Folder: 17</field>
     <field name="collection_teim">Fales Manuscript Collection</field>
-    <field name="collection_unitid_teim">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_teim">MSS.001</field>
     <field name="series_sim">Letter sized boxes</field>
     <field name="series_si">Letter sized boxes &gt;&gt; Caldwell, Erskine (1903-1987) : 26 T.L.s. [to/from NAL], 1 T.L.s. to F. W. Dupee (in The Miscellany) [1930], 1 T.L.s. to Stanley Rinehart [1940], 1 T.L.s. [1947?], [&lt;em&gt;24 NAL letters not to be seen without NAL permission&lt;/em&gt;]</field>
     <field name="heading_ssm">Caldwell, Erskine (1903-1987) : 26 T.L.s. [to/from NAL], 1 T.L.s. to F. W. Dupee (in The Miscellany) [1930], 1 T.L.s. to Stanley Rinehart [1940], 1 T.L.s. [1947?], [24 NAL letters not to be seen without NAL permission]</field>

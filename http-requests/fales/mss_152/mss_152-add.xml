@@ -6,11 +6,15 @@
     <field name="unittitle_teim">Richard Foreman and Kate Manheim Papers</field>
     <field name="unittitle_ssm">Richard Foreman and Kate Manheim Papers</field>
     <field name="unitid_teim">MSS.152</field>
-    <field name="unitid_teim">/repositories/3/resources/1713</field>
     <field name="unitid_ssm">MSS.152</field>
-    <field name="unitid_ssm">/repositories/3/resources/1713</field>
     <field name="abstract_teim">The Richard Foreman and Kate Manheim Papers document Foreman's professional career as a playwright, director, set designer and founder of the Ontological-Hysteric Theater, and Manheim's career as an artist.</field>
     <field name="abstract_ssm">The Richard Foreman and Kate Manheim Papers document Foreman's professional career as a playwright, director, set designer and founder of the Ontological-Hysteric Theater, and Manheim's career as an artist.</field>
+    <field name="creator_teim">Foreman, Richard</field>
+    <field name="creator_teim">Manheim, Kate</field>
+    <field name="creator_ssm">Foreman, Richard</field>
+    <field name="creator_ssm">Manheim, Kate</field>
+    <field name="creator_ssm">Foreman, Richard</field>
+    <field name="creator_ssm">Manheim, Kate</field>
     <field name="unitdate_normal_ssm">1938/2011</field>
     <field name="unitdate_normal_ssm">1969/2004</field>
     <field name="unitdate_normal_teim">1938/2011</field>
@@ -118,6 +122,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Foreman, Richard</field>
+    <field name="creator_sim">Manheim, Kate</field>
     <field name="name_sim">Ontological-Hysteric Theatre</field>
     <field name="name_sim">Foreman, Richard</field>
     <field name="name_sim">Manheim, Kate</field>

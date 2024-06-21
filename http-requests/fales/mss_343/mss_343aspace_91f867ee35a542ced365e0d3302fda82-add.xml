@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Exit Art Archive</field>
     <field name="collection_ssm">Exit Art Archive</field>
-    <field name="collection_unitid_ssm">MSS.343/repositories/3/resources/1844</field>
+    <field name="collection_unitid_ssm">MSS.343</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Colo Painting"</field>
     <field name="unittitle_teim">"Colo Painting"</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: Shared Fales 045, Hi8: 343.0251, 343.0252</field>
-    <field name="location_ssm">Hi8: 343.0251, 343.0252</field>
-    <field name="location_si">Hi8: 343.0251, 343.0252</field>
+    <field name="location_si">Box: Shared Fales 045, Hi8: 343.0251, 343.0252</field>
     <field name="collection_teim">Exit Art Archive</field>
-    <field name="collection_unitid_teim">MSS.343/repositories/3/resources/1844</field>
+    <field name="collection_unitid_teim">MSS.343</field>
     <field name="series_sim">Series XIV: Video</field>
     <field name="series_si">Series XIV: Video &gt;&gt; "Colo Painting"</field>
     <field name="heading_ssm">"Colo Painting"</field>

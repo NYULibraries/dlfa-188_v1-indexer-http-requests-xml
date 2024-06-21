@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Elizabeth Robins Papers</field>
     <field name="collection_ssm">Elizabeth Robins Papers</field>
-    <field name="collection_unitid_ssm">MSS.002/repositories/3/resources/1587</field>
+    <field name="collection_unitid_ssm">MSS.002</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Securities Records 1929</field>
     <field name="unittitle_teim">Securities Records 1929</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 246, Folder: 10</field>
-    <field name="location_ssm">Folder: 10</field>
-    <field name="location_si">Folder: 10</field>
+    <field name="location_si">Box: 246, Folder: 10</field>
     <field name="collection_teim">Elizabeth Robins Papers</field>
-    <field name="collection_unitid_teim">MSS.002/repositories/3/resources/1587</field>
+    <field name="collection_unitid_teim">MSS.002</field>
     <field name="series_sim">Series X: Legal and Financial Records</field>
     <field name="series_sim">Subseries B: Financial Records</field>
     <field name="series_si">Series X: Legal and Financial Records &gt;&gt; Subseries B: Financial Records &gt;&gt; Securities Records 1929</field>

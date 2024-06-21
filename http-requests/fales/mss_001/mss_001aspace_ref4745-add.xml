@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fales Manuscript Collection</field>
     <field name="collection_ssm">Fales Manuscript Collection</field>
-    <field name="collection_unitid_ssm">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_ssm">MSS.001</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Scott, Walter, Sir (1771-1832) : illustration from The Lady of the Lake</field>
     <field name="unittitle_teim">Scott, Walter, Sir (1771-1832) : illustration from The Lady of the Lake</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 221, Folder: 7</field>
-    <field name="location_ssm">Folder: 7</field>
-    <field name="location_si">Folder: 7</field>
+    <field name="location_si">Box: 221, Folder: 7</field>
     <field name="collection_teim">Fales Manuscript Collection</field>
-    <field name="collection_unitid_teim">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_teim">MSS.001</field>
     <field name="series_sim">Large Flat boxes and Dickensiana</field>
     <field name="series_si">Large Flat boxes and Dickensiana &gt;&gt; Scott, Walter, Sir (1771-1832) : illustration from The Lady of the Lake</field>
     <field name="heading_ssm">Scott, Walter, Sir (1771-1832) : illustration from The Lady of the Lake</field>

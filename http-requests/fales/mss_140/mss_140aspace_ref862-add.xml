@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Richard Hell Papers</field>
     <field name="collection_ssm">Richard Hell Papers</field>
-    <field name="collection_unitid_ssm">MSS.140/repositories/3/resources/1703</field>
+    <field name="collection_unitid_ssm">MSS.140</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Correspondence, Krawiec, Richard</field>
     <field name="unittitle_teim">Correspondence, Krawiec, Richard</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 11, Folder: 788</field>
-    <field name="location_ssm">Folder: 788</field>
-    <field name="location_si">Folder: 788</field>
+    <field name="location_si">Box: 11, Folder: 788</field>
     <field name="collection_teim">Richard Hell Papers</field>
-    <field name="collection_unitid_teim">MSS.140/repositories/3/resources/1703</field>
+    <field name="collection_unitid_teim">MSS.140</field>
     <field name="series_sim">Series III: Projects</field>
     <field name="series_sim">Subseries P: CUZ</field>
     <field name="series_si">Series III: Projects &gt;&gt; Subseries P: CUZ &gt;&gt; Correspondence, Krawiec, Richard</field>

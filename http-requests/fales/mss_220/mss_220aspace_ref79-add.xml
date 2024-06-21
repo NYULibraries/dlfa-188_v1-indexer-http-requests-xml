@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Robert Blanchon Papers and Collection</field>
     <field name="collection_ssm">Robert Blanchon Papers and Collection</field>
-    <field name="collection_unitid_ssm">MSS.220/repositories/3/resources/1761</field>
+    <field name="collection_unitid_ssm">MSS.220</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Dr. Farnsworth's Curtains</field>
     <field name="unittitle_teim">Dr. Farnsworth's Curtains</field>
@@ -35,10 +35,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 17, object: ID: 220.2.0025</field>
-    <field name="location_ssm">object: ID: 220.2.0025</field>
-    <field name="location_si">object: ID: 220.2.0025</field>
+    <field name="location_si">Box: 17, object: ID: 220.2.0025</field>
     <field name="collection_teim">Robert Blanchon Papers and Collection</field>
-    <field name="collection_unitid_teim">MSS.220/repositories/3/resources/1761</field>
+    <field name="collection_unitid_teim">MSS.220</field>
     <field name="series_sim">Series I: Art Production</field>
     <field name="series_sim">Subseries A: Artwork</field>
     <field name="series_si">Series I: Art Production &gt;&gt; Subseries A: Artwork &gt;&gt; Dr. Farnsworth's Curtains</field>

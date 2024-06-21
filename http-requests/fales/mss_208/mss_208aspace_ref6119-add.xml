@@ -17,7 +17,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sylvester Manor Archive</field>
     <field name="collection_ssm">Sylvester Manor Archive</field>
-    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">&lt;em&gt;New York Mirror &lt;/em&gt;Volume XIV, Number 48</field>
     <field name="unittitle_teim">New York Mirror Volume XIV, Number 48</field>
@@ -36,10 +36,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 144, Folder: 26</field>
-    <field name="location_ssm">Folder: 26</field>
-    <field name="location_si">Folder: 26</field>
+    <field name="location_si">Box: 144, Folder: 26</field>
     <field name="collection_teim">Sylvester Manor Archive</field>
-    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_teim">MSS.208</field>
     <field name="series_sim">Record Group III: Gardiner Family</field>
     <field name="series_sim">Gardiner: Oversize </field>
     <field name="series_sim">Oversize Series A, Subseries 6: Printed Materials</field>

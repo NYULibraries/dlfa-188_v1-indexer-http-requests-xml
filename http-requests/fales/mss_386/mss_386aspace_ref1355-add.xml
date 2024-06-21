@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Linda Mary Montano Papers</field>
     <field name="collection_ssm">Linda Mary Montano Papers</field>
-    <field name="collection_unitid_ssm">MSS.386/repositories/3/resources/1872</field>
+    <field name="collection_unitid_ssm">MSS.386</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">"Piano"</field>
     <field name="unittitle_teim">"Piano"</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 59, Media: ID: 386.0118</field>
-    <field name="location_ssm">Media: ID: 386.0118</field>
-    <field name="location_si">Media: ID: 386.0118</field>
+    <field name="location_si">Box: 59, Media: ID: 386.0118</field>
     <field name="collection_teim">Linda Mary Montano Papers</field>
-    <field name="collection_unitid_teim">MSS.386/repositories/3/resources/1872</field>
+    <field name="collection_unitid_teim">MSS.386</field>
     <field name="series_sim">Series VII: Non-commercially Released Media</field>
     <field name="series_sim">Subseries A: Sound recordings</field>
     <field name="series_si">Series VII: Non-commercially Released Media &gt;&gt; Subseries A: Sound recordings &gt;&gt; "Piano"</field>

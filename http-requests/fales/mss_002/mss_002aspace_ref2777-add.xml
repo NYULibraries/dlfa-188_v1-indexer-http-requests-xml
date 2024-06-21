@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Elizabeth Robins Papers</field>
     <field name="collection_ssm">Elizabeth Robins Papers</field>
-    <field name="collection_unitid_ssm">MSS.002/repositories/3/resources/1587</field>
+    <field name="collection_unitid_ssm">MSS.002</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"At Home" Party [Henfield Echoes]</field>
     <field name="unittitle_teim">"At Home" Party [Henfield Echoes]</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 43, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 43, Folder: 3</field>
     <field name="collection_teim">Elizabeth Robins Papers</field>
-    <field name="collection_unitid_teim">MSS.002/repositories/3/resources/1587</field>
+    <field name="collection_unitid_teim">MSS.002</field>
     <field name="series_sim">Series II: General Correspondence</field>
     <field name="series_sim">Subseries C: Correspondence by Subject, 1900-1950</field>
     <field name="series_si">Series II: General Correspondence &gt;&gt; Subseries C: Correspondence by Subject, 1900-1950 &gt;&gt; "At Home" Party [Henfield Echoes]</field>

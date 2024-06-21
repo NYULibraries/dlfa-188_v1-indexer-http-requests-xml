@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Collective: Unconscious Archive</field>
     <field name="unittitle_ssm">Collective: Unconscious Archive</field>
     <field name="unitid_teim">MSS.225</field>
-    <field name="unitid_teim">/repositories/3/resources/1764</field>
     <field name="unitid_ssm">MSS.225</field>
-    <field name="unitid_ssm">/repositories/3/resources/1764</field>
     <field name="abstract_teim">Founded in 1995, Collective: Unconscious (C:U) was an experimental theater group strongly committed to the neighborhood of Manhattan's Lower East Side and its developing artists. Collective: Unconscious members staged dozens of their own productions at the group's home on Ludlow Street (and later on Church Street) and rented space to many other performers. As leaders of other performance groups, Collective members also involved Collective: Unconscious in many of the downtown cultural festivals of the 1990s and early 2000s, including the New York International Fringe Festival and the Downtown Arts Festival. The materials in the collection document the production and promotion of performances staged and hosted by the Collective and contains exhaustive documentation of the group's administrative functions and financial difficulties.</field>
     <field name="abstract_ssm">Founded in 1995, Collective: Unconscious (C:U) was an experimental theater group strongly committed to the neighborhood of Manhattan's Lower East Side and its developing artists. Collective: Unconscious members staged dozens of their own productions at the group's home on Ludlow Street (and later on Church Street) and rented space to many other performers. As leaders of other performance groups, Collective members also involved Collective: Unconscious in many of the downtown cultural festivals of the 1990s and early 2000s, including the New York International Fringe Festival and the Downtown Arts Festival. The materials in the collection document the production and promotion of performances staged and hosted by the Collective and contains exhaustive documentation of the group's administrative functions and financial difficulties.</field>
+    <field name="creator_teim">Collective:Unconscious</field>
+    <field name="creator_ssm">Collective:Unconscious</field>
+    <field name="creator_ssm">Collective:Unconscious</field>
     <field name="unitdate_normal_ssm">1994/2007</field>
     <field name="unitdate_normal_teim">1994/2007</field>
     <field name="unitdate_normal_sim">1994/2007</field>
@@ -85,6 +86,7 @@ Al Ramos and Charlie Victor Romeo by Bob Berger, Patrick Daniels, and Irving Gre
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Collective:Unconscious</field>
     <field name="name_sim">Collective:Unconscious</field>
     <field name="name_teim">Collective:Unconscious</field>
     <field name="subject_sim">Festivals.</field>

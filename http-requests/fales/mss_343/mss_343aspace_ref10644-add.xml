@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Exit Art Archive</field>
     <field name="collection_ssm">Exit Art Archive</field>
-    <field name="collection_unitid_ssm">MSS.343/repositories/3/resources/1844</field>
+    <field name="collection_unitid_ssm">MSS.343</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Exit Art Correspondence [3 of 3]</field>
     <field name="unittitle_teim">Exit Art Correspondence [3 of 3]</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 330, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 330, Folder: 1</field>
     <field name="collection_teim">Exit Art Archive</field>
-    <field name="collection_unitid_teim">MSS.343/repositories/3/resources/1844</field>
+    <field name="collection_unitid_teim">MSS.343</field>
     <field name="series_sim">Series II: Jeanette Ingberman Files</field>
     <field name="series_sim">Subseries C: Jeanette Ingberman Administrative Files</field>
     <field name="series_si">Series II: Jeanette Ingberman Files &gt;&gt; Subseries C: Jeanette Ingberman Administrative Files &gt;&gt; Exit Art Correspondence [3 of 3]</field>

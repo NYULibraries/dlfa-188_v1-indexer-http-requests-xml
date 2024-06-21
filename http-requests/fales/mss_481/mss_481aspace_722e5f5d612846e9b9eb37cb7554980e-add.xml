@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Bill Dixon Papers</field>
     <field name="collection_ssm">Bill Dixon Papers</field>
-    <field name="collection_unitid_ssm">MSS.481/repositories/3/resources/2376</field>
+    <field name="collection_unitid_ssm">MSS.481</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Metamorphosis I"</field>
     <field name="unittitle_teim">"Metamorphosis I"</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 18, Sound_Disc--Laquer: 481_1010</field>
-    <field name="location_ssm">Sound_Disc--Laquer: 481_1010</field>
-    <field name="location_si">Sound_Disc--Laquer: 481_1010</field>
+    <field name="location_si">Box: 18, Sound_Disc--Laquer: 481_1010</field>
     <field name="collection_teim">Bill Dixon Papers</field>
-    <field name="collection_unitid_teim">MSS.481/repositories/3/resources/2376</field>
+    <field name="collection_unitid_teim">MSS.481</field>
     <field name="series_sim">Series I. Music</field>
     <field name="series_sim">Subseries I.A: Commercial and Studio Recordings</field>
     <field name="series_si">Series I. Music &gt;&gt; Subseries I.A: Commercial and Studio Recordings &gt;&gt; "Metamorphosis I"</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Mary Beth Edelson Papers</field>
     <field name="collection_ssm">Mary Beth Edelson Papers</field>
-    <field name="collection_unitid_ssm">MSS.549/repositories/3/resources/2741</field>
+    <field name="collection_unitid_ssm">MSS.549</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Correspondence - Family</field>
     <field name="unittitle_teim">Correspondence - Family</field>
@@ -28,12 +28,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 85, Folder: 16-18</field>
-    <field name="location_ssm">Folder: 16-18</field>
     <field name="location_ssm">Box: 86, Folder: 1-2</field>
-    <field name="location_ssm">Folder: 1-2</field>
-    <field name="location_si">Folder: 1-2</field>
+    <field name="location_si">Box: 86, Folder: 1-2</field>
     <field name="collection_teim">Mary Beth Edelson Papers</field>
-    <field name="collection_unitid_teim">MSS.549/repositories/3/resources/2741</field>
+    <field name="collection_unitid_teim">MSS.549</field>
     <field name="series_sim">Series IV: Personal Materials</field>
     <field name="series_si">Series IV: Personal Materials &gt;&gt; Correspondence - Family</field>
     <field name="heading_ssm">Correspondence - Family</field>

@@ -11,6 +11,9 @@
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">New York Foundation for the Arts Blog</field>
     <field name="unittitle_teim">New York Foundation for the Arts Blog</field>
+    <field name="creator_teim">New York Foundation for the Arts</field>
+    <field name="creator_ssm">New York Foundation for the Arts</field>
+    <field name="creator_ssm">New York Foundation for the Arts</field>
     <field name="unitdate_normal_ssm">2020-10/2020-10</field>
     <field name="unitdate_normal_teim">2020-10/2020-10</field>
     <field name="unitdate_normal_sim">2020-10/2020-10</field>
@@ -28,6 +31,7 @@
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: Electronic Records</field>
     <field name="location_si">Box: Electronic Records</field>
+    <field name="creator_sim">New York Foundation for the Arts</field>
     <field name="name_sim">New York Foundation for the Arts</field>
     <field name="name_teim">New York Foundation for the Arts</field>
     <field name="dao_sim">Online Access</field>

@@ -18,7 +18,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Amos Poe Papers</field>
     <field name="collection_ssm">Amos Poe Papers</field>
-    <field name="collection_unitid_ssm">MSS.203/repositories/3/resources/1750</field>
+    <field name="collection_unitid_ssm">MSS.203</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Patti Smith -- [Negative, Space Raven]</field>
     <field name="unittitle_teim">Patti Smith -- [Negative, Space Raven]</field>
@@ -34,10 +34,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">shelf: Media, Media: ID: 203.0063</field>
-    <field name="location_ssm">Media: ID: 203.0063</field>
-    <field name="location_si">Media: ID: 203.0063</field>
+    <field name="location_si">shelf: Media, Media: ID: 203.0063</field>
     <field name="collection_teim">Amos Poe Papers</field>
-    <field name="collection_unitid_teim">MSS.203/repositories/3/resources/1750</field>
+    <field name="collection_unitid_teim">MSS.203</field>
     <field name="series_sim">Series VIII: Film
 </field>
     <field name="series_sim">Series VIII, Subseries B: Originals

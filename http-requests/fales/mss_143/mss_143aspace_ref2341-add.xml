@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Mix Collection</field>
     <field name="collection_ssm">The Mix Collection</field>
-    <field name="collection_unitid_ssm">MSS.143/repositories/3/resources/1706</field>
+    <field name="collection_unitid_ssm">MSS.143</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">&lt;strong&gt; Title: &lt;/strong&gt; Mike's Film</field>
     <field name="unittitle_teim"> Title:  Mike's Film</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 124, Folder: ID: 143.0843</field>
-    <field name="location_ssm">Folder: ID: 143.0843</field>
-    <field name="location_si">Folder: ID: 143.0843</field>
+    <field name="location_si">Box: 124, Folder: ID: 143.0843</field>
     <field name="collection_teim">The Mix Collection</field>
-    <field name="collection_unitid_teim">MSS.143/repositories/3/resources/1706</field>
+    <field name="collection_unitid_teim">MSS.143</field>
     <field name="series_sim">SERIES X: 1996</field>
     <field name="series_sim">Subseries G: Media</field>
     <field name="series_si">SERIES X: 1996 &gt;&gt; Subseries G: Media &gt;&gt; &lt;strong&gt; Title: &lt;/strong&gt; Mike's Film</field>

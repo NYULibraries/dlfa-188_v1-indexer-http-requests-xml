@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">JDub Records Archive</field>
     <field name="collection_ssm">JDub Records Archive</field>
-    <field name="collection_unitid_ssm">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_ssm">MSS.330</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Shavua Israeli (Israeli Week) - Matisyahu article [flat box]</field>
     <field name="unittitle_teim">Shavua Israeli (Israeli Week) - Matisyahu article [flat box]</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 6, Folder: 2</field>
-    <field name="location_ssm">Folder: 2</field>
-    <field name="location_si">Folder: 2</field>
+    <field name="location_si">Box: 6, Folder: 2</field>
     <field name="collection_teim">JDub Records Archive</field>
-    <field name="collection_unitid_teim">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_teim">MSS.330</field>
     <field name="series_sim">Series I: Press</field>
     <field name="series_si">Series I: Press &gt;&gt; Shavua Israeli (Israeli Week) - Matisyahu article [flat box]</field>
     <field name="heading_ssm">Shavua Israeli (Israeli Week) - Matisyahu article [flat box]</field>

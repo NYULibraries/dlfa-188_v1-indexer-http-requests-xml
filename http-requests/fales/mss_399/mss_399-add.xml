@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Bidoun Projects Archive</field>
     <field name="unittitle_ssm">Bidoun Projects Archive</field>
     <field name="unitid_teim">MSS.399</field>
-    <field name="unitid_teim">/repositories/3/resources/2667</field>
     <field name="unitid_ssm">MSS.399</field>
-    <field name="unitid_ssm">/repositories/3/resources/2667</field>
     <field name="abstract_teim">Bidoun is a non-profit organization dedicated to supporting and promoting arts and culture from the Middle East. Bidoun Projects, the curatorial branch of the Bidoun organization, commissions and manages artists' projects, exhibitions, and events. The Bidoun Projects Archive contains promotional material, printed ephemera, and publications created by Bidoun Projects. Materials date from 2009 to 2012.</field>
     <field name="abstract_ssm">Bidoun is a non-profit organization dedicated to supporting and promoting arts and culture from the Middle East. Bidoun Projects, the curatorial branch of the Bidoun organization, commissions and manages artists' projects, exhibitions, and events. The Bidoun Projects Archive contains promotional material, printed ephemera, and publications created by Bidoun Projects. Materials date from 2009 to 2012.</field>
+    <field name="creator_teim">Bidoun Projects</field>
+    <field name="creator_ssm">Bidoun Projects</field>
+    <field name="creator_ssm">Bidoun Projects</field>
     <field name="unitdate_normal_ssm">2009/2012</field>
     <field name="unitdate_normal_teim">2009/2012</field>
     <field name="unitdate_normal_sim">2009/2012</field>
@@ -46,6 +47,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Bidoun Projects</field>
     <field name="name_sim">Bidoun Projects</field>
     <field name="name_teim">Bidoun Projects</field>
     <field name="subject_sim">Art -- Middle East.</field>

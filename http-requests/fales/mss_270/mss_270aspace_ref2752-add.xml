@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Public Art Fund Archive</field>
     <field name="collection_ssm">Public Art Fund Archive</field>
-    <field name="collection_unitid_ssm">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_ssm">MSS.270</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Wong, Martin - "Traffic Signs for the Hearing Impaired" - Stop</field>
     <field name="unittitle_teim">Wong, Martin - "Traffic Signs for the Hearing Impaired" - Stop</field>
@@ -34,10 +34,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 127, Item: MSS.270.cuid6048</field>
-    <field name="location_ssm">Item: MSS.270.cuid6048</field>
-    <field name="location_si">Item: MSS.270.cuid6048</field>
+    <field name="location_si">Box: 127, Item: MSS.270.cuid6048</field>
     <field name="collection_teim">Public Art Fund Archive</field>
-    <field name="collection_unitid_teim">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_teim">MSS.270</field>
     <field name="series_sim">Oversize Series VI: Project Files</field>
     <field name="series_si">Oversize Series VI: Project Files &gt;&gt; Wong, Martin - "Traffic Signs for the Hearing Impaired" - Stop</field>
     <field name="material_type_sim">Direction signs.</field>

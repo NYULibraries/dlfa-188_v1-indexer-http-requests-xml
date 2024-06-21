@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Homer L. Bartlett Medieval Manuscript Fragments</field>
     <field name="collection_ssm">Homer L. Bartlett Medieval Manuscript Fragments</field>
-    <field name="collection_unitid_ssm">MSS.535/repositories/3/resources/2656</field>
+    <field name="collection_unitid_ssm">MSS.535</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Item Numbers Identified</field>
     <field name="unittitle_teim">Item Numbers Identified</field>
@@ -28,11 +28,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 1, Folder: 1</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Homer L. Bartlett Medieval Manuscript Fragments</field>
-    <field name="collection_unitid_teim">MSS.535/repositories/3/resources/2656</field>
+    <field name="collection_unitid_teim">MSS.535</field>
     <field name="series_si">Item Numbers Identified</field>
     <field name="heading_ssm">Item Numbers Identified</field>
     <field name="unitdate_start_sim">1950</field>

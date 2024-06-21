@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Richard Kostelanetz Collection</field>
     <field name="collection_ssm">Richard Kostelanetz Collection</field>
-    <field name="collection_unitid_ssm">MSS.089/repositories/3/resources/1659</field>
+    <field name="collection_unitid_ssm">MSS.089</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">The Persistence of Hearing 1 audiocassette.</field>
     <field name="unittitle_teim">The Persistence of Hearing 1 audiocassette.</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 8, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
-    <field name="location_si">Folder: 6</field>
+    <field name="location_si">Box: 8, Folder: 6</field>
     <field name="collection_teim">Richard Kostelanetz Collection</field>
-    <field name="collection_unitid_teim">MSS.089/repositories/3/resources/1659</field>
+    <field name="collection_unitid_teim">MSS.089</field>
     <field name="series_sim">Series VII: Sound recordings</field>
     <field name="series_si">Series VII: Sound recordings &gt;&gt; The Persistence of Hearing 1 audiocassette.</field>
     <field name="heading_ssm">The Persistence of Hearing 1 audiocassette.</field>

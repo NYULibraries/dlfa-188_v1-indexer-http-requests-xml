@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Jack Smith Papers</field>
     <field name="collection_ssm">Jack Smith Papers</field>
-    <field name="collection_unitid_ssm">MSS.440/repositories/3/resources/1896</field>
+    <field name="collection_unitid_ssm">MSS.440</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Memorial invitation</field>
     <field name="unittitle_teim">Memorial invitation</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 8, Folder: 7</field>
-    <field name="location_ssm">Folder: 7</field>
-    <field name="location_si">Folder: 7</field>
+    <field name="location_si">Box: 8, Folder: 7</field>
     <field name="collection_teim">Jack Smith Papers</field>
-    <field name="collection_unitid_teim">MSS.440/repositories/3/resources/1896</field>
+    <field name="collection_unitid_teim">MSS.440</field>
     <field name="series_sim">Series V. Personal Items</field>
     <field name="series_si">Series V. Personal Items &gt;&gt; Memorial invitation</field>
     <field name="heading_ssm">Memorial invitation</field>

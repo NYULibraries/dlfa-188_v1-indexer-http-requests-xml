@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Deep Dish TV Records</field>
     <field name="collection_ssm">Deep Dish TV Records</field>
-    <field name="collection_unitid_ssm">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_ssm">MSS.312</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">&lt;em&gt;America Behind Bars&lt;/em&gt; -- Compilation Tapes</field>
     <field name="unittitle_teim">America Behind Bars -- Compilation Tapes</field>
@@ -29,12 +29,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 128, U-matic: 312_0575</field>
-    <field name="location_ssm">U-matic: 312_0575</field>
     <field name="location_ssm">Box: 145, MiniDV: 312_0744</field>
-    <field name="location_ssm">MiniDV: 312_0744</field>
-    <field name="location_si">MiniDV: 312_0744</field>
+    <field name="location_si">Box: 145, MiniDV: 312_0744</field>
     <field name="collection_teim">Deep Dish TV Records</field>
-    <field name="collection_unitid_teim">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_teim">MSS.312</field>
     <field name="series_sim">Series I. Video Productions</field>
     <field name="series_si">Series I. Video Productions &gt;&gt; &lt;em&gt;America Behind Bars&lt;/em&gt; -- Compilation Tapes</field>
     <field name="heading_ssm">America Behind Bars -- Compilation Tapes</field>

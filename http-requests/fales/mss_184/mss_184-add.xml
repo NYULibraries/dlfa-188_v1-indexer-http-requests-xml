@@ -6,11 +6,12 @@
     <field name="unittitle_teim">A.I.R. Gallery Archives</field>
     <field name="unittitle_ssm">A.I.R. Gallery Archives</field>
     <field name="unitid_teim">MSS.184</field>
-    <field name="unitid_teim">/repositories/3/resources/1738</field>
     <field name="unitid_ssm">MSS.184</field>
-    <field name="unitid_ssm">/repositories/3/resources/1738</field>
     <field name="abstract_teim">The A.I.R. (Artists in Residence, Inc.) Gallery, the first all-female artists' co-operative gallery in the United States, was founded at 97 Wooster St. in New York City in 1972. A.I.R.'s mission, as a fully artist-run, not-for-profit gallery, was to provide support and exhibition space to women artists. In addition to promoting artwork by female artists in the form of both solo and group exhibitions, A.I.R. has also held numerous workshops and lectures on relevant issues facing the women's artistic community. The Gallery boasts Nancy Spero, Mary Beth Edelson, Agnes Denes, Dotty Attie, Carolyn Martin and Ana Mendieta, among many others, as former members. The group has maintained a limited, application-only membership of twenty NYC artists since its inception. A.I.R. is currently located at 155 Plymouth Street in Brooklyn, New York.</field>
     <field name="abstract_ssm">The A.I.R. (Artists in Residence, Inc.) Gallery, the first all-female artists' co-operative gallery in the United States, was founded at 97 Wooster St. in New York City in 1972. A.I.R.'s mission, as a fully artist-run, not-for-profit gallery, was to provide support and exhibition space to women artists. In addition to promoting artwork by female artists in the form of both solo and group exhibitions, A.I.R. has also held numerous workshops and lectures on relevant issues facing the women's artistic community. The Gallery boasts Nancy Spero, Mary Beth Edelson, Agnes Denes, Dotty Attie, Carolyn Martin and Ana Mendieta, among many others, as former members. The group has maintained a limited, application-only membership of twenty NYC artists since its inception. A.I.R. is currently located at 155 Plymouth Street in Brooklyn, New York.</field>
+    <field name="creator_teim">A.I.R. Gallery (New York, N.Y.)</field>
+    <field name="creator_ssm">A.I.R. Gallery (New York, N.Y.)</field>
+    <field name="creator_ssm">A.I.R. Gallery (New York, N.Y.)</field>
     <field name="unitdate_normal_ssm">1972/2012</field>
     <field name="unitdate_normal_teim">1972/2012</field>
     <field name="unitdate_normal_sim">1972/2012</field>
@@ -270,6 +271,7 @@ Subseries A. A-0 PHOTO</field>
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">A.I.R. Gallery (New York, N.Y.)</field>
     <field name="name_sim">A.I.R. Gallery (New York, N.Y.)</field>
     <field name="name_sim">ARC Gallery</field>
     <field name="name_sim">P.S. 1 Contemporary Art Center</field>

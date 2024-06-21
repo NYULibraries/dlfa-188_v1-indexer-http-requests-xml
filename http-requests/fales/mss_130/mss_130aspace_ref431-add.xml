@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Liederkranz Collection</field>
     <field name="collection_ssm">Liederkranz Collection</field>
-    <field name="collection_unitid_ssm">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_ssm">MSS.130</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"House Rules" sign from the Liederkranz Library.</field>
     <field name="unittitle_teim">"House Rules" sign from the Liederkranz Library.</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: II.A.21, Folder: 200</field>
-    <field name="location_ssm">Folder: 200</field>
-    <field name="location_si">Folder: 200</field>
+    <field name="location_si">Box: II.A.21, Folder: 200</field>
     <field name="collection_teim">Liederkranz Collection</field>
-    <field name="collection_unitid_teim">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_teim">MSS.130</field>
     <field name="series_sim">Series II: Liederkranz Produced/Obtained Documents/Objects</field>
     <field name="series_sim">Subseries A: Liederkranz Library Documents / Materials</field>
     <field name="series_si">Series II: Liederkranz Produced/Obtained Documents/Objects &gt;&gt; Subseries A: Liederkranz Library Documents / Materials &gt;&gt; "House Rules" sign from the Liederkranz Library.</field>

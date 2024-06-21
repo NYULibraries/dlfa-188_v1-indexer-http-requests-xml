@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Liederkranz Collection</field>
     <field name="collection_ssm">Liederkranz Collection</field>
-    <field name="collection_unitid_ssm">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_ssm">MSS.130</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Composer: Kalman, Emmerich
 
@@ -44,10 +44,9 @@ Plate Number: K. &amp; W. 350.</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 30, Folder: 358</field>
-    <field name="location_ssm">Folder: 358</field>
-    <field name="location_si">Folder: 358</field>
+    <field name="location_si">Box: 30, Folder: 358</field>
     <field name="collection_teim">Liederkranz Collection</field>
-    <field name="collection_unitid_teim">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_teim">MSS.130</field>
     <field name="series_sim">Series IV: Printed Sheet Music Collection</field>
     <field name="series_si">Series IV: Printed Sheet Music Collection &gt;&gt; Composer: Kalman, Emmerich
 

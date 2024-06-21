@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tommy Turner Film Collection</field>
     <field name="collection_ssm">Tommy Turner Film Collection</field>
-    <field name="collection_unitid_ssm">MSS.099/repositories/3/resources/1669</field>
+    <field name="collection_unitid_ssm">MSS.099</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Rat Trap</field>
     <field name="unittitle_teim">Rat Trap</field>
@@ -32,16 +32,14 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: Digitized Access Files, file: 099.0029</field>
-    <field name="location_ssm">file: 099.0029</field>
     <field name="location_ssm">Film: 099.0029 </field>
     <field name="location_ssm">Film: Preservation Color Internegative 099.0029_0 </field>
     <field name="location_ssm">Film: Preservation Negative Optical Soundtrack 099.0029_1</field>
     <field name="location_ssm">Film: Preservation Answer Print 099.0029_3</field>
     <field name="location_ssm">Box: Shared Fales 049, reel: 099.0029_2</field>
-    <field name="location_ssm">reel: 099.0029_2</field>
-    <field name="location_si">reel: 099.0029_2</field>
+    <field name="location_si">Box: Shared Fales 049, reel: 099.0029_2</field>
     <field name="collection_teim">Tommy Turner Film Collection</field>
-    <field name="collection_unitid_teim">MSS.099/repositories/3/resources/1669</field>
+    <field name="collection_unitid_teim">MSS.099</field>
     <field name="series_sim">Series I: Motion Picture Film and Video Recordings</field>
     <field name="series_si">Series I: Motion Picture Film and Video Recordings &gt;&gt; Rat Trap</field>
     <field name="heading_ssm">Rat Trap</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Public Art Fund Archive</field>
     <field name="collection_ssm">Public Art Fund Archive</field>
-    <field name="collection_unitid_ssm">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_ssm">MSS.270</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Incubator 2003</field>
     <field name="unittitle_teim">Incubator 2003</field>
@@ -29,10 +29,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 109, Media: ID: 270.3.0016</field>
-    <field name="location_ssm">Media: ID: 270.3.0016</field>
-    <field name="location_si">Media: ID: 270.3.0016</field>
+    <field name="location_si">Box: 109, Media: ID: 270.3.0016</field>
     <field name="collection_teim">Public Art Fund Archive</field>
-    <field name="collection_unitid_teim">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_teim">MSS.270</field>
     <field name="series_sim">Series XIII: Data Storage</field>
     <field name="series_si">Series XIII: Data Storage &gt;&gt; Incubator 2003</field>
     <field name="heading_ssm">Incubator 2003</field>

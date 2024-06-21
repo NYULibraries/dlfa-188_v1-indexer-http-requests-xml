@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Deep Dish TV Records</field>
     <field name="collection_ssm">Deep Dish TV Records</field>
-    <field name="collection_unitid_ssm">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_ssm">MSS.312</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Floristas" Third World Newsreel Workshop</field>
     <field name="unittitle_teim">"Floristas" Third World Newsreel Workshop</field>
@@ -29,12 +29,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 122, U-matic: 312_0511, 312_0512, 312_0513, 312_0514, 312_0515, 312_0516</field>
-    <field name="location_ssm">U-matic: 312_0511, 312_0512, 312_0513, 312_0514, 312_0515, 312_0516</field>
     <field name="location_ssm">Box: 123, U-matic: 312_0515, 312_0517</field>
-    <field name="location_ssm">U-matic: 312_0515, 312_0517</field>
-    <field name="location_si">U-matic: 312_0515, 312_0517</field>
+    <field name="location_si">Box: 123, U-matic: 312_0515, 312_0517</field>
     <field name="collection_teim">Deep Dish TV Records</field>
-    <field name="collection_unitid_teim">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_teim">MSS.312</field>
     <field name="series_sim">Series III. Events</field>
     <field name="series_si">Series III. Events &gt;&gt; "Floristas" Third World Newsreel Workshop</field>
     <field name="heading_ssm">"Floristas" Third World Newsreel Workshop</field>

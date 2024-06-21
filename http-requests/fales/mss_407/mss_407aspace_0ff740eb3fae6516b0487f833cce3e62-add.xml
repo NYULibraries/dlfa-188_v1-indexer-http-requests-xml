@@ -41,14 +41,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 10</field>
-    <field name="location_ssm">Folder: 10</field>
     <field name="location_ssm">Box: 12, Video: 407.0004, 407.0018, 407.0014</field>
-    <field name="location_ssm">Video: 407.0004, 407.0018, 407.0014</field>
     <field name="location_ssm">Box: 13, Video: 407.0020, 407.0021, 407.0022</field>
-    <field name="location_ssm">Video: 407.0020, 407.0021, 407.0022</field>
     <field name="location_ssm">Box: 14, audiocassette: 407.0052</field>
-    <field name="location_ssm">audiocassette: 407.0052</field>
-    <field name="location_si">audiocassette: 407.0052</field>
+    <field name="location_si">Box: 14, audiocassette: 407.0052</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Alva Rogers Papers</field>
     <field name="collection_unitid_teim">MSS.407</field>

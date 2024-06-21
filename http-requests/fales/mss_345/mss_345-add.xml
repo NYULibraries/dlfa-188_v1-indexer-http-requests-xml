@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MSS.345</field>
     <field name="abstract_teim">The Larry Miller Fluxus Collection contains photographs and ephemera related to Flux-Tours conducted by Larry Miller.</field>
     <field name="abstract_ssm">The Larry Miller Fluxus Collection contains photographs and ephemera related to Flux-Tours conducted by Larry Miller.</field>
+    <field name="creator_teim">Miller, Larry</field>
+    <field name="creator_ssm">Miller, Larry</field>
+    <field name="creator_ssm">Miller, Larry</field>
     <field name="unitdate_normal_ssm">1976/2011</field>
     <field name="unitdate_normal_teim">1976/2011</field>
     <field name="unitdate_normal_sim">1976/2011</field>
@@ -51,6 +54,7 @@ Source:</field>
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Miller, Larry</field>
     <field name="name_sim">Grey Art Gallery &amp; Study Center</field>
     <field name="name_sim">Miller, Larry</field>
     <field name="name_teim">Grey Art Gallery &amp; Study Center</field>

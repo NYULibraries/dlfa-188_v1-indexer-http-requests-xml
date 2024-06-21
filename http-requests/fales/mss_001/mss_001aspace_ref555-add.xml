@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fales Manuscript Collection</field>
     <field name="collection_ssm">Fales Manuscript Collection</field>
-    <field name="collection_unitid_ssm">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_ssm">MSS.001</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Burnett, Frances Hodgson (1849-1924) : 6 letters, 1 will, 2 autographs, 1 envelope</field>
     <field name="unittitle_teim">Burnett, Frances Hodgson (1849-1924) : 6 letters, 1 will, 2 autographs, 1 envelope</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 22.5, Folder: 5</field>
-    <field name="location_ssm">Folder: 5</field>
-    <field name="location_si">Folder: 5</field>
+    <field name="location_si">Box: 22.5, Folder: 5</field>
     <field name="collection_teim">Fales Manuscript Collection</field>
-    <field name="collection_unitid_teim">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_teim">MSS.001</field>
     <field name="series_sim">Letter sized boxes</field>
     <field name="series_si">Letter sized boxes &gt;&gt; Burnett, Frances Hodgson (1849-1924) : 6 letters, 1 will, 2 autographs, 1 envelope</field>
     <field name="heading_ssm">Burnett, Frances Hodgson (1849-1924) : 6 letters, 1 will, 2 autographs, 1 envelope</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Gay Cable Network Archives</field>
     <field name="collection_ssm">Gay Cable Network Archives</field>
-    <field name="collection_unitid_ssm">MSS.231/repositories/3/resources/1767</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Gay USA, Vol. XVIII, Episode No. 31 [Air date: 8/3/2000]</field>
     <field name="unittitle_teim">Gay USA, Vol. XVIII, Episode No. 31 [Air date: 8/3/2000]</field>
@@ -35,11 +35,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 33, Media: ID: 231.0519</field>
-    <field name="location_ssm">Media: ID: 231.0519</field>
-    <field name="location_si">Media: ID: 231.0519</field>
+    <field name="location_si">Box: 33, Media: ID: 231.0519</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Gay Cable Network Archives</field>
-    <field name="collection_unitid_teim">MSS.231/repositories/3/resources/1767</field>
+    <field name="collection_unitid_teim">MSS.231</field>
     <field name="series_sim">Series XI: Gay USA</field>
     <field name="series_sim">2000 Vol. XVIII </field>
     <field name="series_si">Series XI: Gay USA &gt;&gt; 2000 Vol. XVIII  &gt;&gt; Gay USA, Vol. XVIII, Episode No. 31 [Air date: 8/3/2000]</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Fales Manuscript Collection</field>
     <field name="unittitle_ssm">Fales Manuscript Collection</field>
     <field name="unitid_teim">MSS.001</field>
-    <field name="unitid_teim">/repositories/3/resources/1586</field>
     <field name="unitid_ssm">MSS.001</field>
-    <field name="unitid_ssm">/repositories/3/resources/1586</field>
     <field name="abstract_teim">The Fales Manuscript collection is made up of some 50,000 items, much of which was assembled by DeCoursey Fales from 1908-1966 and donated to NYU. The provenance of the materials is complicated, however. Following Fales' death in 1966, other collections and purchases were added into the Fales Manuscripts collection. We do not have a comprehensive listing of what Fales owned and what the library later purchased after his death. The collection consists of correspondence, manuscripts, drawings, photographs, realia, ephemera, and other materials primarily about English and American authors from 1700 to the present. There are special strenths in the Victorian, Edwardian, English 1890s, and Transition Period writers.</field>
     <field name="abstract_ssm">The Fales Manuscript collection is made up of some 50,000 items, much of which was assembled by DeCoursey Fales from 1908-1966 and donated to NYU. The provenance of the materials is complicated, however. Following Fales' death in 1966, other collections and purchases were added into the Fales Manuscripts collection. We do not have a comprehensive listing of what Fales owned and what the library later purchased after his death. The collection consists of correspondence, manuscripts, drawings, photographs, realia, ephemera, and other materials primarily about English and American authors from 1700 to the present. There are special strenths in the Victorian, Edwardian, English 1890s, and Transition Period writers.</field>
+    <field name="creator_teim">Fales, DeCoursey, 1888-1966</field>
+    <field name="creator_ssm">Fales, DeCoursey, 1888-1966</field>
+    <field name="creator_ssm">Fales, DeCoursey, 1888-1966</field>
     <field name="unitdate_normal_ssm">1690/2000</field>
     <field name="unitdate_normal_teim">1690/2000</field>
     <field name="unitdate_normal_sim">1690/2000</field>
@@ -242,6 +243,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Fales, DeCoursey, 1888-1966</field>
     <field name="name_sim">Provincetown Players</field>
     <field name="name_sim">Fales, DeCoursey, 1888-1966</field>
     <field name="name_sim">De la Mare, Walter, 1873-1956</field>

@@ -17,7 +17,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Erich Maria Remarque Papers</field>
     <field name="collection_ssm">Erich Maria Remarque Papers</field>
-    <field name="collection_unitid_ssm">MSS.095/repositories/3/resources/1665</field>
+    <field name="collection_unitid_ssm">MSS.095</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Zurcher Woche" [German language newspaper] - with excerpt from "Geborgtes Leben"</field>
     <field name="unittitle_teim">"Zurcher Woche" [German language newspaper] - with excerpt from "Geborgtes Leben"</field>
@@ -34,10 +34,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 49, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 49, Folder: 3</field>
     <field name="collection_teim">Erich Maria Remarque Papers</field>
-    <field name="collection_unitid_teim">MSS.095/repositories/3/resources/1665</field>
+    <field name="collection_unitid_teim">MSS.095</field>
     <field name="series_sim">2003 Accretion </field>
     <field name="series_sim">OVERSIZE Series I: Literary properties</field>
     <field name="series_sim">Subseries D: Heaven has no favorites</field>

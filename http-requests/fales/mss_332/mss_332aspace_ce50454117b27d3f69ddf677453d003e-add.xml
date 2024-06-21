@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Jim Neu Papers</field>
     <field name="collection_ssm">Jim Neu Papers</field>
-    <field name="collection_unitid_ssm">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_ssm">MSS.332</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">
       &lt;em&gt;Basic Behavior&lt;/em&gt;
@@ -32,21 +32,15 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 10-11</field>
-    <field name="location_ssm">Folder: 10-11</field>
     <field name="location_ssm">Box: 2, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
     <field name="location_ssm">Box: 26, audiocassette: 332.0006, 332.0151</field>
-    <field name="location_ssm">audiocassette: 332.0006, 332.0151</field>
     <field name="location_ssm">Box: 32, VHS: 332.0234, 332.0263</field>
-    <field name="location_ssm">VHS: 332.0234, 332.0263</field>
     <field name="location_ssm">Box: Shared Fales 043, Folder: 16</field>
-    <field name="location_ssm">Folder: 16</field>
     <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_332_ER_3</field>
-    <field name="location_ssm">E-records: FA_MSS_332_ER_3</field>
-    <field name="location_si">E-records: FA_MSS_332_ER_3</field>
+    <field name="location_si">Box: Electronic Records, E-records: FA_MSS_332_ER_3</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Jim Neu Papers</field>
-    <field name="collection_unitid_teim">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_teim">MSS.332</field>
     <field name="series_si">
       &lt;em&gt;Basic Behavior&lt;/em&gt;
     </field>

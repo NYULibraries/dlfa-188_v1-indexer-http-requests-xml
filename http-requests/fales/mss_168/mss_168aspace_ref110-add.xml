@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Gary Indiana Papers</field>
     <field name="collection_ssm">Gary Indiana Papers</field>
-    <field name="collection_unitid_ssm">MSS.168/repositories/3/resources/1726</field>
+    <field name="collection_unitid_ssm">MSS.168</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">"Collage Book 1982"</field>
     <field name="unittitle_teim">"Collage Book 1982"</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 85</field>
-    <field name="location_ssm">Folder: 85</field>
-    <field name="location_si">Folder: 85</field>
+    <field name="location_si">Box: 3, Folder: 85</field>
     <field name="collection_teim">Gary Indiana Papers</field>
-    <field name="collection_unitid_teim">MSS.168/repositories/3/resources/1726</field>
+    <field name="collection_unitid_teim">MSS.168</field>
     <field name="series_sim">Series II: Journals</field>
     <field name="series_sim">Subseries B: Collage Notebooks and Sketchbooks</field>
     <field name="series_si">Series II: Journals &gt;&gt; Subseries B: Collage Notebooks and Sketchbooks &gt;&gt; "Collage Book 1982"</field>

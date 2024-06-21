@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Fales Library Collection of Publishers Galleys</field>
     <field name="unittitle_ssm">Fales Library Collection of Publishers Galleys</field>
     <field name="unitid_teim">MSS.553</field>
-    <field name="unitid_teim">/repositories/3/resources/2748</field>
     <field name="unitid_ssm">MSS.553</field>
-    <field name="unitid_ssm">/repositories/3/resources/2748</field>
     <field name="abstract_teim">This collection includes galleys for books and journals. It was assembled by the Fales Library and Special Collections.</field>
     <field name="abstract_ssm">This collection includes galleys for books and journals. It was assembled by the Fales Library and Special Collections.</field>
+    <field name="creator_teim">Fales Library</field>
+    <field name="creator_ssm">Fales Library</field>
+    <field name="creator_ssm">Fales Library</field>
     <field name="unitdate_normal_ssm">1860/1969</field>
     <field name="unitdate_normal_teim">1860/1969</field>
     <field name="unitdate_normal_sim">1860/1969</field>
@@ -38,6 +39,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Fales Library</field>
     <field name="name_sim">Fales Library</field>
     <field name="name_teim">Fales Library</field>
     <field name="subject_sim">Literature publishing.</field>

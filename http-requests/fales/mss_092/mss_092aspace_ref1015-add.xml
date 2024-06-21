@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">David Wojnarowicz Papers</field>
     <field name="collection_ssm">David Wojnarowicz Papers</field>
-    <field name="collection_unitid_ssm">MSS.092/repositories/3/resources/1662</field>
+    <field name="collection_unitid_ssm">MSS.092</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Envelope 14: Pier graffiti</field>
     <field name="unittitle_teim">Envelope 14: Pier graffiti</field>
@@ -32,11 +32,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 31, Folder: 14</field>
-    <field name="location_ssm">Folder: 14</field>
-    <field name="location_si">Folder: 14</field>
+    <field name="location_si">Box: 31, Folder: 14</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">David Wojnarowicz Papers</field>
-    <field name="collection_unitid_teim">MSS.092/repositories/3/resources/1662</field>
+    <field name="collection_unitid_teim">MSS.092</field>
     <field name="series_sim">Series IX: Photography</field>
     <field name="series_sim">Subseries A[2]: Contact Sheets</field>
     <field name="series_si">Series IX: Photography &gt;&gt; Subseries A[2]: Contact Sheets &gt;&gt; Envelope 14: Pier graffiti</field>

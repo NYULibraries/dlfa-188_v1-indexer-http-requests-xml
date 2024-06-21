@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Paper Tiger Television Archive</field>
     <field name="collection_ssm">The Paper Tiger Television Archive</field>
-    <field name="collection_unitid_ssm">MSS.276/repositories/3/resources/1800</field>
+    <field name="collection_unitid_ssm">MSS.276</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">PTTV retreat in Willow, NY</field>
     <field name="unittitle_teim">PTTV retreat in Willow, NY</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, Folder: 40</field>
-    <field name="location_ssm">Folder: 40</field>
-    <field name="location_si">Folder: 40</field>
+    <field name="location_si">Box: 4, Folder: 40</field>
     <field name="collection_teim">The Paper Tiger Television Archive</field>
-    <field name="collection_unitid_teim">MSS.276/repositories/3/resources/1800</field>
+    <field name="collection_unitid_teim">MSS.276</field>
     <field name="series_sim">Series I: Administrative Files</field>
     <field name="series_si">Series I: Administrative Files &gt;&gt; PTTV retreat in Willow, NY</field>
     <field name="heading_ssm">PTTV retreat in Willow, NY</field>

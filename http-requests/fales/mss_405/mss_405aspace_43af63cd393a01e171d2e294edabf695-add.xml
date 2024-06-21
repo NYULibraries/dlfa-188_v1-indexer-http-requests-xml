@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Larry Polansky Papers</field>
     <field name="collection_ssm">Larry Polansky Papers</field>
-    <field name="collection_unitid_ssm">MSS.405/repositories/3/resources/2342</field>
+    <field name="collection_unitid_ssm">MSS.405</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">#562 and #563 -- New Music Editions from Lou Harrison</field>
     <field name="unittitle_teim">#562 and #563 -- New Music Editions from Lou Harrison</field>
@@ -31,12 +31,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 92, Cassette: 562, 563</field>
-    <field name="location_ssm">Cassette: 562, 563</field>
     <field name="location_ssm">Box: Digitized Access Files, file: MSS.405_cuid25935A, MSS.405_cuid25935B</field>
-    <field name="location_ssm">file: MSS.405_cuid25935A, MSS.405_cuid25935B</field>
-    <field name="location_si">file: MSS.405_cuid25935A, MSS.405_cuid25935B</field>
+    <field name="location_si">Box: Digitized Access Files, file: MSS.405_cuid25935A, MSS.405_cuid25935B</field>
     <field name="collection_teim">Larry Polansky Papers</field>
-    <field name="collection_unitid_teim">MSS.405/repositories/3/resources/2342</field>
+    <field name="collection_unitid_teim">MSS.405</field>
     <field name="series_sim">Series VI. Personal</field>
     <field name="series_sim">Audiocassette Collection -- #452-633</field>
     <field name="series_si">Series VI. Personal &gt;&gt; Audiocassette Collection -- #452-633 &gt;&gt; #562 and #563 -- New Music Editions from Lou Harrison</field>

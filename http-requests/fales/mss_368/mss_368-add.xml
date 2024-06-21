@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
     <field name="unittitle_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
     <field name="unitid_teim">MSS.368</field>
-    <field name="unitid_teim">/repositories/3/resources/1861</field>
     <field name="unitid_ssm">MSS.368</field>
-    <field name="unitid_ssm">/repositories/3/resources/1861</field>
     <field name="abstract_teim">The Lindseth Collection of Alice in Wonderland Ephemera comprises toys, auction catalogs, games, housewares, dolls, posters, books, vinyl sound discs and art relating to Alice in Wonderland collected by Dr. Lall Montgomery. This collection documents Alice in Wonderland in American popular culture.</field>
     <field name="abstract_ssm">The Lindseth Collection of Alice in Wonderland Ephemera comprises toys, auction catalogs, games, housewares, dolls, posters, books, vinyl sound discs and art relating to Alice in Wonderland collected by Dr. Lall Montgomery. This collection documents Alice in Wonderland in American popular culture.</field>
+    <field name="creator_teim">Montgomery, Lall G.</field>
+    <field name="creator_ssm">Montgomery, Lall G.</field>
+    <field name="creator_ssm">Montgomery, Lall G.</field>
     <field name="unitdate_normal_ssm">1900/2015</field>
     <field name="unitdate_normal_ssm">1930/1970</field>
     <field name="unitdate_normal_teim">1900/2015</field>
@@ -77,6 +78,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Montgomery, Lall G.</field>
     <field name="name_sim">Montgomery, Lall G.</field>
     <field name="name_sim">Carroll, Lewis, 1832-1898</field>
     <field name="name_teim">Montgomery, Lall G.</field>

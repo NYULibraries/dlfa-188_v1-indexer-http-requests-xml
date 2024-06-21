@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Martin Wong Papers</field>
     <field name="collection_ssm">Martin Wong Papers</field>
-    <field name="collection_unitid_ssm">MSS.102/repositories/3/resources/1672</field>
+    <field name="collection_unitid_ssm">MSS.102</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Stephen, R.J. Fire Engines. New York: Franklin Watts, 1986</field>
     <field name="unittitle_teim">Stephen, R.J. Fire Engines. New York: Franklin Watts, 1986</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 25, Folder: 86</field>
-    <field name="location_ssm">Folder: 86</field>
-    <field name="location_si">Folder: 86</field>
+    <field name="location_si">Box: 25, Folder: 86</field>
     <field name="collection_teim">Martin Wong Papers</field>
-    <field name="collection_unitid_teim">MSS.102/repositories/3/resources/1672</field>
+    <field name="collection_unitid_teim">MSS.102</field>
     <field name="series_sim">Series VII: Personal Library</field>
     <field name="series_si">Series VII: Personal Library &gt;&gt; Stephen, R.J. Fire Engines. New York: Franklin Watts, 1986</field>
     <field name="heading_ssm">Stephen, R.J. Fire Engines. New York: Franklin Watts, 1986</field>

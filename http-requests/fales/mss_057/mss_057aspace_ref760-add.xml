@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Alfred C. Berol Collection of Lewis Carroll</field>
     <field name="collection_ssm">Alfred C. Berol Collection of Lewis Carroll</field>
-    <field name="collection_unitid_ssm">MSS.057/repositories/3/resources/1640</field>
+    <field name="collection_unitid_ssm">MSS.057</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Unknown Gold Watch Marked on back of works "examined by A.S. Bach, 40, Great Russel St., London W.C." Inscribed on inside "Menella from C.L.D. 1888".</field>
     <field name="unittitle_teim">Unknown Gold Watch Marked on back of works "examined by A.S. Bach, 40, Great Russel St., London W.C." Inscribed on inside "Menella from C.L.D. 1888".</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 10, Folder: Vault</field>
-    <field name="location_ssm">Folder: Vault</field>
-    <field name="location_si">Folder: Vault</field>
+    <field name="location_si">Box: 10, Folder: Vault</field>
     <field name="collection_teim">Alfred C. Berol Collection of Lewis Carroll</field>
-    <field name="collection_unitid_teim">MSS.057/repositories/3/resources/1640</field>
+    <field name="collection_unitid_teim">MSS.057</field>
     <field name="series_sim">Series 5: Related Materials.</field>
     <field name="series_sim">Subseries 5C:Ephemera.</field>
     <field name="series_si">Series 5: Related Materials. &gt;&gt; Subseries 5C:Ephemera. &gt;&gt; Unknown Gold Watch Marked on back of works "examined by A.S. Bach, 40, Great Russel St., London W.C." Inscribed on inside "Menella from C.L.D. 1888".</field>

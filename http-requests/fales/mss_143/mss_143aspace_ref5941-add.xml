@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Mix Collection</field>
     <field name="collection_ssm">The Mix Collection</field>
-    <field name="collection_unitid_ssm">MSS.143/repositories/3/resources/1706</field>
+    <field name="collection_unitid_ssm">MSS.143</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">The Arousing Adventures of Sailor Boy</field>
     <field name="unittitle_teim">The Arousing Adventures of Sailor Boy</field>
@@ -36,10 +36,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 89, Media: ID: 143.1939</field>
-    <field name="location_ssm">Media: ID: 143.1939</field>
-    <field name="location_si">Media: ID: 143.1939</field>
+    <field name="location_si">Box: 89, Media: ID: 143.1939</field>
     <field name="collection_teim">The Mix Collection</field>
-    <field name="collection_unitid_teim">MSS.143/repositories/3/resources/1706</field>
+    <field name="collection_unitid_teim">MSS.143</field>
     <field name="series_sim">ACCRETION 2009 - Series XXII: 2006</field>
     <field name="series_sim">Subseries G: Media</field>
     <field name="series_si">ACCRETION 2009 - Series XXII: 2006 &gt;&gt; Subseries G: Media &gt;&gt; The Arousing Adventures of Sailor Boy</field>

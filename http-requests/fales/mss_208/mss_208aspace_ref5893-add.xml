@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sylvester Manor Archive</field>
     <field name="collection_ssm">Sylvester Manor Archive</field>
-    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Sylvester Family Documents [Reproductions, Originals 17th &amp;amp; 18th Centuries]</field>
     <field name="unittitle_teim">Sylvester Family Documents [Reproductions, Originals 17th &amp; 18th Centuries]</field>
@@ -35,11 +35,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 131, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 131, Folder: 3</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Sylvester Manor Archive</field>
-    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_teim">MSS.208</field>
     <field name="series_sim">Record Group V: Fiske Family</field>
     <field name="series_sim">Fiske: Oversize</field>
     <field name="series_si">Record Group V: Fiske Family &gt;&gt; Fiske: Oversize &gt;&gt; Sylvester Family Documents [Reproductions, Originals 17th &amp;amp; 18th Centuries]</field>

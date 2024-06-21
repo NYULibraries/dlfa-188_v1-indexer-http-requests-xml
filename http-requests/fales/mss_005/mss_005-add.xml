@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Beach Archive</field>
     <field name="unittitle_ssm">Beach Archive</field>
     <field name="unitid_teim">MSS.005</field>
-    <field name="unitid_teim">/repositories/3/resources/1590</field>
     <field name="unitid_ssm">MSS.005</field>
-    <field name="unitid_ssm">/repositories/3/resources/1590</field>
     <field name="abstract_teim">The Beach Archive is a collection of correspondence and manuscripts submitted to the editors of Beach Books, Claude Pelieu and Mary Beach, between 1962 and 1973. Collection highlights include manuscripts and letters written by Carl Solomon, Allen Ginsberg, Allen de Loach, Gregory Corso, Lawrence Ferlinghetti, John Giorno, Timothy Leary, and Peter Orlovsky.</field>
     <field name="abstract_ssm">The Beach Archive is a collection of correspondence and manuscripts submitted to the editors of Beach Books, Claude Pelieu and Mary Beach, between 1962 and 1973. Collection highlights include manuscripts and letters written by Carl Solomon, Allen Ginsberg, Allen de Loach, Gregory Corso, Lawrence Ferlinghetti, John Giorno, Timothy Leary, and Peter Orlovsky.</field>
+    <field name="creator_teim">Beach Books</field>
+    <field name="creator_ssm">Beach Books</field>
+    <field name="creator_ssm">Beach Books</field>
     <field name="unitdate_normal_ssm">1962/1973</field>
     <field name="unitdate_normal_teim">1962/1973</field>
     <field name="unitdate_normal_sim">1962/1973</field>
@@ -80,6 +81,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Beach Books</field>
     <field name="name_sim">Beach Books</field>
     <field name="name_sim">Giorno, John</field>
     <field name="name_sim">Pélieu, Claude</field>

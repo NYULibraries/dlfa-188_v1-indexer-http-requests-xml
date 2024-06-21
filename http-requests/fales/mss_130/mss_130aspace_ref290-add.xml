@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Liederkranz Collection</field>
     <field name="collection_ssm">Liederkranz Collection</field>
-    <field name="collection_unitid_ssm">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_ssm">MSS.130</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Arion's Liederkranz für den Männergesang-Verein Arion von New York," ed. by Dr. L. Damrosch, choral (TTBB) part books (2 each).</field>
     <field name="unittitle_teim">"Arion's Liederkranz für den Männergesang-Verein Arion von New York," ed. by Dr. L. Damrosch, choral (TTBB) part books (2 each).</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: I.D.17, Folder: 132</field>
-    <field name="location_ssm">Folder: 132</field>
-    <field name="location_si">Folder: 132</field>
+    <field name="location_si">Box: I.D.17, Folder: 132</field>
     <field name="collection_teim">Liederkranz Collection</field>
-    <field name="collection_unitid_teim">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_teim">MSS.130</field>
     <field name="series_sim">Series I: Music</field>
     <field name="series_sim">Subseries D: Music - Choral Collections</field>
     <field name="series_si">Series I: Music &gt;&gt; Subseries D: Music - Choral Collections &gt;&gt; "Arion's Liederkranz für den Männergesang-Verein Arion von New York," ed. by Dr. L. Damrosch, choral (TTBB) part books (2 each).</field>

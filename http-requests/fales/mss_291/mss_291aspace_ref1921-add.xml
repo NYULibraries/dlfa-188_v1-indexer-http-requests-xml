@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Artists Space Archive</field>
     <field name="collection_ssm">Artists Space Archive</field>
-    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_ssm">MSS.291</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Exhibiting Artists Lists, 1988-1997</field>
     <field name="unittitle_teim">Exhibiting Artists Lists, 1988-1997</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 109, Folder: 17</field>
-    <field name="location_ssm">Folder: 17</field>
-    <field name="location_si">Folder: 17</field>
+    <field name="location_si">Box: 109, Folder: 17</field>
     <field name="collection_teim">Artists Space Archive</field>
-    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_teim">MSS.291</field>
     <field name="series_sim">Series IV: Book Files</field>
     <field name="series_si">Series IV: Book Files &gt;&gt; Exhibiting Artists Lists, 1988-1997</field>
     <field name="heading_ssm">Exhibiting Artists Lists, 1988-1997</field>

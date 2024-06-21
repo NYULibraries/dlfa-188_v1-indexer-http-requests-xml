@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
     <field name="collection_ssm">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
-    <field name="collection_unitid_ssm">MSS.121/repositories/3/resources/1686</field>
+    <field name="collection_unitid_ssm">MSS.121</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">David Cale touring info, contracts</field>
     <field name="unittitle_teim">David Cale touring info, contracts</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 47, Folder: 5</field>
-    <field name="location_ssm">Folder: 5</field>
-    <field name="location_si">Folder: 5</field>
+    <field name="location_si">Box: 47, Folder: 5</field>
     <field name="collection_teim">Mark Hall Amitin/ World of Culture for the Performing Arts, Inc. Archive</field>
-    <field name="collection_unitid_teim">MSS.121/repositories/3/resources/1686</field>
+    <field name="collection_unitid_teim">MSS.121</field>
     <field name="series_sim">Series IV: World of Culture</field>
     <field name="series_si">Series IV: World of Culture &gt;&gt; David Cale touring info, contracts</field>
     <field name="heading_ssm">David Cale touring info, contracts</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Erich Maria Remarque Papers</field>
     <field name="unittitle_ssm">Erich Maria Remarque Papers</field>
     <field name="unitid_teim">MSS.095</field>
-    <field name="unitid_teim">/repositories/3/resources/1665</field>
     <field name="unitid_ssm">MSS.095</field>
-    <field name="unitid_ssm">/repositories/3/resources/1665</field>
     <field name="abstract_teim">Erich Maria Remarque (1898-1970) was a German-born novelist and screenwriter, best known for All Quiet On the Western Front. The collection contains manuscripts and articles written by Remarque, correspondence, personal documents, photographs, clippings, and memorabilia. The collection also includes some materials created by his wife Paulette Goddard.</field>
     <field name="abstract_ssm">Erich Maria Remarque (1898-1970) was a German-born novelist and screenwriter, best known for All Quiet On the Western Front. The collection contains manuscripts and articles written by Remarque, correspondence, personal documents, photographs, clippings, and memorabilia. The collection also includes some materials created by his wife Paulette Goddard.</field>
+    <field name="creator_teim">Remarque, Erich Maria, 1898-1970</field>
+    <field name="creator_ssm">Remarque, Erich Maria, 1898-1970</field>
+    <field name="creator_ssm">Remarque, Erich Maria, 1898-1970</field>
     <field name="unitdate_normal_ssm">1893/1990</field>
     <field name="unitdate_normal_teim">1893/1990</field>
     <field name="unitdate_normal_sim">1893/1990</field>
@@ -196,6 +197,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Remarque, Erich Maria, 1898-1970</field>
     <field name="name_sim">Remarque, Erich Maria, 1898-1970</field>
     <field name="name_sim">Goddard, Paulette, 1911-1990</field>
     <field name="name_sim">Pilpel, Harriet F.</field>

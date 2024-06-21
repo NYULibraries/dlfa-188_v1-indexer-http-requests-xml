@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sylvester Manor Archive</field>
     <field name="collection_ssm">Sylvester Manor Archive</field>
-    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Personal Correspondence</field>
     <field name="unittitle_teim">Personal Correspondence</field>
@@ -43,11 +43,10 @@ Addressed To: "Mrs. Mary Catherine L'Hommedieu Gardiner, ℅ Samuel Smith Gardin
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 54, Folder: 35</field>
-    <field name="location_ssm">Folder: 35</field>
-    <field name="location_si">Folder: 35</field>
+    <field name="location_si">Box: 54, Folder: 35</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Sylvester Manor Archive</field>
-    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_teim">MSS.208</field>
     <field name="series_sim">Record Group III: Gardiner Family</field>
     <field name="series_sim">Series B: Mary Catherine L'Hommedieu Gardiner</field>
     <field name="series_si">Record Group III: Gardiner Family &gt;&gt; Series B: Mary Catherine L'Hommedieu Gardiner &gt;&gt; Personal Correspondence</field>

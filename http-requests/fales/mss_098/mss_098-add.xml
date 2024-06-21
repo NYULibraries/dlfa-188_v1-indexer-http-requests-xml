@@ -9,6 +9,12 @@
     <field name="unitid_ssm">MSS.098</field>
     <field name="abstract_teim">The John Hall Papers include a small collection of letters from the artist, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz' with whom Hall remained close to up until Wojnarowicz' death in 1992.</field>
     <field name="abstract_ssm">The John Hall Papers include a small collection of letters from the artist, David Wojnarowicz to John Hall, a high school friend of Wojnarowicz' with whom Hall remained close to up until Wojnarowicz' death in 1992.</field>
+    <field name="creator_teim">Hall, John</field>
+    <field name="creator_teim">Wojnarowicz, David</field>
+    <field name="creator_ssm">Hall, John</field>
+    <field name="creator_ssm">Wojnarowicz, David</field>
+    <field name="creator_ssm">Hall, John</field>
+    <field name="creator_ssm">Wojnarowicz, David</field>
     <field name="unitdate_normal_ssm">1977/1978</field>
     <field name="unitdate_normal_teim">1977/1978</field>
     <field name="unitdate_normal_sim">1977/1978</field>
@@ -48,6 +54,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Hall, John</field>
+    <field name="creator_sim">Wojnarowicz, David</field>
     <field name="name_sim">Hall, John</field>
     <field name="name_sim">Wojnarowicz, David</field>
     <field name="name_teim">Hall, John</field>

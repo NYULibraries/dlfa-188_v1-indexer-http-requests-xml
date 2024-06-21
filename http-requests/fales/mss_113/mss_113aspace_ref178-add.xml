@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">REPOhistory Archive</field>
     <field name="collection_ssm">REPOhistory Archive</field>
-    <field name="collection_unitid_ssm">MSS.113/repositories/3/resources/1678</field>
+    <field name="collection_unitid_ssm">MSS.113</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">'Medicine' receipts</field>
     <field name="unittitle_teim">'Medicine' receipts</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 6, Folder: 11</field>
-    <field name="location_ssm">Folder: 11</field>
-    <field name="location_si">Folder: 11</field>
+    <field name="location_si">Box: 6, Folder: 11</field>
     <field name="collection_teim">REPOhistory Archive</field>
-    <field name="collection_unitid_teim">MSS.113/repositories/3/resources/1678</field>
+    <field name="collection_unitid_teim">MSS.113</field>
     <field name="series_sim">Series II: Projects</field>
     <field name="series_sim">Subseries B: Projects - Choice Histories</field>
     <field name="series_si">Series II: Projects &gt;&gt; Subseries B: Projects - Choice Histories &gt;&gt; 'Medicine' receipts</field>

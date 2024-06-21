@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Artists Space Archive</field>
     <field name="collection_ssm">Artists Space Archive</field>
-    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_ssm">MSS.291</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">The Mind/Body Problem: Iris Bernblum</field>
     <field name="unittitle_teim">The Mind/Body Problem: Iris Bernblum</field>
@@ -34,10 +34,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 243, Media: ID: 291.0092</field>
-    <field name="location_ssm">Media: ID: 291.0092</field>
-    <field name="location_si">Media: ID: 291.0092</field>
+    <field name="location_si">Box: 243, Media: ID: 291.0092</field>
     <field name="collection_teim">Artists Space Archive</field>
-    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_teim">MSS.291</field>
     <field name="series_sim">Series VIII: Media</field>
     <field name="series_sim">Subseries A: Sound recordings, video recordings, and films</field>
     <field name="series_si">Series VIII: Media &gt;&gt; Subseries A: Sound recordings, video recordings, and films &gt;&gt; The Mind/Body Problem: Iris Bernblum</field>

@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Jim Neu Papers</field>
     <field name="collection_ssm">Jim Neu Papers</field>
-    <field name="collection_unitid_ssm">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_ssm">MSS.332</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Rat Song</field>
     <field name="unittitle_teim">Rat Song</field>
@@ -25,13 +25,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 30, audiocassette: 332.0122</field>
-    <field name="location_ssm">audiocassette: 332.0122</field>
     <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_332_ER_27</field>
-    <field name="location_ssm">E-records: FA_MSS_332_ER_27</field>
-    <field name="location_si">E-records: FA_MSS_332_ER_27</field>
+    <field name="location_si">Box: Electronic Records, E-records: FA_MSS_332_ER_27</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Jim Neu Papers</field>
-    <field name="collection_unitid_teim">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_teim">MSS.332</field>
     <field name="series_si">Rat Song</field>
     <field name="heading_ssm">Rat Song</field>
     <field name="unitdate_ssm">undated</field>

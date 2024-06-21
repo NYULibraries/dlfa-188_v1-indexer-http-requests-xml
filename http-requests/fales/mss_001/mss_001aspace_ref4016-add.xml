@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fales Manuscript Collection</field>
     <field name="collection_ssm">Fales Manuscript Collection</field>
-    <field name="collection_unitid_ssm">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_ssm">MSS.001</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Train, Arthur (1875-1945) : [Bound MS.] The Moon Makers [w/Robert Williams Wood]</field>
     <field name="unittitle_teim">Train, Arthur (1875-1945) : [Bound MS.] The Moon Makers [w/Robert Williams Wood]</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 180.3.A, Folder: data_value_missing_947f0a141f93ab154ae2fdd7bbc6a255</field>
-    <field name="location_ssm">Folder: data_value_missing_947f0a141f93ab154ae2fdd7bbc6a255</field>
-    <field name="location_si">Folder: data_value_missing_947f0a141f93ab154ae2fdd7bbc6a255</field>
+    <field name="location_si">Box: 180.3.A, Folder: data_value_missing_947f0a141f93ab154ae2fdd7bbc6a255</field>
     <field name="collection_teim">Fales Manuscript Collection</field>
-    <field name="collection_unitid_teim">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_teim">MSS.001</field>
     <field name="series_sim">Letter sized boxes</field>
     <field name="series_si">Letter sized boxes &gt;&gt; Train, Arthur (1875-1945) : [Bound MS.] The Moon Makers [w/Robert Williams Wood]</field>
     <field name="heading_ssm">Train, Arthur (1875-1945) : [Bound MS.] The Moon Makers [w/Robert Williams Wood]</field>

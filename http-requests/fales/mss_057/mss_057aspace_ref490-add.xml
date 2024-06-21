@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Alfred C. Berol Collection of Lewis Carroll</field>
     <field name="collection_ssm">Alfred C. Berol Collection of Lewis Carroll</field>
-    <field name="collection_unitid_ssm">MSS.057/repositories/3/resources/1640</field>
+    <field name="collection_unitid_ssm">MSS.057</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Liddell, H.G. to Dodgson, Charles ALs, 1p Christ Church, 5 p.m. [n.d.] (XV 291) 6 x 4</field>
     <field name="unittitle_teim">Liddell, H.G. to Dodgson, Charles ALs, 1p Christ Church, 5 p.m. [n.d.] (XV 291) 6 x 4</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 5, Folder: 444</field>
-    <field name="location_ssm">Folder: 444</field>
-    <field name="location_si">Folder: 444</field>
+    <field name="location_si">Box: 5, Folder: 444</field>
     <field name="collection_teim">Alfred C. Berol Collection of Lewis Carroll</field>
-    <field name="collection_unitid_teim">MSS.057/repositories/3/resources/1640</field>
+    <field name="collection_unitid_teim">MSS.057</field>
     <field name="series_sim">Series 1: Correspondence</field>
     <field name="series_sim">Subseries 1B: Correspondence to Charles L. Dodgson</field>
     <field name="series_si">Series 1: Correspondence &gt;&gt; Subseries 1B: Correspondence to Charles L. Dodgson &gt;&gt; Liddell, H.G. to Dodgson, Charles ALs, 1p Christ Church, 5 p.m. [n.d.] (XV 291) 6 x 4</field>

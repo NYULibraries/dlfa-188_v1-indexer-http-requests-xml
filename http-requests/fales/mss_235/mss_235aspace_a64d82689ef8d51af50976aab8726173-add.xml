@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Shizuko Yamamoto Papers</field>
     <field name="collection_ssm">Shizuko Yamamoto Papers</field>
-    <field name="collection_unitid_ssm">MSS.235/repositories/3/resources/2543</field>
+    <field name="collection_unitid_ssm">MSS.235</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">London trip materials</field>
     <field name="unittitle_teim">London trip materials</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 6, Folder: 16</field>
-    <field name="location_ssm">Folder: 16</field>
-    <field name="location_si">Folder: 16</field>
+    <field name="location_si">Box: 6, Folder: 16</field>
     <field name="collection_teim">Shizuko Yamamoto Papers</field>
-    <field name="collection_unitid_teim">MSS.235/repositories/3/resources/2543</field>
+    <field name="collection_unitid_teim">MSS.235</field>
     <field name="series_sim">Series I: Research Files</field>
     <field name="series_si">Series I: Research Files &gt;&gt; London trip materials</field>
     <field name="heading_ssm">London trip materials</field>

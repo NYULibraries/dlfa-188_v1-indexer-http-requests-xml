@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fales Manuscript Collection</field>
     <field name="collection_ssm">Fales Manuscript Collection</field>
-    <field name="collection_unitid_ssm">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_ssm">MSS.001</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Meynell, Alice Christiana Thompson (1847-1922) : Correspondence: Anonymous</field>
     <field name="unittitle_teim">Meynell, Alice Christiana Thompson (1847-1922) : Correspondence: Anonymous</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 120, Folder: 2</field>
-    <field name="location_ssm">Folder: 2</field>
-    <field name="location_si">Folder: 2</field>
+    <field name="location_si">Box: 120, Folder: 2</field>
     <field name="collection_teim">Fales Manuscript Collection</field>
-    <field name="collection_unitid_teim">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_teim">MSS.001</field>
     <field name="series_sim">Letter sized boxes</field>
     <field name="series_si">Letter sized boxes &gt;&gt; Meynell, Alice Christiana Thompson (1847-1922) : Correspondence: Anonymous</field>
     <field name="heading_ssm">Meynell, Alice Christiana Thompson (1847-1922) : Correspondence: Anonymous</field>

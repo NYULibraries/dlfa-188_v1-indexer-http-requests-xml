@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Creative Time Records</field>
     <field name="collection_ssm">Creative Time Records</field>
-    <field name="collection_unitid_ssm">MSS.179/repositories/3/resources/1736</field>
+    <field name="collection_unitid_ssm">MSS.179</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">&lt;em&gt;The Plain of Heaven&lt;/em&gt; by Multiple Artists</field>
     <field name="unittitle_teim">The Plain of Heaven by Multiple Artists</field>
@@ -28,14 +28,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 74, Folder: 1-2</field>
-    <field name="location_ssm">Folder: 1-2</field>
     <field name="location_ssm">Box: 97, Folder: 7</field>
-    <field name="location_ssm">Folder: 7</field>
     <field name="location_ssm">Box: 131, Folder: Sleeve 34</field>
-    <field name="location_ssm">Folder: Sleeve 34</field>
-    <field name="location_si">Folder: Sleeve 34</field>
+    <field name="location_si">Box: 131, Folder: Sleeve 34</field>
     <field name="collection_teim">Creative Time Records</field>
-    <field name="collection_unitid_teim">MSS.179/repositories/3/resources/1736</field>
+    <field name="collection_unitid_teim">MSS.179</field>
     <field name="series_sim">Series I: Exhibitions and Projects</field>
     <field name="series_si">Series I: Exhibitions and Projects &gt;&gt; &lt;em&gt;The Plain of Heaven&lt;/em&gt; by Multiple Artists</field>
     <field name="heading_ssm">The Plain of Heaven by Multiple Artists</field>

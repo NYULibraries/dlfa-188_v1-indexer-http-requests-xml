@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Harry Kondoleon Papers</field>
     <field name="collection_ssm">Harry Kondoleon Papers</field>
-    <field name="collection_unitid_ssm">MSS.525/repositories/3/resources/2530</field>
+    <field name="collection_unitid_ssm">MSS.525</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Funeral and Memorial Service</field>
     <field name="unittitle_teim">Funeral and Memorial Service</field>
@@ -26,12 +26,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 14, Folder: 12-13</field>
-    <field name="location_ssm">Folder: 12-13</field>
     <field name="location_ssm">Box: 25, Media: cuid21939</field>
-    <field name="location_ssm">Media: cuid21939</field>
-    <field name="location_si">Media: cuid21939</field>
+    <field name="location_si">Box: 25, Media: cuid21939</field>
     <field name="collection_teim">Harry Kondoleon Papers</field>
-    <field name="collection_unitid_teim">MSS.525/repositories/3/resources/2530</field>
+    <field name="collection_unitid_teim">MSS.525</field>
     <field name="series_si">Funeral and Memorial Service</field>
     <field name="heading_ssm">Funeral and Memorial Service</field>
     <field name="unitdate_start_sim">1994</field>

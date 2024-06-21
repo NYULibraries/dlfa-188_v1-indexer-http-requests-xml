@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sylvester Manor Archive</field>
     <field name="collection_ssm">Sylvester Manor Archive</field>
-    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"No. F - Lawn from Piazza"</field>
     <field name="unittitle_teim">"No. F - Lawn from Piazza"</field>
@@ -32,11 +32,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 137, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 137, Folder: 4</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Sylvester Manor Archive</field>
-    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_teim">MSS.208</field>
     <field name="series_sim">Record Group VI: Photographic Material</field>
     <field name="series_sim">Series E: Glass Plate Negatives and Slides </field>
     <field name="series_si">Record Group VI: Photographic Material &gt;&gt; Series E: Glass Plate Negatives and Slides  &gt;&gt; "No. F - Lawn from Piazza"</field>

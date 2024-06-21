@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Liederkranz Collection</field>
     <field name="collection_ssm">Liederkranz Collection</field>
-    <field name="collection_unitid_ssm">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_ssm">MSS.130</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Watson, Michael, "Anchored," baritone.</field>
     <field name="unittitle_teim">Watson, Michael, "Anchored," baritone.</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: I.D.19.A, Folder: 157</field>
-    <field name="location_ssm">Folder: 157</field>
-    <field name="location_si">Folder: 157</field>
+    <field name="location_si">Box: I.D.19.A, Folder: 157</field>
     <field name="collection_teim">Liederkranz Collection</field>
-    <field name="collection_unitid_teim">MSS.130/repositories/3/resources/1693</field>
+    <field name="collection_unitid_teim">MSS.130</field>
     <field name="series_sim">Series I: Music</field>
     <field name="series_sim">Subseries E: Music – Voice and Piano</field>
     <field name="series_si">Series I: Music &gt;&gt; Subseries E: Music – Voice and Piano &gt;&gt; Watson, Michael, "Anchored," baritone.</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Group Material Archive</field>
     <field name="collection_ssm">Group Material Archive</field>
-    <field name="collection_unitid_ssm">MSS.215/repositories/3/resources/1758</field>
+    <field name="collection_unitid_ssm">MSS.215</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Group Material - Da Zi Baos</field>
     <field name="unittitle_teim">Group Material - Da Zi Baos</field>
@@ -35,12 +35,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 31, Cassette: 215.0032</field>
-    <field name="location_ssm">Cassette: 215.0032</field>
     <field name="location_ssm">E-records: fales_mss215, E-records: 215.0032</field>
-    <field name="location_ssm">E-records: 215.0032</field>
-    <field name="location_si">E-records: 215.0032</field>
+    <field name="location_si">E-records: fales_mss215, E-records: 215.0032</field>
     <field name="collection_teim">Group Material Archive</field>
-    <field name="collection_unitid_teim">MSS.215/repositories/3/resources/1758</field>
+    <field name="collection_unitid_teim">MSS.215</field>
     <field name="series_sim">Series VIII: Sound recordings</field>
     <field name="series_sim">Subseries A: Sound recordings</field>
     <field name="series_si">Series VIII: Sound recordings &gt;&gt; Subseries A: Sound recordings &gt;&gt; Group Material - Da Zi Baos</field>

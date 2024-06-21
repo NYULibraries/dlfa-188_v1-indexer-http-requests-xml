@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Mix Collection</field>
     <field name="collection_ssm">The Mix Collection</field>
-    <field name="collection_unitid_ssm">MSS.143/repositories/3/resources/1706</field>
+    <field name="collection_unitid_ssm">MSS.143</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">February 1994 ticket sales figures</field>
     <field name="unittitle_teim">February 1994 ticket sales figures</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 35, Folder: 1687</field>
-    <field name="location_ssm">Folder: 1687</field>
-    <field name="location_si">Folder: 1687</field>
+    <field name="location_si">Box: 35, Folder: 1687</field>
     <field name="collection_teim">The Mix Collection</field>
-    <field name="collection_unitid_teim">MSS.143/repositories/3/resources/1706</field>
+    <field name="collection_unitid_teim">MSS.143</field>
     <field name="series_sim">SERIES XIX: Miscellaneous</field>
     <field name="series_sim">Subseries I: Anthology Film Archives</field>
     <field name="series_si">SERIES XIX: Miscellaneous &gt;&gt; Subseries I: Anthology Film Archives &gt;&gt; February 1994 ticket sales figures</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Aubrey Wisberg Papers</field>
     <field name="unittitle_ssm">Aubrey Wisberg Papers</field>
     <field name="unitid_teim">MSS.048</field>
-    <field name="unitid_teim">/repositories/3/resources/1632</field>
     <field name="unitid_ssm">MSS.048</field>
-    <field name="unitid_ssm">/repositories/3/resources/1632</field>
     <field name="abstract_teim">Aubrey Wisberg, film and television writer and producer died in New York City in 1990 at the age of 78. His papers consist of typescripts for his film and television productions, and draft copies of his novels, short stories and plays. The collection also includes a small portion of correspondence, photos, and promotional materials relating to specific film or television productions.</field>
     <field name="abstract_ssm">Aubrey Wisberg, film and television writer and producer died in New York City in 1990 at the age of 78. His papers consist of typescripts for his film and television productions, and draft copies of his novels, short stories and plays. The collection also includes a small portion of correspondence, photos, and promotional materials relating to specific film or television productions.</field>
+    <field name="creator_teim">Wisberg, Aubrey</field>
+    <field name="creator_ssm">Wisberg, Aubrey</field>
+    <field name="creator_ssm">Wisberg, Aubrey</field>
     <field name="unitdate_normal_ssm">1945/1970</field>
     <field name="unitdate_normal_teim">1945/1970</field>
     <field name="unitdate_normal_sim">1945/1970</field>
@@ -121,6 +122,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Wisberg, Aubrey</field>
     <field name="name_sim">Wisberg Productions</field>
     <field name="name_sim">Warner Bros. Pictures (1923-1967)</field>
     <field name="name_sim">Edward Small Productions, Inc.</field>

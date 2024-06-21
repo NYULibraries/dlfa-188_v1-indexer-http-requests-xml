@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">A.I.R. Gallery Archives</field>
     <field name="collection_ssm">A.I.R. Gallery Archives</field>
-    <field name="collection_unitid_ssm">MSS.184/repositories/3/resources/1738</field>
+    <field name="collection_unitid_ssm">MSS.184</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Mary Beth Edelson</field>
     <field name="unittitle_teim">Mary Beth Edelson</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 11, Folder: 450</field>
-    <field name="location_ssm">Folder: 450</field>
-    <field name="location_si">Folder: 450</field>
+    <field name="location_si">Box: 11, Folder: 450</field>
     <field name="collection_teim">A.I.R. Gallery Archives</field>
-    <field name="collection_unitid_teim">MSS.184/repositories/3/resources/1738</field>
+    <field name="collection_unitid_teim">MSS.184</field>
     <field name="series_sim">Series III: Exhibition files</field>
     <field name="series_sim">Subseries A: Exhibitions held at A.I.R. (see also Oversize)</field>
     <field name="series_si">Series III: Exhibition files &gt;&gt; Subseries A: Exhibitions held at A.I.R. (see also Oversize) &gt;&gt; Mary Beth Edelson</field>

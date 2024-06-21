@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Deep Dish TV Records</field>
     <field name="collection_ssm">Deep Dish TV Records</field>
-    <field name="collection_unitid_ssm">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_ssm">MSS.312</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Interview with Dr. Mudhafr Amin</field>
     <field name="unittitle_teim">Interview with Dr. Mudhafr Amin</field>
@@ -32,13 +32,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 154, MiniDV: 312_1360, 312_1361, 312_1362</field>
-    <field name="location_ssm">MiniDV: 312_1360, 312_1361, 312_1362</field>
     <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_312_ER_188</field>
-    <field name="location_ssm">E-records: FA_MSS_312_ER_188</field>
-    <field name="location_si">E-records: FA_MSS_312_ER_188</field>
+    <field name="location_si">Box: Electronic Records, E-records: FA_MSS_312_ER_188</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Deep Dish TV Records</field>
-    <field name="collection_unitid_teim">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_teim">MSS.312</field>
     <field name="series_sim">Series I. Video Productions</field>
     <field name="series_si">Series I. Video Productions &gt;&gt; Interview with Dr. Mudhafr Amin</field>
     <field name="heading_ssm">Interview with Dr. Mudhafr Amin</field>

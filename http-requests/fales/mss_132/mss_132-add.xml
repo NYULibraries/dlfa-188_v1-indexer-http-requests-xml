@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Heather Lewis Papers</field>
     <field name="unittitle_ssm">Heather Lewis Papers</field>
     <field name="unitid_teim">MSS.132</field>
-    <field name="unitid_teim">/repositories/3/resources/1695</field>
     <field name="unitid_ssm">MSS.132</field>
-    <field name="unitid_ssm">/repositories/3/resources/1695</field>
     <field name="abstract_teim">The Heather Lewis Papers reflect Heather Lewis's writing career including her manuscripts, publishing contracts, correspondence and financial information. In addition, the collection includes a great deal of information relating to Heather Lewis's personal life including journals, photographs, and personal correspondence. The collection reflects the connections between Lewis's career as a writer and her personal life and presents the author as a complex whole.</field>
     <field name="abstract_ssm">The Heather Lewis Papers reflect Heather Lewis's writing career including her manuscripts, publishing contracts, correspondence and financial information. In addition, the collection includes a great deal of information relating to Heather Lewis's personal life including journals, photographs, and personal correspondence. The collection reflects the connections between Lewis's career as a writer and her personal life and presents the author as a complex whole.</field>
+    <field name="creator_teim">Lewis, Heather</field>
+    <field name="creator_ssm">Lewis, Heather</field>
+    <field name="creator_ssm">Lewis, Heather</field>
     <field name="unitdate_normal_ssm">1965/2002</field>
     <field name="unitdate_normal_teim">1965/2002</field>
     <field name="unitdate_normal_sim">1965/2002</field>
@@ -100,6 +101,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Lewis, Heather</field>
     <field name="name_sim">Doubleday &amp; Company, Inc.</field>
     <field name="name_sim">Martin Secker Ltd.</field>
     <field name="name_sim">Writer's Voice</field>

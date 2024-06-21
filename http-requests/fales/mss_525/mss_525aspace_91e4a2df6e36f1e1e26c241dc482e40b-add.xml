@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Harry Kondoleon Papers</field>
     <field name="collection_ssm">Harry Kondoleon Papers</field>
-    <field name="collection_unitid_ssm">MSS.525/repositories/3/resources/2530</field>
+    <field name="collection_unitid_ssm">MSS.525</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Biographies</field>
     <field name="unittitle_teim">Biographies</field>
@@ -26,10 +26,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
-    <field name="location_si">Folder: 6</field>
+    <field name="location_si">Box: 4, Folder: 6</field>
     <field name="collection_teim">Harry Kondoleon Papers</field>
-    <field name="collection_unitid_teim">MSS.525/repositories/3/resources/2530</field>
+    <field name="collection_unitid_teim">MSS.525</field>
     <field name="series_si">Biographies</field>
     <field name="heading_ssm">Biographies</field>
     <field name="unitdate_start_sim">1975</field>

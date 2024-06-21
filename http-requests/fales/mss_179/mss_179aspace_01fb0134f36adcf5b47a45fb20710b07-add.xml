@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Creative Time Records</field>
     <field name="collection_ssm">Creative Time Records</field>
-    <field name="collection_unitid_ssm">MSS.179/repositories/3/resources/1736</field>
+    <field name="collection_unitid_ssm">MSS.179</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Conference and Symposium Participation</field>
     <field name="unittitle_teim">Conference and Symposium Participation</field>
@@ -28,7 +28,6 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 91, Folder: 2-3</field>
-    <field name="location_ssm">Folder: 2-3</field>
     <field name="location_ssm">case: 179.0136</field>
     <field name="location_ssm">case: 179.0150</field>
     <field name="location_ssm">case: 179.0503</field>
@@ -36,14 +35,11 @@
     <field name="location_ssm">case: 179.0643</field>
     <field name="location_ssm">case: 179.0645</field>
     <field name="location_ssm">Box: 26, Folder: ID: 179.0135, ID: 179.0149</field>
-    <field name="location_ssm">Folder: ID: 179.0135, ID: 179.0149</field>
     <field name="location_ssm">Box: 29, Folder: ID: 179.0502</field>
-    <field name="location_ssm">Folder: ID: 179.0502</field>
     <field name="location_ssm">Box: 31, Folder: ID: 179.0638, ID: 179.0642, ID: 179.0644</field>
-    <field name="location_ssm">Folder: ID: 179.0638, ID: 179.0642, ID: 179.0644</field>
-    <field name="location_si">Folder: ID: 179.0638, ID: 179.0642, ID: 179.0644</field>
+    <field name="location_si">Box: 31, Folder: ID: 179.0638, ID: 179.0642, ID: 179.0644</field>
     <field name="collection_teim">Creative Time Records</field>
-    <field name="collection_unitid_teim">MSS.179/repositories/3/resources/1736</field>
+    <field name="collection_unitid_teim">MSS.179</field>
     <field name="series_sim">Series III. Administrative Materials</field>
     <field name="series_si">Series III. Administrative Materials &gt;&gt; Conference and Symposium Participation</field>
     <field name="heading_ssm">Conference and Symposium Participation</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Mark Bloch Postal Art Network (PAN) Archive</field>
     <field name="collection_ssm">Mark Bloch Postal Art Network (PAN) Archive</field>
-    <field name="collection_unitid_ssm">MSS.170/repositories/3/resources/1728</field>
+    <field name="collection_unitid_ssm">MSS.170</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Indie</field>
     <field name="unittitle_teim">Indie</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 43, Folder: 56</field>
-    <field name="location_ssm">Folder: 56</field>
-    <field name="location_si">Folder: 56</field>
+    <field name="location_si">Box: 43, Folder: 56</field>
     <field name="collection_teim">Mark Bloch Postal Art Network (PAN) Archive</field>
-    <field name="collection_unitid_teim">MSS.170/repositories/3/resources/1728</field>
+    <field name="collection_unitid_teim">MSS.170</field>
     <field name="series_sim">Series IV: Serials </field>
     <field name="series_si">Series IV: Serials  &gt;&gt; Indie</field>
     <field name="heading_ssm">Indie</field>

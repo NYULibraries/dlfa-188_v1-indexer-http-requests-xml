@@ -16,7 +16,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
     <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
-    <field name="collection_unitid_ssm">MSS.368/repositories/3/resources/1861</field>
+    <field name="collection_unitid_ssm">MSS.368</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Parke-Bernet Galleries Inc.</field>
     <field name="unittitle_teim">Parke-Bernet Galleries Inc.</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 9, Folder: 2</field>
-    <field name="location_ssm">Folder: 2</field>
-    <field name="location_si">Folder: 2</field>
+    <field name="location_si">Box: 9, Folder: 2</field>
     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
-    <field name="collection_unitid_teim">MSS.368/repositories/3/resources/1861</field>
+    <field name="collection_unitid_teim">MSS.368</field>
     <field name="series_sim">Series I: Auction and Exhibit Materials</field>
     <field name="series_sim">Subseries D: Parke-Bernet Catalogs
 </field>

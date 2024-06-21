@@ -9,6 +9,12 @@
     <field name="unitid_ssm">MSS.305</field>
     <field name="abstract_teim">NIGHTCLUBBING was a weekly cable television show produced by video artists Pat Ivers and Emily Armstrong. The NIGHTCLUBBING Archive is a collection of videorecordings featuring live footage filmed between 1975 and 1980 that captures the burgeoning punk scene in nightclubs around New York City.</field>
     <field name="abstract_ssm">NIGHTCLUBBING was a weekly cable television show produced by video artists Pat Ivers and Emily Armstrong. The NIGHTCLUBBING Archive is a collection of videorecordings featuring live footage filmed between 1975 and 1980 that captures the burgeoning punk scene in nightclubs around New York City.</field>
+    <field name="creator_teim">Ivers, Pat</field>
+    <field name="creator_teim">Armstrong, Emily</field>
+    <field name="creator_ssm">Ivers, Pat</field>
+    <field name="creator_ssm">Armstrong, Emily</field>
+    <field name="creator_ssm">Ivers, Pat</field>
+    <field name="creator_ssm">Armstrong, Emily</field>
     <field name="unitdate_normal_ssm">1970/2009</field>
     <field name="unitdate_normal_ssm">1975/1980</field>
     <field name="unitdate_normal_teim">1970/2009</field>
@@ -114,6 +120,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Ivers, Pat</field>
+    <field name="creator_sim">Armstrong, Emily</field>
     <field name="name_sim">Contortions (Musical group)</field>
     <field name="name_sim">Cramps (Musical group)</field>
     <field name="name_sim">Dead Boys (Musical group)</field>

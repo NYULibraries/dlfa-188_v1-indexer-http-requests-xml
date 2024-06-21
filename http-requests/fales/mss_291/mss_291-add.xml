@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Artists Space Archive</field>
     <field name="unittitle_ssm">Artists Space Archive</field>
     <field name="unitid_teim">MSS.291</field>
-    <field name="unitid_teim">/repositories/3/resources/1808</field>
     <field name="unitid_ssm">MSS.291</field>
-    <field name="unitid_ssm">/repositories/3/resources/1808</field>
     <field name="abstract_teim">The original goal of Artists Space was to support young, emerging artists, specifically those who had not yet had a solo show in New York City. Artists Space became one of the most influential alternative non-profit arts spaces in the Downtown New York scene, hosting a variety of prominent exhibitions including Adrian Piper's "It's Just Art" (1981), Nan Goldin's "Witnesses: Against Our Vanishing" (1989), Douglas Crimp's "Pictures" (1977), and Michael Asher's "Untitled" (1988). The bulk of the material is exhibition files, and includes research files, coordination, opening, reception, sales, touring, and dismantling. This collection also preserves artists' materials (CVs, catalogues, photographic elements), correspondence, drafts of published works, financial records, gallery floorplans and maps, grant applications, loan and legal documentation, and promotional matter in the form of brochures, postcard announcements, newsletters, posters, and press releases.</field>
     <field name="abstract_ssm">The original goal of Artists Space was to support young, emerging artists, specifically those who had not yet had a solo show in New York City. Artists Space became one of the most influential alternative non-profit arts spaces in the Downtown New York scene, hosting a variety of prominent exhibitions including Adrian Piper's "It's Just Art" (1981), Nan Goldin's "Witnesses: Against Our Vanishing" (1989), Douglas Crimp's "Pictures" (1977), and Michael Asher's "Untitled" (1988). The bulk of the material is exhibition files, and includes research files, coordination, opening, reception, sales, touring, and dismantling. This collection also preserves artists' materials (CVs, catalogues, photographic elements), correspondence, drafts of published works, financial records, gallery floorplans and maps, grant applications, loan and legal documentation, and promotional matter in the form of brochures, postcard announcements, newsletters, posters, and press releases.</field>
+    <field name="creator_teim">Artists Space (Gallery) </field>
+    <field name="creator_ssm">Artists Space (Gallery) </field>
+    <field name="creator_ssm">Artists Space (Gallery) </field>
     <field name="unitdate_normal_ssm">1973/2022</field>
     <field name="unitdate_normal_teim">1973/2022</field>
     <field name="unitdate_normal_sim">1973/2022</field>
@@ -166,6 +167,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Artists Space (Gallery) </field>
     <field name="name_sim">Artists Space (Gallery) </field>
     <field name="name_sim">Group Material (Firm : New York, N.Y.)</field>
     <field name="name_sim">Sandler, Irving, 1925-2018</field>

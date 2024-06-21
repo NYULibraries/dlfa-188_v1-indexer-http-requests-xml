@@ -28,10 +28,8 @@
     <field name="repository_ssm">fales</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 2, Folder: 2</field>
-    <field name="location_ssm">Folder: 2, disk: ID: 232.0036</field>
-    <field name="location_ssm">disk: ID: 232.0036</field>
-    <field name="location_si">disk: ID: 232.0036</field>
+    <field name="location_ssm">Box: 2, Folder: 2, disk: ID: 232.0036</field>
+    <field name="location_si">Box: 2, Folder: 2, disk: ID: 232.0036</field>
     <field name="collection_teim">Judson Memorial Church Oral History Archive</field>
     <field name="collection_unitid_teim">MSS.232</field>
     <field name="series_sim">Series II: Student-Produced Materials</field>

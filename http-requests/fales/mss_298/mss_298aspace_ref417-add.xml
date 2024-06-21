@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Annina Nosei Gallery Archive</field>
     <field name="collection_ssm">Annina Nosei Gallery Archive</field>
-    <field name="collection_unitid_ssm">MSS.298/repositories/3/resources/1812</field>
+    <field name="collection_unitid_ssm">MSS.298</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Chip Tom</field>
     <field name="unittitle_teim">Chip Tom</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 16, Folder: 27</field>
-    <field name="location_ssm">Folder: 27</field>
-    <field name="location_si">Folder: 27</field>
+    <field name="location_si">Box: 16, Folder: 27</field>
     <field name="collection_teim">Annina Nosei Gallery Archive</field>
-    <field name="collection_unitid_teim">MSS.298/repositories/3/resources/1812</field>
+    <field name="collection_unitid_teim">MSS.298</field>
     <field name="series_sim">Series II: Correspondence</field>
     <field name="series_sim">Subseries A: Collectors</field>
     <field name="series_si">Series II: Correspondence &gt;&gt; Subseries A: Collectors &gt;&gt; Chip Tom</field>

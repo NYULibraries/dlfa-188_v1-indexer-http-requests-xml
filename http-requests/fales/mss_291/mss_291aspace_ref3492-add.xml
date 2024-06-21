@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Artists Space Archive</field>
     <field name="collection_ssm">Artists Space Archive</field>
-    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_ssm">MSS.291</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Artists Space Archive: 5000 Artists Return to Artists Space - 25 Years [3 of 5]</field>
     <field name="unittitle_teim">Artists Space Archive: 5000 Artists Return to Artists Space - 25 Years [3 of 5]</field>
@@ -29,10 +29,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 241, disk: ID: 291.3.0047</field>
-    <field name="location_ssm">disk: ID: 291.3.0047</field>
-    <field name="location_si">disk: ID: 291.3.0047</field>
+    <field name="location_si">Box: 241, disk: ID: 291.3.0047</field>
     <field name="collection_teim">Artists Space Archive</field>
-    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_teim">MSS.291</field>
     <field name="series_sim">Series VIII: Media</field>
     <field name="series_sim">Subseries B: Data Storage</field>
     <field name="series_si">Series VIII: Media &gt;&gt; Subseries B: Data Storage &gt;&gt; Artists Space Archive: 5000 Artists Return to Artists Space - 25 Years [3 of 5]</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Creative Time Records</field>
     <field name="unittitle_ssm">Creative Time Records</field>
     <field name="unitid_teim">MSS.179</field>
-    <field name="unitid_teim">/repositories/3/resources/1736</field>
     <field name="unitid_ssm">MSS.179</field>
-    <field name="unitid_ssm">/repositories/3/resources/1736</field>
     <field name="abstract_teim">Founded in 1973, Creative Time is a public arts organization based in New York City. The organization has a history of commissioning, producing, and presenting public artworks worldwide. Three core values guide the organization's work: "art matters, artists' voices are important in shaping society, and public spaces are places for creative and free expression." The materials in this collection document all aspects of the creation, production, promotion, exhibition, and reception of commissioned artworks from 1974-2012. Notable projects in the collection include Tribute of Light, the two beacons of light that illuminated lower Manhattan for six months after 9/11 (2001-2002); Playing the Building by David Byrne (2008); and Wink by Takashi Murakami, among many others.</field>
     <field name="abstract_ssm">Founded in 1973, Creative Time is a public arts organization based in New York City. The organization has a history of commissioning, producing, and presenting public artworks worldwide. Three core values guide the organization's work: "art matters, artists' voices are important in shaping society, and public spaces are places for creative and free expression." The materials in this collection document all aspects of the creation, production, promotion, exhibition, and reception of commissioned artworks from 1974-2012. Notable projects in the collection include Tribute of Light, the two beacons of light that illuminated lower Manhattan for six months after 9/11 (2001-2002); Playing the Building by David Byrne (2008); and Wink by Takashi Murakami, among many others.</field>
+    <field name="creator_teim">Creative Time, Inc.</field>
+    <field name="creator_ssm">Creative Time, Inc.</field>
+    <field name="creator_ssm">Creative Time, Inc.</field>
     <field name="unitdate_normal_ssm">1974/2023</field>
     <field name="unitdate_normal_teim">1974/2023</field>
     <field name="unitdate_normal_sim">1974/2023</field>
@@ -248,6 +249,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Creative Time, Inc.</field>
     <field name="name_sim">Creative Time, Inc.</field>
     <field name="name_sim">Kitchen Center for Video, Music, Dance, Performance, Film, and Literature (New York, N.Y.)</field>
     <field name="name_sim">Lincoln Center for the Performing Arts</field>

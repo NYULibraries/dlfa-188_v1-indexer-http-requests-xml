@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Red Hot Organization Archive</field>
     <field name="collection_ssm">Red Hot Organization Archive</field>
-    <field name="collection_unitid_ssm">MSS.191/repositories/3/resources/1741</field>
+    <field name="collection_unitid_ssm">MSS.191</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">David Wojnarowicz Tape 2, Selections from CDrom</field>
     <field name="unittitle_teim">David Wojnarowicz Tape 2, Selections from CDrom</field>
@@ -35,10 +35,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 237, Cassette: cuid8695</field>
-    <field name="location_ssm">Cassette: cuid8695</field>
-    <field name="location_si">Cassette: cuid8695</field>
+    <field name="location_si">Box: 237, Cassette: cuid8695</field>
     <field name="collection_teim">Red Hot Organization Archive</field>
-    <field name="collection_unitid_teim">MSS.191/repositories/3/resources/1741</field>
+    <field name="collection_unitid_teim">MSS.191</field>
     <field name="series_sim">Series XV: Optic Nerve: David Wojnarowicz on CD-ROM</field>
     <field name="series_sim">Subseries E: Videos</field>
     <field name="series_si">Series XV: Optic Nerve: David Wojnarowicz on CD-ROM &gt;&gt; Subseries E: Videos &gt;&gt; David Wojnarowicz Tape 2, Selections from CDrom</field>

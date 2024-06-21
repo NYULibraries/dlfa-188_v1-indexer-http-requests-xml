@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Malcolm Goldstein Papers</field>
     <field name="collection_ssm">Malcolm Goldstein Papers</field>
-    <field name="collection_unitid_ssm">MSS.350/repositories/3/resources/1849</field>
+    <field name="collection_unitid_ssm">MSS.350</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">"Rainer Wiens and Malcolm Goldstein" Cagibi, Montreal.</field>
     <field name="unittitle_teim">"Rainer Wiens and Malcolm Goldstein" Cagibi, Montreal.</field>
@@ -35,10 +35,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 42, Media: ID: 350.0091</field>
-    <field name="location_ssm">Media: ID: 350.0091</field>
-    <field name="location_si">Media: ID: 350.0091</field>
+    <field name="location_si">Box: 42, Media: ID: 350.0091</field>
     <field name="collection_teim">Malcolm Goldstein Papers</field>
-    <field name="collection_unitid_teim">MSS.350/repositories/3/resources/1849</field>
+    <field name="collection_unitid_teim">MSS.350</field>
     <field name="series_sim">Series VI: Non-commercially Released Audio</field>
     <field name="series_sim">Subseries A: Performances</field>
     <field name="series_si">Series VI: Non-commercially Released Audio &gt;&gt; Subseries A: Performances &gt;&gt; "Rainer Wiens and Malcolm Goldstein" Cagibi, Montreal.</field>

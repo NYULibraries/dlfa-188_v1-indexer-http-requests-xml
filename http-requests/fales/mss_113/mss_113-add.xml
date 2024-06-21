@@ -6,11 +6,12 @@
     <field name="unittitle_teim">REPOhistory Archive</field>
     <field name="unittitle_ssm">REPOhistory Archive</field>
     <field name="unitid_teim">MSS.113</field>
-    <field name="unitid_teim">/repositories/3/resources/1678</field>
     <field name="unitid_ssm">MSS.113</field>
-    <field name="unitid_ssm">/repositories/3/resources/1678</field>
     <field name="abstract_teim">The group, REPOhistory, was founded in New York City in 1989 and included multi-ethnic visual and performance artists, writers, filmmakers, and historians. Taking its name from the concept of "repossessing history," its purpose was to bring to light absent historical narratives involving, colonialism, race, gender, and class through public installations, performances, educational activities, printed matter and other visual media. The collection includes operation records, proofs of original artworks, promotional materials, source materials, and files of several founding members.</field>
     <field name="abstract_ssm">The group, REPOhistory, was founded in New York City in 1989 and included multi-ethnic visual and performance artists, writers, filmmakers, and historians. Taking its name from the concept of "repossessing history," its purpose was to bring to light absent historical narratives involving, colonialism, race, gender, and class through public installations, performances, educational activities, printed matter and other visual media. The collection includes operation records, proofs of original artworks, promotional materials, source materials, and files of several founding members.</field>
+    <field name="creator_teim">REPOhistory (Organization)</field>
+    <field name="creator_ssm">REPOhistory (Organization)</field>
+    <field name="creator_ssm">REPOhistory (Organization)</field>
     <field name="unitdate_normal_ssm">1911/1999</field>
     <field name="unitdate_normal_ssm">1989/1999</field>
     <field name="unitdate_normal_teim">1911/1999</field>
@@ -174,6 +175,7 @@ Series 8: Artwork:includes complete sets of signs produced for site-specific art
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">REPOhistory (Organization)</field>
     <field name="name_sim">REPOhistory (Organization)</field>
     <field name="name_sim">Political Art Documentation/Distribution (Organization)</field>
     <field name="name_sim">National Endowment for the Arts</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Amos Poe Papers</field>
     <field name="collection_ssm">Amos Poe Papers</field>
-    <field name="collection_unitid_ssm">MSS.203/repositories/3/resources/1750</field>
+    <field name="collection_unitid_ssm">MSS.203</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Hell, Richard</field>
     <field name="unittitle_teim">Hell, Richard</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 15, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 15, Folder: 4</field>
     <field name="collection_teim">Amos Poe Papers</field>
-    <field name="collection_unitid_teim">MSS.203/repositories/3/resources/1750</field>
+    <field name="collection_unitid_teim">MSS.203</field>
     <field name="series_sim">Series I: Writing</field>
     <field name="series_sim">Series I, Subseries C: Source and Subject Files</field>
     <field name="series_si">Series I: Writing &gt;&gt; Series I, Subseries C: Source and Subject Files &gt;&gt; Hell, Richard</field>

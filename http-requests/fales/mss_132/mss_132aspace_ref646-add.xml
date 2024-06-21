@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Heather Lewis Papers</field>
     <field name="collection_ssm">Heather Lewis Papers</field>
-    <field name="collection_unitid_ssm">MSS.132/repositories/3/resources/1695</field>
+    <field name="collection_unitid_ssm">MSS.132</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Audio CD. Heather Lewis memorial.</field>
     <field name="unittitle_teim">Audio CD. Heather Lewis memorial.</field>
@@ -33,11 +33,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 13, CD: 132.0022</field>
-    <field name="location_ssm">CD: 132.0022</field>
     <field name="location_ssm">case: 132.0022, CD: 132.0022</field>
-    <field name="location_si">CD: 132.0022</field>
+    <field name="location_si">case: 132.0022, CD: 132.0022</field>
     <field name="collection_teim">Heather Lewis Papers</field>
-    <field name="collection_unitid_teim">MSS.132/repositories/3/resources/1695</field>
+    <field name="collection_unitid_teim">MSS.132</field>
     <field name="series_sim">Series XIV: Media</field>
     <field name="series_sim">Subseries B: Other media</field>
     <field name="series_si">Series XIV: Media &gt;&gt; Subseries B: Other media &gt;&gt; Audio CD. Heather Lewis memorial.</field>

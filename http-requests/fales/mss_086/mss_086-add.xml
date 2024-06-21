@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Serpent's Tail/High Risk Archive</field>
     <field name="unittitle_ssm">Serpent's Tail/High Risk Archive</field>
     <field name="unitid_teim">MSS.086</field>
-    <field name="unitid_teim">/repositories/3/resources/1656</field>
     <field name="unitid_ssm">MSS.086</field>
-    <field name="unitid_ssm">/repositories/3/resources/1656</field>
     <field name="abstract_teim">High Risk Books was founded in New York City in 1993 by Ira Silverberg and Amy Scholder as an imprint of Serpent's Tail Press in London. Dedicated to publishing challenging, innovative, and progressive literature, High Risk Books transcended the traditional boundaries of publishing to provoke and inspire a new generation of writers and readers. While connected by a certain subversive impulse, authors as diverse as William S. Burroughs, Kathy Acker, Tim Dlugos, Diamanda Galas, Robert Gluck, Gary Indiana, June Jordan, Cookie Mueller, Lynne Tillman, Pagan Kennedy, John Giorno, Sapphire and many others are published by High Risk. As a small press, High Risk played a crucial role in providing a space for writers, many just beginning their careers, who would otherwise have found it difficult to get published in mainstream houses. In January 1997, the High Risk office in New York closed. Serpent's Tail Press continues to publish from the United Kingdom.</field>
     <field name="abstract_ssm">High Risk Books was founded in New York City in 1993 by Ira Silverberg and Amy Scholder as an imprint of Serpent's Tail Press in London. Dedicated to publishing challenging, innovative, and progressive literature, High Risk Books transcended the traditional boundaries of publishing to provoke and inspire a new generation of writers and readers. While connected by a certain subversive impulse, authors as diverse as William S. Burroughs, Kathy Acker, Tim Dlugos, Diamanda Galas, Robert Gluck, Gary Indiana, June Jordan, Cookie Mueller, Lynne Tillman, Pagan Kennedy, John Giorno, Sapphire and many others are published by High Risk. As a small press, High Risk played a crucial role in providing a space for writers, many just beginning their careers, who would otherwise have found it difficult to get published in mainstream houses. In January 1997, the High Risk office in New York closed. Serpent's Tail Press continues to publish from the United Kingdom.</field>
+    <field name="creator_teim">High Risk Books (Firm)</field>
+    <field name="creator_ssm">High Risk Books (Firm)</field>
+    <field name="creator_ssm">High Risk Books (Firm)</field>
     <field name="unitdate_normal_ssm">1990/1997</field>
     <field name="unitdate_normal_teim">1990/1997</field>
     <field name="unitdate_normal_sim">1990/1997</field>
@@ -149,6 +150,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">High Risk Books (Firm)</field>
     <field name="name_sim">High Risk Books (Firm)</field>
     <field name="name_sim">The New York Times</field>
     <field name="name_sim">Crown Publishing</field>

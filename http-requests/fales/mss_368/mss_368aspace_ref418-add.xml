@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
     <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
-    <field name="collection_unitid_ssm">MSS.368/repositories/3/resources/1861</field>
+    <field name="collection_unitid_ssm">MSS.368</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Mad Tea Party Plate</field>
     <field name="unittitle_teim">Mad Tea Party Plate</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 14, Item: 5</field>
-    <field name="location_ssm">Item: 5</field>
-    <field name="location_si">Item: 5</field>
+    <field name="location_si">Box: 14, Item: 5</field>
     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
-    <field name="collection_unitid_teim">MSS.368/repositories/3/resources/1861</field>
+    <field name="collection_unitid_teim">MSS.368</field>
     <field name="series_sim">Series II: Housewares/Decorations</field>
     <field name="series_sim">Subseries B: China</field>
     <field name="series_si">Series II: Housewares/Decorations &gt;&gt; Subseries B: China &gt;&gt; Mad Tea Party Plate</field>

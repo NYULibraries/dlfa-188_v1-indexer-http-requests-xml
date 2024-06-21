@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Gay Cable Network Archives</field>
     <field name="collection_ssm">Gay Cable Network Archives</field>
-    <field name="collection_unitid_ssm">MSS.231/repositories/3/resources/1767</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Garden Party</field>
     <field name="unittitle_teim">Garden Party</field>
@@ -27,10 +27,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 108, Media: ID: 231.1762</field>
-    <field name="location_ssm">Media: ID: 231.1762</field>
-    <field name="location_si">Media: ID: 231.1762</field>
+    <field name="location_si">Box: 108, Media: ID: 231.1762</field>
     <field name="collection_teim">Gay Cable Network Archives</field>
-    <field name="collection_unitid_teim">MSS.231/repositories/3/resources/1767</field>
+    <field name="collection_unitid_teim">MSS.231</field>
     <field name="series_sim">Series VIII: Events</field>
     <field name="series_si">Series VIII: Events &gt;&gt; Garden Party</field>
     <field name="heading_ssm">Garden Party</field>

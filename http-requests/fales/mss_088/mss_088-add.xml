@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Redtape Archive</field>
     <field name="unittitle_ssm">Redtape Archive</field>
     <field name="unitid_teim">MSS.088</field>
-    <field name="unitid_teim">/repositories/3/resources/1658</field>
     <field name="unitid_ssm">MSS.088</field>
-    <field name="unitid_ssm">/repositories/3/resources/1658</field>
     <field name="abstract_teim">Redtape, edited and published by Michael Carter, was an East Village "zine" which throughout its run espoused innovative visual and literary expression while encouraging interplay between those two forms. The magazine, featuring comics, poetry, fiction, graphic art, and photography, provided a venue for both established and emerging writers and artists of the downtown scene. The collection includes a complete run of the magazine, mock-up copies and galleys, original art work, copies of art work, photographs, manuscripts and related correspondence, newspaper clippings, posters and flyers for readings, benefit parties and other events organized by Redtape participants.</field>
     <field name="abstract_ssm">Redtape, edited and published by Michael Carter, was an East Village "zine" which throughout its run espoused innovative visual and literary expression while encouraging interplay between those two forms. The magazine, featuring comics, poetry, fiction, graphic art, and photography, provided a venue for both established and emerging writers and artists of the downtown scene. The collection includes a complete run of the magazine, mock-up copies and galleys, original art work, copies of art work, photographs, manuscripts and related correspondence, newspaper clippings, posters and flyers for readings, benefit parties and other events organized by Redtape participants.</field>
+    <field name="creator_teim">Redtape</field>
+    <field name="creator_ssm">Redtape</field>
+    <field name="creator_ssm">Redtape</field>
     <field name="unitdate_normal_ssm">1972/1992</field>
     <field name="unitdate_normal_teim">1972/1992</field>
     <field name="unitdate_normal_sim">1972/1992</field>
@@ -106,6 +107,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Redtape</field>
     <field name="name_sim">Redtape</field>
     <field name="name_sim">Tillman, Lynne</field>
     <field name="name_sim">Acker, Kathy, 1948-1997</field>

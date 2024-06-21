@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Johnny Science Papers</field>
     <field name="collection_ssm">Johnny Science Papers</field>
-    <field name="collection_unitid_ssm">MSS.268/repositories/3/resources/1794</field>
+    <field name="collection_unitid_ssm">MSS.268</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">"Scramble It" by SE Greengras</field>
     <field name="unittitle_teim">"Scramble It" by SE Greengras</field>
@@ -33,11 +33,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 10, audiocassette: ID: 268.0076</field>
-    <field name="location_ssm">audiocassette: ID: 268.0076</field>
-    <field name="location_si">audiocassette: ID: 268.0076</field>
+    <field name="location_si">Box: 10, audiocassette: ID: 268.0076</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Johnny Science Papers</field>
-    <field name="collection_unitid_teim">MSS.268/repositories/3/resources/1794</field>
+    <field name="collection_unitid_teim">MSS.268</field>
     <field name="series_sim">Series VI: Sound recordings</field>
     <field name="series_si">Series VI: Sound recordings &gt;&gt; "Scramble It" by SE Greengras</field>
     <field name="heading_ssm">"Scramble It" by SE Greengras</field>

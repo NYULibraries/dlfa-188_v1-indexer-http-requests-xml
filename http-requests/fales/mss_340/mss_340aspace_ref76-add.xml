@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Darinka Archive</field>
     <field name="collection_ssm">Darinka Archive</field>
-    <field name="collection_unitid_ssm">MSS.340/repositories/3/resources/1841</field>
+    <field name="collection_unitid_ssm">MSS.340</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Adam Bomb" lyric poster</field>
     <field name="unittitle_teim">"Adam Bomb" lyric poster</field>
@@ -27,10 +27,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
-    <field name="location_si">Folder: 1</field>
+    <field name="location_si">Box: 4, Folder: 1</field>
     <field name="collection_teim">Darinka Archive</field>
-    <field name="collection_unitid_teim">MSS.340/repositories/3/resources/1841</field>
+    <field name="collection_unitid_teim">MSS.340</field>
     <field name="series_sim">Oversize Series I: Darinka Files</field>
     <field name="series_si">Oversize Series I: Darinka Files &gt;&gt; "Adam Bomb" lyric poster</field>
     <field name="heading_ssm">"Adam Bomb" lyric poster</field>

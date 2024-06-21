@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fashion Moda Archive</field>
     <field name="collection_ssm">Fashion Moda Archive</field>
-    <field name="collection_unitid_ssm">MSS.091/repositories/3/resources/1661</field>
+    <field name="collection_unitid_ssm">MSS.091</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Live Radio at Fashion Moda, April 14, 1983. [audio cassette]</field>
     <field name="unittitle_teim">Live Radio at Fashion Moda, April 14, 1983. [audio cassette]</field>
@@ -35,14 +35,11 @@
     <field name="repository_ssm">fales</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 4, Folder: 68a. </field>
-    <field name="location_ssm">Folder: 68a. , Cassette: 68a. </field>
-    <field name="location_ssm">Cassette: 68a. </field>
+    <field name="location_ssm">Box: 4, Folder: 68a. , Cassette: 68a. </field>
     <field name="location_ssm">E-records: fales_mss091, E-records: cuid9068</field>
-    <field name="location_ssm">E-records: cuid9068</field>
-    <field name="location_si">E-records: cuid9068</field>
+    <field name="location_si">E-records: fales_mss091, E-records: cuid9068</field>
     <field name="collection_teim">Fashion Moda Archive</field>
-    <field name="collection_unitid_teim">MSS.091/repositories/3/resources/1661</field>
+    <field name="collection_unitid_teim">MSS.091</field>
     <field name="series_sim">Series III: Artists, Exhibitions, and Related Material</field>
     <field name="series_sim">Subseries A: Artists Files</field>
     <field name="series_si">Series III: Artists, Exhibitions, and Related Material &gt;&gt; Subseries A: Artists Files &gt;&gt; Live Radio at Fashion Moda, April 14, 1983. [audio cassette]</field>

@@ -9,6 +9,12 @@
     <field name="unitid_ssm">MSS.519</field>
     <field name="abstract_teim">Richard Wagner (1813-1883) was a German composer. Rena Charnin Mueller is an associate professor of music at New York University. The Richard Wagner Manuscripts include two items handwritten by Wagner. One item is a song written by Wagner, dedicated to Louis [Kn]ass.  The other item is a poem invitation to celebrate the completion of Die Götterdämmerung, with a list on its verso of potential singers for the first complete production of Der Ring des Nibelungen at Bayreuth, Germany, written by Anton Seidl with notations by Wagner.</field>
     <field name="abstract_ssm">Richard Wagner (1813-1883) was a German composer. Rena Charnin Mueller is an associate professor of music at New York University. The Richard Wagner Manuscripts include two items handwritten by Wagner. One item is a song written by Wagner, dedicated to Louis [Kn]ass.  The other item is a poem invitation to celebrate the completion of Die Götterdämmerung, with a list on its verso of potential singers for the first complete production of Der Ring des Nibelungen at Bayreuth, Germany, written by Anton Seidl with notations by Wagner.</field>
+    <field name="creator_teim">Wagner, Richard, 1813-1883</field>
+    <field name="creator_teim">Seidl, Anton, 1850-1898</field>
+    <field name="creator_ssm">Wagner, Richard, 1813-1883</field>
+    <field name="creator_ssm">Seidl, Anton, 1850-1898</field>
+    <field name="creator_ssm">Wagner, Richard, 1813-1883</field>
+    <field name="creator_ssm">Seidl, Anton, 1850-1898</field>
     <field name="unitdate_normal_ssm">1871/1876</field>
     <field name="unitdate_normal_teim">1871/1876</field>
     <field name="unitdate_normal_sim">1871/1876</field>
@@ -47,6 +53,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Wagner, Richard, 1813-1883</field>
+    <field name="creator_sim">Seidl, Anton, 1850-1898</field>
     <field name="name_sim">Mueller, Rena Charnin</field>
     <field name="name_sim">Wagner, Richard, 1813-1883</field>
     <field name="name_sim">Seidl, Anton, 1850-1898</field>

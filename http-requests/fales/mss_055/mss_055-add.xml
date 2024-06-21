@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Richard Maass Westchester and New York State History Collection</field>
     <field name="unittitle_ssm">Richard Maass Westchester and New York State History Collection</field>
     <field name="unitid_teim">MSS.055</field>
-    <field name="unitid_teim">/repositories/3/resources/1638</field>
     <field name="unitid_ssm">MSS.055</field>
-    <field name="unitid_ssm">/repositories/3/resources/1638</field>
     <field name="abstract_teim">Richard Maass, a Westchester County resident, NYU alumnus and highly successful investment banker, was active in the political and educational affairs of New York and Westchester (Mayor of White Plains in 1974 and Westchester County Historian, 1974-1981). Maass amassed this unique collection of historical documents over a fifty-year period. It contains more than three hundred items relating to the early history of New York State, with a particular focus on the American Revolutionary War. </field>
     <field name="abstract_ssm">Richard Maass, a Westchester County resident, NYU alumnus and highly successful investment banker, was active in the political and educational affairs of New York and Westchester (Mayor of White Plains in 1974 and Westchester County Historian, 1974-1981). Maass amassed this unique collection of historical documents over a fifty-year period. It contains more than three hundred items relating to the early history of New York State, with a particular focus on the American Revolutionary War. </field>
+    <field name="creator_teim">Maass, Richard A.</field>
+    <field name="creator_ssm">Maass, Richard A.</field>
+    <field name="creator_ssm">Maass, Richard A.</field>
     <field name="unitdate_normal_ssm">1645/1995</field>
     <field name="unitdate_normal_ssm">1645/1910</field>
     <field name="unitdate_normal_teim">1645/1995</field>
@@ -210,6 +211,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Maass, Richard A.</field>
     <field name="name_sim">Maass, Richard A.</field>
     <field name="name_sim">Wyllys, George, 1710-1796</field>
     <field name="name_sim">Washington, George, 1732-1799</field>

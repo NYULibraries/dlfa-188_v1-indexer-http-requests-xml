@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Lynne Tillman Papers</field>
     <field name="unittitle_ssm">Lynne Tillman Papers</field>
     <field name="unitid_teim">MSS.180</field>
-    <field name="unitid_teim">/repositories/3/resources/1737</field>
     <field name="unitid_ssm">MSS.180</field>
-    <field name="unitid_ssm">/repositories/3/resources/1737</field>
     <field name="abstract_teim">Lynne Tillman has been an influential writer, filmmaker, and art critic in the downtown New York art scene. This collection includes correspondence with other artists and writers, materials relating to the creation and publication of her books, financial papers, various publications including Tillman's short stories, articles, and interviews, and educational materials. This collections puts Tillman's work into the context of her education and personal and professional relationships.</field>
     <field name="abstract_ssm">Lynne Tillman has been an influential writer, filmmaker, and art critic in the downtown New York art scene. This collection includes correspondence with other artists and writers, materials relating to the creation and publication of her books, financial papers, various publications including Tillman's short stories, articles, and interviews, and educational materials. This collections puts Tillman's work into the context of her education and personal and professional relationships.</field>
+    <field name="creator_teim">Tillman, Lynne</field>
+    <field name="creator_ssm">Tillman, Lynne</field>
+    <field name="creator_ssm">Tillman, Lynne</field>
     <field name="unitdate_normal_ssm">1923/2019</field>
     <field name="unitdate_normal_ssm">1984/2006</field>
     <field name="unitdate_normal_teim">1923/2019</field>
@@ -114,6 +115,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Tillman, Lynne</field>
     <field name="name_sim">Semiotexte</field>
     <field name="name_sim">Serpent's Tail (Firm)</field>
     <field name="name_sim">A.I.R. Gallery (New York, N.Y.)</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fales Manuscript Collection</field>
     <field name="collection_ssm">Fales Manuscript Collection</field>
-    <field name="collection_unitid_ssm">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_ssm">MSS.001</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Maritain, Jacques</field>
     <field name="unittitle_teim">Maritain, Jacques</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 117, Folder: 17b</field>
-    <field name="location_ssm">Folder: 17b</field>
-    <field name="location_si">Folder: 17b</field>
+    <field name="location_si">Box: 117, Folder: 17b</field>
     <field name="collection_teim">Fales Manuscript Collection</field>
-    <field name="collection_unitid_teim">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_teim">MSS.001</field>
     <field name="series_sim">Letter sized boxes</field>
     <field name="series_si">Letter sized boxes &gt;&gt; Maritain, Jacques</field>
     <field name="heading_ssm">Maritain, Jacques</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sir William Jones Manuscripts</field>
     <field name="collection_ssm">Sir William Jones Manuscripts</field>
-    <field name="collection_unitid_ssm">MSS.301/repositories/3/resources/1815</field>
+    <field name="collection_unitid_ssm">MSS.301</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Scansions of poetry using Indian musical notations/symbols</field>
     <field name="unittitle_teim">Scansions of poetry using Indian musical notations/symbols</field>
@@ -30,11 +30,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 19</field>
-    <field name="location_ssm">Folder: 19</field>
-    <field name="location_si">Folder: 19</field>
+    <field name="location_si">Box: 1, Folder: 19</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Sir William Jones Manuscripts</field>
-    <field name="collection_unitid_teim">MSS.301/repositories/3/resources/1815</field>
+    <field name="collection_unitid_teim">MSS.301</field>
     <field name="series_sim">Series I: Manuscripts</field>
     <field name="series_si">Series I: Manuscripts &gt;&gt; Scansions of poetry using Indian musical notations/symbols</field>
     <field name="heading_ssm">Scansions of poetry using Indian musical notations/symbols</field>

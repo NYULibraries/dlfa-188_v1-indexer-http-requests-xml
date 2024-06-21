@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Creative Time Records</field>
     <field name="collection_ssm">Creative Time Records</field>
-    <field name="collection_unitid_ssm">MSS.179/repositories/3/resources/1736</field>
+    <field name="collection_unitid_ssm">MSS.179</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">&lt;em&gt;Local Frequencies&lt;/em&gt; by Gabri Christa, Toshi Reagon, and Everton Sylvester</field>
     <field name="unittitle_teim">Local Frequencies by Gabri Christa, Toshi Reagon, and Everton Sylvester</field>
@@ -32,7 +32,6 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 67, Folder: 5-6</field>
-    <field name="location_ssm">Folder: 5-6</field>
     <field name="location_ssm">case: 179.0154</field>
     <field name="location_ssm">case:  179.0166</field>
     <field name="location_ssm">case: 179.0641</field>
@@ -42,15 +41,12 @@
     <field name="location_ssm">case: 179.0633</field>
     <field name="location_ssm">case: 179.0617</field>
     <field name="location_ssm">Box: 26, Folder: ID: 179.0153, ID: 179.0165</field>
-    <field name="location_ssm">Folder: ID: 179.0153, ID: 179.0165</field>
     <field name="location_ssm">Box: 31, Folder: ID: 179.0614, ID: 179.0616, ID: 179.0630, ID: 179.0632, ID: 179.0640, ID: 179.0648</field>
-    <field name="location_ssm">Folder: ID: 179.0614, ID: 179.0616, ID: 179.0630, ID: 179.0632, ID: 179.0640, ID: 179.0648</field>
     <field name="location_ssm">Box: Electronic Records, E-records: FA_MSS_179_ER_22</field>
-    <field name="location_ssm">E-records: FA_MSS_179_ER_22</field>
-    <field name="location_si">E-records: FA_MSS_179_ER_22</field>
+    <field name="location_si">Box: Electronic Records, E-records: FA_MSS_179_ER_22</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Creative Time Records</field>
-    <field name="collection_unitid_teim">MSS.179/repositories/3/resources/1736</field>
+    <field name="collection_unitid_teim">MSS.179</field>
     <field name="series_sim">Series I: Exhibitions and Projects</field>
     <field name="series_si">Series I: Exhibitions and Projects &gt;&gt; &lt;em&gt;Local Frequencies&lt;/em&gt; by Gabri Christa, Toshi Reagon, and Everton Sylvester</field>
     <field name="heading_ssm">Local Frequencies by Gabri Christa, Toshi Reagon, and Everton Sylvester</field>

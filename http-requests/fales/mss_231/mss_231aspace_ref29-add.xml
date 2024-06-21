@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Gay Cable Network Archives</field>
     <field name="collection_ssm">Gay Cable Network Archives</field>
-    <field name="collection_unitid_ssm">MSS.231/repositories/3/resources/1767</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Gay USA, Vol. XVII, Episode No. 11 [Air date: 3/18/1999]</field>
     <field name="unittitle_teim">Gay USA, Vol. XVII, Episode No. 11 [Air date: 3/18/1999]</field>
@@ -39,11 +39,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Media: ID: 231.0011</field>
-    <field name="location_ssm">Media: ID: 231.0011</field>
-    <field name="location_si">Media: ID: 231.0011</field>
+    <field name="location_si">Box: 1, Media: ID: 231.0011</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Gay Cable Network Archives</field>
-    <field name="collection_unitid_teim">MSS.231/repositories/3/resources/1767</field>
+    <field name="collection_unitid_teim">MSS.231</field>
     <field name="series_sim">Series XI: Gay USA</field>
     <field name="series_sim">1999 Vol. XVII</field>
     <field name="series_si">Series XI: Gay USA &gt;&gt; 1999 Vol. XVII &gt;&gt; Gay USA, Vol. XVII, Episode No. 11 [Air date: 3/18/1999]</field>

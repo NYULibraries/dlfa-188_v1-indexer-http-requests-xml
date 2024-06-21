@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Mark Bloch Postal Art Network (PAN) Archive</field>
     <field name="collection_ssm">Mark Bloch Postal Art Network (PAN) Archive</field>
-    <field name="collection_unitid_ssm">MSS.170/repositories/3/resources/1728</field>
+    <field name="collection_unitid_ssm">MSS.170</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Sun Times</field>
     <field name="unittitle_teim">Sun Times</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 55, Folder: 17</field>
-    <field name="location_ssm">Folder: 17</field>
-    <field name="location_si">Folder: 17</field>
+    <field name="location_si">Box: 55, Folder: 17</field>
     <field name="collection_teim">Mark Bloch Postal Art Network (PAN) Archive</field>
-    <field name="collection_unitid_teim">MSS.170/repositories/3/resources/1728</field>
+    <field name="collection_unitid_teim">MSS.170</field>
     <field name="series_sim">OVERSIZE: Series IV: Serials</field>
     <field name="series_si">OVERSIZE: Series IV: Serials &gt;&gt; Sun Times</field>
     <field name="heading_ssm">Sun Times</field>

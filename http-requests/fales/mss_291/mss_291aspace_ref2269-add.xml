@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Artists Space Archive</field>
     <field name="collection_ssm">Artists Space Archive</field>
-    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_ssm">MSS.291</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Artists Space Newsletter: Number 2, Volume 3</field>
     <field name="unittitle_teim">Artists Space Newsletter: Number 2, Volume 3</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 124, Folder: 18</field>
-    <field name="location_ssm">Folder: 18</field>
-    <field name="location_si">Folder: 18</field>
+    <field name="location_si">Box: 124, Folder: 18</field>
     <field name="collection_teim">Artists Space Archive</field>
-    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_teim">MSS.291</field>
     <field name="series_sim">OVERSIZE Series II: Promotional Materials</field>
     <field name="series_si">OVERSIZE Series II: Promotional Materials &gt;&gt; Artists Space Newsletter: Number 2, Volume 3</field>
     <field name="heading_ssm">Artists Space Newsletter: Number 2, Volume 3</field>

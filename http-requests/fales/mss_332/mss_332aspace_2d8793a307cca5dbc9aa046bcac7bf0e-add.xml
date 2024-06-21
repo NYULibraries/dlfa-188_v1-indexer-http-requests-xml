@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Jim Neu Papers</field>
     <field name="collection_ssm">Jim Neu Papers</field>
-    <field name="collection_unitid_ssm">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_ssm">MSS.332</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">
       &lt;em&gt;The Floatones&lt;/em&gt;
@@ -28,18 +28,13 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 8, Folder: 5-6</field>
-    <field name="location_ssm">Folder: 5-6</field>
     <field name="location_ssm">Box: 26, audiocassette: 332.0014, 332.0049, 332.0118, 332.0127, 332.0171</field>
-    <field name="location_ssm">audiocassette: 332.0014, 332.0049, 332.0118, 332.0127, 332.0171</field>
     <field name="location_ssm">Box: 31, Hi8: 332.0304</field>
-    <field name="location_ssm">Hi8: 332.0304</field>
     <field name="location_ssm">Box: 31, MiniDV: 332.0310, 332.0313</field>
-    <field name="location_ssm">MiniDV: 332.0310, 332.0313</field>
     <field name="location_ssm">Box: 33, VHS: 332.0235, 332.0241, 332.0250, 332.0265</field>
-    <field name="location_ssm">VHS: 332.0235, 332.0241, 332.0250, 332.0265</field>
-    <field name="location_si">VHS: 332.0235, 332.0241, 332.0250, 332.0265</field>
+    <field name="location_si">Box: 33, VHS: 332.0235, 332.0241, 332.0250, 332.0265</field>
     <field name="collection_teim">Jim Neu Papers</field>
-    <field name="collection_unitid_teim">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_teim">MSS.332</field>
     <field name="series_si">
       &lt;em&gt;The Floatones&lt;/em&gt;
     </field>

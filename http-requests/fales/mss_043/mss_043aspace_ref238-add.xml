@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Arvid Paulson Papers</field>
     <field name="collection_ssm">Arvid Paulson Papers</field>
-    <field name="collection_unitid_ssm">MSS.043/repositories/3/resources/1627</field>
+    <field name="collection_unitid_ssm">MSS.043</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">The Strindberg Society: Membership List</field>
     <field name="unittitle_teim">The Strindberg Society: Membership List</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 19, Folder: 33</field>
-    <field name="location_ssm">Folder: 33</field>
-    <field name="location_si">Folder: 33</field>
+    <field name="location_si">Box: 19, Folder: 33</field>
     <field name="collection_teim">Arvid Paulson Papers</field>
-    <field name="collection_unitid_teim">MSS.043/repositories/3/resources/1627</field>
+    <field name="collection_unitid_teim">MSS.043</field>
     <field name="series_sim">Series IV: Printed Matter and Memorabilia</field>
     <field name="series_sim">Subseries B: Strindberg memorabilia</field>
     <field name="series_si">Series IV: Printed Matter and Memorabilia &gt;&gt; Subseries B: Strindberg memorabilia &gt;&gt; The Strindberg Society: Membership List</field>

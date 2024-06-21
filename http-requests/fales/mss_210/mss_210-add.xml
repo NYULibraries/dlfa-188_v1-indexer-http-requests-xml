@@ -9,6 +9,12 @@
     <field name="unitid_ssm">MSS.210</field>
     <field name="abstract_teim">The An American Family Collection consists of 12 one-hour episodes of the 12-hour documentary, "An American Family," that debuted on PBS-TV in early 1973. It consists of 12 DVDs.</field>
     <field name="abstract_ssm">The An American Family Collection consists of 12 one-hour episodes of the 12-hour documentary, "An American Family," that debuted on PBS-TV in early 1973. It consists of 12 DVDs.</field>
+    <field name="creator_teim">Raymond, Susan</field>
+    <field name="creator_teim">Raymond, Alan</field>
+    <field name="creator_ssm">Raymond, Susan</field>
+    <field name="creator_ssm">Raymond, Alan</field>
+    <field name="creator_ssm">Raymond, Susan</field>
+    <field name="creator_ssm">Raymond, Alan</field>
     <field name="unitdate_normal_ssm">1973/1973</field>
     <field name="unitdate_normal_teim">1973/1973</field>
     <field name="unitdate_normal_sim">1973/1973</field>
@@ -36,6 +42,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Raymond, Susan</field>
+    <field name="creator_sim">Raymond, Alan</field>
     <field name="name_sim">Loud Family</field>
     <field name="name_sim">Raymond, Susan</field>
     <field name="name_sim">Raymond, Alan</field>

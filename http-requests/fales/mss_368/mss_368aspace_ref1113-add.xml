@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Lindseth Collection of Alice in Wonderland Ephemera</field>
     <field name="collection_ssm">Lindseth Collection of Alice in Wonderland Ephemera</field>
-    <field name="collection_unitid_ssm">MSS.368/repositories/3/resources/1861</field>
+    <field name="collection_unitid_ssm">MSS.368</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Paper Shopping Bag with Alice Characters</field>
     <field name="unittitle_teim">Paper Shopping Bag with Alice Characters</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 48, Item: 7</field>
-    <field name="location_ssm">Item: 7</field>
-    <field name="location_si">Item: 7</field>
+    <field name="location_si">Box: 48, Item: 7</field>
     <field name="collection_teim">Lindseth Collection of Alice in Wonderland Ephemera</field>
-    <field name="collection_unitid_teim">MSS.368/repositories/3/resources/1861</field>
+    <field name="collection_unitid_teim">MSS.368</field>
     <field name="series_sim">Series V: Printed Ephemera</field>
     <field name="series_sim">Subseries B: Print Ephemera</field>
     <field name="series_si">Series V: Printed Ephemera &gt;&gt; Subseries B: Print Ephemera &gt;&gt; Paper Shopping Bag with Alice Characters</field>

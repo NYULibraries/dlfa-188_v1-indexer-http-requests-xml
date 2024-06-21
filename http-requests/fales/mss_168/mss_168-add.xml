@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Gary Indiana Papers</field>
     <field name="unittitle_ssm">Gary Indiana Papers</field>
     <field name="unitid_teim">MSS.168</field>
-    <field name="unitid_teim">/repositories/3/resources/1726</field>
     <field name="unitid_ssm">MSS.168</field>
-    <field name="unitid_ssm">/repositories/3/resources/1726</field>
     <field name="abstract_teim">The Gary Indiana Papers are comprised of materials which document the literary career of Gary Indiana. Collection materials include manuscripts, galleys, diaries, notebooks, correspondence, contracts, postcards, flyers, theater programs, periodical and newspaper clippings, photographs, collages, and posters.</field>
     <field name="abstract_ssm">The Gary Indiana Papers are comprised of materials which document the literary career of Gary Indiana. Collection materials include manuscripts, galleys, diaries, notebooks, correspondence, contracts, postcards, flyers, theater programs, periodical and newspaper clippings, photographs, collages, and posters.</field>
+    <field name="creator_teim">Indiana, Gary</field>
+    <field name="creator_ssm">Indiana, Gary</field>
+    <field name="creator_ssm">Indiana, Gary</field>
     <field name="unitdate_normal_ssm">1976/2005</field>
     <field name="unitdate_normal_teim">1976/2005</field>
     <field name="unitdate_normal_sim">1976/2005</field>
@@ -160,6 +161,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Indiana, Gary</field>
     <field name="name_sim">Artforum</field>
     <field name="name_sim">Art in America (Firm)</field>
     <field name="name_sim">High Risk Books (Firm)</field>

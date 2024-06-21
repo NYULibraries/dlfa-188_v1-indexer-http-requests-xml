@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Group Material Archive</field>
     <field name="collection_ssm">Group Material Archive</field>
-    <field name="collection_unitid_ssm">MSS.215/repositories/3/resources/1758</field>
+    <field name="collection_unitid_ssm">MSS.215</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Clip - "Freedom"</field>
     <field name="unittitle_teim">Clip - "Freedom"</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 34, object: ID: 215.2.0060</field>
-    <field name="location_ssm">object: ID: 215.2.0060</field>
-    <field name="location_si">object: ID: 215.2.0060</field>
+    <field name="location_si">Box: 34, object: ID: 215.2.0060</field>
     <field name="collection_teim">Group Material Archive</field>
-    <field name="collection_unitid_teim">MSS.215/repositories/3/resources/1758</field>
+    <field name="collection_unitid_teim">MSS.215</field>
     <field name="series_sim">Series X: Objects</field>
     <field name="series_si">Series X: Objects &gt;&gt; Clip - "Freedom"</field>
     <field name="heading_ssm">Clip - "Freedom"</field>

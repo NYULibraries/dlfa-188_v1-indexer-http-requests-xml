@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Artists Space Archive</field>
     <field name="collection_ssm">Artists Space Archive</field>
-    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_ssm">MSS.291</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Ken Lum Negatives</field>
     <field name="unittitle_teim">Ken Lum Negatives</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 120, Folder: 16</field>
-    <field name="location_ssm">Folder: 16</field>
-    <field name="location_si">Folder: 16</field>
+    <field name="location_si">Box: 120, Folder: 16</field>
     <field name="collection_teim">Artists Space Archive</field>
-    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_teim">MSS.291</field>
     <field name="series_sim">Series VII: Photographic Materials</field>
     <field name="series_si">Series VII: Photographic Materials &gt;&gt; Ken Lum Negatives</field>
     <field name="heading_ssm">Ken Lum Negatives</field>

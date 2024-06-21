@@ -9,6 +9,12 @@
     <field name="unitid_ssm">MSS.469</field>
     <field name="abstract_teim">The Koshland and Hertzmann Family Manuscript Cookbook Collection contains materials created by Berta G. Koshland and her daughter Elizabeth K. Hertzmann, two women who were professionally trained in the art of German cooking. The collection, which dates between the early and mid-20th century, contains a box of loose recipes and four bound manuscript cookbooks, as well as an illustrated journal Hertzmann kept while attending high school.</field>
     <field name="abstract_ssm">The Koshland and Hertzmann Family Manuscript Cookbook Collection contains materials created by Berta G. Koshland and her daughter Elizabeth K. Hertzmann, two women who were professionally trained in the art of German cooking. The collection, which dates between the early and mid-20th century, contains a box of loose recipes and four bound manuscript cookbooks, as well as an illustrated journal Hertzmann kept while attending high school.</field>
+    <field name="creator_teim">Koshland, Berta G.</field>
+    <field name="creator_teim">Hertzmann, Elizabeth K.</field>
+    <field name="creator_ssm">Koshland, Berta G.</field>
+    <field name="creator_ssm">Hertzmann, Elizabeth K.</field>
+    <field name="creator_ssm">Koshland, Berta G.</field>
+    <field name="creator_ssm">Hertzmann, Elizabeth K.</field>
     <field name="unitdate_normal_ssm">1900/1978</field>
     <field name="unitdate_normal_teim">1900/1978</field>
     <field name="unitdate_normal_sim">1900/1978</field>
@@ -42,6 +48,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Koshland, Berta G.</field>
+    <field name="creator_sim">Hertzmann, Elizabeth K.</field>
     <field name="name_sim">Koshland, Berta G.</field>
     <field name="name_sim">Hertzmann, Elizabeth K.</field>
     <field name="name_teim">Koshland, Berta G.</field>

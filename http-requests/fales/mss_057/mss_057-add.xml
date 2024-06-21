@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Alfred C. Berol Collection of Lewis Carroll</field>
     <field name="unittitle_ssm">Alfred C. Berol Collection of Lewis Carroll</field>
     <field name="unitid_teim">MSS.057</field>
-    <field name="unitid_teim">/repositories/3/resources/1640</field>
     <field name="unitid_ssm">MSS.057</field>
-    <field name="unitid_ssm">/repositories/3/resources/1640</field>
     <field name="abstract_teim">The Alfred C. Berol Collection of Lewis Carroll is one of the pre-eminent collections of Lewis Carroll (a pseudonym of Charles L. Dodgson) materials in the United States. It contains his correspondence, manuscripts (firsts, autographed copies, presentation copies, and proofs), drawings, and photographs. It also contains drawings by his foremost illustrators John Tenniel and Harry Furniss. Additionally, there is a wide cross section of ephemeral materials related to Lewis Carroll which illustrate his work's contemporary and ongoing cultural impact, as well as, Alfred C. Berol's correspondence and notes on the provenance of the materials in the collection.</field>
     <field name="abstract_ssm">The Alfred C. Berol Collection of Lewis Carroll is one of the pre-eminent collections of Lewis Carroll (a pseudonym of Charles L. Dodgson) materials in the United States. It contains his correspondence, manuscripts (firsts, autographed copies, presentation copies, and proofs), drawings, and photographs. It also contains drawings by his foremost illustrators John Tenniel and Harry Furniss. Additionally, there is a wide cross section of ephemeral materials related to Lewis Carroll which illustrate his work's contemporary and ongoing cultural impact, as well as, Alfred C. Berol's correspondence and notes on the provenance of the materials in the collection.</field>
+    <field name="creator_teim">Berol, Alfred C., (collector)</field>
+    <field name="creator_ssm">Berol, Alfred C., (collector)</field>
+    <field name="creator_ssm">Berol, Alfred C., (collector)</field>
     <field name="unitdate_normal_ssm">1845/1993</field>
     <field name="unitdate_normal_teim">1845/1993</field>
     <field name="unitdate_normal_sim">1845/1993</field>
@@ -184,6 +185,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Berol, Alfred C., (collector)</field>
     <field name="name_sim">Berol, Alfred C., (collector)</field>
     <field name="name_sim">Carroll, Lewis, 1832-1898</field>
     <field name="name_sim">Blakemore, Edith Rose, 1872-1947</field>

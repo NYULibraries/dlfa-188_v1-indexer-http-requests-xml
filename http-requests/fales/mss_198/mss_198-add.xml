@@ -6,11 +6,12 @@
     <field name="unittitle_teim">A Gathering of the Tribes Records</field>
     <field name="unittitle_ssm">A Gathering of the Tribes Records</field>
     <field name="unitid_teim">MSS.198</field>
-    <field name="unitid_teim">/repositories/3/resources/1746</field>
     <field name="unitid_ssm">MSS.198</field>
-    <field name="unitid_ssm">/repositories/3/resources/1746</field>
     <field name="abstract_teim">Founded in 1991 in writer Steve Cannon's home, A Gathering of the Tribes was conceived as a venue in New York's East Village for underexposed artists, a networking center, and a place for the development of new talent through its gallery, performance space, and publishing company. The A Gathering of the Tribes Records contain material documenting the administration and wide array of activities of this organization including event promotional material; press clippings; scrapbooks; photographs and albums; audio and video recordings; and financial and administrative files. The collection also includes artist submissions and exhibition files for the Tribes Gallery, as well as writer submissions and project files for both Fly By Night Press and the magazine A Gathering of the Tribes. Ephemera and writings by A Gathering of the Tribes founder Steve Cannon are also in this collection.</field>
     <field name="abstract_ssm">Founded in 1991 in writer Steve Cannon's home, A Gathering of the Tribes was conceived as a venue in New York's East Village for underexposed artists, a networking center, and a place for the development of new talent through its gallery, performance space, and publishing company. The A Gathering of the Tribes Records contain material documenting the administration and wide array of activities of this organization including event promotional material; press clippings; scrapbooks; photographs and albums; audio and video recordings; and financial and administrative files. The collection also includes artist submissions and exhibition files for the Tribes Gallery, as well as writer submissions and project files for both Fly By Night Press and the magazine A Gathering of the Tribes. Ephemera and writings by A Gathering of the Tribes founder Steve Cannon are also in this collection.</field>
+    <field name="creator_teim">Gathering of the Tribes (Gallery)</field>
+    <field name="creator_ssm">Gathering of the Tribes (Gallery)</field>
+    <field name="creator_ssm">Gathering of the Tribes (Gallery)</field>
     <field name="unitdate_normal_ssm">1976/2019</field>
     <field name="unitdate_normal_teim">1976/2019</field>
     <field name="unitdate_normal_sim">1976/2019</field>
@@ -87,6 +88,7 @@ An access terminal for born-digital materials in the collection is available by 
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Gathering of the Tribes (Gallery)</field>
     <field name="name_sim">Gathering of the Tribes (Gallery)</field>
     <field name="name_sim">Fly By Night Press</field>
     <field name="name_sim">Cannon, Steve, 1935-2019</field>

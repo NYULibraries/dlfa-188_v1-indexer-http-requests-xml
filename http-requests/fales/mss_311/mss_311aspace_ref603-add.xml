@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Nick Zedd Papers</field>
     <field name="collection_ssm">Nick Zedd Papers</field>
-    <field name="collection_unitid_ssm">MSS.311/repositories/3/resources/1822</field>
+    <field name="collection_unitid_ssm">MSS.311</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Emile Durkheim's &lt;em&gt;Suicide&lt;/em&gt; [used for "Thrust in Me"]</field>
     <field name="unittitle_teim">Emile Durkheim's Suicide [used for "Thrust in Me"]</field>
@@ -27,12 +27,10 @@
     <field name="repository_ssm">fales</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 10, object: ID: 311.2.0005</field>
-    <field name="location_ssm">object: ID: 311.2.0005, Folder: 18</field>
-    <field name="location_ssm">Folder: 18</field>
-    <field name="location_si">Folder: 18</field>
+    <field name="location_ssm">Box: 10, object: ID: 311.2.0005, Folder: 18</field>
+    <field name="location_si">Box: 10, object: ID: 311.2.0005, Folder: 18</field>
     <field name="collection_teim">Nick Zedd Papers</field>
-    <field name="collection_unitid_teim">MSS.311/repositories/3/resources/1822</field>
+    <field name="collection_unitid_teim">MSS.311</field>
     <field name="series_sim">Series VII: Objects</field>
     <field name="series_sim">Subseries A: Props </field>
     <field name="series_si">Series VII: Objects &gt;&gt; Subseries A: Props  &gt;&gt; Emile Durkheim's &lt;em&gt;Suicide&lt;/em&gt; [used for "Thrust in Me"]</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Visual AIDS Records</field>
     <field name="unittitle_ssm">Visual AIDS Records</field>
     <field name="unitid_teim">MSS.503</field>
-    <field name="unitid_teim">/repositories/3/resources/2489</field>
     <field name="unitid_ssm">MSS.503</field>
-    <field name="unitid_ssm">/repositories/3/resources/2489</field>
     <field name="abstract_teim">Visual AIDS is a New York City based contemporary arts organization committed to HIV/AIDS prevention and awareness, a mission which the organization accomplishes through a number of visual art projects, by supporting artists living with the disease, and by honoring and preserving the legacies of artists who have passed away from HIV/AIDS-related complications. The Visual AIDS Records not only document the daily administrative activities of the organization since its inception in 1988, but the archival collection also documents a few of the organization's key initiatives, including the Broadsides Project, the Red Ribbon Project, The Frank Moore Archive Project, a Day With(out) Art, Electric Blanket, and A Night Without Light. Materials include correspondence, meeting minutes, notes, proposals, financial documents, newsletters, awards, slides, photographs, audio-visual recordings, press kits, periodicals, clippings, fliers, calendars; tote bags, and t-shirts.  The collection also contains original design layouts by Group Material, materials that document artist Nan Goldin's contribution to Electric Blanket, and original prints and poster designs by artists like Barbara Kruger and Glenn Ligon.</field>
     <field name="abstract_ssm">Visual AIDS is a New York City based contemporary arts organization committed to HIV/AIDS prevention and awareness, a mission which the organization accomplishes through a number of visual art projects, by supporting artists living with the disease, and by honoring and preserving the legacies of artists who have passed away from HIV/AIDS-related complications. The Visual AIDS Records not only document the daily administrative activities of the organization since its inception in 1988, but the archival collection also documents a few of the organization's key initiatives, including the Broadsides Project, the Red Ribbon Project, The Frank Moore Archive Project, a Day With(out) Art, Electric Blanket, and A Night Without Light. Materials include correspondence, meeting minutes, notes, proposals, financial documents, newsletters, awards, slides, photographs, audio-visual recordings, press kits, periodicals, clippings, fliers, calendars; tote bags, and t-shirts.  The collection also contains original design layouts by Group Material, materials that document artist Nan Goldin's contribution to Electric Blanket, and original prints and poster designs by artists like Barbara Kruger and Glenn Ligon.</field>
+    <field name="creator_teim">Visual AIDS (Organization)</field>
+    <field name="creator_ssm">Visual AIDS (Organization)</field>
+    <field name="creator_ssm">Visual AIDS (Organization)</field>
     <field name="unitdate_normal_ssm">1988/2023</field>
     <field name="unitdate_normal_ssm">1989/1999</field>
     <field name="unitdate_normal_teim">1988/2023</field>
@@ -78,6 +79,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Visual AIDS (Organization)</field>
     <field name="name_sim">Visual AIDS (Organization)</field>
     <field name="name_sim">Group Material (Firm : New York, N.Y.)</field>
     <field name="name_sim">Goldin, Nan, 1953-</field>

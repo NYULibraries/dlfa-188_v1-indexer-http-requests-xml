@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Julie Saul Gallery Records</field>
     <field name="collection_ssm">Julie Saul Gallery Records</field>
-    <field name="collection_unitid_ssm">MSS.630/repositories/3/resources/3454</field>
+    <field name="collection_unitid_ssm">MSS.630</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Artwork Sales Invoices</field>
     <field name="unittitle_teim">Artwork Sales Invoices</field>
@@ -24,12 +24,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 25, Folder: 4-5</field>
-    <field name="location_ssm">Folder: 4-5</field>
     <field name="location_ssm">Box: 26, Folder: 1-5</field>
-    <field name="location_ssm">Folder: 1-5</field>
-    <field name="location_si">Folder: 1-5</field>
+    <field name="location_si">Box: 26, Folder: 1-5</field>
     <field name="collection_teim">Julie Saul Gallery Records</field>
-    <field name="collection_unitid_teim">MSS.630/repositories/3/resources/3454</field>
+    <field name="collection_unitid_teim">MSS.630</field>
     <field name="series_si">Artwork Sales Invoices</field>
     <field name="heading_ssm">Artwork Sales Invoices</field>
     <field name="unitdate_start_sim">2008</field>

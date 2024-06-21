@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Gay Cable Network Archives</field>
     <field name="collection_ssm">Gay Cable Network Archives</field>
-    <field name="collection_unitid_ssm">MSS.231/repositories/3/resources/1767</field>
+    <field name="collection_unitid_ssm">MSS.231</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">[1]--Slides "Advice from a Caterpillar" [2]--March on Albany</field>
     <field name="unittitle_teim">[1]--Slides "Advice from a Caterpillar" [2]--March on Albany</field>
@@ -30,13 +30,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 100, Cassette: 231.1592</field>
-    <field name="location_ssm">Cassette: 231.1592</field>
     <field name="location_ssm">Box: Digitized Access Files, E-records: 231.1592</field>
-    <field name="location_ssm">E-records: 231.1592</field>
-    <field name="location_si">E-records: 231.1592</field>
+    <field name="location_si">Box: Digitized Access Files, E-records: 231.1592</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Gay Cable Network Archives</field>
-    <field name="collection_unitid_teim">MSS.231/repositories/3/resources/1767</field>
+    <field name="collection_unitid_teim">MSS.231</field>
     <field name="series_sim">Series XVII: LGBT Parades, Marches, and Rallies</field>
     <field name="series_si">Series XVII: LGBT Parades, Marches, and Rallies &gt;&gt; [1]--Slides "Advice from a Caterpillar" [2]--March on Albany</field>
     <field name="heading_ssm">[1]--Slides "Advice from a Caterpillar" [2]--March on Albany</field>

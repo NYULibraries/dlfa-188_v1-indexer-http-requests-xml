@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Erich Maria Remarque Papers</field>
     <field name="collection_ssm">Erich Maria Remarque Papers</field>
-    <field name="collection_unitid_ssm">MSS.095/repositories/3/resources/1665</field>
+    <field name="collection_unitid_ssm">MSS.095</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Calling card -- Ermanno Schupbach (Taxi), Ascona</field>
     <field name="unittitle_teim">Calling card -- Ermanno Schupbach (Taxi), Ascona</field>
@@ -24,12 +24,10 @@
     <field name="repository_ssm">fales</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 110, Folder: 5</field>
-    <field name="location_ssm">Folder: 5, Item: 5</field>
-    <field name="location_ssm">Item: 5</field>
-    <field name="location_si">Item: 5</field>
+    <field name="location_ssm">Box: 110, Folder: 5, Item: 5</field>
+    <field name="location_si">Box: 110, Folder: 5, Item: 5</field>
     <field name="collection_teim">Erich Maria Remarque Papers</field>
-    <field name="collection_unitid_teim">MSS.095/repositories/3/resources/1665</field>
+    <field name="collection_unitid_teim">MSS.095</field>
     <field name="series_sim">Series 4C: Calling Cards</field>
     <field name="series_si">Series 4C: Calling Cards &gt;&gt; Calling card -- Ermanno Schupbach (Taxi), Ascona</field>
     <field name="heading_ssm">Calling card -- Ermanno Schupbach (Taxi), Ascona</field>

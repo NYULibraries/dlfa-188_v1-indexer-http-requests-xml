@@ -17,7 +17,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sylvester Manor Archive</field>
     <field name="collection_ssm">Sylvester Manor Archive</field>
-    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Manifesto and Proclamation to the Members of Congress by the Earl of Carlisle, Sir Henry Clinton and William Earl"</field>
     <field name="unittitle_teim">"Manifesto and Proclamation to the Members of Congress by the Earl of Carlisle, Sir Henry Clinton and William Earl"</field>
@@ -36,10 +36,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 148, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 148, Folder: 4</field>
     <field name="collection_teim">Sylvester Manor Archive</field>
-    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_teim">MSS.208</field>
     <field name="series_sim">Record Group II: L'Hommedieu Family</field>
     <field name="series_sim">L'Hommedieu: Oversize </field>
     <field name="series_sim">Oversize Series B, Subseries 6: Ezra L'Hommedieu U.S. Government Documents and Reports</field>

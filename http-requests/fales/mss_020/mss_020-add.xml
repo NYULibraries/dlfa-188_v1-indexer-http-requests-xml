@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MSS.020</field>
     <field name="abstract_teim">The Once and Etc. Archive consists of correspondence with and manuscripts sent to Once's editor and contributor, Tom Clark. The collection includes material from noted writers and figures, including: Allen Ginsberg, Gerard Malanga, Robert Creeley and George Plimpton.</field>
     <field name="abstract_ssm">The Once and Etc. Archive consists of correspondence with and manuscripts sent to Once's editor and contributor, Tom Clark. The collection includes material from noted writers and figures, including: Allen Ginsberg, Gerard Malanga, Robert Creeley and George Plimpton.</field>
+    <field name="creator_teim">Once</field>
+    <field name="creator_ssm">Once</field>
+    <field name="creator_ssm">Once</field>
     <field name="unitdate_normal_ssm">1966/1967</field>
     <field name="unitdate_normal_teim">1966/1967</field>
     <field name="unitdate_normal_sim">1966/1967</field>
@@ -120,6 +123,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Once</field>
     <field name="name_sim">Once</field>
     <field name="name_sim">A One Shot Magazine</field>
     <field name="name_sim">Twice</field>

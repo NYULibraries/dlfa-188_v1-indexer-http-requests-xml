@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Deep Dish TV Records</field>
     <field name="collection_ssm">Deep Dish TV Records</field>
-    <field name="collection_unitid_ssm">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_ssm">MSS.312</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Contact Lists -- Media Conferences</field>
     <field name="unittitle_teim">Contact Lists -- Media Conferences</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 17, Folder: 12</field>
-    <field name="location_ssm">Folder: 12</field>
-    <field name="location_si">Folder: 12</field>
+    <field name="location_si">Box: 17, Folder: 12</field>
     <field name="collection_teim">Deep Dish TV Records</field>
-    <field name="collection_unitid_teim">MSS.312/repositories/3/resources/1823</field>
+    <field name="collection_unitid_teim">MSS.312</field>
     <field name="series_sim">Series II. Administrative Files</field>
     <field name="series_si">Series II. Administrative Files &gt;&gt; Contact Lists -- Media Conferences</field>
     <field name="heading_ssm">Contact Lists -- Media Conferences</field>

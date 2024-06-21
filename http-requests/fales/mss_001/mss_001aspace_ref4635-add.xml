@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fales Manuscript Collection</field>
     <field name="collection_ssm">Fales Manuscript Collection</field>
-    <field name="collection_unitid_ssm">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_ssm">MSS.001</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Le Gallienne, Richard (1866-1947) : Whittington-Egan, Richard: MS. The Quest of the Golden Boy</field>
     <field name="unittitle_teim">Le Gallienne, Richard (1866-1947) : Whittington-Egan, Richard: MS. The Quest of the Golden Boy</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 212, Folder: 2b</field>
-    <field name="location_ssm">Folder: 2b</field>
-    <field name="location_si">Folder: 2b</field>
+    <field name="location_si">Box: 212, Folder: 2b</field>
     <field name="collection_teim">Fales Manuscript Collection</field>
-    <field name="collection_unitid_teim">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_teim">MSS.001</field>
     <field name="series_sim">Legal size boxes</field>
     <field name="series_si">Legal size boxes &gt;&gt; Le Gallienne, Richard (1866-1947) : Whittington-Egan, Richard: MS. The Quest of the Golden Boy</field>
     <field name="heading_ssm">Le Gallienne, Richard (1866-1947) : Whittington-Egan, Richard: MS. The Quest of the Golden Boy</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Artists Space Archive</field>
     <field name="collection_ssm">Artists Space Archive</field>
-    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_ssm">MSS.291</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Superstudio: Administrative, Correspondence</field>
     <field name="unittitle_teim">Superstudio: Administrative, Correspondence</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 116, Folder: 7</field>
-    <field name="location_ssm">Folder: 7</field>
-    <field name="location_si">Folder: 7</field>
+    <field name="location_si">Box: 116, Folder: 7</field>
     <field name="collection_teim">Artists Space Archive</field>
-    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_teim">MSS.291</field>
     <field name="series_sim">Series VI: Curator Files</field>
     <field name="series_si">Series VI: Curator Files &gt;&gt; Superstudio: Administrative, Correspondence</field>
     <field name="heading_ssm">Superstudio: Administrative, Correspondence</field>

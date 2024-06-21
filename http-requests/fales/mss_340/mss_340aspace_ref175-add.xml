@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Darinka Archive</field>
     <field name="collection_ssm">Darinka Archive</field>
-    <field name="collection_unitid_ssm">MSS.340/repositories/3/resources/1841</field>
+    <field name="collection_unitid_ssm">MSS.340</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Church of the Little Green Man Radio</field>
     <field name="unittitle_teim">Church of the Little Green Man Radio</field>
@@ -31,12 +31,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 7, Cassette: 340.0038</field>
-    <field name="location_ssm">Cassette: 340.0038</field>
     <field name="location_ssm">Box: Digitized Access Files, file: mss340_0038</field>
-    <field name="location_ssm">file: mss340_0038</field>
-    <field name="location_si">file: mss340_0038</field>
+    <field name="location_si">Box: Digitized Access Files, file: mss340_0038</field>
     <field name="collection_teim">Darinka Archive</field>
-    <field name="collection_unitid_teim">MSS.340/repositories/3/resources/1841</field>
+    <field name="collection_unitid_teim">MSS.340</field>
     <field name="series_sim">Series III: Audio Recordings</field>
     <field name="series_sim">Subseries A: Performance </field>
     <field name="series_si">Series III: Audio Recordings &gt;&gt; Subseries A: Performance  &gt;&gt; Church of the Little Green Man Radio</field>

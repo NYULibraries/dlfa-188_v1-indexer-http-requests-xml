@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Erich Maria Remarque Papers</field>
     <field name="collection_ssm">Erich Maria Remarque Papers</field>
-    <field name="collection_unitid_ssm">MSS.095/repositories/3/resources/1665</field>
+    <field name="collection_unitid_ssm">MSS.095</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Victoria Wolff</field>
     <field name="unittitle_teim">Victoria Wolff</field>
@@ -27,12 +27,10 @@
     <field name="repository_ssm">fales</field>
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
-    <field name="location_ssm">Box: 88, Folder: 97</field>
-    <field name="location_ssm">Folder: 97, Item: 1</field>
-    <field name="location_ssm">Item: 1</field>
-    <field name="location_si">Item: 1</field>
+    <field name="location_ssm">Box: 88, Folder: 97, Item: 1</field>
+    <field name="location_si">Box: 88, Folder: 97, Item: 1</field>
     <field name="collection_teim">Erich Maria Remarque Papers</field>
-    <field name="collection_unitid_teim">MSS.095/repositories/3/resources/1665</field>
+    <field name="collection_unitid_teim">MSS.095</field>
     <field name="series_sim">Series 3B: Correspondence to Remarque</field>
     <field name="series_si">Series 3B: Correspondence to Remarque &gt;&gt; Victoria Wolff</field>
     <field name="heading_ssm">Victoria Wolff</field>

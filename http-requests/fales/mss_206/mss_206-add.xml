@@ -6,11 +6,15 @@
     <field name="unittitle_teim">Franklin Furnace Ephemera Collection, Compiled by Matthew Hogan</field>
     <field name="unittitle_ssm">Franklin Furnace Ephemera Collection, Compiled by Matthew Hogan</field>
     <field name="unitid_teim">MSS.206</field>
-    <field name="unitid_teim">/repositories/3/resources/1751</field>
     <field name="unitid_ssm">MSS.206</field>
-    <field name="unitid_ssm">/repositories/3/resources/1751</field>
     <field name="abstract_teim">Since its inception in 1976, Franklin Furnace Archive, Inc. has been devoted to documenting and preserving ephemeral art forms. The Franklin Furnace Ephemera Collection contains invitations, flyers, postcards, and advertisements collected by Franklin Furnace. The collection is international in scope, comprising materials in numerous languages related to art events in numerous countries. Materials date from 1970 to 2014.</field>
     <field name="abstract_ssm">Since its inception in 1976, Franklin Furnace Archive, Inc. has been devoted to documenting and preserving ephemeral art forms. The Franklin Furnace Ephemera Collection contains invitations, flyers, postcards, and advertisements collected by Franklin Furnace. The collection is international in scope, comprising materials in numerous languages related to art events in numerous countries. Materials date from 1970 to 2014.</field>
+    <field name="creator_teim">Franklin Furnace (Archive)</field>
+    <field name="creator_teim">Hogan, Matthew</field>
+    <field name="creator_ssm">Franklin Furnace (Archive)</field>
+    <field name="creator_ssm">Hogan, Matthew</field>
+    <field name="creator_ssm">Franklin Furnace (Archive)</field>
+    <field name="creator_ssm">Hogan, Matthew</field>
     <field name="unitdate_normal_ssm">1970/2014</field>
     <field name="unitdate_normal_teim">1970/2014</field>
     <field name="unitdate_normal_sim">1970/2014</field>
@@ -247,6 +251,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Franklin Furnace (Archive)</field>
+    <field name="creator_sim">Hogan, Matthew</field>
     <field name="name_sim">Franklin Furnace (Archive)</field>
     <field name="name_sim">ABC No Rio (New York, N.Y.)</field>
     <field name="name_sim">92nd Street Y (New York, N.Y.)</field>

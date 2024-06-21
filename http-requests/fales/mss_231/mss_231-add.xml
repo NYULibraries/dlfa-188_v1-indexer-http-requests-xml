@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Gay Cable Network Archives</field>
     <field name="unittitle_ssm">Gay Cable Network Archives</field>
     <field name="unitid_teim">MSS.231</field>
-    <field name="unitid_teim">/repositories/3/resources/1767</field>
     <field name="unitid_ssm">MSS.231</field>
-    <field name="unitid_ssm">/repositories/3/resources/1767</field>
     <field name="abstract_teim">Founded in 1982 by Louis P. Maletta, the Gay Cable Network was the premiere media chronicler of events and personalities of the lesbian, gay, bisexual, and transgender (LGBT) community for nearly two decades. GCN programming broadcast on public access television in New York City and other major cities worldwide.</field>
     <field name="abstract_ssm">Founded in 1982 by Louis P. Maletta, the Gay Cable Network was the premiere media chronicler of events and personalities of the lesbian, gay, bisexual, and transgender (LGBT) community for nearly two decades. GCN programming broadcast on public access television in New York City and other major cities worldwide.</field>
+    <field name="creator_teim">Gay Cable Network</field>
+    <field name="creator_ssm">Gay Cable Network</field>
+    <field name="creator_ssm">Gay Cable Network</field>
     <field name="unitdate_normal_ssm">1982/2001</field>
     <field name="unitdate_normal_ssm">1984/2000</field>
     <field name="unitdate_normal_teim">1982/2001</field>
@@ -76,6 +77,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Gay Cable Network</field>
     <field name="name_sim">Gay Cable Network</field>
     <field name="name_sim">Gay Men's Health Crisis, Inc.</field>
     <field name="name_sim">Northrop, Ann</field>

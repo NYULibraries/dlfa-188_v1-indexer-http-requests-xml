@@ -15,6 +15,8 @@
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Doris #6</field>
     <field name="unittitle_teim">Doris #6</field>
+    <field name="unitid_teim">/repositories/3/archival_objects/541182</field>
+    <field name="unitid_ssm">/repositories/3/archival_objects/541182</field>
     <field name="unitdate_teim">undated</field>
     <field name="ref_ssi">aspace_ref25</field>
     <field name="repository_ssi">fales</field>
@@ -23,8 +25,7 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 20</field>
-    <field name="location_ssm">Folder: 20</field>
-    <field name="location_si">Folder: 20</field>
+    <field name="location_si">Box: 1, Folder: 20</field>
     <field name="collection_teim">Milly Itzhak Riot Grrrl Collection</field>
     <field name="collection_unitid_teim">MSS.280</field>
     <field name="series_sim">Series I: Zines and Related Correspondence</field>

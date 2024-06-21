@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Jaime Davidovich Collection</field>
     <field name="unittitle_ssm">Jaime Davidovich Collection</field>
     <field name="unitid_teim">MSS.155</field>
-    <field name="unitid_teim">/repositories/3/resources/1715</field>
     <field name="unitid_ssm">MSS.155</field>
-    <field name="unitid_ssm">/repositories/3/resources/1715</field>
     <field name="abstract_teim">The Jaime Davidovich Collection contains materials pertaining to his career as a visual artist, public access television producer, activist, and non-profit organizer. The collection contains documentation of Davidovich's career. Materials include: correspondence, clippings, drawings and sketches, exhibition catalogs, videotapes, and objects and artifacts such as Fluxus multiples, television-shaped objects, and a Sony color Portapak. Materials are in English and Spanish.</field>
     <field name="abstract_ssm">The Jaime Davidovich Collection contains materials pertaining to his career as a visual artist, public access television producer, activist, and non-profit organizer. The collection contains documentation of Davidovich's career. Materials include: correspondence, clippings, drawings and sketches, exhibition catalogs, videotapes, and objects and artifacts such as Fluxus multiples, television-shaped objects, and a Sony color Portapak. Materials are in English and Spanish.</field>
+    <field name="creator_teim">Davidovich, Jaime, 1936-2016</field>
+    <field name="creator_ssm">Davidovich, Jaime, 1936-2016</field>
+    <field name="creator_ssm">Davidovich, Jaime, 1936-2016</field>
     <field name="unitdate_normal_ssm">1953/2010</field>
     <field name="unitdate_normal_teim">1953/2010</field>
     <field name="unitdate_normal_sim">1953/2010</field>
@@ -272,6 +273,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Davidovich, Jaime, 1936-2016</field>
     <field name="name_sim">American Museum of the Moving Image</field>
     <field name="name_sim">University of Iowa</field>
     <field name="name_sim">Artists' Television Network</field>

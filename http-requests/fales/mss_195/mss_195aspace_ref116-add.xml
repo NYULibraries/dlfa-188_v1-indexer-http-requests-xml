@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Eye and Ear Theater Archive</field>
     <field name="collection_ssm">Eye and Ear Theater Archive</field>
-    <field name="collection_unitid_ssm">MSS.195/repositories/3/resources/1744</field>
+    <field name="collection_unitid_ssm">MSS.195</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Roll #3, Camera: Peter Stein, Tape Operator: Mark Goodermote</field>
     <field name="unittitle_teim">Roll #3, Camera: Peter Stein, Tape Operator: Mark Goodermote</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 2</field>
-    <field name="location_ssm">Folder: 2</field>
-    <field name="location_si">Folder: 2</field>
+    <field name="location_si">Box: 3, Folder: 2</field>
     <field name="collection_teim">Eye and Ear Theater Archive</field>
-    <field name="collection_unitid_teim">MSS.195/repositories/3/resources/1744</field>
+    <field name="collection_unitid_teim">MSS.195</field>
     <field name="series_sim">Series IV: Video recordings</field>
     <field name="series_sim">Subseries B: Originals</field>
     <field name="series_si">Series IV: Video recordings &gt;&gt; Subseries B: Originals &gt;&gt; Roll #3, Camera: Peter Stein, Tape Operator: Mark Goodermote</field>

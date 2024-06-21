@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Ursule Molinaro Papers</field>
     <field name="unittitle_ssm">Ursule Molinaro Papers</field>
     <field name="unitid_teim">MSS.514</field>
-    <field name="unitid_teim">/repositories/3/resources/2498</field>
     <field name="unitid_ssm">MSS.514</field>
-    <field name="unitid_ssm">/repositories/3/resources/2498</field>
     <field name="abstract_teim">Ursule Molinaro (1916-2000) was a poet, playwright, and visual artist who moved from France to New York City in the early 1950s to be a translator at the United Nations. Molinaro began publishing her writing in the 1960s and taught classes on creative writing before her death on July 10, 2000. This collection consists of correspondence between 1942 and 2004, as well as manuscripts of novels, plays, short stories. Materials also include flyers and other ephemera promoting Molinaro's writing and painting, audiovisual recordings of Molinaro reading her work, and photographic prints, negatives, and slides.</field>
     <field name="abstract_ssm">Ursule Molinaro (1916-2000) was a poet, playwright, and visual artist who moved from France to New York City in the early 1950s to be a translator at the United Nations. Molinaro began publishing her writing in the 1960s and taught classes on creative writing before her death on July 10, 2000. This collection consists of correspondence between 1942 and 2004, as well as manuscripts of novels, plays, short stories. Materials also include flyers and other ephemera promoting Molinaro's writing and painting, audiovisual recordings of Molinaro reading her work, and photographic prints, negatives, and slides.</field>
+    <field name="creator_teim">Molinaro, Ursule</field>
+    <field name="creator_ssm">Molinaro, Ursule</field>
+    <field name="creator_ssm">Molinaro, Ursule</field>
     <field name="unitdate_normal_ssm">1942/2004</field>
     <field name="unitdate_normal_teim">1942/2004</field>
     <field name="unitdate_normal_sim">1942/2004</field>
@@ -58,6 +59,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Molinaro, Ursule</field>
     <field name="name_sim">Molinaro, Ursule</field>
     <field name="name_teim">Molinaro, Ursule</field>
     <field name="subject_sim">Playwriting.</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">JDub Records Archive</field>
     <field name="collection_ssm">JDub Records Archive</field>
-    <field name="collection_unitid_ssm">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_ssm">MSS.330</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Loose papers - "Can Can" and "David Gould"</field>
     <field name="unittitle_teim">Loose papers - "Can Can" and "David Gould"</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 5, Folder: 68</field>
-    <field name="location_ssm">Folder: 68</field>
-    <field name="location_si">Folder: 68</field>
+    <field name="location_si">Box: 5, Folder: 68</field>
     <field name="collection_teim">JDub Records Archive</field>
-    <field name="collection_unitid_teim">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_teim">MSS.330</field>
     <field name="series_sim">Series V: Commercial Media</field>
     <field name="series_sim">Subseries B: Papers removed from media</field>
     <field name="series_si">Series V: Commercial Media &gt;&gt; Subseries B: Papers removed from media &gt;&gt; Loose papers - "Can Can" and "David Gould"</field>

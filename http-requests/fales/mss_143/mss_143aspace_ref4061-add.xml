@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Mix Collection</field>
     <field name="collection_ssm">The Mix Collection</field>
-    <field name="collection_unitid_ssm">MSS.143/repositories/3/resources/1706</field>
+    <field name="collection_unitid_ssm">MSS.143</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Entry forms - Business as Usual program</field>
     <field name="unittitle_teim">Entry forms - Business as Usual program</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 14, Folder: 1272</field>
-    <field name="location_ssm">Folder: 1272</field>
-    <field name="location_si">Folder: 1272</field>
+    <field name="location_si">Box: 14, Folder: 1272</field>
     <field name="collection_teim">The Mix Collection</field>
-    <field name="collection_unitid_teim">MSS.143/repositories/3/resources/1706</field>
+    <field name="collection_unitid_teim">MSS.143</field>
     <field name="series_sim">SERIES XIV: 2000</field>
     <field name="series_sim">Subseries C: Entry Forms/Press Kits</field>
     <field name="series_si">SERIES XIV: 2000 &gt;&gt; Subseries C: Entry Forms/Press Kits &gt;&gt; Entry forms - Business as Usual program</field>

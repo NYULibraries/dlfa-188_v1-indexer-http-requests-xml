@@ -16,7 +16,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Public Art Fund Archive</field>
     <field name="collection_ssm">Public Art Fund Archive</field>
-    <field name="collection_unitid_ssm">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_ssm">MSS.270</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Museum of Jewish Heritage - All invited artists - 1 of 2</field>
     <field name="unittitle_teim">Museum of Jewish Heritage - All invited artists - 1 of 2</field>
@@ -33,10 +33,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 69, Folder: 32</field>
-    <field name="location_ssm">Folder: 32</field>
-    <field name="location_si">Folder: 32</field>
+    <field name="location_si">Box: 69, Folder: 32</field>
     <field name="collection_teim">Public Art Fund Archive</field>
-    <field name="collection_unitid_teim">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_teim">MSS.270</field>
     <field name="series_sim">Series VI: Public Art Fund - Project Files</field>
     <field name="series_sim">Subseries VI.H: Museum of Jewish Heritage
 </field>

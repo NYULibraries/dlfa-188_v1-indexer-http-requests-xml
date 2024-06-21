@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Magie Dominic Off Off-Broadway Collection</field>
     <field name="collection_ssm">Magie Dominic Off Off-Broadway Collection</field>
-    <field name="collection_unitid_ssm">MSS.300/repositories/3/resources/1814</field>
+    <field name="collection_unitid_ssm">MSS.300</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">"Cino Exhibit 1985"</field>
     <field name="unittitle_teim">"Cino Exhibit 1985"</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Media: ID: 300.3.0006</field>
-    <field name="location_ssm">Media: ID: 300.3.0006</field>
-    <field name="location_si">Media: ID: 300.3.0006</field>
+    <field name="location_si">Box: 3, Media: ID: 300.3.0006</field>
     <field name="collection_teim">Magie Dominic Off Off-Broadway Collection</field>
-    <field name="collection_unitid_teim">MSS.300/repositories/3/resources/1814</field>
+    <field name="collection_unitid_teim">MSS.300</field>
     <field name="series_sim">Series VII: Data Storage</field>
     <field name="series_si">Series VII: Data Storage &gt;&gt; "Cino Exhibit 1985"</field>
     <field name="heading_ssm">"Cino Exhibit 1985"</field>

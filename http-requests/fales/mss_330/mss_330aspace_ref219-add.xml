@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">JDub Records Archive</field>
     <field name="collection_ssm">JDub Records Archive</field>
-    <field name="collection_unitid_ssm">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_ssm">MSS.330</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Schma-Journal - article by Aaron Bisman</field>
     <field name="unittitle_teim">Schma-Journal - article by Aaron Bisman</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 57</field>
-    <field name="location_ssm">Folder: 57</field>
-    <field name="location_si">Folder: 57</field>
+    <field name="location_si">Box: 3, Folder: 57</field>
     <field name="collection_teim">JDub Records Archive</field>
-    <field name="collection_unitid_teim">MSS.330/repositories/3/resources/1835</field>
+    <field name="collection_unitid_teim">MSS.330</field>
     <field name="series_sim">Series III: Administrative Material</field>
     <field name="series_si">Series III: Administrative Material &gt;&gt; Schma-Journal - article by Aaron Bisman</field>
     <field name="heading_ssm">Schma-Journal - article by Aaron Bisman</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Artists Space Archive</field>
     <field name="collection_ssm">Artists Space Archive</field>
-    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_ssm">MSS.291</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">The Mind/Body Problem: Sara Greenberger</field>
     <field name="unittitle_teim">The Mind/Body Problem: Sara Greenberger</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 89, Folder: 8</field>
-    <field name="location_ssm">Folder: 8</field>
-    <field name="location_si">Folder: 8</field>
+    <field name="location_si">Box: 89, Folder: 8</field>
     <field name="collection_teim">Artists Space Archive</field>
-    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_teim">MSS.291</field>
     <field name="series_sim">Series I: Exhibition Files</field>
     <field name="series_si">Series I: Exhibition Files &gt;&gt; The Mind/Body Problem: Sara Greenberger</field>
     <field name="heading_ssm">The Mind/Body Problem: Sara Greenberger</field>

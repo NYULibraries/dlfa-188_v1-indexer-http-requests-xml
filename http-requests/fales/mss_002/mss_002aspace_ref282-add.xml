@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Elizabeth Robins Papers</field>
     <field name="collection_ssm">Elizabeth Robins Papers</field>
-    <field name="collection_unitid_ssm">MSS.002/repositories/3/resources/1587</field>
+    <field name="collection_unitid_ssm">MSS.002</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Earl, Alfred 1923-1938, n.d.</field>
     <field name="unittitle_teim">Earl, Alfred 1923-1938, n.d.</field>
@@ -32,10 +32,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 26, Folder: 56</field>
-    <field name="location_ssm">Folder: 56</field>
-    <field name="location_si">Folder: 56</field>
+    <field name="location_si">Box: 26, Folder: 56</field>
     <field name="collection_teim">Elizabeth Robins Papers</field>
-    <field name="collection_unitid_teim">MSS.002/repositories/3/resources/1587</field>
+    <field name="collection_unitid_teim">MSS.002</field>
     <field name="series_sim">Series II: General Correspondence</field>
     <field name="series_sim">Subseries B: General Correspondence, 1888-1952</field>
     <field name="series_si">Series II: General Correspondence &gt;&gt; Subseries B: General Correspondence, 1888-1952 &gt;&gt; Earl, Alfred 1923-1938, n.d.</field>

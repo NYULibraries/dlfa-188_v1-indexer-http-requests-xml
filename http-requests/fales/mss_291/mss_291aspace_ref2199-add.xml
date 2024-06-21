@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Artists Space Archive</field>
     <field name="collection_ssm">Artists Space Archive</field>
-    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_ssm">MSS.291</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Multitude: Corine Borgnet Images</field>
     <field name="unittitle_teim">Multitude: Corine Borgnet Images</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 123, Folder: 25</field>
-    <field name="location_ssm">Folder: 25</field>
-    <field name="location_si">Folder: 25</field>
+    <field name="location_si">Box: 123, Folder: 25</field>
     <field name="collection_teim">Artists Space Archive</field>
-    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_teim">MSS.291</field>
     <field name="series_sim">OVERSIZE Series I: Exhibition Files</field>
     <field name="series_si">OVERSIZE Series I: Exhibition Files &gt;&gt; Multitude: Corine Borgnet Images</field>
     <field name="heading_ssm">Multitude: Corine Borgnet Images</field>

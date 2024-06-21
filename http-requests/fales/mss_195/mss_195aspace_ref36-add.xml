@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Eye and Ear Theater Archive</field>
     <field name="collection_ssm">Eye and Ear Theater Archive</field>
-    <field name="collection_unitid_ssm">MSS.195/repositories/3/resources/1744</field>
+    <field name="collection_unitid_ssm">MSS.195</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Benefit - 4/21/1985</field>
     <field name="unittitle_teim">Benefit - 4/21/1985</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 22</field>
-    <field name="location_ssm">Folder: 22</field>
-    <field name="location_si">Folder: 22</field>
+    <field name="location_si">Box: 1, Folder: 22</field>
     <field name="collection_teim">Eye and Ear Theater Archive</field>
-    <field name="collection_unitid_teim">MSS.195/repositories/3/resources/1744</field>
+    <field name="collection_unitid_teim">MSS.195</field>
     <field name="series_sim">Series I: Administrative Materials</field>
     <field name="series_sim">Subseries B: Fundraising and Grant Materials</field>
     <field name="series_si">Series I: Administrative Materials &gt;&gt; Subseries B: Fundraising and Grant Materials &gt;&gt; Benefit - 4/21/1985</field>

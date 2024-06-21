@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sparrow Papers</field>
     <field name="collection_ssm">Sparrow Papers</field>
-    <field name="collection_unitid_ssm">MSS.096/repositories/3/resources/1666</field>
+    <field name="collection_unitid_ssm">MSS.096</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Journals</field>
     <field name="unittitle_teim">Journals</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 7</field>
-    <field name="location_ssm">Folder: 7</field>
-    <field name="location_si">Folder: 7</field>
+    <field name="location_si">Box: 3, Folder: 7</field>
     <field name="collection_teim">Sparrow Papers</field>
-    <field name="collection_unitid_teim">MSS.096/repositories/3/resources/1666</field>
+    <field name="collection_unitid_teim">MSS.096</field>
     <field name="series_sim">Series II: Journals/Travelogues</field>
     <field name="series_si">Series II: Journals/Travelogues &gt;&gt; Journals</field>
     <field name="heading_ssm">Journals</field>

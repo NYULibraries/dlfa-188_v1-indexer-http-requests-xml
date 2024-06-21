@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MSS.080</field>
     <field name="abstract_teim">Bob Witz is the editor of Appearances Magazine, a small arts magazine first published in the East Village during the 1980s. Witz is also an artist, writer and sculptor who lives in New York. The collection consists of material related to Appearances Magazine, correspondence, gallery catalogues and ephemera, sketchbooks, writings, chap books, drawings, and photographs.</field>
     <field name="abstract_ssm">Bob Witz is the editor of Appearances Magazine, a small arts magazine first published in the East Village during the 1980s. Witz is also an artist, writer and sculptor who lives in New York. The collection consists of material related to Appearances Magazine, correspondence, gallery catalogues and ephemera, sketchbooks, writings, chap books, drawings, and photographs.</field>
+    <field name="creator_teim">Witz, Bob</field>
+    <field name="creator_ssm">Witz, Bob</field>
+    <field name="creator_ssm">Witz, Bob</field>
     <field name="unitdate_normal_ssm">1960/2010</field>
     <field name="unitdate_normal_teim">1960/2010</field>
     <field name="unitdate_normal_sim">1960/2010</field>
@@ -94,6 +97,7 @@ Material related to Appearances Magazine includes notebooks compiled by Witz ove
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Witz, Bob</field>
     <field name="name_sim">Appearances (Firm)</field>
     <field name="name_sim">Witz, Bob</field>
     <field name="name_sim">Anthony, William</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Paper Tiger Television Archive</field>
     <field name="collection_ssm">The Paper Tiger Television Archive</field>
-    <field name="collection_unitid_ssm">MSS.276/repositories/3/resources/1800</field>
+    <field name="collection_unitid_ssm">MSS.276</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Colombia and the Media: Illusions of the Drug War - Master</field>
     <field name="unittitle_teim">Colombia and the Media: Illusions of the Drug War - Master</field>
@@ -35,11 +35,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 68, Media: ID: 276.0227</field>
-    <field name="location_ssm">Media: ID: 276.0227</field>
-    <field name="location_si">Media: ID: 276.0227</field>
+    <field name="location_si">Box: 68, Media: ID: 276.0227</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">The Paper Tiger Television Archive</field>
-    <field name="collection_unitid_teim">MSS.276/repositories/3/resources/1800</field>
+    <field name="collection_unitid_teim">MSS.276</field>
     <field name="series_sim">Series VII: Video recordings</field>
     <field name="series_sim">Subseries A: PTTV - Broadcast Videotapes</field>
     <field name="series_si">Series VII: Video recordings &gt;&gt; Subseries A: PTTV - Broadcast Videotapes &gt;&gt; Colombia and the Media: Illusions of the Drug War - Master</field>

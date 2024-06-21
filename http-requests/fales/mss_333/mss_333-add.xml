@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Parasite Archive</field>
     <field name="unittitle_ssm">Parasite Archive</field>
     <field name="unitid_teim">MSS.333</field>
-    <field name="unitid_teim">/repositories/3/resources/1836</field>
     <field name="unitid_ssm">MSS.333</field>
-    <field name="unitid_ssm">/repositories/3/resources/1836</field>
     <field name="abstract_teim">Parasite was an artist-run organization, primarily active between the years 1997 to 1998, that was committed to supporting, documenting, and presenting project-based artwork. The Archive includes administrative records, articles, books, correspondence, ephemera, photography, promotional materials, objects, and audiovisual elements.</field>
     <field name="abstract_ssm">Parasite was an artist-run organization, primarily active between the years 1997 to 1998, that was committed to supporting, documenting, and presenting project-based artwork. The Archive includes administrative records, articles, books, correspondence, ephemera, photography, promotional materials, objects, and audiovisual elements.</field>
+    <field name="creator_teim">Parasite</field>
+    <field name="creator_ssm">Parasite</field>
+    <field name="creator_ssm">Parasite</field>
     <field name="unitdate_normal_ssm">1966/1999</field>
     <field name="unitdate_normal_ssm">1991/1999</field>
     <field name="unitdate_normal_teim">1966/1999</field>
@@ -121,6 +122,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Parasite</field>
     <field name="name_sim">Parasite</field>
     <field name="name_sim">Kinmont, Ben</field>
     <field name="name_sim">Ault, Julie</field>

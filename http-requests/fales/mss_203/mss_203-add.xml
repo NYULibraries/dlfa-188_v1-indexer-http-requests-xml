@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Amos Poe Papers</field>
     <field name="unittitle_ssm">Amos Poe Papers</field>
     <field name="unitid_teim">MSS.203</field>
-    <field name="unitid_teim">/repositories/3/resources/1750</field>
     <field name="unitid_ssm">MSS.203</field>
-    <field name="unitid_ssm">/repositories/3/resources/1750</field>
     <field name="abstract_teim">Amos Poe is a filmmaker, writer, and producer who became one of the leading figures of the No Wave Cinema Movement (1976-1985). The Amos Poe Papers largely preserves Poe's writing and the writing of others, which includes scripts, screenplays, and other writings, as well as journals, notebooks, photographs, and audio and moving image elements.</field>
     <field name="abstract_ssm">Amos Poe is a filmmaker, writer, and producer who became one of the leading figures of the No Wave Cinema Movement (1976-1985). The Amos Poe Papers largely preserves Poe's writing and the writing of others, which includes scripts, screenplays, and other writings, as well as journals, notebooks, photographs, and audio and moving image elements.</field>
+    <field name="creator_teim">Poe, Amos</field>
+    <field name="creator_ssm">Poe, Amos</field>
+    <field name="creator_ssm">Poe, Amos</field>
     <field name="unitdate_normal_ssm">1966/2005</field>
     <field name="unitdate_normal_teim">1966/2005</field>
     <field name="unitdate_normal_sim">1966/2005</field>
@@ -81,6 +82,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Poe, Amos</field>
     <field name="name_sim">Ramones (Musical group)</field>
     <field name="name_sim">Poe, Amos</field>
     <field name="name_sim">Kral, Ivan</field>

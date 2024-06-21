@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Edward Robb Ellis Papers</field>
     <field name="unittitle_ssm">Edward Robb Ellis Papers</field>
     <field name="unitid_teim">MSS.068</field>
-    <field name="unitid_teim">/repositories/3/resources/1643</field>
     <field name="unitid_ssm">MSS.068</field>
-    <field name="unitid_ssm">/repositories/3/resources/1643</field>
     <field name="abstract_teim">The bulk of the collection is a continuous diary kept from 1927 up until Edward Robb Ellis' death in 1998. The diary includes handwritten and typed entries as well as photographs and correspondence and consists of bound volumes and loose pages. Also included in the collection are clippings arranged into subject files, book typescripts and audio and visual media.</field>
     <field name="abstract_ssm">The bulk of the collection is a continuous diary kept from 1927 up until Edward Robb Ellis' death in 1998. The diary includes handwritten and typed entries as well as photographs and correspondence and consists of bound volumes and loose pages. Also included in the collection are clippings arranged into subject files, book typescripts and audio and visual media.</field>
+    <field name="creator_teim">Ellis, Edward Robb</field>
+    <field name="creator_ssm">Ellis, Edward Robb</field>
+    <field name="creator_ssm">Ellis, Edward Robb</field>
     <field name="unitdate_normal_ssm">1902/1998</field>
     <field name="unitdate_normal_teim">1902/1998</field>
     <field name="unitdate_normal_sim">1902/1998</field>
@@ -96,6 +97,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Ellis, Edward Robb</field>
     <field name="name_sim">Peoria Journal-Transcript</field>
     <field name="name_sim">Letts of London</field>
     <field name="name_sim">University of Missouri</field>

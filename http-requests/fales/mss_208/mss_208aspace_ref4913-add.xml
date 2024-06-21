@@ -17,7 +17,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sylvester Manor Archive</field>
     <field name="collection_ssm">Sylvester Manor Archive</field>
-    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">[Aubue], Margaret: Rochester, [NY]</field>
     <field name="unittitle_teim">[Aubue], Margaret: Rochester, [NY]</field>
@@ -45,11 +45,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 101, Folder: 15</field>
-    <field name="location_ssm">Folder: 15</field>
-    <field name="location_si">Folder: 15</field>
+    <field name="location_si">Box: 101, Folder: 15</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Sylvester Manor Archive</field>
-    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_teim">MSS.208</field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series H: Cornelia Conway Felton Horsford (Nellie)</field>
     <field name="series_sim">Subseries 1: Correspondence</field>

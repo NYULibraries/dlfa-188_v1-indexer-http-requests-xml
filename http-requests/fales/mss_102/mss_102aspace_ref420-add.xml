@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Martin Wong Papers</field>
     <field name="collection_ssm">Martin Wong Papers</field>
-    <field name="collection_unitid_ssm">MSS.102/repositories/3/resources/1672</field>
+    <field name="collection_unitid_ssm">MSS.102</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Writing: "Firefly Evening"</field>
     <field name="unittitle_teim">Writing: "Firefly Evening"</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 48, Folder: 13</field>
-    <field name="location_ssm">Folder: 13</field>
-    <field name="location_si">Folder: 13</field>
+    <field name="location_si">Box: 48, Folder: 13</field>
     <field name="collection_teim">Martin Wong Papers</field>
-    <field name="collection_unitid_teim">MSS.102/repositories/3/resources/1672</field>
+    <field name="collection_unitid_teim">MSS.102</field>
     <field name="series_sim">Series IV: Biographical</field>
     <field name="series_si">Series IV: Biographical &gt;&gt; Writing: "Firefly Evening"</field>
     <field name="heading_ssm">Writing: "Firefly Evening"</field>

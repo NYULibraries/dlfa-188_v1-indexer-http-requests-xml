@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Shu Lea Cheang Papers</field>
     <field name="collection_ssm">Shu Lea Cheang Papers</field>
-    <field name="collection_unitid_ssm">MSS.381/repositories/3/resources/1869</field>
+    <field name="collection_unitid_ssm">MSS.381</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Appointment Calendar</field>
     <field name="unittitle_teim">Appointment Calendar</field>
@@ -24,10 +24,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 3, Folder: 3</field>
     <field name="collection_teim">Shu Lea Cheang Papers</field>
-    <field name="collection_unitid_teim">MSS.381/repositories/3/resources/1869</field>
+    <field name="collection_unitid_teim">MSS.381</field>
     <field name="series_si">Appointment Calendar</field>
     <field name="heading_ssm">Appointment Calendar</field>
     <field name="unitdate_start_sim">1988</field>

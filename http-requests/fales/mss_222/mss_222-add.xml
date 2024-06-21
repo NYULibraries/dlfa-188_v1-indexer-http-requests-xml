@@ -9,6 +9,12 @@
     <field name="unitid_ssm">MSS.222</field>
     <field name="abstract_teim">The Joe Campbell Collection of Dorothy Dean Letters contains 46 letters written to Joe Campbell. Of the 46, 42 were written by Dorothy Dean; the other four were written by various friends of Campbell after Dean's death. The letters are dated from 1964-1987.</field>
     <field name="abstract_ssm">The Joe Campbell Collection of Dorothy Dean Letters contains 46 letters written to Joe Campbell. Of the 46, 42 were written by Dorothy Dean; the other four were written by various friends of Campbell after Dean's death. The letters are dated from 1964-1987.</field>
+    <field name="creator_teim">Dean, Dorothy</field>
+    <field name="creator_teim">Campbell, Joe</field>
+    <field name="creator_ssm">Dean, Dorothy</field>
+    <field name="creator_ssm">Campbell, Joe</field>
+    <field name="creator_ssm">Dean, Dorothy</field>
+    <field name="creator_ssm">Campbell, Joe</field>
     <field name="unitdate_normal_ssm">1964/1987</field>
     <field name="unitdate_normal_teim">1964/1987</field>
     <field name="unitdate_normal_sim">1964/1987</field>
@@ -64,6 +70,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Dean, Dorothy</field>
+    <field name="creator_sim">Campbell, Joe</field>
     <field name="name_sim">Dean, Dorothy</field>
     <field name="name_sim">Campbell, Joe</field>
     <field name="name_sim">Warhol, Andy, 1928-1987</field>

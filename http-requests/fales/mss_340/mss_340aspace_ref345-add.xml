@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Darinka Archive</field>
     <field name="collection_ssm">Darinka Archive</field>
-    <field name="collection_unitid_ssm">MSS.340/repositories/3/resources/1841</field>
+    <field name="collection_unitid_ssm">MSS.340</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Eurythmics</field>
     <field name="unittitle_teim">Eurythmics</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 8, Media: ID: 340.0123</field>
-    <field name="location_ssm">Media: ID: 340.0123</field>
-    <field name="location_si">Media: ID: 340.0123</field>
+    <field name="location_si">Box: 8, Media: ID: 340.0123</field>
     <field name="collection_teim">Darinka Archive</field>
-    <field name="collection_unitid_teim">MSS.340/repositories/3/resources/1841</field>
+    <field name="collection_unitid_teim">MSS.340</field>
     <field name="series_sim">Series III: Audio Recordings</field>
     <field name="series_sim">Subseries B: Darinka Music </field>
     <field name="series_si">Series III: Audio Recordings &gt;&gt; Subseries B: Darinka Music  &gt;&gt; Eurythmics</field>

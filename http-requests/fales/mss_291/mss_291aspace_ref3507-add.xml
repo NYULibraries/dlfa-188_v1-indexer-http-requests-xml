@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Artists Space Archive</field>
     <field name="collection_ssm">Artists Space Archive</field>
-    <field name="collection_unitid_ssm">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_ssm">MSS.291</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Lea Lagasse, "Oops!...I Did It Again 11, 23 Loop"</field>
     <field name="unittitle_teim">Lea Lagasse, "Oops!...I Did It Again 11, 23 Loop"</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 245, Media: ID: 291.0066</field>
-    <field name="location_ssm">Media: ID: 291.0066</field>
-    <field name="location_si">Media: ID: 291.0066</field>
+    <field name="location_si">Box: 245, Media: ID: 291.0066</field>
     <field name="collection_teim">Artists Space Archive</field>
-    <field name="collection_unitid_teim">MSS.291/repositories/3/resources/1808</field>
+    <field name="collection_unitid_teim">MSS.291</field>
     <field name="series_sim">Series VIII: Media</field>
     <field name="series_sim">Subseries A: Sound recordings, video recordings, and films</field>
     <field name="series_si">Series VIII: Media &gt;&gt; Subseries A: Sound recordings, video recordings, and films &gt;&gt; Lea Lagasse, "Oops!...I Did It Again 11, 23 Loop"</field>

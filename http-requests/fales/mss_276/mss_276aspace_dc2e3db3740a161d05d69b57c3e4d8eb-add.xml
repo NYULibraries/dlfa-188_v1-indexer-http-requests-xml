@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">The Paper Tiger Television Archive</field>
     <field name="collection_ssm">The Paper Tiger Television Archive</field>
-    <field name="collection_unitid_ssm">MSS.276/repositories/3/resources/1800</field>
+    <field name="collection_unitid_ssm">MSS.276</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Episode 72: Flo Kennedy on US Press on South Africa </field>
     <field name="unittitle_teim">Episode 72: Flo Kennedy on US Press on South Africa </field>
@@ -28,13 +28,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 146, Media: 72</field>
-    <field name="location_ssm">Media: 72</field>
     <field name="location_ssm">Box: 15, Media: 72</field>
     <field name="location_ssm">Box: Digitized Access Files, file: cuid4687</field>
-    <field name="location_ssm">file: cuid4687</field>
-    <field name="location_si">file: cuid4687</field>
+    <field name="location_si">Box: Digitized Access Files, file: cuid4687</field>
     <field name="collection_teim">The Paper Tiger Television Archive</field>
-    <field name="collection_unitid_teim">MSS.276/repositories/3/resources/1800</field>
+    <field name="collection_unitid_teim">MSS.276</field>
     <field name="series_sim">Series XII. August 2016 Accretion</field>
     <field name="series_si">Series XII. August 2016 Accretion &gt;&gt; Episode 72: Flo Kennedy on US Press on South Africa </field>
     <field name="heading_ssm">Episode 72: Flo Kennedy on US Press on South Africa </field>

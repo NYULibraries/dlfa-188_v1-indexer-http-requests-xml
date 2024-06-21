@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Bern Boyle Papers</field>
     <field name="unittitle_ssm">Bern Boyle Papers</field>
     <field name="unitid_teim">MSS.341</field>
-    <field name="unitid_teim">/repositories/3/resources/1842</field>
     <field name="unitid_ssm">MSS.341</field>
-    <field name="unitid_ssm">/repositories/3/resources/1842</field>
     <field name="abstract_teim">Bern Boyle was a photographer, curator, actor, filmmaker, and LGBT activist. The Bern Boyle Photography Collection comprises his work in the form of contact sheets, negatives, photographs, and slides. In addition, this collection includes correspondence, postcards, press clippings, promotional material, and Boyle's 8mm and 16mm films.</field>
     <field name="abstract_ssm">Bern Boyle was a photographer, curator, actor, filmmaker, and LGBT activist. The Bern Boyle Photography Collection comprises his work in the form of contact sheets, negatives, photographs, and slides. In addition, this collection includes correspondence, postcards, press clippings, promotional material, and Boyle's 8mm and 16mm films.</field>
+    <field name="creator_teim">Boyle, Bern</field>
+    <field name="creator_ssm">Boyle, Bern</field>
+    <field name="creator_ssm">Boyle, Bern</field>
     <field name="unitdate_normal_ssm">1976/2000</field>
     <field name="unitdate_normal_ssm">1979/1989</field>
     <field name="unitdate_normal_teim">1976/2000</field>
@@ -139,6 +140,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Boyle, Bern</field>
     <field name="name_sim">Gracie Mansion Gallery</field>
     <field name="name_sim">Boyle, Bern</field>
     <field name="name_sim">Wilson, Michael</field>

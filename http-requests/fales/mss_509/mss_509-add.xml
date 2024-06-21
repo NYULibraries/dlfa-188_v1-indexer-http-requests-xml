@@ -9,6 +9,9 @@
     <field name="unitid_ssm">MSS.509</field>
     <field name="abstract_teim">The Fales Library Collection of Artwork and Memorabilia was created in 2017 to track artworks that had been found in the collection and artworks donated to the Fales Library &amp; Special Collections.  The collection consists of artworks found in the collection and artworks donated to the Fales Library &amp; Special Collections.  The artworks consist of paintings, drawings, photographs, religious objects, realia, and sculptures.  The artworks date from 1851 to 2016.</field>
     <field name="abstract_ssm">The Fales Library Collection of Artwork and Memorabilia was created in 2017 to track artworks that had been found in the collection and artworks donated to the Fales Library &amp; Special Collections.  The collection consists of artworks found in the collection and artworks donated to the Fales Library &amp; Special Collections.  The artworks consist of paintings, drawings, photographs, religious objects, realia, and sculptures.  The artworks date from 1851 to 2016.</field>
+    <field name="creator_teim">Fales Library</field>
+    <field name="creator_ssm">Fales Library</field>
+    <field name="creator_ssm">Fales Library</field>
     <field name="unitdate_normal_ssm">1851/2016</field>
     <field name="unitdate_normal_teim">1851/2016</field>
     <field name="unitdate_normal_sim">1851/2016</field>
@@ -35,6 +38,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Fales Library</field>
     <field name="name_sim">Fales Library</field>
     <field name="name_teim">Fales Library</field>
     <field name="material_type_sim">Memorabilia.</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">David Wojnarowicz Papers</field>
     <field name="unittitle_ssm">David Wojnarowicz Papers</field>
     <field name="unitid_teim">MSS.092</field>
-    <field name="unitid_teim">/repositories/3/resources/1662</field>
     <field name="unitid_ssm">MSS.092</field>
-    <field name="unitid_ssm">/repositories/3/resources/1662</field>
     <field name="abstract_teim">David Wojnarowicz was a painter, writer, photographer, filmmaker, performer, and activist. He made super-8 films, created the photographic series "Arthur Rimbaud in New York", performed in the band Three Teens Kill 4 - No Motive, and exhibited his work in well known East Village galleries. In 1985, he was included in the Whitney Biennial, the so-called "Graffiti Show". He died of AIDS on July 22, 1992. The David Wojnarowicz Papers includes journals, correspondence, manuscripts, photography, film, video and audio works, source and production materials, objects, and ephemera.</field>
     <field name="abstract_ssm">David Wojnarowicz was a painter, writer, photographer, filmmaker, performer, and activist. He made super-8 films, created the photographic series "Arthur Rimbaud in New York", performed in the band Three Teens Kill 4 - No Motive, and exhibited his work in well known East Village galleries. In 1985, he was included in the Whitney Biennial, the so-called "Graffiti Show". He died of AIDS on July 22, 1992. The David Wojnarowicz Papers includes journals, correspondence, manuscripts, photography, film, video and audio works, source and production materials, objects, and ephemera.</field>
+    <field name="creator_teim">Wojnarowicz, David</field>
+    <field name="creator_ssm">Wojnarowicz, David</field>
+    <field name="creator_ssm">Wojnarowicz, David</field>
     <field name="unitdate_normal_ssm">1954/1992</field>
     <field name="unitdate_normal_teim">1954/1992</field>
     <field name="unitdate_normal_sim">1954/1992</field>
@@ -181,6 +182,7 @@ Waterfront Journals, New York: Grove Press, 1996.</field>
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Wojnarowicz, David</field>
     <field name="name_sim">Spin</field>
     <field name="name_sim">The New Yorker</field>
     <field name="name_sim">Artforum</field>

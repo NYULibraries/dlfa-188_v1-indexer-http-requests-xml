@@ -6,9 +6,7 @@
     <field name="unittitle_teim">Hal Sirowitz Papers</field>
     <field name="unittitle_ssm">Hal Sirowitz Papers</field>
     <field name="unitid_teim">MSS.196</field>
-    <field name="unitid_teim">/repositories/3/resources/1745</field>
     <field name="unitid_ssm">MSS.196</field>
-    <field name="unitid_ssm">/repositories/3/resources/1745</field>
     <field name="abstract_teim">Hal Sirowitz (born 1949), known as "the people's poet," is an internationally known American poet, author, and retired public school teacher. He is most known for his work, Mother Said, and was a frequent competitor in Nuyorican Poets Café's Friday Night Poetry Slam in the late 1980s and early 1990s. In 1994, Sirowitz was awarded a National Endowment for the Arts Fellowship and in 2004, a New York Foundation for the Arts fellowship. He became the second Poet Laureate of Queens, New York, a position he held for three years. In 2012, he was the co-winner of the Noir Con Poetry Contest. Sirowitz taught special education classes in the New York City public school system for twenty-three years.
 
 
@@ -19,6 +17,9 @@ This collection dates between 1943 and 2002 (bulk 1990-2001) and consists of mat
 
 
 This collection dates between 1943 and 2002 (bulk 1990-2001) and consists of materials reflecting his career as a writer and public school teacher. Materials include print publications; original manuscripts; poems; plays; academic writings, clippings; teaching materials; newsletters; postcards; ephemera; photographs; receipts, address lists; author bios; correspondence; promotional materials and sales records; works by other authors; an award plaque; notebooks; an MTA Subway poster; and audiovisual materials documenting the spoken word.</field>
+    <field name="creator_teim">Sirowitz, Hal</field>
+    <field name="creator_ssm">Sirowitz, Hal</field>
+    <field name="creator_ssm">Sirowitz, Hal</field>
     <field name="unitdate_normal_ssm">1943/2004</field>
     <field name="unitdate_normal_ssm">1990/2001</field>
     <field name="unitdate_normal_teim">1943/2004</field>
@@ -86,6 +87,7 @@ This collection dates between 1943 and 2002 (bulk 1990-2001) and consists of mat
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Sirowitz, Hal</field>
     <field name="name_sim">Sirowitz, Hal</field>
     <field name="name_teim">Sirowitz, Hal</field>
     <field name="subject_sim">American poetry -- 20th century.</field>

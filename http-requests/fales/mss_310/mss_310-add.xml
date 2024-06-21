@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Food Studies Ephemera Collection</field>
     <field name="unittitle_ssm">Food Studies Ephemera Collection</field>
     <field name="unitid_teim">MSS.310</field>
-    <field name="unitid_teim">/repositories/3/resources/1821</field>
     <field name="unitid_ssm">MSS.310</field>
-    <field name="unitid_ssm">/repositories/3/resources/1821</field>
     <field name="abstract_teim">The Food Studies Ephemera Collection consists of pamphlets, recipe booklets, and other food- and cookery-related ephemera donated to Fales by various donors.</field>
     <field name="abstract_ssm">The Food Studies Ephemera Collection consists of pamphlets, recipe booklets, and other food- and cookery-related ephemera donated to Fales by various donors.</field>
+    <field name="creator_teim">Fales Library</field>
+    <field name="creator_ssm">Fales Library</field>
+    <field name="creator_ssm">Fales Library</field>
     <field name="unitdate_normal_ssm">1900/2015</field>
     <field name="unitdate_normal_teim">1900/2015</field>
     <field name="unitdate_normal_sim">1900/2015</field>
@@ -54,6 +55,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Fales Library</field>
     <field name="name_sim">Fales Library</field>
     <field name="name_sim">Cuisinart (Firm)</field>
     <field name="name_teim">Fales Library</field>

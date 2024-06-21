@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Peter Dougherty Collection</field>
     <field name="collection_ssm">Peter Dougherty Collection</field>
-    <field name="collection_unitid_ssm">MSS.213/repositories/3/resources/1756</field>
+    <field name="collection_unitid_ssm">MSS.213</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Heartbreakers / Johnny Thunders</field>
     <field name="unittitle_teim">Heartbreakers / Johnny Thunders</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 13, Folder: 30</field>
-    <field name="location_ssm">Folder: 30</field>
-    <field name="location_si">Folder: 30</field>
+    <field name="location_si">Box: 13, Folder: 30</field>
     <field name="collection_teim">Peter Dougherty Collection</field>
-    <field name="collection_unitid_teim">MSS.213/repositories/3/resources/1756</field>
+    <field name="collection_unitid_teim">MSS.213</field>
     <field name="series_sim">Series IV: Ephemera, Flyers, Programs</field>
     <field name="series_sim">Subseries A: Music</field>
     <field name="series_si">Series IV: Ephemera, Flyers, Programs &gt;&gt; Subseries A: Music &gt;&gt; Heartbreakers / Johnny Thunders</field>

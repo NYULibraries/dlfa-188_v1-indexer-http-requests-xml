@@ -9,6 +9,12 @@
     <field name="unitid_ssm">MSS.458</field>
     <field name="abstract_teim">The David Gurin Collection on Jack Smith contains materials about or created by New York-based actor, experimental filmmaker, photographer, and performance artist Jack Smith (1932-1989). These materials were assembled by his friend David Gurin in the early 1960s and following his death in 1989. Materials include correspondence, clippings, promotional ephemera, and photographs. The collection is of particular importance to researchers interested in the development of Smith's most notable film Flaming Creatures.</field>
     <field name="abstract_ssm">The David Gurin Collection on Jack Smith contains materials about or created by New York-based actor, experimental filmmaker, photographer, and performance artist Jack Smith (1932-1989). These materials were assembled by his friend David Gurin in the early 1960s and following his death in 1989. Materials include correspondence, clippings, promotional ephemera, and photographs. The collection is of particular importance to researchers interested in the development of Smith's most notable film Flaming Creatures.</field>
+    <field name="creator_teim">Gurin, David</field>
+    <field name="creator_teim">Smith, Jack, 1932-1989</field>
+    <field name="creator_ssm">Gurin, David</field>
+    <field name="creator_ssm">Smith, Jack, 1932-1989</field>
+    <field name="creator_ssm">Gurin, David</field>
+    <field name="creator_ssm">Smith, Jack, 1932-1989</field>
     <field name="unitdate_normal_ssm">1961/1991</field>
     <field name="unitdate_normal_teim">1961/1991</field>
     <field name="unitdate_normal_sim">1961/1991</field>
@@ -57,6 +63,8 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Gurin, David</field>
+    <field name="creator_sim">Smith, Jack, 1932-1989</field>
     <field name="name_sim">Gurin, David</field>
     <field name="name_sim">Smith, Jack, 1932-1989</field>
     <field name="name_teim">Gurin, David</field>

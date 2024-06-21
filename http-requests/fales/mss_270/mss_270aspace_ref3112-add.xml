@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Public Art Fund Archive</field>
     <field name="collection_ssm">Public Art Fund Archive</field>
-    <field name="collection_unitid_ssm">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_ssm">MSS.270</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Deon, Richard - Hike New York - Long Island City -- Sunnyside Historic District .5 mi, Thompson Hill Park .8 mi, Thalia Spanish Theatre .8 mi</field>
     <field name="unittitle_teim">Deon, Richard - Hike New York - Long Island City -- Sunnyside Historic District .5 mi, Thompson Hill Park .8 mi, Thalia Spanish Theatre .8 mi</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 126, Item: MSS.270.cuid6054</field>
-    <field name="location_ssm">Item: MSS.270.cuid6054</field>
-    <field name="location_si">Item: MSS.270.cuid6054</field>
+    <field name="location_si">Box: 126, Item: MSS.270.cuid6054</field>
     <field name="collection_teim">Public Art Fund Archive</field>
-    <field name="collection_unitid_teim">MSS.270/repositories/3/resources/1796</field>
+    <field name="collection_unitid_teim">MSS.270</field>
     <field name="series_sim">Oversize Series VI: Project Files</field>
     <field name="series_si">Oversize Series VI: Project Files &gt;&gt; Deon, Richard - Hike New York - Long Island City -- Sunnyside Historic District .5 mi, Thompson Hill Park .8 mi, Thalia Spanish Theatre .8 mi</field>
     <field name="heading_ssm">Deon, Richard - Hike New York - Long Island City -- Sunnyside Historic District .5 mi, Thompson Hill Park .8 mi, Thalia Spanish Theatre .8 mi</field>

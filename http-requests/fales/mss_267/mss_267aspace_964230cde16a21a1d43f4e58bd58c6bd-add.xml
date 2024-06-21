@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Alan Sondheim Papers</field>
     <field name="collection_ssm">Alan Sondheim Papers</field>
-    <field name="collection_unitid_ssm">MSS.267/repositories/3/resources/2604</field>
+    <field name="collection_unitid_ssm">MSS.267</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Birds"</field>
     <field name="unittitle_teim">"Birds"</field>
@@ -30,10 +30,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 32, Folder: 56</field>
-    <field name="location_ssm">Folder: 56</field>
-    <field name="location_si">Folder: 56</field>
+    <field name="location_si">Box: 32, Folder: 56</field>
     <field name="collection_teim">Alan Sondheim Papers</field>
-    <field name="collection_unitid_teim">MSS.267/repositories/3/resources/2604</field>
+    <field name="collection_unitid_teim">MSS.267</field>
     <field name="series_sim">Series I. Written Work</field>
     <field name="series_si">Series I. Written Work &gt;&gt; "Birds"</field>
     <field name="heading_ssm">"Birds"</field>

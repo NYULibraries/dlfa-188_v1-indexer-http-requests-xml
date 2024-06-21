@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Franklin Furnace Ephemera Collection, Compiled by Matthew Hogan</field>
     <field name="collection_ssm">Franklin Furnace Ephemera Collection, Compiled by Matthew Hogan</field>
-    <field name="collection_unitid_ssm">MSS.206/repositories/3/resources/1751</field>
+    <field name="collection_unitid_ssm">MSS.206</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Unalphabetized</field>
     <field name="unittitle_teim">Unalphabetized</field>
@@ -20,10 +20,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 101, Folder: 1-8</field>
-    <field name="location_ssm">Folder: 1-8</field>
-    <field name="location_si">Folder: 1-8</field>
+    <field name="location_si">Box: 101, Folder: 1-8</field>
     <field name="collection_teim">Franklin Furnace Ephemera Collection, Compiled by Matthew Hogan</field>
-    <field name="collection_unitid_teim">MSS.206/repositories/3/resources/1751</field>
+    <field name="collection_unitid_teim">MSS.206</field>
     <field name="series_si">Unalphabetized</field>
     <field name="heading_ssm">Unalphabetized</field>
     <field name="date_range_sim">undated &amp; other</field>

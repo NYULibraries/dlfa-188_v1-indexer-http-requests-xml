@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Patty Mucha Papers</field>
     <field name="collection_ssm">Patty Mucha Papers</field>
-    <field name="collection_unitid_ssm">MSS.342/repositories/3/resources/1843</field>
+    <field name="collection_unitid_ssm">MSS.342</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Close up of (Jeff)</field>
     <field name="unittitle_teim">Close up of (Jeff)</field>
@@ -29,10 +29,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 10, Media: ID: 342.0050</field>
-    <field name="location_ssm">Media: ID: 342.0050</field>
-    <field name="location_si">Media: ID: 342.0050</field>
+    <field name="location_si">Box: 10, Media: ID: 342.0050</field>
     <field name="collection_teim">Patty Mucha Papers</field>
-    <field name="collection_unitid_teim">MSS.342/repositories/3/resources/1843</field>
+    <field name="collection_unitid_teim">MSS.342</field>
     <field name="series_sim">Series IV: Media</field>
     <field name="series_si">Series IV: Media &gt;&gt; Close up of (Jeff)</field>
     <field name="heading_ssm">Close up of (Jeff)</field>

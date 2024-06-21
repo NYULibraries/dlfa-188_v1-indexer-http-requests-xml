@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Elizabeth Robins Papers</field>
     <field name="collection_ssm">Elizabeth Robins Papers</field>
-    <field name="collection_unitid_ssm">MSS.002/repositories/3/resources/1587</field>
+    <field name="collection_unitid_ssm">MSS.002</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Lisbon notes</field>
     <field name="unittitle_teim">Lisbon notes</field>
@@ -27,10 +27,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 200, Folder: 18</field>
-    <field name="location_ssm">Folder: 18</field>
-    <field name="location_si">Folder: 18</field>
+    <field name="location_si">Box: 200, Folder: 18</field>
     <field name="collection_teim">Elizabeth Robins Papers</field>
-    <field name="collection_unitid_teim">MSS.002/repositories/3/resources/1587</field>
+    <field name="collection_unitid_teim">MSS.002</field>
     <field name="series_sim">Series VII: Literary Productions</field>
     <field name="series_sim">Sources for Literary Productions</field>
     <field name="series_si">Series VII: Literary Productions &gt;&gt; Sources for Literary Productions &gt;&gt; Lisbon notes</field>

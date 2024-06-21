@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Robert Blanchon Papers and Collection</field>
     <field name="collection_ssm">Robert Blanchon Papers and Collection</field>
-    <field name="collection_unitid_ssm">MSS.220/repositories/3/resources/1761</field>
+    <field name="collection_unitid_ssm">MSS.220</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Transparencies </field>
     <field name="unittitle_teim">Transparencies </field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 3, Folder: 14</field>
-    <field name="location_ssm">Folder: 14</field>
-    <field name="location_si">Folder: 14</field>
+    <field name="location_si">Box: 3, Folder: 14</field>
     <field name="collection_teim">Robert Blanchon Papers and Collection</field>
-    <field name="collection_unitid_teim">MSS.220/repositories/3/resources/1761</field>
+    <field name="collection_unitid_teim">MSS.220</field>
     <field name="series_sim">Series IV: Photography</field>
     <field name="series_si">Series IV: Photography &gt;&gt; Transparencies </field>
     <field name="heading_ssm">Transparencies </field>

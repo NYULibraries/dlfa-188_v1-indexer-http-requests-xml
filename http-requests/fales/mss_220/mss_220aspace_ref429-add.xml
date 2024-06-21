@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Robert Blanchon Papers and Collection</field>
     <field name="collection_ssm">Robert Blanchon Papers and Collection</field>
-    <field name="collection_unitid_ssm">MSS.220/repositories/3/resources/1761</field>
+    <field name="collection_unitid_ssm">MSS.220</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Visual Materials</field>
     <field name="unittitle_teim">Visual Materials</field>
@@ -27,10 +27,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 16, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
-    <field name="location_si">Folder: 3</field>
+    <field name="location_si">Box: 16, Folder: 3</field>
     <field name="collection_teim">Robert Blanchon Papers and Collection</field>
-    <field name="collection_unitid_teim">MSS.220/repositories/3/resources/1761</field>
+    <field name="collection_unitid_teim">MSS.220</field>
     <field name="series_sim">Series I: Art Production</field>
     <field name="series_sim">Subseries C: Source Materials</field>
     <field name="series_si">Series I: Art Production &gt;&gt; Subseries C: Source Materials &gt;&gt; Visual Materials</field>

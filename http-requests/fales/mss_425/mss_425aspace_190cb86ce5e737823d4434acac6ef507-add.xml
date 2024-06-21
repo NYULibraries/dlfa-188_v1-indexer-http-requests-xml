@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Kembra Pfahler Papers</field>
     <field name="collection_ssm">Kembra Pfahler Papers</field>
-    <field name="collection_unitid_ssm">MSS.425/repositories/3/resources/2560</field>
+    <field name="collection_unitid_ssm">MSS.425</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Artwork Images</field>
     <field name="unittitle_teim">Artwork Images</field>
@@ -28,12 +28,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 17, Folder: 3</field>
-    <field name="location_ssm">Folder: 3</field>
     <field name="location_ssm">Box: 20, Folder: 9</field>
-    <field name="location_ssm">Folder: 9</field>
-    <field name="location_si">Folder: 9</field>
+    <field name="location_si">Box: 20, Folder: 9</field>
     <field name="collection_teim">Kembra Pfahler Papers</field>
-    <field name="collection_unitid_teim">MSS.425/repositories/3/resources/2560</field>
+    <field name="collection_unitid_teim">MSS.425</field>
     <field name="series_sim">Series II. Personal and Project Files</field>
     <field name="series_si">Series II. Personal and Project Files &gt;&gt; Artwork Images</field>
     <field name="heading_ssm">Artwork Images</field>

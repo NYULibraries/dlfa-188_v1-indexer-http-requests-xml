@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Fales Manuscript Collection</field>
     <field name="collection_ssm">Fales Manuscript Collection</field>
-    <field name="collection_unitid_ssm">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_ssm">MSS.001</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Ticknor, Anna Eliot (1800-1885) : 2 A.L.s. to Hart, Charles Henry (1847-1918) [February 23, 1876; March 2, 1876]</field>
     <field name="unittitle_teim">Ticknor, Anna Eliot (1800-1885) : 2 A.L.s. to Hart, Charles Henry (1847-1918) [February 23, 1876; March 2, 1876]</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 180.3, Folder: 8c</field>
-    <field name="location_ssm">Folder: 8c</field>
-    <field name="location_si">Folder: 8c</field>
+    <field name="location_si">Box: 180.3, Folder: 8c</field>
     <field name="collection_teim">Fales Manuscript Collection</field>
-    <field name="collection_unitid_teim">MSS.001/repositories/3/resources/1586</field>
+    <field name="collection_unitid_teim">MSS.001</field>
     <field name="series_sim">Letter sized boxes</field>
     <field name="series_si">Letter sized boxes &gt;&gt; Ticknor, Anna Eliot (1800-1885) : 2 A.L.s. to Hart, Charles Henry (1847-1918) [February 23, 1876; March 2, 1876]</field>
     <field name="heading_ssm">Ticknor, Anna Eliot (1800-1885) : 2 A.L.s. to Hart, Charles Henry (1847-1918) [February 23, 1876; March 2, 1876]</field>

@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">James Beard Papers</field>
     <field name="collection_ssm">James Beard Papers</field>
-    <field name="collection_unitid_ssm">MSS.263/repositories/3/resources/1791</field>
+    <field name="collection_unitid_ssm">MSS.263</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Cooking with James Beard: Rice"</field>
     <field name="unittitle_teim">"Cooking with James Beard: Rice"</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 10, Folder: 37</field>
-    <field name="location_ssm">Folder: 37</field>
-    <field name="location_si">Folder: 37</field>
+    <field name="location_si">Box: 10, Folder: 37</field>
     <field name="collection_teim">James Beard Papers</field>
-    <field name="collection_unitid_teim">MSS.263/repositories/3/resources/1791</field>
+    <field name="collection_unitid_teim">MSS.263</field>
     <field name="series_sim">Series III: Recurring Television Shows and Columns</field>
     <field name="series_sim">Subseries D: Gourmet Magazine</field>
     <field name="series_si">Series III: Recurring Television Shows and Columns &gt;&gt; Subseries D: Gourmet Magazine &gt;&gt; "Cooking with James Beard: Rice"</field>

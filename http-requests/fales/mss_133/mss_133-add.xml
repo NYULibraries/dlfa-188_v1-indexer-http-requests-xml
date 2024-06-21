@@ -6,11 +6,14 @@
     <field name="unittitle_teim">Mabou Mines Archive</field>
     <field name="unittitle_ssm">Mabou Mines Archive</field>
     <field name="unitid_teim">MSS.133</field>
-    <field name="unitid_teim">/repositories/3/resources/1696</field>
     <field name="unitid_ssm">MSS.133</field>
-    <field name="unitid_ssm">/repositories/3/resources/1696</field>
     <field name="abstract_teim">Beginning in 1970 Mabou Mines helped revolutionize experimental theatre in the United States and contributed to an international movement in avant-garde, postmodern theatre. The Mabou Mines create multi-media performances utilizing both existing texts and building performances utilizing a pastiche style that draws on a variety of sources. The materials in the collection document this creative process and the administrative functions necessary to maintain and promote the company.</field>
     <field name="abstract_ssm">Beginning in 1970 Mabou Mines helped revolutionize experimental theatre in the United States and contributed to an international movement in avant-garde, postmodern theatre. The Mabou Mines create multi-media performances utilizing both existing texts and building performances utilizing a pastiche style that draws on a variety of sources. The materials in the collection document this creative process and the administrative functions necessary to maintain and promote the company.</field>
+    <field name="creator_teim">Mabou Mines (Theater group)</field>
+    <field name="creator_ssm">Mabou Mines (Theater group)</field>
+    <field name="creator_ssm">Mabou Mines (Theater group)</field>
+    <field name="creator_ssm">Hartinian, Linda</field>
+    <field name="creator_ssm">Wija, I Wayan</field>
     <field name="unitdate_normal_ssm">1966/2000</field>
     <field name="unitdate_normal_ssm">1970/1995</field>
     <field name="unitdate_normal_teim">1966/2000</field>
@@ -297,6 +300,9 @@ Chronology of Productions:
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Mabou Mines (Theater group)</field>
+    <field name="creator_sim">Hartinian, Linda</field>
+    <field name="creator_sim">Wija, I Wayan</field>
     <field name="name_sim">Mabou Mines (Theater group)</field>
     <field name="name_sim">Brooklyn Academy of Music</field>
     <field name="name_sim">Boston Musica Viva</field>

@@ -6,11 +6,12 @@
     <field name="unittitle_teim">Elizabeth Robins Papers</field>
     <field name="unittitle_ssm">Elizabeth Robins Papers</field>
     <field name="unitid_teim">MSS.002</field>
-    <field name="unitid_teim">/repositories/3/resources/1587</field>
     <field name="unitid_ssm">MSS.002</field>
-    <field name="unitid_ssm">/repositories/3/resources/1587</field>
     <field name="abstract_teim">Elizabeth Robins (1862-1952) was an actress, playwright, prolific novelist and suffragist. American born and educated, Robins spent most of her adult life living and working in England, first in London and later in London and Sussex. The nearly one hundred linear feet of materials which comprise the Elizabeth Robins Papers reflect the many facets of Robins' life. The collection includes diaries, photographs, scrapbooks and ephemera, as well as correspondence with a variety of dynamic personalities, and is a resource not only for studying her life and works, but for examining a wide range of family, social, and political issues. The collection provides insight into American and English theater in the late 19th century, English literary circles, and the women's suffrage and feminist movements in England and America, as well as information on gold mining camps in post Civil War Colorado and turn of the century Alaska. Largely because of her long term friendship with Dr. Octavia Wilberforce, there is information on the movement for improved health care for women and children. The correspondence of Raymond Robins, Elizabeth Robins' brother, adds another dimension to the collection. His letters are an excellent source for the study of Chicago political history, the Settlement House Movement, and Progressive Party politics.</field>
     <field name="abstract_ssm">Elizabeth Robins (1862-1952) was an actress, playwright, prolific novelist and suffragist. American born and educated, Robins spent most of her adult life living and working in England, first in London and later in London and Sussex. The nearly one hundred linear feet of materials which comprise the Elizabeth Robins Papers reflect the many facets of Robins' life. The collection includes diaries, photographs, scrapbooks and ephemera, as well as correspondence with a variety of dynamic personalities, and is a resource not only for studying her life and works, but for examining a wide range of family, social, and political issues. The collection provides insight into American and English theater in the late 19th century, English literary circles, and the women's suffrage and feminist movements in England and America, as well as information on gold mining camps in post Civil War Colorado and turn of the century Alaska. Largely because of her long term friendship with Dr. Octavia Wilberforce, there is information on the movement for improved health care for women and children. The correspondence of Raymond Robins, Elizabeth Robins' brother, adds another dimension to the collection. His letters are an excellent source for the study of Chicago political history, the Settlement House Movement, and Progressive Party politics.</field>
+    <field name="creator_teim">Robins, Elizabeth, 1862-1952</field>
+    <field name="creator_ssm">Robins, Elizabeth, 1862-1952</field>
+    <field name="creator_ssm">Robins, Elizabeth, 1862-1952</field>
     <field name="unitdate_normal_ssm">1803/1963</field>
     <field name="unitdate_normal_teim">1803/1963</field>
     <field name="unitdate_normal_sim">1803/1963</field>
@@ -384,6 +385,7 @@
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Robins, Elizabeth, 1862-1952</field>
     <field name="name_sim">James O'Neill Company</field>
     <field name="name_sim">National Women's Trade Union League of America</field>
     <field name="name_sim">Little Annie Gold Mining Company (Colorado)</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Parasite Archive</field>
     <field name="collection_ssm">Parasite Archive</field>
-    <field name="collection_unitid_ssm">MSS.333/repositories/3/resources/1836</field>
+    <field name="collection_unitid_ssm">MSS.333</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">The Times Square Summer Art Spectacular - Media Alert</field>
     <field name="unittitle_teim">The Times Square Summer Art Spectacular - Media Alert</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 4, Folder: 77</field>
-    <field name="location_ssm">Folder: 77</field>
-    <field name="location_si">Folder: 77</field>
+    <field name="location_si">Box: 4, Folder: 77</field>
     <field name="collection_teim">Parasite Archive</field>
-    <field name="collection_unitid_teim">MSS.333/repositories/3/resources/1836</field>
+    <field name="collection_unitid_teim">MSS.333</field>
     <field name="series_sim">Series II: Services: A Working-Group Exhibition</field>
     <field name="series_si">Series II: Services: A Working-Group Exhibition &gt;&gt; The Times Square Summer Art Spectacular - Media Alert</field>
     <field name="heading_ssm">The Times Square Summer Art Spectacular - Media Alert</field>

@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Collective: Unconscious Archive</field>
     <field name="collection_ssm">Collective: Unconscious Archive</field>
-    <field name="collection_unitid_ssm">MSS.225/repositories/3/resources/1764</field>
+    <field name="collection_unitid_ssm">MSS.225</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">"Collective Backup"</field>
     <field name="unittitle_teim">"Collective Backup"</field>
@@ -27,10 +27,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 17, Media: ID: 225.3.0040</field>
-    <field name="location_ssm">Media: ID: 225.3.0040</field>
-    <field name="location_si">Media: ID: 225.3.0040</field>
+    <field name="location_si">Box: 17, Media: ID: 225.3.0040</field>
     <field name="collection_teim">Collective: Unconscious Archive</field>
-    <field name="collection_unitid_teim">MSS.225/repositories/3/resources/1764</field>
+    <field name="collection_unitid_teim">MSS.225</field>
     <field name="series_sim">Series VII: Computer Discs</field>
     <field name="series_si">Series VII: Computer Discs &gt;&gt; "Collective Backup"</field>
     <field name="heading_ssm">"Collective Backup"</field>

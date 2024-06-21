@@ -6,9 +6,10 @@
     <field name="unittitle_teim">Sir William Jones Manuscripts</field>
     <field name="unittitle_ssm">Sir William Jones Manuscripts</field>
     <field name="unitid_teim">MSS.301</field>
-    <field name="unitid_teim">/repositories/3/resources/1815</field>
     <field name="unitid_ssm">MSS.301</field>
-    <field name="unitid_ssm">/repositories/3/resources/1815</field>
+    <field name="creator_teim">Jones, William, Sir, 1746-1794</field>
+    <field name="creator_ssm">Jones, William, Sir, 1746-1794</field>
+    <field name="creator_ssm">Jones, William, Sir, 1746-1794</field>
     <field name="unitdate_normal_ssm">1100/1794</field>
     <field name="unitdate_normal_teim">1100/1794</field>
     <field name="unitdate_normal_sim">1100/1794</field>
@@ -63,6 +64,7 @@ Cannon, Garland. The Collected Works of Sir William Jones, Vol., New York: NYU P
     <field name="format_sim">Archival Collection</field>
     <field name="format_ssm">Archival Collection</field>
     <field name="format_ii">0</field>
+    <field name="creator_sim">Jones, William, Sir, 1746-1794</field>
     <field name="name_sim">Jones, William, Sir, 1746-1794</field>
     <field name="name_teim">Jones, William, Sir, 1746-1794</field>
     <field name="subject_sim">Manuscripts, Bengali.</field>

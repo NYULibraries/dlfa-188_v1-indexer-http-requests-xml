@@ -7,7 +7,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Jim Neu Papers</field>
     <field name="collection_ssm">Jim Neu Papers</field>
-    <field name="collection_unitid_ssm">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_ssm">MSS.332</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Excerpts from Various Productions</field>
     <field name="unittitle_teim">Excerpts from Various Productions</field>
@@ -20,10 +20,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 7, Folder: 9</field>
-    <field name="location_ssm">Folder: 9</field>
-    <field name="location_si">Folder: 9</field>
+    <field name="location_si">Box: 7, Folder: 9</field>
     <field name="collection_teim">Jim Neu Papers</field>
-    <field name="collection_unitid_teim">MSS.332/repositories/3/resources/2601</field>
+    <field name="collection_unitid_teim">MSS.332</field>
     <field name="series_si">Excerpts from Various Productions</field>
     <field name="heading_ssm">Excerpts from Various Productions</field>
     <field name="date_range_sim">undated &amp; other</field>

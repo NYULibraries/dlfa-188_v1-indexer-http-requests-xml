@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Blackout Arts Collective Archive</field>
     <field name="collection_ssm">Blackout Arts Collective Archive</field>
-    <field name="collection_unitid_ssm">MSS.379/repositories/3/resources/1867</field>
+    <field name="collection_unitid_ssm">MSS.379</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Blackout</field>
     <field name="unittitle_teim">Blackout</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 15, Item: ID: 379.3.0001</field>
-    <field name="location_ssm">Item: ID: 379.3.0001</field>
-    <field name="location_si">Item: ID: 379.3.0001</field>
+    <field name="location_si">Box: 15, Item: ID: 379.3.0001</field>
     <field name="collection_teim">Blackout Arts Collective Archive</field>
-    <field name="collection_unitid_teim">MSS.379/repositories/3/resources/1867</field>
+    <field name="collection_unitid_teim">MSS.379</field>
     <field name="series_sim">Series VII: Data Storage</field>
     <field name="series_si">Series VII: Data Storage &gt;&gt; Blackout</field>
     <field name="heading_ssm">Blackout</field>

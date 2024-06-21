@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Tuli Kupferberg and Sylvia Topp Papers</field>
     <field name="collection_ssm">Tuli Kupferberg and Sylvia Topp Papers</field>
-    <field name="collection_unitid_ssm">MSS.385/repositories/3/resources/2406</field>
+    <field name="collection_unitid_ssm">MSS.385</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Theater of the Real -- Videos</field>
     <field name="unittitle_teim">Theater of the Real -- Videos</field>
@@ -46,13 +46,11 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 317, U-matic: 385_087, 385_088, 385_089, 385_090, 385_091, 385_092</field>
-    <field name="location_ssm">U-matic: 385_087, 385_088, 385_089, 385_090, 385_091, 385_092</field>
     <field name="location_ssm">Box: 316, U-matic: 385_093, 385_094</field>
-    <field name="location_ssm">U-matic: 385_093, 385_094</field>
-    <field name="location_si">U-matic: 385_093, 385_094</field>
+    <field name="location_si">Box: 316, U-matic: 385_093, 385_094</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Tuli Kupferberg and Sylvia Topp Papers</field>
-    <field name="collection_unitid_teim">MSS.385/repositories/3/resources/2406</field>
+    <field name="collection_unitid_teim">MSS.385</field>
     <field name="series_sim">Series IV. Projects</field>
     <field name="series_si">Series IV. Projects &gt;&gt; Theater of the Real -- Videos</field>
     <field name="heading_ssm">Theater of the Real -- Videos</field>

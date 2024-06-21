@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Parasite Archive</field>
     <field name="collection_ssm">Parasite Archive</field>
-    <field name="collection_unitid_ssm">MSS.333/repositories/3/resources/1836</field>
+    <field name="collection_unitid_ssm">MSS.333</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Botschaft / Berlin</field>
     <field name="unittitle_teim">Botschaft / Berlin</field>
@@ -25,10 +25,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
-    <field name="location_si">Folder: 6</field>
+    <field name="location_si">Box: 1, Folder: 6</field>
     <field name="collection_teim">Parasite Archive</field>
-    <field name="collection_unitid_teim">MSS.333/repositories/3/resources/1836</field>
+    <field name="collection_unitid_teim">MSS.333</field>
     <field name="series_sim">Series I: Parasite Document Collection</field>
     <field name="series_si">Series I: Parasite Document Collection &gt;&gt; Botschaft / Berlin</field>
     <field name="heading_ssm">Botschaft / Berlin</field>

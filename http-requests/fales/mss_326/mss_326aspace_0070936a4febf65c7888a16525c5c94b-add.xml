@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Robert Flaherty Film Seminar Archive</field>
     <field name="collection_ssm">Robert Flaherty Film Seminar Archive</field>
-    <field name="collection_unitid_ssm">MSS.326/repositories/3/resources/1832</field>
+    <field name="collection_unitid_ssm">MSS.326</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Public Television Seminar Reel 6</field>
     <field name="unittitle_teim">Public Television Seminar Reel 6</field>
@@ -31,10 +31,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 71, Quarter_Inch_Audio_Reel: cuid40963</field>
-    <field name="location_ssm">Quarter_Inch_Audio_Reel: cuid40963</field>
-    <field name="location_si">Quarter_Inch_Audio_Reel: cuid40963</field>
+    <field name="location_si">Box: 71, Quarter_Inch_Audio_Reel: cuid40963</field>
     <field name="collection_teim">Robert Flaherty Film Seminar Archive</field>
-    <field name="collection_unitid_teim">MSS.326/repositories/3/resources/1832</field>
+    <field name="collection_unitid_teim">MSS.326</field>
     <field name="series_sim">Series II: Public TV</field>
     <field name="series_si">Series II: Public TV &gt;&gt; Public Television Seminar Reel 6</field>
     <field name="heading_ssm">Public Television Seminar Reel 6</field>

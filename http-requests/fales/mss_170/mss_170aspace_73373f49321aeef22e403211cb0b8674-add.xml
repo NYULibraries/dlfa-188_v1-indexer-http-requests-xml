@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Mark Bloch Postal Art Network (PAN) Archive</field>
     <field name="collection_ssm">Mark Bloch Postal Art Network (PAN) Archive</field>
-    <field name="collection_unitid_ssm">MSS.170/repositories/3/resources/1728</field>
+    <field name="collection_unitid_ssm">MSS.170</field>
     <field name="level_sim">file</field>
     <field name="unittitle_ssm">Brazil</field>
     <field name="unittitle_teim">Brazil</field>
@@ -29,16 +29,13 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 2, Folder: 1</field>
-    <field name="location_ssm">Folder: 1</field>
     <field name="location_ssm">Box: 86, Folder: 2</field>
-    <field name="location_ssm">Folder: 2</field>
     <field name="location_ssm">Box: 88</field>
     <field name="location_ssm">Box: 95, Folder: 2</field>
     <field name="location_ssm">Box: 102, Folder: 4</field>
-    <field name="location_ssm">Folder: 4</field>
-    <field name="location_si">Folder: 4</field>
+    <field name="location_si">Box: 102, Folder: 4</field>
     <field name="collection_teim">Mark Bloch Postal Art Network (PAN) Archive</field>
-    <field name="collection_unitid_teim">MSS.170/repositories/3/resources/1728</field>
+    <field name="collection_unitid_teim">MSS.170</field>
     <field name="series_sim">Series I: Mail Art and Correspondence</field>
     <field name="series_si">Series I: Mail Art and Correspondence &gt;&gt; Brazil</field>
     <field name="heading_ssm">Brazil</field>

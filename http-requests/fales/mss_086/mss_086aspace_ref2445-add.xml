@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Serpent's Tail/High Risk Archive</field>
     <field name="collection_ssm">Serpent's Tail/High Risk Archive</field>
-    <field name="collection_unitid_ssm">MSS.086/repositories/3/resources/1656</field>
+    <field name="collection_unitid_ssm">MSS.086</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Cover flats</field>
     <field name="unittitle_teim">Cover flats</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 1F, Folder: 8a</field>
-    <field name="location_ssm">Folder: 8a</field>
-    <field name="location_si">Folder: 8a</field>
+    <field name="location_si">Box: 1F, Folder: 8a</field>
     <field name="collection_teim">Serpent's Tail/High Risk Archive</field>
-    <field name="collection_unitid_teim">MSS.086/repositories/3/resources/1656</field>
+    <field name="collection_unitid_teim">MSS.086</field>
     <field name="series_sim">Flat box-Series V: : Publicity, photographs and sales catalogs</field>
     <field name="series_sim">Subseries A: Publicity and promotion</field>
     <field name="series_si">Flat box-Series V: : Publicity, photographs and sales catalogs &gt;&gt; Subseries A: Publicity and promotion &gt;&gt; Cover flats</field>

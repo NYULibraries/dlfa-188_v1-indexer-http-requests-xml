@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Sylvester Manor Archive</field>
     <field name="collection_ssm">Sylvester Manor Archive</field>
-    <field name="collection_unitid_ssm">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_ssm">MSS.208</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Freeman Palmer, Alice Elvira: Wellesley, MA</field>
     <field name="unittitle_teim">Freeman Palmer, Alice Elvira: Wellesley, MA</field>
@@ -42,11 +42,10 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 101, Folder: 6</field>
-    <field name="location_ssm">Folder: 6</field>
-    <field name="location_si">Folder: 6</field>
+    <field name="location_si">Box: 101, Folder: 6</field>
     <field name="dao_sim">Online Access</field>
     <field name="collection_teim">Sylvester Manor Archive</field>
-    <field name="collection_unitid_teim">MSS.208/repositories/3/resources/1752</field>
+    <field name="collection_unitid_teim">MSS.208</field>
     <field name="series_sim">Record Group IV: Horsford Family</field>
     <field name="series_sim">Series G: Mary Gardiner Horsford Curtis (Mamie)</field>
     <field name="series_si">Record Group IV: Horsford Family &gt;&gt; Series G: Mary Gardiner Horsford Curtis (Mamie) &gt;&gt; Freeman Palmer, Alice Elvira: Wellesley, MA</field>

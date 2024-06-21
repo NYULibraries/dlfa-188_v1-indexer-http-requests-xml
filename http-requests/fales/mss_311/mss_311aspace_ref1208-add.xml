@@ -14,7 +14,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Nick Zedd Papers</field>
     <field name="collection_ssm">Nick Zedd Papers</field>
-    <field name="collection_unitid_ssm">MSS.311/repositories/3/resources/1822</field>
+    <field name="collection_unitid_ssm">MSS.311</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">"Consume and Die: Generation Z" by Nick Zedd / Zyklon Beatles</field>
     <field name="unittitle_teim">"Consume and Die: Generation Z" by Nick Zedd / Zyklon Beatles</field>
@@ -28,10 +28,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 31, Folder: 9</field>
-    <field name="location_ssm">Folder: 9</field>
-    <field name="location_si">Folder: 9</field>
+    <field name="location_si">Box: 31, Folder: 9</field>
     <field name="collection_teim">Nick Zedd Papers</field>
-    <field name="collection_unitid_teim">MSS.311/repositories/3/resources/1822</field>
+    <field name="collection_unitid_teim">MSS.311</field>
     <field name="series_sim">Series X: Audio</field>
     <field name="series_sim">Subseries D: Vinyl</field>
     <field name="series_si">Series X: Audio &gt;&gt; Subseries D: Vinyl &gt;&gt; "Consume and Die: Generation Z" by Nick Zedd / Zyklon Beatles</field>

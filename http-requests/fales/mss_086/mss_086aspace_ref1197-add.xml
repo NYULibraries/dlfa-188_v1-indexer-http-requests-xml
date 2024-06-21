@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Serpent's Tail/High Risk Archive</field>
     <field name="collection_ssm">Serpent's Tail/High Risk Archive</field>
-    <field name="collection_unitid_ssm">MSS.086/repositories/3/resources/1656</field>
+    <field name="collection_unitid_ssm">MSS.086</field>
     <field name="level_sim">otherlevel</field>
     <field name="unittitle_ssm">Events--Cortez</field>
     <field name="unittitle_teim">Events--Cortez</field>
@@ -27,10 +27,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: II.3, Folder: 67</field>
-    <field name="location_ssm">Folder: 67</field>
-    <field name="location_si">Folder: 67</field>
+    <field name="location_si">Box: II.3, Folder: 67</field>
     <field name="collection_teim">Serpent's Tail/High Risk Archive</field>
-    <field name="collection_unitid_teim">MSS.086/repositories/3/resources/1656</field>
+    <field name="collection_unitid_teim">MSS.086</field>
     <field name="series_sim">Series II: Business and administrative files</field>
     <field name="series_si">Series II: Business and administrative files &gt;&gt; Events--Cortez</field>
     <field name="heading_ssm">Events--Cortez</field>

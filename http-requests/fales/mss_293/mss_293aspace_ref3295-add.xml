@@ -11,7 +11,7 @@
     <field name="component_children_bsi">false</field>
     <field name="collection_sim">Larry Rivers Papers</field>
     <field name="collection_ssm">Larry Rivers Papers</field>
-    <field name="collection_unitid_ssm">MSS.293/repositories/3/resources/1810</field>
+    <field name="collection_unitid_ssm">MSS.293</field>
     <field name="level_sim">item</field>
     <field name="unittitle_ssm">Thanksgiving </field>
     <field name="unittitle_teim">Thanksgiving </field>
@@ -32,10 +32,9 @@
     <field name="format_sim">Archival Object</field>
     <field name="format_ssm">Archival Object</field>
     <field name="location_ssm">Box: 156, Media: ID: 293.1248</field>
-    <field name="location_ssm">Media: ID: 293.1248</field>
-    <field name="location_si">Media: ID: 293.1248</field>
+    <field name="location_si">Box: 156, Media: ID: 293.1248</field>
     <field name="collection_teim">Larry Rivers Papers</field>
-    <field name="collection_unitid_teim">MSS.293/repositories/3/resources/1810</field>
+    <field name="collection_unitid_teim">MSS.293</field>
     <field name="series_sim">Series XIV: Sound recordings</field>
     <field name="series_si">Series XIV: Sound recordings &gt;&gt; Thanksgiving </field>
     <field name="heading_ssm">Thanksgiving </field>
