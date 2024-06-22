@@ -25,7 +25,7 @@ done
 
 ## [dlfa-188\_v1-indexer-http-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/) commit
 
-[dlfa-188\_v1-indexer-http-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/) commit used: [f4ef0e201f8514f5461f4e973f97477da8d0fbfc](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/commit/f4ef0e201f8514f5461f4e973f97477da8d0fbfc)
+[dlfa-188\_v1-indexer-http-requests](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/) commit used: [206386a464e2b1280021571cbd4e73218990c26c](https://github.com/NYULibraries/dlfa-188_v1-indexer-http-requests/commit/206386a464e2b1280021571cbd4e73218990c26c)
 
 ## How _index.txt_ was created
 
